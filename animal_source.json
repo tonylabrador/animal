@@ -15018,5 +15018,2507 @@
       ]
     },
     "image": "/images/animals/capybara.jpg"
+  },
+  {
+    "id": "tiger",
+    "name_zh": "老虎",
+    "name_en": "Tiger",
+    "scientific_name": "Panthera tigris",
+    "ui_tags": [
+      "Mammal",
+      "Forest",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Felidae",
+        "zh": "猫科"
+      },
+      "genus": {
+        "en": "Panthera",
+        "zh": "豹属"
+      }
+    },
+    "conservation_status": {
+      "code": "EN",
+      "en": "Endangered",
+      "zh": "濒危"
+    },
+    "description": {
+      "en": "The largest living cat species, easily recognized by its dark vertical stripes on reddish-orange fur.",
+      "zh": "体型最大的现存猫科动物，以红橙色毛皮上的深色垂直条纹而闻名。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "The tiger is the biggest cat in the world, weighing up to 300 kilograms! They have beautiful orange fur with dark black stripes, and just like human fingerprints, no two tigers have the exact same stripe pattern.",
+        "zh": "老虎是世界上最大的猫科动物，体重可达300公斤！它们拥有美丽的橙色毛皮和深黑色的条纹，就像人类的指纹一样，没有两只老虎的条纹是完全相同的。"
+      },
+      "ecology_and_behavior": {
+        "en": "Tigers are excellent swimmers and love to cool off in rivers and lakes. They hunt alone, mostly at night, using their stealth and powerful bodies to catch large prey like deer and wild boars.",
+        "zh": "老虎是游泳健将，喜欢在河流和湖泊中乘凉。它们通常在夜间独自狩猎，利用出色的隐蔽能力和强壮的身体来捕捉鹿和野猪等大型猎物。"
+      },
+      "habitat_and_distribution": {
+        "en": "Tigers live in scattered forests and grasslands across Asia, from the freezing snowy forests of Russia to the hot tropical jungles of India and Indonesia. Sadly, they are very endangered because of habitat loss.",
+        "zh": "老虎生活在亚洲各地零星的森林和草原中，从俄罗斯寒冷的雪林到印度和印度尼西亚炎热的热带丛林。遗憾的是，由于栖息地丧失，它们非常濒危。"
+      }
+    },
+    "habitat": {
+      "text_en": "Asian forests and grasslands",
+      "text_zh": "亚洲森林与草原",
+      "map_coordinates": [
+        23,
+        80
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            28,
+            75
+          ],
+          [
+            28.5,
+            80
+          ],
+          [
+            25,
+            85
+          ],
+          [
+            20,
+            85
+          ],
+          [
+            15,
+            80
+          ],
+          [
+            15,
+            75
+          ],
+          [
+            20,
+            75
+          ],
+          [
+            25,
+            75
+          ],
+          [
+            28,
+            75
+          ]
+        ],
+        [
+          [
+            20,
+            95
+          ],
+          [
+            20,
+            105
+          ],
+          [
+            15,
+            105
+          ],
+          [
+            10,
+            100
+          ],
+          [
+            5,
+            100
+          ],
+          [
+            5,
+            105
+          ],
+          [
+            -5,
+            105
+          ],
+          [
+            -5,
+            100
+          ],
+          [
+            10,
+            95
+          ],
+          [
+            20,
+            95
+          ]
+        ],
+        [
+          [
+            45,
+            135
+          ],
+          [
+            50,
+            135
+          ],
+          [
+            50,
+            140
+          ],
+          [
+            45,
+            140
+          ],
+          [
+            45,
+            135
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/tiger.jpg"
+  },
+  {
+    "id": "jaguar",
+    "name_zh": "美洲豹",
+    "name_en": "Jaguar",
+    "scientific_name": "Panthera onca",
+    "ui_tags": [
+      "Mammal",
+      "Rainforest",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Felidae",
+        "zh": "猫科"
+      },
+      "genus": {
+        "en": "Panthera",
+        "zh": "豹属"
+      }
+    },
+    "conservation_status": {
+      "code": "NT",
+      "en": "Near Threatened",
+      "zh": "近危"
+    },
+    "description": {
+      "en": "The largest cat in the Americas, known for its beautiful spotted coat and love of swimming.",
+      "zh": "美洲最大的猫科动物，以其美丽的斑点外衣和热爱游泳而闻名。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Jaguars are stocky, powerful cats with gorgeous golden fur covered in black spots called rosettes. Each rosette has a smaller black spot inside it, which helps tell them apart from leopards!",
+        "zh": "美洲豹是粗壮有力的猫科动物，金色的毛皮上布满了被称为玫瑰斑的黑色斑点。每个玫瑰斑里面还有一个更小的黑点，这能帮我们把它们和花豹区分开来！"
+      },
+      "ecology_and_behavior": {
+        "en": "Unlike most cats, jaguars absolutely love water! They are amazing swimmers and will even dive into rivers to hunt for fish, turtles, and even large crocodiles using their incredibly strong jaws.",
+        "zh": "和大多数猫科动物不同，美洲豹绝对热爱水！它们是游泳高手，甚至会潜入河中，用极其强健的下颚捕食鱼类、海龟，甚至大型鳄鱼。"
+      },
+      "habitat_and_distribution": {
+        "en": "They rule the dense, wet tropical rainforests and swamps of Central and South America. The vast Amazon Rainforest is their main home, where they are the top predators.",
+        "zh": "它们统治着中美洲和南美洲茂密潮湿的热带雨林和沼泽。广阔的亚马逊雨林是它们的主要家园，在那里它们是顶级捕食者。"
+      }
+    },
+    "habitat": {
+      "text_en": "Tropical rainforests of the Americas",
+      "text_zh": "美洲热带雨林",
+      "map_coordinates": [
+        -3,
+        -60
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            25,
+            -105
+          ],
+          [
+            20,
+            -95
+          ],
+          [
+            15,
+            -90
+          ],
+          [
+            10,
+            -80
+          ],
+          [
+            10,
+            -70
+          ],
+          [
+            5,
+            -55
+          ],
+          [
+            -10,
+            -40
+          ],
+          [
+            -25,
+            -45
+          ],
+          [
+            -30,
+            -60
+          ],
+          [
+            -20,
+            -65
+          ],
+          [
+            -10,
+            -75
+          ],
+          [
+            0,
+            -80
+          ],
+          [
+            15,
+            -95
+          ],
+          [
+            25,
+            -110
+          ],
+          [
+            25,
+            -105
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/jaguar.jpg"
+  },
+  {
+    "id": "leopard",
+    "name_zh": "豹",
+    "name_en": "Leopard",
+    "scientific_name": "Panthera pardus",
+    "ui_tags": [
+      "Mammal",
+      "Savanna",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Felidae",
+        "zh": "猫科"
+      },
+      "genus": {
+        "en": "Panthera",
+        "zh": "豹属"
+      }
+    },
+    "conservation_status": {
+      "code": "VU",
+      "en": "Vulnerable",
+      "zh": "易危"
+    },
+    "description": {
+      "en": "A highly adaptable and stealthy big cat famous for its spotted coat and tree-climbing skills.",
+      "zh": "一种适应性极强且隐秘的大型猫科动物，以斑点外衣和爬树技巧而闻名。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Leopards are sleek and fast big cats with golden fur covered in dark, flower-shaped spots. Some leopards are born with completely black fur and are often called 'black panthers', but they still have hidden spots!",
+        "zh": "豹子是流畅敏捷的大型猫科动物，金色的毛皮上长满深色的花朵状斑点。有些豹子出生时毛发全黑，常被称为「黑豹」，但它们身上其实隐藏着斑点！"
+      },
+      "ecology_and_behavior": {
+        "en": "They are the ultimate tree-climbing champions of the cat world. A leopard is so strong that it can carry a heavy meal up high into the branches of a tree to keep it safe from hungry lions and hyenas.",
+        "zh": "它们是猫科动物中终极的爬树冠军。豹子非常强壮，能把沉重的猎物拖到高高的树枝上，以防被饥饿的狮子和鬣狗抢走。"
+      },
+      "habitat_and_distribution": {
+        "en": "Leopards are very adaptable and live in more places than any other wild cat. You can find them in African savannas, dry deserts, and even snowy mountains and forests in Asia.",
+        "zh": "豹子的适应力很强，比其他任何野生猫科动物生活的地方都多。你可以在非洲的稀树草原、干旱的沙漠，甚至亚洲的雪山和森林中找到它们。"
+      }
+    },
+    "habitat": {
+      "text_en": "African and Asian diverse habitats",
+      "text_zh": "非洲和亚洲的多种栖息地",
+      "map_coordinates": [
+        1,
+        20
+      ],
+      "map_zoom_level": 3,
+      "global_distribution_polygons": [
+        [
+          [
+            15,
+            -15
+          ],
+          [
+            15,
+            35
+          ],
+          [
+            10,
+            45
+          ],
+          [
+            -10,
+            40
+          ],
+          [
+            -30,
+            30
+          ],
+          [
+            -30,
+            15
+          ],
+          [
+            -20,
+            10
+          ],
+          [
+            0,
+            10
+          ],
+          [
+            5,
+            -10
+          ],
+          [
+            15,
+            -15
+          ]
+        ],
+        [
+          [
+            35,
+            50
+          ],
+          [
+            35,
+            60
+          ],
+          [
+            25,
+            60
+          ],
+          [
+            25,
+            50
+          ],
+          [
+            35,
+            50
+          ]
+        ],
+        [
+          [
+            30,
+            75
+          ],
+          [
+            30,
+            85
+          ],
+          [
+            10,
+            80
+          ],
+          [
+            10,
+            75
+          ],
+          [
+            30,
+            75
+          ]
+        ],
+        [
+          [
+            25,
+            95
+          ],
+          [
+            25,
+            105
+          ],
+          [
+            5,
+            105
+          ],
+          [
+            5,
+            95
+          ],
+          [
+            25,
+            95
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/leopard.jpg"
+  },
+  {
+    "id": "snow-leopard",
+    "name_zh": "雪豹",
+    "name_en": "Snow Leopard",
+    "scientific_name": "Panthera uncia",
+    "ui_tags": [
+      "Mammal",
+      "Mountains",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Felidae",
+        "zh": "猫科"
+      },
+      "genus": {
+        "en": "Panthera",
+        "zh": "豹属"
+      }
+    },
+    "conservation_status": {
+      "code": "VU",
+      "en": "Vulnerable",
+      "zh": "易危"
+    },
+    "description": {
+      "en": "A beautiful, elusive big cat adapted to live in the freezing, high-altitude mountains of Central Asia.",
+      "zh": "一种美丽而难以捉摸的大型猫科动物，适应了中亚寒冷的高海拔山脉生活。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Snow leopards have thick, smoky-gray fur with dark spots to blend in with rocky mountains. They have huge, furry paws that act like natural snowshoes, and an incredibly long, fluffy tail they wrap around themselves like a scarf to stay warm!",
+        "zh": "雪豹拥有浓密的烟灰色毛皮和深色斑点，能与岩石山脉融为一体。它们有巨大的毛茸茸的爪子，就像天然的雪地靴，还有一条极长且蓬松的尾巴，可以像围巾一样裹住自己保暖！"
+      },
+      "ecology_and_behavior": {
+        "en": "Known as the 'ghosts of the mountains', they are very shy and rarely seen by humans. They can leap over 9 meters (30 feet) across freezing cliffs to catch wild sheep and goats.",
+        "zh": "它们被称为「雪山之鬼」，非常害羞，极少被人类看到。它们能在冰冷的悬崖间跳跃超过9米（30英尺）来捕捉野生绵羊和山羊。"
+      },
+      "habitat_and_distribution": {
+        "en": "These majestic cats live high up in the cold, snowy mountain ranges of Central and South Asia, including the famous Himalayas. They stay far above the tree line where the air is very thin.",
+        "zh": "这些雄伟的猫科动物生活在中亚和南亚寒冷的雪山之巅，包括著名的喜马拉雅山脉。它们停留在空气非常稀薄的树线之上。"
+      }
+    },
+    "habitat": {
+      "text_en": "High mountains of Central and South Asia",
+      "text_zh": "中南亚高山地区",
+      "map_coordinates": [
+        35,
+        80
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            45,
+            80
+          ],
+          [
+            45,
+            90
+          ],
+          [
+            40,
+            100
+          ],
+          [
+            30,
+            100
+          ],
+          [
+            28,
+            90
+          ],
+          [
+            28,
+            80
+          ],
+          [
+            32,
+            75
+          ],
+          [
+            40,
+            70
+          ],
+          [
+            45,
+            75
+          ],
+          [
+            45,
+            80
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/snow-leopard.jpg"
+  },
+  {
+    "id": "clouded-leopard",
+    "name_zh": "云豹",
+    "name_en": "Clouded Leopard",
+    "scientific_name": "Neofelis nebulosa",
+    "ui_tags": [
+      "Mammal",
+      "Forest",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Felidae",
+        "zh": "猫科"
+      },
+      "genus": {
+        "en": "Neofelis",
+        "zh": "云豹属"
+      }
+    },
+    "conservation_status": {
+      "code": "VU",
+      "en": "Vulnerable",
+      "zh": "易危"
+    },
+    "description": {
+      "en": "A secretive forest cat from Southeast Asia, sporting large cloud-like spots and the longest canine teeth relative to body size of any living feline.",
+      "zh": "一种来自东南亚的隐秘森林猫，拥有云朵般的大斑点，以及现存猫科动物中相对于体型最长的犬齿。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "The clouded leopard gets its name from the beautiful, large cloud-shaped spots on its fur. It is a medium-sized cat, but it has the longest teeth compared to its body size of any wild cat today—just like a mini saber-toothed tiger!",
+        "zh": "云豹因其皮毛上美丽的云状大斑点而得名。它是一种中型猫科动物，但拥有现存野生猫科动物中相对于体型最长的牙齿——就像一只迷你剑齿虎！"
+      },
+      "ecology_and_behavior": {
+        "en": "They are gymnasts of the jungle! Clouded leopards can hang upside down from branches by their large hind paws and even run headfirst down tree trunks like squirrels. They hunt birds, monkeys, and small deer.",
+        "zh": "它们是丛林里的体操运动员！云豹可以用巨大的后爪倒挂在树枝上，甚至像松鼠一样头朝下从树干上跑下来。它们捕食鸟类、猴子和小型鹿类。"
+      },
+      "habitat_and_distribution": {
+        "en": "These elusive cats hide deep in the tropical rainforests and lush mountains of Southeast Asia, including parts of China, India, and Malaysia. They spend most of their lives high up in the dense tree canopy.",
+        "zh": "这些难以捉摸的猫科动物隐藏在东南亚的热带雨林和郁郁葱葱的山脉深处，包括中国、印度和马来西亚的部分地区。它们一生中大部分时间都在茂密的树冠高处度过。"
+      }
+    },
+    "habitat": {
+      "text_en": "Tropical forests of Southeast Asia",
+      "text_zh": "东南亚热带森林",
+      "map_coordinates": [
+        20,
+        100
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            28,
+            85
+          ],
+          [
+            28,
+            95
+          ],
+          [
+            25,
+            105
+          ],
+          [
+            20,
+            105
+          ],
+          [
+            15,
+            105
+          ],
+          [
+            10,
+            100
+          ],
+          [
+            5,
+            100
+          ],
+          [
+            1,
+            105
+          ],
+          [
+            5,
+            95
+          ],
+          [
+            15,
+            95
+          ],
+          [
+            25,
+            90
+          ],
+          [
+            28,
+            85
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/clouded-leopard.jpg"
+  },
+  {
+    "id": "caracal",
+    "name_zh": "狞猫",
+    "name_en": "Caracal",
+    "scientific_name": "Caracal caracal",
+    "ui_tags": [
+      "Mammal",
+      "Desert",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Felidae",
+        "zh": "猫科"
+      },
+      "genus": {
+        "en": "Caracal",
+        "zh": "狞猫属"
+      }
+    },
+    "conservation_status": {
+      "code": "LC",
+      "en": "Least Concern",
+      "zh": "无危"
+    },
+    "description": {
+      "en": "A medium-sized wildcat known for its incredible jumping ability and striking black-tufted ears.",
+      "zh": "一种中型野猫，以惊人的跳跃能力和醒目的黑色簇毛耳朵而闻名。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "The caracal is a slender, sandy-colored cat with a very special feature: long, pointy ears topped with tall black tufts of hair! These ear tufts look like little antennas and help them hear the faintest sounds in the wild.",
+        "zh": "狞猫是一种纤细的沙色猫科动物，有一个非常特别的特征：尖尖的长耳朵顶端长着高高的黑色簇毛！这些耳簇看起来像小天线，帮助它们在野外听到最微弱的声音。"
+      },
+      "ecology_and_behavior": {
+        "en": "Caracals are high-jumping champions! They have super strong back legs that allow them to leap straight up into the air—up to 3 meters (10 feet) high—to snatch birds right out of the sky before they can fly away.",
+        "zh": "狞猫是跳高冠军！它们拥有超级强壮的后腿，能让它们笔直地跳到空中——高达3米（10英尺）——在鸟儿飞走之前一把将它们从空中抓下。"
+      },
+      "habitat_and_distribution": {
+        "en": "They love dry places and are found in the woodlands, savannas, and scrub deserts of Africa, the Middle East, and parts of India. Their sandy fur perfectly camouflages them in the dry grass.",
+        "zh": "它们喜欢干燥的地方，分布在非洲、中东和印度部分地区的林地、稀树草原和灌木沙漠中。它们沙色的皮毛能完美地隐蔽在干草中。"
+      }
+    },
+    "habitat": {
+      "text_en": "Dry savannas and woodlands of Africa and Asia",
+      "text_zh": "非洲和亚洲的干旱草原与林地",
+      "map_coordinates": [
+        10,
+        20
+      ],
+      "map_zoom_level": 3,
+      "global_distribution_polygons": [
+        [
+          [
+            15,
+            -15
+          ],
+          [
+            15,
+            35
+          ],
+          [
+            10,
+            45
+          ],
+          [
+            -30,
+            30
+          ],
+          [
+            -30,
+            15
+          ],
+          [
+            -20,
+            10
+          ],
+          [
+            0,
+            10
+          ],
+          [
+            5,
+            -10
+          ],
+          [
+            15,
+            -15
+          ]
+        ],
+        [
+          [
+            35,
+            35
+          ],
+          [
+            35,
+            45
+          ],
+          [
+            25,
+            60
+          ],
+          [
+            25,
+            50
+          ],
+          [
+            35,
+            35
+          ]
+        ],
+        [
+          [
+            28,
+            68
+          ],
+          [
+            28,
+            75
+          ],
+          [
+            20,
+            75
+          ],
+          [
+            20,
+            68
+          ],
+          [
+            28,
+            68
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/caracal.jpg"
+  },
+  {
+    "id": "serval",
+    "name_zh": "薮猫",
+    "name_en": "Serval",
+    "scientific_name": "Leptailurus serval",
+    "ui_tags": [
+      "Mammal",
+      "Grassland",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Felidae",
+        "zh": "猫科"
+      },
+      "genus": {
+        "en": "Leptailurus",
+        "zh": "薮猫属"
+      }
+    },
+    "conservation_status": {
+      "code": "LC",
+      "en": "Least Concern",
+      "zh": "无危"
+    },
+    "description": {
+      "en": "A slender, spotted African wildcat with the longest legs and largest ears relative to its body size.",
+      "zh": "一种身形修长、长满斑点的非洲野猫，拥有相对于体型最长的腿和最大的耳朵。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "The serval looks like a mini cheetah! It is a medium-sized cat with a beautiful golden coat covered in black spots. For its size, it has the longest legs and biggest ears of any cat in the world, making it look like a little supermodel.",
+        "zh": "薮猫看起来就像迷你猎豹！它是一种中型猫科动物，披着带有黑斑的美丽金色外衣。就其体型而言，它是世界上所有猫科动物中腿最长、耳朵最大的，看起来像个小超模。"
+      },
+      "ecology_and_behavior": {
+        "en": "Those huge ears act like radar dishes, allowing the serval to hear mice moving under the ground. When it finds a mouse, it leaps high into the air and pounces down on it with both front paws. They are incredibly successful hunters!",
+        "zh": "那些巨大的耳朵就像雷达天线，让薮猫能听到老鼠在地下移动的声音。当发现老鼠时，它会高高跃向空中，然后用两只前爪猛扑下去。它们是极其成功的猎手！"
+      },
+      "habitat_and_distribution": {
+        "en": "Servals live in the tall grasslands and wetlands of sub-Saharan Africa. They love areas near water where tall reeds and grass help hide them while they hunt for frogs, birds, and rodents.",
+        "zh": "薮猫生活在撒哈拉以南非洲的高草草原和湿地。它们喜欢靠近水的地方，那里高高的芦苇和草丛有助于它们在捕食青蛙、鸟类和啮齿动物时隐藏自己。"
+      }
+    },
+    "habitat": {
+      "text_en": "African savannas and wetlands",
+      "text_zh": "非洲稀树草原与湿地",
+      "map_coordinates": [
+        -10,
+        25
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            15,
+            -15
+          ],
+          [
+            15,
+            35
+          ],
+          [
+            10,
+            45
+          ],
+          [
+            -30,
+            30
+          ],
+          [
+            -30,
+            15
+          ],
+          [
+            -20,
+            10
+          ],
+          [
+            0,
+            10
+          ],
+          [
+            5,
+            -10
+          ],
+          [
+            15,
+            -15
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/serval.jpg"
+  },
+  {
+    "id": "ocelot",
+    "name_zh": "虎猫",
+    "name_en": "Ocelot",
+    "scientific_name": "Leopardus pardalis",
+    "ui_tags": [
+      "Mammal",
+      "Rainforest",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Felidae",
+        "zh": "猫科"
+      },
+      "genus": {
+        "en": "Leopardus",
+        "zh": "虎猫属"
+      }
+    },
+    "conservation_status": {
+      "code": "LC",
+      "en": "Least Concern",
+      "zh": "无危"
+    },
+    "description": {
+      "en": "A beautiful, medium-sized wildcat with striking leopard-like spots, found in the forests of the Americas.",
+      "zh": "一种美丽的中型野猫，身上带有醒目的类似豹子的斑点，分布在美洲的森林中。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "The ocelot is about twice the size of a normal pet cat. It is famous for its breathtaking fur, which is covered in chain-like dark spots and stripes. They have bright, large eyes that give them excellent night vision for hunting in the dark.",
+        "zh": "虎猫大约是普通宠物猫的两倍大。它以令人惊叹的皮毛而闻名，上面布满了链状的深色斑点和条纹。它们拥有明亮的大眼睛，在黑暗中狩猎时有着极好的夜视能力。"
+      },
+      "ecology_and_behavior": {
+        "en": "Ocelots are solitary, nocturnal hunters. They roam the forest floor looking for monkeys, birds, and iguanas, but they are also great swimmers and climbers. They use their raspy tongues to clean every bit of meat off their bones.",
+        "zh": "虎猫是独居的夜间猎手。它们在森林地面上漫游，寻找猴子、鸟类和鬣蜥，同时也是游泳和爬树好手。它们用粗糙的舌头把骨头上的每一丁点肉都舔得干干净净。"
+      },
+      "habitat_and_distribution": {
+        "en": "These spotted cats live in the leafy tropical rainforests, mangrove swamps, and savannas of Central and South America. A very small number of ocelots can also be found in the very southern part of Texas in the United States.",
+        "zh": "这些斑点猫生活在中南美洲枝繁叶茂的热带雨林、红树林沼泽和稀树草原中。极少数的虎猫也能在美国得克萨斯州最南部找到。"
+      }
+    },
+    "habitat": {
+      "text_en": "Tropical forests of the Americas",
+      "text_zh": "美洲热带森林",
+      "map_coordinates": [
+        -5,
+        -65
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            26,
+            -98
+          ],
+          [
+            20,
+            -95
+          ],
+          [
+            15,
+            -90
+          ],
+          [
+            10,
+            -80
+          ],
+          [
+            10,
+            -70
+          ],
+          [
+            5,
+            -55
+          ],
+          [
+            -10,
+            -40
+          ],
+          [
+            -25,
+            -45
+          ],
+          [
+            -30,
+            -60
+          ],
+          [
+            -20,
+            -65
+          ],
+          [
+            -10,
+            -75
+          ],
+          [
+            0,
+            -80
+          ],
+          [
+            15,
+            -95
+          ],
+          [
+            26,
+            -98
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/ocelot.jpg"
+  },
+  {
+    "id": "eurasian-lynx",
+    "name_zh": "欧亚猞猁",
+    "name_en": "Eurasian Lynx",
+    "scientific_name": "Lynx lynx",
+    "ui_tags": [
+      "Mammal",
+      "Forest",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Felidae",
+        "zh": "猫科"
+      },
+      "genus": {
+        "en": "Lynx",
+        "zh": "猞猁属"
+      }
+    },
+    "conservation_status": {
+      "code": "LC",
+      "en": "Least Concern",
+      "zh": "无危"
+    },
+    "description": {
+      "en": "The largest of the lynx species, equipped with long legs and large paws for hunting in deep snow.",
+      "zh": "体型最大的猞猁物种，配备长腿和巨大的爪子，能在深雪中狩猎。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "The Eurasian lynx is a powerful, medium-sized cat. It has a short 'bobbed' tail with a black tip, and long black tufts of hair on the tips of its ears. During winter, its fur grows very thick and its giant paws act like snowshoes to keep it from sinking into the snow.",
+        "zh": "欧亚猞猁是一种强壮的中型猫科动物。它有一条黑尖的短尾巴，耳尖上长着长长的黑色簇毛。在冬天，它的毛发变得非常厚实，巨大的爪子就像雪鞋一样，防止它陷入雪中。"
+      },
+      "ecology_and_behavior": {
+        "en": "This lynx is a very secretive hunter. It hides silently in the thick forest, waiting for the perfect moment to pounce on deer, wild boars, or hares. Despite their size, they are very quiet and use trees as observation posts to spot their next meal.",
+        "zh": "这种猞猁是非常隐秘的猎手。它静静地躲在茂密的森林里，等待完美的时机猛扑向鹿、野猪或野兔。尽管体型不小，它们却非常安静，会把树木当作观察哨来寻找下一顿大餐。"
+      },
+      "habitat_and_distribution": {
+        "en": "You can find the Eurasian lynx in the rugged, snowy forests of Northern Europe, Russia, and Central Asia. They prefer cold, mountainous regions where they can hide among the trees and rocks.",
+        "zh": "你可以在北欧、俄罗斯和中亚崎岖多雪的森林中找到欧亚猞猁。它们喜欢寒冷的山区，可以隐藏在树木和岩石之间。"
+      }
+    },
+    "habitat": {
+      "text_en": "Boreal and temperate forests of Eurasia",
+      "text_zh": "欧亚大陆的北方和温带森林",
+      "map_coordinates": [
+        60,
+        90
+      ],
+      "map_zoom_level": 3,
+      "global_distribution_polygons": [
+        [
+          [
+            65,
+            10
+          ],
+          [
+            70,
+            40
+          ],
+          [
+            70,
+            150
+          ],
+          [
+            60,
+            150
+          ],
+          [
+            55,
+            140
+          ],
+          [
+            45,
+            140
+          ],
+          [
+            45,
+            120
+          ],
+          [
+            35,
+            100
+          ],
+          [
+            45,
+            80
+          ],
+          [
+            55,
+            50
+          ],
+          [
+            55,
+            10
+          ],
+          [
+            65,
+            10
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/eurasian-lynx.jpg"
+  },
+  {
+    "id": "pallass-cat",
+    "name_zh": "兔狲",
+    "name_en": "Pallas's Cat",
+    "scientific_name": "Otocolobus manul",
+    "ui_tags": [
+      "Mammal",
+      "Mountains",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Felidae",
+        "zh": "猫科"
+      },
+      "genus": {
+        "en": "Otocolobus",
+        "zh": "兔狲属"
+      }
+    },
+    "conservation_status": {
+      "code": "LC",
+      "en": "Least Concern",
+      "zh": "无危"
+    },
+    "description": {
+      "en": "A small, grumpy-looking wildcat with incredibly thick fur that helps it survive in cold mountain steppes.",
+      "zh": "一种体型小巧、看起来脾气暴躁的野猫，拥有极其厚实的毛皮，能帮助它在寒冷的高山草原中生存。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Pallas's cats look like very round, fluffy balls with grumpy faces! They are about the size of a domestic cat but have the thickest and longest fur of any wild cat. They have flat faces, short legs, and their ears are set very low on the sides of their head so they can peek over rocks without being seen.",
+        "zh": "兔狲看起来像圆滚滚、毛茸茸的球，而且长着一副暴躁脸！它们和家猫差不多大，但拥有所有野生猫科动物中最厚最长的毛。它们脸很平，腿很短，耳朵长在头两侧非常低的位置，这样它们就能从岩石后面偷看而不被发现。"
+      },
+      "ecology_and_behavior": {
+        "en": "Because of their short legs, they are not very fast runners. Instead of chasing their food, they are ambush masters. They wait patiently outside the burrows of pikas and small rodents, ready to strike! When they feel threatened, they freeze and blend perfectly into the rocks.",
+        "zh": "因为腿短，它们跑得不是很块。它们不是追逐食物，而是伏击大师。它们耐心地在鼠兔和小型啮齿动物的洞穴外等待，随时准备出击！当感到受到威胁时，它们会僵住不动，完美地融入岩石中。"
+      },
+      "habitat_and_distribution": {
+        "en": "These fuzzy cats live in the cold, windy, and rocky steppes of Central Asia, including Mongolia, China, and the Tibetan Plateau. They live in very harsh, dry environments where few other animals survive.",
+        "zh": "这些毛茸茸的猫生活在中亚寒冷、多风多岩石的干草原上，包括蒙古、中国和青藏高原。它们生活在极度恶劣干燥、很少有其他动物能生存的环境中。"
+      }
+    },
+    "habitat": {
+      "text_en": "Steppes and mountains of Central Asia",
+      "text_zh": "中亚干草原与山地",
+      "map_coordinates": [
+        45,
+        100
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            50,
+            85
+          ],
+          [
+            55,
+            110
+          ],
+          [
+            45,
+            115
+          ],
+          [
+            35,
+            105
+          ],
+          [
+            30,
+            95
+          ],
+          [
+            35,
+            80
+          ],
+          [
+            40,
+            70
+          ],
+          [
+            50,
+            70
+          ],
+          [
+            50,
+            85
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/pallass-cat.jpg"
+  },
+  {
+    "id": "red-fox",
+    "name_zh": "赤狐",
+    "name_en": "Red Fox",
+    "scientific_name": "Vulpes vulpes",
+    "ui_tags": [
+      "Mammal",
+      "Forest",
+      "Omnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Canidae",
+        "zh": "犬科"
+      },
+      "genus": {
+        "en": "Vulpes",
+        "zh": "狐属"
+      }
+    },
+    "conservation_status": {
+      "code": "LC",
+      "en": "Least Concern",
+      "zh": "无危"
+    },
+    "description": {
+      "en": "The red fox is the most widely distributed wild dog in the world, famous for its reddish-orange fur and fluffy tail.",
+      "zh": "赤狐是世界上分布最广的野生犬科动物，以其红橙色的皮毛和蓬松的尾巴而闻名。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Red foxes are small, slender dogs weighing about 5 to 10 kilograms. They have beautiful reddish-orange fur, a white belly, and black 'socks' on their legs. Their most famous feature is their long, bushy tail with a bright white tip, which they use like a warm blanket in winter.",
+        "zh": "赤狐是小巧苗条的犬科动物，体重约5到10公斤。它们有美丽的红橙色皮毛、白色的肚子，腿上还穿着黑色的「袜子」。它们最著名的特征是带有亮白色尖端的蓬松长尾巴，在冬天可以当温暖的毯子用。"
+      },
+      "ecology_and_behavior": {
+        "en": "Red foxes are clever omnivores that eat mice, rabbits, berries, and bugs. They have amazing hearing and can hear a mouse digging under deep snow! When hunting, they leap high into the air and dive headfirst into the snow to catch their hidden prey.",
+        "zh": "赤狐是聪明的杂食动物，吃老鼠、兔子、浆果和虫子。它们有惊人的听力，能听到在深雪下挖洞的老鼠！打猎时，它们会高高跃起，头朝下扎进雪里抓住隐藏的猎物。"
+      },
+      "habitat_and_distribution": {
+        "en": "They are incredible survivors and live all across the Northern Hemisphere. You can find red foxes in the forests of North America, the snowy plains of Russia, the mountains of Asia, and even in big cities like London!",
+        "zh": "它们是令人难以置信的生存专家，生活在整个北半球。你可以在北美洲的森林、俄罗斯的雪原、亚洲的山脉，甚至像伦敦这样的大城市里找到赤狐！"
+      }
+    },
+    "habitat": {
+      "text_en": "Forests, grasslands, and cities across the Northern Hemisphere",
+      "text_zh": "遍布北半球的森林、草原和城市",
+      "map_coordinates": [
+        45,
+        -100
+      ],
+      "map_zoom_level": 2,
+      "global_distribution_polygons": [
+        [
+          [
+            70,
+            -165
+          ],
+          [
+            70,
+            -70
+          ],
+          [
+            50,
+            -60
+          ],
+          [
+            30,
+            -80
+          ],
+          [
+            30,
+            -120
+          ],
+          [
+            50,
+            -130
+          ],
+          [
+            70,
+            -165
+          ]
+        ],
+        [
+          [
+            70,
+            10
+          ],
+          [
+            70,
+            170
+          ],
+          [
+            40,
+            140
+          ],
+          [
+            25,
+            110
+          ],
+          [
+            20,
+            80
+          ],
+          [
+            30,
+            40
+          ],
+          [
+            35,
+            0
+          ],
+          [
+            50,
+            -10
+          ],
+          [
+            70,
+            10
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/red-fox.jpg"
+  },
+  {
+    "id": "african-wild-dog",
+    "name_zh": "非洲野犬",
+    "name_en": "African Wild Dog",
+    "scientific_name": "Lycaon pictus",
+    "ui_tags": [
+      "Mammal",
+      "Savanna",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Canidae",
+        "zh": "犬科"
+      },
+      "genus": {
+        "en": "Lycaon",
+        "zh": "非洲野犬属"
+      }
+    },
+    "conservation_status": {
+      "code": "EN",
+      "en": "Endangered",
+      "zh": "濒危"
+    },
+    "description": {
+      "en": "A highly social predator of the African savanna, easily recognized by its uniquely painted coat and large, rounded ears.",
+      "zh": "非洲稀树草原上高度社会化的捕食者，以其独特的彩色斑纹皮毛和巨大的圆耳朵而容易被认出。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "African wild dogs are lean, long-legged hunters. Their scientific name means 'painted wolf' because their fur is covered in beautiful, messy patches of brown, black, yellow, and white. They have huge, Mickey Mouse-like round ears that keep them cool and help them hear friends from far away.",
+        "zh": "非洲野犬是瘦长、长腿的猎手。它们的学名意思是「彩绘狼」，因为它们的皮毛上布满了美丽而凌乱的棕色、黑色、黄色和白色斑块。它们长着像米老鼠一样的巨大圆耳朵，这能让它们保持凉爽，并听到远方朋友的声音。"
+      },
+      "ecology_and_behavior": {
+        "en": "These dogs are the best team players in the world! They live in large packs and care deeply for each other, always feeding the puppies and the sick first. Before a hunt, the whole pack gets excited, jumping around and making funny sneezing sounds to 'vote' on whether they are ready to go.",
+        "zh": "这些狗是世界上最棒的团队合作者！它们成群生活，彼此深切关怀，总是让幼犬和生病的同伴先吃东西。在狩猎前，整个狗群会兴奋地跳来跳去，并发出有趣的打喷嚏声来「投票」决定是否准备好出发。"
+      },
+      "habitat_and_distribution": {
+        "en": "They roam the vast, open savannas and dry woodlands of Sub-Saharan Africa. Sadly, because they need huge amounts of space to run and hunt safely, they are very endangered as human farms take over their homes.",
+        "zh": "它们漫游在撒哈拉以南非洲广阔的稀树草原和干燥的林地中。令人难过的是，因为它们需要巨大的空间来安全地奔跑和狩猎，随着人类农场占领它们的家园，它们变得非常濒危。"
+      }
+    },
+    "habitat": {
+      "text_en": "Open plains and savannas of Sub-Saharan Africa",
+      "text_zh": "撒哈拉以南非洲的开阔平原和稀树草原",
+      "map_coordinates": [
+        -15,
+        25
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            10,
+            30
+          ],
+          [
+            5,
+            40
+          ],
+          [
+            -10,
+            38
+          ],
+          [
+            -25,
+            35
+          ],
+          [
+            -30,
+            20
+          ],
+          [
+            -15,
+            15
+          ],
+          [
+            0,
+            20
+          ],
+          [
+            10,
+            30
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/african-wild-dog.jpg"
+  },
+  {
+    "id": "maned-wolf",
+    "name_zh": "鬃狼",
+    "name_en": "Maned Wolf",
+    "scientific_name": "Chrysocyon brachyurus",
+    "ui_tags": [
+      "Mammal",
+      "Grassland",
+      "Omnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Canidae",
+        "zh": "犬科"
+      },
+      "genus": {
+        "en": "Chrysocyon",
+        "zh": "鬃狼属"
+      }
+    },
+    "conservation_status": {
+      "code": "NT",
+      "en": "Near Threatened",
+      "zh": "近危"
+    },
+    "description": {
+      "en": "The largest canid of South America, known for its fox-like face and incredibly long, black legs.",
+      "zh": "南美洲最大的犬科动物，以长得像狐狸的脸和不可思议的黑色大长腿而闻名。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "The maned wolf looks like a giant red fox walking on stilts! It is the tallest wild dog in the world, with super long, black legs that help it see over tall grass. It gets its name from a black mane of hair on its neck that stands straight up when it feels scared or angry.",
+        "zh": "鬃狼看起来就像踩着高跷的巨型赤狐！它是世界上最高的野生犬科动物，超级长的黑腿能帮它越过高高的草丛看清周围。它的名字来源于脖子上的一圈黑色鬃毛，当它感到害怕或生气时，这圈毛会直立起来。"
+      },
+      "ecology_and_behavior": {
+        "en": "Unlike most wolves, the maned wolf does not live in packs; it prefers to wander the grasslands alone. It is a very unique omnivore! Half of its diet is meat like rats and birds, and the other half is fruit, especially a tomato-like fruit called the 'wolf apple'. It is also famous for its pee, which smells exactly like a skunk!",
+        "zh": "和大多数狼不同，鬃狼不群居；它更喜欢独自在草原上漫步。它是一种非常独特的杂食动物！它一半的食物是老鼠和鸟类等肉类，另一半是水果，特别是一种叫做「狼苹果」的像番茄一样的水果。它还因尿液出名，闻起来完全就像臭鼬！"
+      },
+      "habitat_and_distribution": {
+        "en": "Maned wolves live in the Cerrado, a massive tropical savanna with tall grasses and scattered trees in central South America. They are mostly found in Brazil, Paraguay, and Argentina.",
+        "zh": "鬃狼生活在塞拉多（Cerrado），这是位于南美洲中部、长满高草和散落树木的巨大热带稀树草原。它们主要分布在巴西、巴拉圭和阿根廷。"
+      }
+    },
+    "habitat": {
+      "text_en": "Grasslands and scrub forests of central South America",
+      "text_zh": "南美洲中部的草原和灌木林",
+      "map_coordinates": [
+        -15,
+        -50
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            -5,
+            -45
+          ],
+          [
+            -5,
+            -40
+          ],
+          [
+            -15,
+            -40
+          ],
+          [
+            -25,
+            -50
+          ],
+          [
+            -30,
+            -60
+          ],
+          [
+            -20,
+            -65
+          ],
+          [
+            -10,
+            -55
+          ],
+          [
+            -5,
+            -45
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/maned-wolf.jpg"
+  },
+  {
+    "id": "dhole",
+    "name_zh": "豺",
+    "name_en": "Dhole",
+    "scientific_name": "Cuon alpinus",
+    "ui_tags": [
+      "Mammal",
+      "Forest",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Canidae",
+        "zh": "犬科"
+      },
+      "genus": {
+        "en": "Cuon",
+        "zh": "豺属"
+      }
+    },
+    "conservation_status": {
+      "code": "EN",
+      "en": "Endangered",
+      "zh": "濒危"
+    },
+    "description": {
+      "en": "A highly social and incredibly brave Asian wild dog that uses whistling sounds to communicate with its pack.",
+      "zh": "一种高度群居且极其勇敢的亚洲野犬，利用口哨声与狼群进行交流。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "The dhole is a medium-sized wild dog that looks like a mix between a wolf and a red fox. It has beautiful rusty-red fur, a white chest, and a very fluffy, dark tail. Compared to other dogs, its snout is a bit shorter and its jaw is very strong.",
+        "zh": "豺是一种中等体型的野犬，看起来像是狼和赤狐的混合体。它拥有美丽的铁锈红色毛皮、白色的胸部和一条非常蓬松的深色尾巴。与其他狗相比，它的吻部稍微短一些，下颌非常有力。"
+      },
+      "ecology_and_behavior": {
+        "en": "Dholes are fearless pack hunters! Working together, a group of dholes can take down prey much larger than themselves, like huge wild water buffalo or wild boars. Instead of howling like wolves, dholes talk to each other in the jungle using a series of weird clicks, clucks, and high-pitched whistles.",
+        "zh": "豺是无畏的群体猎手！通过团队合作，一群豺可以击倒比自己大得多的猎物，比如巨大的野生水牛或野猪。豺不像狼那样嚎叫，而是用一系列奇怪的咔哒声、咯咯声和高亢的口哨声在丛林里互相交谈。"
+      },
+      "habitat_and_distribution": {
+        "en": "They live in the dense tropical forests, alpine zones, and scrublands of Central, South, and Southeast Asia. Today, they are mostly found in protected parks in India, Thailand, and Indonesia, as their forest homes are being cut down.",
+        "zh": "它们生活在中亚、南亚和东南亚的茂密热带森林、高山区和灌木丛中。如今，由于它们森林里的家被砍伐，它们主要分布在印度、泰国和印度尼西亚的保护公园内。"
+      }
+    },
+    "habitat": {
+      "text_en": "Forests and scrublands of Asia",
+      "text_zh": "亚洲的森林与灌木丛",
+      "map_coordinates": [
+        20,
+        80
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            30,
+            75
+          ],
+          [
+            25,
+            85
+          ],
+          [
+            20,
+            85
+          ],
+          [
+            10,
+            75
+          ],
+          [
+            15,
+            72
+          ],
+          [
+            25,
+            70
+          ],
+          [
+            30,
+            75
+          ]
+        ],
+        [
+          [
+            25,
+            95
+          ],
+          [
+            25,
+            105
+          ],
+          [
+            15,
+            105
+          ],
+          [
+            5,
+            100
+          ],
+          [
+            -5,
+            105
+          ],
+          [
+            -5,
+            115
+          ],
+          [
+            5,
+            115
+          ],
+          [
+            10,
+            100
+          ],
+          [
+            15,
+            95
+          ],
+          [
+            25,
+            95
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/dhole.jpg"
+  },
+  {
+    "id": "fennec-fox",
+    "name_zh": "耳廓狐",
+    "name_en": "Fennec Fox",
+    "scientific_name": "Vulpes zerda",
+    "ui_tags": [
+      "Mammal",
+      "Desert",
+      "Omnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Canidae",
+        "zh": "犬科"
+      },
+      "genus": {
+        "en": "Vulpes",
+        "zh": "狐属"
+      }
+    },
+    "conservation_status": {
+      "code": "LC",
+      "en": "Least Concern",
+      "zh": "无危"
+    },
+    "description": {
+      "en": "The smallest canid in the world, renowned for its unusually large ears that help it survive in the scorching desert.",
+      "zh": "世界上体型最小的犬科动物，以非同寻常的大耳朵而闻名，这有助于它在炎热的沙漠中生存。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "The fennec fox is the smallest dog in the world, weighing less than a Chihuahua! But while its body is tiny, its ears are massive—up to 6 inches long! These giant ears work like air conditioners, letting out body heat to keep the fox cool in the hot desert. Even their paws are covered in thick fur so they don't burn their feet on the hot sand.",
+        "zh": "耳廓狐是世界上最小的狗，体重比吉娃娃还轻！但是虽然身体很小，耳朵却非常巨大——长达6英寸！这些大耳朵就像空调一样，能散发体热，让狐狸在炎热的沙漠里保持凉爽。甚至它们的爪子上也长满了厚厚的毛，这样就不会在滚烫的沙子上烫伤脚了。"
+      },
+      "ecology_and_behavior": {
+        "en": "To survive the blistering sun, fennec foxes sleep all day in deep, cool underground burrows. At night, they come out to hunt for insects, small lizards, and desert plants. Because water is so rare in the desert, they get almost all the water they need just from the food they eat!",
+        "zh": "为了在酷热的阳光下生存，耳廓狐一整天都在凉爽的深层地下洞穴里睡觉。到了晚上，它们才出来捕食昆虫、小蜥蜴和沙漠植物。因为沙漠里水非常稀缺，它们几乎从食物中就能获得所需的所有水分！"
+      },
+      "habitat_and_distribution": {
+        "en": "Fennec foxes are the masters of the Sahara Desert in North Africa. They live among the endless, rolling sand dunes in places where almost no other animals can survive.",
+        "zh": "耳廓狐是北非撒哈拉沙漠的主人。它们生活在连绵不断的沙丘之中，那几乎是其他动物无法生存的地方。"
+      }
+    },
+    "habitat": {
+      "text_en": "Sandy dunes of the Sahara Desert",
+      "text_zh": "撒哈拉沙漠的沙丘",
+      "map_coordinates": [
+        25,
+        10
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            30,
+            -10
+          ],
+          [
+            35,
+            0
+          ],
+          [
+            30,
+            35
+          ],
+          [
+            15,
+            35
+          ],
+          [
+            15,
+            -10
+          ],
+          [
+            30,
+            -10
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/fennec-fox.jpg"
+  },
+  {
+    "id": "golden-jackal",
+    "name_zh": "亚洲胡狼",
+    "name_en": "Golden Jackal",
+    "scientific_name": "Canis aureus",
+    "ui_tags": [
+      "Mammal",
+      "Grassland",
+      "Omnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Canidae",
+        "zh": "犬科"
+      },
+      "genus": {
+        "en": "Canis",
+        "zh": "犬属"
+      }
+    },
+    "conservation_status": {
+      "code": "LC",
+      "en": "Least Concern",
+      "zh": "无危"
+    },
+    "description": {
+      "en": "A highly adaptable, wolf-like canid with a golden coat that spans across Europe, Asia, and parts of Africa.",
+      "zh": "一种适应性极强、长得像狼的犬科动物，长着金色的皮毛，横跨欧洲、亚洲和非洲的部分地区。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "The golden jackal looks like a small, slim grey wolf but features a beautiful coat that is a mix of gold, rust, and brown. They weigh around 7 to 15 kilograms. They have long legs made for running long distances and sharp senses to detect both predators and prey.",
+        "zh": "亚洲胡狼看起来像是一只小巧苗条的灰狼，但拥有金色、铁锈色和棕色混合的美丽皮毛。它们重约7到15公斤。它们长有适合长跑的长腿，还有敏锐的感官来察觉捕食者和猎物。"
+      },
+      "ecology_and_behavior": {
+        "en": "Golden jackals are very loyal! A male and female will stay together for their entire lives, working as a team to hunt and raise their pups. They are opportunistic omnivores, meaning they will happily eat anything they can find, from catching small deer and birds to eating fruits and cleaning up leftover scraps from bigger predators.",
+        "zh": "亚洲胡狼非常忠诚！一公一母会相伴一生，作为一个团队合作狩猎和抚养幼崽。它们是机会主义的杂食动物，这意味着只要能找到，它们什么都乐意吃，从捕捉小鹿和鸟类，到吃水果，甚至清理大型捕食者留下的残羹冷炙。"
+      },
+      "habitat_and_distribution": {
+        "en": "Because they are so adaptable, golden jackals live in many different places. Their range is huge, stretching from the forests of Eastern Europe, down through the dry deserts of the Middle East, and all the way across the grassy plains of India.",
+        "zh": "因为它们的适应能力太强了，亚洲胡狼生活在很多不同的地方。它们的分布范围极广，从东欧的森林，向下穿过中东干燥的沙漠，一直延伸到印度长满草的平原。"
+      }
+    },
+    "habitat": {
+      "text_en": "Grasslands, scrublands, and forests of Eurasia",
+      "text_zh": "欧亚大陆的草原、灌木丛和森林",
+      "map_coordinates": [
+        25,
+        50
+      ],
+      "map_zoom_level": 3,
+      "global_distribution_polygons": [
+        [
+          [
+            45,
+            15
+          ],
+          [
+            50,
+            30
+          ],
+          [
+            45,
+            50
+          ],
+          [
+            30,
+            80
+          ],
+          [
+            10,
+            80
+          ],
+          [
+            10,
+            70
+          ],
+          [
+            25,
+            50
+          ],
+          [
+            25,
+            30
+          ],
+          [
+            40,
+            15
+          ],
+          [
+            45,
+            15
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/golden-jackal.jpg"
+  },
+  {
+    "id": "raccoon-dog",
+    "name_zh": "貉",
+    "name_en": "Raccoon Dog",
+    "scientific_name": "Nyctereutes procyonoides",
+    "ui_tags": [
+      "Mammal",
+      "Forest",
+      "Omnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Canidae",
+        "zh": "犬科"
+      },
+      "genus": {
+        "en": "Nyctereutes",
+        "zh": "貉属"
+      }
+    },
+    "conservation_status": {
+      "code": "LC",
+      "en": "Least Concern",
+      "zh": "无危"
+    },
+    "description": {
+      "en": "An unusual East Asian dog with a mask like a raccoon, and the only canid in the world known to hibernate.",
+      "zh": "一种不同寻常的东亚犬科动物，长着像浣熊一样的面罩，是世界上已知唯一会冬眠的犬科动物。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Is it a raccoon? No, it's a dog! The raccoon dog gets its name because of its black face mask and thick, greyish-brown fur that makes it look exactly like a raccoon. It has a short body, short legs, and a very fluffy tail, making it look a bit clumsy compared to wolves and foxes.",
+        "zh": "那是浣熊吗？不，那是狗！貉之所以得名，是因为它黑色的面罩和厚厚的灰棕色皮毛，让它看起来和浣熊一模一样。它身体短，腿也短，尾巴非常蓬松，和狼或狐狸相比，它看起来有点笨拙。"
+      },
+      "ecology_and_behavior": {
+        "en": "The raccoon dog is full of surprises. It is the only member of the dog family in the entire world that hibernates! Before winter comes, they eat as much food as possible to get fat, then sleep through the coldest months. They are not very fast runners, so they usually search the forest floor for slow-moving food like frogs, insects, and berries.",
+        "zh": "貉身上充满了惊喜。它是全世界犬科动物中唯一会冬眠的成员！在冬天到来之前，它们会吃尽可能多的食物来长胖，然后在最冷的几个月里睡大觉。它们跑得不是很块，所以通常在森林地面上寻找青蛙、昆虫和浆果等移动缓慢的食物。"
+      },
+      "habitat_and_distribution": {
+        "en": "They are naturally found in the forests and damp valleys of East Asia, including Japan, China, and Korea. In Japan, they are famous in myths and are called 'Tanuki'. Decades ago, humans brought them to Europe, and they have successfully spread across many European forests today.",
+        "zh": "它们天然分布在东亚的森林和潮湿的山谷中，包括日本、中国和韩国。在日本的神话里它们非常出名，被称为「Tanuki（狸）」。几十年前，人类将它们带到了欧洲，如今它们已经成功地在许多欧洲森林中蔓延开来。"
+      }
+    },
+    "habitat": {
+      "text_en": "Forests and woodlands of East Asia and Europe",
+      "text_zh": "东亚和欧洲的森林与林地",
+      "map_coordinates": [
+        35,
+        135
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            55,
+            110
+          ],
+          [
+            55,
+            140
+          ],
+          [
+            30,
+            140
+          ],
+          [
+            20,
+            110
+          ],
+          [
+            35,
+            100
+          ],
+          [
+            55,
+            110
+          ]
+        ],
+        [
+          [
+            65,
+            20
+          ],
+          [
+            65,
+            40
+          ],
+          [
+            45,
+            40
+          ],
+          [
+            45,
+            10
+          ],
+          [
+            55,
+            10
+          ],
+          [
+            65,
+            20
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/raccoon-dog.jpg"
+  },
+  {
+    "id": "bush-dog",
+    "name_zh": "薮犬",
+    "name_en": "Bush Dog",
+    "scientific_name": "Speothos venaticus",
+    "ui_tags": [
+      "Mammal",
+      "Rainforest",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Canidae",
+        "zh": "犬科"
+      },
+      "genus": {
+        "en": "Speothos",
+        "zh": "薮犬属"
+      }
+    },
+    "conservation_status": {
+      "code": "NT",
+      "en": "Near Threatened",
+      "zh": "近危"
+    },
+    "description": {
+      "en": "A rare and strange-looking canid from the Amazon, built like a badger and equipped with webbed toes for swimming.",
+      "zh": "一种来自亚马逊的稀有且长相奇特的犬科动物，体型像獾，脚趾间有蹼，适于游泳。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "The bush dog is one of the most unusual dogs on Earth. It looks more like a small bear or a badger than a dog! It has a squarish head, tiny ears, very short legs, and a stubby tail. What makes them really special is that they have webbed toes, making them powerful swimmers.",
+        "zh": "薮犬是地球上最不寻常的狗之一。它看起来更像一只小熊或獾，而不是狗！它有方形的脑袋、小小的耳朵、极短的腿和粗短的尾巴。让它们真正特别的是它们的脚趾间有蹼，这使它们成为强大的游泳健将。"
+      },
+      "ecology_and_behavior": {
+        "en": "Bush dogs are tiny but mighty. They hunt in tight-knit family packs of up to 12 dogs. By working together, these short-legged hunters can take down large prey like capybaras and rheas. They love water and often chase their prey right into rivers and lakes.",
+        "zh": "薮犬虽然个头小，但力量强大。它们以多达12只狗的紧密家庭群进行狩猎。通过团队合作，这些短腿猎手能够击倒像水豚和美洲鸵这样的大型猎物。它们热爱水，经常把猎物直接赶进河流和湖泊里。"
+      },
+      "habitat_and_distribution": {
+        "en": "They are very shy and rarely seen by humans. Bush dogs live in the thick, humid rainforests and wet savannas of Central and South America, especially around the Amazon Basin. They always stay close to water.",
+        "zh": "它们非常害羞，人类极少能见到。薮犬生活在中美洲和南美洲茂密潮湿的热带雨林和湿润的稀树草原中，尤其是在亚马逊盆地周围。它们总是待在靠近水的地方。"
+      }
+    },
+    "habitat": {
+      "text_en": "Amazon Basin and tropical rainforests of South America",
+      "text_zh": "亚马逊盆地及南美热带雨林",
+      "map_coordinates": [
+        -5,
+        -60
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            10,
+            -80
+          ],
+          [
+            10,
+            -60
+          ],
+          [
+            -25,
+            -40
+          ],
+          [
+            -30,
+            -55
+          ],
+          [
+            -20,
+            -65
+          ],
+          [
+            -5,
+            -80
+          ],
+          [
+            10,
+            -80
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/bush-dog.jpg"
+  },
+  {
+    "id": "grey-fox",
+    "name_zh": "灰狐",
+    "name_en": "Grey Fox",
+    "scientific_name": "Urocyon cinereoargenteus",
+    "ui_tags": [
+      "Mammal",
+      "Forest",
+      "Omnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Canidae",
+        "zh": "犬科"
+      },
+      "genus": {
+        "en": "Urocyon",
+        "zh": "灰狐属"
+      }
+    },
+    "conservation_status": {
+      "code": "LC",
+      "en": "Least Concern",
+      "zh": "无危"
+    },
+    "description": {
+      "en": "A nimble North American fox that possesses the unique ability among canids to climb trees.",
+      "zh": "一种身手敏捷的北美狐狸，在犬科动物中拥有独一无二的爬树能力。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "The grey fox has a beautiful 'salt-and-pepper' coat with reddish patches on its neck and legs, and a black stripe running straight down its bushy tail. What makes the grey fox truly magical are its strong, hooked claws that work just like a cat's claws.",
+        "zh": "灰狐有一件美丽的「椒盐色」外衣，脖子和腿上有红色的斑块，蓬松的尾巴上有一条笔直的黑色条纹。让灰狐真正神奇的是它强壮的、呈钩状的爪子，用起来就像猫的爪子一样。"
+      },
+      "ecology_and_behavior": {
+        "en": "It is the only wild dog in the Americas that can climb trees! If a hungry predator like a coyote chases a grey fox, the fox will simply run up a tall pine tree and jump from branch to branch to escape. They often sleep in hollow trees high above the ground and eat mice, birds, and lots of fruit.",
+        "zh": "它是美洲唯一会爬树的野生犬科动物！如果像郊狼这样饥饿的捕食者追赶灰狐，灰狐会直接跑上一棵高大的松树，在树枝间跳跃以逃脱。它们经常在高高离开地面的空心树洞里睡觉，吃老鼠、鸟类和很多水果。"
+      },
+      "habitat_and_distribution": {
+        "en": "Grey foxes prefer living in dense, bushy forests and rocky woodlands where there are plenty of trees to climb. They are found all the way from the southern parts of Canada, across the United States, and down into northern South America.",
+        "zh": "灰狐喜欢生活在茂密的灌木林和岩石林地里，那里有大量可供攀爬的树木。它们的分布从加拿大南部一直延伸到整个美国，并向下延伸到南美洲北部。"
+      }
+    },
+    "habitat": {
+      "text_en": "Woodlands and brushy regions of North and Central America",
+      "text_zh": "北美及中美洲的林地和灌木区",
+      "map_coordinates": [
+        35,
+        -100
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            45,
+            -125
+          ],
+          [
+            45,
+            -70
+          ],
+          [
+            25,
+            -80
+          ],
+          [
+            5,
+            -75
+          ],
+          [
+            5,
+            -85
+          ],
+          [
+            30,
+            -115
+          ],
+          [
+            45,
+            -125
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/grey-fox.jpg"
+  },
+  {
+    "id": "bat-eared-fox",
+    "name_zh": "大耳狐",
+    "name_en": "Bat-eared Fox",
+    "scientific_name": "Otocyon megalotis",
+    "ui_tags": [
+      "Mammal",
+      "Savanna",
+      "Insectivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Canidae",
+        "zh": "犬科"
+      },
+      "genus": {
+        "en": "Otocyon",
+        "zh": "大耳狐属"
+      }
+    },
+    "conservation_status": {
+      "code": "LC",
+      "en": "Least Concern",
+      "zh": "无危"
+    },
+    "description": {
+      "en": "An African fox named for its huge ears, specializing in eating termites and other insects.",
+      "zh": "一种因大耳朵而得名的非洲狐狸，专门以吃白蚁和其他昆虫为生。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Just look at those ears! The bat-eared fox has gigantic ears that are over 5 inches long, which look like the wings of a bat. They also have more teeth than almost any other mammal—up to 50 tiny, sharp teeth perfectly designed for chewing up crunchy bugs.",
+        "zh": "看看那双耳朵！大耳狐有超过5英寸长的巨大耳朵，看起来就像蝙蝠的翅膀。它们也是几乎所有哺乳动物中牙齿最多的——多达50颗微小而锋利的牙齿，完美地设计用来咀嚼嘎嘣脆的虫子。"
+      },
+      "ecology_and_behavior": {
+        "en": "Instead of hunting rabbits or mice, the bat-eared fox is an insect expert. Up to 80% of its diet is made of harvester termites! They walk slowly across the grass with their head tilted down, using their super-powered ears to listen for insects moving deep underground, then dig them up in a flash.",
+        "zh": "大耳狐不是捕猎兔子或老鼠，而是昆虫专家。它们饮食中多达80%是收割白蚁！它们低着头在草地上慢慢走，用超级灵敏的耳朵倾听昆虫在地下深处移动的声音，然后在一瞬间把它们挖出来。"
+      },
+      "habitat_and_distribution": {
+        "en": "These unique foxes live in the dry, short-grass savannas and brushlands of Africa. They are separated into two distinct groups: one lives in Eastern Africa, and the other lives way down in Southern Africa.",
+        "zh": "这些独特的狐狸生活在非洲干燥的短草稀树草原和灌木丛中。它们被分成两个不同的群体：一个生活在东非，另一个生活在南非很远的地方。"
+      }
+    },
+    "habitat": {
+      "text_en": "Arid savannas and brushlands of Eastern and Southern Africa",
+      "text_zh": "东非和南非的干旱稀树草原与灌木地",
+      "map_coordinates": [
+        -20,
+        20
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            10,
+            35
+          ],
+          [
+            10,
+            50
+          ],
+          [
+            -5,
+            40
+          ],
+          [
+            -5,
+            30
+          ],
+          [
+            10,
+            35
+          ]
+        ],
+        [
+          [
+            -15,
+            10
+          ],
+          [
+            -15,
+            35
+          ],
+          [
+            -35,
+            30
+          ],
+          [
+            -30,
+            15
+          ],
+          [
+            -15,
+            10
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/bat-eared-fox.jpg"
   }
 ]
