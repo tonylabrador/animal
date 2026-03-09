@@ -85,16 +85,25 @@ async function main() {
   console.log(`📁 输出目录: ${OUTPUT_DIR}\n`);
 
   let successCount = 0;
+  let skippedCount = 0;
 
   for (let i = 0; i < animals.length; i++) {
     const animal  = animals[i];
     const dest    = path.join(OUTPUT_DIR, `${animal.id}.jpg`);
     const webPath = `/images/animals/${animal.id}.jpg`;
 
-    process.stdout.write(
-      `[${String(i + 1).padStart(2, "0")}/${animals.length}] ` +
-      `${animal.name_en.padEnd(28)} `
-    );
+    const prefix = `[${String(i + 1).padStart(2, "0")}/${animals.length}] ${animal.name_en.padEnd(28)} `;
+
+    // ── 跳过已有图片的动物 ──────────────────────────────────────────────
+    // 条件 1: JSON 里已有 image 字段（不为 null）
+    // 条件 2: 本地文件也已存在
+    if (animal.image && fs.existsSync(dest)) {
+      console.log(`${prefix}⏭  已有图片，跳过`);
+      skippedCount++;
+      continue;
+    }
+
+    process.stdout.write(prefix);
 
     // 优先 iNaturalist（用学名），备用 Wikipedia（用英文名）
     const sources = [
@@ -119,7 +128,8 @@ async function main() {
 
     if (!saved) {
       console.log("❌  所有来源均失败");
-      animal.image = null;
+      // 不覆盖已有的 image 字段，仅在完全没有时才设为 null
+      if (!animal.image) animal.image = null;
     }
 
     if (i < animals.length - 1) await delay(DELAY_MS);
@@ -128,7 +138,7 @@ async function main() {
   // 写回 JSON
   fs.writeFileSync(JSON_PATH, JSON.stringify(animals, null, 2), "utf-8");
 
-  console.log(`\n✨ 完成！成功 ${successCount}/${animals.length} 张`);
+  console.log(`\n✨ 完成！新下载 ${successCount} 张，跳过 ${skippedCount} 张（已有图片）`);
   console.log("   animal_source.json 已更新。");
 }
 
