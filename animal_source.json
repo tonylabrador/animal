@@ -12176,5 +12176,2847 @@
       ]
     },
     "image": "/images/animals/red-panda.jpg"
+  },
+  {
+    "id": "african-bush-elephant",
+    "name_zh": "非洲草原象",
+    "name_en": "African Bush Elephant",
+    "scientific_name": "Loxodonta africana",
+    "ui_tags": [
+      "Mammal",
+      "Savanna",
+      "Herbivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Proboscidea",
+        "zh": "长鼻目"
+      },
+      "family": {
+        "en": "Elephantidae",
+        "zh": "象科"
+      },
+      "genus": {
+        "en": "Loxodonta",
+        "zh": "非洲象属"
+      }
+    },
+    "conservation_status": {
+      "code": "EN",
+      "en": "Endangered",
+      "zh": "濒危"
+    },
+    "description": {
+      "en": "The African bush elephant is the largest living land animal in the world, known for its enormous ears and long trunk.",
+      "zh": "非洲草原象是世界上最大的现存陆地动物，以其巨大的耳朵和长长的鼻子而闻名。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "African bush elephants are massive, weighing up to 6,000 kilograms! They have huge ears shaped like the continent of Africa, which help them stay cool in the hot sun. Their long trunk is actually a nose and upper lip joined together, used for breathing, drinking, and grabbing food.",
+        "zh": "非洲草原象体型巨大，体重可达6000公斤！它们巨大的耳朵形状像非洲大陆，能帮它们在烈日下散热。它们长长的鼻子其实是鼻子和上唇连在一起的，用来呼吸、喝水和抓取食物。"
+      },
+      "ecology_and_behavior": {
+        "en": "These gentle giants eat grasses, leaves, and bark, spending up to 18 hours a day feeding. They live in close-knit family groups led by an older, wise female called a matriarch. Elephants are very smart and can communicate with each other using low rumbles that travel far underground.",
+        "zh": "这些温和的庞然大物吃草、树叶和树皮，每天花长达18个小时进食。它们生活在紧密的家庭群体中，由一只年长聪明的雌象（称为女族长）带领。大象非常聪明，能用在地下传播得很远的低沉隆隆声相互交流。"
+      },
+      "habitat_and_distribution": {
+        "en": "They roam across the grassy savannas, woodlands, and deserts of Sub-Saharan Africa. They need to live near water sources because they drink up to 190 liters of water a day. Sadly, they are threatened by habitat loss and poaching for their ivory tusks.",
+        "zh": "它们漫步在撒哈拉以南非洲的稀树草原、林地和沙漠中。它们必须住在水源附近，因为每天要喝多达190升的水。遗憾的是，它们正受到栖息地丧失和为获取象牙而进行盗猎的威胁。"
+      }
+    },
+    "habitat": {
+      "text_en": "Sub-Saharan African Savannas",
+      "text_zh": "撒哈拉以南非洲稀树草原",
+      "map_coordinates": [
+        -2,
+        34
+      ],
+      "map_zoom_level": 5,
+      "global_distribution_polygons": [
+        [
+          [
+            15,
+            -16
+          ],
+          [
+            15,
+            38
+          ],
+          [
+            8,
+            48
+          ],
+          [
+            -10,
+            40
+          ],
+          [
+            -25,
+            32
+          ],
+          [
+            -30,
+            20
+          ],
+          [
+            -20,
+            12
+          ],
+          [
+            -5,
+            12
+          ],
+          [
+            5,
+            -10
+          ],
+          [
+            15,
+            -16
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/african-bush-elephant.jpg"
+  },
+  {
+    "id": "lion",
+    "name_zh": "狮子",
+    "name_en": "Lion",
+    "scientific_name": "Panthera leo",
+    "ui_tags": [
+      "Mammal",
+      "Savanna",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Felidae",
+        "zh": "猫科"
+      },
+      "genus": {
+        "en": "Panthera",
+        "zh": "豹属"
+      }
+    },
+    "conservation_status": {
+      "code": "VU",
+      "en": "Vulnerable",
+      "zh": "易危"
+    },
+    "description": {
+      "en": "Lions are powerful big cats known as the 'kings of the savanna', and are the only cats that live in large family groups.",
+      "zh": "狮子是强壮的大型猫科动物，被称为“草原之王”，也是唯一群居的大型猫科动物。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Lions are huge cats with strong bodies and golden-yellow fur. Male lions grow a thick, impressive mane of hair around their necks, which makes them look bigger and protects them in fights. Their roar is so loud it can be heard from 8 kilometers away!",
+        "zh": "狮子是拥有强壮身体和金黄色皮毛的大型猫科动物。雄狮的脖子周围会长出厚厚而引人注目的鬣毛，这让它们看起来更大，也能在打斗时保护它们。它们的吼声非常响亮，在8公里外都能听到！"
+      },
+      "ecology_and_behavior": {
+        "en": "Unlike other cats, lions are very social and live in groups called prides, which are mostly made up of females and their cubs. The lionesses do most of the hunting, working as a team to catch fast prey like zebras and wildebeests. Lions love to rest and can sleep for up to 20 hours a day!",
+        "zh": "与其他猫科动物不同，狮子非常喜欢群居，生活在被称为“狮群”的群体中，主要由雌狮和它们的幼崽组成。雌狮负责大部分的狩猎，它们团队合作捕捉斑马和角马等速度很快的猎物。狮子很爱休息，每天能睡20个小时！"
+      },
+      "habitat_and_distribution": {
+        "en": "Most wild lions live in the open savannas and grassy plains of Africa, where their golden fur camouflages perfectly with the dry grass. A very small population also lives in the Gir Forest of India. They need large areas of land with plenty of prey to survive.",
+        "zh": "大多数野生狮子生活在非洲开阔的稀树草原上，那里金黄色的毛皮能完美地隐蔽在干草中。在印度的吉尔森林中也生活着极小一部分种群。它们需要大片有丰富猎物的土地才能生存。"
+      }
+    },
+    "habitat": {
+      "text_en": "African Savannas and Indian Gir Forest",
+      "text_zh": "非洲稀树草原与印度吉尔森林",
+      "map_coordinates": [
+        -2.5,
+        34.5
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            15,
+            -16
+          ],
+          [
+            15,
+            35
+          ],
+          [
+            5,
+            45
+          ],
+          [
+            -10,
+            40
+          ],
+          [
+            -25,
+            32
+          ],
+          [
+            -20,
+            15
+          ],
+          [
+            -5,
+            12
+          ],
+          [
+            5,
+            -10
+          ],
+          [
+            15,
+            -16
+          ]
+        ],
+        [
+          [
+            21,
+            70.5
+          ],
+          [
+            21.5,
+            70.5
+          ],
+          [
+            21.5,
+            71
+          ],
+          [
+            21,
+            71
+          ],
+          [
+            21,
+            70.5
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/lion.jpg"
+  },
+  {
+    "id": "cheetah",
+    "name_zh": "猎豹",
+    "name_en": "Cheetah",
+    "scientific_name": "Acinonyx jubatus",
+    "ui_tags": [
+      "Mammal",
+      "Savanna",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Felidae",
+        "zh": "猫科"
+      },
+      "genus": {
+        "en": "Acinonyx",
+        "zh": "猎豹属"
+      }
+    },
+    "conservation_status": {
+      "code": "VU",
+      "en": "Vulnerable",
+      "zh": "易危"
+    },
+    "description": {
+      "en": "The cheetah is the fastest land animal on Earth, capable of reaching highway speeds in just a few seconds.",
+      "zh": "猎豹是地球上跑得最快的陆地动物，能在几秒钟内达到高速公路上的行驶速度。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Cheetahs are built for extreme speed. They have a slim body, a flexible spine, and long, thin legs. Their fur is covered in solid black spots, and they have distinct black 'tear marks' running from their eyes down to their mouth, which help block the glare of the sun.",
+        "zh": "猎豹天生就是为了极速而生的。它们有苗条的身体、灵活的脊椎和细长的腿。它们的皮毛上布满了纯黑色的斑点，从眼睛到嘴巴有明显的黑色“泪痕”，这有助于遮挡太阳的刺眼光线。"
+      },
+      "ecology_and_behavior": {
+        "en": "Cheetahs hunt during the day to avoid competing with lions and leopards. Instead of sneaking up close, they rely on short, explosive sprints to chase down prey like gazelles, reaching speeds of up to 110 kilometers per hour! After a fast run, they need to rest to catch their breath.",
+        "zh": "猎豹在白天狩猎，以避免与狮子和豹子竞争。它们不靠偷偷靠近，而是依靠短暂爆发性的冲刺来追捕瞪羚等猎物，速度可达每小时110公里！快速奔跑后，它们需要休息来喘口气。"
+      },
+      "habitat_and_distribution": {
+        "en": "They mainly live in the wide, open savannas and dry areas of Sub-Saharan Africa, with a very small number found in Iran. They need wide open spaces so they can use their super speed without crashing into trees or bushes.",
+        "zh": "它们主要生活在撒哈拉以南非洲广阔的稀树草原和干燥地区，在伊朗也能找到极少数量的个体。它们需要广阔的开阔地带，这样才能施展它们的超级速度而不会撞到树木或灌木丛上。"
+      }
+    },
+    "habitat": {
+      "text_en": "Open savannas of Africa",
+      "text_zh": "非洲开阔稀树草原",
+      "map_coordinates": [
+        -1.5,
+        35
+      ],
+      "map_zoom_level": 5,
+      "global_distribution_polygons": [
+        [
+          [
+            15,
+            -15
+          ],
+          [
+            15,
+            30
+          ],
+          [
+            5,
+            45
+          ],
+          [
+            -15,
+            35
+          ],
+          [
+            -25,
+            30
+          ],
+          [
+            -25,
+            15
+          ],
+          [
+            -10,
+            10
+          ],
+          [
+            5,
+            -5
+          ],
+          [
+            15,
+            -15
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/cheetah.jpg"
+  },
+  {
+    "id": "plains-zebra",
+    "name_zh": "平原斑马",
+    "name_en": "Plains Zebra",
+    "scientific_name": "Equus quagga",
+    "ui_tags": [
+      "Mammal",
+      "Savanna",
+      "Herbivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Perissodactyla",
+        "zh": "奇蹄目"
+      },
+      "family": {
+        "en": "Equidae",
+        "zh": "马科"
+      },
+      "genus": {
+        "en": "Equus",
+        "zh": "马属"
+      }
+    },
+    "conservation_status": {
+      "code": "NT",
+      "en": "Near Threatened",
+      "zh": "近危"
+    },
+    "description": {
+      "en": "Plains zebras are horse-like animals famous for their black-and-white striped coats.",
+      "zh": "平原斑马是长得像马的动物，以它们黑白相间的条纹外套而闻名。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Zebras look a lot like horses but are slightly smaller and stockier. Their most famous feature is their black and white stripes. Just like human fingerprints, no two zebras have the exact same stripe pattern! The stripes help confuse predators and keep away biting flies.",
+        "zh": "斑马长得很像马，但稍微小一点、粗壮一点。它们最著名的特征就是黑白相间的条纹。就像人类的指纹一样，没有两只斑马的条纹图案是完全相同的！这些条纹有助于迷惑捕食者，还能驱赶咬人的苍蝇。"
+      },
+      "ecology_and_behavior": {
+        "en": "Zebras are grazers that spend most of their day eating tough savanna grasses. They are highly social and live in small family groups, which often join together to form massive herds. When resting, they usually stand next to each other facing opposite directions so they can watch out for danger from all sides.",
+        "zh": "斑马是食草动物，一天中大部分时间都在吃坚硬的草原草。它们非常合群，生活在小家庭中，这些家庭经常聚在一起形成巨大的兽群。休息时，它们通常并排站着，面朝相反的方向，这样就能观察四面八方的危险。"
+      },
+      "habitat_and_distribution": {
+        "en": "Plains zebras are the most common wild horses in the world. They live across the grasslands, savannas, and lightly wooded areas of eastern and southern Africa. Every year, huge numbers of zebras travel long distances across the Serengeti in search of fresh grass and water.",
+        "zh": "平原斑马是世界上最常见的野马。它们分布在非洲东部和南部的草原、稀树草原和树木稀疏的地区。每年都有大量的斑马在塞伦盖蒂进行长途迁徙，寻找新鲜的草和水。"
+      }
+    },
+    "habitat": {
+      "text_en": "Grasslands of Eastern and Southern Africa",
+      "text_zh": "非洲东南部草原",
+      "map_coordinates": [
+        -3,
+        34.5
+      ],
+      "map_zoom_level": 5,
+      "global_distribution_polygons": [
+        [
+          [
+            5,
+            35
+          ],
+          [
+            5,
+            45
+          ],
+          [
+            -10,
+            40
+          ],
+          [
+            -25,
+            32
+          ],
+          [
+            -30,
+            25
+          ],
+          [
+            -20,
+            15
+          ],
+          [
+            -5,
+            30
+          ],
+          [
+            5,
+            35
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/plains-zebra.jpg"
+  },
+  {
+    "id": "hippopotamus",
+    "name_zh": "河马",
+    "name_en": "Hippopotamus",
+    "scientific_name": "Hippopotamus amphibius",
+    "ui_tags": [
+      "Mammal",
+      "River",
+      "Herbivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Artiodactyla",
+        "zh": "偶蹄目"
+      },
+      "family": {
+        "en": "Hippopotamidae",
+        "zh": "河马科"
+      },
+      "genus": {
+        "en": "Hippopotamus",
+        "zh": "河马属"
+      }
+    },
+    "conservation_status": {
+      "code": "VU",
+      "en": "Vulnerable",
+      "zh": "易危"
+    },
+    "description": {
+      "en": "The hippopotamus is a huge, water-loving mammal with a massive mouth, spending its days keeping cool in African rivers.",
+      "zh": "河马是一种喜爱水的巨型哺乳动物，嘴巴极大，白天通常在非洲的河流里乘凉。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Hippos are the third-largest land mammals, weighing up to 3,000 kilograms! They have a barrel-shaped body, short legs, and an enormous head. Their eyes, ears, and nose are placed high on top of their head so they can see, hear, and breathe while the rest of their body is hidden underwater.",
+        "zh": "河马是第三大陸地哺乳动物，体重可达3000公斤！它们身体呈桶状，腿很短，头巨大。它们的眼睛、耳朵和鼻子长在头顶很高的地方，这样它们就可以在身体其他部分藏在水下时，依然能够看、听和呼吸。"
+      },
+      "ecology_and_behavior": {
+        "en": "Even though they look cute, hippos are very aggressive and fiercely defend their river territory. During the hot day, they stay in the water to keep their sensitive skin from sunburn. At night, they leave the water to walk onto the land and eat large amounts of grass.",
+        "zh": "虽然它们看起来很可爱，但河马非常有攻击性，会激烈地保卫自己的河流领地。在炎热的白天，它们呆在水里，以免敏感的皮肤被晒伤。到了晚上，它们离开水走到陆地上吃大量的草。"
+      },
+      "habitat_and_distribution": {
+        "en": "Hippopotamuses live in rivers, lakes, and mangrove swamps across Sub-Saharan Africa. They need areas with slow-moving water to rest in during the day and grassy shores nearby for feeding at night. Their numbers have gone down because they are losing their watery homes.",
+        "zh": "河马生活在撒哈拉以南非洲的河流、湖泊和红树林沼泽中。它们需要白天能在水流缓慢的地方休息，晚上在附近的草岸上觅食。由于失去了水中的家园，它们的数量已经减少。"
+      }
+    },
+    "habitat": {
+      "text_en": "Rivers and lakes of Sub-Saharan Africa",
+      "text_zh": "撒哈拉以南非洲的河流与湖泊",
+      "map_coordinates": [
+        -0.5,
+        33.5
+      ],
+      "map_zoom_level": 5,
+      "global_distribution_polygons": [
+        [
+          [
+            15,
+            -15
+          ],
+          [
+            15,
+            35
+          ],
+          [
+            5,
+            40
+          ],
+          [
+            -10,
+            35
+          ],
+          [
+            -20,
+            32
+          ],
+          [
+            -25,
+            20
+          ],
+          [
+            -15,
+            15
+          ],
+          [
+            -5,
+            12
+          ],
+          [
+            5,
+            -5
+          ],
+          [
+            15,
+            -15
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/hippopotamus.jpg"
+  },
+  {
+    "id": "blue-whale",
+    "name_zh": "蓝鲸",
+    "name_en": "Blue Whale",
+    "scientific_name": "Balaenoptera musculus",
+    "ui_tags": [
+      "Mammal",
+      "Ocean",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Cetacea",
+        "zh": "鲸目"
+      },
+      "family": {
+        "en": "Balaenopteridae",
+        "zh": "须鲸科"
+      },
+      "genus": {
+        "en": "Balaenoptera",
+        "zh": "须鲸属"
+      }
+    },
+    "conservation_status": {
+      "code": "EN",
+      "en": "Endangered",
+      "zh": "濒危"
+    },
+    "description": {
+      "en": "The blue whale is a marine mammal and the largest animal known to have ever existed on Earth, relying on baleen plates to filter feed.",
+      "zh": "蓝鲸是一种海洋哺乳动物，也是已知地球上生存过的体型最大的动物，依靠鲸须板进行过滤进食。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Blue whales are true ocean giants! They can grow up to 100 feet long and weigh as much as 33 elephants. A blue whale's heart is about the size of a small car, and its tongue weighs as much as an entire elephant. Instead of sharp teeth, they have giant fringed plates called baleen hanging from their upper jaws.",
+        "zh": "蓝鲸是真正的海洋巨无霸！它们可以长达100英尺，体重相当于33头大象的总和。蓝鲸的心脏大约有一辆小汽车那么大，而它的舌头和大象一样重。它们没有锋利的牙齿，上颚悬挂着巨大的边缘带有流苏的鲸须板。"
+      },
+      "ecology_and_behavior": {
+        "en": "Despite being the biggest creatures on the planet, blue whales survive by eating some of the smallest animals: tiny shrimp-like creatures called krill. A single blue whale can eat up to 4 tons of krill a day! They are also incredibly loud, communicating through deep, low-frequency rumbles that can travel for thousands of miles underwater.",
+        "zh": "尽管是地球上最大的生物，蓝鲸却靠吃最小的动物生存：一种叫做磷虾的微小虾类。一只蓝鲸一天能吃掉多达4吨的磷虾！它们的声音也大得惊人，通过深沉的低频隆隆声进行交流，这种声音在水下可以传播数千英里。"
+      },
+      "habitat_and_distribution": {
+        "en": "Blue whales roam almost all of the world's deep oceans. During the summer, they travel to the cold, icy waters near the North and South Poles where food is abundant. In the winter, they migrate thousands of miles to warmer tropical waters to give birth to their giant babies.",
+        "zh": "蓝鲸游弋在世界各地几乎所有的深海大洋中。在夏天，它们前往南北极附近食物丰富的寒冷冰雪水域。到了冬天，它们会游行数千英里迁徙到温暖的热带水域，在那里生下巨大的鲸鱼宝宝。"
+      }
+    },
+    "habitat": {
+      "text_en": "Global Oceans, polar feeding grounds to tropical breeding grounds",
+      "text_zh": "全球各大洋，从极地觅食区到热带繁殖区",
+      "map_coordinates": [
+        0,
+        -120
+      ],
+      "map_zoom_level": 2,
+      "global_distribution_polygons": [
+        [
+          [
+            55,
+            -160
+          ],
+          [
+            50,
+            -135
+          ],
+          [
+            30,
+            -120
+          ],
+          [
+            10,
+            -90
+          ],
+          [
+            -10,
+            -85
+          ],
+          [
+            -40,
+            -95
+          ],
+          [
+            -65,
+            -150
+          ],
+          [
+            -60,
+            170
+          ],
+          [
+            -30,
+            180
+          ],
+          [
+            10,
+            -170
+          ],
+          [
+            55,
+            -160
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/blue-whale.jpg"
+  },
+  {
+    "id": "orca",
+    "name_zh": "虎鲸",
+    "name_en": "Orca",
+    "scientific_name": "Orcinus orca",
+    "ui_tags": [
+      "Mammal",
+      "Ocean",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Cetacea",
+        "zh": "鲸目"
+      },
+      "family": {
+        "en": "Delphinidae",
+        "zh": "海豚科"
+      },
+      "genus": {
+        "en": "Orcinus",
+        "zh": "虎鲸属"
+      }
+    },
+    "conservation_status": {
+      "code": "DD",
+      "en": "Data Deficient",
+      "zh": "数据缺乏"
+    },
+    "description": {
+      "en": "The orca, also known as the killer whale, is a highly intelligent toothed whale and the largest member of the oceanic dolphin family.",
+      "zh": "虎鲸也被称为杀人鲸，是一种高度聪明的齿鲸，也是海洋海豚科中体型最大的成员。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Orcas have a very famous black back, a white chest, and a white patch above and behind their eyes. Male orcas have a huge dorsal fin on their back that can stand up to 6 feet tall! They have a sleek, torpedo-like body covered in a thick layer of fat called blubber to stay warm.",
+        "zh": "虎鲸拥有非常著名的黑色背部、白色胸部，以及眼睛后上方的一块白色斑块。雄性虎鲸背部有一个巨大的背鳍，可以高达6英尺！它们拥有流线型的鱼雷状身体，表面覆盖着一层被称为鲸脂的厚脂肪以保持温暖。"
+      },
+      "ecology_and_behavior": {
+        "en": "Often called the 'wolves of the sea,' orcas are apex predators, meaning nothing else hunts them. They live in tight family groups called pods and are incredibly smart. They work together to hunt anything from fish and penguins to seals and even large whales. Each family pod speaks its own unique language of clicks and whistles.",
+        "zh": "虎鲸常被称为「海中之狼」，它们是顶级捕食者，这意味着没有任何动物会捕杀它们。它们生活在被称为「社群」的紧密家庭群体中，非常聪明。它们合作捕猎，从鱼类、企鹅到海豹甚至大型鲸鱼。每个家庭社群都说着自己独有的点击声和口哨声语言。"
+      },
+      "habitat_and_distribution": {
+        "en": "Orcas are one of the most widely distributed mammals in the world. They can be found in every ocean on Earth, from the freezing icy waters of the Arctic and Antarctica to warm tropical seas, though they prefer colder coastal areas.",
+        "zh": "虎鲸是世界上分布最广的哺乳动物之一。地球上的每一个大洋里都能找到它们的身影，从北极和南极极其寒冷的冰水域到温暖的热带海洋，尽管它们更喜欢寒冷的沿海地区。"
+      }
+    },
+    "habitat": {
+      "text_en": "Global Oceans, heavily concentrated in coastal high latitudes",
+      "text_zh": "全球海洋，高度集中在高纬度沿海地区",
+      "map_coordinates": [
+        48.5,
+        -125
+      ],
+      "map_zoom_level": 3,
+      "global_distribution_polygons": [
+        [
+          [
+            65,
+            -160
+          ],
+          [
+            55,
+            -135
+          ],
+          [
+            40,
+            -125
+          ],
+          [
+            30,
+            -120
+          ],
+          [
+            20,
+            -110
+          ],
+          [
+            -10,
+            -85
+          ],
+          [
+            -40,
+            -70
+          ],
+          [
+            -60,
+            -60
+          ],
+          [
+            -70,
+            -100
+          ],
+          [
+            -50,
+            -150
+          ],
+          [
+            -20,
+            -160
+          ],
+          [
+            20,
+            -170
+          ],
+          [
+            65,
+            -160
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/orca.jpg"
+  },
+  {
+    "id": "common-bottlenose-dolphin",
+    "name_zh": "宽吻海豚",
+    "name_en": "Common Bottlenose Dolphin",
+    "scientific_name": "Tursiops truncatus",
+    "ui_tags": [
+      "Mammal",
+      "Ocean",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Cetacea",
+        "zh": "鲸目"
+      },
+      "family": {
+        "en": "Delphinidae",
+        "zh": "海豚科"
+      },
+      "genus": {
+        "en": "Tursiops",
+        "zh": "宽吻海豚属"
+      }
+    },
+    "conservation_status": {
+      "code": "LC",
+      "en": "Least Concern",
+      "zh": "无危"
+    },
+    "description": {
+      "en": "The common bottlenose dolphin is a highly social and intelligent marine mammal, recognized globally for its characteristic 'smiling' beak.",
+      "zh": "宽吻海豚是一种高度群居且聪明的海洋哺乳动物，以其标志性的「微笑」长喙而在全球闻名。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "These dolphins are mostly gray with a lighter belly. They have a short, thick snout that looks a bit like a bottle, giving them their name! Because of the way their mouth curves, they always look like they are smiling. They breathe air through a single blowhole on the top of their heads.",
+        "zh": "这些海豚大多是灰色的，腹部颜色较浅。它们有一个又短又粗的吻部，看起来有点像瓶子，它们的名字就是这么来的！因为它们嘴巴弯曲的形状，它们看起来总是在微笑。它们通过头顶的一个呼吸孔来呼吸空气。"
+      },
+      "ecology_and_behavior": {
+        "en": "Bottlenose dolphins are playful and super smart. They use a superpower called echolocation—making clicking sounds that bounce off objects—to find fish hidden in muddy water. When they sleep, they shut down only half of their brain and keep one eye open to watch for sharks and remember to go up for air!",
+        "zh": "宽吻海豚爱玩且超级聪明。它们使用一种叫做回声定位的超能力——发出咔哒声，声音从物体上弹回——来寻找隐藏在浑水中的鱼。当它们睡觉时，只关闭一半的大脑，并睁着一只眼睛提防鲨鱼，同时记住要浮出水面呼吸！"
+      },
+      "habitat_and_distribution": {
+        "en": "You won't find them in the freezing ice, but bottlenose dolphins live in almost all the warm and temperate oceans, gulfs, and seas around the world. They love surfing in the waves near the beach.",
+        "zh": "你不会在冰冷的冰层中找到它们，但宽吻海豚几乎生活在全世界所有的温水和温带海洋、海湾及海域中。它们喜欢在海滩附近的波浪中冲浪。"
+      }
+    },
+    "habitat": {
+      "text_en": "Temperate and tropical coastal waters and open oceans",
+      "text_zh": "温带和热带近海水域及开阔海洋",
+      "map_coordinates": [
+        25,
+        -80
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            40,
+            -75
+          ],
+          [
+            35,
+            -70
+          ],
+          [
+            25,
+            -75
+          ],
+          [
+            20,
+            -85
+          ],
+          [
+            10,
+            -80
+          ],
+          [
+            0,
+            -40
+          ],
+          [
+            20,
+            -20
+          ],
+          [
+            45,
+            -15
+          ],
+          [
+            50,
+            -40
+          ],
+          [
+            40,
+            -75
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/common-bottlenose-dolphin.jpg"
+  },
+  {
+    "id": "polar-bear",
+    "name_zh": "北极熊",
+    "name_en": "Polar Bear",
+    "scientific_name": "Ursus maritimus",
+    "ui_tags": [
+      "Mammal",
+      "Arctic",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Ursidae",
+        "zh": "熊科"
+      },
+      "genus": {
+        "en": "Ursus",
+        "zh": "熊属"
+      }
+    },
+    "conservation_status": {
+      "code": "VU",
+      "en": "Vulnerable",
+      "zh": "易危"
+    },
+    "description": {
+      "en": "The polar bear is a massive hypercarnivorous bear whose native range lies largely within the Arctic Circle, heavily dependent on sea ice.",
+      "zh": "北极熊是一种巨大的超肉食性熊类，其原生栖息地主要在北极圈内，高度依赖海冰生存。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Did you know a polar bear's fur isn't actually white? It's transparent and hollow, reflecting the sunlight! Under all that fluffy hair, their skin is jet black to absorb the sun's heat. They have massive paws the size of dinner plates that act like snowshoes on ice and paddles in the water.",
+        "zh": "你知道北极熊的毛其实不是白色的吗？它是透明且中空的，只是反射了阳光！在所有毛茸茸的毛发下面，它们的皮肤是乌黑的，用来吸收太阳的热量。它们长着餐盘大小的巨爪，在冰上就像雪地靴，在水里就像船桨。"
+      },
+      "ecology_and_behavior": {
+        "en": "Polar bears are the largest meat-eating animals that live on land. They are patient hunters, waiting by breathing holes in the ice to catch ringed seals. A polar bear's nose is so amazing that it can smell a seal hiding under three feet of solid snow from almost a mile away!",
+        "zh": "北极熊是生活在陆地上的体型最大的食肉动物。它们是耐心的猎手，守在冰层的呼吸孔旁捕捉环斑海豹。北极熊的鼻子非常神奇，能从近一英里外闻到躲在三英尺厚实雪下的海豹！"
+      },
+      "habitat_and_distribution": {
+        "en": "These majestic bears live exclusively in the freezing Arctic, roaming across the sea ice of Canada, Russia, Alaska, Greenland, and Norway. Sadly, because the planet is getting warmer, the ice is melting fast, which makes it harder for them to find food and survive.",
+        "zh": "这些雄伟的熊专属于冰冷的北极，漫游在加拿大、俄罗斯、阿拉斯加、格陵兰岛和挪威的海冰上。可悲的是，因为地球正在变暖，冰层融化得很快，这使得它们寻找食物和生存变得更加困难。"
+      }
+    },
+    "habitat": {
+      "text_en": "Circumpolar Arctic sea ice and coastal tundra",
+      "text_zh": "环北极海冰带与沿海冻原",
+      "map_coordinates": [
+        78,
+        15
+      ],
+      "map_zoom_level": 3,
+      "global_distribution_polygons": [
+        [
+          [
+            75,
+            -160
+          ],
+          [
+            80,
+            -120
+          ],
+          [
+            82,
+            -80
+          ],
+          [
+            85,
+            -20
+          ],
+          [
+            80,
+            20
+          ],
+          [
+            78,
+            60
+          ],
+          [
+            75,
+            100
+          ],
+          [
+            72,
+            150
+          ],
+          [
+            70,
+            180
+          ],
+          [
+            70,
+            -170
+          ],
+          [
+            75,
+            -160
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/polar-bear.jpg"
+  },
+  {
+    "id": "walrus",
+    "name_zh": "海象",
+    "name_en": "Walrus",
+    "scientific_name": "Odobenus rosmarus",
+    "ui_tags": [
+      "Mammal",
+      "Arctic",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Carnivora",
+        "zh": "食肉目"
+      },
+      "family": {
+        "en": "Odobenidae",
+        "zh": "海象科"
+      },
+      "genus": {
+        "en": "Odobenus",
+        "zh": "海象属"
+      }
+    },
+    "conservation_status": {
+      "code": "VU",
+      "en": "Vulnerable",
+      "zh": "易危"
+    },
+    "description": {
+      "en": "The walrus is a large flippered marine mammal recognized by its prominent tusks and whiskers, inhabiting shallow Arctic seas.",
+      "zh": "海象是一种体型巨大、长有鳍状肢的海洋哺乳动物，以其突出的长牙和胡须为特征，栖息在浅水北极海域。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "You can always recognize a walrus by its two giant, white tusks and a thick, bristly mustache! Both male and female walruses grow these tusks, which can reach up to 3 feet long. Their skin is thick, wrinkly, and pinkish-brown, covering a heavy layer of fat to survive the freezing cold.",
+        "zh": "你总是能通过两根巨大的白色长牙和浓密的胡须认出海象！雄性和雌性海象都会长出这种可以长达3英尺的长牙。它们的皮肤又厚又皱，呈粉棕色，下面覆盖着厚厚的一层脂肪以抵御严寒。"
+      },
+      "ecology_and_behavior": {
+        "en": "Walruses use their giant tusks like ice picks to pull their heavy bodies out of the water onto the ice. They love to rest together in huge, noisy herds, bumping and barking at each other. For food, they dive to the dark, muddy ocean floor and use their sensitive whiskers to find thousands of clams and snails.",
+        "zh": "海象用它们巨大的长牙像冰镐一样，把沉重的身体从水里拉到冰上。它们喜欢成群结队地在冰上休息，非常喧闹，互相碰撞和吠叫。为了觅食，它们潜入黑暗、泥泞的海底，用敏感的胡须寻找成千上万的蛤蜊和蜗牛。"
+      },
+      "habitat_and_distribution": {
+        "en": "Walruses live in the shallow waters just above the ocean floor around the North Pole. They need strong sea ice to use as floating resting beds and a safe place to have their babies.",
+        "zh": "海象生活在北极点周围靠近海底的浅水区。它们需要坚固的海冰作为漂浮的休息床，也是生宝宝的安全地带。"
+      }
+    },
+    "habitat": {
+      "text_en": "Shallow Arctic continental shelves and pack ice",
+      "text_zh": "北极大陆架浅水区及浮冰区",
+      "map_coordinates": [
+        70,
+        -165
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            65,
+            -175
+          ],
+          [
+            70,
+            -165
+          ],
+          [
+            73,
+            -155
+          ],
+          [
+            75,
+            -145
+          ],
+          [
+            70,
+            -130
+          ],
+          [
+            62,
+            -155
+          ],
+          [
+            65,
+            -175
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/walrus.jpg"
+  },
+  {
+    "id": "emperor-penguin",
+    "name_zh": "帝企鹅",
+    "name_en": "Emperor Penguin",
+    "scientific_name": "Aptenodytes forsteri",
+    "ui_tags": [
+      "Bird",
+      "Antarctic",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Aves",
+        "zh": "鸟纲"
+      },
+      "order": {
+        "en": "Sphenisciformes",
+        "zh": "企鹅目"
+      },
+      "family": {
+        "en": "Spheniscidae",
+        "zh": "企鹅科"
+      },
+      "genus": {
+        "en": "Aptenodytes",
+        "zh": "王企鹅属"
+      }
+    },
+    "conservation_status": {
+      "code": "NT",
+      "en": "Near Threatened",
+      "zh": "近危"
+    },
+    "description": {
+      "en": "The emperor penguin is the tallest and heaviest of all penguin species, renowned for breeding during the brutal Antarctic winter.",
+      "zh": "帝企鹅是所有企鹅物种中最高和最重的，以在残酷的南极冬季进行繁殖而闻名。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Standing nearly 4 feet tall and weighing up to 90 pounds, Emperor penguins look like giant birds dressed in elegant tuxedos with a beautiful glow of golden-yellow feathers around their necks. They have a special warm pouch on their belly to hold their eggs.",
+        "zh": "帝企鹅站立时近4英尺高，重达90磅，看起来像穿着优雅燕尾服的巨型鸟类，脖子周围闪耀着美丽的淡黄色羽毛光泽。它们的腹部有一个温暖的特殊皮褶，用来存放它们的蛋。"
+      },
+      "ecology_and_behavior": {
+        "en": "These penguins are the toughest parents on Earth! While the moms travel far to the ocean to hunt for fish, the dads stay behind on the freezing ice. A dad balances the egg on his feet to keep it from touching the ice, standing in the bitter dark winter for two whole months without eating! To stay warm, thousands of penguins huddle tightly together in a giant circle.",
+        "zh": "这些企鹅是地球上最坚强的父母！当妈妈们前往遥远的海洋捕鱼时，爸爸们留在了冰天雪地里。爸爸把蛋平衡在脚上以防接触到冰面，在寒冷黑暗的冬天里整整站立两个月不吃东西！为了保暖，成千上万只企鹅紧紧依偎在一起，围成一个巨大的圆圈。"
+      },
+      "habitat_and_distribution": {
+        "en": "Emperor penguins live on the thick, frozen sea ice connected to the continent of Antarctica. They spend their time diving deep into the frigid Southern Ocean to catch fish and squid.",
+        "zh": "帝企鹅生活在连接着南极洲大陆的厚重且冰冻的海冰上。它们花时间深潜入寒冷的南大洋去捕捉鱼和乌贼。"
+      }
+    },
+    "habitat": {
+      "text_en": "Antarctic fast ice and Southern Ocean waters",
+      "text_zh": "南极固定冰及南大洋水域",
+      "map_coordinates": [
+        -77,
+        165
+      ],
+      "map_zoom_level": 3,
+      "global_distribution_polygons": [
+        [
+          [
+            -70,
+            -60
+          ],
+          [
+            -75,
+            0
+          ],
+          [
+            -72,
+            90
+          ],
+          [
+            -68,
+            140
+          ],
+          [
+            -74,
+            170
+          ],
+          [
+            -78,
+            165
+          ],
+          [
+            -75,
+            -140
+          ],
+          [
+            -70,
+            -60
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/emperor-penguin.jpg"
+  },
+  {
+    "id": "peregrine-falcon",
+    "name_zh": "游隼",
+    "name_en": "Peregrine Falcon",
+    "scientific_name": "Falco peregrinus",
+    "ui_tags": [
+      "Bird",
+      "Mountains",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Aves",
+        "zh": "鸟纲"
+      },
+      "order": {
+        "en": "Falconiformes",
+        "zh": "隼形目"
+      },
+      "family": {
+        "en": "Falconidae",
+        "zh": "隼科"
+      },
+      "genus": {
+        "en": "Falco",
+        "zh": "隼属"
+      }
+    },
+    "conservation_status": {
+      "code": "LC",
+      "en": "Least Concern",
+      "zh": "无危"
+    },
+    "description": {
+      "en": "The peregrine falcon is a cosmopolitan bird of prey renowned for its incredible speed, making it the fastest animal on the planet.",
+      "zh": "游隼是一种世界性分布的猛禽，以其惊人的速度而闻名，是地球上最快的动物。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Peregrine falcons have slate blue-gray wings, a white chest with dark stripes, and a black face pattern that looks like a knight's helmet. Their bodies are built for extreme speed, shaped like a fighter jet, with special bones in their nose that let them breathe even when flying through the air like a rocket.",
+        "zh": "游隼有石板蓝灰色的翅膀，白色的胸部带有深色条纹，黑色的面部图案看起来像骑士的头盔。它们的身体专为极速而生，形状像战斗机，鼻子里有特殊的骨头，让它们在像火箭一样在空中飞行时仍能呼吸。"
+      },
+      "ecology_and_behavior": {
+        "en": "They hold the record as the fastest animals on Earth! When a peregrine falcon spots a yummy pigeon far below, it folds its wings and dives straight down in a move called a 'stoop.' During this dive, they can reach speeds of over 240 miles per hour (386 km/h)—faster than a race car!",
+        "zh": "它们保持着地球上最快动物的纪录！当一只游隼在下方很远处发现美味的鸽子时，它会收起翅膀径直向下俯冲，这个动作叫做「stoop」。在这个俯冲过程中，它们的速度可以达到每小时240英里（386公里/小时）以上——比赛车还快！"
+      },
+      "habitat_and_distribution": {
+        "en": "These adaptable birds live on every continent except Antarctica. While they naturally nest on high mountain cliffs, many have moved into human cities, building their nests on top of towering skyscrapers and bridges.",
+        "zh": "这些适应性极强的鸟类生活在除南极洲以外的各个大陆上。虽然它们天生喜欢在高山的悬崖峭壁上筑巢，但许多游隼已经搬进了人类的城市，在高耸的摩天大楼和桥梁顶部筑巢。"
+      }
+    },
+    "habitat": {
+      "text_en": "Global distribution across cliffs, tundras, and urban skyscrapers",
+      "text_zh": "广泛分布于全球悬崖、冻原及城市摩天大楼",
+      "map_coordinates": [
+        40,
+        -74
+      ],
+      "map_zoom_level": 2,
+      "global_distribution_polygons": [
+        [
+          [
+            70,
+            -160
+          ],
+          [
+            70,
+            -60
+          ],
+          [
+            45,
+            -60
+          ],
+          [
+            30,
+            -80
+          ],
+          [
+            10,
+            -110
+          ],
+          [
+            -30,
+            -70
+          ],
+          [
+            -50,
+            -70
+          ],
+          [
+            -30,
+            -120
+          ],
+          [
+            30,
+            -130
+          ],
+          [
+            70,
+            -160
+          ]
+        ],
+        [
+          [
+            70,
+            10
+          ],
+          [
+            70,
+            150
+          ],
+          [
+            30,
+            120
+          ],
+          [
+            10,
+            100
+          ],
+          [
+            -30,
+            150
+          ],
+          [
+            -40,
+            140
+          ],
+          [
+            -10,
+            20
+          ],
+          [
+            30,
+            -10
+          ],
+          [
+            70,
+            10
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/peregrine-falcon.jpg"
+  },
+  {
+    "id": "wandering-albatross",
+    "name_zh": "漂泊信天翁",
+    "name_en": "Wandering Albatross",
+    "scientific_name": "Diomedea exulans",
+    "ui_tags": [
+      "Bird",
+      "Ocean",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Aves",
+        "zh": "鸟纲"
+      },
+      "order": {
+        "en": "Procellariiformes",
+        "zh": "鹱形目"
+      },
+      "family": {
+        "en": "Diomedeidae",
+        "zh": "信天翁科"
+      },
+      "genus": {
+        "en": "Diomedea",
+        "zh": "信天翁属"
+      }
+    },
+    "conservation_status": {
+      "code": "VU",
+      "en": "Vulnerable",
+      "zh": "易危"
+    },
+    "description": {
+      "en": "The wandering albatross is a large seabird from the Southern Ocean, possessing the largest wingspan of any living bird.",
+      "zh": "漂泊信天翁是来自南大洋的大型海鸟，拥有现存鸟类中最大的翼展。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "If you stretched your arms out wide, you still wouldn't be as wide as a Wandering Albatross! They have the largest wingspan of any bird alive, measuring up to 11.5 feet (3.5 meters) from tip to tip. They have a big hooked pink beak perfect for grabbing slippery food from the water.",
+        "zh": "如果你把双臂完全伸展开，还是没有漂泊信天翁那么宽！它们拥有现存鸟类中最大的翼展，两端相距可达11.5英尺（3.5米）。它们有一张带钩的粉红色大嘴，非常适合从水中抓取滑溜溜的食物。"
+      },
+      "ecology_and_behavior": {
+        "en": "These magnificent birds are the ultimate ocean gliders. Thanks to their massive wings, they can lock their elbow joints and ride the ocean winds for hours without flapping their wings even once. They can fly around the entire Earth in a single year, only landing on the water to eat squid and fish.",
+        "zh": "这些华丽的鸟类是终极的海洋滑翔机。多亏了巨大的翅膀，它们可以锁定肘关节，乘着海风飞行数小时而无需拍打一次翅膀。它们在一年内就能绕地球飞行一圈，只有在吃乌贼和鱼的时候才会降落在水面上。"
+      },
+      "habitat_and_distribution": {
+        "en": "They live almost entirely in the wild, windy skies of the Southern Ocean. They only ever return to solid ground on remote, rocky islands to build their nests and raise their fluffy chicks.",
+        "zh": "它们几乎完全生活在南大洋狂风大作的野外天空中。它们只在偏远、岩石密布的岛屿上才会回到坚实的陆地上，为了筑巢和抚养毛茸茸的雏鸟。"
+      }
+    },
+    "habitat": {
+      "text_en": "Pelagic zones of the Southern Ocean and sub-Antarctic islands",
+      "text_zh": "南大洋远洋带及亚南极岛屿",
+      "map_coordinates": [
+        -50,
+        0
+      ],
+      "map_zoom_level": 2,
+      "global_distribution_polygons": [
+        [
+          [
+            -35,
+            -60
+          ],
+          [
+            -35,
+            20
+          ],
+          [
+            -40,
+            100
+          ],
+          [
+            -45,
+            170
+          ],
+          [
+            -60,
+            170
+          ],
+          [
+            -65,
+            100
+          ],
+          [
+            -60,
+            20
+          ],
+          [
+            -55,
+            -60
+          ],
+          [
+            -35,
+            -60
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/wandering-albatross.jpg"
+  },
+  {
+    "id": "common-ostrich",
+    "name_zh": "非洲鸵鸟",
+    "name_en": "Common Ostrich",
+    "scientific_name": "Struthio camelus",
+    "ui_tags": [
+      "Bird",
+      "Grassland",
+      "Omnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Aves",
+        "zh": "鸟纲"
+      },
+      "order": {
+        "en": "Struthioniformes",
+        "zh": "鸵鸟目"
+      },
+      "family": {
+        "en": "Struthionidae",
+        "zh": "鸵鸟科"
+      },
+      "genus": {
+        "en": "Struthio",
+        "zh": "鸵鸟属"
+      }
+    },
+    "conservation_status": {
+      "code": "LC",
+      "en": "Least Concern",
+      "zh": "无危"
+    },
+    "description": {
+      "en": "The common ostrich is a species of flightless bird native to Africa, holding the record as the largest living bird.",
+      "zh": "非洲鸵鸟是一种原产于非洲的不会飞的鸟类，保持着体型最大现存鸟类的记录。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Ostriches are the giants of the bird world, growing taller than the tallest human! They have long, bare necks, big fluffy black and white feathers on males, and massive eyes that are bigger than their own brains. To help them run, they only have two toes on each foot—one with a deadly sharp claw.",
+        "zh": "鸵鸟是鸟类世界的巨人，长得比最高的人类还要高！它们有长长光秃秃的脖子，雄性身上长着巨大的黑白相间的蓬松羽毛，还有比它们自己大脑还要大的巨大眼睛。为了帮助奔跑，它们每只脚上只有两个脚趾——其中一个长着致命的利爪。"
+      },
+      "ecology_and_behavior": {
+        "en": "Ostriches might not be able to fly, but they sure can run! They are the fastest birds on land, sprinting at speeds up to 43 miles per hour (70 km/h). When faced with danger, like a hungry lion, an ostrich can deliver a super-powerful forward kick that is strong enough to save its life. They mostly munch on plants, seeds, and sometimes crunchy insects.",
+        "zh": "鸵鸟也许不会飞，但它们绝对很能跑！它们是陆地上最快的鸟类，冲刺速度可达每小时43英里（70公里/小时）。当面临危险时，比如遇到饥饿的狮子，鸵鸟可以踢出超级有力的一脚，其力量足以保命。它们主要大口咀嚼植物、种子，有时也吃嘎嘣脆的昆虫。"
+      },
+      "habitat_and_distribution": {
+        "en": "You can spot ostriches running across the wide, dusty savannas and dry deserts of Africa. They like living in open spaces so their big eyes can spot sneaky predators from far away.",
+        "zh": "你可以看到鸵鸟在非洲广阔、尘土飞扬的大草原和干旱的沙漠中奔跑。它们喜欢生活在开阔的地方，这样它们的大眼睛就能从很远的地方发现鬼鬼祟祟的捕食者。"
+      }
+    },
+    "habitat": {
+      "text_en": "African savannas, shrublands, and desert edges",
+      "text_zh": "非洲稀树草原、灌木丛及沙漠边缘",
+      "map_coordinates": [
+        0,
+        20
+      ],
+      "map_zoom_level": 3,
+      "global_distribution_polygons": [
+        [
+          [
+            15,
+            -15
+          ],
+          [
+            18,
+            10
+          ],
+          [
+            15,
+            35
+          ],
+          [
+            5,
+            45
+          ],
+          [
+            -10,
+            35
+          ],
+          [
+            -30,
+            30
+          ],
+          [
+            -30,
+            15
+          ],
+          [
+            -15,
+            10
+          ],
+          [
+            5,
+            10
+          ],
+          [
+            15,
+            -15
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/common-ostrich.jpg"
+  },
+  {
+    "id": "greater-flamingo",
+    "name_zh": "大红鹳",
+    "name_en": "Greater Flamingo",
+    "scientific_name": "Phoenicopterus roseus",
+    "ui_tags": [
+      "Bird",
+      "Wetland",
+      "Omnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Aves",
+        "zh": "鸟纲"
+      },
+      "order": {
+        "en": "Phoenicopteriformes",
+        "zh": "红鹳目"
+      },
+      "family": {
+        "en": "Phoenicopteridae",
+        "zh": "红鹳科"
+      },
+      "genus": {
+        "en": "Phoenicopterus",
+        "zh": "红鹳属"
+      }
+    },
+    "conservation_status": {
+      "code": "LC",
+      "en": "Least Concern",
+      "zh": "无危"
+    },
+    "description": {
+      "en": "The greater flamingo is a tall, pink-plumaged wading bird widely distributed across the Old World.",
+      "zh": "大红鹳是一种身材高挑、长有粉红色羽毛的涉禽，广泛分布于旧大陆。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "With their incredibly long, skinny legs and an elegant, S-shaped neck, flamingos are hard to miss. Their feathers are a beautiful pinkish-white. Their beak has a very weird bend in the middle, designed to be used upside down in the water!",
+        "zh": "拥有令人难以置信的细长双腿和优雅的S形脖子，火烈鸟让人很难错过。它们的羽毛是美丽的粉白色。它们的鸟喙中间有一个非常奇怪的弯曲，这是为了在水里倒过来用而设计的！"
+      },
+      "ecology_and_behavior": {
+        "en": "Why are flamingos pink? It's not magic, it's their diet! They eat algae and tiny brine shrimp that contain red color pigments. The more they eat, the pinker they get. A large gathering of these birds is fabulously called a 'flamboyance'. They also love to take a nap while standing perfectly balanced on just one leg.",
+        "zh": "火烈鸟为什么是粉红色的？这不是魔法，而是它们的饮食！它们吃含有红色色素的藻类和微小的丰年虾。吃得越多，它们就变得越粉。一大群这种鸟被绝妙地称为「flamboyance（华丽群体）」。它们还喜欢在一只脚上保持完美平衡站着打个盹。"
+      },
+      "habitat_and_distribution": {
+        "en": "Greater flamingos live in big flocks in shallow, muddy, and very salty lakes or lagoons. You can find them across Africa, southern Europe, and parts of Asia. They like water that is so salty it would make other animals sick.",
+        "zh": "大红鹳成大群生活在泥泞且盐度极高的浅水湖泊或泻湖中。你可以在非洲、南欧和亚洲的部分地区找到它们。它们喜欢咸得会让其他动物生病的水域。"
+      }
+    },
+    "habitat": {
+      "text_en": "Saline lakes, estuaries, and shallow coastal lagoons across Africa and Eurasia",
+      "text_zh": "横跨非洲和欧亚大陆的咸水湖、河口和浅水沿海泻湖",
+      "map_coordinates": [
+        25,
+        30
+      ],
+      "map_zoom_level": 3,
+      "global_distribution_polygons": [
+        [
+          [
+            45,
+            -5
+          ],
+          [
+            45,
+            10
+          ],
+          [
+            40,
+            35
+          ],
+          [
+            25,
+            55
+          ],
+          [
+            10,
+            75
+          ],
+          [
+            -25,
+            35
+          ],
+          [
+            -10,
+            10
+          ],
+          [
+            15,
+            -15
+          ],
+          [
+            35,
+            -10
+          ],
+          [
+            45,
+            -5
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/greater-flamingo.jpg"
+  },
+  {
+    "id": "green-sea-turtle",
+    "name_zh": "绿海龟",
+    "name_en": "Green Sea Turtle",
+    "scientific_name": "Chelonia mydas",
+    "ui_tags": [
+      "Reptile",
+      "Ocean",
+      "Herbivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Reptilia",
+        "zh": "爬行纲"
+      },
+      "order": {
+        "en": "Testudines",
+        "zh": "龟鳖目"
+      },
+      "family": {
+        "en": "Cheloniidae",
+        "zh": "海龟科"
+      },
+      "genus": {
+        "en": "Chelonia",
+        "zh": "海龟属"
+      }
+    },
+    "conservation_status": {
+      "code": "EN",
+      "en": "Endangered",
+      "zh": "濒危"
+    },
+    "description": {
+      "en": "The green sea turtle is an endangered marine reptile that undertakes long migrations between feeding grounds and hatching beaches.",
+      "zh": "绿海龟是一种濒危的海洋爬行动物，在觅食地和孵化海滩之间进行长途迁徙。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Green sea turtles have a smooth, teardrop-shaped shell that makes them excellent swimmers. Unlike cartoon turtles, sea turtles cannot pull their heads and flippers inside their shells. Their name is actually a secret—they are named 'green' because of the green fat hidden beneath their shell, not the color of the shell itself!",
+        "zh": "绿海龟有一个光滑的水滴状外壳，使它们成为出色的游泳者。不像卡通里的乌龟，海龟不能把头和鳍缩进壳里。它们的名字其实是一个秘密——它们被称为「绿」海龟是因为藏在壳下的绿色脂肪，而不是壳本身的颜色！"
+      },
+      "ecology_and_behavior": {
+        "en": "While baby sea turtles might eat bugs and jellyfish, adult green sea turtles are vegetarians! They spend their days peacefully grazing on underwater meadows of sea grass. When a mother turtle is ready to lay eggs, she uses Earth's magnetic field to navigate thousands of miles back to the exact beach where she hatched as a baby.",
+        "zh": "虽然小海龟可能会吃虫子和水母，但成年的绿海龟是素食主义者！它们平静地在水下海草甸上吃草度日。当海龟妈妈准备产卵时，她会利用地球磁场导航数千英里，准确地回到她小时候破壳而出的那片海滩。"
+      },
+      "habitat_and_distribution": {
+        "en": "They glide through the warm, shallow coastal waters and coral reefs of the Atlantic, Pacific, and Indian Oceans. Sadly, they are in danger because their nesting beaches are being destroyed and they accidentally get caught in fishing nets.",
+        "zh": "它们在穿越大西洋、太平洋和印度洋温暖、浅水沿岸水域和珊瑚礁时滑翔。不幸的是，因为它们筑巢的海滩被破坏，并且偶尔会被渔网缠住，它们正处于危险之中。"
+      }
+    },
+    "habitat": {
+      "text_en": "Tropical and subtropical coastal waters, seagrass beds",
+      "text_zh": "热带和亚热带沿海水域，海草床",
+      "map_coordinates": [
+        20,
+        -85
+      ],
+      "map_zoom_level": 2,
+      "global_distribution_polygons": [
+        [
+          [
+            35,
+            -120
+          ],
+          [
+            30,
+            -75
+          ],
+          [
+            40,
+            -50
+          ],
+          [
+            30,
+            0
+          ],
+          [
+            20,
+            50
+          ],
+          [
+            30,
+            120
+          ],
+          [
+            10,
+            150
+          ],
+          [
+            -20,
+            150
+          ],
+          [
+            -30,
+            50
+          ],
+          [
+            -35,
+            -50
+          ],
+          [
+            -30,
+            -90
+          ],
+          [
+            -10,
+            -120
+          ],
+          [
+            35,
+            -120
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/green-sea-turtle.jpg"
+  },
+  {
+    "id": "saltwater-crocodile",
+    "name_zh": "湾鳄",
+    "name_en": "Saltwater Crocodile",
+    "scientific_name": "Crocodylus porosus",
+    "ui_tags": [
+      "Reptile",
+      "River",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Reptilia",
+        "zh": "爬行纲"
+      },
+      "order": {
+        "en": "Crocodilia",
+        "zh": "鳄目"
+      },
+      "family": {
+        "en": "Crocodylidae",
+        "zh": "鳄科"
+      },
+      "genus": {
+        "en": "Crocodylus",
+        "zh": "鳄属"
+      }
+    },
+    "conservation_status": {
+      "code": "LC",
+      "en": "Least Concern",
+      "zh": "无危"
+    },
+    "description": {
+      "en": "The saltwater crocodile is a massive, hypercarnivorous reptile and the largest living predator on land and in rivers.",
+      "zh": "湾鳄是一种巨大的超级肉食性爬行动物，也是陆地和河流中现存体型最大的捕食者。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Meet the real monster of the rivers, also known as the 'saltie'! These are the largest living reptiles on Earth, with big males growing up to 20 feet (6 meters) long. They have thick, bumpy scales acting like tough armor, a massive tail for powerful swimming, and jaws that have the strongest bite force of any animal.",
+        "zh": "来见见真正的河流怪兽，也被称为「咸水鳄」！它们是地球上现存最大的爬行动物，巨大的雄性可长达20英尺（6米）。它们有厚实凹凸不平的鳞片就像坚硬的盔甲，一条便于强力游泳的巨大尾巴，以及拥有所有动物中最强咬合力的下巴。"
+      },
+      "ecology_and_behavior": {
+        "en": "Salties are apex predators and master ninjas of the water. They are ambush hunters, waiting perfectly still under the murky water with just their eyes and nostrils sticking out. If a fish, bird, or even a large buffalo comes too close to the water's edge to drink, the crocodile strikes in a flash!",
+        "zh": "咸水鳄是水中的顶级捕食者和忍者大师。它们是伏击猎手，一动不动地潜伏在浑浊的水下，只露出眼睛和鼻孔。如果鱼、鸟甚至巨大的水牛靠水边太近喝水，鳄鱼会在一瞬间发动攻击！"
+      },
+      "habitat_and_distribution": {
+        "en": "They are incredible swimmers and can be found in salty mangrove swamps, river mouths, and occasionally traveling far out into the ocean. Their homes stretch across Southeast Asia, from the eastern coast of India all the way down to northern Australia.",
+        "zh": "它们是令人难以置信的游泳健将，出没在咸水红树林沼泽、河口，偶尔也会游到远洋中。它们的家园横跨东南亚，从印度东海岸一直向南延伸到澳大利亚北部。"
+      }
+    },
+    "habitat": {
+      "text_en": "Mangrove swamps, estuaries, and river mouths of the Indo-Pacific",
+      "text_zh": "印度-太平洋地区的红树林沼泽、河口及入海口",
+      "map_coordinates": [
+        -12.5,
+        131
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            15,
+            85
+          ],
+          [
+            20,
+            95
+          ],
+          [
+            10,
+            105
+          ],
+          [
+            5,
+            120
+          ],
+          [
+            10,
+            130
+          ],
+          [
+            -5,
+            150
+          ],
+          [
+            -15,
+            145
+          ],
+          [
+            -20,
+            135
+          ],
+          [
+            -20,
+            120
+          ],
+          [
+            -10,
+            110
+          ],
+          [
+            10,
+            80
+          ],
+          [
+            15,
+            85
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/saltwater-crocodile.jpg"
+  },
+  {
+    "id": "komodo-dragon",
+    "name_zh": "科莫多巨蜥",
+    "name_en": "Komodo Dragon",
+    "scientific_name": "Varanus komodoensis",
+    "ui_tags": [
+      "Reptile",
+      "Desert",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Reptilia",
+        "zh": "爬行纲"
+      },
+      "order": {
+        "en": "Squamata",
+        "zh": "有鳞目"
+      },
+      "family": {
+        "en": "Varanidae",
+        "zh": "巨蜥科"
+      },
+      "genus": {
+        "en": "Varanus",
+        "zh": "巨蜥属"
+      }
+    },
+    "conservation_status": {
+      "code": "EN",
+      "en": "Endangered",
+      "zh": "濒危"
+    },
+    "description": {
+      "en": "The Komodo dragon is the world's largest lizard species, endemic to a handful of Indonesian islands and known for its venomous bite.",
+      "zh": "科莫多巨蜥是世界上体型最大的蜥蜴物种，是印度尼西亚少数岛屿的特有物种，以其有毒的咬合而闻名。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Looking at a Komodo dragon is like looking at a dinosaur! They are the heaviest and longest lizards in the world, growing up to 10 feet long. They are covered in tough, chain-mail-like scales. Their most famous feature is a long, yellow, forked tongue that constantly flicks in and out.",
+        "zh": "看着科莫多巨蜥就像在看恐龙！它们是世界上最重、最长的蜥蜴，可以长到10英尺长。它们全身覆盖着坚韧的、像锁子甲一样的鳞片。它们最著名的特征是一条长长的、分叉的黄色舌头，不断地吐进吐出。"
+      },
+      "ecology_and_behavior": {
+        "en": "They don't breathe fire, but they do have venom! When they bite a large animal like a deer or water buffalo, the venom causes the animal to get weak over time. They use their forked tongue to 'taste' the air, helping them track down a meal from miles away. When they are babies, they live up in trees to avoid being eaten by bigger dragons.",
+        "zh": "它们不会喷火，但它们确实有毒液！当它们咬伤鹿或水牛等大型动物时，毒液会让动物随着时间的推移变得虚弱。它们用分叉的舌头来「品尝」空气，帮助它们追踪几英里外的食物。在它们还是幼崽时，它们住在树上，以避免被更大的巨蜥吃掉。"
+      },
+      "habitat_and_distribution": {
+        "en": "In the entire world, wild Komodo dragons only live on a few hot, dry, volcanic islands in Indonesia, mostly inside Komodo National Park. Because their island home is so small, rising ocean waters from climate change are a huge threat to them.",
+        "zh": "在全世界，野生的科莫多巨蜥只生活在印度尼西亚几个炎热、干燥的火山岛上，主要在科莫多国家公园内。因为它们的岛屿家园太小了，气候变化导致的海水上升对它们构成了巨大的威胁。"
+      }
+    },
+    "habitat": {
+      "text_en": "Savanna and volcanic forests of Komodo National Park, Indonesia",
+      "text_zh": "印度尼西亚科莫多国家公园的稀树草原与火山森林",
+      "map_coordinates": [
+        -8.55,
+        119.45
+      ],
+      "map_zoom_level": 10,
+      "global_distribution_polygons": [
+        [
+          [
+            -8.45,
+            119.4
+          ],
+          [
+            -8.42,
+            119.48
+          ],
+          [
+            -8.5,
+            119.55
+          ],
+          [
+            -8.6,
+            119.52
+          ],
+          [
+            -8.65,
+            119.4
+          ],
+          [
+            -8.55,
+            119.35
+          ],
+          [
+            -8.45,
+            119.4
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/komodo-dragon.jpg"
+  },
+  {
+    "id": "green-iguana",
+    "name_zh": "绿鬣蜥",
+    "name_en": "Green Iguana",
+    "scientific_name": "Iguana iguana",
+    "ui_tags": [
+      "Reptile",
+      "Forest",
+      "Herbivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Reptilia",
+        "zh": "爬行纲"
+      },
+      "order": {
+        "en": "Squamata",
+        "zh": "有鳞目"
+      },
+      "family": {
+        "en": "Iguanidae",
+        "zh": "鬣蜥科"
+      },
+      "genus": {
+        "en": "Iguana",
+        "zh": "鬣蜥属"
+      }
+    },
+    "conservation_status": {
+      "code": "LC",
+      "en": "Least Concern",
+      "zh": "无危"
+    },
+    "description": {
+      "en": "The green iguana is a large, arboreal, mostly herbivorous lizard widely distributed across the Americas.",
+      "zh": "绿鬣蜥是一种大型的树栖蜥蜴，主要以草食为主，广泛分布于美洲大陆。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Green iguanas are striking reptiles with a row of spikey, comb-like scales running all the way down their back to their long, whip-like tail. Under their chin, they have a large floppy piece of skin called a 'dewlap' that they puff out to say hello or look scary. Even though their name says 'green,' they can actually be bright orange, brown, or even blue!",
+        "zh": "绿鬣蜥是引人注目的爬行动物，背部有一排如梳子般的尖锐鳞片，一直延伸到像鞭子一样的长尾巴。在它们的下巴下面，有一块巨大的、松垂的皮肤，叫做「喉扇」，它们会把喉扇鼓起来打招呼或让自己看起来很吓人。虽然它们的名字叫「绿」，但它们实际上也可以是亮橙色、棕色，甚至蓝色！"
+      },
+      "ecology_and_behavior": {
+        "en": "These big lizards are vegetarians, spending their lazy days high up in the treetops munching on juicy leaves, flowers, and fruit. They are excellent tree climbers. If a bird or snake tries to attack them, they will let go of the branch and drop straight down into a river, swimming away quickly like a little crocodile.",
+        "zh": "这些大蜥蜴是素食主义者，它们慵懒的时光都在高高的树冠上度过，大口嚼着多汁的树叶、花朵和水果。它们是爬树高手。如果鸟或蛇试图攻击它们，它们会松开树枝直接掉进河里，像小鳄鱼一样迅速游走。"
+      },
+      "habitat_and_distribution": {
+        "en": "They love the heat and live in the tropical, rainy forests of Central and South America. They have also been brought by humans to places like Florida, where you can often see them sunbathing on warm concrete sidewalks.",
+        "zh": "它们喜欢炎热，生活在中南美洲热带、多雨的森林里。它们也被人类带到了佛罗里达等地，在那里你经常可以看到它们在温暖的水泥人行道上晒太阳。"
+      }
+    },
+    "habitat": {
+      "text_en": "Canopies of tropical rainforests in Central and South America",
+      "text_zh": "中南美洲热带雨林的树冠层",
+      "map_coordinates": [
+        10,
+        -84
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            25,
+            -100
+          ],
+          [
+            20,
+            -85
+          ],
+          [
+            10,
+            -70
+          ],
+          [
+            5,
+            -50
+          ],
+          [
+            -15,
+            -40
+          ],
+          [
+            -25,
+            -50
+          ],
+          [
+            -25,
+            -65
+          ],
+          [
+            0,
+            -80
+          ],
+          [
+            15,
+            -95
+          ],
+          [
+            25,
+            -100
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/green-iguana.jpg"
+  },
+  {
+    "id": "golden-poison-frog",
+    "name_zh": "黄金箭毒蛙",
+    "name_en": "Golden Poison Frog",
+    "scientific_name": "Phyllobates terribilis",
+    "ui_tags": [
+      "Amphibian",
+      "Forest",
+      "Insectivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Amphibia",
+        "zh": "两栖纲"
+      },
+      "order": {
+        "en": "Anura",
+        "zh": "无尾目"
+      },
+      "family": {
+        "en": "Dendrobatidae",
+        "zh": "箭毒蛙科"
+      },
+      "genus": {
+        "en": "Phyllobates",
+        "zh": "叶毒蛙属"
+      }
+    },
+    "conservation_status": {
+      "code": "EN",
+      "en": "Endangered",
+      "zh": "濒危"
+    },
+    "description": {
+      "en": "The golden poison frog is a tiny endemic amphibian of Colombia, containing enough alkaloid toxin to kill multiple adult humans.",
+      "zh": "黄金箭毒蛙是哥伦比亚特有的一种微小两栖动物，其体内含有的生物碱毒素足以杀死多名成年人。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Don't let its size fool you! This frog is only about two inches long, fitting perfectly in the palm of your hand, but it is super bright! It can be a dazzling mint green, yellow, or orange. This glowing color is nature's stop sign, warning hungry predators: 'Do not eat me!'",
+        "zh": "别被它的体型骗了！这只青蛙只有大约两英寸长，完全可以放在你的手掌心里，但它颜色极其鲜艳！它可以是耀眼的薄荷绿、黄色或橙色。这种发光的颜色是大自然的停车标志，警告饥饿的捕食者：「别吃我！」"
+      },
+      "ecology_and_behavior": {
+        "en": "The golden poison frog is considered the most poisonous animal on Earth. A single tiny frog has enough poison in its skin to take down 10 grown adults! The amazing part is they don't make the poison themselves; they absorb it by eating special toxic ants and beetles in the jungle. They are also caring fathers, giving piggyback rides to their tadpoles.",
+        "zh": "黄金箭毒蛙被认为是地球上最毒的动物。一只小小的青蛙皮肤里的毒素就足以放倒10个成年人！神奇的是，它们自己并不制造毒素；它们通过吃丛林里特殊的有毒蚂蚁和甲虫来吸收毒素。它们也是有爱的父亲，会背着它们的蝌蚪到处跑。"
+      },
+      "habitat_and_distribution": {
+        "en": "These deadly but beautiful frogs live in only one place in the whole world: a tiny patch of incredibly wet, humid rainforest on the Pacific coast of Colombia. Their home is disappearing as trees are cut down for farming.",
+        "zh": "这些致命但美丽的青蛙只生活在全世界唯一的一个地方：哥伦比亚太平洋沿岸一小片极其潮湿、多雨的热带雨林中。由于人们为了种地砍伐树木，它们的家园正在消失。"
+      }
+    },
+    "habitat": {
+      "text_en": "Primary humid forests of the Chocó region in Colombia",
+      "text_zh": "哥伦比亚乔科地区的潮湿原始森林",
+      "map_coordinates": [
+        2.6,
+        -77.6
+      ],
+      "map_zoom_level": 7,
+      "global_distribution_polygons": [
+        [
+          [
+            3.5,
+            -77
+          ],
+          [
+            3,
+            -76.8
+          ],
+          [
+            2.5,
+            -77
+          ],
+          [
+            2.2,
+            -77.5
+          ],
+          [
+            2.5,
+            -78
+          ],
+          [
+            3.2,
+            -77.5
+          ],
+          [
+            3.5,
+            -77
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/golden-poison-frog.jpg"
+  },
+  {
+    "id": "axolotl",
+    "name_zh": "墨西哥钝口螈",
+    "name_en": "Axolotl",
+    "scientific_name": "Ambystoma mexicanum",
+    "ui_tags": [
+      "Amphibian",
+      "Freshwater",
+      "Carnivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Amphibia",
+        "zh": "两栖纲"
+      },
+      "order": {
+        "en": "Urodela",
+        "zh": "有尾目"
+      },
+      "family": {
+        "en": "Ambystomatidae",
+        "zh": "钝口螈科"
+      },
+      "genus": {
+        "en": "Ambystoma",
+        "zh": "钝口螈属"
+      }
+    },
+    "conservation_status": {
+      "code": "CR",
+      "en": "Critically Endangered",
+      "zh": "极危"
+    },
+    "description": {
+      "en": "The axolotl is a critically endangered paedomorphic salamander endemic to the lake complex of Xochimilco near Mexico City.",
+      "zh": "墨西哥钝口螈是一种极危的童态型蝾螈，特产于墨西哥城附近的霍奇米尔科湖区。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "The axolotl looks like a happy, underwater alien! It has a wide, cute face that looks like it's always smiling. On the sides of its head, it wears a fuzzy 'crown' of feathery gills that help it breathe. Because it never goes through metamorphosis like a regular frog or salamander, it stays looking like a baby forever.",
+        "zh": "墨西哥钝口螈看起来像一个快乐的水下外星人！它有一张宽大、可爱的脸，看起来总是在微笑。在它的头两侧，戴着一顶毛茸茸的、羽毛状鳃组成的「王冠」，这能帮助它呼吸。因为它从不像普通的青蛙或蝾螈那样经历变态发育，所以它永远保持着婴儿般的样子。"
+      },
+      "ecology_and_behavior": {
+        "en": "Axolotls have an incredible, real-life superpower: regeneration! If an axolotl hurts or loses an arm, a leg, its tail, or even parts of its heart and brain, it can completely grow them back without a single scar. They walk slowly on the muddy lake bottom, sucking up worms and small fish like an underwater vacuum cleaner.",
+        "zh": "墨西哥钝口螈拥有一种令人难以置信的现实生活中的超能力：再生！如果墨西哥钝口螈受伤或失去了一条胳膊、一条腿、尾巴，甚至心脏和大脑的一部分，它可以完全重新长出来，而且不留一点疤痕。它们在泥泞的湖底缓慢行走，像水下吸尘器一样吸食蠕虫和小鱼。"
+      },
+      "habitat_and_distribution": {
+        "en": "In the wild, these amazing creatures only exist in one single place on Earth: the ancient, murky canals of Lake Xochimilco in Mexico City. Sadly, pollution and the sprawling city have made them critically endangered in nature.",
+        "zh": "在野外，这些神奇的生物只存在于地球上的一个地方：墨西哥城霍奇米尔科湖古老、浑浊的运河中。令人悲伤的是，污染和不断扩张的城市让它们在自然界中处于极度濒危的状态。"
+      }
+    },
+    "habitat": {
+      "text_en": "Lake Xochimilco canal network, Mexico City",
+      "text_zh": "墨西哥城霍奇米尔科湖运河网络",
+      "map_coordinates": [
+        19.285,
+        -99.102
+      ],
+      "map_zoom_level": 12,
+      "global_distribution_polygons": [
+        [
+          [
+            19.3,
+            -99.12
+          ],
+          [
+            19.31,
+            -99.1
+          ],
+          [
+            19.29,
+            -99.08
+          ],
+          [
+            19.27,
+            -99.09
+          ],
+          [
+            19.26,
+            -99.11
+          ],
+          [
+            19.28,
+            -99.125
+          ],
+          [
+            19.3,
+            -99.12
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/axolotl.jpg"
+  },
+  {
+    "id": "red-kangaroo",
+    "name_zh": "红袋鼠",
+    "name_en": "Red Kangaroo",
+    "scientific_name": "Osphranter rufus",
+    "ui_tags": [
+      "Mammal",
+      "Outback",
+      "Herbivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Diprotodontia",
+        "zh": "双门齿目"
+      },
+      "family": {
+        "en": "Macropodidae",
+        "zh": "袋鼠科"
+      },
+      "genus": {
+        "en": "Osphranter",
+        "zh": "大袋鼠属"
+      }
+    },
+    "conservation_status": {
+      "code": "LC",
+      "en": "Least Concern",
+      "zh": "无危"
+    },
+    "description": {
+      "en": "The red kangaroo is the largest terrestrial mammal native to Australia, famous for its powerful hind legs and marsupial pouch.",
+      "zh": "红袋鼠是澳大利亚原产的最大陆生哺乳动物，以其强有力的后腿和有袋动物的育儿袋而闻名。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Red kangaroos are the undisputed giants of Australia. Big males have reddish-brown fur and can stand over 6 feet tall, packing serious muscles. They have gigantic back feet made like biological springs for jumping, and a thick, muscular tail that is so strong it acts like a fifth leg when they walk slowly.",
+        "zh": "红袋鼠是澳大利亚无可争议的巨人。高大的雄性长着红褐色的皮毛，站立时可超过6英尺高，浑身都是结实的肌肉。它们有巨大的后脚，就像生物弹簧一样适合跳跃，还有一条粗壮、肌肉发达的尾巴，力量大到在它们慢走时就像第五条腿一样。"
+      },
+      "ecology_and_behavior": {
+        "en": "Instead of running, they hop! A red kangaroo can leap up to 30 feet forward in a single bound, flying across the desert at 40 miles per hour. Mother kangaroos have a cozy pocket on their belly called a pouch. A tiny, jellybean-sized baby, called a joey, climbs inside and stays there for months until it's big enough to hop around.",
+        "zh": "它们不跑，而是跳！一只红袋鼠一次跳跃就能向前跃出30英尺，以每小时40英里的速度飞跃沙漠。袋鼠妈妈的肚子上有一个舒适的口袋叫做育儿袋。一个像软糖豆那么小、被称为joey的宝宝会爬进去，在里面待上几个月，直到长得足够大可以跳来跳去为止。"
+      },
+      "habitat_and_distribution": {
+        "en": "They are the kings of the Outback. They roam the vast, sun-baked deserts and dry grasslands of central Australia, resting in the shade during the hottest parts of the day.",
+        "zh": "它们是澳洲内陆之王。它们漫步在澳大利亚中部广阔、被太阳炙烤的沙漠和干旱的草原上，在一天中最热的时候躲在阴凉处休息。"
+      }
+    },
+    "habitat": {
+      "text_en": "Arid and semi-arid scrublands of the Australian Outback",
+      "text_zh": "澳大利亚内陆干旱及半干旱灌木丛带",
+      "map_coordinates": [
+        -23.5,
+        133.5
+      ],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [
+        [
+          [
+            -15,
+            115
+          ],
+          [
+            -15,
+            145
+          ],
+          [
+            -20,
+            150
+          ],
+          [
+            -35,
+            145
+          ],
+          [
+            -35,
+            135
+          ],
+          [
+            -30,
+            115
+          ],
+          [
+            -15,
+            115
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/red-kangaroo.jpg"
+  },
+  {
+    "id": "koala",
+    "name_zh": "考拉",
+    "name_en": "Koala",
+    "scientific_name": "Phascolarctos cinereus",
+    "ui_tags": [
+      "Mammal",
+      "Forest",
+      "Herbivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Diprotodontia",
+        "zh": "双门齿目"
+      },
+      "family": {
+        "en": "Phascolarctidae",
+        "zh": "树袋熊科"
+      },
+      "genus": {
+        "en": "Phascolarctos",
+        "zh": "树袋熊属"
+      }
+    },
+    "conservation_status": {
+      "code": "EN",
+      "en": "Endangered",
+      "zh": "濒危"
+    },
+    "description": {
+      "en": "The koala is an arboreal herbivorous marsupial native to Australia, subsisting almost entirely on a diet of eucalyptus leaves.",
+      "zh": "考拉是一种原产于澳大利亚的树栖食草有袋动物，几乎完全以桉树叶为食。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Koalas look exactly like stuffed teddy bears come to life! They have fluffy round ears, a big leathery black nose, and thick gray fur. To help them live in trees, they have two thumbs on their front paws and razor-sharp curved claws that grip tightly onto bark.",
+        "zh": "考拉看起来就像是活过来的毛绒泰迪熊！它们有毛茸茸的圆耳朵、大大的黑色皮革状鼻子和厚厚的灰色皮毛。为了帮助它们在树上生活，它们前爪上有两个拇指，还有像剃刀一样锋利的弯曲爪子，可以紧紧抓住树皮。"
+      },
+      "ecology_and_behavior": {
+        "en": "If there was an award for sleeping, koalas would win! They sleep up to 20 hours a day. Why? Because they only eat the leaves of eucalyptus trees. These leaves are actually toxic to most animals and don't provide a lot of energy, so koalas have to sleep a lot to digest them and save energy.",
+        "zh": "如果有一个睡觉比赛，考拉一定会赢！它们每天能睡长达20个小时。为什么呢？因为它们只吃桉树的叶子。这些叶子实际上对大多数动物都有毒，而且不能提供很多能量，所以考拉必须睡很多觉来消化它们并保存能量。"
+      },
+      "habitat_and_distribution": {
+        "en": "Koalas live high up in the branches of eucalyptus forests along the eastern coast of Australia. Unfortunately, massive bushfires and human cities are destroying their forests, making them an endangered species.",
+        "zh": "考拉高高地生活在澳大利亚东海岸桉树林的树枝上。不幸的是，大规模的丛林大火和人类城市正在摧毁它们的森林，使它们成为濒危物种。"
+      }
+    },
+    "habitat": {
+      "text_en": "Eucalyptus woodlands along Australia's eastern and southeastern coasts",
+      "text_zh": "澳大利亚东部和东南部沿海的桉树林",
+      "map_coordinates": [
+        -30,
+        150
+      ],
+      "map_zoom_level": 5,
+      "global_distribution_polygons": [
+        [
+          [
+            -15,
+            143
+          ],
+          [
+            -18,
+            146
+          ],
+          [
+            -25,
+            153
+          ],
+          [
+            -35,
+            150
+          ],
+          [
+            -38,
+            145
+          ],
+          [
+            -38,
+            140
+          ],
+          [
+            -33,
+            138
+          ],
+          [
+            -28,
+            145
+          ],
+          [
+            -20,
+            140
+          ],
+          [
+            -15,
+            143
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/koala.jpg"
+  },
+  {
+    "id": "giant-anteater",
+    "name_zh": "大食蚁兽",
+    "name_en": "Giant Anteater",
+    "scientific_name": "Myrmecophaga tridactyla",
+    "ui_tags": [
+      "Mammal",
+      "Grassland",
+      "Insectivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Pilosa",
+        "zh": "披毛目"
+      },
+      "family": {
+        "en": "Myrmecophagidae",
+        "zh": "食蚁兽科"
+      },
+      "genus": {
+        "en": "Myrmecophaga",
+        "zh": "大食蚁兽属"
+      }
+    },
+    "conservation_status": {
+      "code": "VU",
+      "en": "Vulnerable",
+      "zh": "易危"
+    },
+    "description": {
+      "en": "The giant anteater is a large insectivorous mammal native to Central and South America, characterized by its long tubular snout.",
+      "zh": "大食蚁兽是一种原产于中南美洲的大型食虫哺乳动物，以其长长的管状吻部为特征。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "The giant anteater is one of the strangest-looking animals around! It has a tiny head, no teeth at all, and a snout that looks like a long vacuum cleaner tube. It also has a massive, bushy tail that looks like a flag. When it sleeps, it curls up and uses its tail as a warm, camouflaged blanket.",
+        "zh": "大食蚁兽是周围长相最奇怪的动物之一！它的头很小，完全没有牙齿，还有一个看起来像长吸尘器管子的吻部。它还有一条像旗帜一样巨大而蓬松的尾巴。当它睡觉时，它会蜷缩起来，把尾巴当成温暖的伪装毯子。"
+      },
+      "ecology_and_behavior": {
+        "en": "Instead of teeth, it has a sticky, spaghetti-like tongue that is 2 feet long! It uses giant, sharp front claws to tear open tough termite mounds, then flicks its tongue in and out 150 times a minute. It can eat up to 30,000 ants and termites in a single day. Baby anteaters look like miniature adults and ride on their mom's back for almost a year.",
+        "zh": "它没有牙齿，取而代之的是一条长达2英尺的、像意大利面一样黏稠的舌头！它用巨大锋利的前爪撕开坚硬的白蚁丘，然后每分钟将舌头弹进弹出150次。它一天就能吃掉多达30,000只蚂蚁和白蚁。小食蚁兽看起来像缩小版的成年食蚁兽，会在妈妈的背上骑将近一年。"
+      },
+      "habitat_and_distribution": {
+        "en": "They roam across the grassy savannas and dense rainforests of Central and South America. Sadly, their homes are being taken over by farms and roads, putting them at risk.",
+        "zh": "它们在中南美洲长满草的大草原和茂密的热带雨林中漫游。可悲的是，它们的家园正在被农场和公路占据，使它们面临危险。"
+      }
+    },
+    "habitat": {
+      "text_en": "Tropical and subtropical grasslands, savannas, and forests of South America",
+      "text_zh": "南美热带和亚热带草原、稀树草原和森林",
+      "map_coordinates": [
+        -10,
+        -55
+      ],
+      "map_zoom_level": 3,
+      "global_distribution_polygons": [
+        [
+          [
+            15,
+            -85
+          ],
+          [
+            10,
+            -70
+          ],
+          [
+            5,
+            -50
+          ],
+          [
+            -20,
+            -40
+          ],
+          [
+            -30,
+            -55
+          ],
+          [
+            -25,
+            -65
+          ],
+          [
+            0,
+            -80
+          ],
+          [
+            15,
+            -85
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/giant-anteater.jpg"
+  },
+  {
+    "id": "capybara",
+    "name_zh": "水豚",
+    "name_en": "Capybara",
+    "scientific_name": "Hydrochoerus hydrochaeris",
+    "ui_tags": [
+      "Mammal",
+      "River",
+      "Herbivore"
+    ],
+    "taxonomy": {
+      "kingdom": {
+        "en": "Animalia",
+        "zh": "动物界"
+      },
+      "phylum": {
+        "en": "Chordata",
+        "zh": "脊索动物门"
+      },
+      "class": {
+        "en": "Mammalia",
+        "zh": "哺乳纲"
+      },
+      "order": {
+        "en": "Rodentia",
+        "zh": "啮齿目"
+      },
+      "family": {
+        "en": "Caviidae",
+        "zh": "豚鼠科"
+      },
+      "genus": {
+        "en": "Hydrochoerus",
+        "zh": "水豚属"
+      }
+    },
+    "conservation_status": {
+      "code": "LC",
+      "en": "Least Concern",
+      "zh": "无危"
+    },
+    "description": {
+      "en": "The capybara is a giant cavy rodent native to South America. It is the largest living rodent in the world.",
+      "zh": "水豚是一种原产于南美的巨型豚鼠类啮齿动物。它是世界上最大的现存啮齿动物。"
+    },
+    "encyclopedia": {
+      "anatomy": {
+        "en": "Imagine a guinea pig, but make it the size of a large dog! That's a capybara. They have chunky, barrel-shaped bodies covered in coarse brown hair. Their eyes, ears, and nostrils are all grouped together at the very top of their square-shaped head, which lets them stay almost completely underwater while still breathing and looking around.",
+        "zh": "想象一只豚鼠，但把它变成一只大狗那么大！那就是水豚。它们有着粗壮的桶状身体，覆盖着粗糙的棕色毛发。它们的眼睛、耳朵和鼻孔都聚集在方形脑袋的最顶端，这让它们能几乎完全潜入水下，同时还能呼吸和环顾四周。"
+      },
+      "ecology_and_behavior": {
+        "en": "Capybaras are famous for being incredibly chill and friendly. They live in large groups and spend a lot of time sitting in muddy water to cool down and escape predators like jaguars. They have webbed toes for swimming. Sometimes, other animals like birds, turtles, or even monkeys will sit on top of a capybara's head!",
+        "zh": "水豚以难以置信的冷静和友好而闻名。它们群居生活，花很多时间坐在泥水里乘凉，躲避美洲豹等捕食者。它们长有带蹼的脚趾用来游泳。有时候，像鸟、乌龟甚至猴子等其他动物会坐在水豚的头顶上！"
+      },
+      "habitat_and_distribution": {
+        "en": "Water is a capybara's best friend. They live anywhere in South America where there are rivers, lakes, flooded grasslands, or swamps. They eat grass and aquatic plants, chewing constantly to keep their ever-growing front teeth filed down.",
+        "zh": "水是水豚最好的朋友。在南美洲，只要有河流、湖泊、被淹没的草原或沼泽，它们就能住在那里。它们吃草和水生植物，不断咀嚼以把不断生长的门牙磨短。"
+      }
+    },
+    "habitat": {
+      "text_en": "Wetlands, flooded savannas, and riversides of South America",
+      "text_zh": "南美的湿地、泛滥平原及河岸地带",
+      "map_coordinates": [
+        -15,
+        -60
+      ],
+      "map_zoom_level": 3,
+      "global_distribution_polygons": [
+        [
+          [
+            10,
+            -75
+          ],
+          [
+            5,
+            -50
+          ],
+          [
+            -10,
+            -35
+          ],
+          [
+            -35,
+            -55
+          ],
+          [
+            -35,
+            -65
+          ],
+          [
+            -10,
+            -75
+          ],
+          [
+            10,
+            -75
+          ]
+        ]
+      ]
+    },
+    "image": "/images/animals/capybara.jpg"
   }
 ]
