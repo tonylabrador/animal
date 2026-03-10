@@ -40,55 +40,89 @@
     "zh": "濒危"
   },
   "description": {
-    "en": "A tiny, rabbit-like mammal with a 「teddy bear」 face discovered in the Tianshan Mountains.",
-    "zh": "一种在天山山脉发现的小型哺乳动物，长着像「泰迪熊」一样的脸，外形像兔子。"
+    "en": "The Ili pika is an incredibly rare and cute mountain mammal often called the 「magic rabbit」 of the Tianshan Mountains.",
+    "zh": "伊犁鼠兔是一种极其罕见且可爱的山地哺乳动物，常被称为天山深处的「精灵兔」。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "They are about 20 centimeters long with large ears and gray fur with rusty spots. They are very elusive and rare.",
-      "zh": "它们长约 20 厘米，有大大的耳朵，灰色的皮毛上带有铁锈色斑点。它们非常神秘且罕见。"
+      "en": "Ili pikas are tiny, fuzzy mammals about 20 centimeters long with large, rounded ears and no visible tail. They have thick, grayish-brown fur that perfectly camouflages them against the rocky mountain cliffs where they live.",
+      "zh": "伊犁鼠兔体型娇小，身长约20厘米，长着大而圆的耳朵，没有外露的尾巴。它们拥有厚实的灰褐色皮毛，能让它们完美地隐匿在生活的乱石堆中。"
     },
     "ecology_and_behavior": {
-      "en": "They live in rock crevices at very high altitudes and eat herbs and grasses. They are sensitive to climate change.",
-      "zh": "它们生活在高海拔的岩石缝隙中，以草本植物为食。它们对气候变化非常敏感。"
+      "en": "These 「magic rabbits」 are master gardeners that gather grasses and herbs to build haypiles for winter food. They are mostly solitary and very shy, living high up on steep rock faces to stay safe from predators.",
+      "zh": "这些「精灵兔」是出色的园丁，它们会采集干草和药材堆成小草堆，作为冬天的食物储备。它们大多独居且非常害羞，生活在陡峭的岩壁上以躲避天敌。"
     },
     "habitat_and_distribution": {
-      "en": "Endemic to the Tianshan Mountains in northwest China, living on steep cliffs.",
-      "zh": "中国西北天山山脉特有，生活在陡峭的悬崖上。"
+      "en": "They are found only in the Tianshan Mountains of Xinjiang, China, at extreme altitudes between 2,800 and 4,100 meters. Because of climate change, they are retreating higher up the mountains to find the cold temperatures they need.",
+      "zh": "它们仅分布在中国新疆的天山山脉，生活在海拔2800米至4100米的高寒地带。由于气候变暖，它们不得不向更高海拔的山顶退缩，以寻找赖以生存的寒冷环境。"
     }
   },
   "habitat": {
-    "text_en": "Tianshan Mountains, Xinjiang",
-    "text_zh": "新疆天山山脉",
+    "text_en": "High-altitude rocky slopes of Tianshan",
+    "text_zh": "天山高海拔裸岩区",
     "map_coordinates": [
-      43.5,
-      83
+      43.8,
+      82.8
     ],
-    "map_zoom_level": 7,
+    "map_zoom_level": 6,
     "global_distribution_polygons": [
       [
         [
-          43,
+          43.5,
           82
+        ],
+        [
+          44.2,
+          82
+        ],
+        [
+          44.5,
+          83.5
         ],
         [
           44,
+          84.5
+        ],
+        [
+          43.5,
+          84
+        ],
+        [
+          43.2,
+          82.5
+        ],
+        [
+          43.5,
           82
+        ]
+      ],
+      [
+        [
+          43.6,
+          86
         ],
         [
           44,
-          84
+          86.5
         ],
         [
-          43,
-          84
+          44,
+          87.5
         ],
         [
-          43,
-          82
+          43.5,
+          87.8
+        ],
+        [
+          43.2,
+          87
+        ],
+        [
+          43.6,
+          86
         ]
       ]
     ]
   },
-  "image": null
+  "image": "/images/animals/ili-pika.jpg"
 }

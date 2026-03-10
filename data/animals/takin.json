@@ -1,0 +1,142 @@
+{
+  "id": "takin",
+  "name_zh": "羚牛",
+  "name_en": "Takin",
+  "scientific_name": "Budorcas taxicolor",
+  "ui_tags": [
+    "Mammal",
+    "Mountains",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Bovidae",
+      "zh": "牛科"
+    },
+    "genus": {
+      "en": "Budorcas",
+      "zh": "羚牛属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The takin is a large, muscular mountain-dwelling mammal that looks like a curious mix of a cow and a goat.",
+    "zh": "羚牛是一种强壮的大型山地哺乳动物，看起来像是牛和山羊的奇妙结合体。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Takins are heavy-set animals, weighing up to 350 kilograms. They have a thick, shaggy coat that can be golden, brown, or gray, and a large, bulbous nose. Both males and females grow thick, ridged horns that wrap backwards over their heads.",
+      "zh": "羚牛体型笨重，体重可达350公斤。它们披着厚厚、蓬松的皮毛，颜色可能是金色、棕色或灰色，还有一个硕大的球状鼻子。无论雌雄都长有粗壮且带有棱纹的角，角尖向后方卷曲。"
+    },
+    "ecology_and_behavior": {
+      "en": "Living in high-altitude forests, takins are agile climbers despite their bulky size. They are social animals and love to visit natural salt licks. When they feel danger, they emit a loud 'cough' to warn the rest of the herd.",
+      "zh": "虽然体型庞大，但生活在高海拔森林中的羚牛是敏捷的攀爬高手。它们是群居动物，非常喜欢舔食天然盐渍。当它们感到危险时，会发出响亮的「咳嗽」声来警告象群中的其他成员。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are found in the rugged eastern Himalayas and southwestern China. They migrate vertically up the mountains in summer to find cool alpine meadows and move back down to the valleys in winter to escape the deep snow.",
+      "zh": "它们分布在崎岖的喜马拉雅山脉东部和中国西南部。夏天它们会迁徙到高山草甸寻找清凉，冬天则回到山谷避开厚厚的积雪。"
+    }
+  },
+  "habitat": {
+    "text_en": "Eastern Himalayas and Southwestern Chinese mountains",
+    "text_zh": "喜马拉雅东部及中国西南山地",
+    "map_coordinates": [
+      32,
+      103.5
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          33.1,
+          106.8
+        ],
+        [
+          34.5,
+          107.5
+        ],
+        [
+          34.6,
+          109
+        ],
+        [
+          33.2,
+          109.5
+        ],
+        [
+          33.1,
+          106.8
+        ]
+      ],
+      [
+        [
+          29.5,
+          101.5
+        ],
+        [
+          34,
+          102.5
+        ],
+        [
+          34.2,
+          104.8
+        ],
+        [
+          31,
+          105.5
+        ],
+        [
+          29.5,
+          101.5
+        ]
+      ],
+      [
+        [
+          25.5,
+          96.5
+        ],
+        [
+          29.2,
+          91.5
+        ],
+        [
+          30.5,
+          95
+        ],
+        [
+          28.5,
+          100.2
+        ],
+        [
+          25,
+          99
+        ],
+        [
+          25.5,
+          96.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/takin.jpg"
+}

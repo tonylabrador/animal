@@ -4,7 +4,7 @@
   "name_en": "Giant Isopod",
   "scientific_name": "Bathynomus giganteus",
   "ui_tags": [
-    "Invertebrate",
+    "Arthropod",
     "Ocean",
     "Carnivore"
   ],
@@ -40,54 +40,45 @@
     "zh": "数据缺乏"
   },
   "description": {
-    "en": "A giant deep-sea relative of the common woodlouse that can grow up to 40 cm long.",
-    "zh": "普通西瓜虫的深海巨型亲戚，身长可达 40 厘米。"
+    "en": "The giant isopod is a huge, deep-sea crustacean that looks like a giant pillbug.",
+    "zh": "大王具足虫是一种巨大的深海甲壳类动物，看起来就像一只巨大的西瓜虫。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "They have a hard exoskeleton with overlapping segments and 14 jointed legs. Their large eyes have over 4000 facets.",
-      "zh": "它们拥有坚硬的、由重叠节段组成的甲壳和 14 条关节腿。它们巨大的眼睛有 4000 多个复眼面。"
+      "en": "They can grow up to 30 centimeters long and have a hard, segmented shell to protect themselves. They have large, reflective eyes to see in the dark ocean depths and two pairs of antennas to feel their way around.",
+      "zh": "它们可以长到30厘米长，有坚硬的分节外壳来保护自己。它们有一双可以反光的大眼睛，能在黑暗的深海中看清东西，还有两对触角用来感知周围环境。"
     },
     "ecology_and_behavior": {
-      "en": "They are scavengers that eat dead fish on the ocean floor. They can survive for years without food in captivity.",
-      "zh": "它们是清除者，吃海底的死鱼。在人工饲养环境下，它们甚至可以数年不吃东西也能生存。"
+      "en": "These gentle giants are scavengers, meaning they eat dead animals that fall to the ocean floor, like whale carcasses. Because food is scarce in the deep sea, they can survive for a very long time without eating anything at all!",
+      "zh": "这些温和的庞然大物是食腐动物，这意味着它们吃掉到海底的动物尸体，比如鲸鱼的残骸。因为深海里食物稀少，它们可以在什么都不吃的情况下存活很长一段时间！"
     },
     "habitat_and_distribution": {
-      "en": "Found in the deep waters of the Atlantic, Pacific, and Indian Oceans at depths of up to 2,100 meters.",
-      "zh": "分布在大西洋、太平洋和印度洋的深海中，深度可达 2100 米。"
+      "en": "Giant isopods live at the bottom of the cold, dark Atlantic, Pacific, and Indian Oceans. They prefer the chilly depths of the sea floor, thousands of meters below the waves.",
+      "zh": "大王具足虫生活在寒冷、黑暗的大西洋、太平洋和印度洋的海底。它们喜欢在海浪下方数千米、冰冷的深海底部活动。"
     }
   },
   "habitat": {
-    "text_en": "Deep ocean floor",
+    "text_en": "Deep ocean floors",
     "text_zh": "深海海底",
-    "map_coordinates": [
-      25,
-      -90
-    ],
-    "map_zoom_level": 3,
+    "map_coordinates": [25.0, -90.0],
+    "map_zoom_level": 4,
     "global_distribution_polygons": [
       [
-        [
-          45,
-          -180
+        [25.0, -97.5],
+        [29.0, -95.0],
+        [30.0, -87.0],
+        [25.0, -81.0],
+        [20.0, -83.0],
+        [21.0, -90.0],
+        [25.0, -97.5]
         ],
         [
-          -45,
-          -180
-        ],
-        [
-          -45,
-          180
-        ],
-        [
-          45,
-          180
-        ],
-        [
-          45,
-          -180
+        [20.0, -75.0],
+        [25.0, -70.0],
+        [20.0, -60.0],
+        [10.0, -65.0],
+        [20.0, -75.0]
         ]
-      ]
     ]
   },
   "image": "/images/animals/giant-isopod.jpg"

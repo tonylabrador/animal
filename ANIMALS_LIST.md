@@ -34,7 +34,7 @@
 - 雪羊 / Mountain Goat — *Oreamnos americanus* `mountain-goat`
 - 普氏原羚 / Przewalski's Gazelle — *Procapra przewalskii* `przewalskis-gazelle`
 - 高鼻羚羊 / Saiga Antelope — *Saiga tatarica* `saiga-antelope`
-- 四川羚牛 / Sichuan Takin — *Budorcas taxicolor tibetana* `sichuan-takin`
+- 羚牛 / Takin — *Budorcas taxicolor* `takin`
 - 藏羚羊 / Tibetan Antelope — *Pantholops hodgsonii* `tibetan-antelope`
 
 **长颈鹿科**
