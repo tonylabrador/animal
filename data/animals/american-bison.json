@@ -1,0 +1,236 @@
+{
+  "id": "american-bison",
+  "name_zh": "美洲野牛",
+  "name_en": "American Bison",
+  "scientific_name": "Bison bison",
+  "ui_tags": [
+    "Mammal",
+    "Grassland",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Bovidae",
+      "zh": "牛科"
+    },
+    "genus": {
+      "en": "Bison",
+      "zh": "野牛属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "The American bison is the heaviest land animal in North America, known for its massive head and shaggy coat.",
+    "zh": "美洲野牛是北美洲最重的陆地动物，以其巨大的头部和蓬松的皮毛而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The American bison is a massive animal that can weigh up to 900 kilograms and stand about 1.8 meters tall at the shoulder. It has a huge, shaggy head with short, curved horns and a large muscular hump on its back. Its thick, dark brown fur keeps it warm during freezing winters on the plains.",
+      "zh": "美洲野牛是一种巨大的动物，体重可达900公斤，肩高约1.8米。它有一个巨大而毛茸茸的头，长着短而弯曲的角，背上有一个大大的肌肉隆起。它厚厚的深棕色皮毛可以帮助它在平原的寒冬中保暖。"
+    },
+    "ecology_and_behavior": {
+      "en": "Bison are herbivores that spend most of their day grazing on grasses and sedges. They live in large herds and can run surprisingly fast, reaching speeds of up to 55 kilometers per hour. During mating season in summer, male bison charge and headbutt each other to compete for mates.",
+      "zh": "野牛是草食动物，一天中大部分时间都在吃草和莎草。它们成群结队地生活，奔跑速度非常快，最快可达每小时55公里。在夏天的繁殖季节，雄性野牛会互相冲撞和顶头来争夺伴侣。"
+    },
+    "habitat_and_distribution": {
+      "en": "American bison once roamed the Great Plains of North America in herds of millions. Today they live mainly in national parks and protected grasslands in the United States and Canada. Yellowstone National Park is one of the most famous places where wild bison still roam freely.",
+      "zh": "美洲野牛曾经以数百万头的规模在北美大平原上漫游。如今它们主要生活在美国和加拿大的国家公园和受保护的草原上。黄石国家公园是最著名的仍有野牛自由漫步的地方之一。"
+    }
+  },
+  "habitat": {
+    "text_en": "Great Plains",
+    "text_zh": "大平原",
+    "map_coordinates": [
+      44.6,
+      -103.5
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          44.6,
+          -110.8
+        ],
+        [
+          44.9,
+          -110.2
+        ],
+        [
+          45.1,
+          -110
+        ],
+        [
+          45,
+          -109.5
+        ],
+        [
+          44.8,
+          -109.3
+        ],
+        [
+          44.5,
+          -109.5
+        ],
+        [
+          44.2,
+          -110
+        ],
+        [
+          44.1,
+          -110.5
+        ],
+        [
+          44.3,
+          -110.9
+        ],
+        [
+          44.6,
+          -110.8
+        ]
+      ],
+      [
+        [
+          43.5,
+          -103.5
+        ],
+        [
+          43.7,
+          -103.2
+        ],
+        [
+          43.8,
+          -103
+        ],
+        [
+          43.7,
+          -102.7
+        ],
+        [
+          43.5,
+          -102.6
+        ],
+        [
+          43.3,
+          -102.8
+        ],
+        [
+          43.2,
+          -103.2
+        ],
+        [
+          43.3,
+          -103.5
+        ],
+        [
+          43.5,
+          -103.5
+        ]
+      ],
+      [
+        [
+          49.5,
+          -111.5
+        ],
+        [
+          50.5,
+          -111
+        ],
+        [
+          51.2,
+          -110.5
+        ],
+        [
+          51.5,
+          -110
+        ],
+        [
+          51.3,
+          -109.5
+        ],
+        [
+          50.8,
+          -109.5
+        ],
+        [
+          50,
+          -110
+        ],
+        [
+          49.5,
+          -110.5
+        ],
+        [
+          49.3,
+          -111
+        ],
+        [
+          49.5,
+          -111.5
+        ]
+      ],
+      [
+        [
+          46,
+          -100.5
+        ],
+        [
+          47.5,
+          -100
+        ],
+        [
+          48.5,
+          -99.5
+        ],
+        [
+          49,
+          -99
+        ],
+        [
+          49,
+          -98
+        ],
+        [
+          48,
+          -98.5
+        ],
+        [
+          47,
+          -99
+        ],
+        [
+          46,
+          -99.5
+        ],
+        [
+          45.5,
+          -100
+        ],
+        [
+          46,
+          -100.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/american-bison.jpg"
+}

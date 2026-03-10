@@ -1,0 +1,94 @@
+{
+  "id": "king-penguin",
+  "name_zh": "王企鹅",
+  "name_en": "King Penguin",
+  "scientific_name": "Aptenodytes patagonicus",
+  "ui_tags": [
+    "Bird",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Sphenisciformes",
+      "zh": "企鹅目"
+    },
+    "family": {
+      "en": "Spheniscidae",
+      "zh": "企鹅科"
+    },
+    "genus": {
+      "en": "Aptenodytes",
+      "zh": "王企鹅属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The second largest penguin species, recognizable by the bright golden-orange patches on their head and chest.",
+    "zh": "体型第二大的企鹅物种，以其头部和胸部明亮的金橙色斑块而易于识别。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The King Penguin looks very similar to the Emperor Penguin but is slightly smaller and more colorful! They stand nearly 3 feet tall and wear a 'tuxedo' of waterproof black and white feathers. They are famous for the bright, glowing golden-orange comma-shaped patches on the sides of their head and upper chest.",
+      "zh": "王企鹅看起来和帝企鹅非常相似，但体型稍小，颜色也更鲜艳！它们站立时将近3英尺高，穿着防水的黑白双色羽毛‘燕尾服’。它们以头部两侧和上胸部明亮、发光的金橙色逗号状斑块而闻名。"
+    },
+    "ecology_and_behavior": {
+      "en": "These penguins don't build nests! Instead, the parents take turns carrying their single egg on top of their feet, covering it with a warm flap of belly skin. King penguins are elite divers, plunging over 900 feet deep into the freezing ocean to hunt for lanternfish and squid. Their babies look like giant, walking brown kiwis until they grow their adult feathers!",
+      "zh": "这些企鹅不筑巢！相反，父母轮流把他们唯一的一个蛋放在脚面上，用肚子上一块温暖的皮肤皮褶盖住它。王企鹅是精英潜水员，能潜入900多英尺深冰冷的海洋中捕猎灯笼鱼和乌贼。它们的宝宝在长出成年羽毛之前，看起来就像巨大的、会走路的棕色奇异果！"
+    },
+    "habitat_and_distribution": {
+      "en": "Instead of living on the solid ice of Antarctica, King Penguins live on remote, windy islands just north of the Antarctic, like the Falkland Islands and South Georgia. They gather on flat beaches in massive, noisy colonies containing hundreds of thousands of birds.",
+      "zh": "王企鹅不生活在南极洲坚固的冰层上，而是生活在南极以北偏远、多风的岛屿上，比如福克兰群岛和南乔治亚岛。它们在平坦的海滩上聚集，形成包含数十万只鸟的庞大而喧闹的栖息地。"
+    }
+  },
+  "habitat": {
+    "text_en": "Sub-Antarctic islands and surrounding Southern Ocean",
+    "text_zh": "亚南极岛屿及周围的南大洋",
+    "map_coordinates": [
+      -54,
+      -36
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -45,
+          -70
+        ],
+        [
+          -45,
+          180
+        ],
+        [
+          -60,
+          180
+        ],
+        [
+          -60,
+          -70
+        ],
+        [
+          -45,
+          -70
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/king-penguin.jpg"
+}

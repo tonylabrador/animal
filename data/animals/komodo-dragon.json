@@ -1,0 +1,102 @@
+{
+  "id": "komodo-dragon",
+  "name_zh": "科莫多巨蜥",
+  "name_en": "Komodo Dragon",
+  "scientific_name": "Varanus komodoensis",
+  "ui_tags": [
+    "Reptile",
+    "Desert",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Varanidae",
+      "zh": "巨蜥科"
+    },
+    "genus": {
+      "en": "Varanus",
+      "zh": "巨蜥属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The Komodo dragon is the world's largest lizard species, endemic to a handful of Indonesian islands and known for its venomous bite.",
+    "zh": "科莫多巨蜥是世界上体型最大的蜥蜴物种，是印度尼西亚少数岛屿的特有物种，以其有毒的咬合而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Looking at a Komodo dragon is like looking at a dinosaur! They are the heaviest and longest lizards in the world, growing up to 10 feet long. They are covered in tough, chain-mail-like scales. Their most famous feature is a long, yellow, forked tongue that constantly flicks in and out.",
+      "zh": "看着科莫多巨蜥就像在看恐龙！它们是世界上最重、最长的蜥蜴，可以长到10英尺长。它们全身覆盖着坚韧的、像锁子甲一样的鳞片。它们最著名的特征是一条长长的、分叉的黄色舌头，不断地吐进吐出。"
+    },
+    "ecology_and_behavior": {
+      "en": "They don't breathe fire, but they do have venom! When they bite a large animal like a deer or water buffalo, the venom causes the animal to get weak over time. They use their forked tongue to 'taste' the air, helping them track down a meal from miles away. When they are babies, they live up in trees to avoid being eaten by bigger dragons.",
+      "zh": "它们不会喷火，但它们确实有毒液！当它们咬伤鹿或水牛等大型动物时，毒液会让动物随着时间的推移变得虚弱。它们用分叉的舌头来「品尝」空气，帮助它们追踪几英里外的食物。在它们还是幼崽时，它们住在树上，以避免被更大的巨蜥吃掉。"
+    },
+    "habitat_and_distribution": {
+      "en": "In the entire world, wild Komodo dragons only live on a few hot, dry, volcanic islands in Indonesia, mostly inside Komodo National Park. Because their island home is so small, rising ocean waters from climate change are a huge threat to them.",
+      "zh": "在全世界，野生的科莫多巨蜥只生活在印度尼西亚几个炎热、干燥的火山岛上，主要在科莫多国家公园内。因为它们的岛屿家园太小了，气候变化导致的海水上升对它们构成了巨大的威胁。"
+    }
+  },
+  "habitat": {
+    "text_en": "Savanna and volcanic forests of Komodo National Park, Indonesia",
+    "text_zh": "印度尼西亚科莫多国家公园的稀树草原与火山森林",
+    "map_coordinates": [
+      -8.55,
+      119.45
+    ],
+    "map_zoom_level": 10,
+    "global_distribution_polygons": [
+      [
+        [
+          -8.45,
+          119.4
+        ],
+        [
+          -8.42,
+          119.48
+        ],
+        [
+          -8.5,
+          119.55
+        ],
+        [
+          -8.6,
+          119.52
+        ],
+        [
+          -8.65,
+          119.4
+        ],
+        [
+          -8.55,
+          119.35
+        ],
+        [
+          -8.45,
+          119.4
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/komodo-dragon.jpg"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "common-ostrich",
+  "name_zh": "非洲鸵鸟",
+  "name_en": "Common Ostrich",
+  "scientific_name": "Struthio camelus",
+  "ui_tags": [
+    "Bird",
+    "Grassland",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Struthioniformes",
+      "zh": "鸵鸟目"
+    },
+    "family": {
+      "en": "Struthionidae",
+      "zh": "鸵鸟科"
+    },
+    "genus": {
+      "en": "Struthio",
+      "zh": "鸵鸟属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The common ostrich is a species of flightless bird native to Africa, holding the record as the largest living bird.",
+    "zh": "非洲鸵鸟是一种原产于非洲的不会飞的鸟类，保持着体型最大现存鸟类的记录。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Ostriches are the giants of the bird world, growing taller than the tallest human! They have long, bare necks, big fluffy black and white feathers on males, and massive eyes that are bigger than their own brains. To help them run, they only have two toes on each foot—one with a deadly sharp claw.",
+      "zh": "鸵鸟是鸟类世界的巨人，长得比最高的人类还要高！它们有长长光秃秃的脖子，雄性身上长着巨大的黑白相间的蓬松羽毛，还有比它们自己大脑还要大的巨大眼睛。为了帮助奔跑，它们每只脚上只有两个脚趾——其中一个长着致命的利爪。"
+    },
+    "ecology_and_behavior": {
+      "en": "Ostriches might not be able to fly, but they sure can run! They are the fastest birds on land, sprinting at speeds up to 43 miles per hour (70 km/h). When faced with danger, like a hungry lion, an ostrich can deliver a super-powerful forward kick that is strong enough to save its life. They mostly munch on plants, seeds, and sometimes crunchy insects.",
+      "zh": "鸵鸟也许不会飞，但它们绝对很能跑！它们是陆地上最快的鸟类，冲刺速度可达每小时43英里（70公里/小时）。当面临危险时，比如遇到饥饿的狮子，鸵鸟可以踢出超级有力的一脚，其力量足以保命。它们主要大口咀嚼植物、种子，有时也吃嘎嘣脆的昆虫。"
+    },
+    "habitat_and_distribution": {
+      "en": "You can spot ostriches running across the wide, dusty savannas and dry deserts of Africa. They like living in open spaces so their big eyes can spot sneaky predators from far away.",
+      "zh": "你可以看到鸵鸟在非洲广阔、尘土飞扬的大草原和干旱的沙漠中奔跑。它们喜欢生活在开阔的地方，这样它们的大眼睛就能从很远的地方发现鬼鬼祟祟的捕食者。"
+    }
+  },
+  "habitat": {
+    "text_en": "African savannas, shrublands, and desert edges",
+    "text_zh": "非洲稀树草原、灌木丛及沙漠边缘",
+    "map_coordinates": [
+      0,
+      20
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          -15
+        ],
+        [
+          18,
+          10
+        ],
+        [
+          15,
+          35
+        ],
+        [
+          5,
+          45
+        ],
+        [
+          -10,
+          35
+        ],
+        [
+          -30,
+          30
+        ],
+        [
+          -30,
+          15
+        ],
+        [
+          -15,
+          10
+        ],
+        [
+          5,
+          10
+        ],
+        [
+          15,
+          -15
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/common-ostrich.jpg"
+}

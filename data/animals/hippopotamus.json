@@ -1,0 +1,114 @@
+{
+  "id": "hippopotamus",
+  "name_zh": "河马",
+  "name_en": "Hippopotamus",
+  "scientific_name": "Hippopotamus amphibius",
+  "ui_tags": [
+    "Mammal",
+    "River",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Hippopotamidae",
+      "zh": "河马科"
+    },
+    "genus": {
+      "en": "Hippopotamus",
+      "zh": "河马属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The hippopotamus is a huge, water-loving mammal with a massive mouth, spending its days keeping cool in African rivers.",
+    "zh": "河马是一种喜爱水的巨型哺乳动物，嘴巴极大，白天通常在非洲的河流里乘凉。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Hippos are the third-largest land mammals, weighing up to 3,000 kilograms! They have a barrel-shaped body, short legs, and an enormous head. Their eyes, ears, and nose are placed high on top of their head so they can see, hear, and breathe while the rest of their body is hidden underwater.",
+      "zh": "河马是第三大陸地哺乳动物，体重可达3000公斤！它们身体呈桶状，腿很短，头巨大。它们的眼睛、耳朵和鼻子长在头顶很高的地方，这样它们就可以在身体其他部分藏在水下时，依然能够看、听和呼吸。"
+    },
+    "ecology_and_behavior": {
+      "en": "Even though they look cute, hippos are very aggressive and fiercely defend their river territory. During the hot day, they stay in the water to keep their sensitive skin from sunburn. At night, they leave the water to walk onto the land and eat large amounts of grass.",
+      "zh": "虽然它们看起来很可爱，但河马非常有攻击性，会激烈地保卫自己的河流领地。在炎热的白天，它们呆在水里，以免敏感的皮肤被晒伤。到了晚上，它们离开水走到陆地上吃大量的草。"
+    },
+    "habitat_and_distribution": {
+      "en": "Hippopotamuses live in rivers, lakes, and mangrove swamps across Sub-Saharan Africa. They need areas with slow-moving water to rest in during the day and grassy shores nearby for feeding at night. Their numbers have gone down because they are losing their watery homes.",
+      "zh": "河马生活在撒哈拉以南非洲的河流、湖泊和红树林沼泽中。它们需要白天能在水流缓慢的地方休息，晚上在附近的草岸上觅食。由于失去了水中的家园，它们的数量已经减少。"
+    }
+  },
+  "habitat": {
+    "text_en": "Rivers and lakes of Sub-Saharan Africa",
+    "text_zh": "撒哈拉以南非洲的河流与湖泊",
+    "map_coordinates": [
+      -0.5,
+      33.5
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          -15
+        ],
+        [
+          15,
+          35
+        ],
+        [
+          5,
+          40
+        ],
+        [
+          -10,
+          35
+        ],
+        [
+          -20,
+          32
+        ],
+        [
+          -25,
+          20
+        ],
+        [
+          -15,
+          15
+        ],
+        [
+          -5,
+          12
+        ],
+        [
+          5,
+          -5
+        ],
+        [
+          15,
+          -15
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/hippopotamus.jpg"
+}

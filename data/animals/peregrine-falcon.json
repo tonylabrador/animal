@@ -1,0 +1,152 @@
+{
+  "id": "peregrine-falcon",
+  "name_zh": "游隼",
+  "name_en": "Peregrine Falcon",
+  "scientific_name": "Falco peregrinus",
+  "ui_tags": [
+    "Bird",
+    "Mountains",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Falconiformes",
+      "zh": "隼形目"
+    },
+    "family": {
+      "en": "Falconidae",
+      "zh": "隼科"
+    },
+    "genus": {
+      "en": "Falco",
+      "zh": "隼属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The peregrine falcon is a cosmopolitan bird of prey renowned for its incredible speed, making it the fastest animal on the planet.",
+    "zh": "游隼是一种世界性分布的猛禽，以其惊人的速度而闻名，是地球上最快的动物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Peregrine falcons have slate blue-gray wings, a white chest with dark stripes, and a black face pattern that looks like a knight's helmet. Their bodies are built for extreme speed, shaped like a fighter jet, with special bones in their nose that let them breathe even when flying through the air like a rocket.",
+      "zh": "游隼有石板蓝灰色的翅膀，白色的胸部带有深色条纹，黑色的面部图案看起来像骑士的头盔。它们的身体专为极速而生，形状像战斗机，鼻子里有特殊的骨头，让它们在像火箭一样在空中飞行时仍能呼吸。"
+    },
+    "ecology_and_behavior": {
+      "en": "They hold the record as the fastest animals on Earth! When a peregrine falcon spots a yummy pigeon far below, it folds its wings and dives straight down in a move called a 'stoop.' During this dive, they can reach speeds of over 240 miles per hour (386 km/h)—faster than a race car!",
+      "zh": "它们保持着地球上最快动物的纪录！当一只游隼在下方很远处发现美味的鸽子时，它会收起翅膀径直向下俯冲，这个动作叫做「stoop」。在这个俯冲过程中，它们的速度可以达到每小时240英里（386公里/小时）以上——比赛车还快！"
+    },
+    "habitat_and_distribution": {
+      "en": "These adaptable birds live on every continent except Antarctica. While they naturally nest on high mountain cliffs, many have moved into human cities, building their nests on top of towering skyscrapers and bridges.",
+      "zh": "这些适应性极强的鸟类生活在除南极洲以外的各个大陆上。虽然它们天生喜欢在高山的悬崖峭壁上筑巢，但许多游隼已经搬进了人类的城市，在高耸的摩天大楼和桥梁顶部筑巢。"
+    }
+  },
+  "habitat": {
+    "text_en": "Global distribution across cliffs, tundras, and urban skyscrapers",
+    "text_zh": "广泛分布于全球悬崖、冻原及城市摩天大楼",
+    "map_coordinates": [
+      40,
+      -74
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          70,
+          -160
+        ],
+        [
+          70,
+          -60
+        ],
+        [
+          45,
+          -60
+        ],
+        [
+          30,
+          -80
+        ],
+        [
+          10,
+          -110
+        ],
+        [
+          -30,
+          -70
+        ],
+        [
+          -50,
+          -70
+        ],
+        [
+          -30,
+          -120
+        ],
+        [
+          30,
+          -130
+        ],
+        [
+          70,
+          -160
+        ]
+      ],
+      [
+        [
+          70,
+          10
+        ],
+        [
+          70,
+          150
+        ],
+        [
+          30,
+          120
+        ],
+        [
+          10,
+          100
+        ],
+        [
+          -30,
+          150
+        ],
+        [
+          -40,
+          140
+        ],
+        [
+          -10,
+          20
+        ],
+        [
+          30,
+          -10
+        ],
+        [
+          70,
+          10
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/peregrine-falcon.jpg"
+}

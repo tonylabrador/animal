@@ -1,0 +1,140 @@
+{
+  "id": "red-fox",
+  "name_zh": "赤狐",
+  "name_en": "Red Fox",
+  "scientific_name": "Vulpes vulpes",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Canidae",
+      "zh": "犬科"
+    },
+    "genus": {
+      "en": "Vulpes",
+      "zh": "狐属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The red fox is the most widely distributed wild dog in the world, famous for its reddish-orange fur and fluffy tail.",
+    "zh": "赤狐是世界上分布最广的野生犬科动物，以其红橙色的皮毛和蓬松的尾巴而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Red foxes are small, slender dogs weighing about 5 to 10 kilograms. They have beautiful reddish-orange fur, a white belly, and black 'socks' on their legs. Their most famous feature is their long, bushy tail with a bright white tip, which they use like a warm blanket in winter.",
+      "zh": "赤狐是小巧苗条的犬科动物，体重约5到10公斤。它们有美丽的红橙色皮毛、白色的肚子，腿上还穿着黑色的「袜子」。它们最著名的特征是带有亮白色尖端的蓬松长尾巴，在冬天可以当温暖的毯子用。"
+    },
+    "ecology_and_behavior": {
+      "en": "Red foxes are clever omnivores that eat mice, rabbits, berries, and bugs. They have amazing hearing and can hear a mouse digging under deep snow! When hunting, they leap high into the air and dive headfirst into the snow to catch their hidden prey.",
+      "zh": "赤狐是聪明的杂食动物，吃老鼠、兔子、浆果和虫子。它们有惊人的听力，能听到在深雪下挖洞的老鼠！打猎时，它们会高高跃起，头朝下扎进雪里抓住隐藏的猎物。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are incredible survivors and live all across the Northern Hemisphere. You can find red foxes in the forests of North America, the snowy plains of Russia, the mountains of Asia, and even in big cities like London!",
+      "zh": "它们是令人难以置信的生存专家，生活在整个北半球。你可以在北美洲的森林、俄罗斯的雪原、亚洲的山脉，甚至像伦敦这样的大城市里找到赤狐！"
+    }
+  },
+  "habitat": {
+    "text_en": "Forests, grasslands, and cities across the Northern Hemisphere",
+    "text_zh": "遍布北半球的森林、草原和城市",
+    "map_coordinates": [
+      45,
+      -100
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          70,
+          -165
+        ],
+        [
+          70,
+          -70
+        ],
+        [
+          50,
+          -60
+        ],
+        [
+          30,
+          -80
+        ],
+        [
+          30,
+          -120
+        ],
+        [
+          50,
+          -130
+        ],
+        [
+          70,
+          -165
+        ]
+      ],
+      [
+        [
+          70,
+          10
+        ],
+        [
+          70,
+          170
+        ],
+        [
+          40,
+          140
+        ],
+        [
+          25,
+          110
+        ],
+        [
+          20,
+          80
+        ],
+        [
+          30,
+          40
+        ],
+        [
+          35,
+          0
+        ],
+        [
+          50,
+          -10
+        ],
+        [
+          70,
+          10
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/red-fox.jpg"
+}

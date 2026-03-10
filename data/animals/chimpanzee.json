@@ -1,0 +1,106 @@
+{
+  "id": "chimpanzee",
+  "name_zh": "黑猩猩",
+  "name_en": "Chimpanzee",
+  "scientific_name": "Pan troglodytes",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Primates",
+      "zh": "灵长目"
+    },
+    "family": {
+      "en": "Hominidae",
+      "zh": "人科"
+    },
+    "genus": {
+      "en": "Pan",
+      "zh": "黑猩猩属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "A highly intelligent great ape that is one of human's closest living relatives, known for tool use and complex social behavior.",
+    "zh": "一种高度聪明的大型类人猿，是人类现存最亲近的亲戚之一，以使用工具和复杂的社会行为而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Chimpanzees are sturdy, powerful apes covered in coarse black hair, but their faces, fingers, and toes are bare. They have very long arms that reach below their knees when they stand, and hand-like feet with opposable toes that make them incredible climbers. They share about 98.6% of their DNA with humans!",
+      "zh": "黑猩猩是结实、强壮的类人猿，全身覆盖着粗糙的黑毛，但面部、手指和脚趾是光秃秃的。它们的手臂很长，站立时可以垂到膝盖以下；它们还有像手一样的脚，带有可对折的脚趾，这使得它们成为不可思议的攀爬高手。它们与人类分享约98.6%的DNA！"
+    },
+    "ecology_and_behavior": {
+      "en": "Chimps are incredibly smart! They make and use their own tools, like stripping leaves off a twig to 'fish' for tasty termites inside a mound, or using heavy stones to crack open hard nuts. They live in large communities, play, laugh, hold hands, and even groom each other to build strong friendships.",
+      "zh": "黑猩猩超级聪明！它们会制作和使用自己的工具，比如把树枝上的叶子剥掉，用来从土丘里“钓”美味的白蚁，或者用重石头砸开坚硬的坚果。它们生活在大型社区里，会玩耍、大笑、牵手，甚至互相梳理毛发来建立牢固的友谊。"
+    },
+    "habitat_and_distribution": {
+      "en": "Wild chimpanzees live deep in the dense tropical rainforests, woodlands, and dry savannas of Central and West Africa. They spend their days both on the ground and high in the trees, where they build fresh, cozy nests out of leaves and branches to sleep in every single night.",
+      "zh": "野生黑猩猩生活在中非和西非茂密的热带雨林、林地和干燥的稀树草原深处。它们白天既在地面上活动，也在树上活动。每天晚上，它们都会用树叶和树枝在树上搭建全新、舒适的巢穴来睡觉。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical rainforests and woodlands of Central and West Africa",
+    "text_zh": "中非和西非的热带雨林和林地",
+    "map_coordinates": [
+      2,
+      15
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          10,
+          -15
+        ],
+        [
+          10,
+          30
+        ],
+        [
+          5,
+          35
+        ],
+        [
+          -10,
+          30
+        ],
+        [
+          -10,
+          10
+        ],
+        [
+          5,
+          8
+        ],
+        [
+          5,
+          -15
+        ],
+        [
+          10,
+          -15
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/chimpanzee.jpg"
+}

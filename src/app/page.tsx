@@ -1,9 +1,7 @@
 import AnimalDashboard from "@/components/AnimalDashboard";
-import animalsData from "../../animal_source.json";
-import type { Animal } from "@/types/animal";
-
-const animals = animalsData as Animal[];
+import { getAnimals } from "@/lib/getAnimals";
 
 export default function HomePage() {
+  const animals = getAnimals();
   return <AnimalDashboard animals={animals} />;
 }

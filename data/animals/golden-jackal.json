@@ -1,0 +1,114 @@
+{
+  "id": "golden-jackal",
+  "name_zh": "亚洲胡狼",
+  "name_en": "Golden Jackal",
+  "scientific_name": "Canis aureus",
+  "ui_tags": [
+    "Mammal",
+    "Grassland",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Canidae",
+      "zh": "犬科"
+    },
+    "genus": {
+      "en": "Canis",
+      "zh": "犬属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A highly adaptable, wolf-like canid with a golden coat that spans across Europe, Asia, and parts of Africa.",
+    "zh": "一种适应性极强、长得像狼的犬科动物，长着金色的皮毛，横跨欧洲、亚洲和非洲的部分地区。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The golden jackal looks like a small, slim grey wolf but features a beautiful coat that is a mix of gold, rust, and brown. They weigh around 7 to 15 kilograms. They have long legs made for running long distances and sharp senses to detect both predators and prey.",
+      "zh": "亚洲胡狼看起来像是一只小巧苗条的灰狼，但拥有金色、铁锈色和棕色混合的美丽皮毛。它们重约7到15公斤。它们长有适合长跑的长腿，还有敏锐的感官来察觉捕食者和猎物。"
+    },
+    "ecology_and_behavior": {
+      "en": "Golden jackals are very loyal! A male and female will stay together for their entire lives, working as a team to hunt and raise their pups. They are opportunistic omnivores, meaning they will happily eat anything they can find, from catching small deer and birds to eating fruits and cleaning up leftover scraps from bigger predators.",
+      "zh": "亚洲胡狼非常忠诚！一公一母会相伴一生，作为一个团队合作狩猎和抚养幼崽。它们是机会主义的杂食动物，这意味着只要能找到，它们什么都乐意吃，从捕捉小鹿和鸟类，到吃水果，甚至清理大型捕食者留下的残羹冷炙。"
+    },
+    "habitat_and_distribution": {
+      "en": "Because they are so adaptable, golden jackals live in many different places. Their range is huge, stretching from the forests of Eastern Europe, down through the dry deserts of the Middle East, and all the way across the grassy plains of India.",
+      "zh": "因为它们的适应能力太强了，亚洲胡狼生活在很多不同的地方。它们的分布范围极广，从东欧的森林，向下穿过中东干燥的沙漠，一直延伸到印度长满草的平原。"
+    }
+  },
+  "habitat": {
+    "text_en": "Grasslands, scrublands, and forests of Eurasia",
+    "text_zh": "欧亚大陆的草原、灌木丛和森林",
+    "map_coordinates": [
+      25,
+      50
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          45,
+          15
+        ],
+        [
+          50,
+          30
+        ],
+        [
+          45,
+          50
+        ],
+        [
+          30,
+          80
+        ],
+        [
+          10,
+          80
+        ],
+        [
+          10,
+          70
+        ],
+        [
+          25,
+          50
+        ],
+        [
+          25,
+          30
+        ],
+        [
+          40,
+          15
+        ],
+        [
+          45,
+          15
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/golden-jackal.jpg"
+}

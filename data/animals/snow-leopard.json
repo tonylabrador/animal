@@ -1,0 +1,114 @@
+{
+  "id": "snow-leopard",
+  "name_zh": "雪豹",
+  "name_en": "Snow Leopard",
+  "scientific_name": "Panthera uncia",
+  "ui_tags": [
+    "Mammal",
+    "Mountains",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Felidae",
+      "zh": "猫科"
+    },
+    "genus": {
+      "en": "Panthera",
+      "zh": "豹属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "A beautiful, elusive big cat adapted to live in the freezing, high-altitude mountains of Central Asia.",
+    "zh": "一种美丽而难以捉摸的大型猫科动物，适应了中亚寒冷的高海拔山脉生活。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Snow leopards have thick, smoky-gray fur with dark spots to blend in with rocky mountains. They have huge, furry paws that act like natural snowshoes, and an incredibly long, fluffy tail they wrap around themselves like a scarf to stay warm!",
+      "zh": "雪豹拥有浓密的烟灰色毛皮和深色斑点，能与岩石山脉融为一体。它们有巨大的毛茸茸的爪子，就像天然的雪地靴，还有一条极长且蓬松的尾巴，可以像围巾一样裹住自己保暖！"
+    },
+    "ecology_and_behavior": {
+      "en": "Known as the 'ghosts of the mountains', they are very shy and rarely seen by humans. They can leap over 9 meters (30 feet) across freezing cliffs to catch wild sheep and goats.",
+      "zh": "它们被称为「雪山之鬼」，非常害羞，极少被人类看到。它们能在冰冷的悬崖间跳跃超过9米（30英尺）来捕捉野生绵羊和山羊。"
+    },
+    "habitat_and_distribution": {
+      "en": "These majestic cats live high up in the cold, snowy mountain ranges of Central and South Asia, including the famous Himalayas. They stay far above the tree line where the air is very thin.",
+      "zh": "这些雄伟的猫科动物生活在中亚和南亚寒冷的雪山之巅，包括著名的喜马拉雅山脉。它们停留在空气非常稀薄的树线之上。"
+    }
+  },
+  "habitat": {
+    "text_en": "High mountains of Central and South Asia",
+    "text_zh": "中南亚高山地区",
+    "map_coordinates": [
+      35,
+      80
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          45,
+          80
+        ],
+        [
+          45,
+          90
+        ],
+        [
+          40,
+          100
+        ],
+        [
+          30,
+          100
+        ],
+        [
+          28,
+          90
+        ],
+        [
+          28,
+          80
+        ],
+        [
+          32,
+          75
+        ],
+        [
+          40,
+          70
+        ],
+        [
+          45,
+          75
+        ],
+        [
+          45,
+          80
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/snow-leopard.jpg"
+}

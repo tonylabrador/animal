@@ -1,0 +1,116 @@
+{
+  "id": "chameleon",
+  "name_zh": "变色龙",
+  "name_en": "Chameleon",
+  "scientific_name": "Chamaeleonidae",
+  "ui_tags": [
+    "Reptile",
+    "Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Chamaeleonidae",
+      "zh": "避役科"
+    },
+    "genus": {
+      "en": "Chamaeleo",
+      "zh": "避役属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A highly specialized lizard known for its ability to change color, independent eyes, and a lightning-fast tongue.",
+    "zh": "一种高度特化的蜥蜴，以其变色能力、可独立转动的眼睛和闪电般伸出的舌头而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Chameleons look like tiny dragons! They have cone-shaped eyes that can look in two completely different directions at the same time. Their feet are shaped like tongs to grip branches tightly, and their tongue can be twice as long as their entire body!",
+      "zh": "变色龙看起来像小小的龙！它们拥有锥形的眼睛，可以同时看向两个完全不同的方向。它们的脚呈钳状，能紧紧抓住树枝；而它们的舌头伸出来可以达到整个身体长度的两倍！"
+    },
+    "ecology_and_behavior": {
+      "en": "Most people think chameleons change color to hide, but they actually do it to show their mood or adjust to the temperature! To catch a tasty bug, they shoot out their sticky tongue in a fraction of a second. They move very slowly, rocking back and forth like a leaf blowing in the wind.",
+      "zh": "大多数人以为变色龙变色是为了伪装，但实际上它们变色是为了表达情绪或适应温度！为了抓住美味的虫子，它们会在几分之一秒内射出黏糊糊的舌头。它们移动得非常慢，还会像风中摇曳的树叶一样前后摇晃。"
+    },
+    "habitat_and_distribution": {
+      "en": "Chameleons mostly live in the warm habitats of Madagascar and the African mainland, with a few species found in southern Europe and Asia. They spend almost their entire lives up in the trees and bushes of rainforests and deserts.",
+      "zh": "变色龙主要生活在马达加斯加和非洲大陆的温暖栖息地，少数种类也分布在南欧和亚洲。它们几乎一生都待在热带雨林和沙漠的树木和灌木丛中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Rainforests, savannas, and deserts of Africa and Madagascar",
+    "text_zh": "非洲和马达加斯加的热带雨林、稀树草原和沙漠",
+    "map_coordinates": [
+      -18,
+      47
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          35,
+          -15
+        ],
+        [
+          35,
+          50
+        ],
+        [
+          -35,
+          50
+        ],
+        [
+          -35,
+          -15
+        ],
+        [
+          35,
+          -15
+        ]
+      ],
+      [
+        [
+          -12,
+          43
+        ],
+        [
+          -12,
+          50
+        ],
+        [
+          -25,
+          50
+        ],
+        [
+          -25,
+          43
+        ],
+        [
+          -12,
+          43
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/chameleon.jpg"
+}

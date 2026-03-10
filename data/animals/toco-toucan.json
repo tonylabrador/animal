@@ -1,0 +1,106 @@
+{
+  "id": "toco-toucan",
+  "name_zh": "巨嘴鸟",
+  "name_en": "Toco Toucan",
+  "scientific_name": "Ramphastos toco",
+  "ui_tags": [
+    "Bird",
+    "Rainforest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Piciformes",
+      "zh": "鴷形目"
+    },
+    "family": {
+      "en": "Ramphastidae",
+      "zh": "巨嘴鸟科"
+    },
+    "genus": {
+      "en": "Ramphastos",
+      "zh": "巨嘴鸟属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The largest and best-known toucan species, famous for its massive, bright orange bill.",
+    "zh": "体型最大且最著名的巨嘴鸟，以其巨大明亮的橙色鸟喙而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Toco Toucan has a striking black body, a white throat, and blue eyes. But its most amazing feature is its giant, bright orange bill! Even though the bill looks incredibly heavy, it is actually hollow and made of keratin, the same light material as your fingernails.",
+      "zh": "巨嘴鸟拥有醒目的黑色身体、白色的喉部和蓝色的眼睛。但它最神奇的特征是那张巨大的、鲜橙色的鸟喙！虽然这喙看起来重得不可思议，但它其实是空心的，由角蛋白组成，和你指甲的轻巧材质一模一样。"
+    },
+    "ecology_and_behavior": {
+      "en": "They use their giant bills to reach fruit on branches that are too thin to stand on, and to peel off the skin. They are very social and playful birds, often seen tossing berries to each other or gently wrestling with their beaks. When they sleep, they tuck their giant bill under their wing and roll into a tight ball.",
+      "zh": "它们用巨大的喙去够那些太细无法站立的树枝上的水果，并剥掉果皮。它们是非常喜欢社交和玩耍的鸟类，经常能看到它们互相抛掷浆果，或者用喙轻轻地摔跤。睡觉时，它们会把巨大的喙藏在翅膀下，蜷缩成一个紧凑的球。"
+    },
+    "habitat_and_distribution": {
+      "en": "Unlike other toucans that live deep in the dark rainforest, the Toco Toucan prefers open spaces. They live in woodlands, savannas, and palm groves across central and eastern South America, especially in Brazil and Argentina.",
+      "zh": "与其他生活在黑暗雨林深处的巨嘴鸟不同，这种巨嘴鸟更喜欢开阔的空间。它们生活在中部和东部南美洲的林地、稀树草原和棕榈树林中，尤其是在巴西和阿根廷。"
+    }
+  },
+  "habitat": {
+    "text_en": "Woodlands and savannas of South America",
+    "text_zh": "南美洲的林地与稀树草原",
+    "map_coordinates": [
+      -15,
+      -55
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          5,
+          -50
+        ],
+        [
+          5,
+          -60
+        ],
+        [
+          -10,
+          -65
+        ],
+        [
+          -30,
+          -60
+        ],
+        [
+          -30,
+          -50
+        ],
+        [
+          -20,
+          -40
+        ],
+        [
+          -5,
+          -35
+        ],
+        [
+          5,
+          -50
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/toco-toucan.jpg"
+}

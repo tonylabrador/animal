@@ -1,0 +1,102 @@
+{
+  "id": "capybara",
+  "name_zh": "水豚",
+  "name_en": "Capybara",
+  "scientific_name": "Hydrochoerus hydrochaeris",
+  "ui_tags": [
+    "Mammal",
+    "River",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Rodentia",
+      "zh": "啮齿目"
+    },
+    "family": {
+      "en": "Caviidae",
+      "zh": "豚鼠科"
+    },
+    "genus": {
+      "en": "Hydrochoerus",
+      "zh": "水豚属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The capybara is a giant cavy rodent native to South America. It is the largest living rodent in the world.",
+    "zh": "水豚是一种原产于南美的巨型豚鼠类啮齿动物。它是世界上最大的现存啮齿动物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Imagine a guinea pig, but make it the size of a large dog! That's a capybara. They have chunky, barrel-shaped bodies covered in coarse brown hair. Their eyes, ears, and nostrils are all grouped together at the very top of their square-shaped head, which lets them stay almost completely underwater while still breathing and looking around.",
+      "zh": "想象一只豚鼠，但把它变成一只大狗那么大！那就是水豚。它们有着粗壮的桶状身体，覆盖着粗糙的棕色毛发。它们的眼睛、耳朵和鼻孔都聚集在方形脑袋的最顶端，这让它们能几乎完全潜入水下，同时还能呼吸和环顾四周。"
+    },
+    "ecology_and_behavior": {
+      "en": "Capybaras are famous for being incredibly chill and friendly. They live in large groups and spend a lot of time sitting in muddy water to cool down and escape predators like jaguars. They have webbed toes for swimming. Sometimes, other animals like birds, turtles, or even monkeys will sit on top of a capybara's head!",
+      "zh": "水豚以难以置信的冷静和友好而闻名。它们群居生活，花很多时间坐在泥水里乘凉，躲避美洲豹等捕食者。它们长有带蹼的脚趾用来游泳。有时候，像鸟、乌龟甚至猴子等其他动物会坐在水豚的头顶上！"
+    },
+    "habitat_and_distribution": {
+      "en": "Water is a capybara's best friend. They live anywhere in South America where there are rivers, lakes, flooded grasslands, or swamps. They eat grass and aquatic plants, chewing constantly to keep their ever-growing front teeth filed down.",
+      "zh": "水是水豚最好的朋友。在南美洲，只要有河流、湖泊、被淹没的草原或沼泽，它们就能住在那里。它们吃草和水生植物，不断咀嚼以把不断生长的门牙磨短。"
+    }
+  },
+  "habitat": {
+    "text_en": "Wetlands, flooded savannas, and riversides of South America",
+    "text_zh": "南美的湿地、泛滥平原及河岸地带",
+    "map_coordinates": [
+      -15,
+      -60
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          10,
+          -75
+        ],
+        [
+          5,
+          -50
+        ],
+        [
+          -10,
+          -35
+        ],
+        [
+          -35,
+          -55
+        ],
+        [
+          -35,
+          -65
+        ],
+        [
+          -10,
+          -75
+        ],
+        [
+          10,
+          -75
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/capybara.jpg"
+}

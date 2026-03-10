@@ -1,0 +1,122 @@
+{
+  "id": "clouded-leopard",
+  "name_zh": "云豹",
+  "name_en": "Clouded Leopard",
+  "scientific_name": "Neofelis nebulosa",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Felidae",
+      "zh": "猫科"
+    },
+    "genus": {
+      "en": "Neofelis",
+      "zh": "云豹属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "A secretive forest cat from Southeast Asia, sporting large cloud-like spots and the longest canine teeth relative to body size of any living feline.",
+    "zh": "一种来自东南亚的隐秘森林猫，拥有云朵般的大斑点，以及现存猫科动物中相对于体型最长的犬齿。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The clouded leopard gets its name from the beautiful, large cloud-shaped spots on its fur. It is a medium-sized cat, but it has the longest teeth compared to its body size of any wild cat today—just like a mini saber-toothed tiger!",
+      "zh": "云豹因其皮毛上美丽的云状大斑点而得名。它是一种中型猫科动物，但拥有现存野生猫科动物中相对于体型最长的牙齿——就像一只迷你剑齿虎！"
+    },
+    "ecology_and_behavior": {
+      "en": "They are gymnasts of the jungle! Clouded leopards can hang upside down from branches by their large hind paws and even run headfirst down tree trunks like squirrels. They hunt birds, monkeys, and small deer.",
+      "zh": "它们是丛林里的体操运动员！云豹可以用巨大的后爪倒挂在树枝上，甚至像松鼠一样头朝下从树干上跑下来。它们捕食鸟类、猴子和小型鹿类。"
+    },
+    "habitat_and_distribution": {
+      "en": "These elusive cats hide deep in the tropical rainforests and lush mountains of Southeast Asia, including parts of China, India, and Malaysia. They spend most of their lives high up in the dense tree canopy.",
+      "zh": "这些难以捉摸的猫科动物隐藏在东南亚的热带雨林和郁郁葱葱的山脉深处，包括中国、印度和马来西亚的部分地区。它们一生中大部分时间都在茂密的树冠高处度过。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical forests of Southeast Asia",
+    "text_zh": "东南亚热带森林",
+    "map_coordinates": [
+      20,
+      100
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          28,
+          85
+        ],
+        [
+          28,
+          95
+        ],
+        [
+          25,
+          105
+        ],
+        [
+          20,
+          105
+        ],
+        [
+          15,
+          105
+        ],
+        [
+          10,
+          100
+        ],
+        [
+          5,
+          100
+        ],
+        [
+          1,
+          105
+        ],
+        [
+          5,
+          95
+        ],
+        [
+          15,
+          95
+        ],
+        [
+          25,
+          90
+        ],
+        [
+          28,
+          85
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/clouded-leopard.jpg"
+}

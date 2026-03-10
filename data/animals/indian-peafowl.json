@@ -1,0 +1,106 @@
+{
+  "id": "indian-peafowl",
+  "name_zh": "蓝孔雀",
+  "name_en": "Indian Peafowl",
+  "scientific_name": "Pavo cristatus",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Galliformes",
+      "zh": "鸡形目"
+    },
+    "family": {
+      "en": "Phasianidae",
+      "zh": "雉科"
+    },
+    "genus": {
+      "en": "Pavo",
+      "zh": "孔雀属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A large, colorful bird native to South Asia, famous for the male's spectacular tail feather display.",
+    "zh": "一种原产于南亚的大型多彩鸟类，以雄性壮观的尾羽展示而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The male bird, called a peacock, has a stunning shiny blue neck and a majestic tail train that can be 5 feet (1.5 meters) long! This train is covered in beautiful 'eyespots'. The female, called a peahen, is mostly brown and grey so she can easily hide in the bushes while sitting on her eggs.",
+      "zh": "雄鸟被称为雄孔雀，拥有令人惊叹的闪亮蓝色脖子和长达5英尺（1.5米）的华丽尾羽列！这些尾羽上布满了美丽的“眼斑”。雌鸟被称为雌孔雀，大部分是棕色和灰色的，这样她在孵蛋时就能轻易地隐藏在灌木丛中。"
+    },
+    "ecology_and_behavior": {
+      "en": "To attract a girlfriend, the peacock lifts his giant tail feathers into a huge fan and shakes them, making a loud rattling sound. Peafowls are actually related to chickens! They spend most of the day scratching the ground for seeds, insects, and even small snakes, and fly up into tall trees at night to sleep safely.",
+      "zh": "为了吸引女朋友，雄孔雀会将巨大的尾羽举起成一个大扇子并抖动它们，发出响亮的嘎嘎声。孔雀其实和鸡是亲戚！它们白天大部分时间都在地上刨食种子、昆虫甚至小蛇，晚上则飞到高大的树上安全地睡觉。"
+    },
+    "habitat_and_distribution": {
+      "en": "Indian peafowls are originally from the forests, farmlands, and near rivers of India, Pakistan, and Sri Lanka. Because they are so beautiful, people have brought them to parks and gardens all over the world.",
+      "zh": "蓝孔雀原产于印度、巴基斯坦和斯里兰卡的森林、农田和河流附近。因为它们太漂亮了，人们把它们带到了世界各地的公园和花园中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Forests and farmlands of the Indian Subcontinent",
+    "text_zh": "印度次大陆的森林与农田",
+    "map_coordinates": [
+      20,
+      78
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          30,
+          70
+        ],
+        [
+          30,
+          80
+        ],
+        [
+          25,
+          90
+        ],
+        [
+          20,
+          85
+        ],
+        [
+          10,
+          80
+        ],
+        [
+          10,
+          75
+        ],
+        [
+          20,
+          70
+        ],
+        [
+          30,
+          70
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/indian-peafowl.jpg"
+}

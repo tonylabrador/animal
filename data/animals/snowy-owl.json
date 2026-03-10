@@ -1,0 +1,132 @@
+{
+  "id": "snowy-owl",
+  "name_zh": "雪鸮",
+  "name_en": "Snowy Owl",
+  "scientific_name": "Bubo scandiacus",
+  "ui_tags": [
+    "Bird",
+    "Tundra",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Strigiformes",
+      "zh": "鸮形目"
+    },
+    "family": {
+      "en": "Strigidae",
+      "zh": "鸱鸮科"
+    },
+    "genus": {
+      "en": "Bubo",
+      "zh": "雕鸮属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "A large, white owl of the high Arctic tundra, famously known as the species of Harry Potter's pet, Hedwig.",
+    "zh": "一种生活在高纬度北极苔原的大型白色猫头鹰，作为哈利波特宠物海德薇的物种而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Snowy owls are perfectly designed for the freezing Arctic! Adult males are almost completely pure white, which acts as the ultimate camouflage in the snow. Females and young owls have dark spots. To stay warm, their entire body, including their legs and toes, is heavily covered in thick, fluffy feathers.",
+      "zh": "雪鸮完美地适应了冰冻的北极！成年雄鸟几乎是纯白色的，这是在雪地里终极的伪装。雌鸟和幼鸟身上有深色斑点。为了保暖，它们整个身体，包括腿和脚趾，都被厚厚蓬松的羽毛严密覆盖着。"
+    },
+    "ecology_and_behavior": {
+      "en": "Unlike most owls that only hunt at night, snowy owls hunt during the day! This is because, in the summer Arctic, the sun never sets. Their favorite food is a small, chubby rodent called a lemming. A single snowy owl can eat over 1,600 lemmings in one year. They swallow them whole!",
+      "zh": "与大多数只在夜间狩猎的猫头鹰不同，雪鸮在白天狩猎！这是因为在北极的夏天，太阳永远不会下山。它们最喜欢的食物是一种叫旅鼠的胖乎乎的小啮齿动物。一只雪鸮一年能吃掉1600多只旅鼠。它们是整个吞下去的！"
+    },
+    "habitat_and_distribution": {
+      "en": "They live in the freezing, treeless Arctic tundra at the very top of the world, roaming across northern Canada, Greenland, Russia, and Scandinavia. When winters get too harsh or food is low, they might fly south into parts of the United States and Europe.",
+      "zh": "它们生活在世界最顶端、冰冻且没有树木的北极苔原上，在加拿大北部、格陵兰岛、俄罗斯和斯堪的纳维亚半岛漫游。当冬天太恶劣或食物短缺时，它们可能会向南飞到美国和欧洲的部分地区。"
+    }
+  },
+  "habitat": {
+    "text_en": "Arctic tundra of North America and Eurasia",
+    "text_zh": "北美和欧亚大陆的北极苔原",
+    "map_coordinates": [
+      70,
+      -100
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          75,
+          -160
+        ],
+        [
+          80,
+          -100
+        ],
+        [
+          75,
+          -60
+        ],
+        [
+          65,
+          -60
+        ],
+        [
+          60,
+          -100
+        ],
+        [
+          65,
+          -160
+        ],
+        [
+          75,
+          -160
+        ]
+      ],
+      [
+        [
+          75,
+          20
+        ],
+        [
+          75,
+          100
+        ],
+        [
+          70,
+          160
+        ],
+        [
+          65,
+          160
+        ],
+        [
+          60,
+          100
+        ],
+        [
+          65,
+          20
+        ],
+        [
+          75,
+          20
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/snowy-owl.jpg"
+}

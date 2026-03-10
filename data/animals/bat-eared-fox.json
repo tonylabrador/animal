@@ -1,0 +1,116 @@
+{
+  "id": "bat-eared-fox",
+  "name_zh": "大耳狐",
+  "name_en": "Bat-eared Fox",
+  "scientific_name": "Otocyon megalotis",
+  "ui_tags": [
+    "Mammal",
+    "Savanna",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Canidae",
+      "zh": "犬科"
+    },
+    "genus": {
+      "en": "Otocyon",
+      "zh": "大耳狐属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "An African fox named for its huge ears, specializing in eating termites and other insects.",
+    "zh": "一种因大耳朵而得名的非洲狐狸，专门以吃白蚁和其他昆虫为生。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Just look at those ears! The bat-eared fox has gigantic ears that are over 5 inches long, which look like the wings of a bat. They also have more teeth than almost any other mammal—up to 50 tiny, sharp teeth perfectly designed for chewing up crunchy bugs.",
+      "zh": "看看那双耳朵！大耳狐有超过5英寸长的巨大耳朵，看起来就像蝙蝠的翅膀。它们也是几乎所有哺乳动物中牙齿最多的——多达50颗微小而锋利的牙齿，完美地设计用来咀嚼嘎嘣脆的虫子。"
+    },
+    "ecology_and_behavior": {
+      "en": "Instead of hunting rabbits or mice, the bat-eared fox is an insect expert. Up to 80% of its diet is made of harvester termites! They walk slowly across the grass with their head tilted down, using their super-powered ears to listen for insects moving deep underground, then dig them up in a flash.",
+      "zh": "大耳狐不是捕猎兔子或老鼠，而是昆虫专家。它们饮食中多达80%是收割白蚁！它们低着头在草地上慢慢走，用超级灵敏的耳朵倾听昆虫在地下深处移动的声音，然后在一瞬间把它们挖出来。"
+    },
+    "habitat_and_distribution": {
+      "en": "These unique foxes live in the dry, short-grass savannas and brushlands of Africa. They are separated into two distinct groups: one lives in Eastern Africa, and the other lives way down in Southern Africa.",
+      "zh": "这些独特的狐狸生活在非洲干燥的短草稀树草原和灌木丛中。它们被分成两个不同的群体：一个生活在东非，另一个生活在南非很远的地方。"
+    }
+  },
+  "habitat": {
+    "text_en": "Arid savannas and brushlands of Eastern and Southern Africa",
+    "text_zh": "东非和南非的干旱稀树草原与灌木地",
+    "map_coordinates": [
+      -20,
+      20
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          10,
+          35
+        ],
+        [
+          10,
+          50
+        ],
+        [
+          -5,
+          40
+        ],
+        [
+          -5,
+          30
+        ],
+        [
+          10,
+          35
+        ]
+      ],
+      [
+        [
+          -15,
+          10
+        ],
+        [
+          -15,
+          35
+        ],
+        [
+          -35,
+          30
+        ],
+        [
+          -30,
+          15
+        ],
+        [
+          -15,
+          10
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/bat-eared-fox.jpg"
+}

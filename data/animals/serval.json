@@ -1,0 +1,110 @@
+{
+  "id": "serval",
+  "name_zh": "薮猫",
+  "name_en": "Serval",
+  "scientific_name": "Leptailurus serval",
+  "ui_tags": [
+    "Mammal",
+    "Grassland",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Felidae",
+      "zh": "猫科"
+    },
+    "genus": {
+      "en": "Leptailurus",
+      "zh": "薮猫属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A slender, spotted African wildcat with the longest legs and largest ears relative to its body size.",
+    "zh": "一种身形修长、长满斑点的非洲野猫，拥有相对于体型最长的腿和最大的耳朵。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The serval looks like a mini cheetah! It is a medium-sized cat with a beautiful golden coat covered in black spots. For its size, it has the longest legs and biggest ears of any cat in the world, making it look like a little supermodel.",
+      "zh": "薮猫看起来就像迷你猎豹！它是一种中型猫科动物，披着带有黑斑的美丽金色外衣。就其体型而言，它是世界上所有猫科动物中腿最长、耳朵最大的，看起来像个小超模。"
+    },
+    "ecology_and_behavior": {
+      "en": "Those huge ears act like radar dishes, allowing the serval to hear mice moving under the ground. When it finds a mouse, it leaps high into the air and pounces down on it with both front paws. They are incredibly successful hunters!",
+      "zh": "那些巨大的耳朵就像雷达天线，让薮猫能听到老鼠在地下移动的声音。当发现老鼠时，它会高高跃向空中，然后用两只前爪猛扑下去。它们是极其成功的猎手！"
+    },
+    "habitat_and_distribution": {
+      "en": "Servals live in the tall grasslands and wetlands of sub-Saharan Africa. They love areas near water where tall reeds and grass help hide them while they hunt for frogs, birds, and rodents.",
+      "zh": "薮猫生活在撒哈拉以南非洲的高草草原和湿地。它们喜欢靠近水的地方，那里高高的芦苇和草丛有助于它们在捕食青蛙、鸟类和啮齿动物时隐藏自己。"
+    }
+  },
+  "habitat": {
+    "text_en": "African savannas and wetlands",
+    "text_zh": "非洲稀树草原与湿地",
+    "map_coordinates": [
+      -10,
+      25
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          -15
+        ],
+        [
+          15,
+          35
+        ],
+        [
+          10,
+          45
+        ],
+        [
+          -30,
+          30
+        ],
+        [
+          -30,
+          15
+        ],
+        [
+          -20,
+          10
+        ],
+        [
+          0,
+          10
+        ],
+        [
+          5,
+          -10
+        ],
+        [
+          15,
+          -15
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/serval.jpg"
+}

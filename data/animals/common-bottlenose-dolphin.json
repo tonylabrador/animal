@@ -1,0 +1,114 @@
+{
+  "id": "common-bottlenose-dolphin",
+  "name_zh": "宽吻海豚",
+  "name_en": "Common Bottlenose Dolphin",
+  "scientific_name": "Tursiops truncatus",
+  "ui_tags": [
+    "Mammal",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Cetacea",
+      "zh": "鲸目"
+    },
+    "family": {
+      "en": "Delphinidae",
+      "zh": "海豚科"
+    },
+    "genus": {
+      "en": "Tursiops",
+      "zh": "宽吻海豚属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The common bottlenose dolphin is a highly social and intelligent marine mammal, recognized globally for its characteristic 'smiling' beak.",
+    "zh": "宽吻海豚是一种高度群居且聪明的海洋哺乳动物，以其标志性的「微笑」长喙而在全球闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "These dolphins are mostly gray with a lighter belly. They have a short, thick snout that looks a bit like a bottle, giving them their name! Because of the way their mouth curves, they always look like they are smiling. They breathe air through a single blowhole on the top of their heads.",
+      "zh": "这些海豚大多是灰色的，腹部颜色较浅。它们有一个又短又粗的吻部，看起来有点像瓶子，它们的名字就是这么来的！因为它们嘴巴弯曲的形状，它们看起来总是在微笑。它们通过头顶的一个呼吸孔来呼吸空气。"
+    },
+    "ecology_and_behavior": {
+      "en": "Bottlenose dolphins are playful and super smart. They use a superpower called echolocation—making clicking sounds that bounce off objects—to find fish hidden in muddy water. When they sleep, they shut down only half of their brain and keep one eye open to watch for sharks and remember to go up for air!",
+      "zh": "宽吻海豚爱玩且超级聪明。它们使用一种叫做回声定位的超能力——发出咔哒声，声音从物体上弹回——来寻找隐藏在浑水中的鱼。当它们睡觉时，只关闭一半的大脑，并睁着一只眼睛提防鲨鱼，同时记住要浮出水面呼吸！"
+    },
+    "habitat_and_distribution": {
+      "en": "You won't find them in the freezing ice, but bottlenose dolphins live in almost all the warm and temperate oceans, gulfs, and seas around the world. They love surfing in the waves near the beach.",
+      "zh": "你不会在冰冷的冰层中找到它们，但宽吻海豚几乎生活在全世界所有的温水和温带海洋、海湾及海域中。它们喜欢在海滩附近的波浪中冲浪。"
+    }
+  },
+  "habitat": {
+    "text_en": "Temperate and tropical coastal waters and open oceans",
+    "text_zh": "温带和热带近海水域及开阔海洋",
+    "map_coordinates": [
+      25,
+      -80
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          40,
+          -75
+        ],
+        [
+          35,
+          -70
+        ],
+        [
+          25,
+          -75
+        ],
+        [
+          20,
+          -85
+        ],
+        [
+          10,
+          -80
+        ],
+        [
+          0,
+          -40
+        ],
+        [
+          20,
+          -20
+        ],
+        [
+          45,
+          -15
+        ],
+        [
+          50,
+          -40
+        ],
+        [
+          40,
+          -75
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/common-bottlenose-dolphin.jpg"
+}

@@ -1,0 +1,110 @@
+{
+  "id": "pallass-cat",
+  "name_zh": "兔狲",
+  "name_en": "Pallas's Cat",
+  "scientific_name": "Otocolobus manul",
+  "ui_tags": [
+    "Mammal",
+    "Mountains",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Felidae",
+      "zh": "猫科"
+    },
+    "genus": {
+      "en": "Otocolobus",
+      "zh": "兔狲属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A small, grumpy-looking wildcat with incredibly thick fur that helps it survive in cold mountain steppes.",
+    "zh": "一种体型小巧、看起来脾气暴躁的野猫，拥有极其厚实的毛皮，能帮助它在寒冷的高山草原中生存。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Pallas's cats look like very round, fluffy balls with grumpy faces! They are about the size of a domestic cat but have the thickest and longest fur of any wild cat. They have flat faces, short legs, and their ears are set very low on the sides of their head so they can peek over rocks without being seen.",
+      "zh": "兔狲看起来像圆滚滚、毛茸茸的球，而且长着一副暴躁脸！它们和家猫差不多大，但拥有所有野生猫科动物中最厚最长的毛。它们脸很平，腿很短，耳朵长在头两侧非常低的位置，这样它们就能从岩石后面偷看而不被发现。"
+    },
+    "ecology_and_behavior": {
+      "en": "Because of their short legs, they are not very fast runners. Instead of chasing their food, they are ambush masters. They wait patiently outside the burrows of pikas and small rodents, ready to strike! When they feel threatened, they freeze and blend perfectly into the rocks.",
+      "zh": "因为腿短，它们跑得不是很块。它们不是追逐食物，而是伏击大师。它们耐心地在鼠兔和小型啮齿动物的洞穴外等待，随时准备出击！当感到受到威胁时，它们会僵住不动，完美地融入岩石中。"
+    },
+    "habitat_and_distribution": {
+      "en": "These fuzzy cats live in the cold, windy, and rocky steppes of Central Asia, including Mongolia, China, and the Tibetan Plateau. They live in very harsh, dry environments where few other animals survive.",
+      "zh": "这些毛茸茸的猫生活在中亚寒冷、多风多岩石的干草原上，包括蒙古、中国和青藏高原。它们生活在极度恶劣干燥、很少有其他动物能生存的环境中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Steppes and mountains of Central Asia",
+    "text_zh": "中亚干草原与山地",
+    "map_coordinates": [
+      45,
+      100
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          50,
+          85
+        ],
+        [
+          55,
+          110
+        ],
+        [
+          45,
+          115
+        ],
+        [
+          35,
+          105
+        ],
+        [
+          30,
+          95
+        ],
+        [
+          35,
+          80
+        ],
+        [
+          40,
+          70
+        ],
+        [
+          50,
+          70
+        ],
+        [
+          50,
+          85
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/pallass-cat.jpg"
+}

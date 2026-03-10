@@ -13,7 +13,7 @@ Rough estimates for generating **100 new animal entries** with the ADD_ANIMAL_WO
 | **合计** | 以 Output 为主 | **≈ 76,000–78,000 tokens** |
 
 说明：
-- 单只动物 JSON 按当前 `animal_source.json` 结构（taxonomy 六层双语 + conservation + encyclopedia 三段双语）统计。
+- 单只动物 JSON 按当前 `data/animals/` 单文件结构（taxonomy 六层双语 + conservation + encyclopedia 三段双语）统计。
 - 若一批请求 100 只，可能遇到输出截断，建议 **每批 15–20 只**，共 5–7 次请求。
 
 ---

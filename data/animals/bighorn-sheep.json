@@ -1,0 +1,506 @@
+{
+  "id": "bighorn-sheep",
+  "name_zh": "大角羊",
+  "name_en": "Bighorn Sheep",
+  "scientific_name": "Ovis canadensis",
+  "ui_tags": [
+    "Mammal",
+    "Mountains",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Bovidae",
+      "zh": "牛科"
+    },
+    "genus": {
+      "en": "Ovis",
+      "zh": "羊属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "Named for their large, curved horns, these sheep are expert climbers in steep, rocky terrain.",
+    "zh": "因其巨大的弯曲羊角而得名，这些羊是陡峭岩石地形中的攀岩专家。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Bighorn sheep weigh between 60 and 140 kilograms and are named for the males' massive curved horns, which can weigh up to 14 kilograms — as much as all the other bones in their body combined. Their hooves have a hard outer edge and a soft, grippy sole that works like a natural climbing shoe. Their brown fur with a white rump patch helps them blend into rocky mountainsides.",
+      "zh": "大角羊体重在60到140公斤之间，因雄性巨大的弯曲角而得名，角的重量可达14公斤——和它们身体其他所有骨头加起来一样重。它们的蹄子外缘坚硬、底部柔软有抓地力，就像天然的攀岩鞋。棕色的毛皮和白色的臀部斑块帮助它们融入岩石山坡中。"
+    },
+    "ecology_and_behavior": {
+      "en": "Bighorn sheep are herbivores that graze on grasses, shrubs, and other mountain plants. During the mating season, males run at each other at full speed and smash their horns together in dramatic head-butting battles that can be heard from far away. They live in groups and use their excellent vision to spot predators like mountain lions from a distance.",
+      "zh": "大角羊是草食动物，吃草、灌木和其他山地植物。在交配季节，雄性会全速奔向对方，用角猛烈地互相碰撞，这种壮观的顶角战斗在很远的地方就能听到。它们群居生活，用极好的视力从远处发现美洲狮等捕食者。"
+    },
+    "habitat_and_distribution": {
+      "en": "Bighorn sheep live on steep, rocky mountain slopes and cliffs in western North America, from southern Canada to Mexico. They prefer open alpine meadows near cliffs where they can escape from predators by climbing to safety. Different subspecies live in the Rocky Mountains, the Sierra Nevada, and the desert mountains of the Southwest.",
+      "zh": "大角羊生活在北美洲西部陡峭的岩石山坡和悬崖上，从加拿大南部到墨西哥都有分布。它们喜欢靠近悬崖的开阔高山草甸，可以通过攀爬到安全的地方躲避捕食者。不同的亚种分别生活在落基山脉、内华达山脉和西南部的沙漠山地。"
+    }
+  },
+  "habitat": {
+    "text_en": "Alpine meadows and steep cliffs",
+    "text_zh": "高山草甸和陡峭悬崖",
+    "map_coordinates": [
+      36.2,
+      -116.8
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [
+        [
+          49.5,
+          -115.5
+        ],
+        [
+          50,
+          -115
+        ],
+        [
+          50.5,
+          -114.5
+        ],
+        [
+          51,
+          -114
+        ],
+        [
+          51,
+          -114.5
+        ],
+        [
+          50.5,
+          -115
+        ],
+        [
+          50,
+          -115.5
+        ],
+        [
+          49.5,
+          -116
+        ],
+        [
+          49,
+          -116
+        ],
+        [
+          48.5,
+          -115.5
+        ],
+        [
+          48,
+          -115
+        ],
+        [
+          47.5,
+          -114.5
+        ],
+        [
+          47,
+          -114
+        ],
+        [
+          46.5,
+          -113.5
+        ],
+        [
+          46,
+          -113
+        ],
+        [
+          45.5,
+          -112.5
+        ],
+        [
+          45,
+          -112
+        ],
+        [
+          44.5,
+          -111.5
+        ],
+        [
+          44,
+          -111
+        ],
+        [
+          43.5,
+          -110.5
+        ],
+        [
+          43,
+          -110
+        ],
+        [
+          42.5,
+          -110.5
+        ],
+        [
+          42,
+          -111
+        ],
+        [
+          41.5,
+          -111
+        ],
+        [
+          41,
+          -110.5
+        ],
+        [
+          40.5,
+          -110
+        ],
+        [
+          40,
+          -109.5
+        ],
+        [
+          39.5,
+          -109
+        ],
+        [
+          39,
+          -108.5
+        ],
+        [
+          38.5,
+          -108.5
+        ],
+        [
+          38,
+          -108
+        ],
+        [
+          37.5,
+          -107.5
+        ],
+        [
+          37,
+          -107.5
+        ],
+        [
+          36.5,
+          -107.5
+        ],
+        [
+          36,
+          -107.5
+        ],
+        [
+          35.5,
+          -107
+        ],
+        [
+          35,
+          -106.5
+        ],
+        [
+          34.5,
+          -107
+        ],
+        [
+          34,
+          -107.5
+        ],
+        [
+          33.5,
+          -108
+        ],
+        [
+          33,
+          -108.5
+        ],
+        [
+          32.5,
+          -108.5
+        ],
+        [
+          32,
+          -108.5
+        ],
+        [
+          31.5,
+          -108.5
+        ],
+        [
+          31,
+          -108.5
+        ],
+        [
+          31,
+          -107.5
+        ],
+        [
+          31.5,
+          -107.5
+        ],
+        [
+          32,
+          -107.5
+        ],
+        [
+          32.5,
+          -107.5
+        ],
+        [
+          33,
+          -107
+        ],
+        [
+          33.5,
+          -106.5
+        ],
+        [
+          34,
+          -106.5
+        ],
+        [
+          34.5,
+          -106.5
+        ],
+        [
+          35,
+          -106
+        ],
+        [
+          35.5,
+          -106
+        ],
+        [
+          36,
+          -106.5
+        ],
+        [
+          36.5,
+          -107
+        ],
+        [
+          37,
+          -107.5
+        ],
+        [
+          37.5,
+          -108
+        ],
+        [
+          38,
+          -108.5
+        ],
+        [
+          38.5,
+          -109
+        ],
+        [
+          39,
+          -109.5
+        ],
+        [
+          39.5,
+          -110
+        ],
+        [
+          40,
+          -110.5
+        ],
+        [
+          40.5,
+          -111
+        ],
+        [
+          41,
+          -111.5
+        ],
+        [
+          41.5,
+          -112
+        ],
+        [
+          42,
+          -112
+        ],
+        [
+          42.5,
+          -111.5
+        ],
+        [
+          43,
+          -111
+        ],
+        [
+          43.5,
+          -111
+        ],
+        [
+          44,
+          -111.5
+        ],
+        [
+          44.5,
+          -112
+        ],
+        [
+          45,
+          -112.5
+        ],
+        [
+          45.5,
+          -113
+        ],
+        [
+          46,
+          -113.5
+        ],
+        [
+          46.5,
+          -114
+        ],
+        [
+          47,
+          -114.5
+        ],
+        [
+          47.5,
+          -115
+        ],
+        [
+          48,
+          -115.5
+        ],
+        [
+          48.5,
+          -116
+        ],
+        [
+          49,
+          -116
+        ],
+        [
+          49.5,
+          -115.5
+        ]
+      ],
+      [
+        [
+          36.5,
+          -118.5
+        ],
+        [
+          37,
+          -118
+        ],
+        [
+          37.5,
+          -118.5
+        ],
+        [
+          38,
+          -119
+        ],
+        [
+          38.5,
+          -119.5
+        ],
+        [
+          38.5,
+          -120
+        ],
+        [
+          38,
+          -120
+        ],
+        [
+          37.5,
+          -119.5
+        ],
+        [
+          37,
+          -119
+        ],
+        [
+          36.5,
+          -118.5
+        ],
+        [
+          36,
+          -118.5
+        ],
+        [
+          35.5,
+          -118
+        ],
+        [
+          36,
+          -117.5
+        ],
+        [
+          36.5,
+          -118.5
+        ]
+      ],
+      [
+        [
+          28,
+          -113.5
+        ],
+        [
+          28.5,
+          -113
+        ],
+        [
+          29,
+          -113.5
+        ],
+        [
+          29.5,
+          -114
+        ],
+        [
+          30,
+          -114.5
+        ],
+        [
+          30,
+          -115
+        ],
+        [
+          29.5,
+          -115
+        ],
+        [
+          29,
+          -114.5
+        ],
+        [
+          28.5,
+          -114
+        ],
+        [
+          28,
+          -113.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/bighorn-sheep.jpg"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "leatherback-sea-turtle",
+  "name_zh": "棱皮龟",
+  "name_en": "Leatherback Sea Turtle",
+  "scientific_name": "Dermochelys coriacea",
+  "ui_tags": [
+    "Reptile",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Testudines",
+      "zh": "龟鳖目"
+    },
+    "family": {
+      "en": "Dermochelyidae",
+      "zh": "棱皮龟科"
+    },
+    "genus": {
+      "en": "Dermochelys",
+      "zh": "棱皮龟属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The largest of all living turtles, lacking a hard, bony shell and uniquely capable of diving to tremendous depths.",
+    "zh": "现存体型最大的海龟，没有坚硬的骨质外壳，拥有潜入极深海底的独特能力。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The leatherback is the undisputed giant of the turtle world, growing as big as a small car and weighing up to 2,000 pounds (900 kg)! Unlike other turtles, it doesn't have a hard, bony shell. Instead, its back is covered by a thick, rubbery, dark skin with seven ridges running down its length, making it incredibly streamlined.",
+      "zh": "棱皮龟是龟类世界无可争议的巨无霸，能长到小汽车那么大，重达2000磅（900公斤）！与其他海龟不同，它没有坚硬的骨质外壳。相反，它的背部覆盖着一层厚厚的、有弹性的深色皮肤，上面有七条纵向的脊，这让它的身形极其流线型。"
+    },
+    "ecology_and_behavior": {
+      "en": "Leatherbacks are the deepest-diving reptiles, plunging nearly 4,000 feet deep where the water is freezing! Their favorite food is jellyfish. Because jellyfish are slippery and hard to swallow, the inside of a leatherback's throat is covered in hundreds of sharp, backward-pointing spikes to make sure their jelly dinner doesn't escape.",
+      "zh": "棱皮龟是潜水最深的爬行动物，能潜入近4000英尺冰冷刺骨的深海！它们最喜欢的食物是水母。因为水母很滑且难以下咽，棱皮龟喉咙的内侧布满了数百根向后指的尖锐刺，以确保它们的水母大餐不会逃掉。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are the most wide-ranging marine reptile, swimming across all global oceans from the freezing waters of Alaska to the warm beaches of Africa. The mothers travel thousands of miles back to tropical sandy beaches to lay their eggs under the moonlight.",
+      "zh": "它们是分布最广的海洋爬行动物，游弋在全球所有的海洋中，从阿拉斯加冰冷的水域到非洲温暖的海滩。海龟妈妈会游过几千英里，回到热带沙滩上在月光下产卵。"
+    }
+  },
+  "habitat": {
+    "text_en": "Open oceans globally, nesting on tropical beaches",
+    "text_zh": "全球公海，在热带海滩筑巢",
+    "map_coordinates": [
+      0,
+      -40
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          60,
+          -180
+        ],
+        [
+          60,
+          180
+        ],
+        [
+          -50,
+          180
+        ],
+        [
+          -50,
+          -180
+        ],
+        [
+          60,
+          -180
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/leatherback-sea-turtle.jpg"
+}

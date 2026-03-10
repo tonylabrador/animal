@@ -1,0 +1,94 @@
+{
+  "id": "philippine-flying-lemur",
+  "name_zh": "斑鼯猴",
+  "name_en": "Flying Lemur",
+  "scientific_name": "Cynocephalus volans",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Dermoptera",
+      "zh": "皮翼目"
+    },
+    "family": {
+      "en": "Cynocephalidae",
+      "zh": "鼯猴科"
+    },
+    "genus": {
+      "en": "Cynocephalus",
+      "zh": "鼯猴属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A strange tree-dwelling mammal that cannot truly fly and is not a lemur, but is the world's most capable gliding mammal.",
+    "zh": "一种奇怪的树栖哺乳动物，它并不能真正飞翔，也不是狐猴，但却是世界上滑翔能力最强的哺乳动物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The flying lemur (also called a colugo) has a very confusing name! It isn't a lemur, and it doesn't fly. Instead, it has a massive 'cape' of skin stretching from the tips of its fingers, down to its toes, and all the way to its tail. When it spreads its arms and legs, it looks like a furry kite!",
+      "zh": "斑鼯猴（英文直译为飞狐猴）的名字非常令人困惑！它不是狐猴，也不会飞。相反，它有一件巨大的皮肤‘披风’，从指尖一直延伸到脚趾，再一直连到尾巴。当它张开四肢时，看起来就像一只毛茸茸的风筝！"
+    },
+    "ecology_and_behavior": {
+      "en": "They are the greatest gliders in the animal kingdom. Without flapping their arms, they can glide over 300 feet (100 meters) between rainforest trees, rarely losing any height. When a mom has a baby, she folds the extra gliding skin near her tail into a soft, warm hammock for the baby to sleep in while she hangs upside down.",
+      "zh": "它们是动物界中最伟大的滑翔机。不需要拍打手臂，它们就能在雨林的树木之间滑翔超过300英尺（100米），而且几乎不会失去任何高度。当妈妈生下宝宝时，她会把尾巴附近多余的滑翔皮折成一个柔软温暖的吊床，让她倒挂时宝宝能在里面睡觉。"
+    },
+    "habitat_and_distribution": {
+      "en": "These amazing gliders live exclusively in the thick, tropical rainforests and rubber plantations of the Philippines in Southeast Asia. They spend their entire lives clinging to the sides of tall trees and rarely, if ever, touch the ground.",
+      "zh": "这些神奇的滑翔者专门生活在东南亚菲律宾茂密的热带雨林和橡胶林中。它们一生都紧紧地贴在高大树木的侧面，极少（甚至几乎不）接触地面。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical rainforests of the Philippines",
+    "text_zh": "菲律宾的热带雨林",
+    "map_coordinates": [
+      12,
+      122
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          18,
+          119
+        ],
+        [
+          18,
+          123
+        ],
+        [
+          5,
+          127
+        ],
+        [
+          5,
+          117
+        ],
+        [
+          18,
+          119
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/philippine-flying-lemur.jpg"
+}

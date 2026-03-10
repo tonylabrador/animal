@@ -1,0 +1,102 @@
+{
+  "id": "keel-billed-toucan",
+  "name_zh": "彩虹巨嘴鸟",
+  "name_en": "Keel-billed Toucan",
+  "scientific_name": "Ramphastos sulfuratus",
+  "ui_tags": [
+    "Bird",
+    "Rainforest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Piciformes",
+      "zh": "鴷形目"
+    },
+    "family": {
+      "en": "Ramphastidae",
+      "zh": "巨嘴鸟科"
+    },
+    "genus": {
+      "en": "Ramphastos",
+      "zh": "巨嘴鸟属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "A colorful South American bird known for its spectacular, multi-colored beak that looks like a rainbow.",
+    "zh": "一种色彩鲜艳的南美鸟类，以其看起来像彩虹般壮观的多色鸟喙而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The keel-billed toucan has black feathers and a bright yellow chest, but you will definitely notice its beak first! The huge beak is a mix of green, yellow, orange, and red with a splash of blue on the tip. Their feet have two toes pointing forward and two pointing backward, which gives them a super tight grip on branches.",
+      "zh": "彩虹巨嘴鸟长有黑色的羽毛和亮黄色的胸部，但你肯定会先注意到它的喙！巨大的喙混合着绿色、黄色、橙色和红色，尖端还有一抹蓝色。它们的脚有两个脚趾朝前，两个脚趾朝后，这让它们能极其牢固地抓住树枝。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are playful, loud, and very social birds that travel in small flocks. They have a funny game where they throw pieces of fruit into the air and try to catch them in their big mouths! Because their wings are heavy and short, they aren't great flyers; they prefer to hop awkwardly from branch to branch.",
+      "zh": "它们是贪玩、大嗓门且非常喜欢社交的鸟类，通常成小群活动。它们有一个有趣的游戏，就是把水果块抛向空中，然后试着用大嘴接住！因为它们的翅膀又重又短，所以它们并不是优秀的飞行家；它们更喜欢在树枝间笨拙地跳来跳去。"
+    },
+    "habitat_and_distribution": {
+      "en": "You can hear them croaking like frogs high up in the canopy of tropical rainforests. They live in Central and South America, stretching from the jungles of southern Mexico all the way down into Colombia and Venezuela.",
+      "zh": "你可以在热带雨林的树冠高处听到它们像青蛙一样的叫声。它们生活在中美洲和南美洲，分布从墨西哥南部的丛林一直向下延伸到哥伦比亚和委内瑞拉。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical rainforest canopies of Central and South America",
+    "text_zh": "中南美洲的热带雨林树冠层",
+    "map_coordinates": [
+      15,
+      -88
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          22,
+          -98
+        ],
+        [
+          15,
+          -85
+        ],
+        [
+          10,
+          -75
+        ],
+        [
+          0,
+          -75
+        ],
+        [
+          5,
+          -80
+        ],
+        [
+          15,
+          -95
+        ],
+        [
+          22,
+          -98
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/keel-billed-toucan.jpg"
+}

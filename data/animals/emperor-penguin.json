@@ -1,0 +1,106 @@
+{
+  "id": "emperor-penguin",
+  "name_zh": "帝企鹅",
+  "name_en": "Emperor Penguin",
+  "scientific_name": "Aptenodytes forsteri",
+  "ui_tags": [
+    "Bird",
+    "Antarctic",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Sphenisciformes",
+      "zh": "企鹅目"
+    },
+    "family": {
+      "en": "Spheniscidae",
+      "zh": "企鹅科"
+    },
+    "genus": {
+      "en": "Aptenodytes",
+      "zh": "王企鹅属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "The emperor penguin is the tallest and heaviest of all penguin species, renowned for breeding during the brutal Antarctic winter.",
+    "zh": "帝企鹅是所有企鹅物种中最高和最重的，以在残酷的南极冬季进行繁殖而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Standing nearly 4 feet tall and weighing up to 90 pounds, Emperor penguins look like giant birds dressed in elegant tuxedos with a beautiful glow of golden-yellow feathers around their necks. They have a special warm pouch on their belly to hold their eggs.",
+      "zh": "帝企鹅站立时近4英尺高，重达90磅，看起来像穿着优雅燕尾服的巨型鸟类，脖子周围闪耀着美丽的淡黄色羽毛光泽。它们的腹部有一个温暖的特殊皮褶，用来存放它们的蛋。"
+    },
+    "ecology_and_behavior": {
+      "en": "These penguins are the toughest parents on Earth! While the moms travel far to the ocean to hunt for fish, the dads stay behind on the freezing ice. A dad balances the egg on his feet to keep it from touching the ice, standing in the bitter dark winter for two whole months without eating! To stay warm, thousands of penguins huddle tightly together in a giant circle.",
+      "zh": "这些企鹅是地球上最坚强的父母！当妈妈们前往遥远的海洋捕鱼时，爸爸们留在了冰天雪地里。爸爸把蛋平衡在脚上以防接触到冰面，在寒冷黑暗的冬天里整整站立两个月不吃东西！为了保暖，成千上万只企鹅紧紧依偎在一起，围成一个巨大的圆圈。"
+    },
+    "habitat_and_distribution": {
+      "en": "Emperor penguins live on the thick, frozen sea ice connected to the continent of Antarctica. They spend their time diving deep into the frigid Southern Ocean to catch fish and squid.",
+      "zh": "帝企鹅生活在连接着南极洲大陆的厚重且冰冻的海冰上。它们花时间深潜入寒冷的南大洋去捕捉鱼和乌贼。"
+    }
+  },
+  "habitat": {
+    "text_en": "Antarctic fast ice and Southern Ocean waters",
+    "text_zh": "南极固定冰及南大洋水域",
+    "map_coordinates": [
+      -77,
+      165
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          -70,
+          -60
+        ],
+        [
+          -75,
+          0
+        ],
+        [
+          -72,
+          90
+        ],
+        [
+          -68,
+          140
+        ],
+        [
+          -74,
+          170
+        ],
+        [
+          -78,
+          165
+        ],
+        [
+          -75,
+          -140
+        ],
+        [
+          -70,
+          -60
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/emperor-penguin.jpg"
+}

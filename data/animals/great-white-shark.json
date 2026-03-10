@@ -1,0 +1,156 @@
+{
+  "id": "great-white-shark",
+  "name_zh": "大白鲨",
+  "name_en": "Great White Shark",
+  "scientific_name": "Carcharodon carcharias",
+  "ui_tags": [
+    "Fish",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "zh": "软骨鱼纲"
+    },
+    "order": {
+      "en": "Lamniformes",
+      "zh": "鼠鲨目"
+    },
+    "family": {
+      "en": "Lamnidae",
+      "zh": "鼠鲨科"
+    },
+    "genus": {
+      "en": "Carcharodon",
+      "zh": "噬人鲨属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The largest predatory fish on Earth, known for its rows of jagged teeth and incredible hunting senses.",
+    "zh": "地球上最大的掠食性鱼类，以其成排的锯齿状牙齿和不可思议的狩猎感官而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The great white shark is a massive, torpedo-shaped ocean hunter that can grow over 20 feet long. It has a gray back to blend in with the dark sea below, and a bright white belly to hide against the sunlight from above. Inside its powerful mouth are up to 300 razor-sharp, triangular teeth arranged in conveyor-belt rows. When a front tooth falls out, a new one slides up to replace it!",
+      "zh": "大白鲨是一种巨大的、像鱼雷一样的海洋猎手，体长可超过20英尺。它有灰色的背部，用来与下方黑暗的海水融为一体；还有雪白的腹部，可以隐藏在上方阳光的背景中。在它强健的嘴里，有多达300颗像剃刀一样锋利的三角形牙齿，像传送带一样成排排列。当前面的牙齿掉落时，后面的一颗新牙就会滑上来补上！"
+    },
+    "ecology_and_behavior": {
+      "en": "These sharks are the kings of the ocean. They can smell a single drop of blood in 100 liters of water! They prefer to hunt fat, energy-rich marine mammals like seals and sea lions. They ambush their prey from below, swimming up so fast that they can launch their entire massive bodies completely out of the water in a dramatic breach.",
+      "zh": "这些鲨鱼是海洋之王。它们能在100升水中闻出一滴血的味道！它们喜欢捕食富含脂肪和能量的海洋哺乳动物，比如海豹和海狮。它们从下方伏击猎物，游得非常快，甚至能在壮观的跃水动作中把整个巨大的身体完全冲出水面。"
+    },
+    "habitat_and_distribution": {
+      "en": "Great whites are global travelers! They cruise through coastal and offshore waters of all major oceans around the world, preferring cooler temperate seas. Famous hotspots to see them include the coasts of South Africa, Australia, California, and Mexico.",
+      "zh": "大白鲨是全球旅行者！它们在世界所有主要大洋的沿海和近海海域巡游，偏爱较凉爽的温带海域。著名的观鲨热点包括南非、澳大利亚、加利福尼亚和墨西哥的海岸。"
+    }
+  },
+  "habitat": {
+    "text_en": "Coastal and offshore waters of temperate oceans globally",
+    "text_zh": "全球温带海洋的沿海和近海水域",
+    "map_coordinates": [
+      36,
+      -122
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          55,
+          -135
+        ],
+        [
+          20,
+          -110
+        ],
+        [
+          20,
+          -140
+        ],
+        [
+          55,
+          -135
+        ]
+      ],
+      [
+        [
+          45,
+          -65
+        ],
+        [
+          25,
+          -70
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          45,
+          -75
+        ],
+        [
+          45,
+          -65
+        ]
+      ],
+      [
+        [
+          -20,
+          10
+        ],
+        [
+          -40,
+          10
+        ],
+        [
+          -40,
+          40
+        ],
+        [
+          -20,
+          40
+        ],
+        [
+          -20,
+          10
+        ]
+      ],
+      [
+        [
+          -20,
+          110
+        ],
+        [
+          -45,
+          110
+        ],
+        [
+          -45,
+          155
+        ],
+        [
+          -20,
+          155
+        ],
+        [
+          -20,
+          110
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/great-white-shark.jpg"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "walrus",
+  "name_zh": "海象",
+  "name_en": "Walrus",
+  "scientific_name": "Odobenus rosmarus",
+  "ui_tags": [
+    "Mammal",
+    "Arctic",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Odobenidae",
+      "zh": "海象科"
+    },
+    "genus": {
+      "en": "Odobenus",
+      "zh": "海象属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The walrus is a large flippered marine mammal recognized by its prominent tusks and whiskers, inhabiting shallow Arctic seas.",
+    "zh": "海象是一种体型巨大、长有鳍状肢的海洋哺乳动物，以其突出的长牙和胡须为特征，栖息在浅水北极海域。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "You can always recognize a walrus by its two giant, white tusks and a thick, bristly mustache! Both male and female walruses grow these tusks, which can reach up to 3 feet long. Their skin is thick, wrinkly, and pinkish-brown, covering a heavy layer of fat to survive the freezing cold.",
+      "zh": "你总是能通过两根巨大的白色长牙和浓密的胡须认出海象！雄性和雌性海象都会长出这种可以长达3英尺的长牙。它们的皮肤又厚又皱，呈粉棕色，下面覆盖着厚厚的一层脂肪以抵御严寒。"
+    },
+    "ecology_and_behavior": {
+      "en": "Walruses use their giant tusks like ice picks to pull their heavy bodies out of the water onto the ice. They love to rest together in huge, noisy herds, bumping and barking at each other. For food, they dive to the dark, muddy ocean floor and use their sensitive whiskers to find thousands of clams and snails.",
+      "zh": "海象用它们巨大的长牙像冰镐一样，把沉重的身体从水里拉到冰上。它们喜欢成群结队地在冰上休息，非常喧闹，互相碰撞和吠叫。为了觅食，它们潜入黑暗、泥泞的海底，用敏感的胡须寻找成千上万的蛤蜊和蜗牛。"
+    },
+    "habitat_and_distribution": {
+      "en": "Walruses live in the shallow waters just above the ocean floor around the North Pole. They need strong sea ice to use as floating resting beds and a safe place to have their babies.",
+      "zh": "海象生活在北极点周围靠近海底的浅水区。它们需要坚固的海冰作为漂浮的休息床，也是生宝宝的安全地带。"
+    }
+  },
+  "habitat": {
+    "text_en": "Shallow Arctic continental shelves and pack ice",
+    "text_zh": "北极大陆架浅水区及浮冰区",
+    "map_coordinates": [
+      70,
+      -165
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          65,
+          -175
+        ],
+        [
+          70,
+          -165
+        ],
+        [
+          73,
+          -155
+        ],
+        [
+          75,
+          -145
+        ],
+        [
+          70,
+          -130
+        ],
+        [
+          62,
+          -155
+        ],
+        [
+          65,
+          -175
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/walrus.jpg"
+}

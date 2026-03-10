@@ -1,0 +1,274 @@
+{
+  "id": "pronghorn",
+  "name_zh": "叉角羚",
+  "name_en": "Pronghorn",
+  "scientific_name": "Antilocapra americana",
+  "ui_tags": [
+    "Mammal",
+    "Grassland",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Antilocapridae",
+      "zh": "叉角羚科"
+    },
+    "genus": {
+      "en": "Antilocapra",
+      "zh": "叉角羚属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The pronghorn is the fastest land mammal in the Western Hemisphere, built for incredible speed.",
+    "zh": "叉角羚是西半球速度最快的陆地哺乳动物，天生为了惊人的速度而生。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Pronghorns stand about 80 to 100 centimeters tall at the shoulder and weigh 40 to 65 kilograms. Both males and females have forked horns, but the male's horns are much larger. They have huge eyes for spotting danger far away and extra-large windpipes and lungs to take in lots of air while running.",
+      "zh": "叉角羚肩高约80到100厘米，体重40到65公斤。雄性和雌性都有分叉的角，但雄性的角大得多。它们有很大的眼睛用来远距离发现危险，还有超大的气管和肺部，能在奔跑时吸入大量空气。"
+    },
+    "ecology_and_behavior": {
+      "en": "Pronghorns eat grasses, shrubs, and cacti. They can run at speeds up to 88 kilometers per hour, making them the second fastest land animal in the world after the cheetah. They live in herds and use their amazing eyesight to watch for predators like coyotes and wolves.",
+      "zh": "叉角羚吃草、灌木和仙人掌。它们的奔跑速度可达每小时88公里，是世界上仅次于猎豹的第二快陆地动物。它们成群生活，用惊人的视力来观察郊狼和狼等捕食者。"
+    },
+    "habitat_and_distribution": {
+      "en": "Pronghorns live on the open plains and grasslands of western North America. They range from southern Canada through the western United States and into northern Mexico. They prefer wide, flat areas where they can see and outrun predators.",
+      "zh": "叉角羚生活在北美洲西部的开阔平原和草原上。它们的分布范围从加拿大南部到美国西部，一直延伸到墨西哥北部。它们喜欢宽阔平坦的地方，这样就能看到并跑过捕食者。"
+    }
+  },
+  "habitat": {
+    "text_en": "Open plains and brushlands",
+    "text_zh": "开阔平原和灌木丛",
+    "map_coordinates": [
+      43,
+      -105
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          52,
+          -111
+        ],
+        [
+          51.5,
+          -107
+        ],
+        [
+          50,
+          -104.5
+        ],
+        [
+          49,
+          -110.5
+        ],
+        [
+          48.5,
+          -113.5
+        ],
+        [
+          47.5,
+          -114
+        ],
+        [
+          46.5,
+          -112.5
+        ],
+        [
+          45.5,
+          -111
+        ],
+        [
+          44.5,
+          -110
+        ],
+        [
+          43,
+          -110.5
+        ],
+        [
+          41.5,
+          -111
+        ],
+        [
+          40.5,
+          -109.5
+        ],
+        [
+          39,
+          -109
+        ],
+        [
+          37.5,
+          -109.5
+        ],
+        [
+          36.5,
+          -108
+        ],
+        [
+          36,
+          -106.5
+        ],
+        [
+          35,
+          -105
+        ],
+        [
+          34,
+          -104
+        ],
+        [
+          32,
+          -104.5
+        ],
+        [
+          30.5,
+          -104
+        ],
+        [
+          29,
+          -103.5
+        ],
+        [
+          28.5,
+          -104.5
+        ],
+        [
+          27.5,
+          -105.5
+        ],
+        [
+          28.5,
+          -108
+        ],
+        [
+          29.5,
+          -110
+        ],
+        [
+          30,
+          -112
+        ],
+        [
+          31.5,
+          -113.5
+        ],
+        [
+          31,
+          -111
+        ],
+        [
+          31.5,
+          -109.5
+        ],
+        [
+          33,
+          -107
+        ],
+        [
+          34,
+          -106.5
+        ],
+        [
+          35,
+          -108
+        ],
+        [
+          36,
+          -107
+        ],
+        [
+          37,
+          -107.5
+        ],
+        [
+          38,
+          -108.5
+        ],
+        [
+          39.5,
+          -107.5
+        ],
+        [
+          40.5,
+          -106.5
+        ],
+        [
+          41,
+          -105
+        ],
+        [
+          41.5,
+          -104
+        ],
+        [
+          42,
+          -103
+        ],
+        [
+          43,
+          -101.5
+        ],
+        [
+          44.5,
+          -101
+        ],
+        [
+          45.5,
+          -100.5
+        ],
+        [
+          46.5,
+          -100
+        ],
+        [
+          47.5,
+          -100.5
+        ],
+        [
+          48.5,
+          -101
+        ],
+        [
+          49,
+          -104
+        ],
+        [
+          50.5,
+          -106
+        ],
+        [
+          51.5,
+          -107
+        ],
+        [
+          52,
+          -111
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/pronghorn.jpg"
+}

@@ -1,0 +1,106 @@
+{
+  "id": "african-wild-dog",
+  "name_zh": "非洲野犬",
+  "name_en": "African Wild Dog",
+  "scientific_name": "Lycaon pictus",
+  "ui_tags": [
+    "Mammal",
+    "Savanna",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Canidae",
+      "zh": "犬科"
+    },
+    "genus": {
+      "en": "Lycaon",
+      "zh": "非洲野犬属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "A highly social predator of the African savanna, easily recognized by its uniquely painted coat and large, rounded ears.",
+    "zh": "非洲稀树草原上高度社会化的捕食者，以其独特的彩色斑纹皮毛和巨大的圆耳朵而容易被认出。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "African wild dogs are lean, long-legged hunters. Their scientific name means 'painted wolf' because their fur is covered in beautiful, messy patches of brown, black, yellow, and white. They have huge, Mickey Mouse-like round ears that keep them cool and help them hear friends from far away.",
+      "zh": "非洲野犬是瘦长、长腿的猎手。它们的学名意思是「彩绘狼」，因为它们的皮毛上布满了美丽而凌乱的棕色、黑色、黄色和白色斑块。它们长着像米老鼠一样的巨大圆耳朵，这能让它们保持凉爽，并听到远方朋友的声音。"
+    },
+    "ecology_and_behavior": {
+      "en": "These dogs are the best team players in the world! They live in large packs and care deeply for each other, always feeding the puppies and the sick first. Before a hunt, the whole pack gets excited, jumping around and making funny sneezing sounds to 'vote' on whether they are ready to go.",
+      "zh": "这些狗是世界上最棒的团队合作者！它们成群生活，彼此深切关怀，总是让幼犬和生病的同伴先吃东西。在狩猎前，整个狗群会兴奋地跳来跳去，并发出有趣的打喷嚏声来「投票」决定是否准备好出发。"
+    },
+    "habitat_and_distribution": {
+      "en": "They roam the vast, open savannas and dry woodlands of Sub-Saharan Africa. Sadly, because they need huge amounts of space to run and hunt safely, they are very endangered as human farms take over their homes.",
+      "zh": "它们漫游在撒哈拉以南非洲广阔的稀树草原和干燥的林地中。令人难过的是，因为它们需要巨大的空间来安全地奔跑和狩猎，随着人类农场占领它们的家园，它们变得非常濒危。"
+    }
+  },
+  "habitat": {
+    "text_en": "Open plains and savannas of Sub-Saharan Africa",
+    "text_zh": "撒哈拉以南非洲的开阔平原和稀树草原",
+    "map_coordinates": [
+      -15,
+      25
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          10,
+          30
+        ],
+        [
+          5,
+          40
+        ],
+        [
+          -10,
+          38
+        ],
+        [
+          -25,
+          35
+        ],
+        [
+          -30,
+          20
+        ],
+        [
+          -15,
+          15
+        ],
+        [
+          0,
+          20
+        ],
+        [
+          10,
+          30
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/african-wild-dog.jpg"
+}

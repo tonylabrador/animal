@@ -1,0 +1,114 @@
+{
+  "id": "koala",
+  "name_zh": "考拉",
+  "name_en": "Koala",
+  "scientific_name": "Phascolarctos cinereus",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Diprotodontia",
+      "zh": "双门齿目"
+    },
+    "family": {
+      "en": "Phascolarctidae",
+      "zh": "树袋熊科"
+    },
+    "genus": {
+      "en": "Phascolarctos",
+      "zh": "树袋熊属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The koala is an arboreal herbivorous marsupial native to Australia, subsisting almost entirely on a diet of eucalyptus leaves.",
+    "zh": "考拉是一种原产于澳大利亚的树栖食草有袋动物，几乎完全以桉树叶为食。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Koalas look exactly like stuffed teddy bears come to life! They have fluffy round ears, a big leathery black nose, and thick gray fur. To help them live in trees, they have two thumbs on their front paws and razor-sharp curved claws that grip tightly onto bark.",
+      "zh": "考拉看起来就像是活过来的毛绒泰迪熊！它们有毛茸茸的圆耳朵、大大的黑色皮革状鼻子和厚厚的灰色皮毛。为了帮助它们在树上生活，它们前爪上有两个拇指，还有像剃刀一样锋利的弯曲爪子，可以紧紧抓住树皮。"
+    },
+    "ecology_and_behavior": {
+      "en": "If there was an award for sleeping, koalas would win! They sleep up to 20 hours a day. Why? Because they only eat the leaves of eucalyptus trees. These leaves are actually toxic to most animals and don't provide a lot of energy, so koalas have to sleep a lot to digest them and save energy.",
+      "zh": "如果有一个睡觉比赛，考拉一定会赢！它们每天能睡长达20个小时。为什么呢？因为它们只吃桉树的叶子。这些叶子实际上对大多数动物都有毒，而且不能提供很多能量，所以考拉必须睡很多觉来消化它们并保存能量。"
+    },
+    "habitat_and_distribution": {
+      "en": "Koalas live high up in the branches of eucalyptus forests along the eastern coast of Australia. Unfortunately, massive bushfires and human cities are destroying their forests, making them an endangered species.",
+      "zh": "考拉高高地生活在澳大利亚东海岸桉树林的树枝上。不幸的是，大规模的丛林大火和人类城市正在摧毁它们的森林，使它们成为濒危物种。"
+    }
+  },
+  "habitat": {
+    "text_en": "Eucalyptus woodlands along Australia's eastern and southeastern coasts",
+    "text_zh": "澳大利亚东部和东南部沿海的桉树林",
+    "map_coordinates": [
+      -30,
+      150
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -15,
+          143
+        ],
+        [
+          -18,
+          146
+        ],
+        [
+          -25,
+          153
+        ],
+        [
+          -35,
+          150
+        ],
+        [
+          -38,
+          145
+        ],
+        [
+          -38,
+          140
+        ],
+        [
+          -33,
+          138
+        ],
+        [
+          -28,
+          145
+        ],
+        [
+          -20,
+          140
+        ],
+        [
+          -15,
+          143
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/koala.jpg"
+}

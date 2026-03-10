@@ -1,0 +1,124 @@
+{
+  "id": "nile-crocodile",
+  "name_zh": "尼罗鳄",
+  "name_en": "Nile Crocodile",
+  "scientific_name": "Crocodylus niloticus",
+  "ui_tags": [
+    "Reptile",
+    "River",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Crocodilia",
+      "zh": "鳄目"
+    },
+    "family": {
+      "en": "Crocodylidae",
+      "zh": "鳄科"
+    },
+    "genus": {
+      "en": "Crocodylus",
+      "zh": "鳄属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A massive and highly aggressive aquatic predator found throughout freshwater habitats in Africa.",
+    "zh": "分布在非洲各地淡水栖息地中的一种巨大且极具攻击性的水生掠食者。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Nile crocodile is Africa's largest freshwater predator, growing up to 20 feet (6 meters) long! It is covered in thick, armor-like scales that are tough enough to stop a bullet. They have a massive jaw filled with 64 to 68 cone-shaped teeth designed to grab and hold, rather than chew.",
+      "zh": "尼罗鳄是非洲最大的淡水掠食者，能长到20英尺（6米）长！它全身覆盖着厚厚的、像盔甲一样的鳞片，坚硬到可以挡住子弹。它们有一个巨大的下颌，长满了64到68颗锥形的牙齿，这些牙齿是用来抓住和固定猎物而不是咀嚼的。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are stealthy ambush hunters. A Nile crocodile can hold its breath underwater for over two hours, waiting near the riverbank for a zebra, wildebeest, or even a young hippo to come for a drink. Despite their fierce nature, mother crocodiles are very gentle with their babies, carefully carrying the hatchlings in their scary mouths down to the water.",
+      "zh": "它们是隐秘的伏击猎手。尼罗鳄可以在水下憋气两个多小时，在河岸边等待斑马、角马甚至小河马来喝水。尽管本性凶猛，鳄鱼妈妈对宝宝却非常温柔，会小心翼翼地把刚孵化的小鳄鱼含在可怕的嘴里带到水边。"
+    },
+    "habitat_and_distribution": {
+      "en": "These fearsome reptiles are found across Sub-Saharan Africa, living in rivers, freshwater marshes, and mangrove swamps. The Nile River, where they get their name, is one of their most famous homes.",
+      "zh": "这些可怕的爬行动物分布在撒哈拉以南的非洲，生活在河流、淡水沼泽和红树林中。尼罗河（它们以此得名）是它们最著名的家园之一。"
+    }
+  },
+  "habitat": {
+    "text_en": "Rivers, lakes, and marshlands across Africa",
+    "text_zh": "遍布非洲的河流、湖泊和沼泽地",
+    "map_coordinates": [
+      10,
+      30
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          20,
+          -15
+        ],
+        [
+          20,
+          35
+        ],
+        [
+          10,
+          50
+        ],
+        [
+          -30,
+          40
+        ],
+        [
+          -30,
+          15
+        ],
+        [
+          -10,
+          10
+        ],
+        [
+          20,
+          -15
+        ]
+      ],
+      [
+        [
+          -12,
+          43
+        ],
+        [
+          -12,
+          50
+        ],
+        [
+          -25,
+          50
+        ],
+        [
+          -25,
+          43
+        ],
+        [
+          -12,
+          43
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/nile-crocodile.jpg"
+}

@@ -1,0 +1,180 @@
+{
+  "id": "leopard",
+  "name_zh": "豹",
+  "name_en": "Leopard",
+  "scientific_name": "Panthera pardus",
+  "ui_tags": [
+    "Mammal",
+    "Savanna",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Felidae",
+      "zh": "猫科"
+    },
+    "genus": {
+      "en": "Panthera",
+      "zh": "豹属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "A highly adaptable and stealthy big cat famous for its spotted coat and tree-climbing skills.",
+    "zh": "一种适应性极强且隐秘的大型猫科动物，以斑点外衣和爬树技巧而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Leopards are sleek and fast big cats with golden fur covered in dark, flower-shaped spots. Some leopards are born with completely black fur and are often called 'black panthers', but they still have hidden spots!",
+      "zh": "豹子是流畅敏捷的大型猫科动物，金色的毛皮上长满深色的花朵状斑点。有些豹子出生时毛发全黑，常被称为「黑豹」，但它们身上其实隐藏着斑点！"
+    },
+    "ecology_and_behavior": {
+      "en": "They are the ultimate tree-climbing champions of the cat world. A leopard is so strong that it can carry a heavy meal up high into the branches of a tree to keep it safe from hungry lions and hyenas.",
+      "zh": "它们是猫科动物中终极的爬树冠军。豹子非常强壮，能把沉重的猎物拖到高高的树枝上，以防被饥饿的狮子和鬣狗抢走。"
+    },
+    "habitat_and_distribution": {
+      "en": "Leopards are very adaptable and live in more places than any other wild cat. You can find them in African savannas, dry deserts, and even snowy mountains and forests in Asia.",
+      "zh": "豹子的适应力很强，比其他任何野生猫科动物生活的地方都多。你可以在非洲的稀树草原、干旱的沙漠，甚至亚洲的雪山和森林中找到它们。"
+    }
+  },
+  "habitat": {
+    "text_en": "African and Asian diverse habitats",
+    "text_zh": "非洲和亚洲的多种栖息地",
+    "map_coordinates": [
+      1,
+      20
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          -15
+        ],
+        [
+          15,
+          35
+        ],
+        [
+          10,
+          45
+        ],
+        [
+          -10,
+          40
+        ],
+        [
+          -30,
+          30
+        ],
+        [
+          -30,
+          15
+        ],
+        [
+          -20,
+          10
+        ],
+        [
+          0,
+          10
+        ],
+        [
+          5,
+          -10
+        ],
+        [
+          15,
+          -15
+        ]
+      ],
+      [
+        [
+          35,
+          50
+        ],
+        [
+          35,
+          60
+        ],
+        [
+          25,
+          60
+        ],
+        [
+          25,
+          50
+        ],
+        [
+          35,
+          50
+        ]
+      ],
+      [
+        [
+          30,
+          75
+        ],
+        [
+          30,
+          85
+        ],
+        [
+          10,
+          80
+        ],
+        [
+          10,
+          75
+        ],
+        [
+          30,
+          75
+        ]
+      ],
+      [
+        [
+          25,
+          95
+        ],
+        [
+          25,
+          105
+        ],
+        [
+          5,
+          105
+        ],
+        [
+          5,
+          95
+        ],
+        [
+          25,
+          95
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/leopard.jpg"
+}

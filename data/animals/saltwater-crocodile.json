@@ -1,0 +1,122 @@
+{
+  "id": "saltwater-crocodile",
+  "name_zh": "湾鳄",
+  "name_en": "Saltwater Crocodile",
+  "scientific_name": "Crocodylus porosus",
+  "ui_tags": [
+    "Reptile",
+    "River",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Crocodilia",
+      "zh": "鳄目"
+    },
+    "family": {
+      "en": "Crocodylidae",
+      "zh": "鳄科"
+    },
+    "genus": {
+      "en": "Crocodylus",
+      "zh": "鳄属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The saltwater crocodile is a massive, hypercarnivorous reptile and the largest living predator on land and in rivers.",
+    "zh": "湾鳄是一种巨大的超级肉食性爬行动物，也是陆地和河流中现存体型最大的捕食者。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Meet the real monster of the rivers, also known as the 'saltie'! These are the largest living reptiles on Earth, with big males growing up to 20 feet (6 meters) long. They have thick, bumpy scales acting like tough armor, a massive tail for powerful swimming, and jaws that have the strongest bite force of any animal.",
+      "zh": "来见见真正的河流怪兽，也被称为「咸水鳄」！它们是地球上现存最大的爬行动物，巨大的雄性可长达20英尺（6米）。它们有厚实凹凸不平的鳞片就像坚硬的盔甲，一条便于强力游泳的巨大尾巴，以及拥有所有动物中最强咬合力的下巴。"
+    },
+    "ecology_and_behavior": {
+      "en": "Salties are apex predators and master ninjas of the water. They are ambush hunters, waiting perfectly still under the murky water with just their eyes and nostrils sticking out. If a fish, bird, or even a large buffalo comes too close to the water's edge to drink, the crocodile strikes in a flash!",
+      "zh": "咸水鳄是水中的顶级捕食者和忍者大师。它们是伏击猎手，一动不动地潜伏在浑浊的水下，只露出眼睛和鼻孔。如果鱼、鸟甚至巨大的水牛靠水边太近喝水，鳄鱼会在一瞬间发动攻击！"
+    },
+    "habitat_and_distribution": {
+      "en": "They are incredible swimmers and can be found in salty mangrove swamps, river mouths, and occasionally traveling far out into the ocean. Their homes stretch across Southeast Asia, from the eastern coast of India all the way down to northern Australia.",
+      "zh": "它们是令人难以置信的游泳健将，出没在咸水红树林沼泽、河口，偶尔也会游到远洋中。它们的家园横跨东南亚，从印度东海岸一直向南延伸到澳大利亚北部。"
+    }
+  },
+  "habitat": {
+    "text_en": "Mangrove swamps, estuaries, and river mouths of the Indo-Pacific",
+    "text_zh": "印度-太平洋地区的红树林沼泽、河口及入海口",
+    "map_coordinates": [
+      -12.5,
+      131
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          85
+        ],
+        [
+          20,
+          95
+        ],
+        [
+          10,
+          105
+        ],
+        [
+          5,
+          120
+        ],
+        [
+          10,
+          130
+        ],
+        [
+          -5,
+          150
+        ],
+        [
+          -15,
+          145
+        ],
+        [
+          -20,
+          135
+        ],
+        [
+          -20,
+          120
+        ],
+        [
+          -10,
+          110
+        ],
+        [
+          10,
+          80
+        ],
+        [
+          15,
+          85
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/saltwater-crocodile.jpg"
+}

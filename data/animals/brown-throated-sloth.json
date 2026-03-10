@@ -1,0 +1,106 @@
+{
+  "id": "brown-throated-sloth",
+  "name_zh": "褐喉三趾树懒",
+  "name_en": "Brown-throated Sloth",
+  "scientific_name": "Bradypus variegatus",
+  "ui_tags": [
+    "Mammal",
+    "Rainforest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Pilosa",
+      "zh": "披毛目"
+    },
+    "family": {
+      "en": "Bradypodidae",
+      "zh": "树懒科"
+    },
+    "genus": {
+      "en": "Bradypus",
+      "zh": "树懒属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A famously slow-moving mammal from the rainforest canopy, recognized by its three long claws and permanent smiling face.",
+    "zh": "一种来自雨林树冠、以行动缓慢而著名的哺乳动物，以它的三个长爪子和永远微笑的脸而易于辨认。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The brown-throated sloth looks like a sleepy, fuzzy muppet. It has three long, hook-like claws on each of its front arms. Their coarse, grayish-brown fur is super special because tiny green algae actually grow right inside the hair! This green tint acts as an amazing camouflage to hide them in the leaves.",
+      "zh": "褐喉三趾树懒看起来就像一个昏昏欲睡的、毛茸茸的布偶。它的每只前臂上都有三个长长的、钩状的爪子。它们粗糙的灰褐色皮毛超级特别，因为微小的绿藻真的就长在毛发里面！这种绿色的色调是极好的伪装，能让它们隐藏在树叶中。"
+    },
+    "ecology_and_behavior": {
+      "en": "Sloths do everything in slow motion. They eat leaves slowly, climb slowly, and can sleep up to 15 hours a day hanging completely upside down! They move so little that even bugs like moths live in their fur. They only climb down to the ground once a week to go to the bathroom, which is the most dangerous thing they do.",
+      "zh": "树懒做任何事情都是慢动作。它们慢慢地吃树叶，慢慢地爬树，每天可以完全倒挂着睡上15个小时！它们动得太少了，甚至连飞蛾等虫子都住在它们的毛里。它们每周只爬到地面一次去上厕所，这是它们做的最危险的事情。"
+    },
+    "habitat_and_distribution": {
+      "en": "These slow-pokes spend almost their entire lives high up in the leafy canopy of tropical rainforests. They live widely across Central and South America, hanging around the jungles from Honduras all the way down to the Amazon basin in Brazil.",
+      "zh": "这些慢吞吞的家伙几乎一生都在热带雨林枝繁叶茂的树冠高处度过。它们广泛生活在中美洲和南美洲，从洪都拉斯一直到巴西的亚马逊盆地的丛林中闲逛。"
+    }
+  },
+  "habitat": {
+    "text_en": "Forest canopies of Central and South America",
+    "text_zh": "中美洲和南美洲的森林树冠层",
+    "map_coordinates": [
+      -5,
+      -65
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          -85
+        ],
+        [
+          10,
+          -70
+        ],
+        [
+          5,
+          -55
+        ],
+        [
+          -10,
+          -40
+        ],
+        [
+          -25,
+          -45
+        ],
+        [
+          -30,
+          -60
+        ],
+        [
+          -10,
+          -80
+        ],
+        [
+          15,
+          -85
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/brown-throated-sloth.jpg"
+}

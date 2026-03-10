@@ -1,0 +1,322 @@
+{
+  "id": "bobcat",
+  "name_zh": "短尾猫",
+  "name_en": "Bobcat",
+  "scientific_name": "Lynx rufus",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Felidae",
+      "zh": "猫科"
+    },
+    "genus": {
+      "en": "Lynx",
+      "zh": "猞猁属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A medium-sized wildcat with a distinctive short, 'bobbed' tail and tufted ears.",
+    "zh": "一种中等体型的野猫，具有独特的短尾巴和有簇毛的耳朵。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The bobcat is about twice the size of a house cat, weighing 6 to 14 kilograms. It has long legs, large paws, and a short tail that looks like it was cut, which is how it got its name. Its fur is tan to grayish-brown with dark spots and stripes that help it blend into the forest.",
+      "zh": "短尾猫大约是家猫的两倍大，体重在6到14公斤之间。它有长腿、大爪子和一条看起来像被剪断的短尾巴，这也是它名字的由来。它的毛皮呈棕褐色到灰褐色，带有深色斑点和条纹，帮助它融入森林之中。"
+    },
+    "ecology_and_behavior": {
+      "en": "Bobcats are solitary hunters that mainly eat rabbits, hares, and small rodents. They are most active at dawn and dusk, sneaking up on prey before pouncing with a powerful leap. They mark their territory with scent and claw marks on trees.",
+      "zh": "短尾猫是独居的猎手，主要捕食兔子、野兔和小型啮齿动物。它们在黎明和黄昏时最为活跃，悄悄靠近猎物后用有力的跳跃扑上去。它们用气味和在树上的爪痕来标记自己的领地。"
+    },
+    "habitat_and_distribution": {
+      "en": "Bobcats live in forests, swamps, deserts, and even near suburban areas across North America. They are found from southern Canada through most of the United States and into Mexico. They are one of the most adaptable wild cats in the world.",
+      "zh": "短尾猫生活在北美洲的森林、沼泽、沙漠，甚至靠近郊区的地方。它们分布范围从加拿大南部到美国大部分地区，一直延伸到墨西哥。它们是世界上适应能力最强的野猫之一。"
+    }
+  },
+  "habitat": {
+    "text_en": "Forests, swamps, and deserts",
+    "text_zh": "森林、沼泽和沙漠",
+    "map_coordinates": [
+      33.8,
+      -84.4
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          49,
+          -124
+        ],
+        [
+          49,
+          -120
+        ],
+        [
+          49.5,
+          -115
+        ],
+        [
+          49,
+          -110
+        ],
+        [
+          49,
+          -105
+        ],
+        [
+          49.5,
+          -100
+        ],
+        [
+          49,
+          -95
+        ],
+        [
+          48.5,
+          -90
+        ],
+        [
+          47,
+          -84
+        ],
+        [
+          45.5,
+          -76
+        ],
+        [
+          45,
+          -71
+        ],
+        [
+          44,
+          -66.5
+        ],
+        [
+          42.5,
+          -70
+        ],
+        [
+          41,
+          -70.5
+        ],
+        [
+          39.5,
+          -74
+        ],
+        [
+          35,
+          -75.5
+        ],
+        [
+          30.5,
+          -81.5
+        ],
+        [
+          25.5,
+          -80.3
+        ],
+        [
+          24.5,
+          -81.5
+        ],
+        [
+          25,
+          -84
+        ],
+        [
+          29,
+          -89.5
+        ],
+        [
+          29,
+          -94
+        ],
+        [
+          26,
+          -97.5
+        ],
+        [
+          22.5,
+          -97.8
+        ],
+        [
+          20,
+          -87.5
+        ],
+        [
+          17.5,
+          -91.5
+        ],
+        [
+          16,
+          -92.5
+        ],
+        [
+          16.5,
+          -95
+        ],
+        [
+          18.5,
+          -96.5
+        ],
+        [
+          19.5,
+          -90.5
+        ],
+        [
+          21,
+          -87.3
+        ],
+        [
+          23.5,
+          -90
+        ],
+        [
+          25,
+          -91
+        ],
+        [
+          26.5,
+          -99.5
+        ],
+        [
+          27.5,
+          -105
+        ],
+        [
+          29,
+          -110
+        ],
+        [
+          27,
+          -110.5
+        ],
+        [
+          24,
+          -110
+        ],
+        [
+          22.5,
+          -105.5
+        ],
+        [
+          20.5,
+          -105
+        ],
+        [
+          19,
+          -104
+        ],
+        [
+          18.5,
+          -103.5
+        ],
+        [
+          19.5,
+          -102
+        ],
+        [
+          19.5,
+          -99
+        ],
+        [
+          18,
+          -96
+        ],
+        [
+          18.5,
+          -103.5
+        ],
+        [
+          20,
+          -105
+        ],
+        [
+          22,
+          -106
+        ],
+        [
+          25,
+          -108
+        ],
+        [
+          28,
+          -111
+        ],
+        [
+          30.5,
+          -112.5
+        ],
+        [
+          31.3,
+          -114.5
+        ],
+        [
+          32.5,
+          -117.1
+        ],
+        [
+          34,
+          -120.5
+        ],
+        [
+          36.5,
+          -121.8
+        ],
+        [
+          38,
+          -122.5
+        ],
+        [
+          40,
+          -124.3
+        ],
+        [
+          42,
+          -124.5
+        ],
+        [
+          44.5,
+          -124
+        ],
+        [
+          46.5,
+          -124.2
+        ],
+        [
+          48.5,
+          -124.5
+        ],
+        [
+          49,
+          -124
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/bobcat.jpg"
+}

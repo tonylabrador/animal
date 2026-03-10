@@ -1,0 +1,98 @@
+{
+  "id": "red-eyed-tree-frog",
+  "name_zh": "红眼树蛙",
+  "name_en": "Red-eyed Tree Frog",
+  "scientific_name": "Agalychnis callidryas",
+  "ui_tags": [
+    "Amphibian",
+    "Rainforest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Amphibia",
+      "zh": "两栖纲"
+    },
+    "order": {
+      "en": "Anura",
+      "zh": "无尾目"
+    },
+    "family": {
+      "en": "Phyllomedusidae",
+      "zh": "叶泡蛙科"
+    },
+    "genus": {
+      "en": "Agalychnis",
+      "zh": "红眼蛙属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A non-poisonous rainforest frog that flashes its giant red eyes to startle predators.",
+    "zh": "一种无毒的雨林青蛙，会闪现巨大的红眼睛来惊吓捕食者。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The red-eyed tree frog is one of the most beautiful animals in the jungle. It has a neon green body, bright blue and yellow stripes on its sides, and bright orange feet. But its most amazing feature is its massive, bulging, bright red eyes with narrow cat-like pupils!",
+      "zh": "红眼树蛙是丛林中最美丽的动物之一。它有着霓虹绿色的身体，两侧有明亮的蓝色和黄色条纹，还有鲜橙色的脚。但它最神奇的特征是它那双巨大的、凸出的、带有像猫一样狭窄瞳孔的鲜红色眼睛！"
+    },
+    "ecology_and_behavior": {
+      "en": "Unlike dart frogs, red-eyed tree frogs are not poisonous. When they sleep during the day, they tuck their bright legs under their green bodies and close their eyes to look like a plain green leaf. If a hungry bird wakes them up, their giant red eyes instantly pop open to shock the bird, giving the frog a split second to leap to safety!",
+      "zh": "与箭毒蛙不同，红眼树蛙是没有毒的。当它们白天睡觉时，会把鲜艳的腿藏在绿色的身体下，闭上眼睛，让自己看起来像一片普通的绿叶。如果一只饥饿的鸟叫醒了它们，它们巨大的红眼睛会瞬间睁开，把鸟吓一跳，给青蛙争取到一瞬间的时间跳到安全的地方！"
+    },
+    "habitat_and_distribution": {
+      "en": "They live in the warm, wet tropical rainforests of Central America, stretching from Mexico all the way down to Colombia. They spend their time hiding high up in the tree canopy near rivers and ponds.",
+      "zh": "它们生活在中美洲温暖潮湿的热带雨林里，分布从墨西哥一直延伸到哥伦比亚。它们花时间躲在靠近河流和池塘的树冠高处。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical rainforest canopies of Central America",
+    "text_zh": "中美洲热带雨林的树冠层",
+    "map_coordinates": [
+      15,
+      -88
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          20,
+          -95
+        ],
+        [
+          20,
+          -85
+        ],
+        [
+          8,
+          -75
+        ],
+        [
+          8,
+          -83
+        ],
+        [
+          15,
+          -95
+        ],
+        [
+          20,
+          -95
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/red-eyed-tree-frog.jpg"
+}

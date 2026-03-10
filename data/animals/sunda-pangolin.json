@@ -1,0 +1,106 @@
+{
+  "id": "sunda-pangolin",
+  "name_zh": "马来穿山甲",
+  "name_en": "Sunda Pangolin",
+  "scientific_name": "Manis javanica",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Pholidota",
+      "zh": "鳞甲目"
+    },
+    "family": {
+      "en": "Manidae",
+      "zh": "穿山甲科"
+    },
+    "genus": {
+      "en": "Manis",
+      "zh": "穿山甲属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "The only mammal in the world fully covered in tough scales, which it uses to roll into a protective ball.",
+    "zh": "世界上唯一全身覆盖着坚硬鳞片的哺乳动物，它会利用鳞片卷成一个保护球。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Pangolins look like walking pinecones! They are the only mammals on Earth that are completely covered in hard, overlapping scales made of keratin (the same stuff as human fingernails). They have strong front claws for digging and no teeth at all, but they do have a sticky tongue that can stretch longer than their own body!",
+      "zh": "穿山甲看起来就像会走路的松果！它们是地球上唯一完全被坚硬的、重叠的角蛋白鳞片（和人类指甲的成分一样）覆盖的哺乳动物。它们有强壮的前爪用来挖掘，嘴里完全没有牙齿，但它们有一条比自己身体还要长的黏性舌头！"
+    },
+    "ecology_and_behavior": {
+      "en": "These shy, nocturnal creatures are nature's pest controllers, eating thousands of ants and termites every night. If a predator like a tiger tries to attack, the pangolin uses its superpower: it quickly rolls up into a tight, impenetrable ball with its sharp scales facing outwards! Mothers carry their cute babies by letting them ride piggyback on their scaly tails.",
+      "zh": "这些害羞的夜行动物是大自然的害虫控制员，每晚能吃掉成千上万只蚂蚁和白蚁。如果老虎等捕食者试图攻击，穿山甲就会使出它的超能力：迅速卷成一个紧实、无法穿透的球，把锋利的鳞片朝外！妈妈会让可爱的宝宝骑在它们布满鳞片的尾巴上带着走。"
+    },
+    "habitat_and_distribution": {
+      "en": "The Sunda pangolin spends a lot of its time climbing trees in the dense tropical forests and rubber plantations of Southeast Asia. Unfortunately, because people illegally hunt them for their unique scales, they are one of the most endangered animals in the world.",
+      "zh": "马来穿山甲把大量的时间花在东南亚茂密的热带森林和橡胶林的树上攀爬。不幸的是，因为人们为了它们独特的鳞片而非法偷猎，它们成为了世界上最濒危的动物之一。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical forests of Southeast Asia",
+    "text_zh": "东南亚的热带森林",
+    "map_coordinates": [
+      3,
+      105
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          20,
+          95
+        ],
+        [
+          20,
+          105
+        ],
+        [
+          10,
+          110
+        ],
+        [
+          5,
+          119
+        ],
+        [
+          -8,
+          115
+        ],
+        [
+          -8,
+          105
+        ],
+        [
+          5,
+          95
+        ],
+        [
+          20,
+          95
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/sunda-pangolin.jpg"
+}

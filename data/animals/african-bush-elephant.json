@@ -1,0 +1,114 @@
+{
+  "id": "african-bush-elephant",
+  "name_zh": "非洲草原象",
+  "name_en": "African Bush Elephant",
+  "scientific_name": "Loxodonta africana",
+  "ui_tags": [
+    "Mammal",
+    "Savanna",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Proboscidea",
+      "zh": "长鼻目"
+    },
+    "family": {
+      "en": "Elephantidae",
+      "zh": "象科"
+    },
+    "genus": {
+      "en": "Loxodonta",
+      "zh": "非洲象属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The African bush elephant is the largest living land animal in the world, known for its enormous ears and long trunk.",
+    "zh": "非洲草原象是世界上最大的现存陆地动物，以其巨大的耳朵和长长的鼻子而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "African bush elephants are massive, weighing up to 6,000 kilograms! They have huge ears shaped like the continent of Africa, which help them stay cool in the hot sun. Their long trunk is actually a nose and upper lip joined together, used for breathing, drinking, and grabbing food.",
+      "zh": "非洲草原象体型巨大，体重可达6000公斤！它们巨大的耳朵形状像非洲大陆，能帮它们在烈日下散热。它们长长的鼻子其实是鼻子和上唇连在一起的，用来呼吸、喝水和抓取食物。"
+    },
+    "ecology_and_behavior": {
+      "en": "These gentle giants eat grasses, leaves, and bark, spending up to 18 hours a day feeding. They live in close-knit family groups led by an older, wise female called a matriarch. Elephants are very smart and can communicate with each other using low rumbles that travel far underground.",
+      "zh": "这些温和的庞然大物吃草、树叶和树皮，每天花长达18个小时进食。它们生活在紧密的家庭群体中，由一只年长聪明的雌象（称为女族长）带领。大象非常聪明，能用在地下传播得很远的低沉隆隆声相互交流。"
+    },
+    "habitat_and_distribution": {
+      "en": "They roam across the grassy savannas, woodlands, and deserts of Sub-Saharan Africa. They need to live near water sources because they drink up to 190 liters of water a day. Sadly, they are threatened by habitat loss and poaching for their ivory tusks.",
+      "zh": "它们漫步在撒哈拉以南非洲的稀树草原、林地和沙漠中。它们必须住在水源附近，因为每天要喝多达190升的水。遗憾的是，它们正受到栖息地丧失和为获取象牙而进行盗猎的威胁。"
+    }
+  },
+  "habitat": {
+    "text_en": "Sub-Saharan African Savannas",
+    "text_zh": "撒哈拉以南非洲稀树草原",
+    "map_coordinates": [
+      -2,
+      34
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          -16
+        ],
+        [
+          15,
+          38
+        ],
+        [
+          8,
+          48
+        ],
+        [
+          -10,
+          40
+        ],
+        [
+          -25,
+          32
+        ],
+        [
+          -30,
+          20
+        ],
+        [
+          -20,
+          12
+        ],
+        [
+          -5,
+          12
+        ],
+        [
+          5,
+          -10
+        ],
+        [
+          15,
+          -16
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/african-bush-elephant.jpg"
+}

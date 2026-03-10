@@ -1,0 +1,144 @@
+{
+  "id": "dhole",
+  "name_zh": "豺",
+  "name_en": "Dhole",
+  "scientific_name": "Cuon alpinus",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Canidae",
+      "zh": "犬科"
+    },
+    "genus": {
+      "en": "Cuon",
+      "zh": "豺属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "A highly social and incredibly brave Asian wild dog that uses whistling sounds to communicate with its pack.",
+    "zh": "一种高度群居且极其勇敢的亚洲野犬，利用口哨声与狼群进行交流。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The dhole is a medium-sized wild dog that looks like a mix between a wolf and a red fox. It has beautiful rusty-red fur, a white chest, and a very fluffy, dark tail. Compared to other dogs, its snout is a bit shorter and its jaw is very strong.",
+      "zh": "豺是一种中等体型的野犬，看起来像是狼和赤狐的混合体。它拥有美丽的铁锈红色毛皮、白色的胸部和一条非常蓬松的深色尾巴。与其他狗相比，它的吻部稍微短一些，下颌非常有力。"
+    },
+    "ecology_and_behavior": {
+      "en": "Dholes are fearless pack hunters! Working together, a group of dholes can take down prey much larger than themselves, like huge wild water buffalo or wild boars. Instead of howling like wolves, dholes talk to each other in the jungle using a series of weird clicks, clucks, and high-pitched whistles.",
+      "zh": "豺是无畏的群体猎手！通过团队合作，一群豺可以击倒比自己大得多的猎物，比如巨大的野生水牛或野猪。豺不像狼那样嚎叫，而是用一系列奇怪的咔哒声、咯咯声和高亢的口哨声在丛林里互相交谈。"
+    },
+    "habitat_and_distribution": {
+      "en": "They live in the dense tropical forests, alpine zones, and scrublands of Central, South, and Southeast Asia. Today, they are mostly found in protected parks in India, Thailand, and Indonesia, as their forest homes are being cut down.",
+      "zh": "它们生活在中亚、南亚和东南亚的茂密热带森林、高山区和灌木丛中。如今，由于它们森林里的家被砍伐，它们主要分布在印度、泰国和印度尼西亚的保护公园内。"
+    }
+  },
+  "habitat": {
+    "text_en": "Forests and scrublands of Asia",
+    "text_zh": "亚洲的森林与灌木丛",
+    "map_coordinates": [
+      20,
+      80
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          30,
+          75
+        ],
+        [
+          25,
+          85
+        ],
+        [
+          20,
+          85
+        ],
+        [
+          10,
+          75
+        ],
+        [
+          15,
+          72
+        ],
+        [
+          25,
+          70
+        ],
+        [
+          30,
+          75
+        ]
+      ],
+      [
+        [
+          25,
+          95
+        ],
+        [
+          25,
+          105
+        ],
+        [
+          15,
+          105
+        ],
+        [
+          5,
+          100
+        ],
+        [
+          -5,
+          105
+        ],
+        [
+          -5,
+          115
+        ],
+        [
+          5,
+          115
+        ],
+        [
+          10,
+          100
+        ],
+        [
+          15,
+          95
+        ],
+        [
+          25,
+          95
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/dhole.jpg"
+}

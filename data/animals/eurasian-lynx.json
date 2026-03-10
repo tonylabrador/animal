@@ -1,0 +1,122 @@
+{
+  "id": "eurasian-lynx",
+  "name_zh": "欧亚猞猁",
+  "name_en": "Eurasian Lynx",
+  "scientific_name": "Lynx lynx",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Felidae",
+      "zh": "猫科"
+    },
+    "genus": {
+      "en": "Lynx",
+      "zh": "猞猁属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The largest of the lynx species, equipped with long legs and large paws for hunting in deep snow.",
+    "zh": "体型最大的猞猁物种，配备长腿和巨大的爪子，能在深雪中狩猎。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Eurasian lynx is a powerful, medium-sized cat. It has a short 'bobbed' tail with a black tip, and long black tufts of hair on the tips of its ears. During winter, its fur grows very thick and its giant paws act like snowshoes to keep it from sinking into the snow.",
+      "zh": "欧亚猞猁是一种强壮的中型猫科动物。它有一条黑尖的短尾巴，耳尖上长着长长的黑色簇毛。在冬天，它的毛发变得非常厚实，巨大的爪子就像雪鞋一样，防止它陷入雪中。"
+    },
+    "ecology_and_behavior": {
+      "en": "This lynx is a very secretive hunter. It hides silently in the thick forest, waiting for the perfect moment to pounce on deer, wild boars, or hares. Despite their size, they are very quiet and use trees as observation posts to spot their next meal.",
+      "zh": "这种猞猁是非常隐秘的猎手。它静静地躲在茂密的森林里，等待完美的时机猛扑向鹿、野猪或野兔。尽管体型不小，它们却非常安静，会把树木当作观察哨来寻找下一顿大餐。"
+    },
+    "habitat_and_distribution": {
+      "en": "You can find the Eurasian lynx in the rugged, snowy forests of Northern Europe, Russia, and Central Asia. They prefer cold, mountainous regions where they can hide among the trees and rocks.",
+      "zh": "你可以在北欧、俄罗斯和中亚崎岖多雪的森林中找到欧亚猞猁。它们喜欢寒冷的山区，可以隐藏在树木和岩石之间。"
+    }
+  },
+  "habitat": {
+    "text_en": "Boreal and temperate forests of Eurasia",
+    "text_zh": "欧亚大陆的北方和温带森林",
+    "map_coordinates": [
+      60,
+      90
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          65,
+          10
+        ],
+        [
+          70,
+          40
+        ],
+        [
+          70,
+          150
+        ],
+        [
+          60,
+          150
+        ],
+        [
+          55,
+          140
+        ],
+        [
+          45,
+          140
+        ],
+        [
+          45,
+          120
+        ],
+        [
+          35,
+          100
+        ],
+        [
+          45,
+          80
+        ],
+        [
+          55,
+          50
+        ],
+        [
+          55,
+          10
+        ],
+        [
+          65,
+          10
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/eurasian-lynx.jpg"
+}

@@ -1,0 +1,134 @@
+{
+  "id": "jaguar",
+  "name_zh": "美洲豹",
+  "name_en": "Jaguar",
+  "scientific_name": "Panthera onca",
+  "ui_tags": [
+    "Mammal",
+    "Rainforest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Felidae",
+      "zh": "猫科"
+    },
+    "genus": {
+      "en": "Panthera",
+      "zh": "豹属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "The largest cat in the Americas, known for its beautiful spotted coat and love of swimming.",
+    "zh": "美洲最大的猫科动物，以其美丽的斑点外衣和热爱游泳而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Jaguars are stocky, powerful cats with gorgeous golden fur covered in black spots called rosettes. Each rosette has a smaller black spot inside it, which helps tell them apart from leopards!",
+      "zh": "美洲豹是粗壮有力的猫科动物，金色的毛皮上布满了被称为玫瑰斑的黑色斑点。每个玫瑰斑里面还有一个更小的黑点，这能帮我们把它们和花豹区分开来！"
+    },
+    "ecology_and_behavior": {
+      "en": "Unlike most cats, jaguars absolutely love water! They are amazing swimmers and will even dive into rivers to hunt for fish, turtles, and even large crocodiles using their incredibly strong jaws.",
+      "zh": "和大多数猫科动物不同，美洲豹绝对热爱水！它们是游泳高手，甚至会潜入河中，用极其强健的下颚捕食鱼类、海龟，甚至大型鳄鱼。"
+    },
+    "habitat_and_distribution": {
+      "en": "They rule the dense, wet tropical rainforests and swamps of Central and South America. The vast Amazon Rainforest is their main home, where they are the top predators.",
+      "zh": "它们统治着中美洲和南美洲茂密潮湿的热带雨林和沼泽。广阔的亚马逊雨林是它们的主要家园，在那里它们是顶级捕食者。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical rainforests of the Americas",
+    "text_zh": "美洲热带雨林",
+    "map_coordinates": [
+      -3,
+      -60
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          25,
+          -105
+        ],
+        [
+          20,
+          -95
+        ],
+        [
+          15,
+          -90
+        ],
+        [
+          10,
+          -80
+        ],
+        [
+          10,
+          -70
+        ],
+        [
+          5,
+          -55
+        ],
+        [
+          -10,
+          -40
+        ],
+        [
+          -25,
+          -45
+        ],
+        [
+          -30,
+          -60
+        ],
+        [
+          -20,
+          -65
+        ],
+        [
+          -10,
+          -75
+        ],
+        [
+          0,
+          -80
+        ],
+        [
+          15,
+          -95
+        ],
+        [
+          25,
+          -110
+        ],
+        [
+          25,
+          -105
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/jaguar.jpg"
+}

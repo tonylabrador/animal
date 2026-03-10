@@ -1,0 +1,114 @@
+{
+  "id": "greater-flamingo",
+  "name_zh": "大红鹳",
+  "name_en": "Greater Flamingo",
+  "scientific_name": "Phoenicopterus roseus",
+  "ui_tags": [
+    "Bird",
+    "Wetland",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Phoenicopteriformes",
+      "zh": "红鹳目"
+    },
+    "family": {
+      "en": "Phoenicopteridae",
+      "zh": "红鹳科"
+    },
+    "genus": {
+      "en": "Phoenicopterus",
+      "zh": "红鹳属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The greater flamingo is a tall, pink-plumaged wading bird widely distributed across the Old World.",
+    "zh": "大红鹳是一种身材高挑、长有粉红色羽毛的涉禽，广泛分布于旧大陆。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "With their incredibly long, skinny legs and an elegant, S-shaped neck, flamingos are hard to miss. Their feathers are a beautiful pinkish-white. Their beak has a very weird bend in the middle, designed to be used upside down in the water!",
+      "zh": "拥有令人难以置信的细长双腿和优雅的S形脖子，火烈鸟让人很难错过。它们的羽毛是美丽的粉白色。它们的鸟喙中间有一个非常奇怪的弯曲，这是为了在水里倒过来用而设计的！"
+    },
+    "ecology_and_behavior": {
+      "en": "Why are flamingos pink? It's not magic, it's their diet! They eat algae and tiny brine shrimp that contain red color pigments. The more they eat, the pinker they get. A large gathering of these birds is fabulously called a 'flamboyance'. They also love to take a nap while standing perfectly balanced on just one leg.",
+      "zh": "火烈鸟为什么是粉红色的？这不是魔法，而是它们的饮食！它们吃含有红色色素的藻类和微小的丰年虾。吃得越多，它们就变得越粉。一大群这种鸟被绝妙地称为「flamboyance（华丽群体）」。它们还喜欢在一只脚上保持完美平衡站着打个盹。"
+    },
+    "habitat_and_distribution": {
+      "en": "Greater flamingos live in big flocks in shallow, muddy, and very salty lakes or lagoons. You can find them across Africa, southern Europe, and parts of Asia. They like water that is so salty it would make other animals sick.",
+      "zh": "大红鹳成大群生活在泥泞且盐度极高的浅水湖泊或泻湖中。你可以在非洲、南欧和亚洲的部分地区找到它们。它们喜欢咸得会让其他动物生病的水域。"
+    }
+  },
+  "habitat": {
+    "text_en": "Saline lakes, estuaries, and shallow coastal lagoons across Africa and Eurasia",
+    "text_zh": "横跨非洲和欧亚大陆的咸水湖、河口和浅水沿海泻湖",
+    "map_coordinates": [
+      25,
+      30
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          45,
+          -5
+        ],
+        [
+          45,
+          10
+        ],
+        [
+          40,
+          35
+        ],
+        [
+          25,
+          55
+        ],
+        [
+          10,
+          75
+        ],
+        [
+          -25,
+          35
+        ],
+        [
+          -10,
+          10
+        ],
+        [
+          15,
+          -15
+        ],
+        [
+          35,
+          -10
+        ],
+        [
+          45,
+          -5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/greater-flamingo.jpg"
+}

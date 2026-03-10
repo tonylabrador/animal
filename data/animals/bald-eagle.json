@@ -1,0 +1,94 @@
+{
+  "id": "bald-eagle",
+  "name_zh": "白头海雕",
+  "name_en": "Bald Eagle",
+  "scientific_name": "Haliaeetus leucocephalus",
+  "ui_tags": [
+    "Bird",
+    "River",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Accipitriformes",
+      "zh": "鹰形目"
+    },
+    "family": {
+      "en": "Accipitridae",
+      "zh": "鹰科"
+    },
+    "genus": {
+      "en": "Haliaeetus",
+      "zh": "海雕属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The national bird of the United States, a majestic bird of prey known for its white head and incredible fishing skills.",
+    "zh": "美国的国鸟，一种雄伟的猛禽，以其白色的头部和惊人的捕鱼技巧而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The bald eagle is a massive bird of prey with a wingspan up to 7 feet (2 meters) wide. It isn't actually 'bald'; its name comes from an old English word meaning 'white-headed'. Adult eagles have a striking snowy-white head and tail, a dark brown body, and a bright yellow, hooked beak designed for tearing meat.",
+      "zh": "白头海雕是一种巨大的猛禽，翼展可达7英尺（2米）宽。它其实并不“秃”；它的英文名字来源于一个古英语单词，意思是“白头的”。成年海雕有引人注目的雪白色的头和尾巴、深棕色的身体，以及一个亮黄色的、专用来撕肉的钩状喙。"
+    },
+    "ecology_and_behavior": {
+      "en": "These fierce eagles are fishing experts! They have amazing eyesight to spot a fish swimming under the water from high up in the sky. They swoop down, throw their legs forward, and snatch the fish using their incredibly sharp, curved claws called talons. Bald eagles mate for life and build the largest bird nests in the world, which can weigh as much as a car!",
+      "zh": "这些凶猛的鹰是捕鱼专家！它们有惊人的视力，能从高空中发现水下游动的鱼。它们俯冲而下，把腿向前伸，用极其锋利的、被称为猛禽爪的弯曲爪子将鱼一把抓起。白头海雕终生相伴，并建造世界上最大的鸟巢，它们的巢可以像一辆汽车一样重！"
+    },
+    "habitat_and_distribution": {
+      "en": "Bald eagles love water. They live exclusively in North America, found from the wild forests of Alaska and Canada all the way down to northern Mexico. They build their massive nests in tall, sturdy old-growth trees located near large lakes, rivers, or ocean coastlines.",
+      "zh": "白头海雕非常喜欢水。它们只生活在北美洲，从阿拉斯加和加拿大的原始森林一直到墨西哥北部都能找到它们。它们在靠近大型湖泊、河流或海岸线的高大、粗壮的古树上建造巨大的巢。"
+    }
+  },
+  "habitat": {
+    "text_en": "Forested areas near large bodies of water in North America",
+    "text_zh": "北美洲靠近大型水域的林区",
+    "map_coordinates": [
+      45,
+      -100
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          70,
+          -165
+        ],
+        [
+          70,
+          -60
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          25,
+          -120
+        ],
+        [
+          70,
+          -165
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/bald-eagle.jpg"
+}

@@ -1,0 +1,106 @@
+{
+  "id": "scarlet-macaw",
+  "name_zh": "绯红金刚鹦鹉",
+  "name_en": "Scarlet Macaw",
+  "scientific_name": "Ara macao",
+  "ui_tags": [
+    "Bird",
+    "Rainforest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Psittaciformes",
+      "zh": "鹦形目"
+    },
+    "family": {
+      "en": "Psittacidae",
+      "zh": "鹦鹉科"
+    },
+    "genus": {
+      "en": "Ara",
+      "zh": "金刚鹦鹉属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A large, incredibly intelligent, and brilliantly colored parrot native to American tropical forests.",
+    "zh": "一种原产于美洲热带森林的大型鹦鹉，极其聪明且色彩极其艳丽。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The scarlet macaw is a flying rainbow! It has bright red feathers covering most of its body, with patches of yellow and blue on its wings and tail. It has a powerful, curved beak that is strong enough to crack open the hardest nuts in the jungle.",
+      "zh": "绯红金刚鹦鹉就是一道会飞的彩虹！它身体的大部分被鲜红色的羽毛覆盖，翅膀和尾巴上带有黄色和蓝色的斑块。它有一个强有力、弯曲的喙，坚硬到足以咬开丛林里最硬的坚果。"
+    },
+    "ecology_and_behavior": {
+      "en": "These parrots are incredibly smart and can even learn to mimic human words. They mate for life, and a couple will fly everywhere together, their wings almost touching. In the Amazon, hundreds of them gather at special clay cliffs to eat dirt, which helps settle their stomachs after eating slightly toxic seeds.",
+      "zh": "这些鹦鹉非常聪明，甚至能学会模仿人类说话。它们终生相伴，一对伴侣会一起飞到任何地方，翅膀几乎要碰到一起。在亚马逊地区，成百上千只鹦鹉会聚集在特殊的粘土悬崖上吃土，这能帮助它们在吃了微毒的种子后舒缓肠胃。"
+    },
+    "habitat_and_distribution": {
+      "en": "They live high up in the canopy of the humid evergreen forests of Central and South America, flying over the tops of the trees from southern Mexico all the way down to the Amazon basin.",
+      "zh": "它们生活在中南美洲潮湿常绿森林的高高树冠上，飞越树顶，从墨西哥南部一直延伸到亚马逊盆地。"
+    }
+  },
+  "habitat": {
+    "text_en": "Humid evergreen forests of Central and South America",
+    "text_zh": "中南美洲的潮湿常绿森林",
+    "map_coordinates": [
+      -5,
+      -65
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          20,
+          -95
+        ],
+        [
+          15,
+          -85
+        ],
+        [
+          10,
+          -75
+        ],
+        [
+          5,
+          -50
+        ],
+        [
+          -15,
+          -45
+        ],
+        [
+          -20,
+          -65
+        ],
+        [
+          -10,
+          -75
+        ],
+        [
+          20,
+          -95
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/scarlet-macaw.jpg"
+}

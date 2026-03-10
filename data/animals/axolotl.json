@@ -1,0 +1,102 @@
+{
+  "id": "axolotl",
+  "name_zh": "墨西哥钝口螈",
+  "name_en": "Axolotl",
+  "scientific_name": "Ambystoma mexicanum",
+  "ui_tags": [
+    "Amphibian",
+    "Freshwater",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Amphibia",
+      "zh": "两栖纲"
+    },
+    "order": {
+      "en": "Urodela",
+      "zh": "有尾目"
+    },
+    "family": {
+      "en": "Ambystomatidae",
+      "zh": "钝口螈科"
+    },
+    "genus": {
+      "en": "Ambystoma",
+      "zh": "钝口螈属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "The axolotl is a critically endangered paedomorphic salamander endemic to the lake complex of Xochimilco near Mexico City.",
+    "zh": "墨西哥钝口螈是一种极危的童态型蝾螈，特产于墨西哥城附近的霍奇米尔科湖区。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The axolotl looks like a happy, underwater alien! It has a wide, cute face that looks like it's always smiling. On the sides of its head, it wears a fuzzy 'crown' of feathery gills that help it breathe. Because it never goes through metamorphosis like a regular frog or salamander, it stays looking like a baby forever.",
+      "zh": "墨西哥钝口螈看起来像一个快乐的水下外星人！它有一张宽大、可爱的脸，看起来总是在微笑。在它的头两侧，戴着一顶毛茸茸的、羽毛状鳃组成的「王冠」，这能帮助它呼吸。因为它从不像普通的青蛙或蝾螈那样经历变态发育，所以它永远保持着婴儿般的样子。"
+    },
+    "ecology_and_behavior": {
+      "en": "Axolotls have an incredible, real-life superpower: regeneration! If an axolotl hurts or loses an arm, a leg, its tail, or even parts of its heart and brain, it can completely grow them back without a single scar. They walk slowly on the muddy lake bottom, sucking up worms and small fish like an underwater vacuum cleaner.",
+      "zh": "墨西哥钝口螈拥有一种令人难以置信的现实生活中的超能力：再生！如果墨西哥钝口螈受伤或失去了一条胳膊、一条腿、尾巴，甚至心脏和大脑的一部分，它可以完全重新长出来，而且不留一点疤痕。它们在泥泞的湖底缓慢行走，像水下吸尘器一样吸食蠕虫和小鱼。"
+    },
+    "habitat_and_distribution": {
+      "en": "In the wild, these amazing creatures only exist in one single place on Earth: the ancient, murky canals of Lake Xochimilco in Mexico City. Sadly, pollution and the sprawling city have made them critically endangered in nature.",
+      "zh": "在野外，这些神奇的生物只存在于地球上的一个地方：墨西哥城霍奇米尔科湖古老、浑浊的运河中。令人悲伤的是，污染和不断扩张的城市让它们在自然界中处于极度濒危的状态。"
+    }
+  },
+  "habitat": {
+    "text_en": "Lake Xochimilco canal network, Mexico City",
+    "text_zh": "墨西哥城霍奇米尔科湖运河网络",
+    "map_coordinates": [
+      19.285,
+      -99.102
+    ],
+    "map_zoom_level": 12,
+    "global_distribution_polygons": [
+      [
+        [
+          19.3,
+          -99.12
+        ],
+        [
+          19.31,
+          -99.1
+        ],
+        [
+          19.29,
+          -99.08
+        ],
+        [
+          19.27,
+          -99.09
+        ],
+        [
+          19.26,
+          -99.11
+        ],
+        [
+          19.28,
+          -99.125
+        ],
+        [
+          19.3,
+          -99.12
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/axolotl.jpg"
+}

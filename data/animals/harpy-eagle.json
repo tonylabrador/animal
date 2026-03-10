@@ -1,0 +1,106 @@
+{
+  "id": "harpy-eagle",
+  "name_zh": "角雕",
+  "name_en": "Harpy Eagle",
+  "scientific_name": "Harpia harpyja",
+  "ui_tags": [
+    "Bird",
+    "Rainforest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Accipitriformes",
+      "zh": "鹰形目"
+    },
+    "family": {
+      "en": "Accipitridae",
+      "zh": "鹰科"
+    },
+    "genus": {
+      "en": "Harpia",
+      "zh": "角雕属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "One of the largest and most powerful eagles in the world, reigning as the apex predator of the Amazon canopy.",
+    "zh": "世界上体型最大、力量最强的鹰之一，作为亚马逊树冠层的顶级掠食者而称霸。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Harpy Eagle is an absolute giant! It has a crown of gray feathers on its head that fan out when it gets curious or angry. But its most terrifying weapon is its feet. Its legs can be as thick as a human child's wrist, and its curved black talons are longer than a grizzly bear's claws!",
+      "zh": "角雕是个绝对的庞然大物！它的头上有一顶灰色的羽毛王冠，当它好奇或生气时就会呈扇形展开。但它最可怕的武器是它的脚。它的腿可以像人类小孩的手腕一样粗，而它弯曲的黑色利爪比灰熊的爪子还要长！"
+    },
+    "ecology_and_behavior": {
+      "en": "As the ultimate boss of the jungle sky, they silently weave through thick trees to hunt large animals. With those massive claws, a Harpy Eagle can swoop down and snatch a heavy monkey or a sloth right out of the branches without even slowing down! They build giant nests made of sticks in the tallest trees of the forest.",
+      "zh": "作为丛林天空的终极霸主，它们静静地穿梭在茂密的树木间捕猎大型动物。用那巨大的爪子，角雕可以俯冲而下，直接从树枝上抓走沉重的猴子或树懒，甚至都不需要减速！它们在森林中最高的树上用树枝建造巨大的巢穴。"
+    },
+    "habitat_and_distribution": {
+      "en": "Harpy Eagles live deep within the untouched lowland rainforests of Central and South America. Sadly, because they need such huge areas of unbroken jungle to survive, they are becoming very rare as forests are chopped down.",
+      "zh": "角雕生活在中美洲和南美洲未受破坏的低地热带雨林深处。可悲的是，因为它们需要大片连绵不断的丛林才能生存，随着森林被砍伐，它们正变得越来越罕见。"
+    }
+  },
+  "habitat": {
+    "text_en": "Untouched lowland rainforests of Central and South America",
+    "text_zh": "中南美洲未受破坏的低地热带雨林",
+    "map_coordinates": [
+      -5,
+      -60
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          20,
+          -95
+        ],
+        [
+          15,
+          -85
+        ],
+        [
+          10,
+          -75
+        ],
+        [
+          5,
+          -50
+        ],
+        [
+          -25,
+          -45
+        ],
+        [
+          -30,
+          -60
+        ],
+        [
+          -10,
+          -80
+        ],
+        [
+          20,
+          -95
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/harpy-eagle.jpg"
+}

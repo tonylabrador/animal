@@ -1,0 +1,98 @@
+{
+  "id": "ruby-throated-hummingbird",
+  "name_zh": "红喉蜂鸟",
+  "name_en": "Ruby-throated Hummingbird",
+  "scientific_name": "Archilochus colubris",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Apodiformes",
+      "zh": "雨燕目"
+    },
+    "family": {
+      "en": "Trochilidae",
+      "zh": "蜂鸟科"
+    },
+    "genus": {
+      "en": "Archilochus",
+      "zh": "娇蜂鸟属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A tiny, glittering bird capable of hovering in mid-air and flying backwards.",
+    "zh": "一种微小闪烁的鸟类，能够在半空中悬停并倒飞。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "This bird is incredibly tiny, weighing less than a single penny! It has emerald green feathers on its back, and adult males have a patch of throat feathers that flash a brilliant, glowing ruby-red when the sun hits them. Their needle-like beak is perfectly designed to reach deep inside flowers.",
+      "zh": "这种鸟小得令人难以置信，体重比一枚硬币还要轻！它的背上有祖母绿色的羽毛，成年雄鸟喉部的羽毛在阳光照射下会闪烁出明亮夺目的红宝石光芒。它们针一样的喙被完美设计用来深入花朵内部。"
+    },
+    "ecology_and_behavior": {
+      "en": "Hummingbirds are the acrobats of the sky. They beat their wings over 50 times a second, which makes a buzzing hum sound. They are the only birds in the world that can fly perfectly backwards! They use their long, tubular tongues to lap up sweet flower nectar, giving them the super high energy they need to fly.",
+      "zh": "蜂鸟是天空中的杂技演员。它们每秒钟拍打翅膀超过50次，发出嗡嗡的嗡鸣声。它们是世界上唯一能完美倒飞的鸟！它们用细长的管状舌头舔食甜美的花蜜，这为它们提供了飞行所需的超高能量。"
+    },
+    "habitat_and_distribution": {
+      "en": "During the summer, they live in forests, orchards, and backyard gardens across eastern North America. But when winter comes, these tiny heroes make an epic journey, flying non-stop across the enormous Gulf of Mexico to spend the winter in the warm jungles of Central America.",
+      "zh": "在夏天，它们生活在北美洲东部的森林、果园和后院花园中。但当冬天到来时，这些小英雄会进行一次史诗般的旅程，不间断地飞越巨大的墨西哥湾，到中美洲温暖的丛林中过冬。"
+    }
+  },
+  "habitat": {
+    "text_en": "Eastern North American woodlands and Central American tropics",
+    "text_zh": "北美东部林地与中美洲热带地区",
+    "map_coordinates": [
+      35,
+      -85
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          50,
+          -95
+        ],
+        [
+          45,
+          -65
+        ],
+        [
+          30,
+          -80
+        ],
+        [
+          10,
+          -85
+        ],
+        [
+          20,
+          -100
+        ],
+        [
+          50,
+          -95
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/ruby-throated-hummingbird.jpg"
+}

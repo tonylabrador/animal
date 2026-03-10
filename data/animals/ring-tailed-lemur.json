@@ -1,0 +1,98 @@
+{
+  "id": "ring-tailed-lemur",
+  "name_zh": "环尾狐猴",
+  "name_en": "Ring-tailed Lemur",
+  "scientific_name": "Lemur catta",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Primates",
+      "zh": "灵长目"
+    },
+    "family": {
+      "en": "Lemuridae",
+      "zh": "狐猴科"
+    },
+    "genus": {
+      "en": "Lemur",
+      "zh": "狐猴属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "A highly social primate from Madagascar, famous for its long, black-and-white striped tail.",
+    "zh": "来自马达加斯加的高度社会化的灵长类动物，以其长长的黑白条纹尾巴而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The ring-tailed lemur is about the size of a cat, with a fox-like face and bright, staring yellow eyes. Its most famous feature is its incredibly long, bushy tail decorated with perfect black and white rings. Unlike monkeys, they cannot use their tail to grab branches, but they use it like a flag to keep the group together in the tall grass.",
+      "zh": "环尾狐猴大约有一只猫那么大，长着一张像狐狸的脸和明亮、凝视的黄眼睛。它最出名的特征是那条不可思议的、长而蓬松的尾巴，上面装饰着完美的黑白环纹。不像猴子，它们不能用尾巴来抓树枝，但它们把尾巴像旗帜一样竖起来，好让队伍在高草丛中保持在一起。"
+    },
+    "ecology_and_behavior": {
+      "en": "These lemurs love to sunbathe! In the morning, they sit on the ground with their arms spread wide open, exposing their white bellies to the warm sun. They live in large groups called troops, and the girls are always in charge. Male lemurs often fight by wiping stinky smells from their wrists onto their tails and waving the 'stink bombs' at each other!",
+      "zh": "这些狐猴非常喜欢晒太阳！早上，它们会坐在地上，张开双臂，把白色的肚子露出来晒着温暖的阳光。它们生活在被称为群组的大家族中，并且总是由雌性当家做主。雄性狐猴经常通过打架来解决争端，方法是把手腕上臭臭的分泌物抹在尾巴上，然后把“臭气弹”挥向对方！"
+    },
+    "habitat_and_distribution": {
+      "en": "Ring-tailed lemurs are found in only one place in the entire universe: the island of Madagascar, off the coast of Africa. They live in the dry forests and spiny bushlands in the southern part of the island, spending much more time walking on the ground than other types of lemurs.",
+      "zh": "在整个宇宙中，环尾狐猴只在一个地方被发现：非洲海岸外的马达加斯加岛。它们生活在岛屿南部的干燥森林和多刺灌木丛中，比其他种类的狐猴花更多的时间在地面上行走。"
+    }
+  },
+  "habitat": {
+    "text_en": "Dry forests and bushlands of southern Madagascar",
+    "text_zh": "马达加斯加南部的干燥森林和灌木地",
+    "map_coordinates": [
+      -23,
+      45
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [
+        [
+          -20,
+          43
+        ],
+        [
+          -20,
+          45
+        ],
+        [
+          -25,
+          47
+        ],
+        [
+          -26,
+          45
+        ],
+        [
+          -23,
+          43
+        ],
+        [
+          -20,
+          43
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/ring-tailed-lemur.jpg"
+}

@@ -1,0 +1,154 @@
+{
+  "id": "caracal",
+  "name_zh": "狞猫",
+  "name_en": "Caracal",
+  "scientific_name": "Caracal caracal",
+  "ui_tags": [
+    "Mammal",
+    "Desert",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Felidae",
+      "zh": "猫科"
+    },
+    "genus": {
+      "en": "Caracal",
+      "zh": "狞猫属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A medium-sized wildcat known for its incredible jumping ability and striking black-tufted ears.",
+    "zh": "一种中型野猫，以惊人的跳跃能力和醒目的黑色簇毛耳朵而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The caracal is a slender, sandy-colored cat with a very special feature: long, pointy ears topped with tall black tufts of hair! These ear tufts look like little antennas and help them hear the faintest sounds in the wild.",
+      "zh": "狞猫是一种纤细的沙色猫科动物，有一个非常特别的特征：尖尖的长耳朵顶端长着高高的黑色簇毛！这些耳簇看起来像小天线，帮助它们在野外听到最微弱的声音。"
+    },
+    "ecology_and_behavior": {
+      "en": "Caracals are high-jumping champions! They have super strong back legs that allow them to leap straight up into the air—up to 3 meters (10 feet) high—to snatch birds right out of the sky before they can fly away.",
+      "zh": "狞猫是跳高冠军！它们拥有超级强壮的后腿，能让它们笔直地跳到空中——高达3米（10英尺）——在鸟儿飞走之前一把将它们从空中抓下。"
+    },
+    "habitat_and_distribution": {
+      "en": "They love dry places and are found in the woodlands, savannas, and scrub deserts of Africa, the Middle East, and parts of India. Their sandy fur perfectly camouflages them in the dry grass.",
+      "zh": "它们喜欢干燥的地方，分布在非洲、中东和印度部分地区的林地、稀树草原和灌木沙漠中。它们沙色的皮毛能完美地隐蔽在干草中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Dry savannas and woodlands of Africa and Asia",
+    "text_zh": "非洲和亚洲的干旱草原与林地",
+    "map_coordinates": [
+      10,
+      20
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          -15
+        ],
+        [
+          15,
+          35
+        ],
+        [
+          10,
+          45
+        ],
+        [
+          -30,
+          30
+        ],
+        [
+          -30,
+          15
+        ],
+        [
+          -20,
+          10
+        ],
+        [
+          0,
+          10
+        ],
+        [
+          5,
+          -10
+        ],
+        [
+          15,
+          -15
+        ]
+      ],
+      [
+        [
+          35,
+          35
+        ],
+        [
+          35,
+          45
+        ],
+        [
+          25,
+          60
+        ],
+        [
+          25,
+          50
+        ],
+        [
+          35,
+          35
+        ]
+      ],
+      [
+        [
+          28,
+          68
+        ],
+        [
+          28,
+          75
+        ],
+        [
+          20,
+          75
+        ],
+        [
+          20,
+          68
+        ],
+        [
+          28,
+          68
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/caracal.jpg"
+}

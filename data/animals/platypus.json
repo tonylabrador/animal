@@ -1,0 +1,110 @@
+{
+  "id": "platypus",
+  "name_zh": "鸭嘴兽",
+  "name_en": "Platypus",
+  "scientific_name": "Ornithorhynchus anatinus",
+  "ui_tags": [
+    "Mammal",
+    "River",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Monotremata",
+      "zh": "单孔目"
+    },
+    "family": {
+      "en": "Ornithorhynchidae",
+      "zh": "鸭嘴兽科"
+    },
+    "genus": {
+      "en": "Ornithorhynchus",
+      "zh": "鸭嘴兽属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "A bizarre, egg-laying, semi-aquatic mammal from Australia that looks like a mix between a duck, a beaver, and an otter.",
+    "zh": "一种来自澳大利亚的怪异的、产卵的半水生哺乳动物，看起来像鸭子、海狸和水獭的混合体。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "When scientists first saw a platypus, they thought it was a fake animal stitched together as a joke! It has a rubbery bill like a duck, webbed feet, thick waterproof fur like an otter, and a flat paddle-tail like a beaver. Oh, and male platypuses have venomous spurs on their back legs!",
+      "zh": "当科学家第一次看到鸭嘴兽时，他们以为这是别人为了开玩笑缝合起来的假动物！它有一个像鸭子一样有弹性的喙，长着蹼的脚，像水獭一样厚实防水的皮毛，还有像海狸一样扁平的桨状尾巴。哦对了，雄性鸭嘴兽的后腿上还长有带毒的刺！"
+    },
+    "ecology_and_behavior": {
+      "en": "The platypus breaks all the mammal rules: instead of giving birth to live babies, mothers lay soft, leathery eggs! They are fantastic swimmers who hunt underwater with their eyes, ears, and nose closed shut. Instead, they use amazing sensors in their bill to feel the tiny electricity made by the muscles of worms and shrimp hiding in the mud.",
+      "zh": "鸭嘴兽打破了哺乳动物的所有规则：妈妈不生下活蹦乱跳的幼崽，而是产下柔软的、革质的蛋！它们是奇妙的游泳健将，在水下狩猎时眼睛、耳朵和鼻子都是紧闭的。取而代之的是，它们利用喙上神奇的传感器，来感知藏在泥里的蠕虫和虾的肌肉发出的微弱电流。"
+    },
+    "habitat_and_distribution": {
+      "en": "These magical creatures only live in one place in the world: the eastern edge of Australia and the island of Tasmania. They make their homes by digging deep burrows into the dirt banks of cool freshwater streams, rivers, and lakes.",
+      "zh": "这些神奇的生物只生活在世界上唯一的一个地方：澳大利亚的东部边缘和塔斯马尼亚岛。它们在凉爽的淡水溪流、河流和湖泊的泥岸上挖掘深洞作为自己的家。"
+    }
+  },
+  "habitat": {
+    "text_en": "Freshwater streams and rivers of eastern Australia",
+    "text_zh": "澳大利亚东部的淡水溪流与河流",
+    "map_coordinates": [
+      -30,
+      150
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -15,
+          142
+        ],
+        [
+          -20,
+          148
+        ],
+        [
+          -30,
+          153
+        ],
+        [
+          -40,
+          150
+        ],
+        [
+          -44,
+          147
+        ],
+        [
+          -42,
+          144
+        ],
+        [
+          -35,
+          145
+        ],
+        [
+          -25,
+          142
+        ],
+        [
+          -15,
+          142
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/platypus.jpg"
+}

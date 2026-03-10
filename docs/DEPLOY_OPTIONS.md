@@ -1,6 +1,6 @@
 # 把 Wild Explorer 发布到网上 — 可选方案
 
-项目是 Next.js + 静态数据（`animal_source.json`），没有后端 API，可以部署到多种平台。
+项目是 Next.js + 静态数据（`data/animals/*.json`），没有后端 API，可以部署到多种平台。
 
 ---
 

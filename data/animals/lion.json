@@ -1,0 +1,132 @@
+{
+  "id": "lion",
+  "name_zh": "狮子",
+  "name_en": "Lion",
+  "scientific_name": "Panthera leo",
+  "ui_tags": [
+    "Mammal",
+    "Savanna",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Felidae",
+      "zh": "猫科"
+    },
+    "genus": {
+      "en": "Panthera",
+      "zh": "豹属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "Lions are powerful big cats known as the 'kings of the savanna', and are the only cats that live in large family groups.",
+    "zh": "狮子是强壮的大型猫科动物，被称为“草原之王”，也是唯一群居的大型猫科动物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Lions are huge cats with strong bodies and golden-yellow fur. Male lions grow a thick, impressive mane of hair around their necks, which makes them look bigger and protects them in fights. Their roar is so loud it can be heard from 8 kilometers away!",
+      "zh": "狮子是拥有强壮身体和金黄色皮毛的大型猫科动物。雄狮的脖子周围会长出厚厚而引人注目的鬣毛，这让它们看起来更大，也能在打斗时保护它们。它们的吼声非常响亮，在8公里外都能听到！"
+    },
+    "ecology_and_behavior": {
+      "en": "Unlike other cats, lions are very social and live in groups called prides, which are mostly made up of females and their cubs. The lionesses do most of the hunting, working as a team to catch fast prey like zebras and wildebeests. Lions love to rest and can sleep for up to 20 hours a day!",
+      "zh": "与其他猫科动物不同，狮子非常喜欢群居，生活在被称为“狮群”的群体中，主要由雌狮和它们的幼崽组成。雌狮负责大部分的狩猎，它们团队合作捕捉斑马和角马等速度很快的猎物。狮子很爱休息，每天能睡20个小时！"
+    },
+    "habitat_and_distribution": {
+      "en": "Most wild lions live in the open savannas and grassy plains of Africa, where their golden fur camouflages perfectly with the dry grass. A very small population also lives in the Gir Forest of India. They need large areas of land with plenty of prey to survive.",
+      "zh": "大多数野生狮子生活在非洲开阔的稀树草原上，那里金黄色的毛皮能完美地隐蔽在干草中。在印度的吉尔森林中也生活着极小一部分种群。它们需要大片有丰富猎物的土地才能生存。"
+    }
+  },
+  "habitat": {
+    "text_en": "African Savannas and Indian Gir Forest",
+    "text_zh": "非洲稀树草原与印度吉尔森林",
+    "map_coordinates": [
+      -2.5,
+      34.5
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          -16
+        ],
+        [
+          15,
+          35
+        ],
+        [
+          5,
+          45
+        ],
+        [
+          -10,
+          40
+        ],
+        [
+          -25,
+          32
+        ],
+        [
+          -20,
+          15
+        ],
+        [
+          -5,
+          12
+        ],
+        [
+          5,
+          -10
+        ],
+        [
+          15,
+          -16
+        ]
+      ],
+      [
+        [
+          21,
+          70.5
+        ],
+        [
+          21.5,
+          70.5
+        ],
+        [
+          21.5,
+          71
+        ],
+        [
+          21,
+          71
+        ],
+        [
+          21,
+          70.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/lion.jpg"
+}

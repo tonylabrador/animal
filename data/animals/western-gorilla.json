@@ -1,0 +1,94 @@
+{
+  "id": "western-gorilla",
+  "name_zh": "大猩猩",
+  "name_en": "Western Gorilla",
+  "scientific_name": "Gorilla gorilla",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Primates",
+      "zh": "灵长目"
+    },
+    "family": {
+      "en": "Hominidae",
+      "zh": "人科"
+    },
+    "genus": {
+      "en": "Gorilla",
+      "zh": "大猩猩属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "The largest living primate, these massive but peaceful apes live in family troops led by a silverback.",
+    "zh": "现存最大的灵长类动物，这些巨大但和平的类人猿生活在由银背大猩猩领导的家族群体中。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Gorillas are the ultimate heavyweights of the primate world. Adult males can weigh over 200 kilograms and are incredibly strong, with broad chests and massive shoulders. Older leaders of the group are called 'silverbacks' because a patch of shiny silver-gray hair grows across their back and hips.",
+      "zh": "大猩猩是灵长类世界的终极重量级选手。成年雄性体重可超过200公斤，极其强壮，有着宽阔的胸膛和巨大的肩膀。群体中年长的领导者被称为“银背”，因为它们的背部和臀部会长出一片闪亮的银灰色毛发。"
+    },
+    "ecology_and_behavior": {
+      "en": "Despite their scary, King-Kong-like appearance, gorillas are actually very shy and peaceful vegetarians! They spend their days lazily chewing on tons of celery, bamboo, roots, and sweet fruit. When a silverback wants to show his power to protect his family, he will stand up tall on his back legs, yell, and rapidly beat his chest like a drum.",
+      "zh": "尽管它们看起来像金刚一样可怕，大猩猩其实是非常害羞和平的素食主义者！它们每天都在慵懒地咀嚼成吨的芹菜、竹子、树根和甜美的水果。当银背大猩猩想展示力量来保护家人时，它会用后腿高高站起，大喊大叫，并像打鼓一样快速捶打自己的胸膛。"
+    },
+    "habitat_and_distribution": {
+      "en": "Western gorillas live in the hot, humid lowland rainforests and swamps of Central West Africa. They walk around the dark forest floor using a special walk called 'knuckle-walking', where they curl their hands and walk on their tough knuckles.",
+      "zh": "西部大猩猩生活在中西非炎热潮湿的低地热带雨林和沼泽中。它们使用一种叫做“指关节行走”的特殊步伐在黑暗的森林地面上行走，即把手卷起来，用坚硬的指关节走路。"
+    }
+  },
+  "habitat": {
+    "text_en": "Lowland tropical rainforests of Central West Africa",
+    "text_zh": "中西非低地热带雨林",
+    "map_coordinates": [
+      0,
+      15
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          5,
+          8
+        ],
+        [
+          5,
+          18
+        ],
+        [
+          -5,
+          15
+        ],
+        [
+          -5,
+          8
+        ],
+        [
+          5,
+          8
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/western-gorilla.jpg"
+}

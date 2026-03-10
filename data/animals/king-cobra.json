@@ -1,0 +1,110 @@
+{
+  "id": "king-cobra",
+  "name_zh": "眼镜王蛇",
+  "name_en": "King Cobra",
+  "scientific_name": "Ophiophagus hannah",
+  "ui_tags": [
+    "Reptile",
+    "Forest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Elapidae",
+      "zh": "眼镜蛇科"
+    },
+    "genus": {
+      "en": "Ophiophagus",
+      "zh": "眼镜王蛇属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The world's longest venomous snake, capable of standing up tall and expanding a terrifying hood.",
+    "zh": "世界上最长的毒蛇，能够高高竖起身体并展开令人恐惧的颈部皮褶。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The king cobra is the longest venomous snake on Earth, capable of growing up to 18 feet (5.5 meters) long! When it feels angry or threatened, it can lift a third of its body off the ground—looking a grown person right in the eye—and flatten its neck to create a scary, spoon-shaped 'hood'.",
+      "zh": "眼镜王蛇是地球上最长的毒蛇，体长可达18英尺（5.5米）！当它感到愤怒或受到威胁时，它可以把三分之一的身体抬离地面——足以直视一个成年人的眼睛——并压平脖子，形成一个可怕的汤匙状‘皮褶’。"
+    },
+    "ecology_and_behavior": {
+      "en": "Their scientific name, Ophiophagus, literally means 'snake-eater'. That's right—king cobras mostly hunt and eat other snakes, including deadly pythons! They have enough venom in a single bite to take down a massive Asian elephant. Surprisingly, king cobra moms are the only snakes in the world that build a nest of leaves to guard their eggs.",
+      "zh": "它们的学名Ophiophagus字面意思是“吃蛇者”。没错——眼镜王蛇主要捕猎和吃其他蛇类，包括致命的蟒蛇！它们咬一口的毒液量足以放倒一头巨大的亚洲象。令人惊讶的是，眼镜王蛇妈妈是世界上唯一会用树叶筑巢并守护蛇蛋的蛇。"
+    },
+    "habitat_and_distribution": {
+      "en": "King cobras slither through the dense rainforests, bamboo thickets, and mangrove swamps of India and Southeast Asia. They prefer living near streams and are excellent swimmers and tree climbers.",
+      "zh": "眼镜王蛇在印度和东南亚茂密的热带雨林、竹林和红树林沼泽中滑行。它们喜欢住在溪流附近，是极好的游泳健将和爬树高手。"
+    }
+  },
+  "habitat": {
+    "text_en": "Rainforests and bamboo thickets of South and Southeast Asia",
+    "text_zh": "南亚和东南亚的热带雨林及竹林",
+    "map_coordinates": [
+      15,
+      100
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          30,
+          75
+        ],
+        [
+          30,
+          85
+        ],
+        [
+          25,
+          100
+        ],
+        [
+          25,
+          120
+        ],
+        [
+          10,
+          125
+        ],
+        [
+          -10,
+          115
+        ],
+        [
+          -10,
+          100
+        ],
+        [
+          10,
+          75
+        ],
+        [
+          30,
+          75
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/king-cobra.jpg"
+}

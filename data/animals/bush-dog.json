@@ -1,0 +1,102 @@
+{
+  "id": "bush-dog",
+  "name_zh": "薮犬",
+  "name_en": "Bush Dog",
+  "scientific_name": "Speothos venaticus",
+  "ui_tags": [
+    "Mammal",
+    "Rainforest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Canidae",
+      "zh": "犬科"
+    },
+    "genus": {
+      "en": "Speothos",
+      "zh": "薮犬属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "A rare and strange-looking canid from the Amazon, built like a badger and equipped with webbed toes for swimming.",
+    "zh": "一种来自亚马逊的稀有且长相奇特的犬科动物，体型像獾，脚趾间有蹼，适于游泳。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The bush dog is one of the most unusual dogs on Earth. It looks more like a small bear or a badger than a dog! It has a squarish head, tiny ears, very short legs, and a stubby tail. What makes them really special is that they have webbed toes, making them powerful swimmers.",
+      "zh": "薮犬是地球上最不寻常的狗之一。它看起来更像一只小熊或獾，而不是狗！它有方形的脑袋、小小的耳朵、极短的腿和粗短的尾巴。让它们真正特别的是它们的脚趾间有蹼，这使它们成为强大的游泳健将。"
+    },
+    "ecology_and_behavior": {
+      "en": "Bush dogs are tiny but mighty. They hunt in tight-knit family packs of up to 12 dogs. By working together, these short-legged hunters can take down large prey like capybaras and rheas. They love water and often chase their prey right into rivers and lakes.",
+      "zh": "薮犬虽然个头小，但力量强大。它们以多达12只狗的紧密家庭群进行狩猎。通过团队合作，这些短腿猎手能够击倒像水豚和美洲鸵这样的大型猎物。它们热爱水，经常把猎物直接赶进河流和湖泊里。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are very shy and rarely seen by humans. Bush dogs live in the thick, humid rainforests and wet savannas of Central and South America, especially around the Amazon Basin. They always stay close to water.",
+      "zh": "它们非常害羞，人类极少能见到。薮犬生活在中美洲和南美洲茂密潮湿的热带雨林和湿润的稀树草原中，尤其是在亚马逊盆地周围。它们总是待在靠近水的地方。"
+    }
+  },
+  "habitat": {
+    "text_en": "Amazon Basin and tropical rainforests of South America",
+    "text_zh": "亚马逊盆地及南美热带雨林",
+    "map_coordinates": [
+      -5,
+      -60
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          10,
+          -80
+        ],
+        [
+          10,
+          -60
+        ],
+        [
+          -25,
+          -40
+        ],
+        [
+          -30,
+          -55
+        ],
+        [
+          -20,
+          -65
+        ],
+        [
+          -5,
+          -80
+        ],
+        [
+          10,
+          -80
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/bush-dog.jpg"
+}

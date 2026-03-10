@@ -1,0 +1,106 @@
+{
+  "id": "giant-anteater",
+  "name_zh": "大食蚁兽",
+  "name_en": "Giant Anteater",
+  "scientific_name": "Myrmecophaga tridactyla",
+  "ui_tags": [
+    "Mammal",
+    "Grassland",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Pilosa",
+      "zh": "披毛目"
+    },
+    "family": {
+      "en": "Myrmecophagidae",
+      "zh": "食蚁兽科"
+    },
+    "genus": {
+      "en": "Myrmecophaga",
+      "zh": "大食蚁兽属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The giant anteater is a large insectivorous mammal native to Central and South America, characterized by its long tubular snout.",
+    "zh": "大食蚁兽是一种原产于中南美洲的大型食虫哺乳动物，以其长长的管状吻部为特征。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The giant anteater is one of the strangest-looking animals around! It has a tiny head, no teeth at all, and a snout that looks like a long vacuum cleaner tube. It also has a massive, bushy tail that looks like a flag. When it sleeps, it curls up and uses its tail as a warm, camouflaged blanket.",
+      "zh": "大食蚁兽是周围长相最奇怪的动物之一！它的头很小，完全没有牙齿，还有一个看起来像长吸尘器管子的吻部。它还有一条像旗帜一样巨大而蓬松的尾巴。当它睡觉时，它会蜷缩起来，把尾巴当成温暖的伪装毯子。"
+    },
+    "ecology_and_behavior": {
+      "en": "Instead of teeth, it has a sticky, spaghetti-like tongue that is 2 feet long! It uses giant, sharp front claws to tear open tough termite mounds, then flicks its tongue in and out 150 times a minute. It can eat up to 30,000 ants and termites in a single day. Baby anteaters look like miniature adults and ride on their mom's back for almost a year.",
+      "zh": "它没有牙齿，取而代之的是一条长达2英尺的、像意大利面一样黏稠的舌头！它用巨大锋利的前爪撕开坚硬的白蚁丘，然后每分钟将舌头弹进弹出150次。它一天就能吃掉多达30,000只蚂蚁和白蚁。小食蚁兽看起来像缩小版的成年食蚁兽，会在妈妈的背上骑将近一年。"
+    },
+    "habitat_and_distribution": {
+      "en": "They roam across the grassy savannas and dense rainforests of Central and South America. Sadly, their homes are being taken over by farms and roads, putting them at risk.",
+      "zh": "它们在中南美洲长满草的大草原和茂密的热带雨林中漫游。可悲的是，它们的家园正在被农场和公路占据，使它们面临危险。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical and subtropical grasslands, savannas, and forests of South America",
+    "text_zh": "南美热带和亚热带草原、稀树草原和森林",
+    "map_coordinates": [
+      -10,
+      -55
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          -85
+        ],
+        [
+          10,
+          -70
+        ],
+        [
+          5,
+          -50
+        ],
+        [
+          -20,
+          -40
+        ],
+        [
+          -30,
+          -55
+        ],
+        [
+          -25,
+          -65
+        ],
+        [
+          0,
+          -80
+        ],
+        [
+          15,
+          -85
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/giant-anteater.jpg"
+}

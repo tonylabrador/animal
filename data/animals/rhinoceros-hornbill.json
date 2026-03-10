@@ -1,0 +1,114 @@
+{
+  "id": "rhinoceros-hornbill",
+  "name_zh": "马来犀鸟",
+  "name_en": "Rhinoceros Hornbill",
+  "scientific_name": "Buceros rhinoceros",
+  "ui_tags": [
+    "Bird",
+    "Rainforest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Bucerotiformes",
+      "zh": "犀鸟目"
+    },
+    "family": {
+      "en": "Bucerotidae",
+      "zh": "犀鸟科"
+    },
+    "genus": {
+      "en": "Buceros",
+      "zh": "犀鸟属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "A large forest bird famous for the impressive, brightly colored 'helmet' on top of its massive beak.",
+    "zh": "一种大型森林鸟类，以其巨大鸟喙上方令人惊叹、色彩鲜艳的“头盔”而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Rhinoceros Hornbill is a huge, mostly black bird with a white tail. Its most amazing feature is its massive orange and red beak, which has a hollow curved structure on top called a 'casque' that looks just like a rhinoceros horn! This casque helps make their loud calls echo through the jungle.",
+      "zh": "马来犀鸟是一种体型巨大的鸟，身体大部分是黑色的，尾巴是白色的。它最神奇的特征是巨大的橙红色鸟喙，喙的上方有一个中空的弯曲结构，叫做“盔突”，看起来就像犀牛的角一样！这个盔突能让它们响亮的叫声在丛林中回荡。"
+    },
+    "ecology_and_behavior": {
+      "en": "These birds have a very weird way of raising babies! When the mother is ready to lay eggs, she climbs into a hole in a tree. The father then uses mud to seal the hole completely shut, leaving only a tiny slit. He flies back and forth for months, feeding his family through the little crack until the babies are ready to fly.",
+      "zh": "这些鸟养育宝宝的方式非常奇特！当鸟妈妈准备产卵时，她会爬进树洞里。然后鸟爸爸会用泥巴把洞口完全封死，只留下一条小缝。在接下来的几个月里，鸟爸爸会飞来飞去，通过这条小缝给全家喂食，直到宝宝们准备好飞翔。"
+    },
+    "habitat_and_distribution": {
+      "en": "They live high up in the canopy of the dense, tropical rainforests of Southeast Asia. You can find them flying over the tall trees in countries like Malaysia, Thailand, and Indonesia (especially on the islands of Sumatra, Java, and Borneo).",
+      "zh": "它们生活在东南亚茂密的热带雨林树冠高处。你可以在马来西亚、泰国和印度尼西亚（特别是苏门答腊岛、爪哇岛和婆罗洲）等国家看到它们飞越参天大树。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical rainforest canopies of Southeast Asia",
+    "text_zh": "东南亚热带雨林的树冠层",
+    "map_coordinates": [
+      3,
+      102
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          7,
+          97
+        ],
+        [
+          7,
+          102
+        ],
+        [
+          2,
+          105
+        ],
+        [
+          -5,
+          106
+        ],
+        [
+          -9,
+          115
+        ],
+        [
+          -4,
+          118
+        ],
+        [
+          6,
+          118
+        ],
+        [
+          7,
+          110
+        ],
+        [
+          0,
+          100
+        ],
+        [
+          7,
+          97
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/rhinoceros-hornbill.jpg"
+}

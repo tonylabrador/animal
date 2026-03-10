@@ -1,0 +1,102 @@
+{
+  "id": "southern-cassowary",
+  "name_zh": "南方鹤鸵",
+  "name_en": "Southern Cassowary",
+  "scientific_name": "Casuarius casuarius",
+  "ui_tags": [
+    "Bird",
+    "Rainforest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Casuariiformes",
+      "zh": "鹤鸵目"
+    },
+    "family": {
+      "en": "Casuariidae",
+      "zh": "鹤鸵科"
+    },
+    "genus": {
+      "en": "Casuarius",
+      "zh": "鹤鸵属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A large, flightless bird that looks like a living dinosaur, equipped with a helmet and dagger-like claws.",
+    "zh": "一种体型巨大、不会飞的鸟类，看起来像活着的恐龙，头上戴着头盔，脚上长着匕首般的利爪。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The cassowary looks like a prehistoric dinosaur roaming the modern world! It is a massive flightless bird standing over 5 feet (1.5 meters) tall. It has thick, black, hair-like feathers, a bright blue face, and two red wattles hanging from its neck. On top of its head, it wears a tall, spongy horn called a 'casque', and its feet are armed with terrifying, 5-inch-long dagger claws.",
+      "zh": "鹤鸵看起来就像漫步在现代世界的史前恐龙！它是一种巨大的不会飞的鸟，站立时超过5英尺（1.5米）高。它长着厚厚的、像毛发一样的黑色羽毛，一张鲜蓝色的脸，脖子上挂着两个红色的肉垂。在它的头顶上，戴着一个被称为‘盔突’的高大海绵状角，它的脚上装备着长达5英寸（约12厘米）的、像匕首一样可怕的利爪。"
+    },
+    "ecology_and_behavior": {
+      "en": "Because of its powerful kicks and sharp claws, it is often called 'the most dangerous bird in the world'. However, cassowaries are mostly shy and just want to wander the forest floor swallowing fallen fruit whole. In the cassowary family, the dad is the one who sits on the giant green eggs for nearly two months and raises the striped chicks all by himself!",
+      "zh": "因为其强有力的踢腿和锋利的爪子，它常被称为“世界上最危险的鸟”。然而，鹤鸵大多很害羞，只想在森林地面上闲逛，整个吞下掉落的水果。在鹤鸵家族中，是由鸟爸爸坐在巨大的绿色蛋上孵化近两个月，并独自把长着条纹的雏鸟抚养长大！"
+    },
+    "habitat_and_distribution": {
+      "en": "These giant birds need deep, untouched rainforests to survive. They live in the tropical jungles of the island of New Guinea and the northeastern coast of Australia. They are excellent swimmers and can easily cross wide rivers in the jungle.",
+      "zh": "这些巨鸟需要深邃、未受破坏的热带雨林才能生存。它们生活在新几内亚岛的热带丛林和澳大利亚的东北海岸。它们是游泳健将，能轻松横渡丛林中宽阔的河流。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical rainforests of New Guinea and Northern Australia",
+    "text_zh": "新几内亚和澳大利亚北部的热带雨林",
+    "map_coordinates": [
+      -15,
+      145
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -1,
+          130
+        ],
+        [
+          -1,
+          140
+        ],
+        [
+          -10,
+          150
+        ],
+        [
+          -20,
+          147
+        ],
+        [
+          -18,
+          140
+        ],
+        [
+          -10,
+          130
+        ],
+        [
+          -1,
+          130
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/southern-cassowary.jpg"
+}

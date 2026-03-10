@@ -1,0 +1,102 @@
+{
+  "id": "grey-fox",
+  "name_zh": "灰狐",
+  "name_en": "Grey Fox",
+  "scientific_name": "Urocyon cinereoargenteus",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Canidae",
+      "zh": "犬科"
+    },
+    "genus": {
+      "en": "Urocyon",
+      "zh": "灰狐属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A nimble North American fox that possesses the unique ability among canids to climb trees.",
+    "zh": "一种身手敏捷的北美狐狸，在犬科动物中拥有独一无二的爬树能力。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The grey fox has a beautiful 'salt-and-pepper' coat with reddish patches on its neck and legs, and a black stripe running straight down its bushy tail. What makes the grey fox truly magical are its strong, hooked claws that work just like a cat's claws.",
+      "zh": "灰狐有一件美丽的「椒盐色」外衣，脖子和腿上有红色的斑块，蓬松的尾巴上有一条笔直的黑色条纹。让灰狐真正神奇的是它强壮的、呈钩状的爪子，用起来就像猫的爪子一样。"
+    },
+    "ecology_and_behavior": {
+      "en": "It is the only wild dog in the Americas that can climb trees! If a hungry predator like a coyote chases a grey fox, the fox will simply run up a tall pine tree and jump from branch to branch to escape. They often sleep in hollow trees high above the ground and eat mice, birds, and lots of fruit.",
+      "zh": "它是美洲唯一会爬树的野生犬科动物！如果像郊狼这样饥饿的捕食者追赶灰狐，灰狐会直接跑上一棵高大的松树，在树枝间跳跃以逃脱。它们经常在高高离开地面的空心树洞里睡觉，吃老鼠、鸟类和很多水果。"
+    },
+    "habitat_and_distribution": {
+      "en": "Grey foxes prefer living in dense, bushy forests and rocky woodlands where there are plenty of trees to climb. They are found all the way from the southern parts of Canada, across the United States, and down into northern South America.",
+      "zh": "灰狐喜欢生活在茂密的灌木林和岩石林地里，那里有大量可供攀爬的树木。它们的分布从加拿大南部一直延伸到整个美国，并向下延伸到南美洲北部。"
+    }
+  },
+  "habitat": {
+    "text_en": "Woodlands and brushy regions of North and Central America",
+    "text_zh": "北美及中美洲的林地和灌木区",
+    "map_coordinates": [
+      35,
+      -100
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          45,
+          -125
+        ],
+        [
+          45,
+          -70
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          5,
+          -75
+        ],
+        [
+          5,
+          -85
+        ],
+        [
+          30,
+          -115
+        ],
+        [
+          45,
+          -125
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/grey-fox.jpg"
+}

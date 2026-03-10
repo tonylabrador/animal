@@ -1,0 +1,110 @@
+{
+  "id": "giraffe",
+  "name_zh": "长颈鹿",
+  "name_en": "Giraffe",
+  "scientific_name": "Giraffa camelopardalis",
+  "ui_tags": [
+    "Mammal",
+    "Savanna",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Giraffidae",
+      "zh": "长颈鹿科"
+    },
+    "genus": {
+      "en": "Giraffa",
+      "zh": "长颈鹿属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The tallest living terrestrial animal, easily recognized by its incredibly long neck and beautiful spotted coat.",
+    "zh": "现存最高的陆地动物，以其极其修长的脖子和美丽的斑点花纹外衣而容易被认出。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Giraffes are the skyscrapers of the animal kingdom, growing up to 18 feet (5.5 meters) tall! Amazingly, their super-long necks have exactly seven bones—the same number of bones as a human's neck, they are just much bigger. They have a massive heart to pump blood all the way up to their head, and a purple-black tongue that is up to 20 inches long.",
+      "zh": "长颈鹿是动物界的摩天大楼，能长到18英尺（5.5米）高！神奇的是，它们超长的脖子只有七块骨头——和人类脖子里的骨头数量一模一样，只是大得多。它们有一个巨大的心脏把血液一路泵到头部，还有一条长达20英寸的紫黑色舌头。"
+    },
+    "ecology_and_behavior": {
+      "en": "Using their towering height and prehensile tongues, giraffes calmly strip leaves from the tops of thorny acacia trees, far out of reach for other animals. Because their legs are so long, taking a drink of water is actually very difficult and dangerous for them, so they get most of their water from the juicy leaves they eat.",
+      "zh": "利用它们高耸的身高和灵活的舌头，长颈鹿能从容地把长满刺的相思树顶端的树叶卷走，这是其他动物够不到的高度。因为它们的腿太长了，喝水对它们来说其实非常困难和危险，所以它们主要从吃下的多汁树叶中获取水分。"
+    },
+    "habitat_and_distribution": {
+      "en": "Giraffes roam the wide-open savannas, grasslands, and open woodlands of Sub-Saharan Africa. They live in loose groups called towers. They rely on the scattered trees of the African plains for both their food and for shade against the hot sun.",
+      "zh": "长颈鹿漫步在撒哈拉以南非洲广阔的稀树草原、草地和开阔林地中。它们生活在松散的群体（英文称为tower）中。它们依靠非洲平原上散落的树木来获取食物并在烈日下乘凉。"
+    }
+  },
+  "habitat": {
+    "text_en": "Savannas and open woodlands of Sub-Saharan Africa",
+    "text_zh": "撒哈拉以南非洲的稀树草原和开阔林地",
+    "map_coordinates": [
+      -2,
+      34
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          -15
+        ],
+        [
+          15,
+          35
+        ],
+        [
+          10,
+          45
+        ],
+        [
+          -5,
+          40
+        ],
+        [
+          -25,
+          32
+        ],
+        [
+          -25,
+          15
+        ],
+        [
+          -10,
+          10
+        ],
+        [
+          5,
+          -5
+        ],
+        [
+          15,
+          -15
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/giraffe.jpg"
+}

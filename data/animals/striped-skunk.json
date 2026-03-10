@@ -1,0 +1,330 @@
+{
+  "id": "striped-skunk",
+  "name_zh": "条纹臭鼬",
+  "name_en": "Striped Skunk",
+  "scientific_name": "Mephitis mephitis",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Mephitidae",
+      "zh": "臭鼬科"
+    },
+    "genus": {
+      "en": "Mephitis",
+      "zh": "臭鼬属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "Famous for their black and white stripes and their ability to spray a strong-smelling liquid for defense.",
+    "zh": "以其黑白条纹和喷射强烈气味液体进行防御的能力而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Striped skunks are about the size of a house cat, weighing 2 to 5.5 kilograms. They have glossy black fur with two bold white stripes running from their head down their back and onto their fluffy tail. Under their tail are special glands that can spray a terrible-smelling oily liquid up to 3 meters away.",
+      "zh": "条纹臭鼬大约有一只家猫那么大，体重2到5.5公斤。它们有光亮的黑色毛皮，从头部沿着背部一直到蓬松的尾巴有两条醒目的白色条纹。在尾巴下面有特殊的腺体，能将一种气味极其难闻的油性液体喷射到3米远的地方。"
+    },
+    "ecology_and_behavior": {
+      "en": "Striped skunks are omnivores that eat insects, fruits, eggs, and small animals. Before spraying, a skunk will stomp its feet and raise its tail as a warning. They are mostly active at night and spend the winter sleeping in underground dens, sometimes sharing them with other skunks to stay warm.",
+      "zh": "条纹臭鼬是杂食动物，吃昆虫、水果、鸡蛋和小动物。在喷射之前，臭鼬会跺脚并竖起尾巴作为警告。它们主要在夜间活动，冬天在地下洞穴中睡觉，有时会和其他臭鼬共用洞穴来保暖。"
+    },
+    "habitat_and_distribution": {
+      "en": "Striped skunks live in a wide variety of habitats including forests, grasslands, farmlands, and even cities across North America. They range from southern Canada throughout the United States to northern Mexico. They are very adaptable and can make their homes almost anywhere with food and shelter.",
+      "zh": "条纹臭鼬生活在各种各样的栖息地，包括北美洲的森林、草原、农田甚至城市。它们的分布范围从加拿大南部到整个美国，一直延伸到墨西哥北部。它们适应能力很强，几乎在任何有食物和藏身之处的地方都能安家。"
+    }
+  },
+  "habitat": {
+    "text_en": "Open areas with a mixture of habitats",
+    "text_zh": "具有混合栖息地的开阔地区",
+    "map_coordinates": [
+      40,
+      -89
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          52,
+          -128
+        ],
+        [
+          51,
+          -127
+        ],
+        [
+          50,
+          -125.5
+        ],
+        [
+          49,
+          -124
+        ],
+        [
+          49,
+          -120
+        ],
+        [
+          49.5,
+          -114.5
+        ],
+        [
+          49,
+          -110
+        ],
+        [
+          49,
+          -104.5
+        ],
+        [
+          49.5,
+          -100
+        ],
+        [
+          49,
+          -95.5
+        ],
+        [
+          48,
+          -90
+        ],
+        [
+          46.5,
+          -84.5
+        ],
+        [
+          45.5,
+          -82
+        ],
+        [
+          46.5,
+          -79
+        ],
+        [
+          47,
+          -75
+        ],
+        [
+          46,
+          -71
+        ],
+        [
+          45,
+          -67
+        ],
+        [
+          44.5,
+          -66.5
+        ],
+        [
+          43.5,
+          -70
+        ],
+        [
+          42,
+          -70.5
+        ],
+        [
+          41,
+          -71.5
+        ],
+        [
+          39.5,
+          -74
+        ],
+        [
+          36,
+          -75.5
+        ],
+        [
+          30.5,
+          -81.5
+        ],
+        [
+          25,
+          -80.5
+        ],
+        [
+          24.5,
+          -81.5
+        ],
+        [
+          25,
+          -84
+        ],
+        [
+          29,
+          -89.5
+        ],
+        [
+          29,
+          -93.5
+        ],
+        [
+          26.5,
+          -97.5
+        ],
+        [
+          24,
+          -97.5
+        ],
+        [
+          22,
+          -98
+        ],
+        [
+          20,
+          -97
+        ],
+        [
+          19.5,
+          -90.5
+        ],
+        [
+          19,
+          -90
+        ],
+        [
+          19.5,
+          -88
+        ],
+        [
+          21,
+          -87.5
+        ],
+        [
+          22,
+          -87.3
+        ],
+        [
+          22,
+          -88
+        ],
+        [
+          21.5,
+          -89
+        ],
+        [
+          21,
+          -90
+        ],
+        [
+          20.5,
+          -90.5
+        ],
+        [
+          19.5,
+          -90.5
+        ],
+        [
+          20,
+          -94
+        ],
+        [
+          20,
+          -97
+        ],
+        [
+          22,
+          -98
+        ],
+        [
+          23.5,
+          -98.5
+        ],
+        [
+          25.5,
+          -100
+        ],
+        [
+          26.5,
+          -99.5
+        ],
+        [
+          27.5,
+          -104.5
+        ],
+        [
+          29,
+          -110
+        ],
+        [
+          31.5,
+          -113.5
+        ],
+        [
+          32.5,
+          -117
+        ],
+        [
+          34,
+          -120.5
+        ],
+        [
+          36.5,
+          -121.8
+        ],
+        [
+          38.5,
+          -123
+        ],
+        [
+          40.5,
+          -124.3
+        ],
+        [
+          42.5,
+          -124.5
+        ],
+        [
+          44.5,
+          -124
+        ],
+        [
+          46.5,
+          -124.2
+        ],
+        [
+          48.5,
+          -124.5
+        ],
+        [
+          49.5,
+          -126
+        ],
+        [
+          50.5,
+          -127.5
+        ],
+        [
+          52,
+          -128
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/striped-skunk.jpg"
+}

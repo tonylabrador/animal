@@ -1,0 +1,438 @@
+{
+  "id": "sea-otter",
+  "name_zh": "海獭",
+  "name_en": "Sea Otter",
+  "scientific_name": "Enhydra lutris",
+  "ui_tags": [
+    "Mammal",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Mustelidae",
+      "zh": "鼬科"
+    },
+    "genus": {
+      "en": "Enhydra",
+      "zh": "海獭属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "Sea otters are marine mammals that use tools like rocks to crack open shells while floating on their backs.",
+    "zh": "海獭是海洋哺乳动物，它们在仰泳时会使用石头等工具敲开贝壳。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Sea otters are the smallest marine mammals, weighing between 14 and 45 kilograms. They have the thickest fur of any animal, with up to 150,000 hairs per square centimeter, which keeps them warm in cold ocean water. Their webbed hind feet act like flippers, and their sensitive front paws are perfect for grabbing food.",
+      "zh": "海獭是最小的海洋哺乳动物，体重在14到45公斤之间。它们拥有所有动物中最浓密的毛发，每平方厘米多达15万根毛，可以在冰冷的海水中保暖。它们有蹼的后脚像鳍一样好用，灵敏的前爪非常适合抓取食物。"
+    },
+    "ecology_and_behavior": {
+      "en": "Sea otters eat sea urchins, crabs, clams, and other shellfish, using rocks as tools to crack them open on their bellies. They often float together in groups called rafts and even hold paws while sleeping so they do not drift apart. By eating sea urchins, sea otters help protect kelp forests, which are important ocean habitats.",
+      "zh": "海獭吃海胆、螃蟹、蛤蜊和其他贝类，会用石头当工具在肚子上把壳敲开。它们经常成群地一起漂浮，这叫做「筏群」，睡觉时还会手牵手，以免彼此漂散。通过吃海胆，海獭帮助保护了海藻森林，这是非常重要的海洋栖息地。"
+    },
+    "habitat_and_distribution": {
+      "en": "Sea otters live along the coasts of the northern Pacific Ocean, from California to Alaska, and across to Russia and Japan. They spend almost their entire lives in the water, preferring shallow coastal areas with kelp forests. Historically they were hunted nearly to extinction for their fur, and today their populations are slowly recovering.",
+      "zh": "海獭生活在北太平洋沿岸，从加利福尼亚到阿拉斯加，一直到俄罗斯和日本。它们几乎整个一生都在水里度过，喜欢有海藻森林的浅海沿岸地区。历史上它们曾因毛皮被猎杀到几乎灭绝，如今数量正在慢慢恢复。"
+    }
+  },
+  "habitat": {
+    "text_en": "Coastal Pacific Ocean",
+    "text_zh": "太平洋沿岸",
+    "map_coordinates": [
+      36.62,
+      -121.9
+    ],
+    "map_zoom_level": 7,
+    "global_distribution_polygons": [
+      [
+        [
+          35.5,
+          -121.5
+        ],
+        [
+          35.6,
+          -121.2
+        ],
+        [
+          35.8,
+          -121
+        ],
+        [
+          36,
+          -121.1
+        ],
+        [
+          36.2,
+          -121.4
+        ],
+        [
+          36.5,
+          -121.8
+        ],
+        [
+          36.7,
+          -121.9
+        ],
+        [
+          36.9,
+          -122
+        ],
+        [
+          37,
+          -122.2
+        ],
+        [
+          36.8,
+          -122.5
+        ],
+        [
+          36.5,
+          -122.4
+        ],
+        [
+          36.2,
+          -122.2
+        ],
+        [
+          35.9,
+          -122
+        ],
+        [
+          35.7,
+          -121.8
+        ],
+        [
+          35.5,
+          -121.5
+        ]
+      ],
+      [
+        [
+          46.5,
+          -124.1
+        ],
+        [
+          47,
+          -124.2
+        ],
+        [
+          47.5,
+          -124.3
+        ],
+        [
+          48,
+          -124.4
+        ],
+        [
+          48.3,
+          -124.5
+        ],
+        [
+          48.5,
+          -124.6
+        ],
+        [
+          48.4,
+          -124.8
+        ],
+        [
+          48,
+          -124.7
+        ],
+        [
+          47.5,
+          -124.5
+        ],
+        [
+          47,
+          -124.4
+        ],
+        [
+          46.5,
+          -124.3
+        ],
+        [
+          46.2,
+          -124.1
+        ],
+        [
+          46.5,
+          -124.1
+        ]
+      ],
+      [
+        [
+          49.5,
+          -126.5
+        ],
+        [
+          50,
+          -127
+        ],
+        [
+          50.5,
+          -127.5
+        ],
+        [
+          51,
+          -128
+        ],
+        [
+          51.5,
+          -128.2
+        ],
+        [
+          52,
+          -128.5
+        ],
+        [
+          52.5,
+          -129
+        ],
+        [
+          53,
+          -129.5
+        ],
+        [
+          52.8,
+          -130
+        ],
+        [
+          52.3,
+          -129.7
+        ],
+        [
+          51.8,
+          -129.2
+        ],
+        [
+          51.3,
+          -128.7
+        ],
+        [
+          50.8,
+          -128.2
+        ],
+        [
+          50.3,
+          -127.5
+        ],
+        [
+          49.8,
+          -127
+        ],
+        [
+          49.5,
+          -126.5
+        ]
+      ],
+      [
+        [
+          59,
+          -152
+        ],
+        [
+          59.5,
+          -151.5
+        ],
+        [
+          60,
+          -151
+        ],
+        [
+          60.5,
+          -150.5
+        ],
+        [
+          61,
+          -150
+        ],
+        [
+          61.2,
+          -150.5
+        ],
+        [
+          60.8,
+          -151
+        ],
+        [
+          60.3,
+          -151.5
+        ],
+        [
+          59.8,
+          -152
+        ],
+        [
+          59.3,
+          -152.5
+        ],
+        [
+          59,
+          -152
+        ]
+      ],
+      [
+        [
+          54,
+          -166.5
+        ],
+        [
+          54.5,
+          -165.5
+        ],
+        [
+          55,
+          -164.5
+        ],
+        [
+          55.5,
+          -163.5
+        ],
+        [
+          55.8,
+          -162.5
+        ],
+        [
+          55.5,
+          -162
+        ],
+        [
+          55,
+          -162.5
+        ],
+        [
+          54.5,
+          -163.5
+        ],
+        [
+          54,
+          -164.5
+        ],
+        [
+          53.5,
+          -165.5
+        ],
+        [
+          53.2,
+          -166
+        ],
+        [
+          53.5,
+          -167
+        ],
+        [
+          54,
+          -166.5
+        ]
+      ],
+      [
+        [
+          52,
+          158.5
+        ],
+        [
+          52.5,
+          158
+        ],
+        [
+          53,
+          157.5
+        ],
+        [
+          53.5,
+          157
+        ],
+        [
+          54,
+          157.5
+        ],
+        [
+          53.8,
+          158
+        ],
+        [
+          53.3,
+          158.5
+        ],
+        [
+          52.8,
+          159
+        ],
+        [
+          52.3,
+          159
+        ],
+        [
+          52,
+          158.5
+        ]
+      ],
+      [
+        [
+          44.5,
+          147
+        ],
+        [
+          45,
+          147.5
+        ],
+        [
+          45.5,
+          148
+        ],
+        [
+          46,
+          148.5
+        ],
+        [
+          45.8,
+          149
+        ],
+        [
+          45.3,
+          148.7
+        ],
+        [
+          44.8,
+          148.2
+        ],
+        [
+          44.3,
+          147.5
+        ],
+        [
+          44,
+          147
+        ],
+        [
+          44.5,
+          147
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/sea-otter.jpg"
+}

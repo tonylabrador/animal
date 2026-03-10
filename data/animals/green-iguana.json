@@ -1,0 +1,114 @@
+{
+  "id": "green-iguana",
+  "name_zh": "绿鬣蜥",
+  "name_en": "Green Iguana",
+  "scientific_name": "Iguana iguana",
+  "ui_tags": [
+    "Reptile",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Iguanidae",
+      "zh": "鬣蜥科"
+    },
+    "genus": {
+      "en": "Iguana",
+      "zh": "鬣蜥属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The green iguana is a large, arboreal, mostly herbivorous lizard widely distributed across the Americas.",
+    "zh": "绿鬣蜥是一种大型的树栖蜥蜴，主要以草食为主，广泛分布于美洲大陆。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Green iguanas are striking reptiles with a row of spikey, comb-like scales running all the way down their back to their long, whip-like tail. Under their chin, they have a large floppy piece of skin called a 'dewlap' that they puff out to say hello or look scary. Even though their name says 'green,' they can actually be bright orange, brown, or even blue!",
+      "zh": "绿鬣蜥是引人注目的爬行动物，背部有一排如梳子般的尖锐鳞片，一直延伸到像鞭子一样的长尾巴。在它们的下巴下面，有一块巨大的、松垂的皮肤，叫做「喉扇」，它们会把喉扇鼓起来打招呼或让自己看起来很吓人。虽然它们的名字叫「绿」，但它们实际上也可以是亮橙色、棕色，甚至蓝色！"
+    },
+    "ecology_and_behavior": {
+      "en": "These big lizards are vegetarians, spending their lazy days high up in the treetops munching on juicy leaves, flowers, and fruit. They are excellent tree climbers. If a bird or snake tries to attack them, they will let go of the branch and drop straight down into a river, swimming away quickly like a little crocodile.",
+      "zh": "这些大蜥蜴是素食主义者，它们慵懒的时光都在高高的树冠上度过，大口嚼着多汁的树叶、花朵和水果。它们是爬树高手。如果鸟或蛇试图攻击它们，它们会松开树枝直接掉进河里，像小鳄鱼一样迅速游走。"
+    },
+    "habitat_and_distribution": {
+      "en": "They love the heat and live in the tropical, rainy forests of Central and South America. They have also been brought by humans to places like Florida, where you can often see them sunbathing on warm concrete sidewalks.",
+      "zh": "它们喜欢炎热，生活在中南美洲热带、多雨的森林里。它们也被人类带到了佛罗里达等地，在那里你经常可以看到它们在温暖的水泥人行道上晒太阳。"
+    }
+  },
+  "habitat": {
+    "text_en": "Canopies of tropical rainforests in Central and South America",
+    "text_zh": "中南美洲热带雨林的树冠层",
+    "map_coordinates": [
+      10,
+      -84
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          25,
+          -100
+        ],
+        [
+          20,
+          -85
+        ],
+        [
+          10,
+          -70
+        ],
+        [
+          5,
+          -50
+        ],
+        [
+          -15,
+          -40
+        ],
+        [
+          -25,
+          -50
+        ],
+        [
+          -25,
+          -65
+        ],
+        [
+          0,
+          -80
+        ],
+        [
+          15,
+          -95
+        ],
+        [
+          25,
+          -100
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/green-iguana.jpg"
+}

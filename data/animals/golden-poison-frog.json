@@ -1,0 +1,102 @@
+{
+  "id": "golden-poison-frog",
+  "name_zh": "黄金箭毒蛙",
+  "name_en": "Golden Poison Frog",
+  "scientific_name": "Phyllobates terribilis",
+  "ui_tags": [
+    "Amphibian",
+    "Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Amphibia",
+      "zh": "两栖纲"
+    },
+    "order": {
+      "en": "Anura",
+      "zh": "无尾目"
+    },
+    "family": {
+      "en": "Dendrobatidae",
+      "zh": "箭毒蛙科"
+    },
+    "genus": {
+      "en": "Phyllobates",
+      "zh": "叶毒蛙属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The golden poison frog is a tiny endemic amphibian of Colombia, containing enough alkaloid toxin to kill multiple adult humans.",
+    "zh": "黄金箭毒蛙是哥伦比亚特有的一种微小两栖动物，其体内含有的生物碱毒素足以杀死多名成年人。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Don't let its size fool you! This frog is only about two inches long, fitting perfectly in the palm of your hand, but it is super bright! It can be a dazzling mint green, yellow, or orange. This glowing color is nature's stop sign, warning hungry predators: 'Do not eat me!'",
+      "zh": "别被它的体型骗了！这只青蛙只有大约两英寸长，完全可以放在你的手掌心里，但它颜色极其鲜艳！它可以是耀眼的薄荷绿、黄色或橙色。这种发光的颜色是大自然的停车标志，警告饥饿的捕食者：「别吃我！」"
+    },
+    "ecology_and_behavior": {
+      "en": "The golden poison frog is considered the most poisonous animal on Earth. A single tiny frog has enough poison in its skin to take down 10 grown adults! The amazing part is they don't make the poison themselves; they absorb it by eating special toxic ants and beetles in the jungle. They are also caring fathers, giving piggyback rides to their tadpoles.",
+      "zh": "黄金箭毒蛙被认为是地球上最毒的动物。一只小小的青蛙皮肤里的毒素就足以放倒10个成年人！神奇的是，它们自己并不制造毒素；它们通过吃丛林里特殊的有毒蚂蚁和甲虫来吸收毒素。它们也是有爱的父亲，会背着它们的蝌蚪到处跑。"
+    },
+    "habitat_and_distribution": {
+      "en": "These deadly but beautiful frogs live in only one place in the whole world: a tiny patch of incredibly wet, humid rainforest on the Pacific coast of Colombia. Their home is disappearing as trees are cut down for farming.",
+      "zh": "这些致命但美丽的青蛙只生活在全世界唯一的一个地方：哥伦比亚太平洋沿岸一小片极其潮湿、多雨的热带雨林中。由于人们为了种地砍伐树木，它们的家园正在消失。"
+    }
+  },
+  "habitat": {
+    "text_en": "Primary humid forests of the Chocó region in Colombia",
+    "text_zh": "哥伦比亚乔科地区的潮湿原始森林",
+    "map_coordinates": [
+      2.6,
+      -77.6
+    ],
+    "map_zoom_level": 7,
+    "global_distribution_polygons": [
+      [
+        [
+          3.5,
+          -77
+        ],
+        [
+          3,
+          -76.8
+        ],
+        [
+          2.5,
+          -77
+        ],
+        [
+          2.2,
+          -77.5
+        ],
+        [
+          2.5,
+          -78
+        ],
+        [
+          3.2,
+          -77.5
+        ],
+        [
+          3.5,
+          -77
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/golden-poison-frog.jpg"
+}

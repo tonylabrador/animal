@@ -1,0 +1,118 @@
+{
+  "id": "polar-bear",
+  "name_zh": "北极熊",
+  "name_en": "Polar Bear",
+  "scientific_name": "Ursus maritimus",
+  "ui_tags": [
+    "Mammal",
+    "Arctic",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Ursidae",
+      "zh": "熊科"
+    },
+    "genus": {
+      "en": "Ursus",
+      "zh": "熊属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The polar bear is a massive hypercarnivorous bear whose native range lies largely within the Arctic Circle, heavily dependent on sea ice.",
+    "zh": "北极熊是一种巨大的超肉食性熊类，其原生栖息地主要在北极圈内，高度依赖海冰生存。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Did you know a polar bear's fur isn't actually white? It's transparent and hollow, reflecting the sunlight! Under all that fluffy hair, their skin is jet black to absorb the sun's heat. They have massive paws the size of dinner plates that act like snowshoes on ice and paddles in the water.",
+      "zh": "你知道北极熊的毛其实不是白色的吗？它是透明且中空的，只是反射了阳光！在所有毛茸茸的毛发下面，它们的皮肤是乌黑的，用来吸收太阳的热量。它们长着餐盘大小的巨爪，在冰上就像雪地靴，在水里就像船桨。"
+    },
+    "ecology_and_behavior": {
+      "en": "Polar bears are the largest meat-eating animals that live on land. They are patient hunters, waiting by breathing holes in the ice to catch ringed seals. A polar bear's nose is so amazing that it can smell a seal hiding under three feet of solid snow from almost a mile away!",
+      "zh": "北极熊是生活在陆地上的体型最大的食肉动物。它们是耐心的猎手，守在冰层的呼吸孔旁捕捉环斑海豹。北极熊的鼻子非常神奇，能从近一英里外闻到躲在三英尺厚实雪下的海豹！"
+    },
+    "habitat_and_distribution": {
+      "en": "These majestic bears live exclusively in the freezing Arctic, roaming across the sea ice of Canada, Russia, Alaska, Greenland, and Norway. Sadly, because the planet is getting warmer, the ice is melting fast, which makes it harder for them to find food and survive.",
+      "zh": "这些雄伟的熊专属于冰冷的北极，漫游在加拿大、俄罗斯、阿拉斯加、格陵兰岛和挪威的海冰上。可悲的是，因为地球正在变暖，冰层融化得很快，这使得它们寻找食物和生存变得更加困难。"
+    }
+  },
+  "habitat": {
+    "text_en": "Circumpolar Arctic sea ice and coastal tundra",
+    "text_zh": "环北极海冰带与沿海冻原",
+    "map_coordinates": [
+      78,
+      15
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          75,
+          -160
+        ],
+        [
+          80,
+          -120
+        ],
+        [
+          82,
+          -80
+        ],
+        [
+          85,
+          -20
+        ],
+        [
+          80,
+          20
+        ],
+        [
+          78,
+          60
+        ],
+        [
+          75,
+          100
+        ],
+        [
+          72,
+          150
+        ],
+        [
+          70,
+          180
+        ],
+        [
+          70,
+          -170
+        ],
+        [
+          75,
+          -160
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/polar-bear.jpg"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "tiger",
+  "name_zh": "老虎",
+  "name_en": "Tiger",
+  "scientific_name": "Panthera tigris",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Felidae",
+      "zh": "猫科"
+    },
+    "genus": {
+      "en": "Panthera",
+      "zh": "豹属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The largest living cat species, easily recognized by its dark vertical stripes on reddish-orange fur.",
+    "zh": "体型最大的现存猫科动物，以红橙色毛皮上的深色垂直条纹而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The tiger is the biggest cat in the world, weighing up to 300 kilograms! They have beautiful orange fur with dark black stripes, and just like human fingerprints, no two tigers have the exact same stripe pattern.",
+      "zh": "老虎是世界上最大的猫科动物，体重可达300公斤！它们拥有美丽的橙色毛皮和深黑色的条纹，就像人类的指纹一样，没有两只老虎的条纹是完全相同的。"
+    },
+    "ecology_and_behavior": {
+      "en": "Tigers are excellent swimmers and love to cool off in rivers and lakes. They hunt alone, mostly at night, using their stealth and powerful bodies to catch large prey like deer and wild boars.",
+      "zh": "老虎是游泳健将，喜欢在河流和湖泊中乘凉。它们通常在夜间独自狩猎，利用出色的隐蔽能力和强壮的身体来捕捉鹿和野猪等大型猎物。"
+    },
+    "habitat_and_distribution": {
+      "en": "Tigers live in scattered forests and grasslands across Asia, from the freezing snowy forests of Russia to the hot tropical jungles of India and Indonesia. Sadly, they are very endangered because of habitat loss.",
+      "zh": "老虎生活在亚洲各地零星的森林和草原中，从俄罗斯寒冷的雪林到印度和印度尼西亚炎热的热带丛林。遗憾的是，由于栖息地丧失，它们非常濒危。"
+    }
+  },
+  "habitat": {
+    "text_en": "Asian forests and grasslands",
+    "text_zh": "亚洲森林与草原",
+    "map_coordinates": [
+      23,
+      80
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          28,
+          75
+        ],
+        [
+          28.5,
+          80
+        ],
+        [
+          25,
+          85
+        ],
+        [
+          20,
+          85
+        ],
+        [
+          15,
+          80
+        ],
+        [
+          15,
+          75
+        ],
+        [
+          20,
+          75
+        ],
+        [
+          25,
+          75
+        ],
+        [
+          28,
+          75
+        ]
+      ],
+      [
+        [
+          20,
+          95
+        ],
+        [
+          20,
+          105
+        ],
+        [
+          15,
+          105
+        ],
+        [
+          10,
+          100
+        ],
+        [
+          5,
+          100
+        ],
+        [
+          5,
+          105
+        ],
+        [
+          -5,
+          105
+        ],
+        [
+          -5,
+          100
+        ],
+        [
+          10,
+          95
+        ],
+        [
+          20,
+          95
+        ]
+      ],
+      [
+        [
+          45,
+          135
+        ],
+        [
+          50,
+          135
+        ],
+        [
+          50,
+          140
+        ],
+        [
+          45,
+          140
+        ],
+        [
+          45,
+          135
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/tiger.jpg"
+}

@@ -1,0 +1,290 @@
+{
+  "id": "black-tailed-prairie-dog",
+  "name_zh": "黑尾土拨鼠",
+  "name_en": "Black-tailed Prairie Dog",
+  "scientific_name": "Cynomys ludovicianus",
+  "ui_tags": [
+    "Mammal",
+    "Grassland",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Rodentia",
+      "zh": "啮齿目"
+    },
+    "family": {
+      "en": "Sciuridae",
+      "zh": "松鼠科"
+    },
+    "genus": {
+      "en": "Cynomys",
+      "zh": "草原犬鼠属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "These social rodents live in large colonies called 'towns' beneath the surface of the prairies.",
+    "zh": "这些群居啮齿动物生活在草原地表下被称为「城镇」的大型聚居地中。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Black-tailed prairie dogs are chubby, tan-colored rodents about 35 to 43 centimeters long, including their short black-tipped tail. They weigh around 0.7 to 1.4 kilograms. They have small ears, dark eyes, and short but strong legs with sharp claws for digging complex underground tunnels.",
+      "zh": "黑尾土拨鼠是圆胖的棕褐色啮齿动物，全长约35到43厘米，包括它们那条末端为黑色的短尾巴。体重大约0.7到1.4公斤。它们有小耳朵、黑色眼睛和短而有力的腿，爪子锐利，用来挖掘复杂的地下隧道。"
+    },
+    "ecology_and_behavior": {
+      "en": "Prairie dogs eat grasses, seeds, and small insects. They are extremely social and live in family groups called coteries within their large underground towns. They have a special alarm bark that can describe the size, shape, color, and speed of an approaching predator, making their language one of the most complex in the animal kingdom.",
+      "zh": "土拨鼠吃草、种子和小昆虫。它们非常善于社交，在大型地下城镇中以被称为「家族」的小组生活。它们有一种特殊的警报叫声，能够描述靠近的捕食者的大小、形状、颜色和速度，这使得它们的语言成为动物界中最复杂的之一。"
+    },
+    "habitat_and_distribution": {
+      "en": "Black-tailed prairie dogs live on the short-grass prairies of the Great Plains of North America. Their range stretches from southern Canada through the central United States to northern Mexico. Their underground towns can cover hundreds of hectares and contain thousands of individuals.",
+      "zh": "黑尾土拨鼠生活在北美大平原的短草草原上。它们的分布范围从加拿大南部穿过美国中部一直延伸到墨西哥北部。它们的地下城镇可以覆盖数百公顷的面积，容纳数千只个体。"
+    }
+  },
+  "habitat": {
+    "text_en": "Shortgrass prairies",
+    "text_zh": "短草草原",
+    "map_coordinates": [
+      41,
+      -102
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          47.5,
+          -104.5
+        ],
+        [
+          47,
+          -104
+        ],
+        [
+          46.5,
+          -104.5
+        ],
+        [
+          46,
+          -104
+        ],
+        [
+          45.5,
+          -104.5
+        ],
+        [
+          45,
+          -103.5
+        ],
+        [
+          44.5,
+          -104
+        ],
+        [
+          44,
+          -103.5
+        ],
+        [
+          43.5,
+          -104
+        ],
+        [
+          43,
+          -104.5
+        ],
+        [
+          42.5,
+          -104.5
+        ],
+        [
+          42,
+          -105
+        ],
+        [
+          41.5,
+          -104.5
+        ],
+        [
+          41,
+          -104
+        ],
+        [
+          40.5,
+          -104.5
+        ],
+        [
+          40,
+          -104
+        ],
+        [
+          39.5,
+          -104.5
+        ],
+        [
+          39,
+          -104.5
+        ],
+        [
+          38.5,
+          -104
+        ],
+        [
+          38,
+          -103.5
+        ],
+        [
+          37.5,
+          -103.5
+        ],
+        [
+          37,
+          -103
+        ],
+        [
+          36.5,
+          -103.5
+        ],
+        [
+          36,
+          -103.5
+        ],
+        [
+          35.5,
+          -103
+        ],
+        [
+          35,
+          -103.5
+        ],
+        [
+          34.5,
+          -103
+        ],
+        [
+          34,
+          -103.5
+        ],
+        [
+          34,
+          -102
+        ],
+        [
+          34.5,
+          -101
+        ],
+        [
+          35,
+          -100.5
+        ],
+        [
+          36,
+          -100.5
+        ],
+        [
+          37,
+          -100
+        ],
+        [
+          37.5,
+          -100.5
+        ],
+        [
+          38,
+          -100.5
+        ],
+        [
+          38.5,
+          -101
+        ],
+        [
+          39,
+          -100.5
+        ],
+        [
+          39.5,
+          -100
+        ],
+        [
+          40,
+          -100.5
+        ],
+        [
+          40.5,
+          -100.5
+        ],
+        [
+          41,
+          -100
+        ],
+        [
+          41.5,
+          -100.5
+        ],
+        [
+          42,
+          -100.5
+        ],
+        [
+          42.5,
+          -100
+        ],
+        [
+          43,
+          -101.5
+        ],
+        [
+          43.5,
+          -102
+        ],
+        [
+          44,
+          -102.5
+        ],
+        [
+          44.5,
+          -102.5
+        ],
+        [
+          45,
+          -102.5
+        ],
+        [
+          45.5,
+          -103.5
+        ],
+        [
+          46,
+          -103.5
+        ],
+        [
+          46.5,
+          -104
+        ],
+        [
+          47,
+          -104.5
+        ],
+        [
+          47.5,
+          -104.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/black-tailed-prairie-dog.jpg"
+}

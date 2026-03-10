@@ -1,0 +1,98 @@
+{
+  "id": "fennec-fox",
+  "name_zh": "耳廓狐",
+  "name_en": "Fennec Fox",
+  "scientific_name": "Vulpes zerda",
+  "ui_tags": [
+    "Mammal",
+    "Desert",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Canidae",
+      "zh": "犬科"
+    },
+    "genus": {
+      "en": "Vulpes",
+      "zh": "狐属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The smallest canid in the world, renowned for its unusually large ears that help it survive in the scorching desert.",
+    "zh": "世界上体型最小的犬科动物，以非同寻常的大耳朵而闻名，这有助于它在炎热的沙漠中生存。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The fennec fox is the smallest dog in the world, weighing less than a Chihuahua! But while its body is tiny, its ears are massive—up to 6 inches long! These giant ears work like air conditioners, letting out body heat to keep the fox cool in the hot desert. Even their paws are covered in thick fur so they don't burn their feet on the hot sand.",
+      "zh": "耳廓狐是世界上最小的狗，体重比吉娃娃还轻！但是虽然身体很小，耳朵却非常巨大——长达6英寸！这些大耳朵就像空调一样，能散发体热，让狐狸在炎热的沙漠里保持凉爽。甚至它们的爪子上也长满了厚厚的毛，这样就不会在滚烫的沙子上烫伤脚了。"
+    },
+    "ecology_and_behavior": {
+      "en": "To survive the blistering sun, fennec foxes sleep all day in deep, cool underground burrows. At night, they come out to hunt for insects, small lizards, and desert plants. Because water is so rare in the desert, they get almost all the water they need just from the food they eat!",
+      "zh": "为了在酷热的阳光下生存，耳廓狐一整天都在凉爽的深层地下洞穴里睡觉。到了晚上，它们才出来捕食昆虫、小蜥蜴和沙漠植物。因为沙漠里水非常稀缺，它们几乎从食物中就能获得所需的所有水分！"
+    },
+    "habitat_and_distribution": {
+      "en": "Fennec foxes are the masters of the Sahara Desert in North Africa. They live among the endless, rolling sand dunes in places where almost no other animals can survive.",
+      "zh": "耳廓狐是北非撒哈拉沙漠的主人。它们生活在连绵不断的沙丘之中，那几乎是其他动物无法生存的地方。"
+    }
+  },
+  "habitat": {
+    "text_en": "Sandy dunes of the Sahara Desert",
+    "text_zh": "撒哈拉沙漠的沙丘",
+    "map_coordinates": [
+      25,
+      10
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          30,
+          -10
+        ],
+        [
+          35,
+          0
+        ],
+        [
+          30,
+          35
+        ],
+        [
+          15,
+          35
+        ],
+        [
+          15,
+          -10
+        ],
+        [
+          30,
+          -10
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/fennec-fox.jpg"
+}

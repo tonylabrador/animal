@@ -1,0 +1,124 @@
+{
+  "id": "raccoon-dog",
+  "name_zh": "貉",
+  "name_en": "Raccoon Dog",
+  "scientific_name": "Nyctereutes procyonoides",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Canidae",
+      "zh": "犬科"
+    },
+    "genus": {
+      "en": "Nyctereutes",
+      "zh": "貉属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "An unusual East Asian dog with a mask like a raccoon, and the only canid in the world known to hibernate.",
+    "zh": "一种不同寻常的东亚犬科动物，长着像浣熊一样的面罩，是世界上已知唯一会冬眠的犬科动物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Is it a raccoon? No, it's a dog! The raccoon dog gets its name because of its black face mask and thick, greyish-brown fur that makes it look exactly like a raccoon. It has a short body, short legs, and a very fluffy tail, making it look a bit clumsy compared to wolves and foxes.",
+      "zh": "那是浣熊吗？不，那是狗！貉之所以得名，是因为它黑色的面罩和厚厚的灰棕色皮毛，让它看起来和浣熊一模一样。它身体短，腿也短，尾巴非常蓬松，和狼或狐狸相比，它看起来有点笨拙。"
+    },
+    "ecology_and_behavior": {
+      "en": "The raccoon dog is full of surprises. It is the only member of the dog family in the entire world that hibernates! Before winter comes, they eat as much food as possible to get fat, then sleep through the coldest months. They are not very fast runners, so they usually search the forest floor for slow-moving food like frogs, insects, and berries.",
+      "zh": "貉身上充满了惊喜。它是全世界犬科动物中唯一会冬眠的成员！在冬天到来之前，它们会吃尽可能多的食物来长胖，然后在最冷的几个月里睡大觉。它们跑得不是很块，所以通常在森林地面上寻找青蛙、昆虫和浆果等移动缓慢的食物。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are naturally found in the forests and damp valleys of East Asia, including Japan, China, and Korea. In Japan, they are famous in myths and are called 'Tanuki'. Decades ago, humans brought them to Europe, and they have successfully spread across many European forests today.",
+      "zh": "它们天然分布在东亚的森林和潮湿的山谷中，包括日本、中国和韩国。在日本的神话里它们非常出名，被称为「Tanuki（狸）」。几十年前，人类将它们带到了欧洲，如今它们已经成功地在许多欧洲森林中蔓延开来。"
+    }
+  },
+  "habitat": {
+    "text_en": "Forests and woodlands of East Asia and Europe",
+    "text_zh": "东亚和欧洲的森林与林地",
+    "map_coordinates": [
+      35,
+      135
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          55,
+          110
+        ],
+        [
+          55,
+          140
+        ],
+        [
+          30,
+          140
+        ],
+        [
+          20,
+          110
+        ],
+        [
+          35,
+          100
+        ],
+        [
+          55,
+          110
+        ]
+      ],
+      [
+        [
+          65,
+          20
+        ],
+        [
+          65,
+          40
+        ],
+        [
+          45,
+          40
+        ],
+        [
+          45,
+          10
+        ],
+        [
+          55,
+          10
+        ],
+        [
+          65,
+          20
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/raccoon-dog.jpg"
+}

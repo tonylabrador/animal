@@ -1,0 +1,130 @@
+{
+  "id": "red-panda",
+  "name_zh": "小熊猫",
+  "name_en": "Red Panda",
+  "scientific_name": "Ailurus fulgens",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Ailuridae",
+      "zh": "小熊猫科"
+    },
+    "genus": {
+      "en": "Ailurus",
+      "zh": "小熊猫属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The red panda is a small tree-dwelling mammal known for its reddish-brown fur and long, bushy tail.",
+    "zh": "小熊猫是一种小型的树栖哺乳动物，以其红褐色的皮毛和长而蓬松的尾巴而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Red pandas are slightly larger than a domestic cat, weighing about 3 to 6 kilograms. They have thick reddish-brown fur, a black belly, and a ringed tail that they use as a warm blanket in the cold. They also have a 'false thumb', which is actually an extended wrist bone used to grip bamboo tightly.",
+      "zh": "小熊猫比家猫稍大一点，体重约3到6公斤。它们有厚厚的红褐色皮毛、黑色的腹部和带环纹的尾巴，在寒冷时可以当温暖的毯子用。它们还有一个“伪拇指”，实际上是一根伸长的腕骨，用来紧紧抓取竹子。"
+    },
+    "ecology_and_behavior": {
+      "en": "Despite being classified as carnivores, red pandas mostly eat bamboo leaves and shoots, along with some fruit and insects. They are excellent climbers and spend most of their lives high up in trees. They are mostly solitary animals and are most active at dawn and dusk.",
+      "zh": "尽管被分类为食肉动物，小熊猫主要吃竹叶和竹笋，也会吃一些水果和昆虫。它们是出色的攀爬者，一生中大部分时间都在高高的树上度过。它们大多是独居动物，在黎明和黄昏时最为活跃。"
+    },
+    "habitat_and_distribution": {
+      "en": "Red pandas live in high-altitude temperate forests with bamboo understories in the Himalayas and high mountains of southwestern China. They thrive in cold climates and steep mountainous terrain. Their populations are unfortunately declining due to habitat loss.",
+      "zh": "小熊猫生活在喜马拉雅山脉和中国西南部高山地区，那些带有竹林底层的的高海拔温带森林中。它们在寒冷的气候和陡峭的山地地形中繁衍生息。遗憾的是，由于栖息地丧失，它们的数量正在下降。"
+    }
+  },
+  "habitat": {
+    "text_en": "Himalayan and Southwestern Chinese forests",
+    "text_zh": "喜马拉雅及中国西南森林",
+    "map_coordinates": [
+      27.5,
+      88.5
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          27,
+          85
+        ],
+        [
+          28,
+          84
+        ],
+        [
+          29,
+          85
+        ],
+        [
+          29.5,
+          87
+        ],
+        [
+          28,
+          90
+        ],
+        [
+          27,
+          95
+        ],
+        [
+          26,
+          98
+        ],
+        [
+          25,
+          100
+        ],
+        [
+          28,
+          103
+        ],
+        [
+          30,
+          103
+        ],
+        [
+          30,
+          100
+        ],
+        [
+          28,
+          95
+        ],
+        [
+          27,
+          88
+        ],
+        [
+          27,
+          85
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/red-panda.jpg"
+}

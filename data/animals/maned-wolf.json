@@ -1,0 +1,106 @@
+{
+  "id": "maned-wolf",
+  "name_zh": "鬃狼",
+  "name_en": "Maned Wolf",
+  "scientific_name": "Chrysocyon brachyurus",
+  "ui_tags": [
+    "Mammal",
+    "Grassland",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Canidae",
+      "zh": "犬科"
+    },
+    "genus": {
+      "en": "Chrysocyon",
+      "zh": "鬃狼属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "The largest canid of South America, known for its fox-like face and incredibly long, black legs.",
+    "zh": "南美洲最大的犬科动物，以长得像狐狸的脸和不可思议的黑色大长腿而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The maned wolf looks like a giant red fox walking on stilts! It is the tallest wild dog in the world, with super long, black legs that help it see over tall grass. It gets its name from a black mane of hair on its neck that stands straight up when it feels scared or angry.",
+      "zh": "鬃狼看起来就像踩着高跷的巨型赤狐！它是世界上最高的野生犬科动物，超级长的黑腿能帮它越过高高的草丛看清周围。它的名字来源于脖子上的一圈黑色鬃毛，当它感到害怕或生气时，这圈毛会直立起来。"
+    },
+    "ecology_and_behavior": {
+      "en": "Unlike most wolves, the maned wolf does not live in packs; it prefers to wander the grasslands alone. It is a very unique omnivore! Half of its diet is meat like rats and birds, and the other half is fruit, especially a tomato-like fruit called the 'wolf apple'. It is also famous for its pee, which smells exactly like a skunk!",
+      "zh": "和大多数狼不同，鬃狼不群居；它更喜欢独自在草原上漫步。它是一种非常独特的杂食动物！它一半的食物是老鼠和鸟类等肉类，另一半是水果，特别是一种叫做「狼苹果」的像番茄一样的水果。它还因尿液出名，闻起来完全就像臭鼬！"
+    },
+    "habitat_and_distribution": {
+      "en": "Maned wolves live in the Cerrado, a massive tropical savanna with tall grasses and scattered trees in central South America. They are mostly found in Brazil, Paraguay, and Argentina.",
+      "zh": "鬃狼生活在塞拉多（Cerrado），这是位于南美洲中部、长满高草和散落树木的巨大热带稀树草原。它们主要分布在巴西、巴拉圭和阿根廷。"
+    }
+  },
+  "habitat": {
+    "text_en": "Grasslands and scrub forests of central South America",
+    "text_zh": "南美洲中部的草原和灌木林",
+    "map_coordinates": [
+      -15,
+      -50
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -5,
+          -45
+        ],
+        [
+          -5,
+          -40
+        ],
+        [
+          -15,
+          -40
+        ],
+        [
+          -25,
+          -50
+        ],
+        [
+          -30,
+          -60
+        ],
+        [
+          -20,
+          -65
+        ],
+        [
+          -10,
+          -55
+        ],
+        [
+          -5,
+          -45
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/maned-wolf.jpg"
+}

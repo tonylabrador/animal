@@ -1,0 +1,110 @@
+{
+  "id": "wandering-albatross",
+  "name_zh": "漂泊信天翁",
+  "name_en": "Wandering Albatross",
+  "scientific_name": "Diomedea exulans",
+  "ui_tags": [
+    "Bird",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Procellariiformes",
+      "zh": "鹱形目"
+    },
+    "family": {
+      "en": "Diomedeidae",
+      "zh": "信天翁科"
+    },
+    "genus": {
+      "en": "Diomedea",
+      "zh": "信天翁属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The wandering albatross is a large seabird from the Southern Ocean, possessing the largest wingspan of any living bird.",
+    "zh": "漂泊信天翁是来自南大洋的大型海鸟，拥有现存鸟类中最大的翼展。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "If you stretched your arms out wide, you still wouldn't be as wide as a Wandering Albatross! They have the largest wingspan of any bird alive, measuring up to 11.5 feet (3.5 meters) from tip to tip. They have a big hooked pink beak perfect for grabbing slippery food from the water.",
+      "zh": "如果你把双臂完全伸展开，还是没有漂泊信天翁那么宽！它们拥有现存鸟类中最大的翼展，两端相距可达11.5英尺（3.5米）。它们有一张带钩的粉红色大嘴，非常适合从水中抓取滑溜溜的食物。"
+    },
+    "ecology_and_behavior": {
+      "en": "These magnificent birds are the ultimate ocean gliders. Thanks to their massive wings, they can lock their elbow joints and ride the ocean winds for hours without flapping their wings even once. They can fly around the entire Earth in a single year, only landing on the water to eat squid and fish.",
+      "zh": "这些华丽的鸟类是终极的海洋滑翔机。多亏了巨大的翅膀，它们可以锁定肘关节，乘着海风飞行数小时而无需拍打一次翅膀。它们在一年内就能绕地球飞行一圈，只有在吃乌贼和鱼的时候才会降落在水面上。"
+    },
+    "habitat_and_distribution": {
+      "en": "They live almost entirely in the wild, windy skies of the Southern Ocean. They only ever return to solid ground on remote, rocky islands to build their nests and raise their fluffy chicks.",
+      "zh": "它们几乎完全生活在南大洋狂风大作的野外天空中。它们只在偏远、岩石密布的岛屿上才会回到坚实的陆地上，为了筑巢和抚养毛茸茸的雏鸟。"
+    }
+  },
+  "habitat": {
+    "text_en": "Pelagic zones of the Southern Ocean and sub-Antarctic islands",
+    "text_zh": "南大洋远洋带及亚南极岛屿",
+    "map_coordinates": [
+      -50,
+      0
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          -35,
+          -60
+        ],
+        [
+          -35,
+          20
+        ],
+        [
+          -40,
+          100
+        ],
+        [
+          -45,
+          170
+        ],
+        [
+          -60,
+          170
+        ],
+        [
+          -65,
+          100
+        ],
+        [
+          -60,
+          20
+        ],
+        [
+          -55,
+          -60
+        ],
+        [
+          -35,
+          -60
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/wandering-albatross.jpg"
+}

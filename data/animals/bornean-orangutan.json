@@ -1,0 +1,98 @@
+{
+  "id": "bornean-orangutan",
+  "name_zh": "婆罗洲猩猩",
+  "name_en": "Bornean Orangutan",
+  "scientific_name": "Pongo pygmaeus",
+  "ui_tags": [
+    "Mammal",
+    "Rainforest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Primates",
+      "zh": "灵长目"
+    },
+    "family": {
+      "en": "Hominidae",
+      "zh": "人科"
+    },
+    "genus": {
+      "en": "Pongo",
+      "zh": "猩猩属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "A highly intelligent great ape with long red hair, uniquely adapted for a life swinging through the trees.",
+    "zh": "一种有着红色长发、极度聪明的大型类人猿，独特地适应了在树上荡秋千的生活。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The name 'orangutan' literally means 'person of the forest' in the Malay language. They have shaggy, reddish-orange hair and arms that are so long they touch their ankles when they stand! Adult males develop huge, fleshy cheek pads called 'flanges' that make their faces look very wide and impressive.",
+      "zh": "‘Orangutan’（红猩猩）这个名字在马来语中的字面意思是“森林之人”。它们有着毛茸茸的红橙色头发，手臂非常长，站立时甚至能碰到脚踝！成年雄性会长出巨大多肉的脸颊垫，称为“厚脸盘”，这让它们的脸看起来非常宽阔而威风。"
+    },
+    "ecology_and_behavior": {
+      "en": "Orangutans are the largest tree-living animals in the world. They are incredibly smart and use tools, such as holding large leafy branches over their heads like umbrellas when it rains! They are mostly solitary, spending their days slowly swinging through the canopy searching for their favorite food: sweet, juicy figs and lychees.",
+      "zh": "红猩猩是世界上体型最大的树栖动物。它们极其聪明，会使用工具，比如下雨时会举着长满叶子的大树枝像伞一样遮在头上！它们大多是独居的，每天在树冠间缓慢地荡来荡去，寻找它们最喜欢的食物：甜美多汁的无花果和荔枝。"
+    },
+    "habitat_and_distribution": {
+      "en": "In the wild, Bornean orangutans live in only one place on Earth: the massive island of Borneo in Southeast Asia. They live in the humid tropical rainforests and swamp forests. Sadly, they are critically endangered because humans are cutting down their trees to make palm oil farms.",
+      "zh": "在野外，婆罗洲猩猩只生活在地球上的一个地方：东南亚巨大的婆罗洲岛。它们生活在潮湿的热带雨林和沼泽森林中。可悲的是，因为人类为了建立棕榈油农场而砍伐它们的树木，它们目前处于极度濒危状态。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical rainforests and swamps of Borneo",
+    "text_zh": "婆罗洲的热带雨林和沼泽",
+    "map_coordinates": [
+      1,
+      114
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          7,
+          116
+        ],
+        [
+          4,
+          119
+        ],
+        [
+          -4,
+          117
+        ],
+        [
+          -4,
+          110
+        ],
+        [
+          2,
+          109
+        ],
+        [
+          7,
+          116
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/bornean-orangutan.jpg"
+}

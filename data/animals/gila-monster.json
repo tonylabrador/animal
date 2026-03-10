@@ -1,0 +1,94 @@
+{
+  "id": "gila-monster",
+  "name_zh": "毒蜥",
+  "name_en": "Gila Monster",
+  "scientific_name": "Heloderma suspectum",
+  "ui_tags": [
+    "Reptile",
+    "Desert",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Helodermatidae",
+      "zh": "毒蜥科"
+    },
+    "genus": {
+      "en": "Heloderma",
+      "zh": "毒蜥属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "A slow-moving, venomous lizard native to the deserts of the southwestern United States and Mexico.",
+    "zh": "一种原产于美国西南部和墨西哥沙漠的行动缓慢的有毒蜥蜴。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Gila monster is a large, heavy lizard that looks like it is covered in Native American beadwork! Instead of smooth scales, its skin has tiny bone bumps called osteoderms, colored in striking patterns of black and pink or orange. It has a fat, sausage-like tail where it stores extra fat for the winter.",
+      "zh": "毒蜥是一种体型大而笨重的蜥蜴，看起来就像覆盖着北美原住民的珠饰！它的皮肤不是光滑的鳞片，而是有微小的叫做骨内皮的骨质凸起，颜色是醒目的黑色、粉色或橙色图案。它有一条像香肠一样粗胖的尾巴，用来储存过冬的额外脂肪。"
+    },
+    "ecology_and_behavior": {
+      "en": "It is one of the very few venomous lizards in the world! When it bites, it doesn't inject venom through hollow fangs like a snake. Instead, it chews the venom into its prey's skin using grooves in its bottom teeth. Because it moves very slowly, it doesn't chase down fast food; it prefers to raid nests to eat eggs and newborn mammals.",
+      "zh": "它是世界上极少数有毒的蜥蜴之一！当它咬人时，它不像蛇那样通过中空的毒牙注射毒液。相反，它利用下牙的凹槽将毒液咀嚼进猎物的皮肤里。因为它移动得非常慢，所以不会去追逐速度快的食物；它更喜欢袭击巢穴，吃蛋和刚出生的哺乳动物。"
+    },
+    "habitat_and_distribution": {
+      "en": "Gila monsters live in the harsh, dry Mojave, Sonoran, and Chihuahuan deserts of the southwestern United States and northwestern Mexico. To escape the extreme desert heat, they spend almost 90% of their lives hiding underground in burrows.",
+      "zh": "毒蜥生活在美国西南部和墨西哥西北部环境恶劣、干燥的莫哈韦沙漠、索诺兰沙漠和奇瓦瓦沙漠。为了躲避极端的沙漠酷热，它们一生中几乎有90%的时间都躲在地下洞穴里。"
+    }
+  },
+  "habitat": {
+    "text_en": "Deserts and dry scrublands of southwestern North America",
+    "text_zh": "北美洲西南部的沙漠和干燥灌木丛",
+    "map_coordinates": [
+      33,
+      -112
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          37,
+          -115
+        ],
+        [
+          37,
+          -109
+        ],
+        [
+          25,
+          -109
+        ],
+        [
+          25,
+          -115
+        ],
+        [
+          37,
+          -115
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/gila-monster.jpg"
+}

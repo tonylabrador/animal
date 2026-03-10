@@ -1,0 +1,130 @@
+{
+  "id": "ocelot",
+  "name_zh": "虎猫",
+  "name_en": "Ocelot",
+  "scientific_name": "Leopardus pardalis",
+  "ui_tags": [
+    "Mammal",
+    "Rainforest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Felidae",
+      "zh": "猫科"
+    },
+    "genus": {
+      "en": "Leopardus",
+      "zh": "虎猫属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A beautiful, medium-sized wildcat with striking leopard-like spots, found in the forests of the Americas.",
+    "zh": "一种美丽的中型野猫，身上带有醒目的类似豹子的斑点，分布在美洲的森林中。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The ocelot is about twice the size of a normal pet cat. It is famous for its breathtaking fur, which is covered in chain-like dark spots and stripes. They have bright, large eyes that give them excellent night vision for hunting in the dark.",
+      "zh": "虎猫大约是普通宠物猫的两倍大。它以令人惊叹的皮毛而闻名，上面布满了链状的深色斑点和条纹。它们拥有明亮的大眼睛，在黑暗中狩猎时有着极好的夜视能力。"
+    },
+    "ecology_and_behavior": {
+      "en": "Ocelots are solitary, nocturnal hunters. They roam the forest floor looking for monkeys, birds, and iguanas, but they are also great swimmers and climbers. They use their raspy tongues to clean every bit of meat off their bones.",
+      "zh": "虎猫是独居的夜间猎手。它们在森林地面上漫游，寻找猴子、鸟类和鬣蜥，同时也是游泳和爬树好手。它们用粗糙的舌头把骨头上的每一丁点肉都舔得干干净净。"
+    },
+    "habitat_and_distribution": {
+      "en": "These spotted cats live in the leafy tropical rainforests, mangrove swamps, and savannas of Central and South America. A very small number of ocelots can also be found in the very southern part of Texas in the United States.",
+      "zh": "这些斑点猫生活在中南美洲枝繁叶茂的热带雨林、红树林沼泽和稀树草原中。极少数的虎猫也能在美国得克萨斯州最南部找到。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical forests of the Americas",
+    "text_zh": "美洲热带森林",
+    "map_coordinates": [
+      -5,
+      -65
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          26,
+          -98
+        ],
+        [
+          20,
+          -95
+        ],
+        [
+          15,
+          -90
+        ],
+        [
+          10,
+          -80
+        ],
+        [
+          10,
+          -70
+        ],
+        [
+          5,
+          -55
+        ],
+        [
+          -10,
+          -40
+        ],
+        [
+          -25,
+          -45
+        ],
+        [
+          -30,
+          -60
+        ],
+        [
+          -20,
+          -65
+        ],
+        [
+          -10,
+          -75
+        ],
+        [
+          0,
+          -80
+        ],
+        [
+          15,
+          -95
+        ],
+        [
+          26,
+          -98
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/ocelot.jpg"
+}

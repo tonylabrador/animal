@@ -1,0 +1,102 @@
+{
+  "id": "red-kangaroo",
+  "name_zh": "红袋鼠",
+  "name_en": "Red Kangaroo",
+  "scientific_name": "Osphranter rufus",
+  "ui_tags": [
+    "Mammal",
+    "Outback",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Diprotodontia",
+      "zh": "双门齿目"
+    },
+    "family": {
+      "en": "Macropodidae",
+      "zh": "袋鼠科"
+    },
+    "genus": {
+      "en": "Osphranter",
+      "zh": "大袋鼠属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The red kangaroo is the largest terrestrial mammal native to Australia, famous for its powerful hind legs and marsupial pouch.",
+    "zh": "红袋鼠是澳大利亚原产的最大陆生哺乳动物，以其强有力的后腿和有袋动物的育儿袋而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Red kangaroos are the undisputed giants of Australia. Big males have reddish-brown fur and can stand over 6 feet tall, packing serious muscles. They have gigantic back feet made like biological springs for jumping, and a thick, muscular tail that is so strong it acts like a fifth leg when they walk slowly.",
+      "zh": "红袋鼠是澳大利亚无可争议的巨人。高大的雄性长着红褐色的皮毛，站立时可超过6英尺高，浑身都是结实的肌肉。它们有巨大的后脚，就像生物弹簧一样适合跳跃，还有一条粗壮、肌肉发达的尾巴，力量大到在它们慢走时就像第五条腿一样。"
+    },
+    "ecology_and_behavior": {
+      "en": "Instead of running, they hop! A red kangaroo can leap up to 30 feet forward in a single bound, flying across the desert at 40 miles per hour. Mother kangaroos have a cozy pocket on their belly called a pouch. A tiny, jellybean-sized baby, called a joey, climbs inside and stays there for months until it's big enough to hop around.",
+      "zh": "它们不跑，而是跳！一只红袋鼠一次跳跃就能向前跃出30英尺，以每小时40英里的速度飞跃沙漠。袋鼠妈妈的肚子上有一个舒适的口袋叫做育儿袋。一个像软糖豆那么小、被称为joey的宝宝会爬进去，在里面待上几个月，直到长得足够大可以跳来跳去为止。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are the kings of the Outback. They roam the vast, sun-baked deserts and dry grasslands of central Australia, resting in the shade during the hottest parts of the day.",
+      "zh": "它们是澳洲内陆之王。它们漫步在澳大利亚中部广阔、被太阳炙烤的沙漠和干旱的草原上，在一天中最热的时候躲在阴凉处休息。"
+    }
+  },
+  "habitat": {
+    "text_en": "Arid and semi-arid scrublands of the Australian Outback",
+    "text_zh": "澳大利亚内陆干旱及半干旱灌木丛带",
+    "map_coordinates": [
+      -23.5,
+      133.5
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -15,
+          115
+        ],
+        [
+          -15,
+          145
+        ],
+        [
+          -20,
+          150
+        ],
+        [
+          -35,
+          145
+        ],
+        [
+          -35,
+          135
+        ],
+        [
+          -30,
+          115
+        ],
+        [
+          -15,
+          115
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/red-kangaroo.jpg"
+}

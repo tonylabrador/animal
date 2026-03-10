@@ -6,7 +6,20 @@ Standard Operating Procedure for adding new animals to Wild Explorer.
 
 ## Overview
 
-This document provides a step-by-step workflow for Emily and Dad to add new animals to the app. The core idea: **fill animal names into the Prompt Template below, send it to an AI, paste the output into `animal_source.json`, and run a script to download images.**
+数据采用 **一物一文件** 架构：每只动物对应 `data/animals/[id].json`。  
+添加新动物的流程：**用 AI 生成 JSON 数组 → 粘贴到草稿箱 `_draft_animals.json` → 运行导入脚本 → 运行图片下载脚本**。
+
+---
+
+## 数据与脚本位置
+
+| 路径 | 说明 |
+|------|------|
+| `data/animals/*.json` | 正式数据，一物一文件；前端从这里读取 |
+| `_draft_animals.json` | 草稿箱，粘贴 AI 生成的 JSON 数组，导入后会被自动清空 |
+| `import_animals.js` | 将草稿箱中的动物写入 `data/animals/`，并清空草稿箱 |
+| `download_images.js` | 为 `data/animals/` 中缺少图片的动物下载图片并写回对应 JSON |
+| `update_animals_list.js` | 根据 `data/animals/` 生成根目录 **ANIMALS_LIST.md**（按纲/目/科分类的动物清单，便于追踪） |
 
 ---
 
@@ -73,7 +86,8 @@ Task: Generate a JSON **array** of animal objects for the animals listed below. 
     "text_en": "Short habitat label in English",
     "text_zh": "栖息地短标签（中文）",
     "map_coordinates": [latitude, longitude],
-    "map_zoom_level": 5
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [[[lng, lat], ...]]
   },
   "image": null
 }
@@ -83,11 +97,11 @@ Rules:
 1. `id` must be lowercase-kebab-case of the English name (e.g., "Arctic Fox" → "arctic-fox").
 2. `ui_tags` should contain 3 tags: [Class, Habitat-type, Diet-type]. Use existing tags when possible: Mammal, Bird, Reptile, Amphibian, Fish, Grassland, Forest, Mountains, Ocean, River, Desert, Tundra, Wetland, Herbivore, Carnivore, Omnivore, Insectivore.
 3. `taxonomy` must use accurate biological classification from Wikipedia/ITIS. Each level is `{"en": "...", "zh": "..."}`.
-4. `conservation_status.code` must be one of: LC, NT, VU, EN, CR (IUCN Red List).
-5. `map_coordinates` should be [latitude, longitude] of a representative location (famous national park, primary habitat center, etc.). `map_zoom_level` is typically 4-7.
-6. `encyclopedia` text must be factually accurate, based on Wikipedia-level knowledge, but written for a 9-year-old reader. Keep sentences short and vivid.
+4. `conservation_status.code` must be one of: LC, NT, VU, EN, CR, DD (IUCN Red List).
+5. `map_coordinates` should be [latitude, longitude]. `global_distribution_polygons` is an array of polygons, each polygon an array of [lat, lng] points (optional but recommended for map display).
+6. `encyclopedia` text must be factually accurate, written for a 9-year-old reader.
 7. `image` should always be `null` (we download images separately).
-8. Do NOT use curly/smart quotes in any text. For Chinese text needing quotation marks inside JSON strings, use 「」 (U+300C/U+300D).
+8. Do NOT use curly/smart quotes. For Chinese quotation marks inside JSON strings, use 「」 (U+300C/U+300D).
 9. Output ONLY the raw JSON array. No markdown fencing, no commentary.
 
 [ANIMAL LIST]:
@@ -98,58 +112,63 @@ Rules:
 
 ### Example: Adding 3 Animals at Once
 
-Replace `[ANIMAL LIST]` with:
-
-```
-[ANIMAL LIST]:
-- Arctic Fox / 北极狐 / Vulpes lagopus
-- Emperor Penguin / 帝企鹅 / Aptenodytes forsteri
-- Red Panda / 小熊猫 / Ailurus fulgens
-```
-
-If you only know the English name, that's fine too:
-
-```
-[ANIMAL LIST]:
-- Komodo Dragon
-- Blue Whale
-- Snow Leopard
-```
-
-The AI will fill in the Chinese name and scientific name automatically.
+Replace `[ANIMAL LIST]` with your list. If you only know the English name, the AI can fill in Chinese and scientific name.
 
 ---
 
-## Step 3: Insert into animal_source.json
+## Step 3: 粘贴到草稿箱并导入
 
-1. Open `animal_source.json` in your editor.
-2. The file is a JSON array `[ ... ]`. Paste the new objects **before the closing `]`**, separated by commas.
-3. Or, ask the AI in Cursor: "Please merge these new animals into animal_source.json."
+1. 打开项目根目录下的 **`_draft_animals.json`**。
+2. 将 AI 输出的 **纯 JSON 数组** 粘贴进去，替换原有内容（或合并到现有数组末尾）。确保是合法 JSON，例如 `[{ ... }, { ... }]`。
+3. 在终端执行：
+
+```bash
+node import_animals.js
+```
+
+脚本会：
+- 读取 `_draft_animals.json` 中的数组；
+- 将每个动物写入/覆盖到 `data/animals/[id].json`；
+- **导入完成后自动把 `_draft_animals.json` 清空为 `[]`**，方便下次粘贴。
+
+若草稿箱为空，脚本会提示并直接退出。
 
 ---
 
 ## Step 4: Download Images
 
-Open a new terminal and run:
+在终端执行：
 
 ```bash
 node download_images.js
 ```
 
-This script will:
-- Find any animal with `"image": null`
-- Download a photo from **iNaturalist** (using the scientific name) or **Wikipedia**
-- Save it to `public/images/animals/{id}.jpg`
-- Update the `image` field in `animal_source.json`
+脚本会：
+- 读取 **`data/animals/`** 目录下的所有 `.json` 文件；
+- 对 `image` 为空且本地尚无 `public/images/animals/[id].jpg` 的动物，从 **iNaturalist**（学名）或 **Wikipedia**（英文名）下载图片；
+- 将图片保存到 `public/images/animals/[id].jpg`，并更新对应 `data/animals/[id].json` 中的 `image` 字段。
+
+已有图片的动物会被跳过，不会覆盖。
 
 ---
 
-## Step 5: Verify
+## Step 5: 更新动物清单（可选）
 
-1. Run `npm run dev` (or it may already be running).
-2. Open `http://localhost:3000` in your browser.
-3. Check that the new animal cards appear on the dashboard.
-4. Click a card to verify the detail page: taxonomy breadcrumbs, encyclopedia tabs, and map.
+在根目录执行：
+
+```bash
+node update_animals_list.js
+```
+
+会刷新根目录的 **ANIMALS_LIST.md**，按纲 → 目 → 科列出所有已收录动物，便于追踪和避免重复添加。
+
+---
+
+## Step 6: Verify
+
+1. 运行 `npm run dev`（若已在运行可忽略）。
+2. 打开 `http://localhost:3000`，确认新动物卡片出现在首页。
+3. 点进详情页检查：分类面包屑、百科 Tab、地图是否正常。
 
 ---
 
@@ -160,7 +179,7 @@ This script will:
 | `id` | string | Unique kebab-case identifier |
 | `name_en` | string | English common name |
 | `name_zh` | string | Chinese common name |
-| `scientific_name` | string | Binomial nomenclature (italicized in UI) |
+| `scientific_name` | string | Binomial nomenclature |
 | `ui_tags` | string[] | 3 tags: [Class, Habitat, Diet] |
 | `taxonomy` | object | 6 levels: kingdom → genus, each bilingual |
 | `conservation_status` | object | IUCN code + bilingual label |
@@ -171,7 +190,8 @@ This script will:
 | `habitat.text_en` / `text_zh` | string | Short habitat label |
 | `habitat.map_coordinates` | [lat, lng] | Representative GPS point |
 | `habitat.map_zoom_level` | number | Leaflet zoom (4-7 typical) |
-| `image` | string \| null | Local path after download, null before |
+| `habitat.global_distribution_polygons` | number[][][] | Optional; for distribution map |
+| `image` | string \| null | Set by download script; use null in draft |
 
 ---
 
@@ -184,12 +204,13 @@ This script will:
 | VU | Vulnerable | 易危 | Amber |
 | EN | Endangered | 濒危 | Orange |
 | CR | Critically Endangered | 极危 | Red |
+| DD | Data Deficient | 数据缺乏 | Gray |
 
 ---
 
 ## Tips
 
-- **Batch adding**: You can add up to 20 animals at once in a single prompt. For larger batches (50+), split into groups of 15-20 to avoid output truncation.
-- **Accuracy check**: The AI's taxonomy and IUCN status are generally accurate but worth a quick Wikipedia cross-check for rare species.
-- **Image fallback**: If `download_images.js` can't find a photo, the card will show a paw-print placeholder. You can manually save a `.jpg` to `public/images/animals/{id}.jpg` and update the JSON.
-- **Custom tags**: If none of the existing `ui_tags` fit, feel free to create new ones. The UI will render them in a default gray style.
+- **批量添加**：单次可生成 15–20 只动物，避免 AI 截断。更多数量可分批生成、多次粘贴并执行 `import_animals.js`。
+- **草稿箱**：每次导入后草稿箱会自动清空，如需保留副本请事先另存。
+- **图片**：若下载脚本未找到图片，卡片会显示爪印占位；可手动将 `.jpg` 放到 `public/images/animals/[id].jpg`，并在 `data/animals/[id].json` 中设置 `"image": "/images/animals/[id].jpg"`。
+- **新标签**：若现有 `ui_tags` 不够用，可新增；UI 会以默认样式显示。

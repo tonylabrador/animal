@@ -1,0 +1,94 @@
+{
+  "id": "american-alligator",
+  "name_zh": "美洲短吻鳄",
+  "name_en": "American Alligator",
+  "scientific_name": "Alligator mississippiensis",
+  "ui_tags": [
+    "Reptile",
+    "Wetland",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Crocodilia",
+      "zh": "鳄目"
+    },
+    "family": {
+      "en": "Alligatoridae",
+      "zh": "短吻鳄科"
+    },
+    "genus": {
+      "en": "Alligator",
+      "zh": "短吻鳄属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A large crocodilian endemic to the southeastern United States, known for its broad, rounded snout.",
+    "zh": "美国东南部特有的大型鳄类，以其宽阔圆润的吻部而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "American alligators are living tanks that have survived since the time of the dinosaurs! They are dark almost-black reptiles that can grow up to 15 feet long. You can tell them apart from crocodiles by their nose: alligators have a wide, U-shaped snout, and when their mouth is closed, you can't see their bottom teeth.",
+      "zh": "美洲短吻鳄是从恐龙时代存活至今的活体坦克！它们是深色、几乎是黑色的爬行动物，体长可达15英尺。你可以通过它们的鼻子把它们和鳄鱼区分开来：短吻鳄有宽阔的U形吻部，而且当它们闭上嘴时，你是看不到它们下排牙齿的。"
+    },
+    "ecology_and_behavior": {
+      "en": "These gators are excellent ecosystem engineers. They use their tails and snouts to dig deep holes called 'gator holes' that hold water during dry seasons, providing a lifeline for fish, turtles, and birds. You can often see them lying completely still on the muddy banks with their mouths wide open to cool down in the hot sun.",
+      "zh": "这些短吻鳄是出色的生态系统工程师。它们用尾巴和鼻子挖出被称为‘鳄鱼坑’的深坑，在旱季这些坑里会蓄水，为鱼类、海龟和鸟类提供生命线。你经常可以看到它们完全一动不动地躺在泥泞的河岸上，张开大嘴在烈日下乘凉。"
+    },
+    "habitat_and_distribution": {
+      "en": "They live exclusively in the southeastern United States, especially in Florida and Louisiana. They love freshwater habitats like slow-moving rivers, swamps, marshes, and lakes. Sometimes they even show up in people's swimming pools or on golf courses!",
+      "zh": "它们只生活在美国东南部，特别是在佛罗里达州和路易斯安那州。它们喜欢淡水栖息地，比如水流缓慢的河流、沼泽、湿地和湖泊。有时它们甚至会出现在人们的游泳池或高尔夫球场上！"
+    }
+  },
+  "habitat": {
+    "text_en": "Freshwater swamps, marshes, and rivers in the southeastern US",
+    "text_zh": "美国东南部的淡水沼泽、湿地和河流",
+    "map_coordinates": [
+      29,
+      -82
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          35,
+          -75
+        ],
+        [
+          35,
+          -95
+        ],
+        [
+          25,
+          -100
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          35,
+          -75
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/american-alligator.jpg"
+}

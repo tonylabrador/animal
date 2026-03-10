@@ -1,0 +1,120 @@
+{
+  "id": "white-rhinoceros",
+  "name_zh": "白犀牛",
+  "name_en": "White Rhinoceros",
+  "scientific_name": "Ceratotherium simum",
+  "ui_tags": [
+    "Mammal",
+    "Savanna",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Perissodactyla",
+      "zh": "奇蹄目"
+    },
+    "family": {
+      "en": "Rhinocerotidae",
+      "zh": "犀科"
+    },
+    "genus": {
+      "en": "Ceratotherium",
+      "zh": "白犀属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "The largest rhinoceros species, known for its wide mouth adapted for grazing and its two massive horns.",
+    "zh": "体型最大的犀牛物种，以其适合吃草的宽大嘴巴和两根巨大的犀角而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The white rhinoceros is a living tank! After the elephant, it is the second-largest land mammal, weighing up to 2,300 kilograms. It has a large, square-shaped mouth designed for cropping grass like a lawnmower. On its snout, it carries two huge horns made of keratin—the exact same stuff our fingernails and hair are made of.",
+      "zh": "白犀牛就是一辆活体坦克！它是仅次于大象的第二大陸地哺乳动物，体重可达2300公斤。它有一个宽大的方形嘴巴，专成像割草机一样用来啃食地上的草。在它的鼻子上长着两根由角蛋白组成的巨大犀角——这和我们人类指甲和头发的成分完全一样。"
+    },
+    "ecology_and_behavior": {
+      "en": "Despite their tough appearance and huge horns, white rhinos are gentle giants that just want to eat grass in peace. They have poor eyesight but excellent hearing and a great sense of smell. To protect their sensitive skin from sunburn and annoying bug bites, they love to roll around and cover themselves completely in cool mud.",
+      "zh": "尽管它们外表强悍且长着巨大的角，白犀牛其实是温和的庞然大物，只想安静地吃草。它们视力很差，但听觉极佳，嗅觉也非常灵敏。为了保护敏感的皮肤不被晒伤和被讨厌的虫子叮咬，它们非常喜欢在凉爽的泥浆里打滚，把自己全身涂满泥巴。"
+    },
+    "habitat_and_distribution": {
+      "en": "White rhinos live in the grassy plains and savannas of Africa. The vast majority of them live in Southern Africa, particularly in South Africa, Namibia, and Zimbabwe. Sadly, they are heavily targeted by poachers who illegally hunt them just to steal their horns.",
+      "zh": "白犀牛生活在非洲的平原和稀树草原上。绝大多数生活在非洲南部，特别是南非、纳米比亚和津巴布韦。遗憾的是，它们经常成为盗猎者的目标，这些人非法猎杀它们仅仅是为了偷取犀牛角。"
+    }
+  },
+  "habitat": {
+    "text_en": "Grasslands and savannas of Southern and Eastern Africa",
+    "text_zh": "非洲南部和东部的草原与稀树草原",
+    "map_coordinates": [
+      -25,
+      25
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -15,
+          15
+        ],
+        [
+          -15,
+          35
+        ],
+        [
+          -25,
+          40
+        ],
+        [
+          -35,
+          30
+        ],
+        [
+          -30,
+          15
+        ],
+        [
+          -15,
+          15
+        ]
+      ],
+      [
+        [
+          5,
+          30
+        ],
+        [
+          5,
+          35
+        ],
+        [
+          0,
+          35
+        ],
+        [
+          0,
+          30
+        ],
+        [
+          5,
+          30
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/white-rhinoceros.jpg"
+}

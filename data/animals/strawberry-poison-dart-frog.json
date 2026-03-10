@@ -1,0 +1,94 @@
+{
+  "id": "strawberry-poison-dart-frog",
+  "name_zh": "草莓箭毒蛙",
+  "name_en": "Strawberry Poison Dart Frog",
+  "scientific_name": "Oophaga pumilio",
+  "ui_tags": [
+    "Amphibian",
+    "Rainforest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Amphibia",
+      "zh": "两栖纲"
+    },
+    "order": {
+      "en": "Anura",
+      "zh": "无尾目"
+    },
+    "family": {
+      "en": "Dendrobatidae",
+      "zh": "箭毒蛙科"
+    },
+    "genus": {
+      "en": "Oophaga",
+      "zh": "食卵蛙属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A tiny, brightly colored amphibian known for its striking red body and blue 'jeans'.",
+    "zh": "一种微小、色彩鲜艳的两栖动物，以醒目的红色身体和蓝色的“牛仔裤”而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The strawberry poison dart frog is tiny—about the size of your thumbnail! The most famous version of this frog is bright strawberry-red with dark blue legs, making it look like it's wearing a pair of blue jeans! Their neon colors warn predators that they are highly toxic.",
+      "zh": "草莓箭毒蛙非常小——大约只有你的大拇指指甲盖那么大！这种青蛙最著名的版本是鲜艳的草莓红色加上深蓝色的腿，看起来就像穿了一条蓝色牛仔裤！它们的霓虹色警告捕食者它们具有剧毒。"
+    },
+    "ecology_and_behavior": {
+      "en": "These tiny frogs get their poison by eating toxic ants and mites. But the coolest thing about them is how they act as parents! After the tadpoles hatch, the mother frog carries them on her back one by one, climbing high into the trees. She puts each baby in a tiny pool of water inside a flower and feeds them unfertilized eggs until they grow into frogs.",
+      "zh": "这些小青蛙通过吃有毒的蚂蚁和螨虫来获取毒素。但它们最酷的地方在于它们如何为人父母！蝌蚪孵化后，青蛙妈妈把它们一只接一只背在背上，爬到高高的树上。她把每个宝宝放在一朵花里的小水坑中，并喂它们未受精的卵，直到它们长成青蛙。"
+    },
+    "habitat_and_distribution": {
+      "en": "If you want to find them, look down! They live in the humid leaf litter on the floor of tropical rainforests in Central America, mostly in countries like Costa Rica, Nicaragua, and Panama.",
+      "zh": "如果你想找到它们，就往下看！它们生活在中美洲（主要在哥斯达黎加、尼加拉瓜和巴拿马等国家）热带雨林地面潮湿的落叶层中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Humid lowland rainforests of Central America",
+    "text_zh": "中美洲潮湿的低地热带雨林",
+    "map_coordinates": [
+      10,
+      -84
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          -88
+        ],
+        [
+          15,
+          -83
+        ],
+        [
+          8,
+          -78
+        ],
+        [
+          8,
+          -83
+        ],
+        [
+          15,
+          -88
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/strawberry-poison-dart-frog.jpg"
+}

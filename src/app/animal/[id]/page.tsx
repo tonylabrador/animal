@@ -1,21 +1,18 @@
 import { notFound } from "next/navigation";
 import AnimalDetail from "@/components/AnimalDetail";
-import animalsData from "../../../../animal_source.json";
-import type { Animal } from "@/types/animal";
-
-const animals = animalsData as Animal[];
+import { getAnimals, getAnimalById } from "@/lib/getAnimals";
 
 interface PageProps {
   params: Promise<{ id: string }>;
 }
 
 export function generateStaticParams() {
-  return animals.map((a) => ({ id: a.id }));
+  return getAnimals().map((a) => ({ id: a.id }));
 }
 
 export async function generateMetadata({ params }: PageProps) {
   const { id } = await params;
-  const animal = animals.find((a) => a.id === id);
+  const animal = getAnimalById(id);
   if (!animal) return { title: "Not Found" };
   return {
     title: `${animal.name_en} · Wild Explorer`,
@@ -25,7 +22,7 @@ export async function generateMetadata({ params }: PageProps) {
 
 export default async function AnimalPage({ params }: PageProps) {
   const { id } = await params;
-  const animal = animals.find((a) => a.id === id);
+  const animal = getAnimalById(id);
   if (!animal) notFound();
 
   return <AnimalDetail animal={animal} />;

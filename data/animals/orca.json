@@ -1,0 +1,126 @@
+{
+  "id": "orca",
+  "name_zh": "虎鲸",
+  "name_en": "Orca",
+  "scientific_name": "Orcinus orca",
+  "ui_tags": [
+    "Mammal",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Cetacea",
+      "zh": "鲸目"
+    },
+    "family": {
+      "en": "Delphinidae",
+      "zh": "海豚科"
+    },
+    "genus": {
+      "en": "Orcinus",
+      "zh": "虎鲸属"
+    }
+  },
+  "conservation_status": {
+    "code": "DD",
+    "en": "Data Deficient",
+    "zh": "数据缺乏"
+  },
+  "description": {
+    "en": "The orca, also known as the killer whale, is a highly intelligent toothed whale and the largest member of the oceanic dolphin family.",
+    "zh": "虎鲸也被称为杀人鲸，是一种高度聪明的齿鲸，也是海洋海豚科中体型最大的成员。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Orcas have a very famous black back, a white chest, and a white patch above and behind their eyes. Male orcas have a huge dorsal fin on their back that can stand up to 6 feet tall! They have a sleek, torpedo-like body covered in a thick layer of fat called blubber to stay warm.",
+      "zh": "虎鲸拥有非常著名的黑色背部、白色胸部，以及眼睛后上方的一块白色斑块。雄性虎鲸背部有一个巨大的背鳍，可以高达6英尺！它们拥有流线型的鱼雷状身体，表面覆盖着一层被称为鲸脂的厚脂肪以保持温暖。"
+    },
+    "ecology_and_behavior": {
+      "en": "Often called the 'wolves of the sea,' orcas are apex predators, meaning nothing else hunts them. They live in tight family groups called pods and are incredibly smart. They work together to hunt anything from fish and penguins to seals and even large whales. Each family pod speaks its own unique language of clicks and whistles.",
+      "zh": "虎鲸常被称为「海中之狼」，它们是顶级捕食者，这意味着没有任何动物会捕杀它们。它们生活在被称为「社群」的紧密家庭群体中，非常聪明。它们合作捕猎，从鱼类、企鹅到海豹甚至大型鲸鱼。每个家庭社群都说着自己独有的点击声和口哨声语言。"
+    },
+    "habitat_and_distribution": {
+      "en": "Orcas are one of the most widely distributed mammals in the world. They can be found in every ocean on Earth, from the freezing icy waters of the Arctic and Antarctica to warm tropical seas, though they prefer colder coastal areas.",
+      "zh": "虎鲸是世界上分布最广的哺乳动物之一。地球上的每一个大洋里都能找到它们的身影，从北极和南极极其寒冷的冰水域到温暖的热带海洋，尽管它们更喜欢寒冷的沿海地区。"
+    }
+  },
+  "habitat": {
+    "text_en": "Global Oceans, heavily concentrated in coastal high latitudes",
+    "text_zh": "全球海洋，高度集中在高纬度沿海地区",
+    "map_coordinates": [
+      48.5,
+      -125
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          65,
+          -160
+        ],
+        [
+          55,
+          -135
+        ],
+        [
+          40,
+          -125
+        ],
+        [
+          30,
+          -120
+        ],
+        [
+          20,
+          -110
+        ],
+        [
+          -10,
+          -85
+        ],
+        [
+          -40,
+          -70
+        ],
+        [
+          -60,
+          -60
+        ],
+        [
+          -70,
+          -100
+        ],
+        [
+          -50,
+          -150
+        ],
+        [
+          -20,
+          -160
+        ],
+        [
+          20,
+          -170
+        ],
+        [
+          65,
+          -160
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/orca.jpg"
+}

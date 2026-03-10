@@ -1,0 +1,106 @@
+{
+  "id": "plains-zebra",
+  "name_zh": "平原斑马",
+  "name_en": "Plains Zebra",
+  "scientific_name": "Equus quagga",
+  "ui_tags": [
+    "Mammal",
+    "Savanna",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Perissodactyla",
+      "zh": "奇蹄目"
+    },
+    "family": {
+      "en": "Equidae",
+      "zh": "马科"
+    },
+    "genus": {
+      "en": "Equus",
+      "zh": "马属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "Plains zebras are horse-like animals famous for their black-and-white striped coats.",
+    "zh": "平原斑马是长得像马的动物，以它们黑白相间的条纹外套而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Zebras look a lot like horses but are slightly smaller and stockier. Their most famous feature is their black and white stripes. Just like human fingerprints, no two zebras have the exact same stripe pattern! The stripes help confuse predators and keep away biting flies.",
+      "zh": "斑马长得很像马，但稍微小一点、粗壮一点。它们最著名的特征就是黑白相间的条纹。就像人类的指纹一样，没有两只斑马的条纹图案是完全相同的！这些条纹有助于迷惑捕食者，还能驱赶咬人的苍蝇。"
+    },
+    "ecology_and_behavior": {
+      "en": "Zebras are grazers that spend most of their day eating tough savanna grasses. They are highly social and live in small family groups, which often join together to form massive herds. When resting, they usually stand next to each other facing opposite directions so they can watch out for danger from all sides.",
+      "zh": "斑马是食草动物，一天中大部分时间都在吃坚硬的草原草。它们非常合群，生活在小家庭中，这些家庭经常聚在一起形成巨大的兽群。休息时，它们通常并排站着，面朝相反的方向，这样就能观察四面八方的危险。"
+    },
+    "habitat_and_distribution": {
+      "en": "Plains zebras are the most common wild horses in the world. They live across the grasslands, savannas, and lightly wooded areas of eastern and southern Africa. Every year, huge numbers of zebras travel long distances across the Serengeti in search of fresh grass and water.",
+      "zh": "平原斑马是世界上最常见的野马。它们分布在非洲东部和南部的草原、稀树草原和树木稀疏的地区。每年都有大量的斑马在塞伦盖蒂进行长途迁徙，寻找新鲜的草和水。"
+    }
+  },
+  "habitat": {
+    "text_en": "Grasslands of Eastern and Southern Africa",
+    "text_zh": "非洲东南部草原",
+    "map_coordinates": [
+      -3,
+      34.5
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          5,
+          35
+        ],
+        [
+          5,
+          45
+        ],
+        [
+          -10,
+          40
+        ],
+        [
+          -25,
+          32
+        ],
+        [
+          -30,
+          25
+        ],
+        [
+          -20,
+          15
+        ],
+        [
+          -5,
+          30
+        ],
+        [
+          5,
+          35
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/plains-zebra.jpg"
+}

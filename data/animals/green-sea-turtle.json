@@ -1,0 +1,126 @@
+{
+  "id": "green-sea-turtle",
+  "name_zh": "绿海龟",
+  "name_en": "Green Sea Turtle",
+  "scientific_name": "Chelonia mydas",
+  "ui_tags": [
+    "Reptile",
+    "Ocean",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Testudines",
+      "zh": "龟鳖目"
+    },
+    "family": {
+      "en": "Cheloniidae",
+      "zh": "海龟科"
+    },
+    "genus": {
+      "en": "Chelonia",
+      "zh": "海龟属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The green sea turtle is an endangered marine reptile that undertakes long migrations between feeding grounds and hatching beaches.",
+    "zh": "绿海龟是一种濒危的海洋爬行动物，在觅食地和孵化海滩之间进行长途迁徙。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Green sea turtles have a smooth, teardrop-shaped shell that makes them excellent swimmers. Unlike cartoon turtles, sea turtles cannot pull their heads and flippers inside their shells. Their name is actually a secret—they are named 'green' because of the green fat hidden beneath their shell, not the color of the shell itself!",
+      "zh": "绿海龟有一个光滑的水滴状外壳，使它们成为出色的游泳者。不像卡通里的乌龟，海龟不能把头和鳍缩进壳里。它们的名字其实是一个秘密——它们被称为「绿」海龟是因为藏在壳下的绿色脂肪，而不是壳本身的颜色！"
+    },
+    "ecology_and_behavior": {
+      "en": "While baby sea turtles might eat bugs and jellyfish, adult green sea turtles are vegetarians! They spend their days peacefully grazing on underwater meadows of sea grass. When a mother turtle is ready to lay eggs, she uses Earth's magnetic field to navigate thousands of miles back to the exact beach where she hatched as a baby.",
+      "zh": "虽然小海龟可能会吃虫子和水母，但成年的绿海龟是素食主义者！它们平静地在水下海草甸上吃草度日。当海龟妈妈准备产卵时，她会利用地球磁场导航数千英里，准确地回到她小时候破壳而出的那片海滩。"
+    },
+    "habitat_and_distribution": {
+      "en": "They glide through the warm, shallow coastal waters and coral reefs of the Atlantic, Pacific, and Indian Oceans. Sadly, they are in danger because their nesting beaches are being destroyed and they accidentally get caught in fishing nets.",
+      "zh": "它们在穿越大西洋、太平洋和印度洋温暖、浅水沿岸水域和珊瑚礁时滑翔。不幸的是，因为它们筑巢的海滩被破坏，并且偶尔会被渔网缠住，它们正处于危险之中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical and subtropical coastal waters, seagrass beds",
+    "text_zh": "热带和亚热带沿海水域，海草床",
+    "map_coordinates": [
+      20,
+      -85
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          35,
+          -120
+        ],
+        [
+          30,
+          -75
+        ],
+        [
+          40,
+          -50
+        ],
+        [
+          30,
+          0
+        ],
+        [
+          20,
+          50
+        ],
+        [
+          30,
+          120
+        ],
+        [
+          10,
+          150
+        ],
+        [
+          -20,
+          150
+        ],
+        [
+          -30,
+          50
+        ],
+        [
+          -35,
+          -50
+        ],
+        [
+          -30,
+          -90
+        ],
+        [
+          -10,
+          -120
+        ],
+        [
+          35,
+          -120
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/green-sea-turtle.jpg"
+}

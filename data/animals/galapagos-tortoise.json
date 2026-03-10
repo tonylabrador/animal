@@ -1,0 +1,94 @@
+{
+  "id": "galapagos-tortoise",
+  "name_zh": "加拉帕戈斯象龟",
+  "name_en": "Galapagos Tortoise",
+  "scientific_name": "Chelonoidis niger",
+  "ui_tags": [
+    "Reptile",
+    "Grassland",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Testudines",
+      "zh": "龟鳖目"
+    },
+    "family": {
+      "en": "Testudinidae",
+      "zh": "陆龟科"
+    },
+    "genus": {
+      "en": "Chelonoidis",
+      "zh": "南美象龟属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "Giant, slow-moving tortoises that can live for over a century, found only on the Galapagos Islands.",
+    "zh": "巨大而缓慢移动的陆龟，寿命可超过一个世纪，仅在加拉帕戈斯群岛上被发现。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "These are the biggest tortoises on the planet! A male Galapagos tortoise can weigh over 900 pounds (400 kg) and measure 6 feet long. Some have rounded, dome-shaped shells, while others have shells that peak up at the front like a saddle, allowing them to stretch their long, scaly necks up high to reach leaves.",
+      "zh": "这些是地球上最大的陆龟！一只雄性加拉帕戈斯象龟重达900多磅（400公斤），身长6英尺。有些有圆圆的圆顶状龟壳，有些的龟壳前面像马鞍一样翘起，这让它们能伸长满是鳞片的脖子去够高处的树叶。"
+    },
+    "ecology_and_behavior": {
+      "en": "Galapagos tortoises are peaceful vegetarians that spend their days eating cactus, grass, and leaves, and napping in the sun. They move extremely slowly, walking only about 0.16 miles per hour! But they have an amazing superpower: they can survive up to a whole year without eating any food or drinking any water.",
+      "zh": "加拉帕戈斯象龟是和平的素食者，它们每天吃仙人掌、草和树叶，并在阳光下打盹。它们走得极其缓慢，每小时只走大约0.16英里！但它们有一种惊人的超能力：它们可以长达整整一年不吃任何食物也不喝一滴水。"
+    },
+    "habitat_and_distribution": {
+      "en": "These living dinosaurs are found nowhere else on Earth except the volcanic Galapagos Islands, far off the coast of Ecuador in South America. They famously helped the scientist Charles Darwin develop his theory of evolution!",
+      "zh": "除了南美洲厄瓜多尔海岸外火山形成的加拉帕戈斯群岛，地球上其他任何地方都找不到这些活恐龙。著名的科学家查尔斯·达尔文正是在它们的启发下提出了进化论！"
+    }
+  },
+  "habitat": {
+    "text_en": "Volcanic islands of the Galapagos",
+    "text_zh": "加拉帕戈斯火山群岛",
+    "map_coordinates": [
+      -0.6,
+      -90.5
+    ],
+    "map_zoom_level": 7,
+    "global_distribution_polygons": [
+      [
+        [
+          1,
+          -92
+        ],
+        [
+          1,
+          -89
+        ],
+        [
+          -2,
+          -89
+        ],
+        [
+          -2,
+          -92
+        ],
+        [
+          1,
+          -92
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/galapagos-tortoise.jpg"
+}

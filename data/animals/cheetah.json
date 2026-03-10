@@ -1,0 +1,110 @@
+{
+  "id": "cheetah",
+  "name_zh": "猎豹",
+  "name_en": "Cheetah",
+  "scientific_name": "Acinonyx jubatus",
+  "ui_tags": [
+    "Mammal",
+    "Savanna",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Felidae",
+      "zh": "猫科"
+    },
+    "genus": {
+      "en": "Acinonyx",
+      "zh": "猎豹属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The cheetah is the fastest land animal on Earth, capable of reaching highway speeds in just a few seconds.",
+    "zh": "猎豹是地球上跑得最快的陆地动物，能在几秒钟内达到高速公路上的行驶速度。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Cheetahs are built for extreme speed. They have a slim body, a flexible spine, and long, thin legs. Their fur is covered in solid black spots, and they have distinct black 'tear marks' running from their eyes down to their mouth, which help block the glare of the sun.",
+      "zh": "猎豹天生就是为了极速而生的。它们有苗条的身体、灵活的脊椎和细长的腿。它们的皮毛上布满了纯黑色的斑点，从眼睛到嘴巴有明显的黑色“泪痕”，这有助于遮挡太阳的刺眼光线。"
+    },
+    "ecology_and_behavior": {
+      "en": "Cheetahs hunt during the day to avoid competing with lions and leopards. Instead of sneaking up close, they rely on short, explosive sprints to chase down prey like gazelles, reaching speeds of up to 110 kilometers per hour! After a fast run, they need to rest to catch their breath.",
+      "zh": "猎豹在白天狩猎，以避免与狮子和豹子竞争。它们不靠偷偷靠近，而是依靠短暂爆发性的冲刺来追捕瞪羚等猎物，速度可达每小时110公里！快速奔跑后，它们需要休息来喘口气。"
+    },
+    "habitat_and_distribution": {
+      "en": "They mainly live in the wide, open savannas and dry areas of Sub-Saharan Africa, with a very small number found in Iran. They need wide open spaces so they can use their super speed without crashing into trees or bushes.",
+      "zh": "它们主要生活在撒哈拉以南非洲广阔的稀树草原和干燥地区，在伊朗也能找到极少数量的个体。它们需要广阔的开阔地带，这样才能施展它们的超级速度而不会撞到树木或灌木丛上。"
+    }
+  },
+  "habitat": {
+    "text_en": "Open savannas of Africa",
+    "text_zh": "非洲开阔稀树草原",
+    "map_coordinates": [
+      -1.5,
+      35
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          -15
+        ],
+        [
+          15,
+          30
+        ],
+        [
+          5,
+          45
+        ],
+        [
+          -15,
+          35
+        ],
+        [
+          -25,
+          30
+        ],
+        [
+          -25,
+          15
+        ],
+        [
+          -10,
+          10
+        ],
+        [
+          5,
+          -5
+        ],
+        [
+          15,
+          -15
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/cheetah.jpg"
+}

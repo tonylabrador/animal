@@ -1,0 +1,118 @@
+{
+  "id": "blue-whale",
+  "name_zh": "蓝鲸",
+  "name_en": "Blue Whale",
+  "scientific_name": "Balaenoptera musculus",
+  "ui_tags": [
+    "Mammal",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Cetacea",
+      "zh": "鲸目"
+    },
+    "family": {
+      "en": "Balaenopteridae",
+      "zh": "须鲸科"
+    },
+    "genus": {
+      "en": "Balaenoptera",
+      "zh": "须鲸属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The blue whale is a marine mammal and the largest animal known to have ever existed on Earth, relying on baleen plates to filter feed.",
+    "zh": "蓝鲸是一种海洋哺乳动物，也是已知地球上生存过的体型最大的动物，依靠鲸须板进行过滤进食。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Blue whales are true ocean giants! They can grow up to 100 feet long and weigh as much as 33 elephants. A blue whale's heart is about the size of a small car, and its tongue weighs as much as an entire elephant. Instead of sharp teeth, they have giant fringed plates called baleen hanging from their upper jaws.",
+      "zh": "蓝鲸是真正的海洋巨无霸！它们可以长达100英尺，体重相当于33头大象的总和。蓝鲸的心脏大约有一辆小汽车那么大，而它的舌头和大象一样重。它们没有锋利的牙齿，上颚悬挂着巨大的边缘带有流苏的鲸须板。"
+    },
+    "ecology_and_behavior": {
+      "en": "Despite being the biggest creatures on the planet, blue whales survive by eating some of the smallest animals: tiny shrimp-like creatures called krill. A single blue whale can eat up to 4 tons of krill a day! They are also incredibly loud, communicating through deep, low-frequency rumbles that can travel for thousands of miles underwater.",
+      "zh": "尽管是地球上最大的生物，蓝鲸却靠吃最小的动物生存：一种叫做磷虾的微小虾类。一只蓝鲸一天能吃掉多达4吨的磷虾！它们的声音也大得惊人，通过深沉的低频隆隆声进行交流，这种声音在水下可以传播数千英里。"
+    },
+    "habitat_and_distribution": {
+      "en": "Blue whales roam almost all of the world's deep oceans. During the summer, they travel to the cold, icy waters near the North and South Poles where food is abundant. In the winter, they migrate thousands of miles to warmer tropical waters to give birth to their giant babies.",
+      "zh": "蓝鲸游弋在世界各地几乎所有的深海大洋中。在夏天，它们前往南北极附近食物丰富的寒冷冰雪水域。到了冬天，它们会游行数千英里迁徙到温暖的热带水域，在那里生下巨大的鲸鱼宝宝。"
+    }
+  },
+  "habitat": {
+    "text_en": "Global Oceans, polar feeding grounds to tropical breeding grounds",
+    "text_zh": "全球各大洋，从极地觅食区到热带繁殖区",
+    "map_coordinates": [
+      0,
+      -120
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          55,
+          -160
+        ],
+        [
+          50,
+          -135
+        ],
+        [
+          30,
+          -120
+        ],
+        [
+          10,
+          -90
+        ],
+        [
+          -10,
+          -85
+        ],
+        [
+          -40,
+          -95
+        ],
+        [
+          -65,
+          -150
+        ],
+        [
+          -60,
+          170
+        ],
+        [
+          -30,
+          180
+        ],
+        [
+          10,
+          -170
+        ],
+        [
+          55,
+          -160
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/blue-whale.jpg"
+}

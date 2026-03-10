@@ -1,0 +1,106 @@
+{
+  "id": "common-vampire-bat",
+  "name_zh": "吸血蝠",
+  "name_en": "Common Vampire Bat",
+  "scientific_name": "Desmodus rotundus",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Chiroptera",
+      "zh": "翼手目"
+    },
+    "family": {
+      "en": "Phyllostomidae",
+      "zh": "叶口蝠科"
+    },
+    "genus": {
+      "en": "Desmodus",
+      "zh": "吸血蝠属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The only mammal in the world that feeds entirely on blood, relying on stealth to bite sleeping animals.",
+    "zh": "世界上唯一完全以血液为食的哺乳动物，依靠隐秘行动咬食熟睡的动物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The common vampire bat is surprisingly small, easily fitting in the palm of your hand. It has a pushed-in face like a pug dog and razor-sharp, triangular front teeth. Unlike most bats that only fly, vampire bats have very strong front arms and long thumbs that let them walk, run, and hop on the ground like a toad!",
+      "zh": "普通的吸血蝠出奇地小，轻轻松松就能放在你的手掌心里。它有一张像巴哥犬一样扁平的脸，以及像剃刀一样锋利的三角形前牙。不像大多数只会飞的蝙蝠，吸血蝠的前臂非常强壮，拇指很长，这让它们能像蟾蜍一样在地上行走、奔跑和跳跃！"
+    },
+    "ecology_and_behavior": {
+      "en": "It sounds like a horror movie, but it's true: they only eat blood! At night, they use a heat sensor in their nose to find a warm spot on a sleeping cow or horse. They make a tiny cut, and their saliva has a special chemical that stops the blood from clotting while they lick it up. Amazingly, if a bat doesn't find food, its friends back in the cave will share their meals by throwing up blood for them to eat.",
+      "zh": "听起来像恐怖电影，但这是真的：它们只吃血！在夜里，它们利用鼻子上的热传感器在熟睡的牛或马身上找到一个温暖的部位。它们会咬一个小口子，它们的唾液里有一种特殊的化学物质，能让它们在舔血时防止血液凝固。令人惊讶的是，如果一只蝙蝠没有找到食物，洞穴里的朋友会通过反刍血液给它吃来分享食物。"
+    },
+    "habitat_and_distribution": {
+      "en": "Vampire bats live in totally dark places like caves, old wells, and hollow trees. They are found in the warm, tropical and subtropical regions of Mexico, Central America, and South America.",
+      "zh": "吸血蝠生活在完全黑暗的地方，如洞穴、古井和空心树中。它们分布在墨西哥、中美洲和南美洲温暖的热带和亚热带地区。"
+    }
+  },
+  "habitat": {
+    "text_en": "Caves and hollow trees in tropical Americas",
+    "text_zh": "美洲热带地区的洞穴和空心树中",
+    "map_coordinates": [
+      10,
+      -85
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          25,
+          -105
+        ],
+        [
+          20,
+          -95
+        ],
+        [
+          10,
+          -80
+        ],
+        [
+          5,
+          -50
+        ],
+        [
+          -30,
+          -50
+        ],
+        [
+          -35,
+          -65
+        ],
+        [
+          -10,
+          -80
+        ],
+        [
+          25,
+          -105
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/common-vampire-bat.jpg"
+}

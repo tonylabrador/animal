@@ -1,0 +1,106 @@
+{
+  "id": "giant-panda",
+  "name_zh": "大熊猫",
+  "name_en": "Giant Panda",
+  "scientific_name": "Ailuropoda melanoleuca",
+  "ui_tags": [
+    "Mammal",
+    "Mountains",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Ursidae",
+      "zh": "熊科"
+    },
+    "genus": {
+      "en": "Ailuropoda",
+      "zh": "大熊猫属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "A bear native to China, famous for its distinct black-and-white coat and its bamboo diet.",
+    "zh": "中国特有的熊科动物，以其独特的黑白相间毛色和以竹子为主的饮食而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The giant panda is a large, fluffy bear covered in iconic black and white fur. The black patches around their eyes make them look like they are wearing giant sunglasses! They have a special 'pseudo-thumb' on their front paws, which is actually an extra wrist bone that helps them hold bamboo stalks tightly.",
+      "zh": "大熊猫是一种大型的、毛茸茸的熊，身上长着标志性的黑白双色皮毛。它们眼睛周围的黑斑让它们看起来像是戴着巨大的墨镜！它们的前爪上有一个特殊的“伪拇指”，这其实是一根额外的腕骨，能帮助它们紧紧握住竹竿。"
+    },
+    "ecology_and_behavior": {
+      "en": "Even though they are classified as carnivores, giant pandas are almost entirely vegetarian. They spend up to 14 hours a day doing nothing but sitting and eating bamboo! Because bamboo doesn't give them a lot of energy, pandas move slowly and sleep a lot to save their strength.",
+      "zh": "尽管被归类为食肉目，大熊猫几乎完全是素食者。它们每天花多达14个小时坐着狂吃竹子！因为竹子不能提供太多能量，大熊猫行动缓慢，并且经常睡觉来保存体力。"
+    },
+    "habitat_and_distribution": {
+      "en": "Giant pandas live only in the cool, wet, and cloudy mountain forests of central China, mostly in Sichuan, Shaanxi, and Gansu provinces. They need dense bamboo forests to survive. Thanks to huge conservation efforts, their numbers are slowly increasing in the wild.",
+      "zh": "大熊猫只生活在中国中部凉爽、潮湿且多云的山区森林中，主要在四川、陕西和甘肃省。它们需要茂密的竹林才能生存。多亏了巨大的保护努力，它们在野外的数量正在缓慢增加。"
+    }
+  },
+  "habitat": {
+    "text_en": "Bamboo forests in the mountains of central China",
+    "text_zh": "中国中部山区的竹林",
+    "map_coordinates": [
+      32,
+      104
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [
+        [
+          33.5,
+          103.5
+        ],
+        [
+          34,
+          105
+        ],
+        [
+          33,
+          106
+        ],
+        [
+          31,
+          104.5
+        ],
+        [
+          29,
+          102.5
+        ],
+        [
+          29.5,
+          101.5
+        ],
+        [
+          31.5,
+          102.5
+        ],
+        [
+          33.5,
+          103.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/giant-panda.jpg"
+}
