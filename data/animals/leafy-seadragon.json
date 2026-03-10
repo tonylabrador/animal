@@ -1,0 +1,106 @@
+{
+  "id": "leafy-seadragon",
+  "name_zh": "叶海龙",
+  "name_en": "Leafy Seadragon",
+  "scientific_name": "Phycodurus eques",
+  "ui_tags": [
+    "Fish",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "硬骨鱼纲"
+    },
+    "order": {
+      "en": "Syngnathiformes",
+      "zh": "海龙目"
+    },
+    "family": {
+      "en": "Syngnathidae",
+      "zh": "海龙科"
+    },
+    "genus": {
+      "en": "Phycodurus",
+      "zh": "叶海龙属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A master of disguise, this relative of the seahorse looks exactly like a piece of drifting seaweed.",
+    "zh": "伪装大师，海马的近亲，长得和一片漂浮的海藻一模一样。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Is it a plant or an animal? The leafy seadragon is covered in beautiful, leaf-like flaps that aren't for swimming—they are purely for camouflage! They have a long, pipe-like snout and tiny, transparent fins that are almost impossible to see when they flutter.",
+      "zh": "这是植物还是动物？叶海龙全身覆盖着美丽的叶状皮瓣，这些皮瓣不是用来游泳的——它们纯粹是为了伪装！它们有一个长长的管状吻部和微小的透明鳍，在扇动时几乎看不见。"
+    },
+    "ecology_and_behavior": {
+      "en": "These delicate fish drift through the water looking like floating seaweed, which hides them from hungry predators. They use their long snout to suck up tiny shrimp and plankton. Just like their seahorse cousins, it is the dad who carries the eggs under his tail until they hatch!",
+      "zh": "这些娇弱的鱼在水中漂流，看起来就像浮动的海藻，以此躲避饥饿的捕食者。它们利用长长的吻部吸食微小的虾和浮游生物。就像它们的海马亲戚一样，是由爸爸把卵带在尾巴下面直到孵化！"
+    },
+    "habitat_and_distribution": {
+      "en": "Leafy seadragons are very rare and only live in the cool waters off the southern and western coasts of Australia. They prefer to stay in rocky reefs and kelp forests where they can blend in perfectly with the underwater greenery.",
+      "zh": "叶海龙非常罕见，只生活在澳大利亚南部和西部海岸外的凉爽海域。它们更喜欢待在岩石礁和海藻林中，在那里它们可以完美地融入水下的绿色植物中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Southern Australian reefs and kelp forests",
+    "text_zh": "澳大利亚南部的礁石与海藻林",
+    "map_coordinates": [
+      -35,
+      138
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -31,
+          115
+        ],
+        [
+          -35,
+          115
+        ],
+        [
+          -38,
+          125
+        ],
+        [
+          -40,
+          140
+        ],
+        [
+          -38,
+          148
+        ],
+        [
+          -34,
+          140
+        ],
+        [
+          -33,
+          125
+        ],
+        [
+          -31,
+          115
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/leafy-seadragon.jpg"
+}

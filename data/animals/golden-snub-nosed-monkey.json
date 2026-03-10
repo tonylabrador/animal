@@ -1,0 +1,94 @@
+{
+  "id": "golden-snub-nosed-monkey",
+  "name_zh": "川金丝猴",
+  "name_en": "Golden Snub-nosed Monkey",
+  "scientific_name": "Rhinopithecus roxellana",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Primates",
+      "zh": "灵长目"
+    },
+    "family": {
+      "en": "Cercopithecidae",
+      "zh": "猴科"
+    },
+    "genus": {
+      "en": "Rhinopithecus",
+      "zh": "仰鼻猴属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "A stunning primate with golden-orange fur and a unique blue face found in China's high-altitude forests.",
+    "zh": "一种拥有金橘色毛发和独特蓝色面孔的迷人灵长类动物，生活在中国的高海拔森林中。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They have thick, golden fur to stay warm in snowy winters and a very short nose to prevent frostbite. Their face is a striking pale blue color.",
+      "zh": "它们长着厚厚的金色长毛以在寒冬保暖，鼻子非常短小以防冻伤。它们的脸部呈现出引人的浅蓝色。"
+    },
+    "ecology_and_behavior": {
+      "en": "These monkeys live in large groups and are masters of acrobatics, leaping across trees. They love eating tree lichens, leaves, and fruits.",
+      "zh": "这些猴子成群生活，是树间的杂技大师。它们非常喜欢吃地衣、树叶和水果。"
+    },
+    "habitat_and_distribution": {
+      "en": "They live in the temperate forests of central and southwest China, often at altitudes where snow covers the ground for months.",
+      "zh": "它们生活在中国中部和西南部的温带森林中，那里经常半年时间都被白雪覆盖。"
+    }
+  },
+  "habitat": {
+    "text_en": "High-altitude mountain forests of China",
+    "text_zh": "中国高海拔山地森林",
+    "map_coordinates": [
+      32,
+      103
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [
+        [
+          31,
+          102
+        ],
+        [
+          33,
+          102
+        ],
+        [
+          33.5,
+          104
+        ],
+        [
+          31.5,
+          104.5
+        ],
+        [
+          31,
+          102
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/golden-snub-nosed-monkey.jpg"
+}

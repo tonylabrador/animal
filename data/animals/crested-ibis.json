@@ -1,0 +1,94 @@
+{
+  "id": "crested-ibis",
+  "name_zh": "朱鹮",
+  "name_en": "Crested Ibis",
+  "scientific_name": "Nipponia nippon",
+  "ui_tags": [
+    "Bird",
+    "Wetland",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Pelecaniformes",
+      "zh": "鹈形目"
+    },
+    "family": {
+      "en": "Threskiornithidae",
+      "zh": "鹮科"
+    },
+    "genus": {
+      "en": "Nipponia",
+      "zh": "朱鹮属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "Once thought extinct, this 「Oriental Gem」 was rediscovered in China in 1981.",
+    "zh": "曾被认为已经灭绝，这种「东方宝石」于 1981 年在中国被重新发现。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "It has white plumage with a salmon-pink glow under its wings and a long, curved black bill.",
+      "zh": "它拥有白色的羽毛，翅膀下方透着朱红色，长着黑色的长而弯曲的喙。"
+    },
+    "ecology_and_behavior": {
+      "en": "They nest in tall trees and forage in rice paddies and wetlands for small fish, frogs, and crabs.",
+      "zh": "它们在高大的树上筑巢，在稻田和湿地中觅食小鱼、青蛙和螃蟹。"
+    },
+    "habitat_and_distribution": {
+      "en": "Found mainly in the Qinling Mountains of Shaanxi Province, where conservation efforts have saved them.",
+      "zh": "主要发现于陕西秦岭地区，保护工作成功地拯救了这一物种。"
+    }
+  },
+  "habitat": {
+    "text_en": "Wetlands and forests of Qinling Mountains",
+    "text_zh": "秦岭湿地与森林",
+    "map_coordinates": [
+      33.5,
+      107.5
+    ],
+    "map_zoom_level": 7,
+    "global_distribution_polygons": [
+      [
+        [
+          33,
+          107
+        ],
+        [
+          34,
+          107
+        ],
+        [
+          34,
+          108.5
+        ],
+        [
+          33,
+          108.5
+        ],
+        [
+          33,
+          107
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/crested-ibis.jpg"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "giant-isopod",
+  "name_zh": "大王具足虫",
+  "name_en": "Giant Isopod",
+  "scientific_name": "Bathynomus giganteus",
+  "ui_tags": [
+    "Invertebrate",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Malacostraca",
+      "zh": "软甲纲"
+    },
+    "order": {
+      "en": "Isopoda",
+      "zh": "等足目"
+    },
+    "family": {
+      "en": "Cirolanidae",
+      "zh": "漂水虱科"
+    },
+    "genus": {
+      "en": "Bathynomus",
+      "zh": "大王具足虫属"
+    }
+  },
+  "conservation_status": {
+    "code": "DD",
+    "en": "Data Deficient",
+    "zh": "数据缺乏"
+  },
+  "description": {
+    "en": "A giant deep-sea relative of the common woodlouse that can grow up to 40 cm long.",
+    "zh": "普通西瓜虫的深海巨型亲戚，身长可达 40 厘米。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They have a hard exoskeleton with overlapping segments and 14 jointed legs. Their large eyes have over 4000 facets.",
+      "zh": "它们拥有坚硬的、由重叠节段组成的甲壳和 14 条关节腿。它们巨大的眼睛有 4000 多个复眼面。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are scavengers that eat dead fish on the ocean floor. They can survive for years without food in captivity.",
+      "zh": "它们是清除者，吃海底的死鱼。在人工饲养环境下，它们甚至可以数年不吃东西也能生存。"
+    },
+    "habitat_and_distribution": {
+      "en": "Found in the deep waters of the Atlantic, Pacific, and Indian Oceans at depths of up to 2,100 meters.",
+      "zh": "分布在大西洋、太平洋和印度洋的深海中，深度可达 2100 米。"
+    }
+  },
+  "habitat": {
+    "text_en": "Deep ocean floor",
+    "text_zh": "深海海底",
+    "map_coordinates": [
+      25,
+      -90
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          45,
+          -180
+        ],
+        [
+          -45,
+          -180
+        ],
+        [
+          -45,
+          180
+        ],
+        [
+          45,
+          180
+        ],
+        [
+          45,
+          -180
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/giant-isopod.jpg"
+}

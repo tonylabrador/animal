@@ -1,0 +1,94 @@
+{
+  "id": "sichuan-takin",
+  "name_zh": "四川羚牛",
+  "name_en": "Sichuan Takin",
+  "scientific_name": "Budorcas taxicolor tibetana",
+  "ui_tags": [
+    "Mammal",
+    "Mountains",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Bovidae",
+      "zh": "牛科"
+    },
+    "genus": {
+      "en": "Budorcas",
+      "zh": "羚牛属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "A large, golden-haired mountain bovid nicknamed the 「Six Dislikes」 for its unusual mix of features.",
+    "zh": "一种大型金色长毛山地牛科动物，因其奇特的特征组合被戏称为「六不像」。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Takins look like a mix of a goat and an ox. They have thick golden-yellow fur and horns that sweep backwards.",
+      "zh": "羚牛看起来像山羊和牛的结合体。它们拥有厚厚的金黄色皮毛，角向后方弯曲。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are social animals that move to higher altitudes in summer. They are surprisingly agile on steep slopes.",
+      "zh": "它们是群居动物，夏天会向高海拔移动。它们在陡坡上非常敏捷。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the high-altitude forests and alpine zones of Sichuan, Shaanxi, and Gansu.",
+      "zh": "四川、陕西和甘肃高海拔森林及高山地带的特有种。"
+    }
+  },
+  "habitat": {
+    "text_en": "Mountainous regions of Southwest China",
+    "text_zh": "中国西南部山区",
+    "map_coordinates": [
+      32,
+      104
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [
+        [
+          30,
+          102
+        ],
+        [
+          34,
+          102
+        ],
+        [
+          34,
+          108
+        ],
+        [
+          30,
+          108
+        ],
+        [
+          30,
+          102
+        ]
+      ]
+    ]
+  },
+  "image": null
+}

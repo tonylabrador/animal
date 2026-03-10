@@ -1,0 +1,94 @@
+{
+  "id": "glass-frog",
+  "name_zh": "玻璃蛙",
+  "name_en": "Glass Frog",
+  "scientific_name": "Hyalinobatrachium fleischmanni",
+  "ui_tags": [
+    "Amphibian",
+    "Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Amphibia",
+      "zh": "两栖纲"
+    },
+    "order": {
+      "en": "Anura",
+      "zh": "无尾目"
+    },
+    "family": {
+      "en": "Centrolenidae",
+      "zh": "瞻星蛙科"
+    },
+    "genus": {
+      "en": "Hyalinobatrachium",
+      "zh": "小瞻星蛙属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A tiny green tree frog with transparent skin on its belly that reveals its internal organs.",
+    "zh": "一种微小的绿色树蛙，腹部皮肤透明，可以直接看到内部器官。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The skin on their belly is so clear you can see their beating heart, liver, and digestive tract.",
+      "zh": "它们腹部的皮肤非常清晰，你可以看到它们跳动的心脏、肝脏和消化道。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are nocturnal and live high in trees. They lay their eggs on leaves overhanging mountain streams.",
+      "zh": "它们是夜行性的，生活在高高的树上。它们把卵产在悬挂在山间溪流上方的叶子上。"
+    },
+    "habitat_and_distribution": {
+      "en": "Found in the humid forests of Central and South America, especially in the Andes mountains.",
+      "zh": "发现于中南美洲的潮湿森林中，特别是在安第斯山脉。"
+    }
+  },
+  "habitat": {
+    "text_en": "Neotropical cloud forests",
+    "text_zh": "新热带云雾林",
+    "map_coordinates": [
+      10,
+      -84
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          -90
+        ],
+        [
+          -5,
+          -90
+        ],
+        [
+          -5,
+          -70
+        ],
+        [
+          15,
+          -70
+        ],
+        [
+          15,
+          -90
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/glass-frog.jpg"
+}

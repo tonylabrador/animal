@@ -1,0 +1,94 @@
+{
+  "id": "pink-fairy-armadillo",
+  "name_zh": "粉红犰狳",
+  "name_en": "Pink Fairy Armadillo",
+  "scientific_name": "Chlamyphorus truncatus",
+  "ui_tags": [
+    "Mammal",
+    "Desert",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Cingulata",
+      "zh": "有甲目"
+    },
+    "family": {
+      "en": "Chlamyphoridae",
+      "zh": "倭犰狳科"
+    },
+    "genus": {
+      "en": "Chlamyphorus",
+      "zh": "倭犰狳属"
+    }
+  },
+  "conservation_status": {
+    "code": "DD",
+    "en": "Data Deficient",
+    "zh": "数据缺乏"
+  },
+  "description": {
+    "en": "A tiny, elusive armadillo that looks like a walking sushi with its pink shell and white fur.",
+    "zh": "一种微小且神秘的犰狳，因其粉红色的外壳和白色的皮毛，看起来像一块「会走路的握寿司」。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "It is only about 10 cm long. Its pink shell is attached to its body by a thin membrane and helps regulate body temperature.",
+      "zh": "它只有约 10 厘米长。它的粉红色外壳通过薄膜附着在身上，有助于调节体温。"
+    },
+    "ecology_and_behavior": {
+      "en": "Nicknamed the 「sand swimmer」, it can burrow through dry soil as fast as a fish swims in water. It eats mostly ants.",
+      "zh": "它被昵称为「沙泳者」，在干旱土壤中挖掘的速度就像鱼在水里游泳一样快。它主要吃蚂蚁。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to central Argentina, living in dry grasslands and sandy plains.",
+      "zh": "阿根廷中部特有，生活在干旱草原和沙质平原上。"
+    }
+  },
+  "habitat": {
+    "text_en": "Sandy plains of Central Argentina",
+    "text_zh": "阿根廷中部沙质平原",
+    "map_coordinates": [
+      -34,
+      -65
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [
+        [
+          -32,
+          -68
+        ],
+        [
+          -38,
+          -68
+        ],
+        [
+          -38,
+          -62
+        ],
+        [
+          -32,
+          -62
+        ],
+        [
+          -32,
+          -68
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/pink-fairy-armadillo.jpg"
+}

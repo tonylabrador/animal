@@ -1,0 +1,94 @@
+{
+  "id": "peacock-mantis-shrimp",
+  "name_zh": "雀尾螳螂虾",
+  "name_en": "Peacock Mantis Shrimp",
+  "scientific_name": "Odontodactylus scyllarus",
+  "ui_tags": [
+    "Invertebrate",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Malacostraca",
+      "zh": "软甲纲"
+    },
+    "order": {
+      "en": "Stomatopoda",
+      "zh": "口足目"
+    },
+    "family": {
+      "en": "Odontodactylidae",
+      "zh": "齿指虾蛄科"
+    },
+    "genus": {
+      "en": "Odontodactylus",
+      "zh": "齿指虾蛄属"
+    }
+  },
+  "conservation_status": {
+    "code": "DD",
+    "en": "Data Deficient",
+    "zh": "数据缺乏"
+  },
+  "description": {
+    "en": "A colorful crustacean with the fastest punch in the ocean and incredibly complex eyes.",
+    "zh": "一种色彩斑斓的甲壳动物，拥有海洋中最快的出拳速度和异常复杂的眼睛。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They have rainbow-colored armor and powerful clubs. Their eyes can see 16 types of color, far more than humans.",
+      "zh": "它们拥有彩虹色的装甲和强有力的「大锤」。它们的眼睛能看到 16 种颜色，远超人类。"
+    },
+    "ecology_and_behavior": {
+      "en": "Their punch is as fast as a bullet, strong enough to break glass. They use this power to smash open crabs and snails.",
+      "zh": "它们的出拳速度快如子弹，强度足以击碎玻璃。它们利用这种力量砸开螃蟹和蜗牛壳。"
+    },
+    "habitat_and_distribution": {
+      "en": "Live in the coral reefs of the Indo-Pacific Ocean, from eastern Africa to Australia.",
+      "zh": "生活在印度-太平洋海域的珊瑚礁中，从东非延伸至澳大利亚。"
+    }
+  },
+  "habitat": {
+    "text_en": "Coral reefs of the Indo-Pacific",
+    "text_zh": "印太地区珊瑚礁",
+    "map_coordinates": [
+      -15,
+      145
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          30,
+          30
+        ],
+        [
+          -30,
+          30
+        ],
+        [
+          -30,
+          160
+        ],
+        [
+          30,
+          160
+        ],
+        [
+          30,
+          30
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/peacock-mantis-shrimp.jpg"
+}

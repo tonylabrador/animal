@@ -1,0 +1,94 @@
+{
+  "id": "brown-eared-pheasant",
+  "name_zh": "褐马鸡",
+  "name_en": "Brown Eared Pheasant",
+  "scientific_name": "Crossoptilon mantchuricum",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Galliformes",
+      "zh": "鸡形目"
+    },
+    "family": {
+      "en": "Phasianidae",
+      "zh": "雉科"
+    },
+    "genus": {
+      "en": "Crossoptilon",
+      "zh": "马鸡属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "A rare bird known for its dark brown body and striking white 「ears」 made of feathers.",
+    "zh": "一种罕见的鸟类，因其深褐色的身体和引人注目的白色羽毛「耳朵」而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They have beautiful white tail feathers that curve like a horse's tail and red skin around their eyes.",
+      "zh": "它们拥有美丽的白色尾羽，像马尾一样弯曲，眼周有红色的皮肤。"
+    },
+    "ecology_and_behavior": {
+      "en": "They prefer walking to flying. They use their strong claws to dig for roots and insects on the forest floor.",
+      "zh": "它们更喜欢行走而不是飞行。它们用强壮的爪子在森林地面挖掘根茎和昆虫。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the mountain forests of northern China, especially Shanxi and Hebei provinces.",
+      "zh": "中国北部山地森林特有种，特别是山西和河北省。"
+    }
+  },
+  "habitat": {
+    "text_en": "Mountain forests of North China",
+    "text_zh": "中国北方山地森林",
+    "map_coordinates": [
+      38,
+      112
+    ],
+    "map_zoom_level": 7,
+    "global_distribution_polygons": [
+      [
+        [
+          37,
+          111
+        ],
+        [
+          39.5,
+          111
+        ],
+        [
+          39.5,
+          115
+        ],
+        [
+          37,
+          115
+        ],
+        [
+          37,
+          111
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/brown-eared-pheasant.jpg"
+}

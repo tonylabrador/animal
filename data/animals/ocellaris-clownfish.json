@@ -1,0 +1,98 @@
+{
+  "id": "ocellaris-clownfish",
+  "name_zh": "眼斑双锯鱼(小丑鱼)",
+  "name_en": "Ocellaris Clownfish",
+  "scientific_name": "Amphiprion ocellaris",
+  "ui_tags": [
+    "Fish",
+    "Coral Reef",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "硬骨鱼纲"
+    },
+    "order": {
+      "en": "Perciformes",
+      "zh": "鲈形目"
+    },
+    "family": {
+      "en": "Pomacentridae",
+      "zh": "雀鲷科"
+    },
+    "genus": {
+      "en": "Amphiprion",
+      "zh": "双锯鱼属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A small, bright orange fish famous for living safely within the stinging tentacles of sea anemones.",
+    "zh": "一种明亮橙色的小鱼，以在海葵有毒的触手中安全生活而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Clownfish are famous for their bright orange bodies and three vertical white stripes with thin black borders. They are quite small, usually only about 10 centimeters long. A special layer of slime on their skin protects them from the stinging cells of sea anemones.",
+      "zh": "小丑鱼以其鲜橙色的身体和三条带有细黑边的垂直白色条纹而闻名。它们体型很小，通常只有10厘米左右。它们皮肤上一层特殊的黏液保护它们免受海葵刺细胞的伤害。"
+    },
+    "ecology_and_behavior": {
+      "en": "Clownfish have a special friendship with anemones! They live inside the anemone's stinging tentacles to hide from predators, and in return, they clean the anemone and chase away fish that try to eat it. They are very brave and will defend their home fiercely.",
+      "zh": "小丑鱼与海葵有着特殊的友谊！它们住在海葵有毒的触手里躲避捕食者，作为回报，它们会清理海葵并赶走试图吃掉它的鱼。它们非常勇敢，会猛烈地保卫自己的家园。"
+    },
+    "habitat_and_distribution": {
+      "en": "They live in the warm coral reefs of the Indo-Pacific Ocean, including the Coral Triangle and northern Australia. You can always find them tucked away in a host anemone, never swimming too far from their stinging home.",
+      "zh": "它们生活在印度洋-太平洋温暖的珊瑚礁中，包括珊瑚大三角和澳大利亚北部。你总能在寄主海葵中找到它们的身影，它们从不游离带刺的家园太远。"
+    }
+  },
+  "habitat": {
+    "text_en": "Indo-Pacific coral reefs",
+    "text_zh": "印度-太平洋珊瑚礁",
+    "map_coordinates": [
+      -2,
+      125
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          25,
+          95
+        ],
+        [
+          25,
+          155
+        ],
+        [
+          -30,
+          155
+        ],
+        [
+          -25,
+          110
+        ],
+        [
+          -10,
+          95
+        ],
+        [
+          25,
+          95
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/ocellaris-clownfish.jpg"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "ili-pika",
+  "name_zh": "伊犁鼠兔",
+  "name_en": "Ili Pika",
+  "scientific_name": "Ochotona iliensis",
+  "ui_tags": [
+    "Mammal",
+    "Mountains",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Lagomorpha",
+      "zh": "兔形目"
+    },
+    "family": {
+      "en": "Ochotonidae",
+      "zh": "鼠兔科"
+    },
+    "genus": {
+      "en": "Ochotona",
+      "zh": "鼠兔属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "A tiny, rabbit-like mammal with a 「teddy bear」 face discovered in the Tianshan Mountains.",
+    "zh": "一种在天山山脉发现的小型哺乳动物，长着像「泰迪熊」一样的脸，外形像兔子。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They are about 20 centimeters long with large ears and gray fur with rusty spots. They are very elusive and rare.",
+      "zh": "它们长约 20 厘米，有大大的耳朵，灰色的皮毛上带有铁锈色斑点。它们非常神秘且罕见。"
+    },
+    "ecology_and_behavior": {
+      "en": "They live in rock crevices at very high altitudes and eat herbs and grasses. They are sensitive to climate change.",
+      "zh": "它们生活在高海拔的岩石缝隙中，以草本植物为食。它们对气候变化非常敏感。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the Tianshan Mountains in northwest China, living on steep cliffs.",
+      "zh": "中国西北天山山脉特有，生活在陡峭的悬崖上。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tianshan Mountains, Xinjiang",
+    "text_zh": "新疆天山山脉",
+    "map_coordinates": [
+      43.5,
+      83
+    ],
+    "map_zoom_level": 7,
+    "global_distribution_polygons": [
+      [
+        [
+          43,
+          82
+        ],
+        [
+          44,
+          82
+        ],
+        [
+          44,
+          84
+        ],
+        [
+          43,
+          84
+        ],
+        [
+          43,
+          82
+        ]
+      ]
+    ]
+  },
+  "image": null
+}

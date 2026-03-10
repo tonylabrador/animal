@@ -1,0 +1,94 @@
+{
+  "id": "chinese-alligator",
+  "name_zh": "扬子鳄",
+  "name_en": "Chinese Alligator",
+  "scientific_name": "Alligator sinensis",
+  "ui_tags": [
+    "Reptile",
+    "Wetland",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Crocodilia",
+      "zh": "鳄目"
+    },
+    "family": {
+      "en": "Alligatoridae",
+      "zh": "短吻鳄科"
+    },
+    "genus": {
+      "en": "Alligator",
+      "zh": "短吻鳄属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "A small, rare alligator endemic to eastern China, often called the 「Mud Dragon」.",
+    "zh": "一种产于中国东部的珍稀小型短吻鳄，常被人们称为「土龙」。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "It is much smaller than its American cousin, reaching about 1.5 to 2 meters. Its body is fully covered in tough, bony scales.",
+      "zh": "它比美洲亲戚小得多，全长约 1.5 到 2 米。它的全身覆盖着坚硬的骨鳞。"
+    },
+    "ecology_and_behavior": {
+      "en": "They spend most of the winter hibernating in complex burrows dug into riverbanks. They eat fish, snails, and small animals.",
+      "zh": "它们冬天大部分时间都在河岸挖掘的复杂洞穴中冬眠。它们以鱼、蜗牛和小动物为食。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are only found in the lower Yangtze River basin, living in slow-moving rivers, lakes, and ponds.",
+      "zh": "它们仅分布在长江下游流域，生活在流速缓慢的河流、湖泊和池塘中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Lower Yangtze River Basin",
+    "text_zh": "长江下游地区",
+    "map_coordinates": [
+      31,
+      119
+    ],
+    "map_zoom_level": 7,
+    "global_distribution_polygons": [
+      [
+        [
+          30.5,
+          118.5
+        ],
+        [
+          31.5,
+          118.5
+        ],
+        [
+          31.5,
+          120
+        ],
+        [
+          30.5,
+          120
+        ],
+        [
+          30.5,
+          118.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/chinese-alligator.jpg"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "goblin-shark",
+  "name_zh": "欧氏尖吻鲨",
+  "name_en": "Goblin Shark",
+  "scientific_name": "Mitsukurina owstoni",
+  "ui_tags": [
+    "Fish",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "zh": "软骨鱼纲"
+    },
+    "order": {
+      "en": "Lamniformes",
+      "zh": "鼠鲨目"
+    },
+    "family": {
+      "en": "Mitsukurinidae",
+      "zh": "尖吻鲨科"
+    },
+    "genus": {
+      "en": "Mitsukurina",
+      "zh": "尖吻鲨属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A rare deep-sea shark with pink skin and jaws that can snap forward to catch prey.",
+    "zh": "一种罕见的深海鲨鱼，拥有粉红色的皮肤和可以向前弹出捕捉猎物的下颚。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They have a long, flattened snout filled with electrical sensors. Their jaws are highly elastic and can extend out of their mouth.",
+      "zh": "它们长着扁平的长吻，上面布满了电感受器。它们的下颚极具弹性，可以弹出嘴外。"
+    },
+    "ecology_and_behavior": {
+      "en": "They live in the darkness of the deep ocean. When prey is near, they thrust their jaws out in a split second to grab it.",
+      "zh": "它们生活在深海的黑暗中。当猎物靠近时，它们会在瞬间弹出下颚将其咬住。"
+    },
+    "habitat_and_distribution": {
+      "en": "Found globally in deep waters of the Atlantic, Pacific, and Indian Oceans, usually near continental slopes.",
+      "zh": "全球分布于大西洋、太平洋和印度洋的深海中，通常靠近大陆坡。"
+    }
+  },
+  "habitat": {
+    "text_en": "Deep sea (270-1300m)",
+    "text_zh": "深海海域",
+    "map_coordinates": [
+      35,
+      139
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          45,
+          -180
+        ],
+        [
+          -45,
+          -180
+        ],
+        [
+          -45,
+          180
+        ],
+        [
+          45,
+          180
+        ],
+        [
+          45,
+          -180
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/goblin-shark.jpg"
+}

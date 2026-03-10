@@ -1,0 +1,94 @@
+{
+  "id": "saiga-antelope",
+  "name_zh": "高鼻羚羊",
+  "name_en": "Saiga Antelope",
+  "scientific_name": "Saiga tatarica",
+  "ui_tags": [
+    "Mammal",
+    "Grassland",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Bovidae",
+      "zh": "牛科"
+    },
+    "genus": {
+      "en": "Saiga",
+      "zh": "高鼻羚羊属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "A steppe antelope known for its oversized, flexible snout that looks like a mini-trunk.",
+    "zh": "一种草原羚羊，以其巨大的、像微型象鼻一样灵活的鼻子而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The most striking feature is its large, drooping nose. It filters out dust in the summer and warms cold air in the winter before it reaches the lungs.",
+      "zh": "最引人注目的特征是它巨大的、下垂的鼻子。它在夏天可以过滤灰尘，在冬天可以先加热冷空气再吸入肺部。"
+    },
+    "ecology_and_behavior": {
+      "en": "They live in large herds and migrate across vast grasslands. They are incredibly fast runners, reaching speeds of 80 kilometers per hour.",
+      "zh": "它们成群生活，在广阔的草原上迁徙。它们跑得极快，时速可达 80 公里。"
+    },
+    "habitat_and_distribution": {
+      "en": "Found in the dry steppes and semi-deserts of Central Asia, mainly in Kazakhstan, Russia, and Mongolia.",
+      "zh": "发现于中亚的干旱草原和半荒漠地带，主要分布在哈萨克斯坦、俄罗斯和蒙古。"
+    }
+  },
+  "habitat": {
+    "text_en": "Central Asian steppes",
+    "text_zh": "中亚草原",
+    "map_coordinates": [
+      48,
+      67
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          45,
+          50
+        ],
+        [
+          52,
+          50
+        ],
+        [
+          52,
+          80
+        ],
+        [
+          45,
+          80
+        ],
+        [
+          45,
+          50
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/saiga-antelope.jpg"
+}

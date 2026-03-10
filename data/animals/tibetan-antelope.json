@@ -1,0 +1,94 @@
+{
+  "id": "tibetan-antelope",
+  "name_zh": "藏羚羊",
+  "name_en": "Tibetan Antelope",
+  "scientific_name": "Pantholops hodgsonii",
+  "ui_tags": [
+    "Mammal",
+    "Mountains",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Bovidae",
+      "zh": "牛科"
+    },
+    "genus": {
+      "en": "Pantholops",
+      "zh": "藏羚属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "The 「Sprite of the Plateau」, known for its incredible speed and fine wool.",
+    "zh": "被誉为「高原精灵」，以极快的奔跑速度和细腻的羊绒闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Males have long, elegant black horns that curve slightly. They have very thick underfur to survive temperatures of -40 degrees Celsius.",
+      "zh": "雄性长着长而优雅的黑色角，微微弯曲。它们拥有极厚的绒毛，能在零下 40 摄氏度的环境中生存。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are famous for their long-distance migrations to give birth. They are very shy and can run up to 80 kilometers per hour.",
+      "zh": "它们因长途迁徙产仔而闻名。它们非常胆小，奔跑时速可达 80 公里。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the high Qinghai-Tibet Plateau, living in alpine steppes and cold deserts.",
+      "zh": "中国青藏高原特有种，生活在高山草原和高寒荒漠中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Qinghai-Tibet Plateau",
+    "text_zh": "青藏高原",
+    "map_coordinates": [
+      35,
+      88
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          32,
+          80
+        ],
+        [
+          38,
+          80
+        ],
+        [
+          38,
+          95
+        ],
+        [
+          32,
+          95
+        ],
+        [
+          32,
+          80
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/tibetan-antelope.jpg"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "aye-aye",
+  "name_zh": "指猴",
+  "name_en": "Aye-aye",
+  "scientific_name": "Daubentonia madagascariensis",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Primates",
+      "zh": "灵长目"
+    },
+    "family": {
+      "en": "Daubentoniidae",
+      "zh": "指猴科"
+    },
+    "genus": {
+      "en": "Daubentonia",
+      "zh": "指猴属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The world's largest nocturnal primate, famous for its unusually long, thin middle finger.",
+    "zh": "世界上最大的夜行性灵长类动物，以其异常细长的中指而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They have large ears like bats and teeth that grow forever like rodents. Their middle finger is very bony and flexible.",
+      "zh": "它们长着像蝙蝠一样的大耳朵，牙齿像啮齿动物一样不断生长。它们的中指只有骨头，非常灵活。"
+    },
+    "ecology_and_behavior": {
+      "en": "They use their middle finger to tap on trees to find grubs. This technique is called 「percussive foraging」.",
+      "zh": "它们用中指敲击树干来寻找幼虫，这种技巧被称为「敲击觅食法」。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the island of Madagascar, living in rainforests and deciduous forests.",
+      "zh": "马达加斯加岛特有，生活在热带雨林和落叶林中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Rainforests of Madagascar",
+    "text_zh": "马达加斯加雨林",
+    "map_coordinates": [
+      -18.7,
+      46.8
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [
+        [
+          -12,
+          49
+        ],
+        [
+          -15,
+          51
+        ],
+        [
+          -25,
+          47
+        ],
+        [
+          -25,
+          44
+        ],
+        [
+          -12,
+          49
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/aye-aye.jpg"
+}

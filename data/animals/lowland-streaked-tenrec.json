@@ -1,0 +1,94 @@
+{
+  "id": "lowland-streaked-tenrec",
+  "name_zh": "低地斑纹马岛猬",
+  "name_en": "Lowland Streaked Tenrec",
+  "scientific_name": "Hemicentetes semispinosus",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Afrosoricida",
+      "zh": "非洲猬目"
+    },
+    "family": {
+      "en": "Tenrecidae",
+      "zh": "马岛猬科"
+    },
+    "genus": {
+      "en": "Hemicentetes",
+      "zh": "纹猬属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A small mammal that looks like a yellow and black bumblebee-hedgehog mix.",
+    "zh": "一种小型哺乳动物，看起来像黄色和黑色相间的「大黄蜂刺猬」混合体。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They have black and yellow stripes and many barbed quills. They use their quills to make sound by rubbing them together.",
+      "zh": "它们有黑黄相间的条纹和许多带钩的刺。它们通过相互摩擦刺部来发出声音。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are the only mammals known to communicate by 「stridulation」 (rubbing body parts). They love eating earthworms.",
+      "zh": "它们是已知唯一通过「摩擦发声」（摩擦身体部位）来交流的哺乳动物。它们非常喜欢吃蚯蚓。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the tropical lowland rainforests of northern and eastern Madagascar.",
+      "zh": "马达加斯加北部和东部热带低地雨林特有。"
+    }
+  },
+  "habitat": {
+    "text_en": "Madagascar lowland rainforests",
+    "text_zh": "马达加斯加低地雨林",
+    "map_coordinates": [
+      -16,
+      49
+    ],
+    "map_zoom_level": 7,
+    "global_distribution_polygons": [
+      [
+        [
+          -12,
+          48
+        ],
+        [
+          -18,
+          48
+        ],
+        [
+          -18,
+          50.5
+        ],
+        [
+          -12,
+          50.5
+        ],
+        [
+          -12,
+          48
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/lowland-streaked-tenrec.jpg"
+}

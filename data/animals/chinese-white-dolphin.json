@@ -1,0 +1,94 @@
+{
+  "id": "chinese-white-dolphin",
+  "name_zh": "中华白海豚",
+  "name_en": "Chinese White Dolphin",
+  "scientific_name": "Sousa chinensis",
+  "ui_tags": [
+    "Mammal",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Delphinidae",
+      "zh": "海豚科"
+    },
+    "genus": {
+      "en": "Sousa",
+      "zh": "驼背豚属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "Famous for its unique pink skin, it is the mascot of the 1997 Hong Kong handover.",
+    "zh": "以其独特的粉红色皮肤闻名，是 1997 年香港回归的吉祥物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults appear bright pink, which is actually due to blood vessels near the skin surface for cooling down.",
+      "zh": "成年的白海豚呈现亮粉色，这实际上是皮肤表层下的血管为了散热而显现出的颜色。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are very intelligent and social, living in small pods. They feed on a wide variety of estuarine fish.",
+      "zh": "它们非常聪明且合群，以小群落形式生活。它们以河口地区的多种鱼类为食。"
+    },
+    "habitat_and_distribution": {
+      "en": "Found in coastal waters of Southeast China, particularly near the Pearl River Estuary.",
+      "zh": "分布于中国东南部沿海水域，特别是珠江口附近。"
+    }
+  },
+  "habitat": {
+    "text_en": "Coastal waters and estuaries",
+    "text_zh": "近岸海域及河口",
+    "map_coordinates": [
+      22.2,
+      113.8
+    ],
+    "map_zoom_level": 8,
+    "global_distribution_polygons": [
+      [
+        [
+          21.5,
+          113
+        ],
+        [
+          22.8,
+          113
+        ],
+        [
+          22.8,
+          114.5
+        ],
+        [
+          21.5,
+          114.5
+        ],
+        [
+          21.5,
+          113
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/chinese-white-dolphin.jpg"
+}

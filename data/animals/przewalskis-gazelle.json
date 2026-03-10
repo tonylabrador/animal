@@ -1,0 +1,94 @@
+{
+  "id": "przewalskis-gazelle",
+  "name_zh": "普氏原羚",
+  "name_en": "Przewalski's Gazelle",
+  "scientific_name": "Procapra przewalskii",
+  "ui_tags": [
+    "Mammal",
+    "Grassland",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Bovidae",
+      "zh": "牛科"
+    },
+    "genus": {
+      "en": "Procapra",
+      "zh": "原羚属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "One of the world's rarest gazelles, found only around Lake Qinghai in China.",
+    "zh": "世界上最稀有的羚羊之一，仅发现于中国青海湖周边。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They are small gazelles with a white patch on their rump and horns that curve inward at the tips.",
+      "zh": "它们是小型羚羊，臀部有一块白斑，角尖向内弯曲。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are amazing jumpers, easily leaping over fences. They eat various alpine grasses and shrubs.",
+      "zh": "它们是惊人的跳跃者，能轻松跳过围栏。它们以各种高山草类和灌木为食。"
+    },
+    "habitat_and_distribution": {
+      "en": "They live in the high-altitude grasslands and semi-deserts surrounding Lake Qinghai.",
+      "zh": "它们生活在青海湖周围的高海拔草原和半荒漠地带。"
+    }
+  },
+  "habitat": {
+    "text_en": "Grasslands around Lake Qinghai",
+    "text_zh": "青海湖周边的草原",
+    "map_coordinates": [
+      36.8,
+      100.2
+    ],
+    "map_zoom_level": 8,
+    "global_distribution_polygons": [
+      [
+        [
+          36.3,
+          99.5
+        ],
+        [
+          37.3,
+          99.5
+        ],
+        [
+          37.3,
+          101
+        ],
+        [
+          36.3,
+          101
+        ],
+        [
+          36.3,
+          99.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/przewalskis-gazelle.jpg"
+}

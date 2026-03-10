@@ -2,13 +2,18 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **100** 种动物
+**统计**：共 **130** 种动物
 
 ---
 
 ## 哺乳纲
 
 ### 偶蹄目
+
+**一角鲸科**
+
+- 白鲸 / Beluga Whale — *Delphinapterus leucas* `beluga-whale`
+- 独角鲸 / Narwhal — *Monodon monoceros* `narwhal`
 
 **叉角羚科**
 
@@ -18,11 +23,19 @@
 
 - 河马 / Hippopotamus — *Hippopotamus amphibius* `hippopotamus`
 
+**海豚科**
+
+- 中华白海豚 / Chinese White Dolphin — *Sousa chinensis* `chinese-white-dolphin`
+
 **牛科**
 
 - 美洲野牛 / American Bison — *Bison bison* `american-bison`
 - 大角羊 / Bighorn Sheep — *Ovis canadensis* `bighorn-sheep`
 - 雪羊 / Mountain Goat — *Oreamnos americanus* `mountain-goat`
+- 普氏原羚 / Przewalski's Gazelle — *Procapra przewalskii* `przewalskis-gazelle`
+- 高鼻羚羊 / Saiga Antelope — *Saiga tatarica* `saiga-antelope`
+- 四川羚牛 / Sichuan Takin — *Budorcas taxicolor tibetana* `sichuan-takin`
+- 藏羚羊 / Tibetan Antelope — *Pantholops hodgsonii* `tibetan-antelope`
 
 **长颈鹿科**
 
@@ -31,6 +44,12 @@
 **鹿科**
 
 - 驼鹿 / Moose — *Alces alces* `moose`
+
+### 兔形目
+
+**鼠兔科**
+
+- 伊犁鼠兔 / Ili Pika — *Ochotona iliensis* `ili-pika`
 
 ### 单孔目
 
@@ -84,6 +103,10 @@
 
 ### 有甲目
 
+**倭犰狳科**
+
+- 粉红犰狳 / Pink Fairy Armadillo — *Chlamyphorus truncatus* `pink-fairy-armadillo`
+
 **犰狳科**
 
 - 九带犰狳 / Nine-banded Armadillo — *Dasypus novemcinctus* `nine-banded-armadillo`
@@ -102,9 +125,17 @@
 - 黑猩猩 / Chimpanzee — *Pan troglodytes* `chimpanzee`
 - 大猩猩 / Western Gorilla — *Gorilla gorilla* `western-gorilla`
 
+**指猴科**
+
+- 指猴 / Aye-aye — *Daubentonia madagascariensis* `aye-aye`
+
 **狐猴科**
 
 - 环尾狐猴 / Ring-tailed Lemur — *Lemur catta* `ring-tailed-lemur`
+
+**猴科**
+
+- 川金丝猴 / Golden Snub-nosed Monkey — *Rhinopithecus roxellana* `golden-snub-nosed-monkey`
 
 ### 皮翼目
 
@@ -129,6 +160,12 @@
 **象科**
 
 - 非洲草原象 / African Bush Elephant — *Loxodonta africana* `african-bush-elephant`
+
+### 非洲猬目
+
+**马岛猬科**
+
+- 低地斑纹马岛猬 / Lowland Streaked Tenrec — *Hemicentetes semispinosus* `lowland-streaked-tenrec`
 
 ### 食肉目
 
@@ -255,6 +292,7 @@
 
 **雉科**
 
+- 褐马鸡 / Brown Eared Pheasant — *Crossoptilon mantchuricum* `brown-eared-pheasant`
 - 蓝孔雀 / Indian Peafowl — *Pavo cristatus* `indian-peafowl`
 
 ### 鸮形目
@@ -268,6 +306,16 @@
 **鸵鸟科**
 
 - 非洲鸵鸟 / Common Ostrich — *Struthio camelus* `common-ostrich`
+
+### 鹈形目
+
+**鲸头鹳科**
+
+- 鲸头鹳 / Shoebill Stork — *Balaeniceps rex* `shoebill-stork`
+
+**鹮科**
+
+- 朱鹮 / Crested Ibis — *Nipponia nippon* `crested-ibis`
 
 ### 鹤鸵目
 
@@ -329,6 +377,7 @@
 **短吻鳄科**
 
 - 美洲短吻鳄 / American Alligator — *Alligator mississippiensis* `american-alligator`
+- 扬子鳄 / Chinese Alligator — *Alligator sinensis* `chinese-alligator`
 
 **鳄科**
 
@@ -359,6 +408,10 @@
 
 - 红眼树蛙 / Red-eyed Tree Frog — *Agalychnis callidryas* `red-eyed-tree-frog`
 
+**瞻星蛙科**
+
+- 玻璃蛙 / Glass Frog — *Hyalinobatrachium fleischmanni* `glass-frog`
+
 **箭毒蛙科**
 
 - 黄金箭毒蛙 / Golden Poison Frog — *Phyllobates terribilis* `golden-poison-frog`
@@ -370,11 +423,101 @@
 
 - 墨西哥钝口螈 / Axolotl — *Ambystoma mexicanum* `axolotl`
 
+**隐鳃鲵科**
+
+- 中国大鲵 / Chinese Giant Salamander — *Andrias davidianus* `chinese-giant-salamander`
+
+---
+
+## 头足纲
+
+### 八腕目
+
+**肠蛸科**
+
+- 北太平洋巨型章鱼 / Giant Pacific Octopus — *Enteroctopus dofleini* `giant-pacific-octopus`
+
+### 鹦鹉螺目
+
+**鹦鹉螺科**
+
+- 珍珠鹦鹉螺 / Chambered Nautilus — *Nautilus pompilius* `chambered-nautilus`
+
+---
+
+## 硬骨鱼纲
+
+### 海龙目
+
+**海龙科**
+
+- 叶海龙 / Leafy Seadragon — *Phycodurus eques* `leafy-seadragon`
+
+### 鲀形目
+
+**翻车鲀科**
+
+- 翻车鱼 / Ocean Sunfish — *Mola mola* `ocean-sunfish`
+
+### 鲈形目
+
+**雀鲷科**
+
+- 眼斑双锯鱼(小丑鱼) / Ocellaris Clownfish — *Amphiprion ocellaris* `ocellaris-clownfish`
+
+---
+
+## 腹足纲
+
+### 裸鳃目
+
+**海神鳃科**
+
+- 大西洋海神海蛞蝓 / Blue Dragon — *Glaucus atlanticus* `blue-dragon`
+
+---
+
+## 软甲纲
+
+### 口足目
+
+**齿指虾蛄科**
+
+- 雀尾螳螂虾 / Peacock Mantis Shrimp — *Odontodactylus scyllarus* `peacock-mantis-shrimp`
+
+### 等足目
+
+**漂水虱科**
+
+- 大王具足虫 / Giant Isopod — *Bathynomus giganteus* `giant-isopod`
+
 ---
 
 ## 软骨鱼纲
 
+### 真鲨目
+
+**双髻鲨科**
+
+- 无刺锤头鲨 / Great Hammerhead — *Sphyrna mokarran* `great-hammerhead`
+
+### 须鲨目
+
+**鲸鲨科**
+
+- 鲸鲨 / Whale Shark — *Rhincodon typus* `whale-shark`
+
+### 鲼形目
+
+**蝠鲼科**
+
+- 巨型魔鬼鱼 / Giant Manta Ray — *Mobula birostris* `giant-manta-ray`
+
 ### 鼠鲨目
+
+**尖吻鲨科**
+
+- 欧氏尖吻鲨 / Goblin Shark — *Mitsukurina owstoni* `goblin-shark`
 
 **鼠鲨科**
 

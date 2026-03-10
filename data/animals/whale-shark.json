@@ -1,0 +1,94 @@
+{
+  "id": "whale-shark",
+  "name_zh": "鲸鲨",
+  "name_en": "Whale Shark",
+  "scientific_name": "Rhincodon typus",
+  "ui_tags": [
+    "Fish",
+    "Ocean",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "zh": "软骨鱼纲"
+    },
+    "order": {
+      "en": "Orectolobiformes",
+      "zh": "须鲨目"
+    },
+    "family": {
+      "en": "Rhincodontidae",
+      "zh": "鲸鲨科"
+    },
+    "genus": {
+      "en": "Rhincodon",
+      "zh": "鲸鲨属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The largest known fish species in the world, a slow-moving filter-feeding shark covered in beautiful white spots.",
+    "zh": "世界上已知体型最大的鱼类，一种行动缓慢、身上布满美丽白斑的滤食性鲨鱼。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The whale shark is a true giant of the sea, growing as long as a school bus! They have dark blue-gray skin covered in a unique pattern of white spots and stripes that are like a starry sky. Their massive mouth can be over 1.5 meters wide, but they only have tiny teeth.",
+      "zh": "鲸鲨是海洋中真正的巨人，体长可以像校车一样！它们有着深蓝灰色的皮肤，上面覆盖着独特的白斑和条纹，就像繁星点点的夜空。它们巨大的嘴巴可以超过1.5米宽，但只长着微小的牙齿。"
+    },
+    "ecology_and_behavior": {
+      "en": "Whale sharks are gentle giants that don't bite. They are filter feeders, swimming with their mouths wide open to gulp down clouds of tiny plankton and small fish. They travel thousands of miles across the oceans to find areas where food is most abundant.",
+      "zh": "鲸鲨是温和的庞然大物，从不咬人。它们是滤食性动物，张大嘴巴游动以吞下成群的微小浮游生物和小鱼。它们会在海洋中穿行数千英里，寻找食物最丰富的海域。"
+    },
+    "habitat_and_distribution": {
+      "en": "These sharks love warm tropical and temperate waters all around the globe. They prefer the open ocean but often visit coral reefs and coastal lagoons where they can find plenty of snacks. They are usually solitary but gather in large numbers during feeding seasons.",
+      "zh": "这种鲨鱼喜爱全球各地的温暖热带和温带水域。它们更喜欢远洋海洋，但也经常造访珊瑚礁和沿海泻湖，在那里寻找零食。它们通常是独行侠，但在进食季节会大量聚集。"
+    }
+  },
+  "habitat": {
+    "text_en": "Global tropical and warm temperate oceans",
+    "text_zh": "全球热带和温带暖水海洋",
+    "map_coordinates": [
+      0,
+      160
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          35,
+          -180
+        ],
+        [
+          35,
+          180
+        ],
+        [
+          -35,
+          180
+        ],
+        [
+          -35,
+          -180
+        ],
+        [
+          35,
+          -180
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/whale-shark.jpg"
+}

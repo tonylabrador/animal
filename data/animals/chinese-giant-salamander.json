@@ -1,0 +1,94 @@
+{
+  "id": "chinese-giant-salamander",
+  "name_zh": "中国大鲵",
+  "name_en": "Chinese Giant Salamander",
+  "scientific_name": "Andrias davidianus",
+  "ui_tags": [
+    "Amphibian",
+    "River",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Amphibia",
+      "zh": "两栖纲"
+    },
+    "order": {
+      "en": "Caudata",
+      "zh": "有尾目"
+    },
+    "family": {
+      "en": "Cryptobranchidae",
+      "zh": "隐鳃鲵科"
+    },
+    "genus": {
+      "en": "Andrias",
+      "zh": "大鲵属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "Commonly known as the 「Baby Fish」 because its distress call sounds like a crying infant.",
+    "zh": "俗称「娃娃鱼」，因为它的叫声听起来很像婴儿的哭声。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "It is the world's largest amphibian, growing up to 1.8 meters long. It has flat heads, tiny eyes, and wrinkled skin.",
+      "zh": "它是世界上最大的两栖动物，身长可达 1.8 米。它有扁平的头、微小的眼睛和皱巴巴的皮肤。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are nocturnal hunters that wait for crabs and fish in cold mountain streams. They can live for over 60 years!",
+      "zh": "它们是夜间猎手，在寒冷的山涧中等待螃蟹和鱼类。它们可以活 60 多年！"
+    },
+    "habitat_and_distribution": {
+      "en": "Found in mountain streams and lakes in central, south, and southwest China.",
+      "zh": "分布在中国中部、南部和西南部的山涧河流与湖泊中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Cold mountain streams in China",
+    "text_zh": "中国山间溪流",
+    "map_coordinates": [
+      30,
+      110
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [
+        [
+          25,
+          105
+        ],
+        [
+          35,
+          105
+        ],
+        [
+          35,
+          115
+        ],
+        [
+          25,
+          115
+        ],
+        [
+          25,
+          105
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/chinese-giant-salamander.jpg"
+}

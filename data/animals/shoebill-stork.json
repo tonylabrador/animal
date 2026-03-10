@@ -1,0 +1,94 @@
+{
+  "id": "shoebill-stork",
+  "name_zh": "鲸头鹳",
+  "name_en": "Shoebill Stork",
+  "scientific_name": "Balaeniceps rex",
+  "ui_tags": [
+    "Bird",
+    "Wetland",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Pelecaniformes",
+      "zh": "鹈形目"
+    },
+    "family": {
+      "en": "Balaenicipitidae",
+      "zh": "鲸头鹳科"
+    },
+    "genus": {
+      "en": "Balaeniceps",
+      "zh": "鲸头鹳属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "A large prehistoric-looking bird with a giant bill shaped like a wooden shoe.",
+    "zh": "一种看起来具有史前感的巨型鸟类，拥有巨大的、像木鞋一样的喙。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They stand up to 1.5 meters tall. Their massive bill has a sharp hook at the end for grabbing slippery lungfish.",
+      "zh": "它们身高可达 1.5 米。它们巨大的喙末端有一个锋利的钩子，用来抓取滑溜溜的肺鱼。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are famous for standing completely still for hours while hunting. They communicate by clattering their bills together.",
+      "zh": "它们因在狩猎时能静止不动站立数小时而闻名。它们通过拍打喙部发出响声来进行交流。"
+    },
+    "habitat_and_distribution": {
+      "en": "Live in the freshwater swamps of tropical East Africa, particularly in Sudan and Uganda.",
+      "zh": "生活在热带东非的淡水沼泽中，特别是在苏丹和乌干达。"
+    }
+  },
+  "habitat": {
+    "text_en": "Swamps of East Africa",
+    "text_zh": "东非沼泽地",
+    "map_coordinates": [
+      1,
+      32
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          10,
+          25
+        ],
+        [
+          -5,
+          25
+        ],
+        [
+          -5,
+          35
+        ],
+        [
+          10,
+          35
+        ],
+        [
+          10,
+          25
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/shoebill-stork.jpg"
+}

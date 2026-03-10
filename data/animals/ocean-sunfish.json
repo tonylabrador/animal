@@ -1,0 +1,94 @@
+{
+  "id": "ocean-sunfish",
+  "name_zh": "翻车鱼",
+  "name_en": "Ocean Sunfish",
+  "scientific_name": "Mola mola",
+  "ui_tags": [
+    "Fish",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "硬骨鱼纲"
+    },
+    "order": {
+      "en": "Tetraodontiformes",
+      "zh": "鲀形目"
+    },
+    "family": {
+      "en": "Molidae",
+      "zh": "翻车鲀科"
+    },
+    "genus": {
+      "en": "Mola",
+      "zh": "翻车鲀属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The heaviest bony fish on Earth, known for its strange flat body and habit of sunbathing on the water's surface.",
+    "zh": "地球上最重的硬骨鱼，以其奇异的扁平身体和在水面晒太阳的习性而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The ocean sunfish looks like a giant floating fish head! It has a flattened body with no real tail, just a rounded fringe. Despite looking clumsy, it is the heaviest bony fish in the world, weighing up to 2,300 kilograms. Its skin is thick and rough, like sandpaper.",
+      "zh": "翻车鱼看起来就像一个漂浮的巨大鱼头！它有着扁平的身体，没有真正的尾巴，只有一个圆形的边缘。尽管看起来很笨拙，它却是世界上最重的硬骨鱼，重达2300公斤。它的皮肤又厚又粗糙，就像砂纸一样。"
+    },
+    "ecology_and_behavior": {
+      "en": "Sunfish are famous for lying flat on the surface of the ocean. They do this to warm their bodies in the sun after diving deep into the cold water. While sunbathing, they let seagulls peck parasites off their skin. Their favorite food is jellyfish, and they have to eat a lot of them to stay full.",
+      "zh": "翻车鱼以平躺在海面上而闻名。它们这样做是在深潜入冷水后，利用阳光来温暖身体。在晒太阳时，它们会让海鸥啄掉皮肤上的寄生虫。它们最喜欢的食物是水母，为了填饱肚子必须吃掉很多水母。"
+    },
+    "habitat_and_distribution": {
+      "en": "They roam the open waters of all the world's major tropical and temperate oceans. Although they spend much of their time at the surface, they are incredible divers and can swim down to 600 meters deep to hunt for snacks.",
+      "zh": "它们游弋在全球各大主要热带和温带海洋的开阔水域。虽然它们大部分时间待在海面，但它们也是惊人的潜水高手，可以潜到600米深的地方寻找点心。"
+    }
+  },
+  "habitat": {
+    "text_en": "Global tropical and temperate oceans",
+    "text_zh": "全球热带和温带海洋",
+    "map_coordinates": [
+      0,
+      -40
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          55,
+          -180
+        ],
+        [
+          55,
+          180
+        ],
+        [
+          -55,
+          180
+        ],
+        [
+          -55,
+          -180
+        ],
+        [
+          55,
+          -180
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/ocean-sunfish.jpg"
+}

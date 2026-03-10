@@ -1,0 +1,94 @@
+{
+  "id": "giant-manta-ray",
+  "name_zh": "巨型魔鬼鱼",
+  "name_en": "Giant Manta Ray",
+  "scientific_name": "Mobula birostris",
+  "ui_tags": [
+    "Fish",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "zh": "软骨鱼纲"
+    },
+    "order": {
+      "en": "Myliobatiformes",
+      "zh": "鲼形目"
+    },
+    "family": {
+      "en": "Mobulidae",
+      "zh": "蝠鲼科"
+    },
+    "genus": {
+      "en": "Mobula",
+      "zh": "蝠鲼属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The largest ray in the world, these intelligent giants glide through the ocean using wing-like fins that can span 7 meters.",
+    "zh": "世界上最大的鳐鱼，这些聪明的巨兽利用跨度达7米的翼状鳍在海洋中滑行。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Giant manta rays have flat, diamond-shaped bodies with massive triangular 'wings'. Near their mouth, they have two cephalic fins that look like horns, which help funnel food into their mouth. Unlike stingrays, they have no stinger and are completely harmless to humans.",
+      "zh": "巨型魔鬼鱼有着扁平的菱形身体和巨大的三角形‘翅膀’。在嘴边，它们有两个像角一样的头鳍，能帮助把食物漏进嘴里。与黄貂鱼不同，它们没有毒刺，对人类完全无害。"
+    },
+    "ecology_and_behavior": {
+      "en": "These rays are super smart and have the largest brain of any fish! They perform underwater backflips to gulp down huge amounts of tiny plankton. They love to visit 'cleaning stations' on reefs where small fish pick parasites off their skin, almost like going to a car wash.",
+      "zh": "这些鳐鱼超级聪明，拥有鱼类中最大的大脑！它们会表演水下后空翻来吞下大量的微小浮游生物。它们喜欢造访礁石上的‘清洁站’，让小鱼啄食皮肤上的寄生虫，简直就像去洗车房一样。"
+    },
+    "habitat_and_distribution": {
+      "en": "Manta rays are world travelers, roaming the open waters of all the major tropical and subtropical oceans. They can dive down to 1,000 meters deep into the dark ocean but are most often seen gracefully swimming near the surface or around coral reefs.",
+      "zh": "魔鬼鱼是世界旅行者，漫游在所有主要热带和亚热带海洋的开阔海域。它们可以潜入1000米深的漆黑海洋，但最常见到它们在海面附近或珊瑚礁周围优雅地游泳。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical and subtropical oceans",
+    "text_zh": "热带和亚热带海洋",
+    "map_coordinates": [
+      0,
+      -140
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          35,
+          -180
+        ],
+        [
+          35,
+          180
+        ],
+        [
+          -35,
+          180
+        ],
+        [
+          -35,
+          -180
+        ],
+        [
+          35,
+          -180
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/giant-manta-ray.jpg"
+}

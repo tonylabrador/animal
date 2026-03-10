@@ -1,0 +1,98 @@
+{
+  "id": "chambered-nautilus",
+  "name_zh": "珍珠鹦鹉螺",
+  "name_en": "Chambered Nautilus",
+  "scientific_name": "Nautilus pompilius",
+  "ui_tags": [
+    "Invertebrate",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Mollusca",
+      "zh": "软体动物门"
+    },
+    "class": {
+      "en": "Cephalopoda",
+      "zh": "头足纲"
+    },
+    "order": {
+      "en": "Nautilida",
+      "zh": "鹦鹉螺目"
+    },
+    "family": {
+      "en": "Nautilidae",
+      "zh": "鹦鹉螺科"
+    },
+    "genus": {
+      "en": "Nautilus",
+      "zh": "鹦鹉螺属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "A 'living fossil' that lives inside a beautiful spiral shell and uses jet propulsion to swim.",
+    "zh": "一种‘活化石’，生活在美丽的螺旋形外壳中，利用喷气推进来游泳。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The nautilus is a relative of the octopus but lives inside a gorgeous tiger-striped shell. Inside the shell are many empty rooms called 'chambers'. They have over 90 tiny tentacles to grab food and large eyes that work like pinhole cameras to see in the deep dark ocean.",
+      "zh": "鹦鹉螺是章鱼的亲戚，但生活在一个华丽的虎纹外壳里。壳的内部有许多被称为‘气室’的空房间。它们有90多根细小的触手来抓取食物，大大的眼睛像针孔摄像机一样，帮助它们在漆黑的深海中看清东西。"
+    },
+    "ecology_and_behavior": {
+      "en": "Nautiluses act like little submarines! They pump gas and liquid into their shell's chambers to float up or sink down. They swim backward by shooting water out of a special tube. During the day they hide deep in the ocean, and at night they float up to coral reefs to hunt for crabs.",
+      "zh": "鹦鹉螺就像一艘小潜水艇！它们向外壳的气室里注入气体和液体，从而上浮或下潜。它们通过一根特殊的管子向外喷水来倒退游泳。白天它们躲在深海，晚上则浮上珊瑚礁捕食螃蟹。"
+    },
+    "habitat_and_distribution": {
+      "en": "These prehistoric creatures live in the tropical waters of the Indo-Pacific Ocean, especially near the deep slopes of coral reefs. They have been around for over 500 million years, long before the dinosaurs existed!",
+      "zh": "这些史前生物生活在印度洋-太平洋的热带水域，尤其是珊瑚礁的深坡附近。它们已经存在了5亿多年，比恐龙出现还要早得多！"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical Indo-Pacific deep reefs",
+    "text_zh": "热带印度-太平洋深海礁石",
+    "map_coordinates": [
+      0,
+      125
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          20,
+          110
+        ],
+        [
+          20,
+          140
+        ],
+        [
+          10,
+          155
+        ],
+        [
+          -25,
+          155
+        ],
+        [
+          -15,
+          120
+        ],
+        [
+          20,
+          110
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/chambered-nautilus.jpg"
+}

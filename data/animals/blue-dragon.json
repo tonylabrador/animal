@@ -1,0 +1,94 @@
+{
+  "id": "blue-dragon",
+  "name_zh": "大西洋海神海蛞蝓",
+  "name_en": "Blue Dragon",
+  "scientific_name": "Glaucus atlanticus",
+  "ui_tags": [
+    "Invertebrate",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Mollusca",
+      "zh": "软体动物门"
+    },
+    "class": {
+      "en": "Gastropoda",
+      "zh": "腹足纲"
+    },
+    "order": {
+      "en": "Nudibranchia",
+      "zh": "裸鳃目"
+    },
+    "family": {
+      "en": "Glaucidae",
+      "zh": "海神鳃科"
+    },
+    "genus": {
+      "en": "Glaucus",
+      "zh": "海神鳃属"
+    }
+  },
+  "conservation_status": {
+    "code": "DD",
+    "en": "Data Deficient",
+    "zh": "数据缺乏"
+  },
+  "description": {
+    "en": "A beautiful blue sea slug that floats upside down on the ocean surface and eats venomous jellyfish.",
+    "zh": "一种美丽的蓝色海蛞蝓，肚皮朝上漂浮在海面上，以有毒的水母为食。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They are only 3 cm long. They use countershading: their blue belly faces up to match the water, and their silver back faces down.",
+      "zh": "它们只有 3 厘米长。它们利用反荫蔽：蓝色的腹部朝上以融入海水，银色的背部朝下。"
+    },
+    "ecology_and_behavior": {
+      "en": "They float by swallowing air bubbles. They swallow the stinging cells of jellyfish and use them for their own defense.",
+      "zh": "它们通过吞食气泡来漂浮。它们会吞下水母的刺细胞，并将其转用于自身的防御。"
+    },
+    "habitat_and_distribution": {
+      "en": "Found in temperate and tropical waters of the Atlantic, Pacific, and Indian Oceans.",
+      "zh": "分布于大西洋、太平洋和印度洋的温带及热带海域。"
+    }
+  },
+  "habitat": {
+    "text_en": "Open ocean surface",
+    "text_zh": "大洋表面",
+    "map_coordinates": [
+      0,
+      0
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          40,
+          -180
+        ],
+        [
+          -40,
+          -180
+        ],
+        [
+          -40,
+          180
+        ],
+        [
+          40,
+          180
+        ],
+        [
+          40,
+          -180
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/blue-dragon.jpg"
+}

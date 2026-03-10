@@ -1,0 +1,120 @@
+{
+  "id": "beluga-whale",
+  "name_zh": "白鲸",
+  "name_en": "Beluga Whale",
+  "scientific_name": "Delphinapterus leucas",
+  "ui_tags": [
+    "Mammal",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Monodontidae",
+      "zh": "一角鲸科"
+    },
+    "genus": {
+      "en": "Delphinapterus",
+      "zh": "白鲸属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The 'canary of the sea', a stark-white whale known for its flexible neck and cheerful clicks and whistles.",
+    "zh": "‘海中金丝雀’，一种雪白的鲸鱼，以其灵活的脖子和欢快的咔哒声及口哨声而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Belugas are completely white as adults, which helps them hide among the Arctic ice. They have a big squishy bump on their forehead called a 'melon' that they use to make sounds. Unlike other whales, they can turn their heads up, down, and side to side because their neck bones aren't fused.",
+      "zh": "白鲸成年后全身雪白，这有助于它们躲在北极冰层中。它们的前额有一个巨大的、软绵绵的隆起，叫做‘额隆’，用来发出声音。与其他鲸鱼不同，由于颈骨没有愈合，它们可以上下左右转动头部。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are called 'canaries of the sea' because they are very chatty! They use a wide range of chirps, whistles, and squeals to talk to each other. Belugas are very social and live in groups called pods. They are playful and have been known to blow bubble rings underwater just for fun.",
+      "zh": "它们被称为‘海中金丝雀’，因为它们非常爱聊天！它们利用各种叽叽声、口哨声和尖叫声互相交谈。白鲸非常合群，生活在被称为‘荚’的小群体中。它们很爱玩，已知它们会在水下吹出气泡圈，纯粹是为了好玩。"
+    },
+    "habitat_and_distribution": {
+      "en": "Belugas live in the freezing icy waters of the Arctic and sub-Arctic. In the summer, they often swim into shallow river mouths where they rub their bodies against the gravel to shed their old skin. They are built for life in the ice and don't have a dorsal fin on their back.",
+      "zh": "白鲸生活在北极和亚北极地区寒冷的冰封水域。在夏天，它们经常游进浅水河口，在砾石上摩擦身体以蜕掉旧皮。它们天生适合在冰层中生活，背上没有背鳍。"
+    }
+  },
+  "habitat": {
+    "text_en": "Arctic and sub-Arctic coastal waters",
+    "text_zh": "北极及亚北极沿海水域",
+    "map_coordinates": [
+      70,
+      -100
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          60,
+          -170
+        ],
+        [
+          75,
+          -165
+        ],
+        [
+          80,
+          -100
+        ],
+        [
+          75,
+          -60
+        ],
+        [
+          60,
+          -60
+        ],
+        [
+          60,
+          -170
+        ]
+      ],
+      [
+        [
+          70,
+          30
+        ],
+        [
+          80,
+          90
+        ],
+        [
+          75,
+          160
+        ],
+        [
+          60,
+          150
+        ],
+        [
+          70,
+          30
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/beluga-whale.jpg"
+}

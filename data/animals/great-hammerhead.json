@@ -1,0 +1,130 @@
+{
+  "id": "great-hammerhead",
+  "name_zh": "无刺锤头鲨",
+  "name_en": "Great Hammerhead",
+  "scientific_name": "Sphyrna mokarran",
+  "ui_tags": [
+    "Fish",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "zh": "软骨鱼纲"
+    },
+    "order": {
+      "en": "Carcharhiniformes",
+      "zh": "真鲨目"
+    },
+    "family": {
+      "en": "Sphyrnidae",
+      "zh": "双髻鲨科"
+    },
+    "genus": {
+      "en": "Sphyrna",
+      "zh": "双髻鲨属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "A powerful predator with a unique hammer-shaped head that gives it 360-degree vision and special hunting sensors.",
+    "zh": "一种强大的捕食者，拥有独特的锤状头部，赋予其360度视野和特殊的狩猎传感器。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The great hammerhead is the largest of its kind, reaching up to 6 meters long! Its wide, flat head is called a 'cephalofoil'. Because its eyes are on the ends of the 'hammer', it can see everything around it. It is also packed with sensors that help it find hidden fish under the sand.",
+      "zh": "无刺锤头鲨（大双髻鲨）是此类鲨鱼中体型最大的，全长可达6米！它宽阔平坦的头部被称为‘头翼’。因为眼睛长在‘锤子’的两端，它可以看到周围的一切。它还长满了传感器，帮助它寻找藏在沙子下面的鱼。"
+    },
+    "ecology_and_behavior": {
+      "en": "Hammerheads have a favorite snack: stingrays! They use their wide head to pin stingrays to the ocean floor. They often travel long distances to reach warmer waters in the winter. Unlike many other sharks, they often swim on their sides to save energy.",
+      "zh": "双髻鲨有一种最喜欢的点心：黄貂鱼！它们利用宽大的头部将黄貂鱼按在海底。它们经常长途旅行，在冬天寻找更温暖的海域。与许多其他鲨鱼不同，它们经常侧着身子游泳以节省能量。"
+    },
+    "habitat_and_distribution": {
+      "en": "They live in warm tropical and subtropical waters worldwide. You can find them along the coasts, on continental shelves, and around coral reefs. Sadly, they are critically endangered because people catch them for their fins.",
+      "zh": "它们生活在全球温暖的热带和亚热带海域。你可以在沿海、大陆架和珊瑚礁周围发现它们的身影。遗憾的是，由于人类为了获取鱼鳍而捕捉它们，它们目前正处于极度濒危状态。"
+    }
+  },
+  "habitat": {
+    "text_en": "Warm coastal and open oceans",
+    "text_zh": "温暖的沿海及公海海域",
+    "map_coordinates": [
+      25,
+      -80
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          35,
+          -125
+        ],
+        [
+          25,
+          -115
+        ],
+        [
+          5,
+          -85
+        ],
+        [
+          -35,
+          -80
+        ],
+        [
+          -35,
+          -40
+        ],
+        [
+          35,
+          -10
+        ],
+        [
+          35,
+          10
+        ],
+        [
+          15,
+          45
+        ],
+        [
+          -30,
+          50
+        ],
+        [
+          -35,
+          120
+        ],
+        [
+          -15,
+          150
+        ],
+        [
+          30,
+          150
+        ],
+        [
+          35,
+          120
+        ],
+        [
+          35,
+          -125
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/great-hammerhead.jpg"
+}

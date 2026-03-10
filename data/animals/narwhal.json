@@ -1,0 +1,102 @@
+{
+  "id": "narwhal",
+  "name_zh": "独角鲸",
+  "name_en": "Narwhal",
+  "scientific_name": "Monodon monoceros",
+  "ui_tags": [
+    "Mammal",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Monodontidae",
+      "zh": "一角鲸科"
+    },
+    "genus": {
+      "en": "Monodon",
+      "zh": "一角鲸属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The 'unicorn of the sea', a whale famous for the long, spiraled tusk that grows from its upper lip.",
+    "zh": "‘海中独角兽’，一种鲸鱼，以其从上唇长出的长而螺旋状的长牙而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The narwhal is famous for its long 'horn', which is actually a giant tooth that grows through its lip! Only males usually have this spiraled tusk, and it can grow to be 3 meters long. Their bodies are mottled gray and white, blending in with the slushy Arctic waters.",
+      "zh": "独角鲸以其长长的‘角’而闻名，那其实是一颗穿透嘴唇长出来的巨大牙齿！通常只有雄性拥有这种螺旋状的长牙，它可以长到3米长。它们的身体布满灰白斑点，能融入北极泥泞的水域。"
+    },
+    "ecology_and_behavior": {
+      "en": "Scientists found that the narwhal's tusk is full of sensitive nerve endings, acting like a weather station to feel the water! They are deep divers, swimming down more than 1,500 meters to hunt for flatfish and squid. They live in small family groups and communicate with clicks and whistles.",
+      "zh": "科学家发现，独角鲸的长牙布满了敏感的神经末梢，就像一个能感知水况的气象站！它们是深潜高手，能游到1500多米深的地方捕猎比目鱼和乌贼。它们以小家庭的形式生活，通过咔哒声和口哨声交流。"
+    },
+    "habitat_and_distribution": {
+      "en": "Narwhals live in the high Arctic Ocean, mostly around Canada, Greenland, and Russia. They love to stay close to the sea ice and spend their winters in deep water under the ice, coming up to breathe in small cracks called leads.",
+      "zh": "独角鲸生活在高纬度的北冰洋，主要分布在加拿大、格陵兰岛和俄罗斯周边。它们喜欢靠近海冰，并在冰下的深水中过冬，通过被称为‘冰裂缝’的小开口浮出水面呼吸。"
+    }
+  },
+  "habitat": {
+    "text_en": "High Arctic Ocean",
+    "text_zh": "高纬度北冰洋",
+    "map_coordinates": [
+      75,
+      -60
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          65,
+          -90
+        ],
+        [
+          75,
+          -100
+        ],
+        [
+          82,
+          -60
+        ],
+        [
+          80,
+          30
+        ],
+        [
+          70,
+          80
+        ],
+        [
+          65,
+          0
+        ],
+        [
+          65,
+          -90
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/narwhal.jpg"
+}

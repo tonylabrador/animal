@@ -1,0 +1,106 @@
+{
+  "id": "giant-pacific-octopus",
+  "name_zh": "北太平洋巨型章鱼",
+  "name_en": "Giant Pacific Octopus",
+  "scientific_name": "Enteroctopus dofleini",
+  "ui_tags": [
+    "Invertebrate",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Mollusca",
+      "zh": "软体动物门"
+    },
+    "class": {
+      "en": "Cephalopoda",
+      "zh": "头足纲"
+    },
+    "order": {
+      "en": "Octopoda",
+      "zh": "八腕目"
+    },
+    "family": {
+      "en": "Enteroctopodidae",
+      "zh": "肠蛸科"
+    },
+    "genus": {
+      "en": "Enteroctopus",
+      "zh": "肠蛸属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A highly intelligent invertebrate with three hearts, nine brains, and amazing shape-shifting abilities.",
+    "zh": "一种高度聪明的无脊椎动物，拥有三颗心脏、九个大脑和惊人的变形能力。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "This is the largest octopus in the world, with an arm span reaching over 4 meters! It has eight powerful arms covered in hundreds of suction cups. Amazingly, it has three hearts that pump blue blood and a central brain plus a mini-brain in each of its arms to help them move independently.",
+      "zh": "这是世界上最大的章鱼，臂展可超过4米！它有八条强有力的腕足，上面覆盖着数百个吸盘。神奇的是，它有三颗泵送蓝色血液的心脏，还有一个主大脑和分布在每条腕足里的微型大脑，帮助它们独立移动。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are masters of disguise and can change their color and skin texture in a split second to look like rocks or seaweed. They use their strong arms to pry open crabs and clams. These octopuses are very smart and can solve puzzles, open jars, and even recognize individual people!",
+      "zh": "它们是伪装大师，能在一瞬间改变颜色和皮肤纹理，让自己看起来像岩石或海藻。它们利用强健的腕足撬开螃蟹和蛤蜊。这些章鱼非常聪明，能解决难题、拧开罐子，甚至能认出不同的人！"
+    },
+    "habitat_and_distribution": {
+      "en": "They live in the cold, deep waters of the Northern Pacific Ocean, from the coast of California up to Alaska and across to Japan. They prefer to hide in rocky dens and underwater caves during the day, coming out at night to hunt.",
+      "zh": "它们生活在北太平洋寒冷深邃的海域，从加利福尼亚海岸一直到阿拉斯加并横跨到日本。它们喜欢在白天躲在岩礁洞穴和水下洞穴中，在夜间出来捕猎。"
+    }
+  },
+  "habitat": {
+    "text_en": "Northern Pacific coastlines",
+    "text_zh": "北太平洋沿岸",
+    "map_coordinates": [
+      45,
+      -140
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          30,
+          -115
+        ],
+        [
+          45,
+          -125
+        ],
+        [
+          60,
+          -145
+        ],
+        [
+          65,
+          -170
+        ],
+        [
+          60,
+          160
+        ],
+        [
+          45,
+          140
+        ],
+        [
+          30,
+          130
+        ],
+        [
+          30,
+          -115
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/giant-pacific-octopus.jpg"
+}
