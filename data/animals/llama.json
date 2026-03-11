@@ -1,0 +1,106 @@
+{
+  "id": "llama",
+  "name_zh": "大羊驼",
+  "name_en": "Llama",
+  "scientific_name": "Lama glama",
+  "ui_tags": [
+    "Mammal",
+    "Mountains",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Camelidae",
+      "zh": "骆驼科"
+    },
+    "genus": {
+      "en": "Lama",
+      "zh": "羊驼属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The llama is a large domestic camelid descended from the wild guanaco, serving as the most important pack animal of the Andes for centuries.",
+    "zh": "大羊驼是由野生的原驼驯化而来的大型家畜，数世纪以来一直是安第斯山脉最重要的搬运伙伴。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Llamas are the largest South American camelids, standing up to 1.8 meters. They are distinguished by their long necks, banana-shaped ears, and sturdy frames capable of carrying heavy loads over rocky mountain paths.",
+      "zh": "大羊驼是南美洲体型最大的骆驼科动物，身高可达1.8米。它们的特征是长脖子、香蕉状的耳朵以及强壮的骨架，能够背负重物走过崎岖的山路。"
+    },
+    "ecology_and_behavior": {
+      "en": "Domesticated from the wild guanaco about 6,000 years ago, llamas are intelligent and social. They use a unique spitting behavior to defend themselves or express annoyance within the herd.",
+      "zh": "大羊驼约在6000年前由原驼驯化而来，非常聪明且具有社会性。它们会通过吐口水的奇特行为来保护自己或在群体中表达不满。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are widely distributed across the high Andes of Peru, Bolivia, Chile, and Argentina. They thrive in rugged mountainous regions where grazing is sparse but space is vast.",
+      "zh": "它们广泛分布在秘鲁、玻利维亚、智利和阿根廷的高海拔安第斯山区。它们在植被稀疏但空间广阔的崎岖山地中繁衍生息。"
+    }
+  },
+  "habitat": {
+    "text_en": "High Andes Mountains",
+    "text_zh": "高海拔安第斯山脉",
+    "map_coordinates": [
+      -15,
+      -70
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -1,
+          -78
+        ],
+        [
+          -10,
+          -75
+        ],
+        [
+          -20,
+          -68
+        ],
+        [
+          -35,
+          -70
+        ],
+        [
+          -35,
+          -65
+        ],
+        [
+          -15,
+          -62
+        ],
+        [
+          0,
+          -75
+        ],
+        [
+          -1,
+          -78
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/llama.jpg"
+}

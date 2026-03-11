@@ -1,0 +1,98 @@
+{
+  "id": "snowshoe-hare",
+  "name_zh": "雪鞋兔",
+  "name_en": "Snowshoe Hare",
+  "scientific_name": "Lepus americanus",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Lagomorpha",
+      "zh": "兔形目"
+    },
+    "family": {
+      "en": "Leporidae",
+      "zh": "兔科"
+    },
+    "genus": {
+      "en": "Lepus",
+      "zh": "兔属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The snowshoe hare is a master of disguise whose coat changes from brown in summer to pure white in winter.",
+    "zh": "雪鞋兔是伪装大师，它的皮毛会在夏天呈棕色，到了冬天则变成纯白色。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Named for their large hind feet, which are lined with stiff hairs, they can run on top of deep snow without sinking. Their seasonal color-changing coat is a perfect camouflage against hungry predators.",
+      "zh": "它们因巨大的后脚而得名，脚底长满了硬毛，让它们能在深雪上奔跑而不下陷。它们随季节变色的皮毛是抵御饥饿捕食者的完美伪装。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are incredibly fast, capable of reaching speeds up to 43 km/h to escape their main enemy, the Canadian lynx. They eat grasses and ferns in summer, and chew on twigs and tree bark during the harsh winters.",
+      "zh": "它们速度极快，能以高达43公里/小时的速度奔跑，以躲避它们的主要天敌——加拿大猞猁。它们在夏天吃草和蕨类植物，在严冬则啃食树枝和树皮。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are widely distributed across the northern forests of North America. Like the lynx that hunts them, their population numbers go up and down in a dramatic 10-year cycle.",
+      "zh": "它们广泛分布在北美洲的北方森林中。就像捕猎它们的猞猁一样，它们的种群数量呈现出戏剧性的「十年一循环」的波动。"
+    }
+  },
+  "habitat": {
+    "text_en": "Boreal and Montane Forests",
+    "text_zh": "北方针叶林及山地森林",
+    "map_coordinates": [
+      55,
+      -100
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          40,
+          -125
+        ],
+        [
+          70,
+          -165
+        ],
+        [
+          70,
+          -55
+        ],
+        [
+          40,
+          -70
+        ],
+        [
+          40,
+          -100
+        ],
+        [
+          40,
+          -125
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/snowshoe-hare.jpg"
+}

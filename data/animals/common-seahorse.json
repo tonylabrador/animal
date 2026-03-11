@@ -1,0 +1,94 @@
+{
+  "id": "common-seahorse",
+  "name_zh": "海马",
+  "name_en": "Common Seahorse",
+  "scientific_name": "Hippocampus kuda",
+  "ui_tags": [
+    "Fish",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "硬骨鱼纲"
+    },
+    "order": {
+      "en": "Syngnathiformes",
+      "zh": "海龙目"
+    },
+    "family": {
+      "en": "Syngnathidae",
+      "zh": "海龙科"
+    },
+    "genus": {
+      "en": "Hippocampus",
+      "zh": "海马属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The seahorse is a magical-looking marine fish known for swimming upright and having males that give birth to babies.",
+    "zh": "海马是一种外观神奇的海洋鱼类，以直立游泳和由雄性孕育后代而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Instead of scales, seahorses are covered in bony plates acting like armor. They have a horse-like head, eyes that move independently like a chameleon, and a prehensile tail used to anchor themselves to seaweed or corals.",
+      "zh": "海马没有鳞片，全身被类似铠甲的骨板覆盖。它们拥有像马一样的头部，像变色龙一样可以独立转动的眼睛，以及用来缠绕固定在海藻或珊瑚上的卷曲尾巴。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are poor swimmers and spend most of their time resting. In a unique twist of nature, the female transfers her eggs into the male's brood pouch, where he fertilizes and carries them until tiny, fully-formed baby seahorses pop out.",
+      "zh": "它们不擅长游泳，大部分时间都在休息。自然界中极其罕见的是，雌性会将卵转移到雄性的育儿袋中，由雄性受精并携带，直到微小但发育完全的小海马蹦出来。"
+    },
+    "habitat_and_distribution": {
+      "en": "They live in shallow tropical and temperate waters of the Indo-Pacific Ocean, finding shelter in seagrass beds, mangrove roots, and coral reefs.",
+      "zh": "它们生活在印度洋-太平洋的热带和温带浅水区，在海草床、红树林根部和珊瑚礁中寻找庇护所。"
+    }
+  },
+  "habitat": {
+    "text_en": "Seagrass beds and coral reefs",
+    "text_zh": "海草床与珊瑚礁",
+    "map_coordinates": [
+      10,
+      110
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          30,
+          40
+        ],
+        [
+          30,
+          180
+        ],
+        [
+          -30,
+          180
+        ],
+        [
+          -30,
+          40
+        ],
+        [
+          30,
+          40
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/common-seahorse.jpg"
+}

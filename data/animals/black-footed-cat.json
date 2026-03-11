@@ -1,0 +1,114 @@
+{
+  "id": "black-footed-cat",
+  "name_zh": "黑足猫",
+  "name_en": "Black-footed Cat",
+  "scientific_name": "Felis nigripes",
+  "ui_tags": [
+    "Mammal",
+    "Desert",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Felidae",
+      "zh": "猫科"
+    },
+    "genus": {
+      "en": "Felis",
+      "zh": "猫属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The black-footed cat is Africa's smallest feline, but it holds the title of the world's deadliest cat due to its incredibly high hunting success rate.",
+    "zh": "黑足猫是非洲体型最小的猫科动物，但由于其高得惊人的捕猎成功率，它拥有「世界上最致命猫科动物」的称号。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Weighing only 1 to 2 kilograms, they look like adorable kittens. They have striking spotted coats and, true to their name, the undersides of their paws are completely black, covered in thick hair to protect them from the scorching desert sand.",
+      "zh": "它们体重仅1到2公斤，看起来就像可爱的小猫。它们披着醒目的斑点皮毛，正如其名，它们脚掌底部是全黑的，并覆盖着厚厚的毛，以保护它们免受滚烫沙漠的灼伤。"
+    },
+    "ecology_and_behavior": {
+      "en": "Don't let their cute appearance fool you! They are relentless nocturnal hunters with a 60% success rate (compared to a lion's 20%). They kill more prey in a single night than a leopard does in six months.",
+      "zh": "别被可爱的外表骗了！它们是无情的夜间猎手，捕猎成功率高达60%（相比之下狮子只有20%）。它们在一个晚上捕杀的猎物比豹子半年捕杀的还要多。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are endemic to the arid zones of southern Africa, particularly the Kalahari and Karoo deserts in South Africa, Namibia, and Botswana.",
+      "zh": "它们是非洲南部干旱地区的特有物种，尤其是在南非、纳米比亚和博茨瓦纳的卡拉哈里和卡鲁沙漠中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Arid deserts and savannas",
+    "text_zh": "干旱沙漠与稀树草原",
+    "map_coordinates": [
+      -28,
+      22
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -34,
+          19
+        ],
+        [
+          -28,
+          16
+        ],
+        [
+          -23,
+          15
+        ],
+        [
+          -19,
+          18
+        ],
+        [
+          -20,
+          22
+        ],
+        [
+          -22,
+          26
+        ],
+        [
+          -26,
+          28
+        ],
+        [
+          -30,
+          26
+        ],
+        [
+          -33,
+          25
+        ],
+        [
+          -34,
+          19
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/black-footed-cat.jpg"
+}

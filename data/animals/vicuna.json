@@ -1,0 +1,102 @@
+{
+  "id": "vicuna",
+  "name_zh": "小羊驼",
+  "name_en": "Vicuña",
+  "scientific_name": "Vicugna vicugna",
+  "ui_tags": [
+    "Mammal",
+    "Mountains",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Camelidae",
+      "zh": "骆驼科"
+    },
+    "genus": {
+      "en": "Vicugna",
+      "zh": "小羊驼属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The vicuña is the smallest wild camelid and the ancestor of the alpaca, famous for producing the finest and most expensive natural fiber in the world.",
+    "zh": "小羊驼是体型最小的野生骆驼，也是羊驼的祖先，因产出世界上最细、最昂贵的天然纤维而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Vicuñas are incredibly graceful with a delicate frame and large, expressive eyes. Their short, cinnamon-colored wool is so efficient at trapping heat that they can survive in the freezing wind of the high peaks.",
+      "zh": "小羊驼身姿优雅，骨架精巧，长着充满灵气的大眼睛。它们短促的肉桂色羊毛极其保暖，能让它们在高峰的寒风中生存。"
+    },
+    "ecology_and_behavior": {
+      "en": "Genetically proven to be the ancestor of the alpaca, vicuñas are very shy and alert. They graze on short grasses during the day and retreat to higher slopes at night to sleep safely.",
+      "zh": "基因证明它们是羊驼的祖先。小羊驼非常害羞且警觉，白天在草地上进食，夜晚则退回到更高的山坡睡觉以保安全。"
+    },
+    "habitat_and_distribution": {
+      "en": "They live exclusively in the high-altitude 「Puna」 grasslands of the central Andes, primarily in Peru. They are found at extreme elevations between 3,200 and 4,800 meters above sea level.",
+      "zh": "它们仅生活在安第斯山脉中部的「普纳」高山草甸，主要分布在秘鲁。它们生活在海拔3200米至4800米之间的极端高地。"
+    }
+  },
+  "habitat": {
+    "text_en": "High-altitude Puna grasslands",
+    "text_zh": "高海拔普纳草甸",
+    "map_coordinates": [
+      -18,
+      -69
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -10,
+          -77
+        ],
+        [
+          -15,
+          -73
+        ],
+        [
+          -25,
+          -68
+        ],
+        [
+          -28,
+          -68
+        ],
+        [
+          -25,
+          -65
+        ],
+        [
+          -10,
+          -70
+        ],
+        [
+          -10,
+          -77
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/vicuna.jpg"
+}

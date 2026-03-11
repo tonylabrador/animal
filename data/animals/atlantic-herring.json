@@ -1,0 +1,154 @@
+{
+  "id": "atlantic-herring",
+  "name_zh": "大西洋鲱",
+  "name_en": "Atlantic Herring",
+  "scientific_name": "Clupea harengus",
+  "ui_tags": [
+    "Fish",
+    "Ocean",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "硬骨鱼纲"
+    },
+    "order": {
+      "en": "Clupeiformes",
+      "zh": "鲱形目"
+    },
+    "family": {
+      "en": "Clupeidae",
+      "zh": "鲱科"
+    },
+    "genus": {
+      "en": "Clupea",
+      "zh": "鲱属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Atlantic herring is one of the most abundant fish in the world, travelling in massive schools and playing a crucial role in the marine food web.",
+    "zh": "大西洋鲱是世界上数量最庞大的鱼类之一，它们成群结队地游动，在海洋食物网中扮演着至关重要的角色。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They have a streamlined, silvery body with a bluish back, perfect for blending into the open ocean. They lack a visible lateral line and have delicate, easily shed scales.",
+      "zh": "它们拥有流线型的银色身体和带蓝色的背部，非常适合隐身于开阔的海洋中。它们没有明显的侧线，长着脆弱易脱落的鳞片。"
+    },
+    "ecology_and_behavior": {
+      "en": "Herring travel in epic schools that can contain billions of fish, moving together in perfect synchronization to confuse predators. They are culturally significant and famously used to make the notoriously smelly Swedish delicacy, surströmming.",
+      "zh": "鲱鱼的鱼群规模极其庞大，可能包含数十亿条鱼，它们完美同步地游动以迷惑捕食者。它们具有重要的文化意义，被用来制作著名的瑞典奇臭美食——鲱鱼罐头。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are widely distributed across the deep waters of the North Atlantic Ocean, from the coasts of North America to Europe and the Arctic.",
+      "zh": "它们广泛分布在北大西洋的深水区，从北美海岸一直延伸到欧洲和北极圈。"
+    }
+  },
+  "habitat": {
+    "text_en": "North Atlantic Ocean",
+    "text_zh": "北大西洋",
+    "map_coordinates": [
+      60,
+      -10
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          50,
+          -10
+        ],
+        [
+          60,
+          -10
+        ],
+        [
+          62,
+          0
+        ],
+        [
+          70,
+          15
+        ],
+        [
+          70,
+          25
+        ],
+        [
+          60,
+          10
+        ],
+        [
+          52,
+          5
+        ],
+        [
+          50,
+          -10
+        ]
+      ],
+      [
+        [
+          40,
+          -75
+        ],
+        [
+          45,
+          -60
+        ],
+        [
+          50,
+          -55
+        ],
+        [
+          60,
+          -60
+        ],
+        [
+          55,
+          -70
+        ],
+        [
+          40,
+          -75
+        ]
+      ],
+      [
+        [
+          63,
+          -25
+        ],
+        [
+          66,
+          -25
+        ],
+        [
+          66,
+          -13
+        ],
+        [
+          63,
+          -13
+        ],
+        [
+          63,
+          -25
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/atlantic-herring.jpg"
+}

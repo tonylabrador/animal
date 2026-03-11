@@ -1,0 +1,138 @@
+{
+  "id": "sand-cat",
+  "name_zh": "沙猫",
+  "name_en": "Sand Cat",
+  "scientific_name": "Felis margarita",
+  "ui_tags": [
+    "Mammal",
+    "Desert",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Felidae",
+      "zh": "猫科"
+    },
+    "genus": {
+      "en": "Felis",
+      "zh": "猫属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The sand cat is a small, fierce wildcat that is the only feline perfectly adapted to living in true deserts.",
+    "zh": "沙猫是一种娇小但凶猛的野猫，也是唯一一种完美适应真正沙漠生活的猫科动物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They are small, weighing only 1.5 to 3.4 kilograms. To survive the scorching sand, they have thick fur growing between their toes, which acts like insulated boots. Their large, low-set ears help them hear prey moving underground.",
+      "zh": "它们体型很小，体重只有1.5到3.4公斤。为了在滚烫的沙子上生存，它们脚趾间长有厚厚的毛，就像穿了隔热靴子。它们宽大且位置较低的耳朵能帮助它们听见猎物在地下移动的声音。"
+    },
+    "ecology_and_behavior": {
+      "en": "Often called the 「honey badger of the desert」, they are fearless hunters that regularly catch and eat venomous snakes! They get all the water they need from their prey and almost never need to drink.",
+      "zh": "它们常被称为沙漠里的「平头哥」，是无所畏惧的猎手，甚至经常捕食毒蛇！它们能从猎物身上获取所需的所有水分，几乎从来不需要喝水。"
+    },
+    "habitat_and_distribution": {
+      "en": "They live in the sandy and stony deserts of North Africa, the Middle East, and Central Asia. Because they are shy and their furry feet leave almost no tracks, they are incredibly hard to find.",
+      "zh": "它们生活在北非、中东和中亚的沙质和多石沙漠中。由于它们生性害羞，而且毛茸茸的脚掌几乎不留脚印，因此在野外极难被发现。"
+    }
+  },
+  "habitat": {
+    "text_en": "Arid Deserts",
+    "text_zh": "干旱沙漠",
+    "map_coordinates": [
+      25,
+      15
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          -15
+        ],
+        [
+          35,
+          -10
+        ],
+        [
+          30,
+          35
+        ],
+        [
+          15,
+          30
+        ],
+        [
+          15,
+          -15
+        ]
+      ],
+      [
+        [
+          15,
+          40
+        ],
+        [
+          30,
+          40
+        ],
+        [
+          30,
+          60
+        ],
+        [
+          15,
+          55
+        ],
+        [
+          15,
+          40
+        ]
+      ],
+      [
+        [
+          35,
+          55
+        ],
+        [
+          45,
+          55
+        ],
+        [
+          40,
+          70
+        ],
+        [
+          35,
+          65
+        ],
+        [
+          35,
+          55
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/sand-cat.jpg"
+}

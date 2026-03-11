@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **140** 种动物
+**统计**：共 **163** 种动物
 
 ---
 
@@ -46,8 +46,12 @@
 
 **骆驼科**
 
+- 羊驼 / Alpaca — *Vicugna pacos* `alpaca`
 - 双峰骆驼 / Bactrian Camel — *Camelus bactrianus* `bactrian-camel`
 - 单峰骆驼 / Dromedary Camel — *Camelus dromedarius* `dromedary-camel`
+- 原驼 / Guanaco — *Lama guanicoe* `guanaco`
+- 大羊驼 / Llama — *Lama glama* `llama`
+- 小羊驼 / Vicuña — *Vicugna vicugna* `vicuna`
 - 野双峰骆驼 / Wild Bactrian Camel — *Camelus ferus* `wild-bactrian-camel`
 
 **鹿科**
@@ -58,6 +62,10 @@
 - 獐 / Water Deer — *Hydropotes inermis* `water-deer`
 
 ### 兔形目
+
+**兔科**
+
+- 雪鞋兔 / Snowshoe Hare — *Lepus americanus* `snowshoe-hare`
 
 **鼠兔科**
 
@@ -216,17 +224,21 @@
 
 **猫科**
 
+- 黑足猫 / Black-footed Cat — *Felis nigripes* `black-footed-cat`
 - 短尾猫 / Bobcat — *Lynx rufus* `bobcat`
+- 加拿大猞猁 / Canadian Lynx — *Lynx canadensis* `canadian-lynx`
 - 狞猫 / Caracal — *Caracal caracal* `caracal`
 - 猎豹 / Cheetah — *Acinonyx jubatus* `cheetah`
 - 云豹 / Clouded Leopard — *Neofelis nebulosa* `clouded-leopard`
 - 欧亚猞猁 / Eurasian Lynx — *Lynx lynx* `eurasian-lynx`
+- 渔猫 / Fishing Cat — *Prionailurus viverrinus* `fishing-cat`
 - 美洲豹 / Jaguar — *Panthera onca* `jaguar`
 - 豹 / Leopard — *Panthera pardus* `leopard`
 - 狮子 / Lion — *Panthera leo* `lion`
 - 美洲狮 / Mountain Lion — *Puma concolor* `mountain-lion`
 - 虎猫 / Ocelot — *Leopardus pardalis* `ocelot`
 - 兔狲 / Pallas's Cat — *Otocolobus manul* `pallass-cat`
+- 沙猫 / Sand Cat — *Felis margarita* `sand-cat`
 - 薮猫 / Serval — *Leptailurus serval* `serval`
 - 雪豹 / Snow Leopard — *Panthera uncia* `snow-leopard`
 - 老虎 / Tiger — *Panthera tigris* `tiger`
@@ -235,9 +247,14 @@
 
 - 条纹臭鼬 / Striped Skunk — *Mephitis mephitis* `striped-skunk`
 
+**鬣狗科**
+
+- 斑鬣狗 / Spotted Hyena — *Crocuta crocuta* `spotted-hyena`
+
 **鼬科**
 
 - 美洲獾 / American Badger — *Taxidea taxus* `american-badger`
+- 蜜獾 / Honey Badger — *Mellivora capensis* `honey-badger`
 - 海獭 / Sea Otter — *Enhydra lutris* `sea-otter`
 - 狼獾 / Wolverine — *Gulo gulo* `wolverine`
 
@@ -291,6 +308,12 @@
 
 - 游隼 / Peregrine Falcon — *Falco peregrinus* `peregrine-falcon`
 
+### 雀形目
+
+**椋鸟科**
+
+- 八哥 / Crested Myna — *Acridotheres cristatellus* `crested-myna`
+
 ### 雨燕目
 
 **蜂鸟科**
@@ -309,6 +332,7 @@
 **雉科**
 
 - 褐马鸡 / Brown Eared Pheasant — *Crossoptilon mantchuricum* `brown-eared-pheasant`
+- 红腹锦鸡 / Golden Pheasant — *Chrysolophus pictus* `golden-pheasant`
 - 蓝孔雀 / Indian Peafowl — *Pavo cristatus* `indian-peafowl`
 
 ### 鸮形目
@@ -461,15 +485,56 @@
 
 ---
 
+## 昆虫纲
+
+### 膜翅目
+
+**蚁科**
+
+- 布氏游蚁 / Army Ant — *Eciton burchellii* `army-ant`
+
+---
+
+## 水螅纲
+
+### 花水母目
+
+**大洋水母科**
+
+- 灯塔水母 / Immortal Jellyfish — *Turritopsis dohrnii* `immortal-jellyfish`
+
+---
+
 ## 硬骨鱼纲
+
+### 月鱼目
+
+**皇带鱼科**
+
+- 皇带鱼 / Giant Oarfish — *Regalecus glesne* `giant-oarfish`
 
 ### 海龙目
 
 **海龙科**
 
+- 海马 / Common Seahorse — *Hippocampus kuda* `common-seahorse`
 - 叶海龙 / Leafy Seadragon — *Phycodurus eques* `leafy-seadragon`
 
+### 鮟鱇目
+
+**躄鱼科**
+
+- 条纹躄鱼 / Striated Frogfish — *Antennarius striatus* `striated-frogfish`
+
+**黑角鮟鱇科**
+
+- 黑角鮟鱇 / Humpback Anglerfish — *Melanocetus johnsonii* `humpback-anglerfish`
+
 ### 鲀形目
+
+**四齿鲀科**
+
+- 红鳍东方鲀 / Tiger Puffer — *Takifugu rubripes* `tiger-puffer`
 
 **翻车鲀科**
 
@@ -480,6 +545,18 @@
 **雀鲷科**
 
 - 眼斑双锯鱼(小丑鱼) / Ocellaris Clownfish — *Amphiprion ocellaris* `ocellaris-clownfish`
+
+### 鲱形目
+
+**鲱科**
+
+- 大西洋鲱 / Atlantic Herring — *Clupea harengus* `atlantic-herring`
+
+### 鲻形目
+
+**鲻科**
+
+- 鲻鱼 / Flathead Grey Mullet — *Mugil cephalus* `flathead-grey-mullet`
 
 ---
 
@@ -494,6 +571,12 @@
 ---
 
 ## 软甲纲
+
+### 十足目
+
+**蜘蛛蟹科**
+
+- 甘氏巨螯蟹 / Japanese Spider Crab — *Macrocheira kaempferi* `japanese-spider-crab`
 
 ### 口足目
 

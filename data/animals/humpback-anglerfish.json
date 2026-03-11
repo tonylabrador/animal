@@ -1,0 +1,116 @@
+{
+  "id": "humpback-anglerfish",
+  "name_zh": "黑角鮟鱇",
+  "name_en": "Humpback Anglerfish",
+  "scientific_name": "Melanocetus johnsonii",
+  "ui_tags": [
+    "Fish",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "硬骨鱼纲"
+    },
+    "order": {
+      "en": "Lophiiformes",
+      "zh": "鮟鱇目"
+    },
+    "family": {
+      "en": "Melanocetidae",
+      "zh": "黑角鮟鱇科"
+    },
+    "genus": {
+      "en": "Melanocetus",
+      "zh": "黑角鮟鱇属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The humpback anglerfish is a deep-sea predator famous for using a glowing lure attached to its head to attract prey in the dark.",
+    "zh": "黑角鮟鱇是一种深海捕食者，以使用头上发光的诱饵在黑暗中吸引猎物而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Females have huge mouths filled with sharp, translucent teeth and a special \"fishing rod\" modified from their dorsal fin. The lure glows using symbiotic bioluminescent bacteria. Males are much smaller and lack the glowing lure.",
+      "zh": "雌性拥有长满半透明尖牙的血盆大口，以及由背鳍演化而来的特殊「钓竿」。这个诱饵依靠共生的发光细菌发光。雄性体型则要小得多，并且没有发光的诱饵。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are ambush predators that float motionless in the pitch-black deep sea. They use their glowing lantern to attract curious small fish and squid, then swallow them whole with lightening speed.",
+      "zh": "它们是伏击型捕食者，在漆黑的深海中一动不动地悬浮着。它们用发光的小灯笼吸引好奇的小鱼和鱿鱼，然后以闪电般的速度将它们整个吞下。"
+    },
+    "habitat_and_distribution": {
+      "en": "They live in the extreme depths of the world's oceans, typically found between 1,000 to 2,000 meters below the surface where no sunlight can reach.",
+      "zh": "它们生活在全球海洋的极深处，通常在水面以下1000到2000米、阳光完全无法到达的地方。"
+    }
+  },
+  "habitat": {
+    "text_en": "Global deep ocean waters",
+    "text_zh": "全球深海水域",
+    "map_coordinates": [
+      20,
+      -45
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          40,
+          -80
+        ],
+        [
+          40,
+          -20
+        ],
+        [
+          -40,
+          -20
+        ],
+        [
+          -40,
+          -80
+        ],
+        [
+          40,
+          -80
+        ]
+      ],
+      [
+        [
+          30,
+          140
+        ],
+        [
+          30,
+          -120
+        ],
+        [
+          -30,
+          -120
+        ],
+        [
+          -30,
+          140
+        ],
+        [
+          30,
+          140
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/humpback-anglerfish.jpg"
+}

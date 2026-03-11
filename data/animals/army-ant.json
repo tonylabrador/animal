@@ -1,0 +1,110 @@
+{
+  "id": "army-ant",
+  "name_zh": "布氏游蚁",
+  "name_en": "Army Ant",
+  "scientific_name": "Eciton burchellii",
+  "ui_tags": [
+    "Arthropod",
+    "Forest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Insecta",
+      "zh": "昆虫纲"
+    },
+    "order": {
+      "en": "Hymenoptera",
+      "zh": "膜翅目"
+    },
+    "family": {
+      "en": "Formicidae",
+      "zh": "蚁科"
+    },
+    "genus": {
+      "en": "Eciton",
+      "zh": "游蚁属"
+    }
+  },
+  "conservation_status": {
+    "code": "DD",
+    "en": "Data Deficient",
+    "zh": "数据缺乏"
+  },
+  "description": {
+    "en": "Army ants are nomadic super-predators that never build permanent nests, instead forming massive swarm raids that consume everything in their path.",
+    "zh": "行军蚁（布氏游蚁）是游牧型的超级捕食者，它们从不建造永久性巢穴，而是形成巨大的军团发起冲锋，吞噬沿途的一切。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "A colony has different castes, including massive \"soldier\" ants equipped with huge, powerful jaws that resemble ice picks. Most of the worker ants are entirely blind, navigating purely through chemical scent trails.",
+      "zh": "一个蚁群拥有不同的阶级，包括长着像冰镐一样巨大而有力的颚部的巨大「兵蚁」。大多数工蚁是完全失明的，纯粹依靠化学气味路径来导航。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are the ultimate superorganism. Instead of digging nests, they link their own bodies together to form a living nest called a \"bivouac\". When they hunt, up to 200,000 ants swarm the forest floor, flushing out and eating insects, spiders, and even small vertebrates.",
+      "zh": "它们是终极的「超级生物」。它们不挖巢穴，而是将彼此的身体连接在一起，形成一个被称为「宿营地」的活体巢穴。狩猎时，多达20万只蚂蚁会在森林地面上席卷而过，惊飞并吃掉昆虫、蜘蛛甚至小型脊椎动物。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are found in the damp, tropical rainforests of Central and South America, constantly moving through the jungle to find enough food to sustain their massive colony.",
+      "zh": "它们分布在中美洲和南美洲潮湿的热带雨林中，在丛林中不断迁徙，以寻找足够的食物来维持其庞大帝国的运转。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical Rainforests",
+    "text_zh": "热带雨林",
+    "map_coordinates": [
+      0,
+      -65
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -20,
+          -60
+        ],
+        [
+          -15,
+          -45
+        ],
+        [
+          0,
+          -48
+        ],
+        [
+          10,
+          -60
+        ],
+        [
+          20,
+          -90
+        ],
+        [
+          15,
+          -95
+        ],
+        [
+          5,
+          -80
+        ],
+        [
+          -10,
+          -80
+        ],
+        [
+          -20,
+          -60
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/army-ant.jpg"
+}

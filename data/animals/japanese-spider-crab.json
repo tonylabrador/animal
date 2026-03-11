@@ -1,0 +1,94 @@
+{
+  "id": "japanese-spider-crab",
+  "name_zh": "甘氏巨螯蟹",
+  "name_en": "Japanese Spider Crab",
+  "scientific_name": "Macrocheira kaempferi",
+  "ui_tags": [
+    "Arthropod",
+    "Ocean",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Malacostraca",
+      "zh": "软甲纲"
+    },
+    "order": {
+      "en": "Decapoda",
+      "zh": "十足目"
+    },
+    "family": {
+      "en": "Inachidae",
+      "zh": "蜘蛛蟹科"
+    },
+    "genus": {
+      "en": "Macrocheira",
+      "zh": "巨螯蟹属"
+    }
+  },
+  "conservation_status": {
+    "code": "DD",
+    "en": "Data Deficient",
+    "zh": "数据缺乏"
+  },
+  "description": {
+    "en": "The Japanese spider crab is a deep-sea giant that holds the record for the largest leg span of any arthropod on Earth.",
+    "zh": "甘氏巨螯蟹（蜘蛛蟹）是一种深海巨兽，保持着地球上所有节肢动物中最大腿跨度的纪录。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Their leg span can reach an astonishing 3.7 meters from claw to claw! They have an orange body with white spots and a bumpy shell that helps them blend into the rocky ocean floor.",
+      "zh": "它们两爪展开的跨度可达惊人的3.7米！它们的身体呈橙色，带有白斑，坑坑洼洼的甲壳能帮助它们融入布满岩石的海底。"
+    },
+    "ecology_and_behavior": {
+      "en": "Despite their terrifying appearance, they are gentle scavengers that slowly walk along the seabed eating dead animals and plants. They are also incredibly long-lived and can survive for up to 100 years.",
+      "zh": "尽管外表骇人，但它们是温和的食腐动物，在海底缓慢爬行，捡食死去的动植物。它们也极其长寿，甚至可以活到100岁。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are found exclusively in the Pacific Ocean around the coasts of Japan. They inhabit deep, cold waters, usually wandering between depths of 50 to 600 meters.",
+      "zh": "它们仅分布在环绕日本海岸的太平洋中。它们栖息在寒冷的深水中，通常在50至600米的深处游荡。"
+    }
+  },
+  "habitat": {
+    "text_en": "Deep coastal waters of Japan",
+    "text_zh": "日本沿海深水区",
+    "map_coordinates": [
+      35,
+      140
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          30,
+          130
+        ],
+        [
+          40,
+          130
+        ],
+        [
+          40,
+          145
+        ],
+        [
+          30,
+          145
+        ],
+        [
+          30,
+          130
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/japanese-spider-crab.jpg"
+}

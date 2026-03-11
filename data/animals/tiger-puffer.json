@@ -1,0 +1,98 @@
+{
+  "id": "tiger-puffer",
+  "name_zh": "红鳍东方鲀",
+  "name_en": "Tiger Puffer",
+  "scientific_name": "Takifugu rubripes",
+  "ui_tags": [
+    "Fish",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "硬骨鱼纲"
+    },
+    "order": {
+      "en": "Tetraodontiformes",
+      "zh": "鲀形目"
+    },
+    "family": {
+      "en": "Tetraodontidae",
+      "zh": "四齿鲀科"
+    },
+    "genus": {
+      "en": "Takifugu",
+      "zh": "东方鲀属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "The tiger puffer is a famous fish that inflates like a balloon when threatened and contains a deadly neurotoxin.",
+    "zh": "红鳍东方鲀（河豚）是一种著名的鱼，受惊时会像气球一样膨胀，并且体内含有致命的神经毒素。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They have a round, scaleless body with dark, tiger-like spots on their back. When facing danger, they swallow huge amounts of water to inflate their bodies into a giant ball, making them impossible for predators to swallow.",
+      "zh": "它们拥有圆润无鳞的身体，背部有类似老虎的黑色斑块。面临危险时，它们会吞入大量海水，将身体膨胀成一个巨大的圆球，让捕食者无法下口。"
+    },
+    "ecology_and_behavior": {
+      "en": "Pufferfish don't produce their own poison; instead, they accumulate deadly \"tetrodotoxin\" by eating bacteria-laden prey like starfish and shellfish. Despite the danger, this fish is prepared as a highly expensive and strictly regulated delicacy called \"fugu\" in Japan.",
+      "zh": "河豚本身并不生产毒素；相反，它们通过进食携带细菌的猎物（如海星和贝类）在体内积累致命的「河豚毒素」。尽管极其危险，但在日本，这种鱼经过严格监管，被做成极其昂贵的美食「フグ」。"
+    },
+    "habitat_and_distribution": {
+      "en": "They primarily inhabit the coastal and offshore waters of the Northwest Pacific Ocean, including the Sea of Japan, the Yellow Sea, and the East China Sea.",
+      "zh": "它们主要栖息在西北太平洋的近海和远海水域，包括日本海、黄海和东海。"
+    }
+  },
+  "habitat": {
+    "text_en": "Northwest Pacific coastal waters",
+    "text_zh": "西北太平洋近海",
+    "map_coordinates": [
+      35,
+      135
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          45,
+          130
+        ],
+        [
+          45,
+          145
+        ],
+        [
+          25,
+          145
+        ],
+        [
+          25,
+          120
+        ],
+        [
+          35,
+          120
+        ],
+        [
+          45,
+          130
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/tiger-puffer.jpg"
+}

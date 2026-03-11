@@ -1,0 +1,102 @@
+{
+  "id": "guanaco",
+  "name_zh": "原驼",
+  "name_en": "Guanaco",
+  "scientific_name": "Lama guanicoe",
+  "ui_tags": [
+    "Mammal",
+    "Grassland",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Camelidae",
+      "zh": "骆驼科"
+    },
+    "genus": {
+      "en": "Lama",
+      "zh": "羊驼属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The guanaco is a slender wild camelid and the direct ancestor of the domestic llama, known for its incredible adaptability across South America.",
+    "zh": "原驼是一种苗条的野生骆驼，也是大羊驼的直系祖先，以其在南美洲各地惊人的适应能力而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Guanacos have long, slender legs and a tawny coat with a distinct white belly. They have large, dark eyes with long lashes that help them spot predators across the wide-open plains.",
+      "zh": "原驼拥有修长的双腿和黄褐色的皮毛，腹部呈白色。它们乌黑的大眼睛长着长睫毛，能帮助它们在开阔的平原上发现捕食者。"
+    },
+    "ecology_and_behavior": {
+      "en": "As the wild precursor to the llama, they are agile runners reaching speeds of 56 km/h. They live in social groups consisting of a dominant male, several females, and their young.",
+      "zh": "作为大羊驼的野生先驱，它们是非常敏捷的跑者，时速可达56公里。它们以由一只雄性、多只雌性及其幼崽组成的社会群体生活。"
+    },
+    "habitat_and_distribution": {
+      "en": "They have the widest distribution of any wild South American camelid, ranging from the high Andes to the windy steppes of Patagonia in Argentina and the scrublands of the Atacama Desert.",
+      "zh": "它们是南美野生骆驼中分布最广的，从高耸的安第斯山脉到风力强劲的阿根廷巴塔哥尼亚草原，再到阿塔卡马沙漠的灌木丛都有它们的身影。"
+    }
+  },
+  "habitat": {
+    "text_en": "Steppes and mountain slopes",
+    "text_zh": "草原与山坡",
+    "map_coordinates": [
+      -45,
+      -68
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -15,
+          -75
+        ],
+        [
+          -25,
+          -70
+        ],
+        [
+          -55,
+          -70
+        ],
+        [
+          -55,
+          -65
+        ],
+        [
+          -40,
+          -62
+        ],
+        [
+          -20,
+          -65
+        ],
+        [
+          -15,
+          -75
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/guanaco.jpg"
+}

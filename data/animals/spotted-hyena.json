@@ -1,0 +1,98 @@
+{
+  "id": "spotted-hyena",
+  "name_zh": "斑鬣狗",
+  "name_en": "Spotted Hyena",
+  "scientific_name": "Crocuta crocuta",
+  "ui_tags": [
+    "Mammal",
+    "Savanna",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Hyaenidae",
+      "zh": "鬣狗科"
+    },
+    "genus": {
+      "en": "Crocuta",
+      "zh": "斑鬣狗属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The spotted hyena is a highly intelligent and highly successful African predator, famous for its bone-crushing bite and \"laughing\" vocalizations.",
+    "zh": "斑鬣狗是一种极其聪明且非常成功的非洲捕食者，以其能咬碎骨头的咬合力和类似「嘲笑」的叫声而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Although they look like dogs, they are more closely related to cats and mongooses. They have sloping backs, powerful shoulders, and jaws strong enough to splinter the thickest bones of a buffalo.",
+      "zh": "虽然它们看起来像狗，但其实它们与猫和獴的亲缘关系更近。它们背部倾斜，肩膀强壮，下颚力量大到足以咬碎水牛最粗的骨头。"
+    },
+    "ecology_and_behavior": {
+      "en": "Contrary to the myth that they are just scavengers, spotted hyenas are excellent hunters that kill most of their own food. They live in complex, female-led societies called clans, which can contain up to 80 individuals.",
+      "zh": "与认为它们只是食腐动物的刻板印象相反，斑鬣狗是出色的猎手，它们绝大多数的食物都是自己捕杀的。它们生活在由雌性领导的复杂社会（家族）中，数量可多达80只。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are the most common large carnivore in Africa, distributed widely across sub-Saharan savannas, grasslands, and woodlands.",
+      "zh": "它们是非洲最常见的大型食肉动物，广泛分布于撒哈拉以南的稀树草原、草地和林地中。"
+    }
+  },
+  "habitat": {
+    "text_en": "African Savanna",
+    "text_zh": "非洲稀树草原",
+    "map_coordinates": [
+      -5,
+      30
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          -15
+        ],
+        [
+          15,
+          50
+        ],
+        [
+          -30,
+          40
+        ],
+        [
+          -30,
+          10
+        ],
+        [
+          0,
+          10
+        ],
+        [
+          15,
+          -15
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/spotted-hyena.jpg"
+}

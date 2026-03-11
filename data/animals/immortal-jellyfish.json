@@ -1,0 +1,154 @@
+{
+  "id": "immortal-jellyfish",
+  "name_zh": "灯塔水母",
+  "name_en": "Immortal Jellyfish",
+  "scientific_name": "Turritopsis dohrnii",
+  "ui_tags": [
+    "Invertebrate",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Cnidaria",
+      "zh": "刺胞动物门"
+    },
+    "class": {
+      "en": "Hydrozoa",
+      "zh": "水螅纲"
+    },
+    "order": {
+      "en": "Anthoathecata",
+      "zh": "花水母目"
+    },
+    "family": {
+      "en": "Oceaniidae",
+      "zh": "大洋水母科"
+    },
+    "genus": {
+      "en": "Turritopsis",
+      "zh": "灯塔水母属"
+    }
+  },
+  "conservation_status": {
+    "code": "DD",
+    "en": "Data Deficient",
+    "zh": "数据缺乏"
+  },
+  "description": {
+    "en": "The immortal jellyfish is a tiny, remarkable sea creature capable of reverting its life cycle backward, essentially achieving biological immortality.",
+    "zh": "灯塔水母（不朽水母）是一种微小但令人惊叹的海洋生物，它能够逆转自己的生命周期，在本质上实现了「生物学永生」。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They are incredibly small, barely reaching 4.5 millimeters in diameter. They have a bell-shaped, transparent body with a bright red, lighthouse-like stomach inside, which gives them their Chinese name.",
+      "zh": "它们极其微小，直径仅4.5毫米左右。它们的身体呈透明的钟形，内部有一个鲜红色的、形似灯塔的胃，它的中文名也由此而来。"
+    },
+    "ecology_and_behavior": {
+      "en": "When faced with physical damage, starvation, or old age, this jellyfish can transform its cells backward to its earliest polyp stage, starting its life all over again! While they can still be eaten or die of disease, they never die of old age.",
+      "zh": "当面临物理伤害、饥饿或衰老时，这种水母能将自己的细胞「返老还童」，退化回最初的水螅体阶段，重新开始生命！虽然它们仍然会被吃掉或因病死亡，但它们永远不会老死。"
+    },
+    "habitat_and_distribution": {
+      "en": "Originally believed to be from the Mediterranean Sea, they have now spread across the world's oceans in the ballast water of cargo ships.",
+      "zh": "最初被认为起源于地中海，但现在它们已经通过货船的压舱水扩散到了全球的海洋中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Global Temperate and Tropical Waters",
+    "text_zh": "全球温带与热带水域",
+    "map_coordinates": [
+      35,
+      15
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          36,
+          -5
+        ],
+        [
+          43,
+          5
+        ],
+        [
+          44,
+          15
+        ],
+        [
+          38,
+          20
+        ],
+        [
+          32,
+          15
+        ],
+        [
+          35,
+          0
+        ],
+        [
+          36,
+          -5
+        ]
+      ],
+      [
+        [
+          30,
+          130
+        ],
+        [
+          35,
+          135
+        ],
+        [
+          40,
+          140
+        ],
+        [
+          35,
+          142
+        ],
+        [
+          30,
+          135
+        ],
+        [
+          30,
+          130
+        ]
+      ],
+      [
+        [
+          15,
+          -85
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          25,
+          -75
+        ],
+        [
+          18,
+          -65
+        ],
+        [
+          10,
+          -75
+        ],
+        [
+          15,
+          -85
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/immortal-jellyfish.jpg"
+}

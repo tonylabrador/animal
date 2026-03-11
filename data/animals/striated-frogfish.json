@@ -1,0 +1,116 @@
+{
+  "id": "striated-frogfish",
+  "name_zh": "条纹躄鱼",
+  "name_en": "Striated Frogfish",
+  "scientific_name": "Antennarius striatus",
+  "ui_tags": [
+    "Fish",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "硬骨鱼纲"
+    },
+    "order": {
+      "en": "Lophiiformes",
+      "zh": "鮟鱇目"
+    },
+    "family": {
+      "en": "Antennariidae",
+      "zh": "躄鱼科"
+    },
+    "genus": {
+      "en": "Antennarius",
+      "zh": "躄鱼属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The frogfish is a master of camouflage that prefers to walk on the ocean floor using its modified fins rather than swim.",
+    "zh": "躄鱼（青蛙鱼）是伪装大师，它们更喜欢用演化过的鱼鳍在海底「行走」而不是游泳。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They have chunky, uneven bodies covered in hair-like skin flaps that help them blend perfectly into their surroundings, like sponges or rocks. Their pectoral fins have evolved to look and act like little legs.",
+      "zh": "它们的身体粗壮且凹凸不平，长满了像毛发一样的皮瓣，能帮助它们完美融入周围的海绵或岩石环境中。它们的胸鳍演化得像小腿一样，可以用来行走。"
+    },
+    "ecology_and_behavior": {
+      "en": "Like their deep-sea anglerfish cousins, they have a built-in fishing rod to lure prey. They have one of the fastest bites in the animal kingdom, opening their mouths to suck in fish in just a few milliseconds.",
+      "zh": "就像它们的深海鮟鱇鱼亲戚一样，它们也自带一根钓竿来引诱猎物。它们拥有动物界最快的咬合速度之一，只需几毫秒就能张开大口将鱼吸入。"
+    },
+    "habitat_and_distribution": {
+      "en": "Striated frogfish live in the shallow, tropical and subtropical waters of the Indian and Pacific Oceans, often hiding in coral reefs and sandy areas.",
+      "zh": "条纹躄鱼生活在印度洋和太平洋的热带及亚热带浅水区，经常隐藏在珊瑚礁和沙地中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical shallow reefs and sandy bottoms",
+    "text_zh": "热带浅水珊瑚礁及沙底",
+    "map_coordinates": [
+      10,
+      115
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          25,
+          40
+        ],
+        [
+          25,
+          110
+        ],
+        [
+          -25,
+          110
+        ],
+        [
+          -25,
+          40
+        ],
+        [
+          25,
+          40
+        ]
+      ],
+      [
+        [
+          25,
+          110
+        ],
+        [
+          25,
+          160
+        ],
+        [
+          -25,
+          160
+        ],
+        [
+          -25,
+          110
+        ],
+        [
+          25,
+          110
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/striated-frogfish.jpg"
+}

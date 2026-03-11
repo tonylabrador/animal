@@ -1,0 +1,98 @@
+{
+  "id": "alpaca",
+  "name_zh": "羊驼",
+  "name_en": "Alpaca",
+  "scientific_name": "Vicugna pacos",
+  "ui_tags": [
+    "Mammal",
+    "Mountains",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Camelidae",
+      "zh": "骆驼科"
+    },
+    "genus": {
+      "en": "Vicugna",
+      "zh": "小羊驼属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The alpaca is a domestic animal descended from the wild vicuña, prized worldwide for its exceptionally soft and colorful wool.",
+    "zh": "羊驼是由野生的小羊驼经过数千年选育而来的家畜，因其极度柔软且色彩多样的羊毛而享誉全球。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Smaller than llamas, alpacas have shorter, straighter ears and a very dense, fluffy coat. Their wool is remarkably warm and light, coming in over 20 natural shades from snowy white to jet black.",
+      "zh": "羊驼比大羊驼小，耳朵更短更直，全身覆盖着浓密蓬松的皮毛。它们的羊毛异常保暖且轻盈，拥有从雪白到乌黑的20多种天然色调。"
+    },
+    "ecology_and_behavior": {
+      "en": "Closely related to the wild vicuña, alpacas are shy and gentle creatures. They are famous for their soft humming sounds and communicate through subtle ear and tail movements.",
+      "zh": "作为小羊驼的直系后代，羊驼性情害羞且温顺。它们以发出柔和的哼鸣声而闻名，并依靠微妙的耳朵和尾巴动作进行交流。"
+    },
+    "habitat_and_distribution": {
+      "en": "Alpacas are primarily raised in the high-altitude Altiplano region of southern Peru and western Bolivia. They prefer marshy highland pastures known as 「bofedales」 where fresh grass is abundant.",
+      "zh": "羊驼主要饲养在秘鲁南部和玻利维亚西部的阿尔蒂普拉诺高平原。它们偏爱被称为「bofedales」的湿润高山牧场，那里有丰富的鲜草。"
+    }
+  },
+  "habitat": {
+    "text_en": "Highland pastures and wetlands",
+    "text_zh": "高山牧场与湿地",
+    "map_coordinates": [
+      -14,
+      -71
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -8,
+          -78
+        ],
+        [
+          -15,
+          -75
+        ],
+        [
+          -22,
+          -68
+        ],
+        [
+          -22,
+          -65
+        ],
+        [
+          -10,
+          -68
+        ],
+        [
+          -8,
+          -78
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/alpaca.jpg"
+}

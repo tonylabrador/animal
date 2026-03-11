@@ -1,0 +1,94 @@
+{
+  "id": "golden-pheasant",
+  "name_zh": "红腹锦鸡",
+  "name_en": "Golden Pheasant",
+  "scientific_name": "Chrysolophus pictus",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Galliformes",
+      "zh": "鸡形目"
+    },
+    "family": {
+      "en": "Phasianidae",
+      "zh": "雉科"
+    },
+    "genus": {
+      "en": "Chrysolophus",
+      "zh": "锦鸡属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The golden pheasant is a spectacular forest bird boasting some of the most vibrant and colorful plumage in the avian world.",
+    "zh": "红腹锦鸡是一种极其华丽的森林鸟类，拥有鸟类世界中最鲜艳、色彩最丰富的羽毛。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Males are breathtakingly beautiful, featuring a golden crest, a bright red body, and a long, elegantly patterned tail. Females, on the other hand, are a mottled brown color to stay camouflaged while sitting on their nests.",
+      "zh": "雄鸟美得令人惊叹，拥有金黄色的羽冠、鲜红的身体以及一条布满优雅花纹的长尾巴。相比之下，雌鸟则呈斑驳的褐色，以便在孵蛋时进行完美伪装。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are clumsy flyers and prefer to run on the ground to escape danger. During the mating season, males perform a stunning courtship dance, spreading their neck feathers like a colorful cape to impress the females.",
+      "zh": "它们是不太灵光的飞行者，遇到危险时更喜欢在地面上奔跑逃跑。在繁殖季节，雄鸟会跳起令人惊叹的求偶舞，将颈部的羽毛像彩色披风一样展开，以吸引雌鸟。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are native to the dense, mountainous forests of western and central China. Due to their beauty, feral populations have also been established in countries like the UK.",
+      "zh": "它们原产于中国中西部茂密的山地森林中。由于它们的美丽，在英国等国家也建立了野化种群。"
+    }
+  },
+  "habitat": {
+    "text_en": "Mountainous forests",
+    "text_zh": "山地森林",
+    "map_coordinates": [
+      32,
+      105
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          25,
+          100
+        ],
+        [
+          35,
+          100
+        ],
+        [
+          35,
+          115
+        ],
+        [
+          25,
+          115
+        ],
+        [
+          25,
+          100
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/golden-pheasant.jpg"
+}

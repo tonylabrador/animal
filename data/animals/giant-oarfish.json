@@ -1,0 +1,116 @@
+{
+  "id": "giant-oarfish",
+  "name_zh": "皇带鱼",
+  "name_en": "Giant Oarfish",
+  "scientific_name": "Regalecus glesne",
+  "ui_tags": [
+    "Fish",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "硬骨鱼纲"
+    },
+    "order": {
+      "en": "Lampriformes",
+      "zh": "月鱼目"
+    },
+    "family": {
+      "en": "Regalecidae",
+      "zh": "皇带鱼科"
+    },
+    "genus": {
+      "en": "Regalecus",
+      "zh": "皇带鱼属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The giant oarfish is the world's longest bony fish, often inspiring ancient myths of massive sea serpents.",
+    "zh": "皇带鱼是世界上最长的硬骨鱼，常常是古代巨大「海蛇」神话的灵感来源。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They can grow to an incredible 8 to 10 meters long, with a flat, ribbon-like silver body. They lack scales and feature a striking red crest on their head, made from their dorsal fin, which looks like a crown.",
+      "zh": "它们能长到令人难以置信的8至10米长，身体像银色的丝带一样扁平。它们没有鳞片，头上顶着由红色背鳍组成的醒目「皇冠」。"
+    },
+    "ecology_and_behavior": {
+      "en": "Giant oarfish swim by keeping their bodies vertically suspended in the water column and undulating their long dorsal fin. Because they occasionally wash ashore before or after seismic events, they are popularly known as 「earthquake fish」.",
+      "zh": "皇带鱼游动时会让身体在水中保持垂直悬浮状态，并通过起伏长长的背鳍来移动。由于它们偶尔会在地震前后被冲上海滩，因此在民间常被称为「地震鱼」。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are a pelagic species, meaning they live in the open ocean. They can be found in tropical and temperate waters worldwide, usually deep down at 200 to 1,000 meters.",
+      "zh": "它们属于远洋物种，意味着生活在开阔的海洋中。在全球热带和温带水域都能发现它们的身影，通常栖息在200至1000米的深处。"
+    }
+  },
+  "habitat": {
+    "text_en": "Deep open ocean",
+    "text_zh": "远洋深水区",
+    "map_coordinates": [
+      35,
+      140
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          45,
+          -170
+        ],
+        [
+          45,
+          -60
+        ],
+        [
+          -45,
+          -60
+        ],
+        [
+          -45,
+          -170
+        ],
+        [
+          45,
+          -170
+        ]
+      ],
+      [
+        [
+          45,
+          120
+        ],
+        [
+          45,
+          180
+        ],
+        [
+          -45,
+          180
+        ],
+        [
+          -45,
+          120
+        ],
+        [
+          45,
+          120
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/giant-oarfish.jpg"
+}

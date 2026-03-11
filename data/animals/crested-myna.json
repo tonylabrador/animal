@@ -1,0 +1,132 @@
+{
+  "id": "crested-myna",
+  "name_zh": "八哥",
+  "name_en": "Crested Myna",
+  "scientific_name": "Acridotheres cristatellus",
+  "ui_tags": [
+    "Bird",
+    "Urban",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Sturnidae",
+      "zh": "椋鸟科"
+    },
+    "genus": {
+      "en": "Acridotheres",
+      "zh": "八哥属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The crested myna is a highly intelligent, talkative bird known for its striking tufted crest and its history as both a popular pet and a successful invasive species.",
+    "zh": "八哥是一种极其聪明、喜欢说话的鸟类，以其引人注目的冠羽、作为热门宠物的历史以及作为强势入侵物种的身份而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They are black birds with a distinctive tuft of feathers just above their yellow beak. When they fly, bright white patches on their wings suddenly become visible.",
+      "zh": "它们是黑色的鸟，黄色的喙上方有一簇独特的冠羽。当它们飞行时，翅膀上醒目的白色斑块会突然显现出来（这也就是“八”字的由来）。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are famous for their remarkable vocal mimicry and can easily learn to imitate human speech and other sounds. Because they are highly adaptable and aggressive, they often outcompete native birds in cities and farms.",
+      "zh": "它们以卓越的声音模仿能力著称，能轻松学会模仿人类说话和其他声音。由于它们适应力极强且具有攻击性，它们在城市和农场中经常会将本地鸟类挤出栖息地。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to southeastern China and Indochina, they are mostly found in open country, farmland, and urban areas. They have been introduced to many other parts of the world.",
+      "zh": "原产于中国东南部和中南半岛，主要生活在开阔地带、农田和城市区域。它们已经被引入到世界上的许多其他地区。"
+    }
+  },
+  "habitat": {
+    "text_en": "Urban and open farmlands",
+    "text_zh": "城市与开阔农田",
+    "map_coordinates": [
+      25,
+      115
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          22,
+          100
+        ],
+        [
+          30,
+          105
+        ],
+        [
+          34,
+          110
+        ],
+        [
+          32,
+          120
+        ],
+        [
+          25,
+          118
+        ],
+        [
+          20,
+          110
+        ],
+        [
+          15,
+          105
+        ],
+        [
+          15,
+          100
+        ],
+        [
+          22,
+          100
+        ]
+      ],
+      [
+        [
+          22,
+          120
+        ],
+        [
+          25,
+          121
+        ],
+        [
+          25,
+          122
+        ],
+        [
+          22,
+          121
+        ],
+        [
+          22,
+          120
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/crested-myna.jpg"
+}

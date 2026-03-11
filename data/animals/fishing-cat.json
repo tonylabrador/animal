@@ -1,0 +1,120 @@
+{
+  "id": "fishing-cat",
+  "name_zh": "渔猫",
+  "name_en": "Fishing Cat",
+  "scientific_name": "Prionailurus viverrinus",
+  "ui_tags": [
+    "Mammal",
+    "Wetland",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Felidae",
+      "zh": "猫科"
+    },
+    "genus": {
+      "en": "Prionailurus",
+      "zh": "豹猫属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "Unlike most cats, the fishing cat loves water and is a powerful swimmer adapted to hunting in swamps and rivers.",
+    "zh": "与大多数猫不同，渔猫非常喜欢水，并且是适应在沼泽和河流中狩猎的游泳健将。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They are medium-sized wildcats with an olive-grey coat covered in dark spots. They have partially webbed feet that make them excellent swimmers and a double-layered coat that works like a waterproof wetsuit.",
+      "zh": "它们是中等体型的野猫，披着布满黑色斑点的橄榄灰色皮毛。它们脚趾间有半蹼，这让它们成为出色的游泳者；它们还有双层皮毛，就像防水的潜水服一样。"
+    },
+    "ecology_and_behavior": {
+      "en": "To catch fish, they tap the water's surface with their paws to mimic struggling insects, then dive in to grab the curious fish. They also hunt frogs, crabs, and even waterfowl.",
+      "zh": "为了捕鱼，它们会用爪子轻敲水面，模仿挣扎的昆虫，然后潜入水中抓住好奇游来的鱼。它们也捕食青蛙、螃蟹，甚至水鸟。"
+    },
+    "habitat_and_distribution": {
+      "en": "They live in wetlands, swamps, and mangrove forests across South and Southeast Asia, including India, Sri Lanka, and Bangladesh. Sadly, their homes are rapidly disappearing due to human development.",
+      "zh": "它们生活在南亚和东南亚的湿地、沼泽和红树林中，包括印度、斯里兰卡和孟加拉国。遗憾的是，由于人类开发，它们的家园正在迅速消失。"
+    }
+  },
+  "habitat": {
+    "text_en": "Wetlands and Mangroves",
+    "text_zh": "湿地与红树林",
+    "map_coordinates": [
+      22,
+      88
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          10,
+          75
+        ],
+        [
+          30,
+          75
+        ],
+        [
+          30,
+          95
+        ],
+        [
+          20,
+          90
+        ],
+        [
+          10,
+          80
+        ],
+        [
+          10,
+          75
+        ]
+      ],
+      [
+        [
+          6,
+          79
+        ],
+        [
+          9,
+          79
+        ],
+        [
+          9,
+          82
+        ],
+        [
+          6,
+          82
+        ],
+        [
+          6,
+          79
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/fishing-cat.jpg"
+}

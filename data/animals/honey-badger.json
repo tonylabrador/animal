@@ -1,0 +1,124 @@
+{
+  "id": "honey-badger",
+  "name_zh": "蜜獾",
+  "name_en": "Honey Badger",
+  "scientific_name": "Mellivora capensis",
+  "ui_tags": [
+    "Mammal",
+    "Savanna",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Mustelidae",
+      "zh": "鼬科"
+    },
+    "genus": {
+      "en": "Mellivora",
+      "zh": "蜜獾属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "Famous for its fearless nature, the honey badger is a tough, relentless predator that will stand its ground against lions and venomous snakes.",
+    "zh": "蜜獾以无所畏惧的性格而闻名，它是一种强悍、不屈不挠的捕食者，甚至敢与狮子和毒蛇正面对峙（被称为「平头哥」）。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They have a stocky, flat body with short, powerful legs and extremely long claws. Their skin is incredibly loose and thick, making it nearly impossible for predators to get a solid grip or for bee stings to penetrate.",
+      "zh": "它们身体粗壮扁平，腿短而有力，长着极长的爪子。它们的皮肤异常松弛且厚实，这使得捕食者几乎无法牢牢咬住它们，连蜜蜂的蛰针也难以穿透。"
+    },
+    "ecology_and_behavior": {
+      "en": "Known as the most fearless animal in the world, they raid beehives for honey and larvae, and actively hunt deadly venomous snakes. If bitten, their body has a natural resistance to snake venom.",
+      "zh": "被称为世界上最无所畏惧的动物，它们会捣毁蜂巢寻找蜂蜜和幼虫，并积极捕猎致命的毒蛇。如果被咬伤，它们的身体对蛇毒具有天然的抵抗力。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are highly adaptable and live across sub-Saharan Africa, the Middle East, and the Indian subcontinent, thriving in environments ranging from dry deserts to dense rain forests.",
+      "zh": "它们适应力极强，广泛分布于撒哈拉以南非洲、中东和印度次大陆，在从干旱沙漠到茂密雨林的各种环境中都能繁衍生息。"
+    }
+  },
+  "habitat": {
+    "text_en": "Savannas, Deserts and Forests",
+    "text_zh": "稀树草原、沙漠与森林",
+    "map_coordinates": [
+      0,
+      20
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          20,
+          -15
+        ],
+        [
+          30,
+          30
+        ],
+        [
+          20,
+          50
+        ],
+        [
+          -35,
+          35
+        ],
+        [
+          -30,
+          10
+        ],
+        [
+          0,
+          -10
+        ],
+        [
+          20,
+          -15
+        ]
+      ],
+      [
+        [
+          10,
+          70
+        ],
+        [
+          30,
+          70
+        ],
+        [
+          30,
+          85
+        ],
+        [
+          10,
+          85
+        ],
+        [
+          10,
+          70
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/honey-badger.jpg"
+}

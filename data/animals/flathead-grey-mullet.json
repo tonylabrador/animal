@@ -1,0 +1,116 @@
+{
+  "id": "flathead-grey-mullet",
+  "name_zh": "鲻鱼",
+  "name_en": "Flathead Grey Mullet",
+  "scientific_name": "Mugil cephalus",
+  "ui_tags": [
+    "Fish",
+    "Ocean",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "硬骨鱼纲"
+    },
+    "order": {
+      "en": "Mugiliformes",
+      "zh": "鲻形目"
+    },
+    "family": {
+      "en": "Mugilidae",
+      "zh": "鲻科"
+    },
+    "genus": {
+      "en": "Mugil",
+      "zh": "鲻属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The flathead grey mullet is an important coastal fish known for its ability to leap out of the water and for producing highly prized roe.",
+    "zh": "鲻鱼（乌鱼）是一种重要的沿海鱼类，以跃出水面的能力和产出极其珍贵的鱼卵而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They have a cylindrical body with a distinctly flattened head and two widely separated dorsal fins. Unlike many fish, they lack a lateral line system on their sides.",
+      "zh": "它们的身体呈圆柱形，头部明显扁平，背部有两条分开的背鳍。与许多鱼类不同，它们的身体侧面没有侧线系统。"
+    },
+    "ecology_and_behavior": {
+      "en": "Mullets are highly adaptable and can easily move between saltwater and freshwater. They travel in large schools and frequently jump out of the water to gulp air. In places like Taiwan, their roe is heavily harvested to make a delicacy known as 「karasumi」 or mullet roe.",
+      "zh": "鲻鱼适应力极强，能轻松穿梭于咸水和淡水之间。它们成大群游动，并经常跳出水面大口呼吸空气。在台湾等地，它们的鱼卵被大量捕捞，用来制作名为「乌鱼子」的顶级美食。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are globally distributed in coastal waters, estuaries, and lagoons across tropical, subtropical, and temperate oceans.",
+      "zh": "它们广泛分布于全球热带、亚热带和温带海洋的沿海水域、河口以及潟湖中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Coastal waters and estuaries",
+    "text_zh": "沿海及河口水域",
+    "map_coordinates": [
+      24,
+      120
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          40,
+          -100
+        ],
+        [
+          40,
+          -70
+        ],
+        [
+          -40,
+          -70
+        ],
+        [
+          -40,
+          -100
+        ],
+        [
+          40,
+          -100
+        ]
+      ],
+      [
+        [
+          40,
+          110
+        ],
+        [
+          40,
+          150
+        ],
+        [
+          -40,
+          150
+        ],
+        [
+          -40,
+          110
+        ],
+        [
+          40,
+          110
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/flathead-grey-mullet.jpg"
+}

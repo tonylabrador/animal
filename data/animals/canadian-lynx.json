@@ -1,0 +1,98 @@
+{
+  "id": "canadian-lynx",
+  "name_zh": "加拿大猞猁",
+  "name_en": "Canadian Lynx",
+  "scientific_name": "Lynx canadensis",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Felidae",
+      "zh": "猫科"
+    },
+    "genus": {
+      "en": "Lynx",
+      "zh": "猞猁属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Canadian lynx is a secretive forest cat with huge, furry paws that act as natural snowshoes.",
+    "zh": "加拿大猞猁是一种隐秘的森林猫科动物，长着巨大的毛茸茸的爪子，就像天然的雪鞋一样。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They are recognizable by their silvery-brown coat, distinctive black tufts of hair on the tips of their ears, and a short, stubby tail. Their massive paws spread out to distribute their weight, allowing them to walk effortlessly over deep snow.",
+      "zh": "它们的特征是银棕色的皮毛、耳朵尖上独特的黑色长毛丛，以及短短的尾巴。它们巨大的脚掌可以张开以分散体重，让它们能在深雪上毫不费力地行走。"
+    },
+    "ecology_and_behavior": {
+      "en": "Their survival is directly linked to the snowshoe hare. When hare populations boom, lynx numbers go up; when hares disappear, lynx populations crash. This is one of nature's most famous predator-prey cycles!",
+      "zh": "它们的生存与雪鞋兔直接相关。当雪鞋兔数量暴增时，猞猁的数量也会随之增加；当雪鞋兔减少时，猞猁的数量就会锐减。这是自然界最著名的「捕食者与猎物周期」之一！"
+    },
+    "habitat_and_distribution": {
+      "en": "They roam the dense boreal forests of Canada, Alaska, and parts of the northern United States. They prefer deep, snowy woods where they can easily hunt their favorite prey.",
+      "zh": "它们漫游在加拿大、阿拉斯加以及美国北部部分地区的茂密针叶林中。它们喜欢大雪覆盖的幽深树林，这样可以轻松地捕猎它们最爱的猎物。"
+    }
+  },
+  "habitat": {
+    "text_en": "Boreal Forests",
+    "text_zh": "北方针叶林",
+    "map_coordinates": [
+      55,
+      -100
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          45,
+          -130
+        ],
+        [
+          70,
+          -165
+        ],
+        [
+          70,
+          -60
+        ],
+        [
+          45,
+          -60
+        ],
+        [
+          45,
+          -100
+        ],
+        [
+          45,
+          -130
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/canadian-lynx.jpg"
+}
