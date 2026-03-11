@@ -1,3 +1,5 @@
+final version before trying switch to antigravity to develop. 163 animals
+
 # Wild Explorer
 
 双语动物科普小站。数据存放在 `data/animals/`（一物一文件）。
