@@ -1,0 +1,146 @@
+{
+  "id": "muskox",
+  "name_zh": "麝牛",
+  "name_en": "Muskox",
+  "scientific_name": "Ovibos moschatus",
+  "ui_tags": [
+    "Mammal",
+    "Tundra",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Bovidae",
+      "zh": "牛科"
+    },
+    "genus": {
+      "en": "Ovibos",
+      "zh": "麝牛属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The muskox is a prehistoric-looking Arctic mammal known for its long, shaggy hair and its defensive 'circle' formation.",
+    "zh": "麝牛是一种长相极具史前感的北极哺乳动物，以其长而蓬松的毛发和著名的「圆阵」防御行为而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Muskoxen are heavily built with a massive head and a short, thick neck. Both males and females have broad, curved horns that meet at the top of the head to form a thick 'boss.' Their long outer hair covers a layer of incredibly soft and warm under-wool called qiviut.",
+      "zh": "麝牛体格健壮，头大颈粗。无论雌雄都长有宽阔弯曲的角，角基在头顶连接形成厚实的「角盾」。它们长长的外层毛发下覆盖着一层极其柔软保暖的底毛，被称为「qiviut」。"
+    },
+    "ecology_and_behavior": {
+      "en": "When threatened by wolves, muskoxen form a protective circle with their horns facing outwards to shield the calves in the center. They survive the harsh winter by using their hooves to dig through snow for plants like sedges and willows.",
+      "zh": "当受到狼群威胁时，麝牛会围成一个防御圆阵，角尖向外以保护中心的幼崽。它们通过用蹄子在雪地里挖掘苔草和柳树等植物，在严酷的冬天存活下来。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are native to the Arctic tundra of Canada, Greenland, and Alaska. These cold-adapted animals thrive in areas where few other large mammals can survive, often enduring temperatures far below freezing.",
+      "zh": "它们原产于加拿大、格陵兰岛和阿拉斯加的北极苔原。这些高度适应寒冷的动物在极少数大型哺乳动物能生存的地区繁衍生息，经常能忍受远低于冰点的气温。"
+    }
+  },
+  "habitat": {
+    "text_en": "Arctic Tundra",
+    "text_zh": "北极苔原",
+    "map_coordinates": [
+      70,
+      -100
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          68,
+          -165
+        ],
+        [
+          72,
+          -155
+        ],
+        [
+          70,
+          -145
+        ],
+        [
+          68,
+          -165
+        ]
+      ],
+      [
+        [
+          60,
+          -120
+        ],
+        [
+          75,
+          -125
+        ],
+        [
+          82,
+          -90
+        ],
+        [
+          80,
+          -60
+        ],
+        [
+          70,
+          -65
+        ],
+        [
+          60,
+          -90
+        ],
+        [
+          60,
+          -120
+        ]
+      ],
+      [
+        [
+          60,
+          -50
+        ],
+        [
+          80,
+          -60
+        ],
+        [
+          83,
+          -30
+        ],
+        [
+          70,
+          -20
+        ],
+        [
+          60,
+          -40
+        ],
+        [
+          60,
+          -50
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/muskox.jpg"
+}

@@ -1,0 +1,136 @@
+{
+  "id": "african-buffalo",
+  "name_zh": "非洲水牛",
+  "name_en": "African Buffalo",
+  "scientific_name": "Syncerus caffer",
+  "ui_tags": [
+    "Mammal",
+    "Grassland",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Bovidae",
+      "zh": "牛科"
+    },
+    "genus": {
+      "en": "Syncerus",
+      "zh": "非洲水牛属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "The African buffalo is a large, powerful bovid known as one of Africa's 'Big Five' and for its formidable, fused horns.",
+    "zh": "非洲水牛是一种体型庞大、力量强悍的牛科动物，被称为非洲「五大兽」之一，以其坚固且基部相连的角而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adult African buffalo are very heavy, with some males weighing up to 900 kilograms. Their most distinctive feature is the 'boss'—a solid shield formed where the bases of their horns meet on the forehead.",
+      "zh": "成年的非洲水牛非常沉重，有些雄性体重可达900公斤。它们最显著的特征是「角盾」——由双角基部在额头连接形成的坚硬护盾。"
+    },
+    "ecology_and_behavior": {
+      "en": "They live in large herds that can include hundreds of individuals. African buffalo are famous for their protective nature, often working together to drive away lions that threaten the herd.",
+      "zh": "它们生活在可能包含数百只成员的大型群体中。非洲水牛以其强大的保护本能著称，经常集体合作赶走威胁象群的狮子。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are found throughout sub-Saharan Africa, living in savannahs, woodlands, and even forests as long as there is plenty of water and grass to eat.",
+      "zh": "它们分布在撒哈拉以南非洲的广大地区，生活在草原、林地甚至森林中，只要有充足的水源和青草即可生存。"
+    }
+  },
+  "habitat": {
+    "text_en": "Savannah and Grasslands",
+    "text_zh": "稀树草原与草地",
+    "map_coordinates": [
+      -1,
+      35
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          10,
+          -15
+        ],
+        [
+          15,
+          -10
+        ],
+        [
+          15,
+          20
+        ],
+        [
+          5,
+          45
+        ],
+        [
+          -10,
+          40
+        ],
+        [
+          -35,
+          25
+        ],
+        [
+          -30,
+          15
+        ],
+        [
+          -10,
+          10
+        ],
+        [
+          5,
+          -10
+        ],
+        [
+          10,
+          -15
+        ]
+      ],
+      [
+        [
+          10,
+          10
+        ],
+        [
+          5,
+          10
+        ],
+        [
+          0,
+          25
+        ],
+        [
+          10,
+          20
+        ],
+        [
+          10,
+          10
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/african-buffalo.jpg"
+}

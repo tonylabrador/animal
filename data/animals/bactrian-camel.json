@@ -1,0 +1,98 @@
+{
+  "id": "bactrian-camel",
+  "name_zh": "双峰骆驼",
+  "name_en": "Bactrian Camel",
+  "scientific_name": "Camelus bactrianus",
+  "ui_tags": [
+    "Mammal",
+    "Grassland",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Camelidae",
+      "zh": "骆驼科"
+    },
+    "genus": {
+      "en": "Camelus",
+      "zh": "骆驼属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Bactrian camel is a large, two-humped mammal that has been a mainstay of transport along the Silk Road for centuries.",
+    "zh": "双峰骆驼是一种长有两个驼峰的大型哺乳动物，几个世纪以来一直是丝绸之路上主要的运输工具。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They have two humps and a very thick, shaggy coat that protects them from the bitter cold of Central Asian winters. Their broad feet help them walk across rocky terrain and shifting sands.",
+      "zh": "它们有两个驼峰和非常厚实蓬松的皮毛，能保护它们免受中亚严冬的酷寒。宽大的脚掌能帮助它们在崎岖地形和流沙中稳步行走。"
+    },
+    "ecology_and_behavior": {
+      "en": "These camels are incredibly resilient, enduring temperatures from -40°C in winter to 40°C in summer. They are primarily domesticated and used for carrying heavy loads across long distances.",
+      "zh": "这些骆驼极具韧性，能忍受从冬季 -40°C 到夏季 40°C 的气温。它们主要被人类驯养，用于长途搬运重物。"
+    },
+    "habitat_and_distribution": {
+      "en": "Domesticated Bactrian camels are found throughout Central Asia, from the steppes of Mongolia to the mountains of Afghanistan and Western China.",
+      "zh": "家养双峰骆驼分布在整个中亚地区，从蒙古草原到阿富汗以及中国西部的山脉。"
+    }
+  },
+  "habitat": {
+    "text_en": "Central Asian Steppes and Deserts",
+    "text_zh": "中亚草原与沙漠",
+    "map_coordinates": [
+      45,
+      100
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          35,
+          65
+        ],
+        [
+          50,
+          70
+        ],
+        [
+          52,
+          110
+        ],
+        [
+          38,
+          115
+        ],
+        [
+          35,
+          85
+        ],
+        [
+          35,
+          65
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/bactrian-camel.jpg"
+}

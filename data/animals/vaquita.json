@@ -1,0 +1,94 @@
+{
+  "id": "vaquita",
+  "name_zh": "小头鼠海豚",
+  "name_en": "Vaquita",
+  "scientific_name": "Phocoena sinus",
+  "ui_tags": [
+    "Mammal",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Cetacea",
+      "zh": "鲸目"
+    },
+    "family": {
+      "en": "Phocoenidae",
+      "zh": "鼠海豚科"
+    },
+    "genus": {
+      "en": "Phocoena",
+      "zh": "鼠海豚属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "The vaquita is the world's smallest and most endangered cetacean, famous for the dark rings around its eyes that make it look like a sea panda.",
+    "zh": "小头鼠海豚是世界上体型最小、最濒危的鲸豚类动物，因眼周特有的黑圈酷似「海中大熊猫」而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Vaquitas grow to only about 1.5 meters long, making them small enough to fit in a bathtub! They have a chunky body with a tall, triangular dorsal fin that helps them dissipate heat in their warm water home. They are easily recognized by the black patches around their eyes and lips.",
+      "zh": "小头鼠海豚只能长到约1.5米长，小到可以放进浴缸里！它们身体粗壮，背上长着高高的三角形背鳍，这能帮助它们在温暖的海水中散热。它们最容易识别的特征是眼睛和嘴唇周围的黑色斑纹。"
+    },
+    "ecology_and_behavior": {
+      "en": "These shy and elusive porpoises are usually found alone or in pairs. They use high-pitched sounds (echolocation) to find their food, which includes small fish, squid, and crabs. Unlike many dolphins, they avoid boats and are very difficult to spot in the wild.",
+      "zh": "这些害羞且行踪诡秘的鼠海豚通常独居或成对活动。它们使用高频声音（回声定位）来寻找食物，包括小鱼、鱿鱼和螃蟹。与许多海豚不同，它们会避开船只，在野外极难被发现。"
+    },
+    "habitat_and_distribution": {
+      "en": "Vaquitas have the smallest range of any marine mammal. They live only in a tiny area in the northernmost corner of the Gulf of California in Mexico. Their population is extremely low, with only about 10 individuals remaining in the wild.",
+      "zh": "小头鼠海豚的分布范围是所有海洋哺乳动物中最小的。它们仅生活在墨西哥加利福尼亚湾最北端的一个极小区域。它们的种群数量极低，目前野外估计仅存约10只。"
+    }
+  },
+  "habitat": {
+    "text_en": "Shallow waters of Northern Gulf of California",
+    "text_zh": "加利福尼亚湾北部浅海",
+    "map_coordinates": [
+      31.2,
+      -114.5
+    ],
+    "map_zoom_level": 7,
+    "global_distribution_polygons": [
+      [
+        [
+          31.6,
+          -114.9
+        ],
+        [
+          31.6,
+          -114.3
+        ],
+        [
+          30.9,
+          -114.3
+        ],
+        [
+          30.9,
+          -114.9
+        ],
+        [
+          31.6,
+          -114.9
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/vaquita.jpg"
+}

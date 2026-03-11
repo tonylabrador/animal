@@ -1,0 +1,116 @@
+{
+  "id": "addax",
+  "name_zh": "旋角羚",
+  "name_en": "Addax",
+  "scientific_name": "Addax nasomaculatus",
+  "ui_tags": [
+    "Mammal",
+    "Desert",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Bovidae",
+      "zh": "牛科"
+    },
+    "genus": {
+      "en": "Addax",
+      "zh": "旋角羚属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "The addax is a desert-dwelling antelope known for its spiral horns and its incredible ability to survive without drinking water.",
+    "zh": "旋角羚是一种生活在沙漠中的羚羊，以其螺旋状的角和不喝水也能生存的惊人能力而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Addax are stocky antelopes with long, twisted horns that can reach 85 centimeters. They have broad, flat hooves that prevent them from sinking into the soft desert sand, much like natural snowshoes.",
+      "zh": "旋角羚体型粗壮，长着可达85厘米的长螺旋角。它们长有宽大平坦的蹄子，可以防止它们陷进柔软的沙漠沙地中，就像天然的雪鞋一样。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are perfectly adapted to the Sahara, getting most of their water from the plants they eat. Addax are most active during the night or early morning to avoid the scorching heat of the desert sun.",
+      "zh": "它们完美适应了撒哈拉沙漠的生活，大部分水分从所食植物中获取。旋角羚在夜间或清晨最为活跃，以躲避沙漠阳光的酷热。"
+    },
+    "habitat_and_distribution": {
+      "en": "Once widespread across the Sahara, the addax is now critically endangered. Only a few small populations remain in isolated parts of Niger and Chad. They are among the rarest mammals in the world.",
+      "zh": "旋角羚曾广泛分布于撒哈拉沙漠，但现在已处于极度濒危状态。目前仅在尼日尔和查德的偏远地区留有极少数小种群。它们是世界上最稀有的哺乳动物之一。"
+    }
+  },
+  "habitat": {
+    "text_en": "Arid Desert and Semi-desert",
+    "text_zh": "干旱沙漠与半沙漠",
+    "map_coordinates": [
+      16,
+      11
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          10.5
+        ],
+        [
+          17.5,
+          10.5
+        ],
+        [
+          17.5,
+          12
+        ],
+        [
+          15,
+          12
+        ],
+        [
+          15,
+          10.5
+        ]
+      ],
+      [
+        [
+          16,
+          15
+        ],
+        [
+          18,
+          15
+        ],
+        [
+          18,
+          17
+        ],
+        [
+          16,
+          17
+        ],
+        [
+          16,
+          15
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/addax.jpg"
+}

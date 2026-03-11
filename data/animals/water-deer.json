@@ -1,0 +1,124 @@
+{
+  "id": "water-deer",
+  "name_zh": "獐",
+  "name_en": "Water Deer",
+  "scientific_name": "Hydropotes inermis",
+  "ui_tags": [
+    "Mammal",
+    "Wetland",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Cervidae",
+      "zh": "鹿科"
+    },
+    "genus": {
+      "en": "Hydropotes",
+      "zh": "獐属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The water deer is a small, unique deer that lacks antlers but has long, curved tusks instead.",
+    "zh": "獐是一种独特的小型鹿类，它们不长角，取而代之的是长而弯曲的獠牙。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Instead of antlers, male water deer grow long upper canine teeth that look like tusks. They have a golden-brown coat and large, rounded ears that give them a very cute appearance.",
+      "zh": "雄性獐不长角，而是长着长长的上犬齿，看起来像獠牙。它们披着金褐色的皮毛，圆圆的大耳朵让它们看起来非常可爱。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are expert swimmers and spend much of their time near rivers and marshes. Unlike many other deer, they are mostly solitary and prefer to hide in tall reeds and grasses when they feel threatened.",
+      "zh": "它们是游泳高手，大部分时间都在河流和沼泽附近度过。与许多其他鹿不同，它们大多独居，感到受威胁时喜欢躲在厚厚的芦苇和高草丛中。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are native to the Yangtze River basin in China and the Korean Peninsula. Because they love water so much, they are almost always found in wetlands and alluvial plains.",
+      "zh": "它们原产于中国的长江流域和朝鲜半岛。因为非常喜欢水，它们几乎总是出现在湿地和冲积平原上。"
+    }
+  },
+  "habitat": {
+    "text_en": "Riverbanks and wetlands",
+    "text_zh": "河岸及湿地",
+    "map_coordinates": [
+      33,
+      121
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          28,
+          115
+        ],
+        [
+          32,
+          116
+        ],
+        [
+          35,
+          119
+        ],
+        [
+          35,
+          122
+        ],
+        [
+          28,
+          122
+        ],
+        [
+          28,
+          115
+        ]
+      ],
+      [
+        [
+          34,
+          126
+        ],
+        [
+          38.5,
+          125
+        ],
+        [
+          40,
+          128
+        ],
+        [
+          37,
+          130
+        ],
+        [
+          34,
+          129
+        ],
+        [
+          34,
+          126
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/water-deer.jpg"
+}

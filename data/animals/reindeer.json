@@ -1,0 +1,136 @@
+{
+  "id": "reindeer",
+  "name_zh": "驯鹿",
+  "name_en": "Reindeer",
+  "scientific_name": "Rangifer tarandus",
+  "ui_tags": [
+    "Mammal",
+    "Tundra",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Cervidae",
+      "zh": "鹿科"
+    },
+    "genus": {
+      "en": "Rangifer",
+      "zh": "驯鹿属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The reindeer is a sturdy deer famous for its epic migrations across the snowy Arctic tundra.",
+    "zh": "驯鹿是一种强壮的鹿，因其在白雪皑皑的北极苔原上进行史诗般的迁徙而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Reindeer are the only deer species where both males and females grow antlers. They have broad, cloven hooves that act like snowshoes to keep them from sinking into the snow and mud.",
+      "zh": "驯鹿是唯一一种雄性和雌性都长角的鹿。它们长着宽大且开叉的蹄子，就像雪鞋一样，能防止它们陷进深雪或泥泞中。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are famous for traveling thousands of kilometers every year in search of food like lichen, which they can smell even under deep snow. They are highly social and live in massive herds to protect each other from predators.",
+      "zh": "它们以每年跋涉数千公里寻找地衣等食物而闻名，即使在深雪下它们也能闻到食物。它们具有高度的社会性，成群结队地生活以互相保护，抵御捕食者。"
+    },
+    "habitat_and_distribution": {
+      "en": "They live in the cold Arctic and subarctic regions of North America, Europe, and Asia. In some places, they are semi-domesticated and help local people by pulling sleds.",
+      "zh": "它们生活在北美、欧洲和亚洲寒冷的北极及亚北极地区。在某些地方，它们被半驯化，通过拉雪橇来帮助当地居民。"
+    }
+  },
+  "habitat": {
+    "text_en": "Arctic Tundra and Boreal Forests",
+    "text_zh": "北极苔原与泰加林",
+    "map_coordinates": [
+      65,
+      100
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          60,
+          10
+        ],
+        [
+          70,
+          20
+        ],
+        [
+          75,
+          60
+        ],
+        [
+          70,
+          100
+        ],
+        [
+          70,
+          170
+        ],
+        [
+          60,
+          175
+        ],
+        [
+          55,
+          130
+        ],
+        [
+          60,
+          10
+        ]
+      ],
+      [
+        [
+          55,
+          -165
+        ],
+        [
+          70,
+          -160
+        ],
+        [
+          80,
+          -120
+        ],
+        [
+          75,
+          -70
+        ],
+        [
+          50,
+          -60
+        ],
+        [
+          50,
+          -120
+        ],
+        [
+          55,
+          -165
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/reindeer.jpg"
+}

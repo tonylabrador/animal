@@ -1,0 +1,116 @@
+{
+  "id": "dromedary-camel",
+  "name_zh": "单峰骆驼",
+  "name_en": "Dromedary Camel",
+  "scientific_name": "Camelus dromedarius",
+  "ui_tags": [
+    "Mammal",
+    "Desert",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Camelidae",
+      "zh": "骆驼科"
+    },
+    "genus": {
+      "en": "Camelus",
+      "zh": "骆驼属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The dromedary, or Arabian camel, has a single hump and is a vital companion for people living in hot deserts.",
+    "zh": "单峰骆驼（又称阿拉伯骆驼）只有一个驼峰，是生活在炎热沙漠地区人们极其重要的伙伴。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They have one hump that stores fat, not water, which they use as an energy reserve. They have long eyelashes and sealable nostrils to keep out blowing sand.",
+      "zh": "它们有一个驼峰，里面储存的是脂肪而非水分，作为能量储备。它们长着长长的睫毛和可以闭合的鼻孔，用以阻挡风沙。"
+    },
+    "ecology_and_behavior": {
+      "en": "Dromedaries can survive for weeks without drinking water. When they finally do drink, they can gulp down over 100 liters in just ten minutes!",
+      "zh": "单峰骆驼可以在不喝水的情况下生存数周。当它们终于喝水时，能在短短十分钟内喝下超过100升的水！"
+    },
+    "habitat_and_distribution": {
+      "en": "They are widely found across North Africa, the Middle East, and parts of India. A large feral population also lives in the deserts of Australia.",
+      "zh": "它们广泛分布于北非、中东和印度部分地区。在澳大利亚的沙漠中，也生活着大量的野化种群。"
+    }
+  },
+  "habitat": {
+    "text_en": "Hot sandy deserts",
+    "text_zh": "炎热沙质沙漠",
+    "map_coordinates": [
+      23.5,
+      45
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          -15
+        ],
+        [
+          35,
+          -10
+        ],
+        [
+          35,
+          60
+        ],
+        [
+          10,
+          50
+        ],
+        [
+          15,
+          -15
+        ]
+      ],
+      [
+        [
+          -30,
+          120
+        ],
+        [
+          -20,
+          120
+        ],
+        [
+          -20,
+          145
+        ],
+        [
+          -30,
+          145
+        ],
+        [
+          -30,
+          120
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/dromedary-camel.jpg"
+}

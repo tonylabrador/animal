@@ -1,0 +1,150 @@
+{
+  "id": "sika-deer",
+  "name_zh": "梅花鹿",
+  "name_en": "Sika Deer",
+  "scientific_name": "Cervus nippon",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Cervidae",
+      "zh": "鹿科"
+    },
+    "genus": {
+      "en": "Cervus",
+      "zh": "鹿属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The sika deer is a beautiful woodland animal famous for the white spots on its reddish-brown summer coat.",
+    "zh": "梅花鹿是一种美丽的森林动物，以其红褐色夏毛上像梅花一样的白斑而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They are medium-sized deer with slender legs and a short tail. While their summer coat is spotted, it turns dark and thick in the winter to keep them warm, and the spots often disappear.",
+      "zh": "它们是中等体型的鹿，腿部纤细，尾巴很短。虽然它们的夏毛布满斑点，但到了冬天，皮毛会变得又黑又厚以保暖，斑点通常会消失。"
+    },
+    "ecology_and_behavior": {
+      "en": "Sika deer are very vocal and communicate with a variety of whistles and screams. They are active from dusk to dawn and love to eat leaves, grasses, and even fallen fruit in the forest.",
+      "zh": "梅花鹿非常喜欢「说话」，能发出各种口哨声和尖叫声来交流。它们从黄昏到黎明都很活跃，喜欢吃森林里的叶子、草，甚至是掉落的水果。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are native to East Asia, including Japan, Taiwan, and mainland China. In Japan's Nara Park, they are famous for living peacefully alongside people and even 「bowing」 for treats!",
+      "zh": "它们原产于东亚，包括日本、台湾和中国大陆。在日本的奈良公园，它们因与人和平共处、甚至会为了零食向人「点头鞠躬」而闻名！"
+    }
+  },
+  "habitat": {
+    "text_en": "Temperate forests and woodlands",
+    "text_zh": "温带森林与林地",
+    "map_coordinates": [
+      36,
+      138
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          30,
+          128
+        ],
+        [
+          35,
+          132
+        ],
+        [
+          45,
+          140
+        ],
+        [
+          45,
+          148
+        ],
+        [
+          30,
+          135
+        ],
+        [
+          30,
+          128
+        ]
+      ],
+      [
+        [
+          25,
+          115
+        ],
+        [
+          32,
+          118
+        ],
+        [
+          40,
+          122
+        ],
+        [
+          43,
+          125
+        ],
+        [
+          42,
+          132
+        ],
+        [
+          35,
+          128
+        ],
+        [
+          25,
+          115
+        ]
+      ],
+      [
+        [
+          22,
+          120
+        ],
+        [
+          25.5,
+          121
+        ],
+        [
+          25,
+          122
+        ],
+        [
+          22,
+          121
+        ],
+        [
+          22,
+          120
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/sika-deer.jpg"
+}

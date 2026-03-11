@@ -1,0 +1,116 @@
+{
+  "id": "wild-bactrian-camel",
+  "name_zh": "野双峰骆驼",
+  "name_en": "Wild Bactrian Camel",
+  "scientific_name": "Camelus ferus",
+  "ui_tags": [
+    "Mammal",
+    "Desert",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Camelidae",
+      "zh": "骆驼科"
+    },
+    "genus": {
+      "en": "Camelus",
+      "zh": "骆驼属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "The wild Bactrian camel is a rare, hardy survivor of the Gobi Desert and is genetically distinct from domesticated camels.",
+    "zh": "野双峰骆驼是戈壁沙漠中罕见的生存专家，在基因上与家养骆驼完全不同。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They have two small, pyramidal humps and are leaner than their domestic cousins. Their thick, sand-colored fur protects them from extreme temperatures, and they can drink saltwater that would kill other mammals.",
+      "zh": "它们有两个较小的锥形驼峰，体型比家养骆驼更精瘦。厚实的沙色皮毛能抵御极端气温，它们甚至能饮用会令其他哺乳动物丧命的苦咸水。"
+    },
+    "ecology_and_behavior": {
+      "en": "Wild Bactrian camels are incredibly shy and live in small herds. They are masters of the desert, traveling vast distances to find sparse vegetation and seasonal water sources.",
+      "zh": "野双峰骆驼非常害羞，以小群形式生活。它们是沙漠之王，为了寻找稀疏的植被和季节性水源，能长途跋涉极远的距离。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are found only in four isolated locations: three in northwestern China (including the Lop Nur region) and one in the Gobi Desert of Mongolia.",
+      "zh": "它们仅分布在四个相互隔离的区域：三个在中国西北部（包括罗布泊地区），一个在蒙古的戈壁沙漠。"
+    }
+  },
+  "habitat": {
+    "text_en": "Arid Gobi Deserts",
+    "text_zh": "干旱戈壁荒漠",
+    "map_coordinates": [
+      41.5,
+      92
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          39,
+          88
+        ],
+        [
+          42,
+          88
+        ],
+        [
+          42,
+          95
+        ],
+        [
+          39,
+          95
+        ],
+        [
+          39,
+          88
+        ]
+      ],
+      [
+        [
+          43,
+          95
+        ],
+        [
+          46,
+          95
+        ],
+        [
+          46,
+          105
+        ],
+        [
+          43,
+          105
+        ],
+        [
+          43,
+          95
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/wild-bactrian-camel.jpg"
+}

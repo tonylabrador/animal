@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **130** 种动物
+**统计**：共 **140** 种动物
 
 ---
 
@@ -29,9 +29,12 @@
 
 **牛科**
 
+- 旋角羚 / Addax — *Addax nasomaculatus* `addax`
+- 非洲水牛 / African Buffalo — *Syncerus caffer* `african-buffalo`
 - 美洲野牛 / American Bison — *Bison bison* `american-bison`
 - 大角羊 / Bighorn Sheep — *Ovis canadensis* `bighorn-sheep`
 - 雪羊 / Mountain Goat — *Oreamnos americanus* `mountain-goat`
+- 麝牛 / Muskox — *Ovibos moschatus* `muskox`
 - 普氏原羚 / Przewalski's Gazelle — *Procapra przewalskii* `przewalskis-gazelle`
 - 高鼻羚羊 / Saiga Antelope — *Saiga tatarica* `saiga-antelope`
 - 羚牛 / Takin — *Budorcas taxicolor* `takin`
@@ -41,9 +44,18 @@
 
 - 长颈鹿 / Giraffe — *Giraffa camelopardalis* `giraffe`
 
+**骆驼科**
+
+- 双峰骆驼 / Bactrian Camel — *Camelus bactrianus* `bactrian-camel`
+- 单峰骆驼 / Dromedary Camel — *Camelus dromedarius* `dromedary-camel`
+- 野双峰骆驼 / Wild Bactrian Camel — *Camelus ferus* `wild-bactrian-camel`
+
 **鹿科**
 
 - 驼鹿 / Moose — *Alces alces* `moose`
+- 驯鹿 / Reindeer — *Rangifer tarandus* `reindeer`
+- 梅花鹿 / Sika Deer — *Cervus nippon* `sika-deer`
+- 獐 / Water Deer — *Hydropotes inermis* `water-deer`
 
 ### 兔形目
 
@@ -239,6 +251,10 @@
 **须鲸科**
 
 - 蓝鲸 / Blue Whale — *Balaenoptera musculus* `blue-whale`
+
+**鼠海豚科**
+
+- 小头鼠海豚 / Vaquita — *Phocoena sinus* `vaquita`
 
 ### 鳞甲目
 
