@@ -1,0 +1,202 @@
+{
+  "id": "giant-armadillo",
+  "name_zh": "大犰狳",
+  "name_en": "Giant Armadillo",
+  "scientific_name": "Priodontes maximus",
+  "ui_tags": [
+    "Mammal",
+    "Forest & Grassland",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Cingulata",
+      "zh": "有甲目"
+    },
+    "family": {
+      "en": "Chlamyphoridae",
+      "zh": "倭犰狳科"
+    },
+    "genus": {
+      "en": "Priodontes",
+      "zh": "大犰狳属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The largest living species of armadillo, renowned for having the most teeth of any terrestrial mammal and massive, powerful claws.",
+    "zh": "现存体型最大的犰狳物种，以拥有陆生哺乳动物中最多的牙齿和巨大强有力的爪子而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They are the tanks of the animal kingdom! Giant armadillos can weigh up to 32 kilograms (70 lbs) and have a large, flexible armor shell with 11 to 13 distinct bands. Their enormous front claws, reaching 20 centimeters, are perfectly adapted for digging.",
+      "zh": "它们简直是动物界的坦克！大犰狳体重可达32公斤，拥有巨大且灵活的盔甲，排列着 11 到 13 条清晰的环带。其长达20厘米的巨大前爪是完美的挖掘工具。"
+    },
+    "ecology_and_behavior": {
+      "en": "These solitary giants are ecosystem engineers. They use their massive claws to destroy termite mounds easily and dig deep burrows that later provide shelter for numerous other rainforest species after they abandon them.",
+      "zh": "这些独居的庞大生物是生态系统的工程师。它们用巨爪毫不费力地摧毁白蚁丘，并挖掘出极深的洞穴；这些洞穴被它们遗弃后，会为其他许多雨林物种提供庇护所。"
+    },
+    "habitat_and_distribution": {
+      "en": "Found only in South America, their range extends from eastern Venezuela and the Guianas down into northern Argentina. Due to hunting and habitat loss, they have become increasingly rare and are often hard to spot.",
+      "zh": "它们只分布在南美洲，活动范围从委内瑞拉东部和圭亚那一直向南延伸到阿根廷北部。由于偷猎和栖息地的丧失，它们变得越来越罕见，极难被发现。"
+    }
+  },
+  "habitat": {
+    "text_en": "Amazon & Cerrado",
+    "text_zh": "亚马逊与塞拉多大草原",
+    "map_coordinates": [
+      -10,
+      -55
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          8,
+          -63
+        ],
+        [
+          7,
+          -66
+        ],
+        [
+          4,
+          -68
+        ],
+        [
+          1,
+          -69
+        ],
+        [
+          -2,
+          -69
+        ],
+        [
+          -5,
+          -69
+        ],
+        [
+          -8,
+          -68
+        ],
+        [
+          -11,
+          -67
+        ],
+        [
+          -14,
+          -65
+        ],
+        [
+          -17,
+          -63
+        ],
+        [
+          -20,
+          -60
+        ],
+        [
+          -23,
+          -57
+        ],
+        [
+          -25,
+          -53
+        ],
+        [
+          -27,
+          -50
+        ],
+        [
+          -28,
+          -46
+        ],
+        [
+          -28,
+          -43
+        ],
+        [
+          -26,
+          -39
+        ],
+        [
+          -24,
+          -36
+        ],
+        [
+          -21,
+          -34
+        ],
+        [
+          -18,
+          -32
+        ],
+        [
+          -15,
+          -31
+        ],
+        [
+          -12,
+          -31
+        ],
+        [
+          -9,
+          -32
+        ],
+        [
+          -6,
+          -34
+        ],
+        [
+          -3,
+          -37
+        ],
+        [
+          -1,
+          -40
+        ],
+        [
+          1,
+          -43
+        ],
+        [
+          3,
+          -47
+        ],
+        [
+          5,
+          -51
+        ],
+        [
+          7,
+          -54
+        ],
+        [
+          8,
+          -58
+        ],
+        [
+          8,
+          -63
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/giant-armadillo.jpg"
+}

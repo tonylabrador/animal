@@ -66,28 +66,7 @@
     ],
     "map_zoom_level": 7,
     "global_distribution_polygons": [
-      [
-        [
-          1,
-          -92
-        ],
-        [
-          1,
-          -89
-        ],
-        [
-          -2,
-          -89
-        ],
-        [
-          -2,
-          -92
-        ],
-        [
-          1,
-          -92
-        ]
-      ]
+      [[1, -92], [1, -89], [-2, -89], [-2, -92], [1, -92]]
     ]
   },
   "image": "/images/animals/galapagos-tortoise.jpg"

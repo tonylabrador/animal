@@ -66,28 +66,7 @@
     ],
     "map_zoom_level": 5,
     "global_distribution_polygons": [
-      [
-        [
-          10,
-          25
-        ],
-        [
-          -5,
-          25
-        ],
-        [
-          -5,
-          35
-        ],
-        [
-          10,
-          35
-        ],
-        [
-          10,
-          25
-        ]
-      ]
+      [[10, 25], [-5, 25], [-5, 35], [10, 35], [10, 25]]
     ]
   },
   "image": "/images/animals/shoebill-stork.jpg"

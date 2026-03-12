@@ -1,0 +1,150 @@
+{
+  "id": "domestic-cow",
+  "name_zh": "牛",
+  "name_en": "Domestic Cow",
+  "scientific_name": "Bos taurus",
+  "ui_tags": [
+    "Mammal",
+    "Farm",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Bovidae",
+      "zh": "牛科"
+    },
+    "genus": {
+      "en": "Bos",
+      "zh": "牛属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "Large, iconic domesticated herbivores known for their highly specialized four-chambered stomachs which gracefully process tough grasses.",
+    "zh": "体型庞大且标志性的家养食草动物，以其高度特化的「四室胃」而闻名，这种胃结构让它们能够从容地消化极其坚硬的草料。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Cows lack upper front teeth; instead, they have a tough dental pad. Perhaps their most hardcore feature is their stomach, with the largest compartment, the rumen, capable of holding up to 50 gallons of partially digested food!",
+      "zh": "牛其实没有上门牙；取而代之的是一块坚硬的厚齿龈。但它们身上最硬核的特征可能还要数它们的胃，其中最大的隔间「瘤胃」甚至能容纳多达50加仑（约190升）半消化的食物！"
+    },
+    "ecology_and_behavior": {
+      "en": "They are highly social herd animals that form strong lifelong friendships. Cows spend up to 8 hours a day simply chewing their cud—regurgitating food to chew it a second time—which is essential for their unique digestion.",
+      "zh": "它们是高度社会化的群居动物，甚至会和其他牛建立长久的友谊。牛每天会花长达8小时的时间来反刍——也就是把吃下去的食物吐出来再嚼一次——这对于它们独特的消化系统至关重要。"
+    },
+    "habitat_and_distribution": {
+      "en": "Descended from the extinct wild aurochs, domestic cows now number over a billion worldwide and inhabit vast pastures, open fields, and farms in nearly every country on Earth.",
+      "zh": "作为已经灭绝的野生原牛的后代，家牛现在的全球数量已经超过十亿头。它们栖息在地球上几乎每个国家广阔的牧场、开阔的田野和热闹的农场中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Pastures, Fields, and Farms",
+    "text_zh": "牧场、田野与农庄",
+    "map_coordinates": [
+      38,
+      -95
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          60,
+          -130
+        ],
+        [
+          60,
+          -70
+        ],
+        [
+          20,
+          -80
+        ],
+        [
+          20,
+          -110
+        ],
+        [
+          60,
+          -130
+        ]
+      ],
+      [
+        [
+          -10,
+          -75
+        ],
+        [
+          5,
+          -50
+        ],
+        [
+          -35,
+          -50
+        ],
+        [
+          -35,
+          -75
+        ],
+        [
+          -10,
+          -75
+        ]
+      ],
+      [
+        [
+          55,
+          -10
+        ],
+        [
+          55,
+          40
+        ],
+        [
+          35,
+          30
+        ],
+        [
+          45,
+          140
+        ],
+        [
+          15,
+          100
+        ],
+        [
+          -35,
+          30
+        ],
+        [
+          15,
+          -15
+        ],
+        [
+          55,
+          -10
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/domestic-cow.jpg"
+}

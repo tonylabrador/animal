@@ -1,0 +1,126 @@
+{
+  "id": "surinam-horned-frog",
+  "name_zh": "哥伦比亚角蛙",
+  "name_en": "Surinam Horned Frog",
+  "scientific_name": "Ceratophrys cornuta",
+  "ui_tags": [
+    "Amphibian",
+    "Rainforest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Amphibia",
+      "zh": "两栖纲"
+    },
+    "order": {
+      "en": "Anura",
+      "zh": "无尾目"
+    },
+    "family": {
+      "en": "Ceratophryidae",
+      "zh": "角花蟾科"
+    },
+    "genus": {
+      "en": "Ceratophrys",
+      "zh": "角花蟾属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A chubby, soil-dwelling frog with distinct horns over its eyes and an impossibly wide mouth, earning it the nickname 'Pac-Man Frog'.",
+    "zh": "一种胖乎乎、生活在土壤里的青蛙，眼睛上方有明显的犄角，并长有一张宽得不可思议的嘴巴，为它赢得了「吃豆人青蛙」的绰号。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They are exceptionally round, resembling a colorful leaf or mottled soil. True to their nickname, their mouth spans the entire width of their head! Fleshy 'horns' sit above their eyes, perfectly camouflaging their silhouette against the forest floor.",
+      "zh": "它们异常圆润，看起来像一片五颜六色的叶子或斑驳的土壤。就像它们的绰号一样，它们的嘴巴几乎跟整个头一样宽！肉质的「角」长在眼睛上方，能完美地掩盖它们在森林地表上的轮廓。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are ambush predators! They bury themselves up to their eyes in leaf litter and wait for spiders, lizards, or even small mice to walk by. When prey gets close, they explode out of the mud and gulp them down whole in an instant.",
+      "zh": "它们是伏击捕食者！它们会将身体一直到眼睛的部分埋在落叶堆里，等待蜘蛛、蜥蜴甚至小老鼠路过。当猎物靠近时，它们会瞬间冲出泥土并把猎物整个吞进肚子里。"
+    },
+    "habitat_and_distribution": {
+      "en": "These frogs inhabit the leaf-littered floors of tropical rainforests in the northern Amazon Basin of South America.",
+      "zh": "这些蛙栖息在南美洲亚马逊盆地北部热带雨林中铺满落叶的地面上。"
+    }
+  },
+  "habitat": {
+    "text_en": "Amazon Forest Floor",
+    "text_zh": "亚马逊雨林地表",
+    "map_coordinates": [
+      -5,
+      -60
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          5,
+          -75
+        ],
+        [
+          5,
+          -70
+        ],
+        [
+          3,
+          -65
+        ],
+        [
+          0,
+          -60
+        ],
+        [
+          -5,
+          -55
+        ],
+        [
+          -10,
+          -55
+        ],
+        [
+          -15,
+          -60
+        ],
+        [
+          -18,
+          -65
+        ],
+        [
+          -15,
+          -70
+        ],
+        [
+          -10,
+          -75
+        ],
+        [
+          -5,
+          -78
+        ],
+        [
+          0,
+          -78
+        ],
+        [
+          5,
+          -75
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/surinam-horned-frog.jpg"
+}

@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **163** 种动物
+**统计**：共 **185** 种动物
 
 ---
 
@@ -33,12 +33,18 @@
 - 非洲水牛 / African Buffalo — *Syncerus caffer* `african-buffalo`
 - 美洲野牛 / American Bison — *Bison bison* `american-bison`
 - 大角羊 / Bighorn Sheep — *Ovis canadensis* `bighorn-sheep`
+- 牛 / Domestic Cow — *Bos taurus* `domestic-cow`
+- 绵羊 / Domestic Sheep — *Ovis aries* `domestic-sheep`
 - 雪羊 / Mountain Goat — *Oreamnos americanus* `mountain-goat`
 - 麝牛 / Muskox — *Ovibos moschatus* `muskox`
 - 普氏原羚 / Przewalski's Gazelle — *Procapra przewalskii* `przewalskis-gazelle`
 - 高鼻羚羊 / Saiga Antelope — *Saiga tatarica* `saiga-antelope`
 - 羚牛 / Takin — *Budorcas taxicolor* `takin`
 - 藏羚羊 / Tibetan Antelope — *Pantholops hodgsonii* `tibetan-antelope`
+
+**猪科**
+
+- 猪 / Domestic Pig — *Sus domesticus* `domestic-pig`
 
 **长颈鹿科**
 
@@ -65,6 +71,7 @@
 
 **兔科**
 
+- 穴兔 / European Rabbit — *Oryctolagus cuniculus* `european-rabbit`
 - 雪鞋兔 / Snowshoe Hare — *Lepus americanus* `snowshoe-hare`
 
 **鼠兔科**
@@ -82,6 +89,10 @@
 **树袋熊科**
 
 - 考拉 / Koala — *Phascolarctos cinereus* `koala`
+
+**袋熊科**
+
+- 普通袋熊 / Common Wombat — *Vombatus ursinus* `common-wombat`
 
 **袋鼠科**
 
@@ -109,9 +120,18 @@
 
 **马科**
 
+- 马 / Horse — *Equus caballus* `horse`
 - 平原斑马 / Plains Zebra — *Equus quagga* `plains-zebra`
 
 ### 披毛目
+
+**二趾树懒科**
+
+- 二趾树懒 / Linnaeus's Two-toed Sloth — *Choloepus didactylus* `two-toed-sloth`
+
+**侏食蚁兽科**
+
+- 侏食蚁兽 / Silky Anteater — *Cyclopes didactylus* `silky-anteater`
 
 **树懒科**
 
@@ -125,6 +145,8 @@
 
 **倭犰狳科**
 
+- 三带犰狳 / Brazilian Three-banded Armadillo — *Tolypeutes tricinctus* `three-banded-armadillo`
+- 大犰狳 / Giant Armadillo — *Priodontes maximus* `giant-armadillo`
 - 粉红犰狳 / Pink Fairy Armadillo — *Chlamyphorus truncatus* `pink-fairy-armadillo`
 
 **犰狳科**
@@ -169,6 +191,12 @@
 
 - 吸血蝠 / Common Vampire Bat — *Desmodus rotundus* `common-vampire-bat`
 
+### 袋鼬目
+
+**袋鼬科**
+
+- 袋獾 / Tasmanian Devil — *Sarcophilus harrisii* `tasmanian-devil`
+
 ### 负鼠目
 
 **负鼠科**
@@ -206,10 +234,12 @@
 - 棕熊 / Brown Bear — *Ursus arctos* `brown-bear`
 - 大熊猫 / Giant Panda — *Ailuropoda melanoleuca* `giant-panda`
 - 北极熊 / Polar Bear — *Ursus maritimus* `polar-bear`
+- 懒熊 / Sloth Bear — *Melursus ursinus* `sloth-bear`
 
 **犬科**
 
 - 非洲野犬 / African Wild Dog — *Lycaon pictus* `african-wild-dog`
+- 北极狐 / Arctic Fox — *Vulpes lagopus* `arctic-fox`
 - 大耳狐 / Bat-eared Fox — *Otocyon megalotis* `bat-eared-fox`
 - 薮犬 / Bush Dog — *Speothos venaticus* `bush-dog`
 - 郊狼 / Coyote — *Canis latrans* `coyote`
@@ -230,6 +260,7 @@
 - 狞猫 / Caracal — *Caracal caracal* `caracal`
 - 猎豹 / Cheetah — *Acinonyx jubatus* `cheetah`
 - 云豹 / Clouded Leopard — *Neofelis nebulosa* `clouded-leopard`
+- 家猫 / Domestic Cat — *Felis catus* `domestic-cat`
 - 欧亚猞猁 / Eurasian Lynx — *Lynx lynx* `eurasian-lynx`
 - 渔猫 / Fishing Cat — *Prionailurus viverrinus* `fishing-cat`
 - 美洲豹 / Jaguar — *Panthera onca* `jaguar`
@@ -242,6 +273,10 @@
 - 薮猫 / Serval — *Leptailurus serval* `serval`
 - 雪豹 / Snow Leopard — *Panthera uncia* `snow-leopard`
 - 老虎 / Tiger — *Panthera tigris* `tiger`
+
+**獴科**
+
+- 细尾獴 / Meerkat — *Suricata suricatta* `meerkat`
 
 **臭鼬科**
 
@@ -290,6 +325,12 @@
 - 帝企鹅 / Emperor Penguin — *Aptenodytes forsteri* `emperor-penguin`
 - 王企鹅 / King Penguin — *Aptenodytes patagonicus* `king-penguin`
 
+### 佛法僧目
+
+**翠鸟科**
+
+- 普通翠鸟 / Common Kingfisher — *Alcedo atthis* `common-kingfisher`
+
 ### 犀鸟目
 
 **犀鸟科**
@@ -334,6 +375,7 @@
 - 褐马鸡 / Brown Eared Pheasant — *Crossoptilon mantchuricum* `brown-eared-pheasant`
 - 红腹锦鸡 / Golden Pheasant — *Chrysolophus pictus* `golden-pheasant`
 - 蓝孔雀 / Indian Peafowl — *Pavo cristatus* `indian-peafowl`
+- 原鸡 / Red Junglefowl — *Gallus gallus* `red-junglefowl`
 
 ### 鸮形目
 
@@ -448,6 +490,10 @@
 
 - 红眼树蛙 / Red-eyed Tree Frog — *Agalychnis callidryas* `red-eyed-tree-frog`
 
+**树蛙科**
+
+- 华莱士飞蛙 / Wallace's Flying Frog — *Rhacophorus nigropalmatus* `wallaces-flying-frog`
+
 **瞻星蛙科**
 
 - 玻璃蛙 / Glass Frog — *Hyalinobatrachium fleischmanni* `glass-frog`
@@ -456,6 +502,10 @@
 
 - 黄金箭毒蛙 / Golden Poison Frog — *Phyllobates terribilis* `golden-poison-frog`
 - 草莓箭毒蛙 / Strawberry Poison Dart Frog — *Oophaga pumilio* `strawberry-poison-dart-frog`
+
+**角花蟾科**
+
+- 哥伦比亚角蛙 / Surinam Horned Frog — *Ceratophrys cornuta* `surinam-horned-frog`
 
 ### 有尾目
 
@@ -492,6 +542,24 @@
 **蚁科**
 
 - 布氏游蚁 / Army Ant — *Eciton burchellii* `army-ant`
+
+### 螳螂目
+
+**花螳科**
+
+- 兰花螳螂 / Orchid Mantis — *Hymenopus coronatus* `orchid-mantis`
+
+### 鞘翅目
+
+**锹甲科**
+
+- 长颈鹿锯锹甲 / Giraffe Stag Beetle — *Prosopocoilus giraffa* `giraffe-stag-beetle`
+
+### 鳞翅目
+
+**蛱蝶科**
+
+- 大蓝闪蝶 / Blue Morpho Butterfly — *Morpho menelaus* `blue-morpho-butterfly`
 
 ---
 

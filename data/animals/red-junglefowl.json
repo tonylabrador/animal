@@ -1,0 +1,130 @@
+{
+  "id": "red-junglefowl",
+  "name_zh": "原鸡",
+  "name_en": "Red Junglefowl",
+  "scientific_name": "Gallus gallus",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Galliformes",
+      "zh": "鸡形目"
+    },
+    "family": {
+      "en": "Phasianidae",
+      "zh": "雉科"
+    },
+    "genus": {
+      "en": "Gallus",
+      "zh": "原鸡属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The vibrant, forest-dwelling wild ancestor of all domestic chickens, and one of the closest living relatives to the mighty T-Rex!",
+    "zh": "所有家鸡那羽毛艳丽缤纷的森林野生祖先，更是曾经不可一世的霸王龙现存最亲近的亲戚之一！"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Males boast striking golden-red plumage, a prominent fleshy red comb, and sharp spurs on their legs for fighting. Their bone structure shares incredible similarities with those of ancient theropod dinosaurs, confirming birds truly are living dinosaurs.",
+      "zh": "雄鸟拥有极其夺目的金红色羽毛、醒目的肉质红冠，以及腿上用来战斗的尖锐距梗。令人难以置信的是，它们的骨骼结构与古老的兽脚亚目恐龙极其相似，这直接证实了鸟类本质上就是活生生的恐龙。"
+    },
+    "ecology_and_behavior": {
+      "en": "Unlike farm chickens, these wild fowl are strong enough to burst into short flights to escape predators or roost high up in the dense jungle canopy. They constantly forage the forest floor for seeds, insects, and even small lizards.",
+      "zh": "与农场里养尊处优的家鸡不同，这些野生原鸡极度强壮，当为了躲避捕食者或要在茂密的丛林树冠高处栖息时，它们能够爆发出短途飞行的能力。它们会不断在森林地表觅食寻找种子、昆虫甚至小蜥蜴。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to the dense tropical forests, scrublands, and forest edges of Southeast Asia, stretching from India across to Indonesia.",
+      "zh": "原产于东南亚极其茂密的热带森林、灌木丛和林地边缘，其自然分布范围从印度一直横跨至印度尼西亚。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical Forests and Scrub",
+    "text_zh": "热带森林与灌木丛",
+    "map_coordinates": [
+      15,
+      100
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          25,
+          75
+        ],
+        [
+          28,
+          85
+        ],
+        [
+          25,
+          95
+        ],
+        [
+          30,
+          105
+        ],
+        [
+          22,
+          110
+        ],
+        [
+          8,
+          105
+        ],
+        [
+          0,
+          100
+        ],
+        [
+          -10,
+          110
+        ],
+        [
+          -10,
+          120
+        ],
+        [
+          5,
+          120
+        ],
+        [
+          15,
+          110
+        ],
+        [
+          5,
+          100
+        ],
+        [
+          10,
+          75
+        ],
+        [
+          25,
+          75
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/red-junglefowl.jpg"
+}

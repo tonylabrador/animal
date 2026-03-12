@@ -66,32 +66,7 @@
     ],
     "map_zoom_level": 4,
     "global_distribution_polygons": [
-      [
-        [
-          50,
-          -95
-        ],
-        [
-          45,
-          -65
-        ],
-        [
-          30,
-          -80
-        ],
-        [
-          10,
-          -85
-        ],
-        [
-          20,
-          -100
-        ],
-        [
-          50,
-          -95
-        ]
-      ]
+      [[50, -95], [45, -65], [30, -80], [10, -85], [20, -100], [50, -95]]
     ]
   },
   "image": "/images/animals/ruby-throated-hummingbird.jpg"

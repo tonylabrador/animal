@@ -1,0 +1,168 @@
+{
+  "id": "horse",
+  "name_zh": "马",
+  "name_en": "Horse",
+  "scientific_name": "Equus caballus",
+  "ui_tags": [
+    "Mammal",
+    "Grassland",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Perissodactyla",
+      "zh": "奇蹄目"
+    },
+    "family": {
+      "en": "Equidae",
+      "zh": "马科"
+    },
+    "genus": {
+      "en": "Equus",
+      "zh": "马属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "A magnificent, fast-running herd animal that completely reshaped human history through transport and agriculture.",
+    "zh": "一种极其壮丽且奔驰如风的群居动物，它们曾通过拉车驾辕与农业耕种，彻底重塑了全人类的历史发展进程。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Horses literally run on their tiptoes! Over millions of years, they evolved to stand entirely on their enlarged central toe, which forms the hard hoof. They also have the largest eyes of any land mammal, giving them incredible nearly 360-degree vision.",
+      "zh": "马真的可以说是靠「脚尖」在奔跑！经过数百万年的进化，它们已经完全依靠扩大的中央第三个脚趾来站立，这就形成了坚硬的马蹄。而且它们还拥有着所有陆地哺乳动物中最大的眼睛，赋予了它们难以置信的近乎360度的超广视角。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are flight animals by nature, preferring to rapidly gallop away from danger rather than fight. Remarkably, horses can lock the joints in their legs via a specialized 'stay apparatus', allowing them to comfortably sleep while standing entirely upright!",
+      "zh": "由于天性使然，马属于「逃避型」动物系列，遇到危险时它们更倾向于立即飞驰逃走而不是战斗。更让人叫绝的是，马能够通过一种特殊的「驻立器官」来锁定腿部所有的关节，这让它们竟然能够舒舒服服地站立着入睡！"
+    },
+    "habitat_and_distribution": {
+      "en": "Originally evolving in the open plains of North America before spreading globally. Now fully domesticated, they populate grassy plains, ranches, and paddocks in diverse climates worldwide.",
+      "zh": "它们最初是在北美开阔的平原上进化出来的，随后才蔓延开分布至全球。如今作为被完全驯化的伴当，它们在世界各地各种气候带的草地、牧场和赛马场中都生生不息。"
+    }
+  },
+  "habitat": {
+    "text_en": "Open Plains and Ranches",
+    "text_zh": "开阔草原与大型牧场",
+    "map_coordinates": [
+      45,
+      100
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          55,
+          -125
+        ],
+        [
+          55,
+          -65
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          25,
+          -115
+        ],
+        [
+          55,
+          -125
+        ]
+      ],
+      [
+        [
+          -5,
+          -65
+        ],
+        [
+          10,
+          -45
+        ],
+        [
+          -35,
+          -45
+        ],
+        [
+          -35,
+          -65
+        ],
+        [
+          -5,
+          -65
+        ]
+      ],
+      [
+        [
+          60,
+          -5
+        ],
+        [
+          60,
+          45
+        ],
+        [
+          50,
+          135
+        ],
+        [
+          25,
+          115
+        ],
+        [
+          -30,
+          30
+        ],
+        [
+          15,
+          -15
+        ],
+        [
+          60,
+          -5
+        ]
+      ],
+      [
+        [
+          -10,
+          115
+        ],
+        [
+          -10,
+          150
+        ],
+        [
+          -40,
+          150
+        ],
+        [
+          -40,
+          115
+        ],
+        [
+          -10,
+          115
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/horse.jpg"
+}

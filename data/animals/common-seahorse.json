@@ -66,28 +66,7 @@
     ],
     "map_zoom_level": 4,
     "global_distribution_polygons": [
-      [
-        [
-          30,
-          40
-        ],
-        [
-          30,
-          180
-        ],
-        [
-          -30,
-          180
-        ],
-        [
-          -30,
-          40
-        ],
-        [
-          30,
-          40
-        ]
-      ]
+      [[30, 40], [30, 180], [-30, 180], [-30, 40], [30, 40]]
     ]
   },
   "image": "/images/animals/common-seahorse.jpg"

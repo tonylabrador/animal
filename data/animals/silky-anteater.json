@@ -1,0 +1,276 @@
+{
+  "id": "silky-anteater",
+  "name_zh": "侏食蚁兽",
+  "name_en": "Silky Anteater",
+  "scientific_name": "Cyclopes didactylus",
+  "ui_tags": [
+    "Mammal",
+    "Rainforest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Pilosa",
+      "zh": "披毛目"
+    },
+    "family": {
+      "en": "Cyclopedidae",
+      "zh": "侏食蚁兽科"
+    },
+    "genus": {
+      "en": "Cyclopes",
+      "zh": "侏食蚁兽属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The silky anteater is the smallest anteater in the world, living entirely in trees and resembling a tiny, golden powder puff.",
+    "zh": "侏食蚁兽是世界上最小的食蚁兽，完全在树上生活，看起来就像一个微小的金黄色粉扑。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They weigh less than a pound! Silky anteaters are covered in soft, golden-yellow fur that helps them blend in with seed pods in the canopy. Their prehensile tail and sharp claws make them expert climbers.",
+      "zh": "它们的体重不到半斤！侏食蚁兽浑身覆盖着柔软的金黄色皮毛，这有助于它们伪装成树冠层中的种子荚。它们那能缠绕的尾巴和极其锋利的爪子使它们成为了攀爬大师。"
+    },
+    "ecology_and_behavior": {
+      "en": "These tiny creatures are strictly nocturnal and feed almost entirely on ants—eating up to 8,000 ants a day! When threatened, a silky anteater will stand on its hind legs and raise its claws to look menacing.",
+      "zh": "这些微小的生物是严格夜行性的，几乎只吃蚂蚁——每天能吃掉多达 8000 只蚂蚁！当受到威胁时，侏食蚁兽会用后腿站立并高举爪子，摆出一副吓人的防御姿态。"
+    },
+    "habitat_and_distribution": {
+      "en": "Silky anteaters live high up in the canopy of tropical rainforests and mangrove forests across Central and South America. They rarely, if ever, come down to the ground.",
+      "zh": "侏食蚁兽生活在中美洲和南美洲热带雨林和红树林极高的树冠层中。它们极少降落到地面上。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical Rainforest Canopies",
+    "text_zh": "热带雨林树冠层",
+    "map_coordinates": [
+      -5,
+      -65
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -21,
+          -45
+        ],
+        [
+          -21,
+          -48
+        ],
+        [
+          -19,
+          -48
+        ],
+        [
+          -15,
+          -45
+        ],
+        [
+          -12,
+          -43
+        ],
+        [
+          -10,
+          -40
+        ],
+        [
+          -8,
+          -37
+        ],
+        [
+          -5,
+          -36
+        ],
+        [
+          -2,
+          -37
+        ],
+        [
+          0,
+          -38
+        ],
+        [
+          2,
+          -41
+        ],
+        [
+          5,
+          -44
+        ],
+        [
+          8,
+          -48
+        ],
+        [
+          10,
+          -52
+        ],
+        [
+          13,
+          -56
+        ],
+        [
+          16,
+          -60
+        ],
+        [
+          18,
+          -64
+        ],
+        [
+          18,
+          -68
+        ],
+        [
+          17,
+          -72
+        ],
+        [
+          15,
+          -75
+        ],
+        [
+          12,
+          -78
+        ],
+        [
+          9,
+          -81
+        ],
+        [
+          6,
+          -83
+        ],
+        [
+          3,
+          -83
+        ],
+        [
+          0,
+          -82
+        ],
+        [
+          -3,
+          -80
+        ],
+        [
+          -6,
+          -78
+        ],
+        [
+          -9,
+          -76
+        ],
+        [
+          -12,
+          -74
+        ],
+        [
+          -15,
+          -72
+        ],
+        [
+          -18,
+          -69
+        ],
+        [
+          -21,
+          -66
+        ],
+        [
+          -23,
+          -63
+        ],
+        [
+          -24,
+          -60
+        ],
+        [
+          -25,
+          -57
+        ],
+        [
+          -25,
+          -54
+        ],
+        [
+          -24,
+          -51
+        ],
+        [
+          -23,
+          -48
+        ],
+        [
+          -21,
+          -45
+        ]
+      ],
+      [
+        [
+          15,
+          -88
+        ],
+        [
+          16,
+          -90
+        ],
+        [
+          18,
+          -92
+        ],
+        [
+          20,
+          -94
+        ],
+        [
+          22,
+          -96
+        ],
+        [
+          21,
+          -98
+        ],
+        [
+          19,
+          -96
+        ],
+        [
+          17,
+          -94
+        ],
+        [
+          15,
+          -92
+        ],
+        [
+          14,
+          -90
+        ],
+        [
+          15,
+          -88
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/silky-anteater.jpg"
+}

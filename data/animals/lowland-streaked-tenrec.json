@@ -66,28 +66,7 @@
     ],
     "map_zoom_level": 7,
     "global_distribution_polygons": [
-      [
-        [
-          -12,
-          48
-        ],
-        [
-          -18,
-          48
-        ],
-        [
-          -18,
-          50.5
-        ],
-        [
-          -12,
-          50.5
-        ],
-        [
-          -12,
-          48
-        ]
-      ]
+      [[-12, 48], [-18, 48], [-18, 50.5], [-12, 50.5], [-12, 48]]
     ]
   },
   "image": "/images/animals/lowland-streaked-tenrec.jpg"

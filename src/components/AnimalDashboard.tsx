@@ -2,7 +2,8 @@
 
 import { useState, useMemo } from "react";
 import Link from "next/link";
-import { Globe, Search, X, MapPin, Tag } from "lucide-react";
+import { Globe, Search, X, MapPin, Tag, TreeDeciduous, ChevronRight } from "lucide-react";
+import { useLanguage } from "@/lib/LanguageContext";
 import type { Animal } from "@/types/animal";
 
 type Language = "en" | "zh";
@@ -117,7 +118,7 @@ interface AnimalDashboardProps {
 }
 
 export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
-  const [lang, setLang] = useState<Language>("en");
+  const { lang, toggleLang } = useLanguage();
   const [query, setQuery] = useState("");
 
   const filtered = useMemo(() => {
@@ -175,13 +176,15 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
           </div>
 
           {/* Language Toggle */}
-          <button
-            onClick={() => setLang((l) => (l === "en" ? "zh" : "en"))}
-            className="flex items-center gap-2 px-4 py-2 rounded-xl font-semibold text-sm transition-all duration-200 bg-amber-400 hover:bg-amber-500 text-white shadow-sm hover:shadow-md active:scale-95"
-          >
-            <Globe size={15} strokeWidth={2.5} />
-            <span>{lang === "en" ? "中文" : "EN"}</span>
-          </button>
+          <div className="flex items-center gap-2 shrink-0">
+            <button
+              onClick={toggleLang}
+              className="flex items-center gap-2 px-4 py-2 rounded-xl font-semibold text-sm transition-all duration-200 bg-amber-400 hover:bg-amber-500 text-white shadow-sm hover:shadow-md active:scale-95"
+            >
+              <Globe size={15} strokeWidth={2.5} />
+              <span>{lang === "en" ? "中文" : "EN"}</span>
+            </button>
+          </div>
         </div>
 
         {/* Mobile Search */}
@@ -228,6 +231,16 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
             ? `${filtered.length} amazing animals — ready to be discovered.`
             : `${filtered.length} 种神奇动物 — 等待你来发现。`}
         </p>
+
+        {/* Taxonomy Banner */}
+        <Link
+          href="/taxonomy"
+          className="inline-flex items-center gap-3 mt-6 px-8 py-4 rounded-2xl bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-600 hover:to-teal-600 text-white font-bold text-lg shadow-lg hover:shadow-xl transition-all duration-300 active:scale-95 group"
+        >
+          <TreeDeciduous size={24} strokeWidth={2} />
+          <span>{lang === "en" ? "Explore the Tree of Life" : "探索生命之树"}</span>
+          <ChevronRight size={20} strokeWidth={2.5} className="transition-transform group-hover:translate-x-1" />
+        </Link>
       </section>
 
       {/* ── Grid ── */}

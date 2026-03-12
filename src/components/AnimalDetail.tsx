@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import Link from "next/link";
+import { useRouter } from "next/navigation";
 import {
   ArrowLeft,
   Globe,
@@ -15,6 +15,7 @@ import {
   ChevronRight,
   ShieldCheck,
 } from "lucide-react";
+import { useLanguage } from "@/lib/LanguageContext";
 import AnimalMap from "./AnimalMap";
 import type { Animal } from "@/types/animal";
 
@@ -118,7 +119,8 @@ function EncyclopediaPanel({
 }
 
 export default function AnimalDetail({ animal }: { animal: Animal }) {
-  const [lang, setLang]         = useState<Language>("en");
+  const { lang, toggleLang }    = useLanguage();
+  const router                  = useRouter();
   const [imgError, setImgError] = useState(false);
   const [view, setView]         = useState<TopView>("info");
   const [infoTab, setInfoTab]   = useState<InfoTab>("anatomy");
@@ -133,15 +135,15 @@ export default function AnimalDetail({ animal }: { animal: Animal }) {
       <div className="px-4 sm:px-6 h-14 flex items-center justify-between gap-3 max-w-7xl mx-auto">
 
         {/* Left: back */}
-        <Link
-          href="/"
+        <button
+          onClick={() => router.back()}
           className="flex items-center gap-2 text-slate-600 hover:text-slate-900 transition-colors font-medium text-sm shrink-0"
         >
           <ArrowLeft size={16} strokeWidth={2.5} />
           <span className="hidden sm:inline">
             {lang === "en" ? "Back" : "返回"}
           </span>
-        </Link>
+        </button>
 
         {/* Centre: app name */}
         <div className="hidden sm:flex items-center gap-1.5 font-bold text-slate-700 text-sm">
@@ -151,7 +153,7 @@ export default function AnimalDetail({ animal }: { animal: Animal }) {
         {/* Right: lang */}
         <div className="flex items-center gap-2 shrink-0">
           <button
-            onClick={() => setLang((l) => (l === "en" ? "zh" : "en"))}
+            onClick={toggleLang}
             className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg font-semibold text-xs transition-all bg-amber-400 hover:bg-amber-500 text-white shadow-sm active:scale-95"
           >
             <Globe size={13} strokeWidth={2.5} />
@@ -173,22 +175,33 @@ export default function AnimalDetail({ animal }: { animal: Animal }) {
         <section className="mt-6 sm:mt-8 flex gap-4 items-stretch">
 
           {/* Image */}
-          <div className="relative flex-1 min-w-0 aspect-video max-h-[380px] rounded-3xl overflow-hidden shadow-xl bg-slate-100">
+          <div className="relative flex-1 min-w-0 aspect-video max-h-[380px] rounded-3xl overflow-hidden shadow-xl bg-slate-900">
             {animal.image && !imgError ? (
-              /* eslint-disable-next-line @next/next/no-img-element */
-              <img
-                src={animal.image}
-                alt={animal.name_en}
-                className="w-full h-full object-cover"
-                onError={() => setImgError(true)}
-              />
+              <>
+                {/* Layer 1: Blurred Background Ambient Fill */}
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={animal.image}
+                  alt=""
+                  className="absolute inset-0 w-full h-full object-cover blur-2xl opacity-50 scale-110 pointer-events-none"
+                />
+                
+                {/* Layer 2: Main Image (Ensures 100% visibility) */}
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={animal.image}
+                  alt={animal.name_en}
+                  className="relative z-10 w-full h-full object-contain"
+                  onError={() => setImgError(true)}
+                />
+              </>
             ) : (
-              <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-slate-100 to-slate-200">
+              <div className="relative z-10 w-full h-full flex items-center justify-center bg-gradient-to-br from-slate-100 to-slate-200">
                 <span className="text-6xl opacity-30">🐾</span>
               </div>
             )}
-            <div className="absolute inset-0 bg-gradient-to-t from-black/55 via-black/10 to-transparent" />
-            <div className="absolute bottom-0 left-0 right-0 p-5 sm:p-7">
+            <div className="absolute inset-0 z-20 bg-gradient-to-t from-black/55 via-black/10 to-transparent" />
+            <div className="absolute bottom-0 left-0 right-0 z-30 p-5 sm:p-7">
               <h1 className="text-2xl sm:text-4xl font-extrabold text-white drop-shadow-lg leading-tight">
                 {primaryName}
               </h1>

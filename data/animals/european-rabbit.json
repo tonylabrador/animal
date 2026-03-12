@@ -1,0 +1,134 @@
+{
+  "id": "european-rabbit",
+  "name_zh": "穴兔",
+  "name_en": "European Rabbit",
+  "scientific_name": "Oryctolagus cuniculus",
+  "ui_tags": [
+    "Mammal",
+    "Grassland",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Lagomorpha",
+      "zh": "兔形目"
+    },
+    "family": {
+      "en": "Leporidae",
+      "zh": "兔科"
+    },
+    "genus": {
+      "en": "Oryctolagus",
+      "zh": "穴兔属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The wild ancestor of all domestic rabbits, famous for its prolific breeding and complex underground warren systems.",
+    "zh": "所有家兔的野生祖先，以其极其强大的繁衍能力和错综复杂的地下网状洞穴系统而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Equipped with large, highly vascularized ears that act as natural radiators to release body heat, and powerful hind legs built for explosive acceleration to escape predators.",
+      "zh": "它们长有一对布满血管的大耳朵，就像天然的散热器一样用来释放体热；同时拥有肌肉发达的后腿，天生便能为了躲避狩猎者而爆发出惊人的加速度。"
+    },
+    "ecology_and_behavior": {
+      "en": "Highly social creatures living in extensive subterranean mazes called warrens. They communicate danger by thumping their powerful hind feet on the ground, creating vibrations felt by others.",
+      "zh": "穴兔是高度社会化的动物，生活在被称为「兔穴」的庞大地下迷宫中。当遇到重大的危险时，它们会用强健的后脚猛烈敲击地面，制造出震动来警告同伴。"
+    },
+    "habitat_and_distribution": {
+      "en": "Originally native ONLY to the Iberian Peninsula and parts of France, they have been introduced worldwide and often form massive populations in grasslands, meadows, and woodland edges.",
+      "zh": "最初它们「仅仅」原产于伊比利亚半岛和法国的部分地区，但现在已经被引入到了世界各地，并经常在草原、草甸和林地边缘形成极其庞大的种群群体。"
+    }
+  },
+  "habitat": {
+    "text_en": "Grasslands and Mediterranean Scrub",
+    "text_zh": "干草原与地中海灌木丛",
+    "map_coordinates": [
+      40,
+      -4
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          43.7,
+          -7.9
+        ],
+        [
+          43.4,
+          -4.8
+        ],
+        [
+          43.3,
+          -1.9
+        ],
+        [
+          42.3,
+          3.2
+        ],
+        [
+          41.4,
+          2.1
+        ],
+        [
+          40.6,
+          0.6
+        ],
+        [
+          39.5,
+          -0.3
+        ],
+        [
+          37.6,
+          -0.7
+        ],
+        [
+          36.7,
+          -2.1
+        ],
+        [
+          36,
+          -5.5
+        ],
+        [
+          36.8,
+          -7.4
+        ],
+        [
+          37,
+          -9
+        ],
+        [
+          38.7,
+          -9.5
+        ],
+        [
+          41.2,
+          -8.7
+        ],
+        [
+          43.7,
+          -7.9
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/european-rabbit.jpg"
+}

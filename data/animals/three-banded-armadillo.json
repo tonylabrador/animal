@@ -1,0 +1,146 @@
+{
+  "id": "three-banded-armadillo",
+  "name_zh": "三带犰狳",
+  "name_en": "Brazilian Three-banded Armadillo",
+  "scientific_name": "Tolypeutes tricinctus",
+  "ui_tags": [
+    "Mammal",
+    "Dry Scrubland",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Cingulata",
+      "zh": "有甲目"
+    },
+    "family": {
+      "en": "Chlamyphoridae",
+      "zh": "倭犰狳科"
+    },
+    "genus": {
+      "en": "Tolypeutes",
+      "zh": "三带犰狳属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "Famous as the mascot of the 2014 World Cup, it is one of the only armadillos capable of rolling into a perfect, impenetrable ball to defend itself.",
+    "zh": "著名于担任2014年世界杯的吉祥物，它是唯一能将自己卷成一个完美、坚不可摧的球来防御敌人的犰狳之一。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Its armor consists of two rigid domes—one over its shoulders and one over its rump—connected by three flexible bands. Their head and tail interlock like puzzle pieces when rolled up, leaving no soft underbelly exposed.",
+      "zh": "它的盔甲由两个坚硬的圆顶组成（分别覆盖肩膀和臀部），中间通过三条灵活的带子连接。当它们卷起时，头部和尾部会像拼图一样紧紧扣合，不暴露任何柔软的腹部。"
+    },
+    "ecology_and_behavior": {
+      "en": "Unlike other armadillos, they do not dig their own burrows. Instead, they often use abandoned anteater dens. When predators like jaguars attack, they snap securely shut into an armadillo 'soccer ball'.",
+      "zh": "与其他犰狳不同，它们不会自己挖洞。相反，它们通常使用食蚁兽废弃的洞穴。当美洲豹等捕食者攻击时，它们会迅速且牢固地合上，变成一个犰狳「足球」。"
+    },
+    "habitat_and_distribution": {
+      "en": "This species is entirely endemic to Brazil, found mostly in the Caatinga dry scrublands. Unfortunately, severe habitat destruction threatens its survival in the wild.",
+      "zh": "这个物种是巴西的特有种，主要发现于卡廷加（Caatinga）干旱灌木林中。不幸的是，严重的栖息地破坏正在威胁着它们在野外的生存。"
+    }
+  },
+  "habitat": {
+    "text_en": "Caatinga Scrublands",
+    "text_zh": "卡廷加干旱灌木林",
+    "map_coordinates": [
+      -10,
+      -40
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -5,
+          -45
+        ],
+        [
+          -3,
+          -43
+        ],
+        [
+          -2,
+          -40
+        ],
+        [
+          -2,
+          -37
+        ],
+        [
+          -5,
+          -34
+        ],
+        [
+          -7,
+          -33
+        ],
+        [
+          -10,
+          -32
+        ],
+        [
+          -13,
+          -33
+        ],
+        [
+          -16,
+          -34
+        ],
+        [
+          -19,
+          -36
+        ],
+        [
+          -21,
+          -39
+        ],
+        [
+          -21,
+          -42
+        ],
+        [
+          -19,
+          -45
+        ],
+        [
+          -16,
+          -46
+        ],
+        [
+          -13,
+          -47
+        ],
+        [
+          -10,
+          -47
+        ],
+        [
+          -7,
+          -46
+        ],
+        [
+          -5,
+          -45
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/three-banded-armadillo.jpg"
+}

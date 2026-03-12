@@ -1,0 +1,128 @@
+{
+  "id": "common-wombat",
+  "name_zh": "普通袋熊",
+  "name_en": "Common Wombat",
+  "scientific_name": "Vombatus ursinus",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Diprotodontia",
+      "zh": "双门齿目"
+    },
+    "family": {
+      "en": "Vombatidae",
+      "zh": "袋熊科"
+    },
+    "genus": {
+      "en": "Vombatus",
+      "zh": "袋熊属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "Australia's bulldozer: a stocky, burrowing marsupial renowned for its backwards pouch and being the only animal that creates cube-shaped poop.",
+    "zh": "澳洲大陆的活体「推土机」：一种粗壮爱挖洞的有袋动物，以其朝后开口的育儿袋，以及作为地球上唯一能拉出正方体大便的动物而闻名天下。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Their pouch faces backwards so that dirt doesn't bury their baby while they are vigorously digging! Their lower back is heavily reinforced with cartilage, acting like a solid shield to block predators from entering their burrows.",
+      "zh": "它们的育儿袋是朝后开口的，这样当它们疯狂刨土挖洞时，飞溅的泥巴就不会把里面的宝宝给活埋了！它们的臀部则被厚重的软骨坚固包裹着，这就像是一面坚不可摧的肉盾，在遭遇危险时能直接用来死死堵住洞口，阻挡捕食者入侵。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are the undisputed cube-poop champions! This unique shape stops their droppings from rolling off elevated rocks, allowing them to stack it high to mark territory. At night, they emerge to graze on tough native grasses.",
+      "zh": "它们是动物界当之无愧的「方块便便」总冠军！这种奇特的形状能防止它们的排泄物从高处的岩石上滚落下去，这让它们能把大便高高地堆叠起来从而更好地标记领地。到了晚上，它们就会钻出地洞去啃食坚硬的原生草本植物。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to southeastern Australia and Tasmania, they thrive in cooler, forested, and mountainous regions where the soil is suitable for constructing vast burrow networks.",
+      "zh": "它们是澳大利亚东南部和塔斯马尼亚州的超特有物种，在极其凉爽的森林和多山地区繁衍得极其旺盛，因为那里松软的土壤特别适合它们建造由无尽隧道组成的地下交通网。"
+    }
+  },
+  "habitat": {
+    "text_en": "Eucalyptus Forests and Mountains",
+    "text_zh": "桉树林与多山地区",
+    "map_coordinates": [
+      -36,
+      148
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -28,
+          153
+        ],
+        [
+          -34,
+          151
+        ],
+        [
+          -38,
+          150
+        ],
+        [
+          -39,
+          146
+        ],
+        [
+          -35,
+          138
+        ],
+        [
+          -33,
+          140
+        ],
+        [
+          -31,
+          147
+        ],
+        [
+          -28,
+          153
+        ]
+      ],
+      [
+        [
+          -40,
+          144
+        ],
+        [
+          -43,
+          148
+        ],
+        [
+          -44,
+          146
+        ],
+        [
+          -41,
+          143
+        ],
+        [
+          -40,
+          144
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/common-wombat.jpg"
+}

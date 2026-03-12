@@ -1,0 +1,142 @@
+{
+  "id": "orchid-mantis",
+  "name_zh": "兰花螳螂",
+  "name_en": "Orchid Mantis",
+  "scientific_name": "Hymenopus coronatus",
+  "ui_tags": [
+    "Insect",
+    "Rainforest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Insecta",
+      "zh": "昆虫纲"
+    },
+    "order": {
+      "en": "Mantodea",
+      "zh": "螳螂目"
+    },
+    "family": {
+      "en": "Hymenopodidae",
+      "zh": "花螳科"
+    },
+    "genus": {
+      "en": "Hymenopus",
+      "zh": "花螳属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "A master of disguise that looks exactly like a beautiful orchid flower to lure unsuspecting prey.",
+    "zh": "伪装大师，看起来就像一朵美丽的兰花，以此引诱毫无防备的猎物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Their legs are shaped like flower petals! Females are much larger than males and feature stunning pink and white coloration. They can even change their color over a few days depending on background light and humidity.",
+      "zh": "它们的腿长得就像花瓣一样！雌性远大于雄性，呈现出令人惊叹的粉色和白色。它们甚至可以根据背景光线和湿度，在几天的时间内改变自己的颜色。"
+    },
+    "ecology_and_behavior": {
+      "en": "Orchid mantises use 'aggressive mimicry'. Instead of hiding to avoid predators, they sit perfectly still on leaves. Deceived butterflies and bees fly right up to them thinking they are a flower, only to be snapped up!",
+      "zh": "兰花螳螂使用「攻击性拟态」。它们不需要为了躲避天敌而躲藏在暗处，而是直挺挺地坐在叶子上。被欺骗的蝴蝶和蜜蜂以为它们是花朵直接飞过来，结果瞬间被捕食！"
+    },
+    "habitat_and_distribution": {
+      "en": "They inhabit the lush tropical rainforests of Southeast Asia, thriving in the warm, humid environments of countries like Malaysia and Indonesia.",
+      "zh": "它们栖息在东南亚茂密的热带雨林中，在马来西亚和印度尼西亚等国家温暖湿润的环境中繁衍生息。"
+    }
+  },
+  "habitat": {
+    "text_en": "Southeast Asian Rainforests",
+    "text_zh": "东南亚热带雨林",
+    "map_coordinates": [
+      3,
+      105
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          95
+        ],
+        [
+          13,
+          100
+        ],
+        [
+          10,
+          105
+        ],
+        [
+          8,
+          110
+        ],
+        [
+          5,
+          115
+        ],
+        [
+          2,
+          118
+        ],
+        [
+          0,
+          115
+        ],
+        [
+          -2,
+          110
+        ],
+        [
+          -5,
+          105
+        ],
+        [
+          -8,
+          100
+        ],
+        [
+          -5,
+          95
+        ],
+        [
+          -2,
+          90
+        ],
+        [
+          0,
+          85
+        ],
+        [
+          4,
+          90
+        ],
+        [
+          8,
+          92
+        ],
+        [
+          11,
+          93
+        ],
+        [
+          15,
+          95
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/orchid-mantis.jpg"
+}

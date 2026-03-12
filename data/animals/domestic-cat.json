@@ -1,0 +1,150 @@
+{
+  "id": "domestic-cat",
+  "name_zh": "家猫",
+  "name_en": "Domestic Cat",
+  "scientific_name": "Felis catus",
+  "ui_tags": [
+    "Mammal",
+    "Urban",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Felidae",
+      "zh": "猫科"
+    },
+    "genus": {
+      "en": "Felis",
+      "zh": "猫属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "A globally beloved companion animal that perfectly retains the deadly agility, sharp senses, and hunting instincts of a wild predator.",
+    "zh": "一种在全球备受人类喜爱的伴生动物，完美地保留了作为野生微型捕食者那致命的敏捷性、敏锐的感官和狩猎本能。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Boasting an incredibly flexible spine and a 'righting reflex', cats can twist their bodies mid-air to almost always land gracefully on their feet. Their tongues feature tiny backwards-facing barbs made of keratin, acting like a built-in comb.",
+      "zh": "凭借着极其柔软灵活的脊柱和神奇的「翻正反射」，猫咪竟能在半空中扭转身体，从而几乎总能优雅且平稳地四足着地。它们的舌头上还布满了由角蛋白组成的朝后的微小倒刺，就像一把自带的梳子。"
+    },
+    "ecology_and_behavior": {
+      "en": "Despite domesticated life, cats are hypercarnivores (requiring a diet mostly of meat) and rely on deep, stealthy instincts. Meaningful 'meowing' is surprisingly a behavior they developed primarily to communicate with humans, not with each other!",
+      "zh": "尽管已经过上了被人类驯化的生活，但猫咪依然是绝对的「超级肉食动物」（饮食必须以肉类为主），并依赖着深深刻在骨子里的潜行本能。令人惊讶的是，它们那充满含义的「喵喵叫」，主要是为了和人类沟通而进化出来的行为，而不是用来借此与同类交流的！"
+    },
+    "habitat_and_distribution": {
+      "en": "Originating from Near Eastern wildcats, they now live on every continent except Antarctica. Their true habitat is simply 'wherever humans are'—from high-rise city apartments to isolated rural barns.",
+      "zh": "它们起源于近东野猫，现在已经在除了南极洲以外的每个大洲都安了家。它们真正的栖息地其实就是「有人类存在的地方」——从城市里的摩天大楼公寓，一直到与世隔绝的乡村谷仓。"
+    }
+  },
+  "habitat": {
+    "text_en": "Global Human Settlements",
+    "text_zh": "全球人类聚居区",
+    "map_coordinates": [
+      35,
+      105
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          70,
+          -165
+        ],
+        [
+          70,
+          -60
+        ],
+        [
+          15,
+          -60
+        ],
+        [
+          15,
+          -120
+        ],
+        [
+          70,
+          -165
+        ]
+      ],
+      [
+        [
+          70,
+          -10
+        ],
+        [
+          70,
+          40
+        ],
+        [
+          35,
+          50
+        ],
+        [
+          35,
+          140
+        ],
+        [
+          4,
+          100
+        ],
+        [
+          -35,
+          20
+        ],
+        [
+          10,
+          -15
+        ],
+        [
+          70,
+          -10
+        ]
+      ],
+      [
+        [
+          -10,
+          -80
+        ],
+        [
+          10,
+          -70
+        ],
+        [
+          -10,
+          -35
+        ],
+        [
+          -50,
+          -70
+        ],
+        [
+          -10,
+          -80
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/domestic-cat.jpg"
+}

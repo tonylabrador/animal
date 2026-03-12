@@ -1,0 +1,146 @@
+{
+  "id": "domestic-pig",
+  "name_zh": "猪",
+  "name_en": "Domestic Pig",
+  "scientific_name": "Sus domesticus",
+  "ui_tags": [
+    "Mammal",
+    "Farm",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Suidae",
+      "zh": "猪科"
+    },
+    "genus": {
+      "en": "Sus",
+      "zh": "猪属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "Highly intelligent omnivores, well-known for their excellent sense of smell and the habit of wallowing in mud to beat the heat.",
+    "zh": "极其聪明的杂食动物，以其绝佳的嗅觉和在泥坑里打滚来避暑消暑的习惯而广为人知。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Pigs have a tough, highly sensitive cartilage disk at the end of their snout designed specifically for rooting through soil. Contrary to popular belief, they actually have very few sweat glands, giving rise to the phrase 'sweating like a pig' being completely ironic!",
+      "zh": "猪的鼻尖有一个极其坚韧且高度敏感的软骨盘，这专门是为了在土壤中生根拱地而设计的。与大众的普遍观念恰恰相反，它们其实几乎没有汗腺，这就让「像猪一样出汗」这句俗语变得完全是个讽刺！"
+    },
+    "ecology_and_behavior": {
+      "en": "Considered to be smarter than dogs, pigs are capable of solving complex puzzles, playing video games with joysticks, and demonstrating deep empathy towards others. They love being clean and meticulously organize their sleeping and living areas.",
+      "zh": "猪被认为比狗还要聪明得多，它们能够解开复杂的谜题，甚至能用操纵杆玩简单的电子游戏，并会向同伴展现出极深的同理心。它们其实非常爱干净，通常会把自己的睡觉区和排泄区细心地区分开来。"
+    },
+    "habitat_and_distribution": {
+      "en": "Domesticated from the Eurasian wild boar roughly 9,000 years ago, pigs are now found scattered across the entire globe, thriving mainly in farms, forested areas, and varied barnyard environments.",
+      "zh": "大约在九千年前从欧亚野猪驯化而来，如今猪的踪迹已经遍布全球各地，主要繁衍生息在各种农场、林地区域和多样化的农家后院环境中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Farms, Woodlands, and Rural Areas",
+    "text_zh": "农场、林地与乡村区",
+    "map_coordinates": [
+      48,
+      12
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          55,
+          -125
+        ],
+        [
+          55,
+          -65
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          25,
+          -115
+        ],
+        [
+          55,
+          -125
+        ]
+      ],
+      [
+        [
+          -5,
+          -65
+        ],
+        [
+          10,
+          -45
+        ],
+        [
+          -35,
+          -45
+        ],
+        [
+          -35,
+          -65
+        ],
+        [
+          -5,
+          -65
+        ]
+      ],
+      [
+        [
+          60,
+          -5
+        ],
+        [
+          60,
+          45
+        ],
+        [
+          50,
+          135
+        ],
+        [
+          25,
+          115
+        ],
+        [
+          -30,
+          30
+        ],
+        [
+          15,
+          -15
+        ],
+        [
+          60,
+          -5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/domestic-pig.jpg"
+}

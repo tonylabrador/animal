@@ -66,28 +66,7 @@
     ],
     "map_zoom_level": 5,
     "global_distribution_polygons": [
-      [
-        [
-          32,
-          80
-        ],
-        [
-          38,
-          80
-        ],
-        [
-          38,
-          95
-        ],
-        [
-          32,
-          95
-        ],
-        [
-          32,
-          80
-        ]
-      ]
+      [[32, 80], [38, 80], [38, 95], [32, 95], [32, 80]]
     ]
   },
   "image": "/images/animals/tibetan-antelope.jpg"

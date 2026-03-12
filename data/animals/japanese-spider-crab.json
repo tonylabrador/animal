@@ -66,28 +66,7 @@
     ],
     "map_zoom_level": 5,
     "global_distribution_polygons": [
-      [
-        [
-          30,
-          130
-        ],
-        [
-          40,
-          130
-        ],
-        [
-          40,
-          145
-        ],
-        [
-          30,
-          145
-        ],
-        [
-          30,
-          130
-        ]
-      ]
+      [[30, 130], [40, 130], [40, 145], [30, 145], [30, 130]]
     ]
   },
   "image": "/images/animals/japanese-spider-crab.jpg"

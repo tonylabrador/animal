@@ -1,0 +1,184 @@
+{
+  "id": "common-kingfisher",
+  "name_zh": "普通翠鸟",
+  "name_en": "Common Kingfisher",
+  "scientific_name": "Alcedo atthis",
+  "ui_tags": [
+    "Bird",
+    "River",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Coraciiformes",
+      "zh": "佛法僧目"
+    },
+    "family": {
+      "en": "Alcedinidae",
+      "zh": "翠鸟科"
+    },
+    "genus": {
+      "en": "Alcedo",
+      "zh": "翠鸟属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A dazzling dart of blue and copper, acting as a master angler and the direct engineering inspiration for Japan's high-speed bullet trains.",
+    "zh": "犹如一支闪烁着炫目亮蓝色和古铜色光芒的夺命飞镖，作为绝对的钓鱼大师，它的独门暗器更是直接启发了日本超高速新干线列车的车头设计工程。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Their iridescent blue feathers don't actually contain blue pigment! The color comes purely from the micro-structure of the feathers refracting light. Their exceptionally aerodynamic beak acts like a wedge, allowing them to dive into water silently with virtually zero splash.",
+      "zh": "它们那闪瞎眼的明亮蓝羽当中其实根本就不含有一丁点儿蓝色的色素！这种如梦幻般的光泽，纯粹是因为它们羽毛上纳米级的微观结构对光线的折射而硬生生“变出来”的。而且，它那具备极致空气动力学的喙就像一个尖锐异常的楔子，让它能切开水面，几乎是以零水花的完全静音状态猛扎入水中行凶。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are highly territorial and violently defend their stretch of the river. When hunting, a kingfisher calculates the precise refraction of the water to correctly judge a fish's actual depth before diving at tremendous speed.",
+      "zh": "它们是拥有病态般极高领地意识的狠角色，会不惜一切惨烈地暴力捍卫自己承包的那一段珍贵河道。在猎杀水下目标时，翠鸟的脑子就像一台超导计算机，能瞬间计算出光线在水中的精确折射偏角，以此来极其准确地判定鱼儿在水里的绝对真实深度，然后才会以雷霆万钧之势发起极速大俯冲。"
+    },
+    "habitat_and_distribution": {
+      "en": "Widespread across Europe, Asia, and North Africa, they are completely dependent on crystal-clear, slow-flowing rivers, lakes, and streams with steep mud banks for burrowing nests.",
+      "zh": "极其广泛地肆虐遍布于欧洲、亚洲和北非，它们几乎完全只能依赖那些拥有大量断壁残垣般陡峭泥岸（用来挖洞筑巢）并且水流必须缓慢且极其清澈见底的河流、湖泊及溪流地带。"
+    }
+  },
+  "habitat": {
+    "text_en": "Clear Rivers and Lakes",
+    "text_zh": "清澈河流与湖泊",
+    "map_coordinates": [
+      35,
+      110
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          35,
+          -10
+        ],
+        [
+          60,
+          -10
+        ],
+        [
+          60,
+          50
+        ],
+        [
+          30,
+          50
+        ],
+        [
+          30,
+          30
+        ],
+        [
+          35,
+          -10
+        ]
+      ],
+      [
+        [
+          25,
+          30
+        ],
+        [
+          35,
+          30
+        ],
+        [
+          35,
+          50
+        ],
+        [
+          60,
+          50
+        ],
+        [
+          60,
+          140
+        ],
+        [
+          35,
+          140
+        ],
+        [
+          10,
+          105
+        ],
+        [
+          10,
+          75
+        ],
+        [
+          25,
+          75
+        ],
+        [
+          25,
+          30
+        ]
+      ],
+      [
+        [
+          -7,
+          105
+        ],
+        [
+          5,
+          105
+        ],
+        [
+          5,
+          120
+        ],
+        [
+          -7,
+          120
+        ],
+        [
+          -7,
+          105
+        ]
+      ],
+      [
+        [
+          30,
+          -10
+        ],
+        [
+          35,
+          -10
+        ],
+        [
+          35,
+          30
+        ],
+        [
+          25,
+          30
+        ],
+        [
+          30,
+          -10
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/common-kingfisher.jpg"
+}

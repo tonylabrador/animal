@@ -1,0 +1,156 @@
+{
+  "id": "wallaces-flying-frog",
+  "name_zh": "华莱士飞蛙",
+  "name_en": "Wallace's Flying Frog",
+  "scientific_name": "Rhacophorus nigropalmatus",
+  "ui_tags": [
+    "Amphibian",
+    "Rainforest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Amphibia",
+      "zh": "两栖纲"
+    },
+    "order": {
+      "en": "Anura",
+      "zh": "无尾目"
+    },
+    "family": {
+      "en": "Rhacophoridae",
+      "zh": "树蛙科"
+    },
+    "genus": {
+      "en": "Rhacophorus",
+      "zh": "泛树蛙属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A brilliant green frog capable of gliding gracefully between trees using enormously webbed fingers and toes like miniature parachutes.",
+    "zh": "一种亮绿色的青蛙，能够利用巨大如微型降落伞般的脚蹼，在树木之间优雅地滑翔飞跃。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They are quite large for tree frogs, up to 10 centimeters long. Their most striking feature is their huge, fully webbed hands and feet. The digits are bright yellow with black webbing, looking striking against their emerald green bodies.",
+      "zh": "作为树蛙来说，它们体型相当大，可达10厘米。它们最引人注目的特征是巨大的、完全长满薄膜的手脚蹼。细长的脚趾呈亮黄色，脚蹼则是黑色的，在它们翠绿色的身体衬托下显得十分抢眼。"
+    },
+    "ecology_and_behavior": {
+      "en": "To escape predators or find food, the frog simply leaps into the air from a high branch, spreads its incredible webbed limbs, and glides distances up to 15 meters to another tree. Their oversized toe pads stick instantly upon landing.",
+      "zh": "为了逃避捕食者或寻找食物，这种青蛙只需从高高的树枝上跃入空中，展开它惊人的带蹼四肢，就能滑翔长达15米的距离到达另一棵树。它们超大的脚趾衬垫在着陆时能瞬间黏滞在表面上。"
+    },
+    "habitat_and_distribution": {
+      "en": "Found exclusively high in the tropical rainforest canopies of the Malay Peninsula, Borneo, and Sumatra. They almost never descend to the ground except to lay eggs.",
+      "zh": "主要生活在马来半岛、婆罗洲和苏门答腊的高大热带雨林树冠层中。除了产卵以外，它们几乎从不降落到地面。"
+    }
+  },
+  "habitat": {
+    "text_en": "Southeast Asian Canopies",
+    "text_zh": "东南亚雨林树冠层",
+    "map_coordinates": [
+      3,
+      105
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          7,
+          98
+        ],
+        [
+          5,
+          101
+        ],
+        [
+          2,
+          102
+        ],
+        [
+          0,
+          104
+        ],
+        [
+          -2,
+          107
+        ],
+        [
+          -5,
+          105
+        ],
+        [
+          -6,
+          102
+        ],
+        [
+          -3,
+          100
+        ],
+        [
+          -1,
+          98
+        ],
+        [
+          1,
+          97
+        ],
+        [
+          4,
+          96
+        ],
+        [
+          7,
+          98
+        ]
+      ],
+      [
+        [
+          7,
+          116
+        ],
+        [
+          5,
+          118
+        ],
+        [
+          2,
+          117
+        ],
+        [
+          0,
+          114
+        ],
+        [
+          2,
+          112
+        ],
+        [
+          4,
+          113
+        ],
+        [
+          6,
+          114
+        ],
+        [
+          7,
+          116
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/wallaces-flying-frog.jpg"
+}

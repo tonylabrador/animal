@@ -66,28 +66,7 @@
     ],
     "map_zoom_level": 5,
     "global_distribution_polygons": [
-      [
-        [
-          35,
-          -75
-        ],
-        [
-          35,
-          -95
-        ],
-        [
-          25,
-          -100
-        ],
-        [
-          25,
-          -80
-        ],
-        [
-          35,
-          -75
-        ]
-      ]
+      [[35, -75], [35, -95], [25, -100], [25, -80], [35, -75]]
     ]
   },
   "image": "/images/animals/american-alligator.jpg"

@@ -1,0 +1,154 @@
+{
+  "id": "giraffe-stag-beetle",
+  "name_zh": "长颈鹿锯锹甲",
+  "name_en": "Giraffe Stag Beetle",
+  "scientific_name": "Prosopocoilus giraffa",
+  "ui_tags": [
+    "Insect",
+    "Rainforest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Insecta",
+      "zh": "昆虫纲"
+    },
+    "order": {
+      "en": "Coleoptera",
+      "zh": "鞘翅目"
+    },
+    "family": {
+      "en": "Lucanidae",
+      "zh": "锹甲科"
+    },
+    "genus": {
+      "en": "Prosopocoilus",
+      "zh": "锯锹甲属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "The largest stag beetle in the world, renowned for its ridiculously long, multi-toothed metallic jaws that resemble a giraffe's neck.",
+    "zh": "世界上最大的锹甲，以其长得离谱、长满锯齿且闪耀金属光泽的巨大上颚闻名，由于像长颈鹿的脖子而得名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Males are spectacular, measuring up to 12 centimeters long, with over half their body length made up of giant, menacing mandibles (jaws). They sport a sleek, black metallic shell.",
+      "zh": "雄性极其壮观，体长可达12厘米，而它们超过一半的体长都是巨大吓人的上颚（颚骨）。它们还披着一层光滑的黑色金属外壳。"
+    },
+    "ecology_and_behavior": {
+      "en": "Those giant jaws are actually for wrestling! Males use them to flip rival males off tree branches to win access to sweet tree sap and mates. Females, lacking massive jaws, use small pinchers to dig into wood.",
+      "zh": "那些巨大的上颚实际上是为了摔跤的！雄性用它们将竞争对手从树枝上掀翻，从而赢得甜美的树液和配偶。而没有巨颚的雌性则用小钳子在木头里挖掘。"
+    },
+    "habitat_and_distribution": {
+      "en": "They live in the broadleaf forests of Southeast Asia and India. The adults drink the flowing sap of oak and other hardwood trees.",
+      "zh": "它们生活在东南亚和印度的阔叶林中。成虫主要饮用橡树和其他硬木树流出的美味树液。"
+    }
+  },
+  "habitat": {
+    "text_en": "Asian Broadleaf Forests",
+    "text_zh": "亚洲阔叶林",
+    "map_coordinates": [
+      15,
+      100
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          25,
+          80
+        ],
+        [
+          28,
+          85
+        ],
+        [
+          29,
+          90
+        ],
+        [
+          28,
+          95
+        ],
+        [
+          25,
+          100
+        ],
+        [
+          22,
+          105
+        ],
+        [
+          18,
+          110
+        ],
+        [
+          15,
+          115
+        ],
+        [
+          10,
+          120
+        ],
+        [
+          5,
+          125
+        ],
+        [
+          0,
+          120
+        ],
+        [
+          -5,
+          115
+        ],
+        [
+          -8,
+          110
+        ],
+        [
+          -5,
+          105
+        ],
+        [
+          0,
+          100
+        ],
+        [
+          5,
+          95
+        ],
+        [
+          10,
+          90
+        ],
+        [
+          15,
+          85
+        ],
+        [
+          20,
+          80
+        ],
+        [
+          25,
+          80
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/giraffe-stag-beetle.jpg"
+}

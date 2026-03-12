@@ -1,0 +1,110 @@
+{
+  "id": "meerkat",
+  "name_zh": "细尾獴",
+  "name_en": "Meerkat",
+  "scientific_name": "Suricata suricatta",
+  "ui_tags": [
+    "Mammal",
+    "Desert",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Herpestidae",
+      "zh": "獴科"
+    },
+    "genus": {
+      "en": "Suricata",
+      "zh": "细尾獴属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "Famous highly social desert mongoose clan members, easily recognized by their rigid 'sentry' standing posture and venom-resistant bodies.",
+    "zh": "大名鼎鼎的高度社会化沙漠獴族群成员，以其宛如笔挺“哨兵”般雷打不动的站立姿势和百毒不侵的强悍体质而极高的辨识度。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They have dark patches around their eyes that act exactly like built-in sunglasses, reducing the glare of the desert sun. Because they are largely immune to certain types of venom, they can casually munch on deadly scorpions!",
+      "zh": "它们的眼睛周围长着一块深色的斑纹，这简直就像自带的隐形太阳镜，能有效减少沙漠烈日的刺眼反光。更牛的是，由于它们对某些种类的剧毒天生几乎完全免疫，所以它们竟然能把致命的毒蝎子当成每日的普通零食来悠闲地啃食！"
+    },
+    "ecology_and_behavior": {
+      "en": "Living in groups called 'mobs' of up to 50 individuals, they always assign a dedicated sentry. This guard stands tall on its back legs to scan the skies for eagles, while the rest of the gang safely digs for insects.",
+      "zh": "细尾獴会组成多达50名成员的超级家族“黑帮”一起生活，并且永远都会安排一名尽职的“全职哨兵”。这名守卫会靠着后腿笔直地站立着，死死盯住天空以防老鹰突袭，而帮派里的其他成员则在它的庇护下安全地低头疯狂挖掘土里的昆虫。"
+    },
+    "habitat_and_distribution": {
+      "en": "They inhabit all parts of the Kalahari Desert in Botswana, traversing the sparse, sandy savannas of southern Africa where underground burrow networks offer refuge from extreme heat.",
+      "zh": "它们全面盘踞在博茨瓦纳的喀拉哈里沙漠各个角落，在南部非洲那植被稀疏、沙质的广袤稀树草原中纵横扫荡，庞大的地下网状洞穴网络则为它们提供了躲避极端酷暑的完美避难所。"
+    }
+  },
+  "habitat": {
+    "text_en": "Arid Deserts and Savannas",
+    "text_zh": "干旱沙漠与稀树草原",
+    "map_coordinates": [
+      -23,
+      22
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -17,
+          11
+        ],
+        [
+          -18,
+          15
+        ],
+        [
+          -19,
+          29
+        ],
+        [
+          -25,
+          30
+        ],
+        [
+          -34,
+          27
+        ],
+        [
+          -35,
+          19
+        ],
+        [
+          -30,
+          16
+        ],
+        [
+          -22,
+          14
+        ],
+        [
+          -17,
+          11
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/meerkat.jpg"
+}

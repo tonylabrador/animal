@@ -1,0 +1,210 @@
+{
+  "id": "arctic-fox",
+  "name_zh": "北极狐",
+  "name_en": "Arctic Fox",
+  "scientific_name": "Vulpes lagopus",
+  "ui_tags": [
+    "Mammal",
+    "Tundra",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Canidae",
+      "zh": "犬科"
+    },
+    "genus": {
+      "en": "Vulpes",
+      "zh": "狐属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A highly resilient predator built to survive extreme freezings, famous for its magical ability to change coat color with the seasons.",
+    "zh": "一种完全为了在极端冰冻地狱中生存而打造的极具韧性的捕食者，以其能够随着季节如同变魔术般改变外套颜色的绝技而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Their body is a masterpiece of thermal engineering. They have a completely round, compact body shape to minimize heat loss, and are the only canid to grow thick insulating fur on the pads of their paws for walking on sheer ice.",
+      "zh": "它们的肉体简直就是热力学工程的旷世杰作。为了将热量流失降到最低，它们进化出了极其圆润紧凑的体型，而且是地球上少有的，连爪子肉垫底下都长满了厚厚一层防冻绝缘毛发的哺乳动物，这让它们能直接踏在刺骨的纯冰面上如履平地。"
+    },
+    "ecology_and_behavior": {
+      "en": "To hunt rodents hidden deep under the snow, they listen intently for movement, leap high into the air, and explosively dive face-first into the snowpack! When food is scarce, they cleverly trail polar bears to scavenge leftover scraps.",
+      "zh": "为了猎捕藏在厚厚积雪深处的啮齿动物，它们会全神贯注地倾听底下微弱的动静，然后猛然高高跃起到半空中，最后像一枚重磅炸弹一样“脸朝下”直接猛扎进雪堆里！在遭遇食物极度短缺的绝境时，它们甚至还会聪明地尾随庞大的北极熊，靠捡食大佬吃剩的残渣剩饭来勉强续命。"
+    },
+    "habitat_and_distribution": {
+      "en": "Circumpolar in distribution, they endure the unforgiving, treeless alpine tundra and pack ice spanning across northern Eurasia, North America, Greenland, and Iceland.",
+      "zh": "它们的分布呈现出极为广阔的环北极圈态势，无畏地忍受着横跨欧亚大陆北部、北美洲、格陵兰岛和冰岛的那些极其荒凉无情、寸草不生的高山冻原和终年浮冰区。"
+    }
+  },
+  "habitat": {
+    "text_en": "Arctic Tundra and Pack Ice",
+    "text_zh": "北极冻原与浮冰区",
+    "map_coordinates": [
+      70,
+      -90
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          60,
+          -165
+        ],
+        [
+          75,
+          -165
+        ],
+        [
+          82,
+          -100
+        ],
+        [
+          80,
+          -60
+        ],
+        [
+          70,
+          -50
+        ],
+        [
+          55,
+          -60
+        ],
+        [
+          55,
+          -120
+        ],
+        [
+          60,
+          -165
+        ]
+      ],
+      [
+        [
+          70,
+          -50
+        ],
+        [
+          83,
+          -50
+        ],
+        [
+          83,
+          -10
+        ],
+        [
+          60,
+          -40
+        ],
+        [
+          70,
+          -50
+        ]
+      ],
+      [
+        [
+          60,
+          -25
+        ],
+        [
+          67,
+          -25
+        ],
+        [
+          67,
+          -12
+        ],
+        [
+          60,
+          -12
+        ],
+        [
+          60,
+          -25
+        ]
+      ],
+      [
+        [
+          65,
+          10
+        ],
+        [
+          75,
+          20
+        ],
+        [
+          75,
+          120
+        ],
+        [
+          70,
+          175
+        ],
+        [
+          60,
+          175
+        ],
+        [
+          60,
+          120
+        ],
+        [
+          65,
+          50
+        ],
+        [
+          60,
+          10
+        ],
+        [
+          65,
+          10
+        ]
+      ],
+      [
+        [
+          75,
+          15
+        ],
+        [
+          81,
+          20
+        ],
+        [
+          81,
+          60
+        ],
+        [
+          75,
+          60
+        ],
+        [
+          75,
+          15
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/arctic-fox.jpg"
+}

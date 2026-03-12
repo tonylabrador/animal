@@ -1,0 +1,198 @@
+{
+  "id": "two-toed-sloth",
+  "name_zh": "二趾树懒",
+  "name_en": "Linnaeus's Two-toed Sloth",
+  "scientific_name": "Choloepus didactylus",
+  "ui_tags": [
+    "Mammal",
+    "Rainforest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Pilosa",
+      "zh": "披毛目"
+    },
+    "family": {
+      "en": "Choloepodidae",
+      "zh": "二趾树懒科"
+    },
+    "genus": {
+      "en": "Choloepus",
+      "zh": "二趾树懒属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A slightly larger and more active relative of the three-toed sloth, known for spending nearly its entire life upside down in the rainforest canopy.",
+    "zh": "一种比三趾树懒体型稍大且更活跃的近亲，以其几乎一生都倒挂在雨林树冠上的生活方式而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Despite the name, these sloths only have two toes on their front limbs, but three on their back! Their famous hair grows in the opposite direction of most mammals—from stomach to back—allowing rain water to easily run off when hanging upside down.",
+      "zh": "虽然名字叫「二趾」，但它们只有前肢是两个脚趾，后肢其实是三个！它们著名的毛发与大多数哺乳动物的生长方向相反，是从肚子往背部长的。这让它们在倒挂时也能让雨水轻松滑落。"
+    },
+    "ecology_and_behavior": {
+      "en": "Two-toed sloths are primarily nocturnal. They move incredibly slowly to conserve energy, processing a single meal over several weeks. However, they are surprisingly excellent swimmers, dropping straight from trees into rivers.",
+      "zh": "二趾树懒主要在夜间活动。它们为了保存能量移动得极其缓慢，消化一顿饭需要好几个星期。然而令人惊讶的是，它们是非常优秀的游泳健将，有时会直接从树上掉进河里游泳。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are widely distributed throughout the tropical rainforests of northern South America, particularly in the Amazon Basin. Their survival depends entirely on tall, unbroken canopy cover.",
+      "zh": "它们广泛分布在南美洲北部的热带雨林中，特别是亚马逊盆地。它们的生存完全依赖于高大、且没有被破坏的连片树冠层。"
+    }
+  },
+  "habitat": {
+    "text_en": "Amazon Canopy",
+    "text_zh": "亚马逊树冠层",
+    "map_coordinates": [
+      3,
+      -65
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          11,
+          -73
+        ],
+        [
+          8,
+          -75
+        ],
+        [
+          5,
+          -77
+        ],
+        [
+          2,
+          -78
+        ],
+        [
+          0,
+          -78
+        ],
+        [
+          -2,
+          -77
+        ],
+        [
+          -5,
+          -75
+        ],
+        [
+          -8,
+          -73
+        ],
+        [
+          -10,
+          -70
+        ],
+        [
+          -12,
+          -67
+        ],
+        [
+          -14,
+          -64
+        ],
+        [
+          -15,
+          -61
+        ],
+        [
+          -15,
+          -58
+        ],
+        [
+          -14,
+          -55
+        ],
+        [
+          -13,
+          -52
+        ],
+        [
+          -11,
+          -49
+        ],
+        [
+          -9,
+          -46
+        ],
+        [
+          -7,
+          -44
+        ],
+        [
+          -4,
+          -42
+        ],
+        [
+          -1,
+          -42
+        ],
+        [
+          2,
+          -43
+        ],
+        [
+          5,
+          -45
+        ],
+        [
+          7,
+          -48
+        ],
+        [
+          9,
+          -51
+        ],
+        [
+          10,
+          -54
+        ],
+        [
+          11,
+          -57
+        ],
+        [
+          12,
+          -60
+        ],
+        [
+          12,
+          -63
+        ],
+        [
+          12,
+          -66
+        ],
+        [
+          12,
+          -69
+        ],
+        [
+          11,
+          -73
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/two-toed-sloth.jpg"
+}

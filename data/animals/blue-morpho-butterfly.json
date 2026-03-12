@@ -1,0 +1,226 @@
+{
+  "id": "blue-morpho-butterfly",
+  "name_zh": "大蓝闪蝶",
+  "name_en": "Blue Morpho Butterfly",
+  "scientific_name": "Morpho menelaus",
+  "ui_tags": [
+    "Insect",
+    "Rainforest",
+    "Frugivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Insecta",
+      "zh": "昆虫纲"
+    },
+    "order": {
+      "en": "Lepidoptera",
+      "zh": "鳞翅目"
+    },
+    "family": {
+      "en": "Nymphalidae",
+      "zh": "蛱蝶科"
+    },
+    "genus": {
+      "en": "Morpho",
+      "zh": "闪蝶属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "One of the largest butterflies in the world, with dazzling, iridescent blue wings that flash like a neon sign in the rainforest canopy.",
+    "zh": "世界上最大的蝴蝶之一，拥有耀眼、闪烁着虹彩的蓝色翅膀，在雨林树冠层中它就像一块闪烁的霓虹招牌。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Their wingspan can reach up to 20 centimeters. The brilliant blue isn't actually a pigment—it's created by the microscopic scales on their wings reflecting light! The underside of their wings is brown with large eyespots for camouflage.",
+      "zh": "它们的翼展可达20厘米。那绚烂的蓝色根本不是因为体内有色素——而是由它们翅膀上的微观鳞片反射光线形成的！它们翅膀的底面则是棕色的，并长有用于伪装的巨大眼斑。"
+    },
+    "ecology_and_behavior": {
+      "en": "Blue morphos do not drink flower nectar. Instead, they use sensors on their legs to 'taste' rotting fruit, tree sap, and even fermenting fungi found on the forest floor.",
+      "zh": "大蓝闪蝶并不吸食花蜜。相反，它们利用腿部的传感器去「品尝」森林地表上腐烂的水果、树液甚至发酵的真菌。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are native to the tropical forests of Central and South America, particularly widespread throughout the Amazon. They spend most of their time flying rapidly through the understory.",
+      "zh": "它们原产于中美洲和南美洲的热带森林，特别是在亚马逊地区分布广泛。它们大部分时间都在森林底层急速飞行。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical Forests",
+    "text_zh": "热带森林",
+    "map_coordinates": [
+      0,
+      -65
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          -92
+        ],
+        [
+          14,
+          -88
+        ],
+        [
+          12,
+          -85
+        ],
+        [
+          10,
+          -83
+        ],
+        [
+          8,
+          -80
+        ],
+        [
+          6,
+          -78
+        ],
+        [
+          3,
+          -76
+        ],
+        [
+          0,
+          -78
+        ],
+        [
+          -3,
+          -79
+        ],
+        [
+          -7,
+          -80
+        ],
+        [
+          -10,
+          -78
+        ],
+        [
+          -14,
+          -75
+        ],
+        [
+          -17,
+          -70
+        ],
+        [
+          -20,
+          -66
+        ],
+        [
+          -22,
+          -61
+        ],
+        [
+          -25,
+          -55
+        ],
+        [
+          -26,
+          -50
+        ],
+        [
+          -25,
+          -45
+        ],
+        [
+          -23,
+          -42
+        ],
+        [
+          -20,
+          -42
+        ],
+        [
+          -17,
+          -43
+        ],
+        [
+          -14,
+          -45
+        ],
+        [
+          -11,
+          -47
+        ],
+        [
+          -8,
+          -48
+        ],
+        [
+          -5,
+          -49
+        ],
+        [
+          -2,
+          -51
+        ],
+        [
+          1,
+          -52
+        ],
+        [
+          4,
+          -53
+        ],
+        [
+          7,
+          -54
+        ],
+        [
+          10,
+          -56
+        ],
+        [
+          12,
+          -59
+        ],
+        [
+          13,
+          -63
+        ],
+        [
+          14,
+          -68
+        ],
+        [
+          14,
+          -73
+        ],
+        [
+          15,
+          -78
+        ],
+        [
+          16,
+          -83
+        ],
+        [
+          16,
+          -88
+        ],
+        [
+          15,
+          -92
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/blue-morpho-butterfly.jpg"
+}

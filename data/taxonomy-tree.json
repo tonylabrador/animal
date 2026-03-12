@@ -1,0 +1,5203 @@
+{
+  "name": "Animalia",
+  "nameZh": "动物界",
+  "level": "Kingdom",
+  "levelZh": "界",
+  "count": 185,
+  "children": [
+    {
+      "name": "Chordata",
+      "nameZh": "脊索动物门",
+      "level": "Phylum",
+      "levelZh": "门",
+      "count": 174,
+      "children": [
+        {
+          "name": "Mammalia",
+          "nameZh": "哺乳纲",
+          "level": "Class",
+          "levelZh": "纲",
+          "count": 115,
+          "children": [
+            {
+              "name": "Carnivora",
+              "nameZh": "食肉目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 46,
+              "children": [
+                {
+                  "name": "Felidae",
+                  "nameZh": "猫科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 19,
+                  "children": [
+                    {
+                      "name": "Panthera",
+                      "nameZh": "豹属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 5,
+                      "children": [
+                        {
+                          "name": "Jaguar",
+                          "nameZh": "美洲豹",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "jaguar",
+                          "image": "/images/animals/jaguar.jpg",
+                          "scientificName": "Panthera onca"
+                        },
+                        {
+                          "name": "Leopard",
+                          "nameZh": "豹",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "leopard",
+                          "image": "/images/animals/leopard.jpg",
+                          "scientificName": "Panthera pardus"
+                        },
+                        {
+                          "name": "Lion",
+                          "nameZh": "狮子",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "lion",
+                          "image": "/images/animals/lion.jpg",
+                          "scientificName": "Panthera leo"
+                        },
+                        {
+                          "name": "Snow Leopard",
+                          "nameZh": "雪豹",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "snow-leopard",
+                          "image": "/images/animals/snow-leopard.jpg",
+                          "scientificName": "Panthera uncia"
+                        },
+                        {
+                          "name": "Tiger",
+                          "nameZh": "老虎",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "tiger",
+                          "image": "/images/animals/tiger.jpg",
+                          "scientificName": "Panthera tigris"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Felis",
+                      "nameZh": "猫属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 3,
+                      "children": [
+                        {
+                          "name": "Black-footed Cat",
+                          "nameZh": "黑足猫",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "black-footed-cat",
+                          "image": "/images/animals/black-footed-cat.jpg",
+                          "scientificName": "Felis nigripes"
+                        },
+                        {
+                          "name": "Domestic Cat",
+                          "nameZh": "家猫",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "domestic-cat",
+                          "image": "/images/animals/domestic-cat.jpg",
+                          "scientificName": "Felis catus"
+                        },
+                        {
+                          "name": "Sand Cat",
+                          "nameZh": "沙猫",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "sand-cat",
+                          "image": "/images/animals/sand-cat.jpg",
+                          "scientificName": "Felis margarita"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Lynx",
+                      "nameZh": "猞猁属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 3,
+                      "children": [
+                        {
+                          "name": "Bobcat",
+                          "nameZh": "短尾猫",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "bobcat",
+                          "image": "/images/animals/bobcat.jpg",
+                          "scientificName": "Lynx rufus"
+                        },
+                        {
+                          "name": "Canadian Lynx",
+                          "nameZh": "加拿大猞猁",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "canadian-lynx",
+                          "image": "/images/animals/canadian-lynx.jpg",
+                          "scientificName": "Lynx canadensis"
+                        },
+                        {
+                          "name": "Eurasian Lynx",
+                          "nameZh": "欧亚猞猁",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "eurasian-lynx",
+                          "image": "/images/animals/eurasian-lynx.jpg",
+                          "scientificName": "Lynx lynx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Acinonyx",
+                      "nameZh": "猎豹属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Cheetah",
+                          "nameZh": "猎豹",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "cheetah",
+                          "image": "/images/animals/cheetah.jpg",
+                          "scientificName": "Acinonyx jubatus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Caracal",
+                      "nameZh": "狞猫属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Caracal",
+                          "nameZh": "狞猫",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "caracal",
+                          "image": "/images/animals/caracal.jpg",
+                          "scientificName": "Caracal caracal"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Leopardus",
+                      "nameZh": "虎猫属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Ocelot",
+                          "nameZh": "虎猫",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "ocelot",
+                          "image": "/images/animals/ocelot.jpg",
+                          "scientificName": "Leopardus pardalis"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Leptailurus",
+                      "nameZh": "薮猫属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Serval",
+                          "nameZh": "薮猫",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "serval",
+                          "image": "/images/animals/serval.jpg",
+                          "scientificName": "Leptailurus serval"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Neofelis",
+                      "nameZh": "云豹属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Clouded Leopard",
+                          "nameZh": "云豹",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "clouded-leopard",
+                          "image": "/images/animals/clouded-leopard.jpg",
+                          "scientificName": "Neofelis nebulosa"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Otocolobus",
+                      "nameZh": "兔狲属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Pallas's Cat",
+                          "nameZh": "兔狲",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "pallass-cat",
+                          "image": "/images/animals/pallass-cat.jpg",
+                          "scientificName": "Otocolobus manul"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Prionailurus",
+                      "nameZh": "豹猫属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Fishing Cat",
+                          "nameZh": "渔猫",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "fishing-cat",
+                          "image": "/images/animals/fishing-cat.jpg",
+                          "scientificName": "Prionailurus viverrinus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Puma",
+                      "nameZh": "美洲狮属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Mountain Lion",
+                          "nameZh": "美洲狮",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "mountain-lion",
+                          "image": "/images/animals/mountain-lion.jpg",
+                          "scientificName": "Puma concolor"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Canidae",
+                  "nameZh": "犬科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 13,
+                  "children": [
+                    {
+                      "name": "Canis",
+                      "nameZh": "犬属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 3,
+                      "children": [
+                        {
+                          "name": "Coyote",
+                          "nameZh": "郊狼",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "coyote",
+                          "image": "/images/animals/coyote.jpg",
+                          "scientificName": "Canis latrans"
+                        },
+                        {
+                          "name": "Golden Jackal",
+                          "nameZh": "亚洲胡狼",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "golden-jackal",
+                          "image": "/images/animals/golden-jackal.jpg",
+                          "scientificName": "Canis aureus"
+                        },
+                        {
+                          "name": "Gray Wolf",
+                          "nameZh": "灰狼",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "gray-wolf",
+                          "image": "/images/animals/gray-wolf.jpg",
+                          "scientificName": "Canis lupus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Vulpes",
+                      "nameZh": "狐属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 3,
+                      "children": [
+                        {
+                          "name": "Arctic Fox",
+                          "nameZh": "北极狐",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "arctic-fox",
+                          "image": "/images/animals/arctic-fox.jpg",
+                          "scientificName": "Vulpes lagopus"
+                        },
+                        {
+                          "name": "Fennec Fox",
+                          "nameZh": "耳廓狐",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "fennec-fox",
+                          "image": "/images/animals/fennec-fox.jpg",
+                          "scientificName": "Vulpes zerda"
+                        },
+                        {
+                          "name": "Red Fox",
+                          "nameZh": "赤狐",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "red-fox",
+                          "image": "/images/animals/red-fox.jpg",
+                          "scientificName": "Vulpes vulpes"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Chrysocyon",
+                      "nameZh": "鬃狼属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Maned Wolf",
+                          "nameZh": "鬃狼",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "maned-wolf",
+                          "image": "/images/animals/maned-wolf.jpg",
+                          "scientificName": "Chrysocyon brachyurus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cuon",
+                      "nameZh": "豺属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Dhole",
+                          "nameZh": "豺",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "dhole",
+                          "image": "/images/animals/dhole.jpg",
+                          "scientificName": "Cuon alpinus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Lycaon",
+                      "nameZh": "非洲野犬属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "African Wild Dog",
+                          "nameZh": "非洲野犬",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "african-wild-dog",
+                          "image": "/images/animals/african-wild-dog.jpg",
+                          "scientificName": "Lycaon pictus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Nyctereutes",
+                      "nameZh": "貉属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Raccoon Dog",
+                          "nameZh": "貉",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "raccoon-dog",
+                          "image": "/images/animals/raccoon-dog.jpg",
+                          "scientificName": "Nyctereutes procyonoides"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Otocyon",
+                      "nameZh": "大耳狐属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Bat-eared Fox",
+                          "nameZh": "大耳狐",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "bat-eared-fox",
+                          "image": "/images/animals/bat-eared-fox.jpg",
+                          "scientificName": "Otocyon megalotis"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Speothos",
+                      "nameZh": "薮犬属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Bush Dog",
+                          "nameZh": "薮犬",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "bush-dog",
+                          "image": "/images/animals/bush-dog.jpg",
+                          "scientificName": "Speothos venaticus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Urocyon",
+                      "nameZh": "灰狐属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Grey Fox",
+                          "nameZh": "灰狐",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "grey-fox",
+                          "image": "/images/animals/grey-fox.jpg",
+                          "scientificName": "Urocyon cinereoargenteus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Mustelidae",
+                  "nameZh": "鼬科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 4,
+                  "children": [
+                    {
+                      "name": "Enhydra",
+                      "nameZh": "海獭属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Sea Otter",
+                          "nameZh": "海獭",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "sea-otter",
+                          "image": "/images/animals/sea-otter.jpg",
+                          "scientificName": "Enhydra lutris"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Gulo",
+                      "nameZh": "狼獾属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Wolverine",
+                          "nameZh": "狼獾",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "wolverine",
+                          "image": "/images/animals/wolverine.jpg",
+                          "scientificName": "Gulo gulo"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Mellivora",
+                      "nameZh": "蜜獾属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Honey Badger",
+                          "nameZh": "蜜獾",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "honey-badger",
+                          "image": "/images/animals/honey-badger.jpg",
+                          "scientificName": "Mellivora capensis"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Taxidea",
+                      "nameZh": "美洲獾属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "American Badger",
+                          "nameZh": "美洲獾",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "american-badger",
+                          "image": "/images/animals/american-badger.jpg",
+                          "scientificName": "Taxidea taxus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Ursidae",
+                  "nameZh": "熊科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 4,
+                  "children": [
+                    {
+                      "name": "Ursus",
+                      "nameZh": "熊属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 2,
+                      "children": [
+                        {
+                          "name": "Brown Bear",
+                          "nameZh": "棕熊",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "brown-bear",
+                          "image": "/images/animals/brown-bear.jpg",
+                          "scientificName": "Ursus arctos"
+                        },
+                        {
+                          "name": "Polar Bear",
+                          "nameZh": "北极熊",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "polar-bear",
+                          "image": "/images/animals/polar-bear.jpg",
+                          "scientificName": "Ursus maritimus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Ailuropoda",
+                      "nameZh": "大熊猫属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Giant Panda",
+                          "nameZh": "大熊猫",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "giant-panda",
+                          "image": "/images/animals/giant-panda.jpg",
+                          "scientificName": "Ailuropoda melanoleuca"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Melursus",
+                      "nameZh": "懒熊属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Sloth Bear",
+                          "nameZh": "懒熊",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "sloth-bear",
+                          "image": "/images/animals/sloth-bear.jpg",
+                          "scientificName": "Melursus ursinus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Ailuridae",
+                  "nameZh": "小熊猫科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Ailurus",
+                      "nameZh": "小熊猫属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Red Panda",
+                          "nameZh": "小熊猫",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "red-panda",
+                          "image": "/images/animals/red-panda.jpg",
+                          "scientificName": "Ailurus fulgens"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Herpestidae",
+                  "nameZh": "獴科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Suricata",
+                      "nameZh": "细尾獴属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Meerkat",
+                          "nameZh": "细尾獴",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "meerkat",
+                          "image": "/images/animals/meerkat.jpg",
+                          "scientificName": "Suricata suricatta"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Hyaenidae",
+                  "nameZh": "鬣狗科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Crocuta",
+                      "nameZh": "斑鬣狗属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Spotted Hyena",
+                          "nameZh": "斑鬣狗",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "spotted-hyena",
+                          "image": "/images/animals/spotted-hyena.jpg",
+                          "scientificName": "Crocuta crocuta"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Mephitidae",
+                  "nameZh": "臭鼬科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Mephitis",
+                      "nameZh": "臭鼬属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Striped Skunk",
+                          "nameZh": "条纹臭鼬",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "striped-skunk",
+                          "image": "/images/animals/striped-skunk.jpg",
+                          "scientificName": "Mephitis mephitis"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Odobenidae",
+                  "nameZh": "海象科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Odobenus",
+                      "nameZh": "海象属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Walrus",
+                          "nameZh": "海象",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "walrus",
+                          "image": "/images/animals/walrus.jpg",
+                          "scientificName": "Odobenus rosmarus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Procyonidae",
+                  "nameZh": "浣熊科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Procyon",
+                      "nameZh": "浣熊属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Raccoon",
+                          "nameZh": "浣熊",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "raccoon",
+                          "image": "/images/animals/raccoon.jpg",
+                          "scientificName": "Procyon lotor"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Artiodactyla",
+              "nameZh": "偶蹄目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 30,
+              "children": [
+                {
+                  "name": "Bovidae",
+                  "nameZh": "牛科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 12,
+                  "children": [
+                    {
+                      "name": "Ovis",
+                      "nameZh": "羊属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 2,
+                      "children": [
+                        {
+                          "name": "Bighorn Sheep",
+                          "nameZh": "大角羊",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "bighorn-sheep",
+                          "image": "/images/animals/bighorn-sheep.jpg",
+                          "scientificName": "Ovis canadensis"
+                        },
+                        {
+                          "name": "Domestic Sheep",
+                          "nameZh": "绵羊",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "domestic-sheep",
+                          "image": "/images/animals/domestic-sheep.jpg",
+                          "scientificName": "Ovis aries"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Addax",
+                      "nameZh": "旋角羚属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Addax",
+                          "nameZh": "旋角羚",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "addax",
+                          "image": "/images/animals/addax.jpg",
+                          "scientificName": "Addax nasomaculatus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Bison",
+                      "nameZh": "野牛属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "American Bison",
+                          "nameZh": "美洲野牛",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "american-bison",
+                          "image": "/images/animals/american-bison.jpg",
+                          "scientificName": "Bison bison"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Bos",
+                      "nameZh": "牛属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Domestic Cow",
+                          "nameZh": "牛",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "domestic-cow",
+                          "image": "/images/animals/domestic-cow.jpg",
+                          "scientificName": "Bos taurus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Budorcas",
+                      "nameZh": "羚牛属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Takin",
+                          "nameZh": "羚牛",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "takin",
+                          "image": "/images/animals/takin.jpg",
+                          "scientificName": "Budorcas taxicolor"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Oreamnos",
+                      "nameZh": "雪羊属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Mountain Goat",
+                          "nameZh": "雪羊",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "mountain-goat",
+                          "image": "/images/animals/mountain-goat.jpg",
+                          "scientificName": "Oreamnos americanus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Ovibos",
+                      "nameZh": "麝牛属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Muskox",
+                          "nameZh": "麝牛",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "muskox",
+                          "image": "/images/animals/muskox.jpg",
+                          "scientificName": "Ovibos moschatus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Pantholops",
+                      "nameZh": "藏羚属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Tibetan Antelope",
+                          "nameZh": "藏羚羊",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "tibetan-antelope",
+                          "image": "/images/animals/tibetan-antelope.jpg",
+                          "scientificName": "Pantholops hodgsonii"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Procapra",
+                      "nameZh": "原羚属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Przewalski's Gazelle",
+                          "nameZh": "普氏原羚",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "przewalskis-gazelle",
+                          "image": "/images/animals/przewalskis-gazelle.jpg",
+                          "scientificName": "Procapra przewalskii"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Saiga",
+                      "nameZh": "高鼻羚羊属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Saiga Antelope",
+                          "nameZh": "高鼻羚羊",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "saiga-antelope",
+                          "image": "/images/animals/saiga-antelope.jpg",
+                          "scientificName": "Saiga tatarica"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Syncerus",
+                      "nameZh": "非洲水牛属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "African Buffalo",
+                          "nameZh": "非洲水牛",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "african-buffalo",
+                          "image": "/images/animals/african-buffalo.jpg",
+                          "scientificName": "Syncerus caffer"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Camelidae",
+                  "nameZh": "骆驼科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 7,
+                  "children": [
+                    {
+                      "name": "Camelus",
+                      "nameZh": "骆驼属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 3,
+                      "children": [
+                        {
+                          "name": "Bactrian Camel",
+                          "nameZh": "双峰骆驼",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "bactrian-camel",
+                          "image": "/images/animals/bactrian-camel.jpg",
+                          "scientificName": "Camelus bactrianus"
+                        },
+                        {
+                          "name": "Dromedary Camel",
+                          "nameZh": "单峰骆驼",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "dromedary-camel",
+                          "image": "/images/animals/dromedary-camel.jpg",
+                          "scientificName": "Camelus dromedarius"
+                        },
+                        {
+                          "name": "Wild Bactrian Camel",
+                          "nameZh": "野双峰骆驼",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "wild-bactrian-camel",
+                          "image": "/images/animals/wild-bactrian-camel.jpg",
+                          "scientificName": "Camelus ferus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Lama",
+                      "nameZh": "羊驼属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 2,
+                      "children": [
+                        {
+                          "name": "Guanaco",
+                          "nameZh": "原驼",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "guanaco",
+                          "image": "/images/animals/guanaco.jpg",
+                          "scientificName": "Lama guanicoe"
+                        },
+                        {
+                          "name": "Llama",
+                          "nameZh": "大羊驼",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "llama",
+                          "image": "/images/animals/llama.jpg",
+                          "scientificName": "Lama glama"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Vicugna",
+                      "nameZh": "小羊驼属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 2,
+                      "children": [
+                        {
+                          "name": "Alpaca",
+                          "nameZh": "羊驼",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "alpaca",
+                          "image": "/images/animals/alpaca.jpg",
+                          "scientificName": "Vicugna pacos"
+                        },
+                        {
+                          "name": "Vicuña",
+                          "nameZh": "小羊驼",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "vicuna",
+                          "image": "/images/animals/vicuna.jpg",
+                          "scientificName": "Vicugna vicugna"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Cervidae",
+                  "nameZh": "鹿科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 4,
+                  "children": [
+                    {
+                      "name": "Alces",
+                      "nameZh": "驼鹿属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Moose",
+                          "nameZh": "驼鹿",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "moose",
+                          "image": "/images/animals/moose.jpg",
+                          "scientificName": "Alces alces"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cervus",
+                      "nameZh": "鹿属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Sika Deer",
+                          "nameZh": "梅花鹿",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "sika-deer",
+                          "image": "/images/animals/sika-deer.jpg",
+                          "scientificName": "Cervus nippon"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Hydropotes",
+                      "nameZh": "獐属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Water Deer",
+                          "nameZh": "獐",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "water-deer",
+                          "image": "/images/animals/water-deer.jpg",
+                          "scientificName": "Hydropotes inermis"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Rangifer",
+                      "nameZh": "驯鹿属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Reindeer",
+                          "nameZh": "驯鹿",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "reindeer",
+                          "image": "/images/animals/reindeer.jpg",
+                          "scientificName": "Rangifer tarandus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Monodontidae",
+                  "nameZh": "一角鲸科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 2,
+                  "children": [
+                    {
+                      "name": "Delphinapterus",
+                      "nameZh": "白鲸属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Beluga Whale",
+                          "nameZh": "白鲸",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "beluga-whale",
+                          "image": "/images/animals/beluga-whale.jpg",
+                          "scientificName": "Delphinapterus leucas"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Monodon",
+                      "nameZh": "一角鲸属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Narwhal",
+                          "nameZh": "独角鲸",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "narwhal",
+                          "image": "/images/animals/narwhal.jpg",
+                          "scientificName": "Monodon monoceros"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Antilocapridae",
+                  "nameZh": "叉角羚科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Antilocapra",
+                      "nameZh": "叉角羚属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Pronghorn",
+                          "nameZh": "叉角羚",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "pronghorn",
+                          "image": "/images/animals/pronghorn.jpg",
+                          "scientificName": "Antilocapra americana"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Delphinidae",
+                  "nameZh": "海豚科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Sousa",
+                      "nameZh": "驼背豚属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Chinese White Dolphin",
+                          "nameZh": "中华白海豚",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "chinese-white-dolphin",
+                          "image": "/images/animals/chinese-white-dolphin.jpg",
+                          "scientificName": "Sousa chinensis"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Giraffidae",
+                  "nameZh": "长颈鹿科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Giraffa",
+                      "nameZh": "长颈鹿属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Giraffe",
+                          "nameZh": "长颈鹿",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "giraffe",
+                          "image": "/images/animals/giraffe.jpg",
+                          "scientificName": "Giraffa camelopardalis"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Hippopotamidae",
+                  "nameZh": "河马科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Hippopotamus",
+                      "nameZh": "河马属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Hippopotamus",
+                          "nameZh": "河马",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "hippopotamus",
+                          "image": "/images/animals/hippopotamus.jpg",
+                          "scientificName": "Hippopotamus amphibius"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Suidae",
+                  "nameZh": "猪科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Sus",
+                      "nameZh": "猪属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Domestic Pig",
+                          "nameZh": "猪",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "domestic-pig",
+                          "image": "/images/animals/domestic-pig.jpg",
+                          "scientificName": "Sus domesticus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Primates",
+              "nameZh": "灵长目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 6,
+              "children": [
+                {
+                  "name": "Hominidae",
+                  "nameZh": "人科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 3,
+                  "children": [
+                    {
+                      "name": "Gorilla",
+                      "nameZh": "大猩猩属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Western Gorilla",
+                          "nameZh": "大猩猩",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "western-gorilla",
+                          "image": "/images/animals/western-gorilla.jpg",
+                          "scientificName": "Gorilla gorilla"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Pan",
+                      "nameZh": "黑猩猩属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Chimpanzee",
+                          "nameZh": "黑猩猩",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "chimpanzee",
+                          "image": "/images/animals/chimpanzee.jpg",
+                          "scientificName": "Pan troglodytes"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Pongo",
+                      "nameZh": "猩猩属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Bornean Orangutan",
+                          "nameZh": "婆罗洲猩猩",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "bornean-orangutan",
+                          "image": "/images/animals/bornean-orangutan.jpg",
+                          "scientificName": "Pongo pygmaeus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Cercopithecidae",
+                  "nameZh": "猴科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Rhinopithecus",
+                      "nameZh": "仰鼻猴属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Golden Snub-nosed Monkey",
+                          "nameZh": "川金丝猴",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "golden-snub-nosed-monkey",
+                          "image": "/images/animals/golden-snub-nosed-monkey.jpg",
+                          "scientificName": "Rhinopithecus roxellana"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Daubentoniidae",
+                  "nameZh": "指猴科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Daubentonia",
+                      "nameZh": "指猴属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Aye-aye",
+                          "nameZh": "指猴",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "aye-aye",
+                          "image": "/images/animals/aye-aye.jpg",
+                          "scientificName": "Daubentonia madagascariensis"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Lemuridae",
+                  "nameZh": "狐猴科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Lemur",
+                      "nameZh": "狐猴属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Ring-tailed Lemur",
+                          "nameZh": "环尾狐猴",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "ring-tailed-lemur",
+                          "image": "/images/animals/ring-tailed-lemur.jpg",
+                          "scientificName": "Lemur catta"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cetacea",
+              "nameZh": "鲸目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 4,
+              "children": [
+                {
+                  "name": "Delphinidae",
+                  "nameZh": "海豚科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 2,
+                  "children": [
+                    {
+                      "name": "Orcinus",
+                      "nameZh": "虎鲸属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Orca",
+                          "nameZh": "虎鲸",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "orca",
+                          "image": "/images/animals/orca.jpg",
+                          "scientificName": "Orcinus orca"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Tursiops",
+                      "nameZh": "宽吻海豚属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Common Bottlenose Dolphin",
+                          "nameZh": "宽吻海豚",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "common-bottlenose-dolphin",
+                          "image": "/images/animals/common-bottlenose-dolphin.jpg",
+                          "scientificName": "Tursiops truncatus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Balaenopteridae",
+                  "nameZh": "须鲸科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Balaenoptera",
+                      "nameZh": "须鲸属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Blue Whale",
+                          "nameZh": "蓝鲸",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "blue-whale",
+                          "image": "/images/animals/blue-whale.jpg",
+                          "scientificName": "Balaenoptera musculus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Phocoenidae",
+                  "nameZh": "鼠海豚科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Phocoena",
+                      "nameZh": "鼠海豚属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Vaquita",
+                          "nameZh": "小头鼠海豚",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "vaquita",
+                          "image": "/images/animals/vaquita.jpg",
+                          "scientificName": "Phocoena sinus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cingulata",
+              "nameZh": "有甲目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 4,
+              "children": [
+                {
+                  "name": "Chlamyphoridae",
+                  "nameZh": "倭犰狳科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 3,
+                  "children": [
+                    {
+                      "name": "Chlamyphorus",
+                      "nameZh": "倭犰狳属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Pink Fairy Armadillo",
+                          "nameZh": "粉红犰狳",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "pink-fairy-armadillo",
+                          "image": "/images/animals/pink-fairy-armadillo.jpg",
+                          "scientificName": "Chlamyphorus truncatus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Priodontes",
+                      "nameZh": "大犰狳属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Giant Armadillo",
+                          "nameZh": "大犰狳",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "giant-armadillo",
+                          "image": "/images/animals/giant-armadillo.jpg",
+                          "scientificName": "Priodontes maximus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Tolypeutes",
+                      "nameZh": "三带犰狳属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Brazilian Three-banded Armadillo",
+                          "nameZh": "三带犰狳",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "three-banded-armadillo",
+                          "image": "/images/animals/three-banded-armadillo.jpg",
+                          "scientificName": "Tolypeutes tricinctus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dasypodidae",
+                  "nameZh": "犰狳科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Dasypus",
+                      "nameZh": "犰狳属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Nine-banded Armadillo",
+                          "nameZh": "九带犰狳",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "nine-banded-armadillo",
+                          "image": "/images/animals/nine-banded-armadillo.jpg",
+                          "scientificName": "Dasypus novemcinctus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Pilosa",
+              "nameZh": "披毛目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 4,
+              "children": [
+                {
+                  "name": "Bradypodidae",
+                  "nameZh": "树懒科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Bradypus",
+                      "nameZh": "树懒属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Brown-throated Sloth",
+                          "nameZh": "褐喉三趾树懒",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "brown-throated-sloth",
+                          "image": "/images/animals/brown-throated-sloth.jpg",
+                          "scientificName": "Bradypus variegatus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Choloepodidae",
+                  "nameZh": "二趾树懒科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Choloepus",
+                      "nameZh": "二趾树懒属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Linnaeus's Two-toed Sloth",
+                          "nameZh": "二趾树懒",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "two-toed-sloth",
+                          "image": "/images/animals/two-toed-sloth.jpg",
+                          "scientificName": "Choloepus didactylus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Cyclopedidae",
+                  "nameZh": "侏食蚁兽科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Cyclopes",
+                      "nameZh": "侏食蚁兽属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Silky Anteater",
+                          "nameZh": "侏食蚁兽",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "silky-anteater",
+                          "image": "/images/animals/silky-anteater.jpg",
+                          "scientificName": "Cyclopes didactylus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Myrmecophagidae",
+                  "nameZh": "食蚁兽科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Myrmecophaga",
+                      "nameZh": "大食蚁兽属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Giant Anteater",
+                          "nameZh": "大食蚁兽",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "giant-anteater",
+                          "image": "/images/animals/giant-anteater.jpg",
+                          "scientificName": "Myrmecophaga tridactyla"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Diprotodontia",
+              "nameZh": "双门齿目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 3,
+              "children": [
+                {
+                  "name": "Macropodidae",
+                  "nameZh": "袋鼠科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Osphranter",
+                      "nameZh": "大袋鼠属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Red Kangaroo",
+                          "nameZh": "红袋鼠",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "red-kangaroo",
+                          "image": "/images/animals/red-kangaroo.jpg",
+                          "scientificName": "Osphranter rufus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Phascolarctidae",
+                  "nameZh": "树袋熊科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Phascolarctos",
+                      "nameZh": "树袋熊属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Koala",
+                          "nameZh": "考拉",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "koala",
+                          "image": "/images/animals/koala.jpg",
+                          "scientificName": "Phascolarctos cinereus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Vombatidae",
+                  "nameZh": "袋熊科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Vombatus",
+                      "nameZh": "袋熊属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Common Wombat",
+                          "nameZh": "普通袋熊",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "common-wombat",
+                          "image": "/images/animals/common-wombat.jpg",
+                          "scientificName": "Vombatus ursinus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lagomorpha",
+              "nameZh": "兔形目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 3,
+              "children": [
+                {
+                  "name": "Leporidae",
+                  "nameZh": "兔科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 2,
+                  "children": [
+                    {
+                      "name": "Lepus",
+                      "nameZh": "兔属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Snowshoe Hare",
+                          "nameZh": "雪鞋兔",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "snowshoe-hare",
+                          "image": "/images/animals/snowshoe-hare.jpg",
+                          "scientificName": "Lepus americanus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Oryctolagus",
+                      "nameZh": "穴兔属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "European Rabbit",
+                          "nameZh": "穴兔",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "european-rabbit",
+                          "image": "/images/animals/european-rabbit.jpg",
+                          "scientificName": "Oryctolagus cuniculus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Ochotonidae",
+                  "nameZh": "鼠兔科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Ochotona",
+                      "nameZh": "鼠兔属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Ili Pika",
+                          "nameZh": "伊犁鼠兔",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "ili-pika",
+                          "image": "/images/animals/ili-pika.jpg",
+                          "scientificName": "Ochotona iliensis"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Perissodactyla",
+              "nameZh": "奇蹄目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 3,
+              "children": [
+                {
+                  "name": "Equidae",
+                  "nameZh": "马科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 2,
+                  "children": [
+                    {
+                      "name": "Equus",
+                      "nameZh": "马属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 2,
+                      "children": [
+                        {
+                          "name": "Horse",
+                          "nameZh": "马",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "horse",
+                          "image": "/images/animals/horse.jpg",
+                          "scientificName": "Equus caballus"
+                        },
+                        {
+                          "name": "Plains Zebra",
+                          "nameZh": "平原斑马",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "plains-zebra",
+                          "image": "/images/animals/plains-zebra.jpg",
+                          "scientificName": "Equus quagga"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Rhinocerotidae",
+                  "nameZh": "犀科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Ceratotherium",
+                      "nameZh": "白犀属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "White Rhinoceros",
+                          "nameZh": "白犀牛",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "white-rhinoceros",
+                          "image": "/images/animals/white-rhinoceros.jpg",
+                          "scientificName": "Ceratotherium simum"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Rodentia",
+              "nameZh": "啮齿目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 3,
+              "children": [
+                {
+                  "name": "Castoridae",
+                  "nameZh": "河狸科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Castor",
+                      "nameZh": "河狸属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "American Beaver",
+                          "nameZh": "美洲河狸",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "american-beaver",
+                          "image": "/images/animals/american-beaver.jpg",
+                          "scientificName": "Castor canadensis"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Caviidae",
+                  "nameZh": "豚鼠科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Hydrochoerus",
+                      "nameZh": "水豚属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Capybara",
+                          "nameZh": "水豚",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "capybara",
+                          "image": "/images/animals/capybara.jpg",
+                          "scientificName": "Hydrochoerus hydrochaeris"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Sciuridae",
+                  "nameZh": "松鼠科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Cynomys",
+                      "nameZh": "草原犬鼠属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Black-tailed Prairie Dog",
+                          "nameZh": "黑尾土拨鼠",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "black-tailed-prairie-dog",
+                          "image": "/images/animals/black-tailed-prairie-dog.jpg",
+                          "scientificName": "Cynomys ludovicianus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Afrosoricida",
+              "nameZh": "非洲猬目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Tenrecidae",
+                  "nameZh": "马岛猬科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Hemicentetes",
+                      "nameZh": "纹猬属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Lowland Streaked Tenrec",
+                          "nameZh": "低地斑纹马岛猬",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "lowland-streaked-tenrec",
+                          "image": "/images/animals/lowland-streaked-tenrec.jpg",
+                          "scientificName": "Hemicentetes semispinosus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chiroptera",
+              "nameZh": "翼手目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Phyllostomidae",
+                  "nameZh": "叶口蝠科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Desmodus",
+                      "nameZh": "吸血蝠属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Common Vampire Bat",
+                          "nameZh": "吸血蝠",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "common-vampire-bat",
+                          "image": "/images/animals/common-vampire-bat.jpg",
+                          "scientificName": "Desmodus rotundus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dasyuromorphia",
+              "nameZh": "袋鼬目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Dasyuridae",
+                  "nameZh": "袋鼬科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Sarcophilus",
+                      "nameZh": "袋獾属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Tasmanian Devil",
+                          "nameZh": "袋獾",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "tasmanian-devil",
+                          "image": "/images/animals/tasmanian-devil.jpg",
+                          "scientificName": "Sarcophilus harrisii"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dermoptera",
+              "nameZh": "皮翼目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Cynocephalidae",
+                  "nameZh": "鼯猴科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Cynocephalus",
+                      "nameZh": "鼯猴属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Flying Lemur",
+                          "nameZh": "斑鼯猴",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "philippine-flying-lemur",
+                          "image": "/images/animals/philippine-flying-lemur.jpg",
+                          "scientificName": "Cynocephalus volans"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Didelphimorphia",
+              "nameZh": "负鼠目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Didelphidae",
+                  "nameZh": "负鼠科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Didelphis",
+                      "nameZh": "负鼠属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Virginia Opossum",
+                          "nameZh": "北美负鼠",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "virginia-opossum",
+                          "image": "/images/animals/virginia-opossum.jpg",
+                          "scientificName": "Didelphis virginiana"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Monotremata",
+              "nameZh": "单孔目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Ornithorhynchidae",
+                  "nameZh": "鸭嘴兽科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Ornithorhynchus",
+                      "nameZh": "鸭嘴兽属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Platypus",
+                          "nameZh": "鸭嘴兽",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "platypus",
+                          "image": "/images/animals/platypus.jpg",
+                          "scientificName": "Ornithorhynchus anatinus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Pholidota",
+              "nameZh": "鳞甲目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Manidae",
+                  "nameZh": "穿山甲科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Manis",
+                      "nameZh": "穿山甲属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Sunda Pangolin",
+                          "nameZh": "马来穿山甲",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "sunda-pangolin",
+                          "image": "/images/animals/sunda-pangolin.jpg",
+                          "scientificName": "Manis javanica"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Proboscidea",
+              "nameZh": "长鼻目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Elephantidae",
+                  "nameZh": "象科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Loxodonta",
+                      "nameZh": "非洲象属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "African Bush Elephant",
+                          "nameZh": "非洲草原象",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "african-bush-elephant",
+                          "image": "/images/animals/african-bush-elephant.jpg",
+                          "scientificName": "Loxodonta africana"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sirenia",
+              "nameZh": "海牛目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Trichechidae",
+                  "nameZh": "海牛科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Trichechus",
+                      "nameZh": "海牛属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "West Indian Manatee",
+                          "nameZh": "西印度海牛",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "west-indian-manatee",
+                          "image": "/images/animals/west-indian-manatee.jpg",
+                          "scientificName": "Trichechus manatus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Aves",
+          "nameZh": "鸟纲",
+          "level": "Class",
+          "levelZh": "纲",
+          "count": 23,
+          "children": [
+            {
+              "name": "Galliformes",
+              "nameZh": "鸡形目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 4,
+              "children": [
+                {
+                  "name": "Phasianidae",
+                  "nameZh": "雉科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 4,
+                  "children": [
+                    {
+                      "name": "Chrysolophus",
+                      "nameZh": "锦鸡属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Golden Pheasant",
+                          "nameZh": "红腹锦鸡",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "golden-pheasant",
+                          "image": "/images/animals/golden-pheasant.jpg",
+                          "scientificName": "Chrysolophus pictus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Crossoptilon",
+                      "nameZh": "马鸡属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Brown Eared Pheasant",
+                          "nameZh": "褐马鸡",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "brown-eared-pheasant",
+                          "image": "/images/animals/brown-eared-pheasant.jpg",
+                          "scientificName": "Crossoptilon mantchuricum"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Gallus",
+                      "nameZh": "原鸡属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Red Junglefowl",
+                          "nameZh": "原鸡",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "red-junglefowl",
+                          "image": "/images/animals/red-junglefowl.jpg",
+                          "scientificName": "Gallus gallus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Pavo",
+                      "nameZh": "孔雀属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Indian Peafowl",
+                          "nameZh": "蓝孔雀",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "indian-peafowl",
+                          "image": "/images/animals/indian-peafowl.jpg",
+                          "scientificName": "Pavo cristatus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Accipitriformes",
+              "nameZh": "鹰形目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 2,
+              "children": [
+                {
+                  "name": "Accipitridae",
+                  "nameZh": "鹰科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 2,
+                  "children": [
+                    {
+                      "name": "Haliaeetus",
+                      "nameZh": "海雕属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Bald Eagle",
+                          "nameZh": "白头海雕",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "bald-eagle",
+                          "image": "/images/animals/bald-eagle.jpg",
+                          "scientificName": "Haliaeetus leucocephalus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Harpia",
+                      "nameZh": "角雕属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Harpy Eagle",
+                          "nameZh": "角雕",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "harpy-eagle",
+                          "image": "/images/animals/harpy-eagle.jpg",
+                          "scientificName": "Harpia harpyja"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Pelecaniformes",
+              "nameZh": "鹈形目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 2,
+              "children": [
+                {
+                  "name": "Balaenicipitidae",
+                  "nameZh": "鲸头鹳科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Balaeniceps",
+                      "nameZh": "鲸头鹳属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Shoebill Stork",
+                          "nameZh": "鲸头鹳",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "shoebill-stork",
+                          "image": "/images/animals/shoebill-stork.jpg",
+                          "scientificName": "Balaeniceps rex"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Threskiornithidae",
+                  "nameZh": "鹮科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Nipponia",
+                      "nameZh": "朱鹮属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Crested Ibis",
+                          "nameZh": "朱鹮",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "crested-ibis",
+                          "image": "/images/animals/crested-ibis.jpg",
+                          "scientificName": "Nipponia nippon"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Piciformes",
+              "nameZh": "鴷形目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 2,
+              "children": [
+                {
+                  "name": "Ramphastidae",
+                  "nameZh": "巨嘴鸟科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 2,
+                  "children": [
+                    {
+                      "name": "Ramphastos",
+                      "nameZh": "巨嘴鸟属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 2,
+                      "children": [
+                        {
+                          "name": "Keel-billed Toucan",
+                          "nameZh": "彩虹巨嘴鸟",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "keel-billed-toucan",
+                          "image": "/images/animals/keel-billed-toucan.jpg",
+                          "scientificName": "Ramphastos sulfuratus"
+                        },
+                        {
+                          "name": "Toco Toucan",
+                          "nameZh": "巨嘴鸟",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "toco-toucan",
+                          "image": "/images/animals/toco-toucan.jpg",
+                          "scientificName": "Ramphastos toco"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sphenisciformes",
+              "nameZh": "企鹅目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 2,
+              "children": [
+                {
+                  "name": "Spheniscidae",
+                  "nameZh": "企鹅科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 2,
+                  "children": [
+                    {
+                      "name": "Aptenodytes",
+                      "nameZh": "王企鹅属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 2,
+                      "children": [
+                        {
+                          "name": "Emperor Penguin",
+                          "nameZh": "帝企鹅",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "emperor-penguin",
+                          "image": "/images/animals/emperor-penguin.jpg",
+                          "scientificName": "Aptenodytes forsteri"
+                        },
+                        {
+                          "name": "King Penguin",
+                          "nameZh": "王企鹅",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "king-penguin",
+                          "image": "/images/animals/king-penguin.jpg",
+                          "scientificName": "Aptenodytes patagonicus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Apodiformes",
+              "nameZh": "雨燕目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Trochilidae",
+                  "nameZh": "蜂鸟科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Archilochus",
+                      "nameZh": "娇蜂鸟属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Ruby-throated Hummingbird",
+                          "nameZh": "红喉蜂鸟",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "ruby-throated-hummingbird",
+                          "image": "/images/animals/ruby-throated-hummingbird.jpg",
+                          "scientificName": "Archilochus colubris"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Bucerotiformes",
+              "nameZh": "犀鸟目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Bucerotidae",
+                  "nameZh": "犀鸟科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Buceros",
+                      "nameZh": "犀鸟属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Rhinoceros Hornbill",
+                          "nameZh": "马来犀鸟",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "rhinoceros-hornbill",
+                          "image": "/images/animals/rhinoceros-hornbill.jpg",
+                          "scientificName": "Buceros rhinoceros"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Casuariiformes",
+              "nameZh": "鹤鸵目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Casuariidae",
+                  "nameZh": "鹤鸵科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Casuarius",
+                      "nameZh": "鹤鸵属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Southern Cassowary",
+                          "nameZh": "南方鹤鸵",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "southern-cassowary",
+                          "image": "/images/animals/southern-cassowary.jpg",
+                          "scientificName": "Casuarius casuarius"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Coraciiformes",
+              "nameZh": "佛法僧目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Alcedinidae",
+                  "nameZh": "翠鸟科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Alcedo",
+                      "nameZh": "翠鸟属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Common Kingfisher",
+                          "nameZh": "普通翠鸟",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "common-kingfisher",
+                          "image": "/images/animals/common-kingfisher.jpg",
+                          "scientificName": "Alcedo atthis"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Falconiformes",
+              "nameZh": "隼形目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Falconidae",
+                  "nameZh": "隼科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Falco",
+                      "nameZh": "隼属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Peregrine Falcon",
+                          "nameZh": "游隼",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "peregrine-falcon",
+                          "image": "/images/animals/peregrine-falcon.jpg",
+                          "scientificName": "Falco peregrinus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Passeriformes",
+              "nameZh": "雀形目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Sturnidae",
+                  "nameZh": "椋鸟科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Acridotheres",
+                      "nameZh": "八哥属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Crested Myna",
+                          "nameZh": "八哥",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "crested-myna",
+                          "image": "/images/animals/crested-myna.jpg",
+                          "scientificName": "Acridotheres cristatellus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Phoenicopteriformes",
+              "nameZh": "红鹳目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Phoenicopteridae",
+                  "nameZh": "红鹳科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Phoenicopterus",
+                      "nameZh": "红鹳属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Greater Flamingo",
+                          "nameZh": "大红鹳",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "greater-flamingo",
+                          "image": "/images/animals/greater-flamingo.jpg",
+                          "scientificName": "Phoenicopterus roseus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Procellariiformes",
+              "nameZh": "鹱形目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Diomedeidae",
+                  "nameZh": "信天翁科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Diomedea",
+                      "nameZh": "信天翁属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Wandering Albatross",
+                          "nameZh": "漂泊信天翁",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "wandering-albatross",
+                          "image": "/images/animals/wandering-albatross.jpg",
+                          "scientificName": "Diomedea exulans"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Psittaciformes",
+              "nameZh": "鹦形目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Psittacidae",
+                  "nameZh": "鹦鹉科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Ara",
+                      "nameZh": "金刚鹦鹉属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Scarlet Macaw",
+                          "nameZh": "绯红金刚鹦鹉",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "scarlet-macaw",
+                          "image": "/images/animals/scarlet-macaw.jpg",
+                          "scientificName": "Ara macao"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Strigiformes",
+              "nameZh": "鸮形目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Strigidae",
+                  "nameZh": "鸱鸮科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Bubo",
+                      "nameZh": "雕鸮属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Snowy Owl",
+                          "nameZh": "雪鸮",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "snowy-owl",
+                          "image": "/images/animals/snowy-owl.jpg",
+                          "scientificName": "Bubo scandiacus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Struthioniformes",
+              "nameZh": "鸵鸟目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Struthionidae",
+                  "nameZh": "鸵鸟科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Struthio",
+                      "nameZh": "鸵鸟属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Common Ostrich",
+                          "nameZh": "非洲鸵鸟",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "common-ostrich",
+                          "image": "/images/animals/common-ostrich.jpg",
+                          "scientificName": "Struthio camelus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Reptilia",
+          "nameZh": "爬行纲",
+          "level": "Class",
+          "levelZh": "纲",
+          "count": 13,
+          "children": [
+            {
+              "name": "Squamata",
+              "nameZh": "有鳞目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 6,
+              "children": [
+                {
+                  "name": "Boidae",
+                  "nameZh": "蚺科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Eunectes",
+                      "nameZh": "水蚺属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Green Anaconda",
+                          "nameZh": "森蚺",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "green-anaconda",
+                          "image": "/images/animals/green-anaconda.jpg",
+                          "scientificName": "Eunectes murinus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Chamaeleonidae",
+                  "nameZh": "避役科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Chamaeleo",
+                      "nameZh": "避役属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Chameleon",
+                          "nameZh": "变色龙",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "chameleon",
+                          "image": "/images/animals/chameleon.jpg",
+                          "scientificName": "Chamaeleonidae"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Elapidae",
+                  "nameZh": "眼镜蛇科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Ophiophagus",
+                      "nameZh": "眼镜王蛇属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "King Cobra",
+                          "nameZh": "眼镜王蛇",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "king-cobra",
+                          "image": "/images/animals/king-cobra.jpg",
+                          "scientificName": "Ophiophagus hannah"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Helodermatidae",
+                  "nameZh": "毒蜥科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Heloderma",
+                      "nameZh": "毒蜥属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Gila Monster",
+                          "nameZh": "毒蜥",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "gila-monster",
+                          "image": "/images/animals/gila-monster.jpg",
+                          "scientificName": "Heloderma suspectum"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Iguanidae",
+                  "nameZh": "鬣蜥科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Iguana",
+                      "nameZh": "鬣蜥属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Green Iguana",
+                          "nameZh": "绿鬣蜥",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "green-iguana",
+                          "image": "/images/animals/green-iguana.jpg",
+                          "scientificName": "Iguana iguana"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Varanidae",
+                  "nameZh": "巨蜥科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Varanus",
+                      "nameZh": "巨蜥属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Komodo Dragon",
+                          "nameZh": "科莫多巨蜥",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "komodo-dragon",
+                          "image": "/images/animals/komodo-dragon.jpg",
+                          "scientificName": "Varanus komodoensis"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Crocodilia",
+              "nameZh": "鳄目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 4,
+              "children": [
+                {
+                  "name": "Alligatoridae",
+                  "nameZh": "短吻鳄科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 2,
+                  "children": [
+                    {
+                      "name": "Alligator",
+                      "nameZh": "短吻鳄属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 2,
+                      "children": [
+                        {
+                          "name": "American Alligator",
+                          "nameZh": "美洲短吻鳄",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "american-alligator",
+                          "image": "/images/animals/american-alligator.jpg",
+                          "scientificName": "Alligator mississippiensis"
+                        },
+                        {
+                          "name": "Chinese Alligator",
+                          "nameZh": "扬子鳄",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "chinese-alligator",
+                          "image": "/images/animals/chinese-alligator.jpg",
+                          "scientificName": "Alligator sinensis"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Crocodylidae",
+                  "nameZh": "鳄科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 2,
+                  "children": [
+                    {
+                      "name": "Crocodylus",
+                      "nameZh": "鳄属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 2,
+                      "children": [
+                        {
+                          "name": "Nile Crocodile",
+                          "nameZh": "尼罗鳄",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "nile-crocodile",
+                          "image": "/images/animals/nile-crocodile.jpg",
+                          "scientificName": "Crocodylus niloticus"
+                        },
+                        {
+                          "name": "Saltwater Crocodile",
+                          "nameZh": "湾鳄",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "saltwater-crocodile",
+                          "image": "/images/animals/saltwater-crocodile.jpg",
+                          "scientificName": "Crocodylus porosus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Testudines",
+              "nameZh": "龟鳖目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 3,
+              "children": [
+                {
+                  "name": "Cheloniidae",
+                  "nameZh": "海龟科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Chelonia",
+                      "nameZh": "海龟属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Green Sea Turtle",
+                          "nameZh": "绿海龟",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "green-sea-turtle",
+                          "image": "/images/animals/green-sea-turtle.jpg",
+                          "scientificName": "Chelonia mydas"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dermochelyidae",
+                  "nameZh": "棱皮龟科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Dermochelys",
+                      "nameZh": "棱皮龟属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Leatherback Sea Turtle",
+                          "nameZh": "棱皮龟",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "leatherback-sea-turtle",
+                          "image": "/images/animals/leatherback-sea-turtle.jpg",
+                          "scientificName": "Dermochelys coriacea"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Testudinidae",
+                  "nameZh": "陆龟科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Chelonoidis",
+                      "nameZh": "南美象龟属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Galapagos Tortoise",
+                          "nameZh": "加拉帕戈斯象龟",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "galapagos-tortoise",
+                          "image": "/images/animals/galapagos-tortoise.jpg",
+                          "scientificName": "Chelonoidis niger"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Actinopterygii",
+          "nameZh": "硬骨鱼纲",
+          "level": "Class",
+          "levelZh": "纲",
+          "count": 10,
+          "children": [
+            {
+              "name": "Lophiiformes",
+              "nameZh": "鮟鱇目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 2,
+              "children": [
+                {
+                  "name": "Antennariidae",
+                  "nameZh": "躄鱼科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Antennarius",
+                      "nameZh": "躄鱼属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Striated Frogfish",
+                          "nameZh": "条纹躄鱼",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "striated-frogfish",
+                          "image": "/images/animals/striated-frogfish.jpg",
+                          "scientificName": "Antennarius striatus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Melanocetidae",
+                  "nameZh": "黑角鮟鱇科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Melanocetus",
+                      "nameZh": "黑角鮟鱇属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Humpback Anglerfish",
+                          "nameZh": "黑角鮟鱇",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "humpback-anglerfish",
+                          "image": "/images/animals/humpback-anglerfish.jpg",
+                          "scientificName": "Melanocetus johnsonii"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Syngnathiformes",
+              "nameZh": "海龙目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 2,
+              "children": [
+                {
+                  "name": "Syngnathidae",
+                  "nameZh": "海龙科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 2,
+                  "children": [
+                    {
+                      "name": "Hippocampus",
+                      "nameZh": "海马属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Common Seahorse",
+                          "nameZh": "海马",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "common-seahorse",
+                          "image": "/images/animals/common-seahorse.jpg",
+                          "scientificName": "Hippocampus kuda"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Phycodurus",
+                      "nameZh": "叶海龙属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Leafy Seadragon",
+                          "nameZh": "叶海龙",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "leafy-seadragon",
+                          "image": "/images/animals/leafy-seadragon.jpg",
+                          "scientificName": "Phycodurus eques"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Tetraodontiformes",
+              "nameZh": "鲀形目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 2,
+              "children": [
+                {
+                  "name": "Molidae",
+                  "nameZh": "翻车鲀科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Mola",
+                      "nameZh": "翻车鲀属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Ocean Sunfish",
+                          "nameZh": "翻车鱼",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "ocean-sunfish",
+                          "image": "/images/animals/ocean-sunfish.jpg",
+                          "scientificName": "Mola mola"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Tetraodontidae",
+                  "nameZh": "四齿鲀科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Takifugu",
+                      "nameZh": "东方鲀属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Tiger Puffer",
+                          "nameZh": "红鳍东方鲀",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "tiger-puffer",
+                          "image": "/images/animals/tiger-puffer.jpg",
+                          "scientificName": "Takifugu rubripes"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Clupeiformes",
+              "nameZh": "鲱形目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Clupeidae",
+                  "nameZh": "鲱科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Clupea",
+                      "nameZh": "鲱属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Atlantic Herring",
+                          "nameZh": "大西洋鲱",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "atlantic-herring",
+                          "image": "/images/animals/atlantic-herring.jpg",
+                          "scientificName": "Clupea harengus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lampriformes",
+              "nameZh": "月鱼目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Regalecidae",
+                  "nameZh": "皇带鱼科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Regalecus",
+                      "nameZh": "皇带鱼属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Giant Oarfish",
+                          "nameZh": "皇带鱼",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "giant-oarfish",
+                          "image": "/images/animals/giant-oarfish.jpg",
+                          "scientificName": "Regalecus glesne"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mugiliformes",
+              "nameZh": "鲻形目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Mugilidae",
+                  "nameZh": "鲻科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Mugil",
+                      "nameZh": "鲻属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Flathead Grey Mullet",
+                          "nameZh": "鲻鱼",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "flathead-grey-mullet",
+                          "image": "/images/animals/flathead-grey-mullet.jpg",
+                          "scientificName": "Mugil cephalus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Perciformes",
+              "nameZh": "鲈形目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Pomacentridae",
+                  "nameZh": "雀鲷科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Amphiprion",
+                      "nameZh": "双锯鱼属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Ocellaris Clownfish",
+                          "nameZh": "眼斑双锯鱼(小丑鱼)",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "ocellaris-clownfish",
+                          "image": "/images/animals/ocellaris-clownfish.jpg",
+                          "scientificName": "Amphiprion ocellaris"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Amphibia",
+          "nameZh": "两栖纲",
+          "level": "Class",
+          "levelZh": "纲",
+          "count": 8,
+          "children": [
+            {
+              "name": "Anura",
+              "nameZh": "无尾目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 6,
+              "children": [
+                {
+                  "name": "Dendrobatidae",
+                  "nameZh": "箭毒蛙科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 2,
+                  "children": [
+                    {
+                      "name": "Oophaga",
+                      "nameZh": "食卵蛙属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Strawberry Poison Dart Frog",
+                          "nameZh": "草莓箭毒蛙",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "strawberry-poison-dart-frog",
+                          "image": "/images/animals/strawberry-poison-dart-frog.jpg",
+                          "scientificName": "Oophaga pumilio"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Phyllobates",
+                      "nameZh": "叶毒蛙属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Golden Poison Frog",
+                          "nameZh": "黄金箭毒蛙",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "golden-poison-frog",
+                          "image": "/images/animals/golden-poison-frog.jpg",
+                          "scientificName": "Phyllobates terribilis"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Centrolenidae",
+                  "nameZh": "瞻星蛙科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Hyalinobatrachium",
+                      "nameZh": "小瞻星蛙属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Glass Frog",
+                          "nameZh": "玻璃蛙",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "glass-frog",
+                          "image": "/images/animals/glass-frog.jpg",
+                          "scientificName": "Hyalinobatrachium fleischmanni"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Ceratophryidae",
+                  "nameZh": "角花蟾科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Ceratophrys",
+                      "nameZh": "角花蟾属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Surinam Horned Frog",
+                          "nameZh": "哥伦比亚角蛙",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "surinam-horned-frog",
+                          "image": "/images/animals/surinam-horned-frog.jpg",
+                          "scientificName": "Ceratophrys cornuta"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Phyllomedusidae",
+                  "nameZh": "叶泡蛙科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Agalychnis",
+                      "nameZh": "红眼蛙属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Red-eyed Tree Frog",
+                          "nameZh": "红眼树蛙",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "red-eyed-tree-frog",
+                          "image": "/images/animals/red-eyed-tree-frog.jpg",
+                          "scientificName": "Agalychnis callidryas"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Rhacophoridae",
+                  "nameZh": "树蛙科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Rhacophorus",
+                      "nameZh": "泛树蛙属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Wallace's Flying Frog",
+                          "nameZh": "华莱士飞蛙",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "wallaces-flying-frog",
+                          "image": "/images/animals/wallaces-flying-frog.jpg",
+                          "scientificName": "Rhacophorus nigropalmatus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Caudata",
+              "nameZh": "有尾目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Cryptobranchidae",
+                  "nameZh": "隐鳃鲵科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Andrias",
+                      "nameZh": "大鲵属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Chinese Giant Salamander",
+                          "nameZh": "中国大鲵",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "chinese-giant-salamander",
+                          "image": "/images/animals/chinese-giant-salamander.jpg",
+                          "scientificName": "Andrias davidianus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Urodela",
+              "nameZh": "有尾目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Ambystomatidae",
+                  "nameZh": "钝口螈科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Ambystoma",
+                      "nameZh": "钝口螈属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Axolotl",
+                          "nameZh": "墨西哥钝口螈",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "axolotl",
+                          "image": "/images/animals/axolotl.jpg",
+                          "scientificName": "Ambystoma mexicanum"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chondrichthyes",
+          "nameZh": "软骨鱼纲",
+          "level": "Class",
+          "levelZh": "纲",
+          "count": 5,
+          "children": [
+            {
+              "name": "Lamniformes",
+              "nameZh": "鼠鲨目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 2,
+              "children": [
+                {
+                  "name": "Lamnidae",
+                  "nameZh": "鼠鲨科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Carcharodon",
+                      "nameZh": "噬人鲨属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Great White Shark",
+                          "nameZh": "大白鲨",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "great-white-shark",
+                          "image": "/images/animals/great-white-shark.jpg",
+                          "scientificName": "Carcharodon carcharias"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Mitsukurinidae",
+                  "nameZh": "尖吻鲨科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Mitsukurina",
+                      "nameZh": "尖吻鲨属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Goblin Shark",
+                          "nameZh": "欧氏尖吻鲨",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "goblin-shark",
+                          "image": "/images/animals/goblin-shark.jpg",
+                          "scientificName": "Mitsukurina owstoni"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Carcharhiniformes",
+              "nameZh": "真鲨目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Sphyrnidae",
+                  "nameZh": "双髻鲨科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Sphyrna",
+                      "nameZh": "双髻鲨属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Great Hammerhead",
+                          "nameZh": "无刺锤头鲨",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "great-hammerhead",
+                          "image": "/images/animals/great-hammerhead.jpg",
+                          "scientificName": "Sphyrna mokarran"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Myliobatiformes",
+              "nameZh": "鲼形目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Mobulidae",
+                  "nameZh": "蝠鲼科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Mobula",
+                      "nameZh": "蝠鲼属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Giant Manta Ray",
+                          "nameZh": "巨型魔鬼鱼",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "giant-manta-ray",
+                          "image": "/images/animals/giant-manta-ray.jpg",
+                          "scientificName": "Mobula birostris"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Orectolobiformes",
+              "nameZh": "须鲨目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Rhincodontidae",
+                  "nameZh": "鲸鲨科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Rhincodon",
+                      "nameZh": "鲸鲨属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Whale Shark",
+                          "nameZh": "鲸鲨",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "whale-shark",
+                          "image": "/images/animals/whale-shark.jpg",
+                          "scientificName": "Rhincodon typus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arthropoda",
+      "nameZh": "节肢动物门",
+      "level": "Phylum",
+      "levelZh": "门",
+      "count": 7,
+      "children": [
+        {
+          "name": "Insecta",
+          "nameZh": "昆虫纲",
+          "level": "Class",
+          "levelZh": "纲",
+          "count": 4,
+          "children": [
+            {
+              "name": "Coleoptera",
+              "nameZh": "鞘翅目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Lucanidae",
+                  "nameZh": "锹甲科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Prosopocoilus",
+                      "nameZh": "锯锹甲属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Giraffe Stag Beetle",
+                          "nameZh": "长颈鹿锯锹甲",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "giraffe-stag-beetle",
+                          "image": "/images/animals/giraffe-stag-beetle.jpg",
+                          "scientificName": "Prosopocoilus giraffa"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Hymenoptera",
+              "nameZh": "膜翅目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Formicidae",
+                  "nameZh": "蚁科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Eciton",
+                      "nameZh": "游蚁属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Army Ant",
+                          "nameZh": "布氏游蚁",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "army-ant",
+                          "image": "/images/animals/army-ant.jpg",
+                          "scientificName": "Eciton burchellii"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lepidoptera",
+              "nameZh": "鳞翅目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Nymphalidae",
+                  "nameZh": "蛱蝶科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Morpho",
+                      "nameZh": "闪蝶属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Blue Morpho Butterfly",
+                          "nameZh": "大蓝闪蝶",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "blue-morpho-butterfly",
+                          "image": "/images/animals/blue-morpho-butterfly.jpg",
+                          "scientificName": "Morpho menelaus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mantodea",
+              "nameZh": "螳螂目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Hymenopodidae",
+                  "nameZh": "花螳科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Hymenopus",
+                      "nameZh": "花螳属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Orchid Mantis",
+                          "nameZh": "兰花螳螂",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "orchid-mantis",
+                          "image": "/images/animals/orchid-mantis.jpg",
+                          "scientificName": "Hymenopus coronatus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Malacostraca",
+          "nameZh": "软甲纲",
+          "level": "Class",
+          "levelZh": "纲",
+          "count": 3,
+          "children": [
+            {
+              "name": "Decapoda",
+              "nameZh": "十足目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Inachidae",
+                  "nameZh": "蜘蛛蟹科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Macrocheira",
+                      "nameZh": "巨螯蟹属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Japanese Spider Crab",
+                          "nameZh": "甘氏巨螯蟹",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "japanese-spider-crab",
+                          "image": "/images/animals/japanese-spider-crab.jpg",
+                          "scientificName": "Macrocheira kaempferi"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Isopoda",
+              "nameZh": "等足目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Cirolanidae",
+                  "nameZh": "漂水虱科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Bathynomus",
+                      "nameZh": "大王具足虫属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Giant Isopod",
+                          "nameZh": "大王具足虫",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "giant-isopod",
+                          "image": "/images/animals/giant-isopod.jpg",
+                          "scientificName": "Bathynomus giganteus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Stomatopoda",
+              "nameZh": "口足目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Odontodactylidae",
+                  "nameZh": "齿指虾蛄科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Odontodactylus",
+                      "nameZh": "齿指虾蛄属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Peacock Mantis Shrimp",
+                          "nameZh": "雀尾螳螂虾",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "peacock-mantis-shrimp",
+                          "image": "/images/animals/peacock-mantis-shrimp.jpg",
+                          "scientificName": "Odontodactylus scyllarus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mollusca",
+      "nameZh": "软体动物门",
+      "level": "Phylum",
+      "levelZh": "门",
+      "count": 3,
+      "children": [
+        {
+          "name": "Cephalopoda",
+          "nameZh": "头足纲",
+          "level": "Class",
+          "levelZh": "纲",
+          "count": 2,
+          "children": [
+            {
+              "name": "Nautilida",
+              "nameZh": "鹦鹉螺目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Nautilidae",
+                  "nameZh": "鹦鹉螺科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Nautilus",
+                      "nameZh": "鹦鹉螺属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Chambered Nautilus",
+                          "nameZh": "珍珠鹦鹉螺",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "chambered-nautilus",
+                          "image": "/images/animals/chambered-nautilus.jpg",
+                          "scientificName": "Nautilus pompilius"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Octopoda",
+              "nameZh": "八腕目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Enteroctopodidae",
+                  "nameZh": "肠蛸科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Enteroctopus",
+                      "nameZh": "肠蛸属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Giant Pacific Octopus",
+                          "nameZh": "北太平洋巨型章鱼",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "giant-pacific-octopus",
+                          "image": "/images/animals/giant-pacific-octopus.jpg",
+                          "scientificName": "Enteroctopus dofleini"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Gastropoda",
+          "nameZh": "腹足纲",
+          "level": "Class",
+          "levelZh": "纲",
+          "count": 1,
+          "children": [
+            {
+              "name": "Nudibranchia",
+              "nameZh": "裸鳃目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Glaucidae",
+                  "nameZh": "海神鳃科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Glaucus",
+                      "nameZh": "海神鳃属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Blue Dragon",
+                          "nameZh": "大西洋海神海蛞蝓",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "blue-dragon",
+                          "image": "/images/animals/blue-dragon.jpg",
+                          "scientificName": "Glaucus atlanticus"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cnidaria",
+      "nameZh": "刺胞动物门",
+      "level": "Phylum",
+      "levelZh": "门",
+      "count": 1,
+      "children": [
+        {
+          "name": "Hydrozoa",
+          "nameZh": "水螅纲",
+          "level": "Class",
+          "levelZh": "纲",
+          "count": 1,
+          "children": [
+            {
+              "name": "Anthoathecata",
+              "nameZh": "花水母目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 1,
+              "children": [
+                {
+                  "name": "Oceaniidae",
+                  "nameZh": "大洋水母科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Turritopsis",
+                      "nameZh": "灯塔水母属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Immortal Jellyfish",
+                          "nameZh": "灯塔水母",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "immortal-jellyfish",
+                          "image": "/images/animals/immortal-jellyfish.jpg",
+                          "scientificName": "Turritopsis dohrnii"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

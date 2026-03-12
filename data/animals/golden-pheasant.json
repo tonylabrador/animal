@@ -66,28 +66,7 @@
     ],
     "map_zoom_level": 5,
     "global_distribution_polygons": [
-      [
-        [
-          25,
-          100
-        ],
-        [
-          35,
-          100
-        ],
-        [
-          35,
-          115
-        ],
-        [
-          25,
-          115
-        ],
-        [
-          25,
-          100
-        ]
-      ]
+      [[25, 100], [35, 100], [35, 115], [25, 115], [25, 100]]
     ]
   },
   "image": "/images/animals/golden-pheasant.jpg"

@@ -1,0 +1,118 @@
+{
+  "id": "sloth-bear",
+  "name_zh": "懒熊",
+  "name_en": "Sloth Bear",
+  "scientific_name": "Melursus ursinus",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Ursidae",
+      "zh": "熊科"
+    },
+    "genus": {
+      "en": "Melursus",
+      "zh": "懒熊属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "A shaggy, nocturnal bear perfectly evolved to act like a giant vacuum cleaner for slurping up termites and ants.",
+    "zh": "一种全身毛发蓬乱的夜行性熊类，完美进化成了一台专门用来吸食白蚁和蚂蚁的超级大号活体吸尘器。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They are bizarrely missing their upper two front teeth! This gap allows them to form a tube with their long lips, creating incredibly strong suction to literally vacuum insects out of the dirt.",
+      "zh": "它们居然奇怪地缺失了上颌的两颗门牙！不过这个豁口却让它们能用长长的嘴唇卷成管状，从而产生极其强劲的吸力，真的能像吸尘器一样直接把泥土深处的昆虫硬生生吸出来。"
+    },
+    "ecology_and_behavior": {
+      "en": "Despite their slow-sounding name, they can run faster than humans and are known to aggressively defend themselves against tigers. Cubs uniquely ride on their mother's back for the first nine months of their lives.",
+      "zh": "虽然名字里带个「懒」字听着很迟钝，但它们全大马力跑起来的速度其实比人类还快，并且以敢于和老虎正面对抗、拼死防卫而闻名。幼熊在出生后的头九个月里，会非常独特地一直骑在妈妈的背上。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native mostly to the Indian subcontinent, they roam through dense lowland forests, grasslands, and scrublands, avoiding heavily human-populated areas.",
+      "zh": "主要原产于印度次大陆，它们通常在茂密的低地森林、开阔长草草原和刺灌木丛中漫游，并会刻意避开人类密集居住的区域。"
+    }
+  },
+  "habitat": {
+    "text_en": "Lowland Forests and Grasslands",
+    "text_zh": "低地森林与草原",
+    "map_coordinates": [
+      20,
+      80
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          8,
+          76
+        ],
+        [
+          10,
+          79
+        ],
+        [
+          14,
+          80
+        ],
+        [
+          18,
+          84
+        ],
+        [
+          22,
+          88
+        ],
+        [
+          27,
+          92
+        ],
+        [
+          30,
+          85
+        ],
+        [
+          28,
+          75
+        ],
+        [
+          22,
+          70
+        ],
+        [
+          14,
+          74
+        ],
+        [
+          8,
+          76
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/sloth-bear.jpg"
+}

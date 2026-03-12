@@ -1,0 +1,73 @@
+{
+  "id": "tasmanian-devil",
+  "name_zh": "袋獾",
+  "name_en": "Tasmanian Devil",
+  "scientific_name": "Sarcophilus harrisii",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Dasyuromorphia",
+      "zh": "袋鼬目"
+    },
+    "family": {
+      "en": "Dasyuridae",
+      "zh": "袋鼬科"
+    },
+    "genus": {
+      "en": "Sarcophilus",
+      "zh": "袋獾属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The Tasmanian devil is the world's largest carnivorous marsupial. Famous for its bone-crushing bite and blood-curdling screeches, it now survives only on the island state of Tasmania as a vital ecosystem scavenger.",
+    "zh": "袋獾（Tasmanian Devil）是世界上最大的肉食性有袋动物。它们如今仅存活于塔斯马尼亚岛，以惊人的咬合力和令人毛骨悚然的凄厉尖叫而闻名，是生态系统中不可或缺的“清道夫”。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Tasmanian devils have a stocky, dog-like build, coarse black fur, and often distinct white patches on the chest or rump. Their disproportionately large head and incredibly powerful jaws allow them to crush and consume the bones, fur, and meat of their prey.",
+      "zh": "袋獾体型粗壮如小狗，全身披着粗糙的黑毛，胸部或臀部常有白斑。它们的头部比例巨大，下颌的力量极大，甚至能轻松咬碎骨头连皮带肉一起吞下。"
+    },
+    "ecology_and_behavior": {
+      "en": "Principally nocturnal scavengers, they feed on carrion like Nature's vacuum cleaners. They are notorious for their aggressive communal feeding frenzies accompanied by loud, rowdy vocalizations. Tragically, a contagious facial tumor disease has severely threatened their population.",
+      "zh": "它们昼伏夜出，绝大多数时间以腐肉为食，像大自然的“吸尘器”一样清理环境。在争夺食物时，它们会爆发极为激烈的冲突和撕咬咆哮。不幸的是，一种致命的“袋獾面部肿瘤”传染病正严重威胁着它们的生存。"
+    },
+    "habitat_and_distribution": {
+      "en": "Historically widespread across mainland Australia, they are now restricted exclusively to Tasmania. They are highly adaptable, inhabiting a variety of environments from coastal scrublands and dry sclerophyll forests to agricultural areas and suburban fringes.",
+      "zh": "袋獾曾广泛分布于澳大利亚大陆，但如今仅栖息在塔斯马尼亚岛。它们适应性极强，从海岸石楠灌丛、干燥的硬叶林，直至农业区和市郊边缘都能发现它们的身影。"
+    }
+  },
+  "habitat": {
+    "text_en": "Forests, Scrublands, and Coastlines of Tasmania",
+    "text_zh": "塔斯马尼亚的森林、灌木林与海岸",
+    "map_coordinates": [
+      -42,
+      146.5
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [[-40.7, 144.6], [-40.8, 148.3], [-43.5, 148], [-43.6, 146.5], [-42.8, 144.5], [-40.7, 144.6]]
+    ]
+  },
+  "image": "/images/animals/tasmanian-devil.jpg"
+}

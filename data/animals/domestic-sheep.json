@@ -1,0 +1,190 @@
+{
+  "id": "domestic-sheep",
+  "name_zh": "绵羊",
+  "name_en": "Domestic Sheep",
+  "scientific_name": "Ovis aries",
+  "ui_tags": [
+    "Mammal",
+    "Farm",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Bovidae",
+      "zh": "牛科"
+    },
+    "genus": {
+      "en": "Ovis",
+      "zh": "羊属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "Iconic flocking herbivores equipped with dense woolly fleeces and remarkable rectangular pupils that act as a superior early warning system.",
+    "zh": "极具标志性的群居型食草动物，它们不仅披着极其浓密的羊毛外套，还长有奇特的横向长方形瞳孔，这简直就是一个超级早期预警系统。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "They possess bizarre horizontal, rectangular-shaped pupils! This brilliant evolutionary trait grants them a panoramic 320-degree field of vision, allowing them to spot stalking predators almost directly behind them without even turning their heads.",
+      "zh": "它们居然长着奇异的横向、呈现长方形的瞳孔！由于这种极其精妙的进化特征，它们获得了高达320度的无死角全景视野空间，这使得它们甚至不用回头，就能直接察觉到正悄悄从它们正后方逼近的捕食者。"
+    },
+    "ecology_and_behavior": {
+      "en": "Sheep possess an exceptionally strong flocking instinct; feeling isolated causes them extreme stress. They are also incredibly smart when it comes to faces, capable of remembering at least 50 distinct individual faces—both human and sheep—for years!",
+      "zh": "绵羊拥有异常强烈的群居本能；一旦感到被孤立脱队，就会给它们造成极端的心理压力。在认脸方面它们也聪明得出奇，竟能长久记住至少五十张完全不同个体的特殊面庞，而且这不光是羊脸，甚至还包括人脸！"
+    },
+    "habitat_and_distribution": {
+      "en": "Descended from the wild mouflon of Mesopotamia, they are now ubiquitous worldwide across meadows, hillsides, and grassy plains, tolerating a wide range of climates.",
+      "zh": "作为远古美索不达米亚野生摩弗伦羊的直系后代，如今它们的踪影可以说是遍布全球草甸、山坡和广阔的草原地带，并且对各种气候都有着极强的包容忍耐力。"
+    }
+  },
+  "habitat": {
+    "text_en": "Hillsides and Pastures",
+    "text_zh": "丘陵与广袤牧场",
+    "map_coordinates": [
+      -40,
+      170
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          55,
+          -125
+        ],
+        [
+          55,
+          -65
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          25,
+          -115
+        ],
+        [
+          55,
+          -125
+        ]
+      ],
+      [
+        [
+          -5,
+          -65
+        ],
+        [
+          10,
+          -45
+        ],
+        [
+          -55,
+          -45
+        ],
+        [
+          -55,
+          -65
+        ],
+        [
+          -5,
+          -65
+        ]
+      ],
+      [
+        [
+          60,
+          -5
+        ],
+        [
+          60,
+          45
+        ],
+        [
+          50,
+          135
+        ],
+        [
+          25,
+          115
+        ],
+        [
+          -30,
+          30
+        ],
+        [
+          15,
+          -15
+        ],
+        [
+          60,
+          -5
+        ]
+      ],
+      [
+        [
+          -10,
+          115
+        ],
+        [
+          -10,
+          150
+        ],
+        [
+          -40,
+          150
+        ],
+        [
+          -40,
+          115
+        ],
+        [
+          -10,
+          115
+        ]
+      ],
+      [
+        [
+          -35,
+          165
+        ],
+        [
+          -35,
+          180
+        ],
+        [
+          -45,
+          180
+        ],
+        [
+          -45,
+          165
+        ],
+        [
+          -35,
+          165
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/domestic-sheep.jpg"
+}
