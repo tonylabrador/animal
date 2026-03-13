@@ -1,0 +1,94 @@
+{
+  "id": "kit-fox",
+  "name_zh": "敏狐",
+  "name_en": "Kit Fox",
+  "scientific_name": "Vulpes macrotis",
+  "ui_tags": [
+    "Mammal",
+    "Desert",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Canidae",
+      "zh": "犬科"
+    },
+    "genus": {
+      "en": "Vulpes",
+      "zh": "狐属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "North America's smallest canid, a silent shadow of the southwestern deserts known for its incredible speed and large, sensitive ears.",
+    "zh": "北美最小的犬科动物，西南部沙漠中的寂静之影，以其惊人的速度和巨大敏锐的耳朵而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Kit Fox is petite, with a body length of 45-53 cm and weighing between 1.6 and 2.7 kg. Its ears are significantly larger in proportion to its head than other North American foxes, serving as both heat radiators and acoustic amplifiers. Its fur is primarily yellowish-gray or 'grizzled', with a black-tipped, bushy tail. The fur between its toes acts as insulation against extreme temperatures.",
+      "zh": "敏狐体型娇小，身长45-53厘米，体重在1.6至2.7公斤之间。与北美其他狐狸相比，其耳朵占头部的比例明显更大，既是散热器又是声学放大器。其皮毛主要呈黄灰色或「花斑色」，尾巴蓬松且尖端呈黑色。趾间的绒毛起到隔绝极端温度的作用。"
+    },
+    "ecology_and_behavior": {
+      "en": "Kit foxes are highly adapted to arid life, often obtaining all necessary hydration from their prey. They are primarily nocturnal, hunting kangaroo rats, jackrabbits, and insects. They are remarkably fast, capable of sprinting up to 40 km/h. They rely on complex burrow systems with multiple entrances, which they use for shelter, breeding, and food storage.",
+      "zh": "敏狐高度适应干旱生活，通常能从猎物中获取所有必要的水分。它们主要在夜间活动，捕食更格卢鼠、野兔和昆虫。它们的速度非常快，冲刺时速可达40公里。它们依靠具有多个入口的复杂洞穴系统，用于庇护、繁殖和食物储存。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are native to the arid and semi-arid regions of southwestern North America, including the Mojave, Sonoran, and Chihuahuan deserts, and the San Joaquin Valley. They prefer open scrublands and prairies with loose, sandy soils suitable for digging. Habitat fragmentation due to solar energy development and urban sprawl is a significant localized threat.",
+      "zh": "它们原生于北美西南部的干旱和半干旱地区，包括莫哈韦沙漠、索诺兰沙漠、奇瓦瓦沙漠以及圣华金河谷。它们偏好开阔的灌木丛和拥有疏松沙质土壤、便于挖掘的草原。由于太阳能开发和城市扩张导致的栖息地碎片化是其面临的重要局部威胁。"
+    }
+  },
+  "habitat": {
+    "text_en": "Open Arid Scrubland and Desert",
+    "text_zh": "开阔的干旱灌木丛与沙漠",
+    "map_coordinates": [
+      35,
+      -115
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          43,
+          -122
+        ],
+        [
+          43,
+          -100
+        ],
+        [
+          23,
+          -100
+        ],
+        [
+          23,
+          -122
+        ],
+        [
+          43,
+          -122
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/kit-fox.jpg"
+}

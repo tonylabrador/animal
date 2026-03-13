@@ -1,0 +1,138 @@
+{
+  "id": "australian-box-jellyfish",
+  "name_zh": "澳大利亚箱水母",
+  "name_en": "Australian box jellyfish",
+  "scientific_name": "Chironex fleckeri",
+  "ui_tags": [
+    "Cnidarian",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Cnidaria",
+      "zh": "刺胞动物门"
+    },
+    "class": {
+      "en": "Cubozoa",
+      "zh": "立方水母纲"
+    },
+    "order": {
+      "en": "Chirodropida",
+      "zh": "手叉水母目"
+    },
+    "family": {
+      "en": "Chirodropidae",
+      "zh": "手叉水母科"
+    },
+    "genus": {
+      "en": "Chironex",
+      "zh": "手叉水母属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "Widely considered the most venomous marine animal in the world, capable of causing cardiac arrest in minutes.",
+    "zh": "被广泛认为是世界上毒性最强的海洋生物，能在几分钟内导致心跳骤停。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Australian box jellyfish has a pale blue, transparent bell that can reach the size of a basketball. From each of its four corners, up to 15 long tentacles extend, reaching up to 3 meters in length. These tentacles are lined with millions of nematocysts that deliver a lethal neurotoxic and cardiotoxic venom. It possesses 24 eyes, some of which feature advanced optics like lenses and corneas.",
+      "zh": "澳大利亚箱水母拥有淡蓝色的透明伞盖，体型可达篮球大小。从伞盖的四个角各伸出多达15条长触手，长度可达3米。这些触手排布着数百万个刺丝囊，能释放致命的神经毒素和心脏毒素。它拥有24只眼睛，其中部分眼睛具有晶状体和角膜等高级光学结构。"
+    },
+    "ecology_and_behavior": {
+      "en": "Unlike most jellyfish, they are active, maneuverable swimmers that can reach speeds of up to 4 knots. They are visual predators, primarily hunting small fish and prawns in shallow coastal waters. During heavy rain or storms, they often move into deeper, calmer water to avoid damage from turbulence.",
+      "zh": "不同于大多数水母，它们是积极且灵活的游泳者，航速可达4节。它们是视觉掠食者，主要在浅海沿岸捕食小鱼和虾。在大雨或暴风雨期间，它们常会游入更深、更平静的水域，以避免被波浪湍流伤害。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are primarily found in the tropical coastal waters of northern Australia and throughout the Indo-Pacific region, including parts of Vietnam and the Philippines. They prefer shallow, clear water near sandy beaches and mangrove systems.",
+      "zh": "主要发现于澳大利亚北部的热带沿海水域以及整个印度-太平洋地区，包括越南和菲律宾的部分地区。它们偏好沙滩和红树林系统附近的浅而清澈的水域。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical Coastal Waters and Estuaries",
+    "text_zh": "热带沿海水域与河口",
+    "map_coordinates": [
+      -15,
+      135
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -10,
+          120
+        ],
+        [
+          -10,
+          150
+        ],
+        [
+          -25,
+          155
+        ],
+        [
+          -25,
+          115
+        ],
+        [
+          -10,
+          120
+        ]
+      ],
+      [
+        [
+          20,
+          105
+        ],
+        [
+          20,
+          110
+        ],
+        [
+          10,
+          110
+        ],
+        [
+          10,
+          105
+        ],
+        [
+          20,
+          105
+        ]
+      ],
+      [
+        [
+          15,
+          120
+        ],
+        [
+          15,
+          125
+        ],
+        [
+          5,
+          125
+        ],
+        [
+          5,
+          120
+        ],
+        [
+          15,
+          120
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/australian-box-jellyfish.jpg"
+}

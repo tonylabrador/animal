@@ -1,0 +1,148 @@
+{
+  "id": "lions-mane-jellyfish",
+  "name_zh": "狮鬃水母",
+  "name_en": "Lion's Mane Jellyfish",
+  "scientific_name": "Cyanea capillata",
+  "ui_tags": [
+    "Cnidarian",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Cnidaria",
+      "zh": "刺胞动物门"
+    },
+    "class": {
+      "en": "Scyphozoa",
+      "zh": "钵水母纲"
+    },
+    "order": {
+      "en": "Semaeostomeae",
+      "zh": "旗口水母目"
+    },
+    "family": {
+      "en": "Cyaneidae",
+      "zh": "羊须水母科"
+    },
+    "genus": {
+      "en": "Cyanea",
+      "zh": "羊须水母属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "The largest known species of jellyfish, with tentacles that can exceed the length of a blue whale.",
+    "zh": "已知体型最大的水母，其触手长度甚至可以超过蓝鲸。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The bell of the Lion's Mane Jellyfish is divided into eight lobes, resembling an eight-pointed star. It can grow up to 2 meters in diameter, but its most staggering feature is its 1,200+ tentacles, arranged in eight clusters, which can trail as far as 37 meters behind its body. The coloration changes with age: small individuals are tan or orange, while larger ones are deep crimson or purple.",
+      "zh": "狮鬃水母的水母体分为八个裂片，外形酷似八角星。其伞盖直径可达2米，但最令人惊叹的是其1200多条触手，分八组排列，长度可达37米。其体色随年龄变化：幼体呈褐色或橙色，而巨大的成年体则呈现深红色或紫色。"
+    },
+    "ecology_and_behavior": {
+      "en": "These giants are pelagic hunters, using their sticky, venom-laden tentacles to snare fish and smaller jellyfish. They prefer cold, boreal waters and are often seen drifting in high-latitude currents. Despite their size, they are a primary food source for leatherback sea turtles and certain larger fish species.",
+      "zh": "这些巨兽是远洋捕食者，利用带有粘性、布满毒素的触手诱捕鱼类和其他小型水母。它们偏好寒冷的高纬度海域，常随寒流漂流。尽管体型庞大，它们却是棱皮龟和某些大型鱼类的主要食物来源。"
+    },
+    "habitat_and_distribution": {
+      "en": "Lion's Mane Jellyfish are strictly confined to the cold, northern waters of the Arctic, northern Atlantic, and northern Pacific Oceans. They are commonly found in the English Channel, North Sea, and along the coastline of Scandinavia and Canada. They rarely venture into warmer southern waters.",
+      "zh": "狮鬃水母严格局限于北冰洋、北大西洋和北太平洋的寒冷水域。常见于英吉利海峡、北海以及斯堪的纳维亚和加拿大沿岸。它们极少进入温暖的南方海域。"
+    }
+  },
+  "habitat": {
+    "text_en": "Cold Boreal and Arctic Waters",
+    "text_zh": "寒冷的北方及北冰洋海域",
+    "map_coordinates": [
+      60,
+      -30
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          45,
+          -130
+        ],
+        [
+          55,
+          -150
+        ],
+        [
+          65,
+          -170
+        ],
+        [
+          75,
+          180
+        ],
+        [
+          85,
+          150
+        ],
+        [
+          85,
+          60
+        ],
+        [
+          80,
+          -10
+        ],
+        [
+          70,
+          -40
+        ],
+        [
+          55,
+          -60
+        ],
+        [
+          45,
+          -130
+        ]
+      ],
+      [
+        [
+          40,
+          -70
+        ],
+        [
+          50,
+          -50
+        ],
+        [
+          60,
+          -20
+        ],
+        [
+          70,
+          10
+        ],
+        [
+          60,
+          30
+        ],
+        [
+          50,
+          10
+        ],
+        [
+          40,
+          -10
+        ],
+        [
+          40,
+          -70
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/lions-mane-jellyfish.jpg"
+}

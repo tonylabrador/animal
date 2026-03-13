@@ -1,0 +1,138 @@
+{
+  "id": "rueppells-fox",
+  "name_zh": "吕氏狐",
+  "name_en": "Rüppell's Fox",
+  "scientific_name": "Vulpes rueppellii",
+  "ui_tags": [
+    "Mammal",
+    "Desert",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Canidae",
+      "zh": "犬科"
+    },
+    "genus": {
+      "en": "Vulpes",
+      "zh": "狐属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A small desert fox with oversized ears, perfectly adapted to the harsh, arid environments of North Africa and the Middle East.",
+    "zh": "一种长着夸张大耳朵的小型沙漠狐狸，完美适应北非和中东极其干旱恶劣的环境。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Rüppell's Fox is a small canid, weighing only 1.5 to 3 kg. Its most striking features are its exceptionally large ears, which help dissipate heat, and its thick, sandy-colored fur that provides camouflage and insulation. The soles of its feet are covered in dense fur to protect them from the scorching desert sand, and its tail is long and bushy with a prominent white tip.",
+      "zh": "吕氏狐是一种小型犬科动物，体重仅1.5至3公斤。其最显著的特征是异常巨大的耳朵，有助于散热，以及沙褐色的厚实皮毛，既能伪装又能隔热。它的脚底覆盖着浓密的毛，以保护其免受灼热沙漠沙地的伤害，尾巴长而蓬松，尖端有明显的白色。"
+    },
+    "ecology_and_behavior": {
+      "en": "These foxes are primarily nocturnal to avoid daytime heat. They are opportunistic omnivores, feeding on insects, small mammals, reptiles, and occasionally fruit or tubers. They are known for their monogamous behavior and live in small family groups. A unique defense mechanism is their ability to change dens frequently to avoid predators and parasite buildup.",
+      "zh": "这些狐狸主要在夜间活动以避开白天的酷热。它们是机会主义杂食动物，以昆虫、小型哺乳动物、爬行动物以及偶尔的水果或块茎为食。它们以一夫一妻制的行为著称，生活在小型家庭群体中。一种独特的防御机制是它们会频繁更换洞穴，以躲避掠食者和寄生虫的聚集。"
+    },
+    "habitat_and_distribution": {
+      "en": "They inhabit stony and sandy deserts, as well as semi-arid scrublands. Their distribution range is vast, stretching from Morocco across North Africa to the Arabian Peninsula and into parts of Iran and Pakistan. They prefer areas with sparse vegetation where they can easily spot potential threats.",
+      "zh": "它们栖息在石漠、沙漠以及半干旱的灌木丛中。分布范围极广，从摩洛哥横跨北非一直到阿拉伯半岛，并延伸至伊朗和巴基斯坦的部分地区。它们偏好植被稀疏的地区，以便轻松察觉潜在的威胁。"
+    }
+  },
+  "habitat": {
+    "text_en": "Arid Deserts and Semiarid Scrubland",
+    "text_zh": "干旱沙漠与半干旱灌木丛",
+    "map_coordinates": [
+      25,
+      30
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          35,
+          -10
+        ],
+        [
+          35,
+          15
+        ],
+        [
+          15,
+          15
+        ],
+        [
+          15,
+          -10
+        ],
+        [
+          35,
+          -10
+        ]
+      ],
+      [
+        [
+          32,
+          35
+        ],
+        [
+          32,
+          60
+        ],
+        [
+          15,
+          60
+        ],
+        [
+          15,
+          35
+        ],
+        [
+          32,
+          35
+        ]
+      ],
+      [
+        [
+          35,
+          60
+        ],
+        [
+          35,
+          75
+        ],
+        [
+          25,
+          75
+        ],
+        [
+          25,
+          60
+        ],
+        [
+          35,
+          60
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/rueppells-fox.jpg"
+}

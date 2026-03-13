@@ -1,0 +1,106 @@
+{
+  "id": "large-flying-fox",
+  "name_zh": "食猴蝙蝠",
+  "name_en": "Large Flying Fox",
+  "scientific_name": "Pteropus vampyrus",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Chiroptera",
+      "zh": "翼手目"
+    },
+    "family": {
+      "en": "Pteropodidae",
+      "zh": "狐蝠科"
+    },
+    "genus": {
+      "en": "Pteropus",
+      "zh": "狐蝠属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "One of the world's largest bats, with a wingspan that can reach up to 1.5 meters.",
+    "zh": "世界上体型最大的蝙蝠之一，翼展可达1.5米。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Large Flying Fox is named for its dog-like or fox-like facial features, characterized by long muzzles and large eyes. Despite its scientific name 'vampyrus', it does not drink blood. It has no tail and uses its massive wings, made of thin skin stretched over elongated finger bones, to fly. Their fur is typically dark brown or black, often with a prominent orange or yellow 'mantle' around the neck.",
+      "zh": "食猴蝙蝠（大狐蝠）因其长鼻和大眼睛等酷似狗或狐狸的面部特征而得名。尽管种名意为「吸血鬼」，但它并不饮血。它没有尾巴，利用由细长指骨支撑的薄皮膜组成的巨大双翼飞行。它们的毛发通常为深褐色或黑色，颈部常有一圈显著的橙色或黄色「披肩」。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are nocturnal herbivores, feeding primarily on nectar, flowers, and fruits like durian and rambutan. They live in massive colonies, sometimes numbering in the thousands, which roost in tall trees during the day. They rely on their keen sense of smell and eyesight to find food, as they do not use echolocation like smaller insectivorous bats.",
+      "zh": "它们是夜行性食草动物，主要以花蜜、花朵以及榴莲、红毛丹等水果为食。它们群居生活，群体规模有时可达数千只，白天在树尖栖息。它们依靠敏锐的嗅觉和视觉寻找食物，不像小型食虫蝙蝠那样使用回声定位。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are native to the tropical forests and mangrove swamps of Southeast Asia, including Malaysia, Indonesia, the Philippines, and parts of Thailand and Vietnam. They play a vital role in their ecosystem as pollinators and seed dispersers, particularly for tropical fruit trees.",
+      "zh": "它们原生于东南亚的热带森林和红树林沼泽，分布范围包括马来西亚、印度尼西亚、菲律宾以及泰国和越南的部分地区。它们作为授粉者和种子传播者在生态系统中发挥着至关重要的作用，特别是对热带果树而言。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical Forests and Mangroves",
+    "text_zh": "热带森林与红树林",
+    "map_coordinates": [
+      0,
+      110
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          95
+        ],
+        [
+          20,
+          105
+        ],
+        [
+          15,
+          125
+        ],
+        [
+          0,
+          130
+        ],
+        [
+          -10,
+          125
+        ],
+        [
+          -10,
+          100
+        ],
+        [
+          0,
+          95
+        ],
+        [
+          15,
+          95
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/large-flying-fox.jpg"
+}

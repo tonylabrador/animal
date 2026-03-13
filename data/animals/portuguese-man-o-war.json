@@ -1,0 +1,94 @@
+{
+  "id": "portuguese-man-o-war",
+  "name_zh": "僧帽水母",
+  "name_en": "Portuguese man o' war",
+  "scientific_name": "Physalia physalis",
+  "ui_tags": [
+    "Cnidarian",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Cnidaria",
+      "zh": "刺胞动物门"
+    },
+    "class": {
+      "en": "Hydrozoa",
+      "zh": "水螅纲"
+    },
+    "order": {
+      "en": "Siphonophorae",
+      "zh": "管水母目"
+    },
+    "family": {
+      "en": "Physaliidae",
+      "zh": "僧帽水母科"
+    },
+    "genus": {
+      "en": "Physalia",
+      "zh": "僧帽水母属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "Not a single organism, but a colonial siphonophore made of specialized polyps working in perfect harmony.",
+    "zh": "并非单一生物，而是由专门的分工分部组成的管水母群落，各种个员完美协作。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Portuguese man o' war is a siphonophore, a colonial organism composed of four types of polyps (zooids). The most prominent part is the gas-filled bladder (pneumatophore), which acts as a sail and can be blue, violet, or pink. Below the sail, its venomous tentacles can reach lengths of up to 30 meters, capable of delivering agonizing stings even after the colony has died.",
+      "zh": "僧帽水母是一种管水母，是由四种不同功能的个员组成的群落。最显著的部分是充满气体的气囊（气腔），它充当船帆，呈现蓝色、紫色或粉红色。在“帆”下方，布满毒素的触手可达30米长，即使群落死亡，其毒性依然能引起剧烈疼痛。"
+    },
+    "ecology_and_behavior": {
+      "en": "Lacking any means of self-propulsion, they drift entirely at the mercy of winds and currents. They function as a single unit: one polyp captures prey, another digests it, and another handles reproduction. They are preyed upon by specialized predators like the blue dragon nudibranch and the loggerhead sea turtle, which are immune to their venom.",
+      "zh": "它们没有自主推进能力，完全随风和水流漂移。它们通过协作整体运作：捕食个员猎取食物，扩充个员负责消化，繁殖个员处理后代。尽管剧毒，它们仍被大西洋海神海蛞蝓和赤蠵龟等专门捕食，这些生物对它们的毒素免疫。"
+    },
+    "habitat_and_distribution": {
+      "en": "Found in all tropical and subtropical oceans of the world, they are most common in the Sargasso Sea and the Gulf Stream. Due to their sail-like structure, they are often blown in massive groups (called 'armadas') onto beaches in Australia, South Africa, and the southeastern United States during strong onshore winds.",
+      "zh": "广泛存在于全球各大热带和亚热带海洋，在马尾藻海和墨西哥湾流中最为常见。由于其帆状结构，在强劲的向岸风作用下，它们常以巨大的群体（被称为「舰队」）的形式被吹到澳大利亚、南非和美国东南部的海滩上。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical and Subtropical Open Oceans",
+    "text_zh": "热带及亚热带远洋海域",
+    "map_coordinates": [
+      0,
+      0
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          -40,
+          -180
+        ],
+        [
+          40,
+          -180
+        ],
+        [
+          40,
+          180
+        ],
+        [
+          -40,
+          180
+        ],
+        [
+          -40,
+          -180
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/portuguese-man-o-war.jpg"
+}

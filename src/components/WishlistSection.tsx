@@ -2,6 +2,7 @@
 
 import { useState, useCallback } from "react";
 import { Sparkles, Eye, EyeOff, Send, Loader2, CheckCircle2, AlertCircle, ChevronDown, ChevronUp } from "lucide-react";
+import Link from "next/link";
 
 type Lang = "en" | "zh";
 
@@ -29,6 +30,9 @@ export default function WishlistSection({ lang, compact = false }: WishlistSecti
   const [showList, setShowList] = useState(false);
   const [entries, setEntries] = useState<WishlistEntry[]>([]);
   const [loadingList, setLoadingList] = useState(false);
+  const [showRecentlyAdded, setShowRecentlyAdded] = useState(false);
+  const [recentlyAddedEntries, setRecentlyAddedEntries] = useState<{zh: string; en: string; scientific: string; id: string}[]>([]);
+  const [loadingRecentlyAdded, setLoadingRecentlyAdded] = useState(false);
 
   // ── Submit handler ──────────────────────────────────────────────────────────
   const handleSubmit = useCallback(async () => {
@@ -73,6 +77,26 @@ export default function WishlistSection({ lang, compact = false }: WishlistSecti
   const toggleList = () => {
     if (!showList) fetchList();
     setShowList((v) => !v);
+    if (showRecentlyAdded) setShowRecentlyAdded(false);
+  };
+
+  const fetchRecentlyAdded = useCallback(async () => {
+    setLoadingRecentlyAdded(true);
+    try {
+      const res = await fetch("/api/recently-added");
+      const data = await res.json();
+      setRecentlyAddedEntries(data);
+    } catch {
+      setRecentlyAddedEntries([]);
+    } finally {
+      setLoadingRecentlyAdded(false);
+    }
+  }, []);
+
+  const toggleRecentlyAdded = () => {
+    if (!showRecentlyAdded) fetchRecentlyAdded();
+    setShowRecentlyAdded((v) => !v);
+    if (showList) setShowList(false);
   };
 
   const resetState = () => {
@@ -167,12 +191,12 @@ export default function WishlistSection({ lang, compact = false }: WishlistSecti
           </div>
         )}
 
-        {/* ── View wishlist button ───────────────────────────────────────────── */}
-        <div className="mt-6 flex">
+        {/* ── View buttons ───────────────────────────────────────────── */}
+        <div className="mt-6 flex flex-wrap gap-4">
           <button
             id="wishlist-view-btn"
             onClick={toggleList}
-            className="flex items-center gap-2 text-indigo-200 hover:text-white text-sm font-semibold transition-colors duration-200 group"
+            className={`flex items-center gap-2 text-sm font-semibold transition-colors duration-200 group ${showList ? 'text-white' : 'text-indigo-200 hover:text-white'}`}
           >
             {showList ? (
               <EyeOff size={16} strokeWidth={2} />
@@ -185,6 +209,28 @@ export default function WishlistSection({ lang, compact = false }: WishlistSecti
                 : lang === "en" ? "View current wishlist" : "查看现有许愿池"}
             </span>
             {showList ? (
+              <ChevronUp size={14} className="transition-transform group-hover:-translate-y-0.5" />
+            ) : (
+              <ChevronDown size={14} className="transition-transform group-hover:translate-y-0.5" />
+            )}
+          </button>
+
+          <button
+            id="recently-added-view-btn"
+            onClick={toggleRecentlyAdded}
+            className={`flex items-center gap-2 text-sm font-semibold transition-colors duration-200 group ${showRecentlyAdded ? 'text-green-300' : 'text-indigo-200 hover:text-green-300'}`}
+          >
+            {showRecentlyAdded ? (
+              <EyeOff size={16} strokeWidth={2} />
+            ) : (
+              <CheckCircle2 size={16} strokeWidth={2} />
+            )}
+            <span>
+              {showRecentlyAdded
+                ? lang === "en" ? "Hide recently added" : "收起最近完成"
+                : lang === "en" ? "View recently added" : "查看最近完成"}
+            </span>
+            {showRecentlyAdded ? (
               <ChevronUp size={14} className="transition-transform group-hover:-translate-y-0.5" />
             ) : (
               <ChevronDown size={14} className="transition-transform group-hover:translate-y-0.5" />
@@ -221,6 +267,47 @@ export default function WishlistSection({ lang, compact = false }: WishlistSecti
                     <span className="text-indigo-100">{e.en}</span>
                     <span className="text-indigo-300 italic text-xs self-center">{e.scientific}</span>
                   </div>
+                ))}
+              </div>
+            )}
+          </div>
+        )}
+
+        {/* ── Recently Added list ───────────────────────────────────────────── */}
+        {showRecentlyAdded && (
+          <div className="mt-4 rounded-2xl bg-white/10 backdrop-blur-sm border border-white/20 overflow-hidden animate-fadeIn shadow-inner">
+            {loadingRecentlyAdded ? (
+              <div className="flex items-center justify-center py-8 gap-2 text-indigo-200">
+                <Loader2 size={18} className="animate-spin" />
+                <span className="text-sm">{lang === "en" ? "Loading…" : "加载中…"}</span>
+              </div>
+            ) : recentlyAddedEntries.length === 0 ? (
+              <div className="text-center py-8 text-indigo-300 text-sm">
+                {lang === "en" ? "No animals added recently." : "最近没有添加新的动物。"}
+              </div>
+            ) : (
+              <div className="divide-y divide-white/10">
+                {/* Header row */}
+                <div className="grid grid-cols-3 px-4 py-2 text-green-200 text-xs font-semibold uppercase tracking-wider bg-green-900/20">
+                  <span>{lang === "en" ? "Chinese" : "中文名"}</span>
+                  <span>{lang === "en" ? "English" : "英文名"}</span>
+                  <span>{lang === "en" ? "Scientific" : "学名"}</span>
+                </div>
+                {recentlyAddedEntries.map((e, i) => (
+                  <Link
+                    href={`/animal/${e.id}`}
+                    key={i}
+                    className="grid grid-cols-3 px-4 py-3 text-sm hover:bg-white/20 transition-colors cursor-pointer group"
+                  >
+                    <span className="text-white font-semibold group-hover:text-green-300 transition-colors flex items-center gap-1">
+                      {e.zh}
+                    </span>
+                    <span className="text-indigo-100">{e.en}</span>
+                    <span className="text-indigo-300 italic text-xs self-center flex items-center justify-between">
+                      {e.scientific}
+                      <span className="text-white opacity-0 group-hover:opacity-100 transition-opacity">→</span>
+                    </span>
+                  </Link>
                 ))}
               </div>
             )}

@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **220** 种动物
+**统计**：共 **229** 种动物
 
 ---
 
@@ -184,6 +184,10 @@
 
 - 川金丝猴 / Golden Snub-nosed Monkey — *Rhinopithecus roxellana* `golden-snub-nosed-monkey`
 
+**蜘蛛猴科**
+
+- 黑头蜘蛛猴 / Black-headed Spider Monkey — *Ateles chamek* `black-headed-spider-monkey`
+
 ### 皮翼目
 
 **鼯猴科**
@@ -195,6 +199,10 @@
 **叶口蝠科**
 
 - 吸血蝠 / Common Vampire Bat — *Desmodus rotundus* `common-vampire-bat`
+
+**狐蝠科**
+
+- 食猴蝙蝠 / Large Flying Fox — *Pteropus vampyrus* `large-flying-fox`
 
 ### 袋鼬目
 
@@ -255,9 +263,11 @@
 - 亚洲胡狼 / Golden Jackal — *Canis aureus* `golden-jackal`
 - 灰狼 / Gray Wolf — *Canis lupus* `gray-wolf`
 - 灰狐 / Grey Fox — *Urocyon cinereoargenteus* `grey-fox`
+- 敏狐 / Kit Fox — *Vulpes macrotis* `kit-fox`
 - 鬃狼 / Maned Wolf — *Chrysocyon brachyurus* `maned-wolf`
 - 貉 / Raccoon Dog — *Nyctereutes procyonoides* `raccoon-dog`
 - 赤狐 / Red Fox — *Vulpes vulpes* `red-fox`
+- 吕氏狐 / Rüppell's Fox — *Vulpes rueppellii* `rueppells-fox`
 
 **猫科**
 
@@ -660,6 +670,12 @@
 
 ## 水螅纲
 
+### 管水母目
+
+**僧帽水母科**
+
+- 僧帽水母 / Portuguese man o' war — *Physalia physalis* `portuguese-man-o-war`
+
 ### 花水母目
 
 **大洋水母科**
@@ -720,6 +736,26 @@
 **鲻科**
 
 - 鲻鱼 / Flathead Grey Mullet — *Mugil cephalus* `flathead-grey-mullet`
+
+---
+
+## 立方水母纲
+
+### 加勒比水母目
+
+**三足水母科**
+
+- 红树林箱水母 / Mangrove box jellyfish — *Tripedalia cystophora* `mangrove-box-jellyfish`
+
+### 手叉水母目
+
+**单手水母科**
+
+- 国王箱水母 / King's box jellyfish — *Malo kingi* `kings-box-jellyfish`
+
+**手叉水母科**
+
+- 澳大利亚箱水母 / Australian box jellyfish — *Chironex fleckeri* `australian-box-jellyfish`
 
 ---
 
@@ -815,6 +851,16 @@
 **鼠鲨科**
 
 - 大白鲨 / Great White Shark — *Carcharodon carcharias* `great-white-shark`
+
+---
+
+## 钵水母纲
+
+### 旗口水母目
+
+**羊须水母科**
+
+- 狮鬃水母 / Lion's Mane Jellyfish — *Cyanea capillata* `lions-mane-jellyfish`
 
 ---
 

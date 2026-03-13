@@ -1,0 +1,138 @@
+{
+  "id": "black-headed-spider-monkey",
+  "name_zh": "黑头蜘蛛猴",
+  "name_en": "Black-headed Spider Monkey",
+  "scientific_name": "Ateles chamek",
+  "ui_tags": [
+    "Mammal",
+    "Rainforest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Primates",
+      "zh": "灵长目"
+    },
+    "family": {
+      "en": "Atelidae",
+      "zh": "蜘蛛猴科"
+    },
+    "genus": {
+      "en": "Ateles",
+      "zh": "蜘蛛猴属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The Amazon's acrobatic masters, utilizing a powerful prehensile tail as a functional fifth limb for high-canopy navigation.",
+    "zh": "亚马逊的杂技宗师，利用强力抓握尾作为「第五肢」在树冠层高效穿梭。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Ateles chamek is noted for its sleek black fur and spindly limbs. An evolutionary hallmark is the loss of the thumb, facilitating rapid brachiation. Their prehensile tail features a friction-enhancing skin pad at the tip, bearing unique patterns similar to human fingerprints.",
+      "zh": "黑头蜘蛛猴以其光滑的黑色毛发和纤细的四肢著称。进化的标志是拇指的退化，这有利于快速的臂行摆荡。它们的抓握尾末端拥有增强摩擦力的皮肤垫，上面带有类似人类指纹的独特纹路。"
+    },
+    "ecology_and_behavior": {
+      "en": "They lead a fission-fusion social life, splitting into small parties to forage for forest fruits. They are essential seed dispersers. Their vocal repertoire ranges from dog-like barks to horse-like neighs, used for complex group coordination across the canopy.",
+      "zh": "它们过着「裂变-融合」的社会生活，常分成小分队寻找森林水果。它们是关键的种子传播者。叫声系统极广，从模拟犬吠到马鸣，用于树冠层复杂的群体协作。"
+    },
+    "habitat_and_distribution": {
+      "en": "Strictly arboreal, they inhabit primary lowland and montane rainforests in the southwestern Amazon, primarily in Bolivia, Brazil, and Peru. They rarely descend to the forest floor, spending life almost entirely in the upper stories of the jungle.",
+      "zh": "严格营树栖生活，栖息于亚马逊西南部的低地和山地原始雨林，主要分布于玻利维亚、巴西和秘鲁。它们极少降至地面，生命几乎全部在丛林的顶层度过。"
+    }
+  },
+  "habitat": {
+    "text_en": "Primary Lowland Rainforest Canopy",
+    "text_zh": "原始低地雨林冠层",
+    "map_coordinates": [
+      -10.5,
+      -65.2
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -7,
+          -74.5
+        ],
+        [
+          -6.1,
+          -73
+        ],
+        [
+          -4.5,
+          -71.5
+        ],
+        [
+          -4,
+          -68.5
+        ],
+        [
+          -5,
+          -64
+        ],
+        [
+          -8.5,
+          -62
+        ],
+        [
+          -11.5,
+          -61.5
+        ],
+        [
+          -14,
+          -62
+        ],
+        [
+          -15.5,
+          -65
+        ],
+        [
+          -17,
+          -67.4
+        ],
+        [
+          -18.5,
+          -69.1
+        ],
+        [
+          -16.5,
+          -71.5
+        ],
+        [
+          -14,
+          -74
+        ],
+        [
+          -11.5,
+          -75.5
+        ],
+        [
+          -9,
+          -76
+        ],
+        [
+          -7,
+          -74.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/black-headed-spider-monkey.jpg"
+}

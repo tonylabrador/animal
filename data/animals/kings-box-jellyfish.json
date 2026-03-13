@@ -1,0 +1,114 @@
+{
+  "id": "kings-box-jellyfish",
+  "name_zh": "国王箱水母",
+  "name_en": "King's box jellyfish",
+  "scientific_name": "Malo kingi",
+  "ui_tags": [
+    "Cnidarian",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Cnidaria",
+      "zh": "刺胞动物门"
+    },
+    "class": {
+      "en": "Cubozoa",
+      "zh": "立方水母纲"
+    },
+    "order": {
+      "en": "Chirodropida",
+      "zh": "手叉水母目"
+    },
+    "family": {
+      "en": "Tamoyidae",
+      "zh": "单手水母科"
+    },
+    "genus": {
+      "en": "Malo",
+      "zh": "玛罗水母属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "A tiny but lethal species named after a victim to highlight the danger of Irukandji syndrome.",
+    "zh": "一种极小但致命的物种，以一名受害者命名，旨在强调伊鲁康吉综合征的危险性。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Malo kingi is a small carybdeid box jellyfish. The bell is only about 25 mm high. It is transparent and notoriously difficult to spot in the water. Its tentacles bear stinging cells (nematocysts) that contain a potent toxin. It is distinguished from other Malo species by its unique arrangement of nematocysts on the bell.",
+      "zh": "国王箱水母是一种小型立方水母。其伞部高度仅约25毫米。它是透明的，在水中极难被肉眼发现。它的触手布满了含有强力毒素的刺丝囊。通过伞盖上独特的刺丝囊排列方式，可以将其与其他玛罗水母属物种区分开来。"
+    },
+    "ecology_and_behavior": {
+      "en": "This species is one of the primary causes of Irukandji syndrome, a condition characterized by severe pain, hypertension, and in some cases, heart failure. They are active during the warmer months. Due to their small size, they can pass through typical stinger nets intended to protect swimmers from larger box jellyfish.",
+      "zh": "该物种是引发伊鲁康吉综合征的主要原因之一，患者会出现剧痛、高血压，严重时会导致心力衰竭。它们在温暖的季节最为活跃。由于体型极小，它们可以穿过原本用于保护游泳者免受大型箱水母侵害的防蛰网。"
+    },
+    "habitat_and_distribution": {
+      "en": "Malo kingi is primarily found in the tropical waters off the coast of Queensland, Australia, particularly around the Whitsunday Islands. They inhabit offshore reef areas but can be drifted toward the coast by tides and currents.",
+      "zh": "国王箱水母主要发现于澳大利亚昆士兰州附近的热带海域，特别是降灵群岛（Whitsunday Islands）周边。它们栖息在离岸礁石区，但常随潮汐和海流漂向海岸。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical Coastal Waters and Reefs",
+    "text_zh": "热带沿海水域与珊瑚礁",
+    "map_coordinates": [
+      -20,
+      149
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [
+        [
+          -10,
+          142
+        ],
+        [
+          -10,
+          145
+        ],
+        [
+          -15,
+          146
+        ],
+        [
+          -20,
+          149.5
+        ],
+        [
+          -25,
+          154
+        ],
+        [
+          -27,
+          154
+        ],
+        [
+          -25,
+          152
+        ],
+        [
+          -20,
+          148
+        ],
+        [
+          -15,
+          145
+        ],
+        [
+          -10,
+          142
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/kings-box-jellyfish.jpg"
+}

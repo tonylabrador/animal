@@ -26,5 +26,6 @@ description: 许愿池动物批量处理与录入 (Workflow C) - 批量处理 AN
     * 暂停任务，将本批次（最多 5 个）的处理结果及任何报警信息通过 `notify_user` 汇报给 Tony。
     * **等待 Tony 确认 (Approve)**。
     * 获得确认后，从 `ANIMAL_WISHLIST.md` 中**删除**这批成功处理完毕的 5 个动物所在行。
+    * 将这批动物追加记录到 `RECENTLY_ADDED.md` 文件的表格末尾，需包含中文名、English Name、Scientific Name 和指向 `/animal/<id>` 的链接 (即：`[Link](https://wild-explorer.vercel.app/animal/<id>)`)。
 7. **批次循环提示**
     * 告诉 Tony 本批次处理已完全结束。并提示：如果许愿池中还有剩余未处理的动物，请再次召唤本工作流 `/process-wishlist` 以处理下方的批次。

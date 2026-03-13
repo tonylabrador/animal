@@ -1,0 +1,172 @@
+{
+  "id": "mangrove-box-jellyfish",
+  "name_zh": "红树林箱水母",
+  "name_en": "Mangrove box jellyfish",
+  "scientific_name": "Tripedalia cystophora",
+  "ui_tags": [
+    "Cnidarian",
+    "Mangrove",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Cnidaria",
+      "zh": "刺胞动物门"
+    },
+    "class": {
+      "en": "Cubozoa",
+      "zh": "立方水母纲"
+    },
+    "order": {
+      "en": "Carybdeida",
+      "zh": "加勒比水母目"
+    },
+    "family": {
+      "en": "Tripedaliidae",
+      "zh": "三足水母科"
+    },
+    "genus": {
+      "en": "Tripedalia",
+      "zh": "三足水母属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "A tiny, sophisticated predator with 24 eyes that navigates complex mangrove root systems using advanced visual processing.",
+    "zh": "一种极小但精密的掠食者，拥有24只眼睛，能利用先进的视觉处理在复杂的红树林根系中导航。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Measuring only 1 cm, this box jellyfish possesses four rhopalia, each containing six eyes, including four simple pits and two lens-bearing camera eyes similar to those of vertebrates. This specialized visual system allows them to see through the water surface and identify the mangrove canopy to maintain position.",
+      "zh": "体长仅约1厘米，这种箱水母拥有四个感觉棒（rhopalia），每个包含六只眼睛，其中包含四个简单的凹眼和两个带有晶状体、类似于脊椎动物的「相机型」眼睛。这种专门的视觉系统允许它们透过水面识别红树林树冠，从而锁定位置。"
+    },
+    "ecology_and_behavior": {
+      "en": "Unlike many drifting jellyfish, they are active swimmers. They perform complex mating rituals where the male transfers sperm packets to the female using its tentacles—a rare behavior among cnidarians. They hunt small crustaceans (copepods) that cluster in light shafts between mangrove roots.",
+      "zh": "不同于许多随波逐流的水母，它们是积极的游泳者。它们展现出复杂的交配行为，雄性通过触手将精包传递给雌性，这在刺胞动物中极为罕见。它们捕猎聚集在红树林根部光轴下的小型甲壳类动物（挠足类）。"
+    },
+    "habitat_and_distribution": {
+      "en": "Strictly limited to tropical mangrove lagoons and shallow coastal swamps. They are primarily found in the Caribbean, particularly around Jamaica and Puerto Rico, and parts of the tropical Indo-Pacific. They depend on the intricate root structures for protection and feeding grounds.",
+      "zh": "严格局限于热带红树林潟湖和浅水沿海沼泽。主要发现于加勒比地区（特别是在牙买加和波多黎各周边）以及热带印度-太平洋的部分地区。它们依靠复杂的根系结构作为避难所和捕食场。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical Mangrove Lagoons",
+    "text_zh": "热带红树林潟湖",
+    "map_coordinates": [
+      18,
+      -77
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          17.8,
+          -77.5
+        ],
+        [
+          18.2,
+          -77.5
+        ],
+        [
+          18.5,
+          -77
+        ],
+        [
+          18.4,
+          -76.5
+        ],
+        [
+          17.9,
+          -76.2
+        ],
+        [
+          17.8,
+          -77.5
+        ]
+      ],
+      [
+        [
+          18,
+          -67.2
+        ],
+        [
+          18.5,
+          -67.2
+        ],
+        [
+          18.5,
+          -65.5
+        ],
+        [
+          18,
+          -65.5
+        ],
+        [
+          18,
+          -67.2
+        ]
+      ],
+      [
+        [
+          15.2,
+          -88.5
+        ],
+        [
+          16.5,
+          -88
+        ],
+        [
+          18,
+          -87.5
+        ],
+        [
+          20.5,
+          -87
+        ],
+        [
+          21.5,
+          -86.5
+        ],
+        [
+          21,
+          -88
+        ],
+        [
+          15.2,
+          -88.5
+        ]
+      ],
+      [
+        [
+          -8.5,
+          115
+        ],
+        [
+          -8,
+          116
+        ],
+        [
+          -8.5,
+          116.5
+        ],
+        [
+          -9,
+          115.5
+        ],
+        [
+          -8.5,
+          115
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/mangrove-box-jellyfish.jpg"
+}
