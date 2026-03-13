@@ -31,3 +31,4 @@
 | 24 | 黄林莺 | Yellow Warbler | Setophaga petechia | ⏳ Pending |
 | 25 | 原麝 | Siberian Musk Deer | Moschus moschiferus | ⏳ Pending |
 | 26 | 歌利亚食鸟蛛 | Goliath birdeater | Theraphosa blondi | ⏳ Pending |
+| 27 | 南方黑寡妇 | Southern Black Widow | Latrodectus mactans | ⏳ Pending |
