@@ -9,3 +9,4 @@
 | 2 | 红树林箱水母 | Mangrove box jellyfish | Tripedalia cystophora | ⏳ Pending |
 | 3 | 狮鬃水母 | Lion's Mane Jellyfish | Cyanea capillata | ⏳ Pending |
 | 4 | 僧帽水母 | Portuguese man o' war | Physalia physalis | ⏳ Pending |
+| 5 | 国王箱水母 | King's box jellyfish | Malo kingi | ⏳ Pending |
