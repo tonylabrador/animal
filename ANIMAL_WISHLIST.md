@@ -9,3 +9,4 @@
 | 2 | 秘书鸟 | Secretary bird | Sagittarius serpentarius | ⏳ Pending |
 | 3 | 大杜鹃 | Common cuckoo | Cuculus canorus | ⏳ Pending |
 | 4 | 北方林鸱 | Northern Potoo | Nyctibius jamaicensis | ⏳ Pending |
+| 5 | 大蓝鹭 | Great blue heron | Ardea herodias | ⏳ Pending |
