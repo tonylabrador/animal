@@ -30,3 +30,4 @@
 | 23 | 加拿大雁 | Canada Goose | Branta canadensis | ⏳ Pending |
 | 24 | 黄林莺 | Yellow Warbler | Setophaga petechia | ⏳ Pending |
 | 25 | 原麝 | Siberian Musk Deer | Moschus moschiferus | ⏳ Pending |
+| 26 | 歌利亚食鸟蛛 | Goliath birdeater | Theraphosa blondi | ⏳ Pending |
