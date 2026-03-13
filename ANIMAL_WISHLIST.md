@@ -7,3 +7,4 @@
 |---|--------|-------------|-----------------|------|
 | 1 | 黑头蜘蛛猴 | Black-headed Spider Monkey | Ateles chamek | ⏳ Pending |
 | 2 | 红树林箱水母 | Mangrove box jellyfish | Tripedalia cystophora | ⏳ Pending |
+| 3 | 狮鬃水母 | Lion's Mane Jellyfish | Cyanea capillata | ⏳ Pending |
