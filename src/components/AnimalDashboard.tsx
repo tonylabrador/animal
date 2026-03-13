@@ -5,6 +5,7 @@ import Link from "next/link";
 import { Globe, Search, X, MapPin, Tag, TreeDeciduous, ChevronRight } from "lucide-react";
 import { useLanguage } from "@/lib/LanguageContext";
 import type { Animal } from "@/types/animal";
+import WishlistSection from "@/components/WishlistSection";
 
 type Language = "en" | "zh";
 
@@ -212,35 +213,49 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
       </header>
 
       {/* ── Hero ── */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-8 text-center">
-        <h1 className="text-4xl sm:text-5xl font-extrabold text-slate-800 tracking-tight leading-tight">
-          {lang === "en" ? (
-            <>
-              Discover the{" "}
-              <span className="text-amber-500">Wild World</span>
-            </>
-          ) : (
-            <>
-              探索{" "}
-              <span className="text-amber-500">野生世界</span>
-            </>
-          )}
-        </h1>
-        <p className="mt-3 text-slate-500 text-base sm:text-lg max-w-xl mx-auto">
-          {lang === "en"
-            ? `${filtered.length} amazing animals — ready to be discovered.`
-            : `${filtered.length} 种神奇动物 — 等待你来发现。`}
-        </p>
+      <section className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-12">
+        <div className="flex flex-col lg:flex-row items-center lg:items-start justify-between gap-8 lg:gap-0">
+          
+          {/* Left Spacer to keep title perfectly centered on large screens */}
+          <div className="hidden lg:block lg:w-[320px] xl:w-[360px] shrink-0"></div>
 
-        {/* Taxonomy Banner */}
-        <Link
-          href="/taxonomy"
-          className="inline-flex items-center gap-3 mt-6 px-8 py-4 rounded-2xl bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-600 hover:to-teal-600 text-white font-bold text-lg shadow-lg hover:shadow-xl transition-all duration-300 active:scale-95 group"
-        >
-          <TreeDeciduous size={24} strokeWidth={2} />
-          <span>{lang === "en" ? "Explore the Tree of Life" : "探索生命之树"}</span>
-          <ChevronRight size={20} strokeWidth={2.5} className="transition-transform group-hover:translate-x-1" />
-        </Link>
+          {/* Center Text */}
+          <div className="text-center flex-1 max-w-2xl mx-auto lg:pt-4">
+            <h1 className={`${lang === 'en' ? 'text-3xl sm:text-4xl lg:text-[42px]' : 'text-4xl sm:text-5xl'} font-extrabold text-slate-800 tracking-tight leading-tight`}>
+              {lang === "en" ? (
+                <>
+                  Discover the{" "}
+                  <span className="text-amber-500 whitespace-nowrap">Wild World</span>
+                </>
+              ) : (
+                <>
+                  探索{" "}
+                  <span className="text-amber-500">野生世界</span>
+                </>
+              )}
+            </h1>
+            <p className="mt-3 text-slate-500 text-base sm:text-lg max-w-xl mx-auto">
+              {lang === "en"
+                ? `${filtered.length} amazing animals — ready to be discovered.`
+                : `${filtered.length} 种神奇动物 — 等待你来发现。`}
+            </p>
+
+            {/* Taxonomy Banner */}
+            <Link
+              href="/taxonomy"
+              className="inline-flex items-center gap-3 mt-6 px-8 py-4 rounded-2xl bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-600 hover:to-teal-600 text-white font-bold text-lg shadow-lg hover:shadow-xl transition-all duration-300 active:scale-95 group"
+            >
+              <TreeDeciduous size={24} strokeWidth={2} />
+              <span>{lang === "en" ? "Explore the Tree of Life" : "探索生命之树"}</span>
+              <ChevronRight size={20} strokeWidth={2.5} className="transition-transform group-hover:translate-x-1" />
+            </Link>
+          </div>
+          
+          {/* Right: Wishlist (Compact) */}
+          <div className="w-full max-w-md mx-auto lg:mx-0 lg:w-[320px] xl:w-[360px] shrink-0 z-10">
+            <WishlistSection lang={lang} compact />
+          </div>
+        </div>
       </section>
 
       {/* ── Grid ── */}

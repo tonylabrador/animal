@@ -1,0 +1,190 @@
+{
+  "id": "human",
+  "name_zh": "人",
+  "name_en": "Human",
+  "scientific_name": "Homo sapiens",
+  "ui_tags": [
+    "Mammal",
+    "City",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Primates",
+      "zh": "灵长目"
+    },
+    "family": {
+      "en": "Hominidae",
+      "zh": "人科"
+    },
+    "genus": {
+      "en": "Homo",
+      "zh": "人属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A highly social and intelligent ape known for its complex language, tool use, and dominant impact on Earth's ecosystems.",
+    "zh": "一种高度群居且聪明的猿类，以其复杂的语言、工具的使用以及对地球生态系统的统治性影响而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Humans are distinguished by their bipedal locomotion, relatively hairless bodies, and exceptionally large and complex brains, which allow for advanced tool crafting and problem-solving.",
+      "zh": "人类的特征在于双足行走、相对无毛的身体以及异常庞大且复杂的大脑，这使其能够进行高级工具制作和解决复杂问题。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are highly social creatures that form intricate societal structures. Notably, they construct artificial habitats called 'cities' and manipulate their environment on a planetary scale.",
+      "zh": "它们是高度群居的动物，形成了错综复杂的社会结构。值得注意的是，它们建造了被称为「城市」的人造栖息地，并在行星级尺度上改造着它们的生存环境。"
+    },
+    "habitat_and_distribution": {
+      "en": "Originating in Africa, humans have adapted to survive in almost every terrestrial environment on Earth, from the freezing polar regions to scorching deserts and dense urban jungles.",
+      "zh": "人类起源于非洲，如今已适应了地球上几乎所有的陆地环境，从严寒的极地到酷热的沙漠，再到密集的都市丛林。"
+    }
+  },
+  "habitat": {
+    "text_en": "Global (Cosmopolitan distribution)",
+    "text_zh": "全球分布",
+    "map_coordinates": [
+      35,
+      105
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          -54,
+          -73
+        ],
+        [
+          -54,
+          -34
+        ],
+        [
+          12,
+          -34
+        ],
+        [
+          12,
+          -73
+        ],
+        [
+          -54,
+          -73
+        ]
+      ],
+      [
+        [
+          -34,
+          16
+        ],
+        [
+          -34,
+          32
+        ],
+        [
+          37,
+          32
+        ],
+        [
+          37,
+          -17
+        ],
+        [
+          14,
+          -17
+        ],
+        [
+          14,
+          16
+        ],
+        [
+          -34,
+          16
+        ]
+      ],
+      [
+        [
+          35,
+          10
+        ],
+        [
+          35,
+          140
+        ],
+        [
+          70,
+          140
+        ],
+        [
+          70,
+          10
+        ],
+        [
+          35,
+          10
+        ]
+      ],
+      [
+        [
+          -40,
+          114
+        ],
+        [
+          -40,
+          153
+        ],
+        [
+          -10,
+          153
+        ],
+        [
+          -10,
+          114
+        ],
+        [
+          -40,
+          114
+        ]
+      ],
+      [
+        [
+          25,
+          -125
+        ],
+        [
+          25,
+          -65
+        ],
+        [
+          60,
+          -65
+        ],
+        [
+          60,
+          -125
+        ],
+        [
+          25,
+          -125
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/human.jpg"
+}

@@ -154,7 +154,7 @@ const TILES = {
     subdomains: "abcd",
   },
   zh: {
-    url: "https://webrd01.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}",
+    url: "https://wprd0{s}.is.autonavi.com/appmaptile?x={x}&y={y}&z={z}&lang=zh_cn&size=1&scale=1&style=7",
     attribution: '&copy; <a href="https://www.amap.com/">高德地图</a>',
     subdomains: "1234",
   },

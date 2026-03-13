@@ -22,7 +22,7 @@
       "zh": "两栖纲"
     },
     "order": {
-      "en": "Caudata",
+      "en": "Urodela",
       "zh": "有尾目"
     },
     "family": {
@@ -66,7 +66,28 @@
     ],
     "map_zoom_level": 6,
     "global_distribution_polygons": [
-      [[25, 105], [35, 105], [35, 115], [25, 115], [25, 105]]
+      [
+        [
+          25,
+          105
+        ],
+        [
+          35,
+          105
+        ],
+        [
+          35,
+          115
+        ],
+        [
+          25,
+          115
+        ],
+        [
+          25,
+          105
+        ]
+      ]
     ]
   },
   "image": "/images/animals/chinese-giant-salamander.jpg"

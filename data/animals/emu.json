@@ -1,0 +1,116 @@
+{
+  "id": "emu",
+  "name_zh": "鸸鹋",
+  "name_en": "Emu",
+  "scientific_name": "Dromaius novaehollandiae",
+  "ui_tags": [
+    "Bird",
+    "Grassland",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Casuariiformes",
+      "zh": "鹤鸵目"
+    },
+    "family": {
+      "en": "Casuariidae",
+      "zh": "鹤鸵科"
+    },
+    "genus": {
+      "en": "Dromaius",
+      "zh": "鸸鹋属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The second-tallest bird in the world, the emu is an icon of the Australian Outback, famous for its incredible sprinting abilities and for 'winning' a war against the Australian military in 1932.",
+    "zh": "鸸鹋是世界上第二高的鸟类，也是澳大利亚内陆地区的标志。它因惊人的冲刺能力以及在1932年「打赢」了一场对抗澳大利亚军队的战争而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Emus have long necks and legs, possessing three toes on each foot which allow them to sprint at speeds up to 50 km/h (31 mph). They physically cannot walk backwards, a trait that earned them a spot on the Australian coat of arms.",
+      "zh": "鸸鹋有着长长的脖子和双腿，每只脚有三个脚趾，这使得它们能以高达 50 公里/小时（31 英里/小时）的速度冲刺。它们在生理上「无法后退」，这一特征甚至让它们登上了澳大利亚国徽。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are highly nomadic and travel long distances to find food and water. Emus are curious animals and have been known to approach humans if startled or intrigued by unexpected movements.",
+      "zh": "它们具有高度的游牧习性，会长途跋涉寻找食物和水源。鸸鹋是一种好奇的动物，在受到惊吓或者被意外的动作吸引时，甚至会主动靠近人类。"
+    },
+    "habitat_and_distribution": {
+      "en": "Emus are endemic to Australia, where they inhabit woodland, savanna, scrub forests, and grasslands across most of the mainland. They generally avoid densely populated areas and very arid deserts.",
+      "zh": "鸸鹋是澳大利亚的特有物种，栖息在大陆大部分地区的林地、稀树草原、灌木林和草地中。它们通常会避开人口密集的地区和极为干旱的沙漠。"
+    }
+  },
+  "habitat": {
+    "text_en": "Savannas and Woodlands",
+    "text_zh": "稀树草原与林地",
+    "map_coordinates": [
+      -25,
+      133
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -15,
+          120
+        ],
+        [
+          -15,
+          145
+        ],
+        [
+          -38,
+          145
+        ],
+        [
+          -38,
+          120
+        ],
+        [
+          -15,
+          120
+        ]
+      ],
+      [
+        [
+          -21,
+          114
+        ],
+        [
+          -21,
+          120
+        ],
+        [
+          -34,
+          120
+        ],
+        [
+          -34,
+          114
+        ],
+        [
+          -21,
+          114
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/emu.jpg"
+}

@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **185** 种动物
+**统计**：共 **187** 种动物
 
 ---
 
@@ -165,6 +165,7 @@
 
 - 婆罗洲猩猩 / Bornean Orangutan — *Pongo pygmaeus* `bornean-orangutan`
 - 黑猩猩 / Chimpanzee — *Pan troglodytes* `chimpanzee`
+- 人 / Human — *Homo sapiens* `human`
 - 大猩猩 / Western Gorilla — *Gorilla gorilla* `western-gorilla`
 
 **指猴科**
@@ -403,6 +404,7 @@
 
 **鹤鸵科**
 
+- 鸸鹋 / Emu — *Dromaius novaehollandiae* `emu`
 - 南方鹤鸵 / Southern Cassowary — *Casuarius casuarius* `southern-cassowary`
 
 ### 鹦形目

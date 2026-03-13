@@ -3,21 +3,21 @@
   "nameZh": "动物界",
   "level": "Kingdom",
   "levelZh": "界",
-  "count": 185,
+  "count": 187,
   "children": [
     {
       "name": "Chordata",
       "nameZh": "脊索动物门",
       "level": "Phylum",
       "levelZh": "门",
-      "count": 174,
+      "count": 176,
       "children": [
         {
           "name": "Mammalia",
           "nameZh": "哺乳纲",
           "level": "Class",
           "levelZh": "纲",
-          "count": 115,
+          "count": 116,
           "children": [
             {
               "name": "Carnivora",
@@ -1571,14 +1571,14 @@
               "nameZh": "灵长目",
               "level": "Order",
               "levelZh": "目",
-              "count": 6,
+              "count": 7,
               "children": [
                 {
                   "name": "Hominidae",
                   "nameZh": "人科",
                   "level": "Family",
                   "levelZh": "科",
-                  "count": 3,
+                  "count": 4,
                   "children": [
                     {
                       "name": "Gorilla",
@@ -1597,6 +1597,26 @@
                           "animalId": "western-gorilla",
                           "image": "/images/animals/western-gorilla.jpg",
                           "scientificName": "Gorilla gorilla"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Homo",
+                      "nameZh": "人属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Human",
+                          "nameZh": "人",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "human",
+                          "image": "/images/animals/human.jpg",
+                          "scientificName": "Homo sapiens"
                         }
                       ]
                     },
@@ -2785,7 +2805,7 @@
           "nameZh": "鸟纲",
           "level": "Class",
           "levelZh": "纲",
-          "count": 23,
+          "count": 24,
           "children": [
             {
               "name": "Galliformes",
@@ -2936,6 +2956,64 @@
                           "animalId": "harpy-eagle",
                           "image": "/images/animals/harpy-eagle.jpg",
                           "scientificName": "Harpia harpyja"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Casuariiformes",
+              "nameZh": "鹤鸵目",
+              "level": "Order",
+              "levelZh": "目",
+              "count": 2,
+              "children": [
+                {
+                  "name": "Casuariidae",
+                  "nameZh": "鹤鸵科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 2,
+                  "children": [
+                    {
+                      "name": "Casuarius",
+                      "nameZh": "鹤鸵属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Southern Cassowary",
+                          "nameZh": "南方鹤鸵",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "southern-cassowary",
+                          "image": "/images/animals/southern-cassowary.jpg",
+                          "scientificName": "Casuarius casuarius"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dromaius",
+                      "nameZh": "鸸鹋属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Emu",
+                          "nameZh": "鸸鹋",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "emu",
+                          "image": "/images/animals/emu.jpg",
+                          "scientificName": "Dromaius novaehollandiae"
                         }
                       ]
                     }
@@ -3177,44 +3255,6 @@
                           "animalId": "rhinoceros-hornbill",
                           "image": "/images/animals/rhinoceros-hornbill.jpg",
                           "scientificName": "Buceros rhinoceros"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Casuariiformes",
-              "nameZh": "鹤鸵目",
-              "level": "Order",
-              "levelZh": "目",
-              "count": 1,
-              "children": [
-                {
-                  "name": "Casuariidae",
-                  "nameZh": "鹤鸵科",
-                  "level": "Family",
-                  "levelZh": "科",
-                  "count": 1,
-                  "children": [
-                    {
-                      "name": "Casuarius",
-                      "nameZh": "鹤鸵属",
-                      "level": "Genus",
-                      "levelZh": "属",
-                      "count": 1,
-                      "children": [
-                        {
-                          "name": "Southern Cassowary",
-                          "nameZh": "南方鹤鸵",
-                          "level": "Species",
-                          "levelZh": "种",
-                          "count": 1,
-                          "children": [],
-                          "animalId": "southern-cassowary",
-                          "image": "/images/animals/southern-cassowary.jpg",
-                          "scientificName": "Casuarius casuarius"
                         }
                       ]
                     }
@@ -4440,49 +4480,11 @@
               ]
             },
             {
-              "name": "Caudata",
-              "nameZh": "有尾目",
-              "level": "Order",
-              "levelZh": "目",
-              "count": 1,
-              "children": [
-                {
-                  "name": "Cryptobranchidae",
-                  "nameZh": "隐鳃鲵科",
-                  "level": "Family",
-                  "levelZh": "科",
-                  "count": 1,
-                  "children": [
-                    {
-                      "name": "Andrias",
-                      "nameZh": "大鲵属",
-                      "level": "Genus",
-                      "levelZh": "属",
-                      "count": 1,
-                      "children": [
-                        {
-                          "name": "Chinese Giant Salamander",
-                          "nameZh": "中国大鲵",
-                          "level": "Species",
-                          "levelZh": "种",
-                          "count": 1,
-                          "children": [],
-                          "animalId": "chinese-giant-salamander",
-                          "image": "/images/animals/chinese-giant-salamander.jpg",
-                          "scientificName": "Andrias davidianus"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "name": "Urodela",
               "nameZh": "有尾目",
               "level": "Order",
               "levelZh": "目",
-              "count": 1,
+              "count": 2,
               "children": [
                 {
                   "name": "Ambystomatidae",
@@ -4508,6 +4510,35 @@
                           "animalId": "axolotl",
                           "image": "/images/animals/axolotl.jpg",
                           "scientificName": "Ambystoma mexicanum"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Cryptobranchidae",
+                  "nameZh": "隐鳃鲵科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Andrias",
+                      "nameZh": "大鲵属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Chinese Giant Salamander",
+                          "nameZh": "中国大鲵",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "chinese-giant-salamander",
+                          "image": "/images/animals/chinese-giant-salamander.jpg",
+                          "scientificName": "Andrias davidianus"
                         }
                       ]
                     }
