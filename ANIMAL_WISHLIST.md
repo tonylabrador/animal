@@ -11,3 +11,4 @@
 | 4 | 僧帽水母 | Portuguese man o' war | Physalia physalis | ⏳ Pending |
 | 5 | 国王箱水母 | King's box jellyfish | Malo kingi | ⏳ Pending |
 | 6 | 澳大利亚箱水母 | Australian box jellyfish | Chironex fleckeri | ⏳ Pending |
+| 7 | 食猴蝙蝠 | Large Flying Fox | Pteropus vampyrus | ⏳ Pending |
