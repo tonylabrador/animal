@@ -36,3 +36,4 @@
 | 29 | 玄凤鹦鹉 | Cockatiel | Nymphicus hollandicus | ⏳ Pending |
 | 30 | 白鳍豚 | Baiji | Lipotes vexillifer | ⏳ Pending |
 | 31 | 大蓝环章鱼 | Greater blue-ringed octopus | Hapalochlaena lunulata | ⏳ Pending |
+| 32 | 南方蓝环章鱼 | Southern Blue-ringed Octopus | Hapalochlaena maculosa | ⏳ Pending |
