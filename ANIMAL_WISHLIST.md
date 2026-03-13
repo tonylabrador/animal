@@ -23,3 +23,4 @@
 | 16 | 普通椋鸟 | European Starling | Sturnus vulgaris | ⏳ Pending |
 | 17 | 港湾鼠海豚 | Harbor Porpoise | Phocoena phocoena | ⏳ Pending |
 | 18 | 蓝蟹 | Blue Crab | Callinectes sapidus | ⏳ Pending |
+| 19 | 安娜蜂鸟 | Anna's hummingbird | Calypte anna | ⏳ Pending |
