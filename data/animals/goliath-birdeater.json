@@ -1,0 +1,110 @@
+{
+  "id": "goliath-birdeater",
+  "name_zh": "歌利亚食鸟蛛",
+  "name_en": "Goliath Birdeater",
+  "scientific_name": "Theraphosa blondi",
+  "ui_tags": [
+    "Arthropod",
+    "Forest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Arachnida",
+      "zh": "蛛形纲"
+    },
+    "order": {
+      "en": "Araneae",
+      "zh": "蜘蛛目"
+    },
+    "family": {
+      "en": "Theraphosidae",
+      "zh": "捕鸟蛛科"
+    },
+    "genus": {
+      "en": "Theraphosa",
+      "zh": "捕鸟蛛属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "The undisputed heavyweight champion of the spider world, an enormous, hairy tarantula capable of preying on frogs, rodents, and occasionally, small birds.",
+    "zh": "蜘蛛界无可争议的重量级冠军，一种能够捕食青蛙、啮齿动物甚至偶尔捕食小型鸟类的、长满绒毛的巨型捕鸟蛛。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Goliath birdeater is the largest spider in the world by mass and size, weighing up to a staggering 175 grams (6.2 oz) with a leg span approaching 30 cm (12 inches) — roughly the size of a large dinner plate. Its massive, robust body is covered in bristly, reddish-brown and golden hairs. Most terrifyingly, it is armed with incredibly powerful fangs measuring up to 3.8 cm (1.5 inches) long, which are long enough and strong enough to effortlessly pierce a mouse's skull or a human fingernail.",
+      "zh": "从质量和体型上看，歌利亚食鸟蛛是世界上最大的蜘蛛，其体重可达惊人的175克（6.2盎司），腿展接近30厘米（12英寸）——大约相当于一个大号餐盘的大小。其庞大、粗壮的身体上覆盖着粗糙的红棕色和金黄色硬毛。最令人恐惧的是，它配备了极具破坏力的、长达3.8厘米（1.5英寸）的巨型毒牙，这些毒牙不仅够长而且足够坚硬，能毫不费力地刺穿老鼠的头骨或人类的指甲。"
+    },
+    "ecology_and_behavior": {
+      "en": "Despite their terrifying name, birds are rarely on the menu; they primarily ambush large insects, worms, frogs, toads, and small rodents from the safety of their silk-lined burrows. They possess poor eyesight and rely almost entirely on the highly sensitive hairs covering their bodies to detect the microscopic vibrations of approaching prey. When directly threatened by a larger predator like a coati, the spider defensively rubs the jagged bristles on its hind legs against its abdomen to violently flick a cloud of microscopic, barbed, severely irritating 'urticating hairs' into the attacker's eyes and respiratory tract. Simultaneously, this stridulation creates a loud, hissing noise that sounds remarkably like pulling Velcro apart.",
+      "zh": "尽管它们的名字听起来令人毛骨悚然，但鸟类极少出现在它们的菜单上；它们主要在铺满蛛丝的安全洞穴中伏击大型昆虫、蠕虫、青蛙、蟾蜍和小型啮齿动物。它们的视力极其糟糕，几乎完全依靠覆盖在全身的、极其敏感的刚毛来探测猎物靠近时产生的微观振动。当受到浣熊等大型捕食者的直接威胁时，这只蜘蛛会进行防御性反击：它用后腿上锯齿状的刚毛剧烈摩擦腹部，将一团微小的、带倒刺的、具有严重刺激性的「荨麻疹毛」猛烈弹射到攻击者的眼睛和呼吸道中。同时，这种摩擦会产生一种响亮的嘶嘶声，听起来非常像撕开尼龙搭扣的声音。"
+    },
+    "habitat_and_distribution": {
+      "en": "This behemoth is entirely restricted to the dense, incredibly humid, and dark upland Amazonian rainforests of northern South America. Its specific geographic range accurately forms a tight polygon exclusively across northern Brazil, Suriname, Guyana, French Guiana, and southern Venezuela. It lives deep under the leaf litter, avoiding the forest canopy entirely, preferring to excavate deep, dark burrows in the muddy, swampy soil.",
+      "zh": "这种巨兽完全被限制在南美洲北部茂密、极其潮湿且黑暗的亚马逊高原雨林中。其极其特定的地理分布精确地形成了一个极其严格的多边形，完全横跨巴西北部、苏里南、圭亚那、法属圭亚那以及委内瑞拉南部。它生活在深深的落叶层下，完全避开森林树冠，而是更喜欢在泥泞、沼泽般的土壤中挖掘深而黑暗的洞穴。"
+    }
+  },
+  "habitat": {
+    "text_en": "Upland Rainforests and Swampy Soils",
+    "text_zh": "高地雨林与沼泽土",
+    "map_coordinates": [
+      3,
+      -58
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          9,
+          -65
+        ],
+        [
+          9,
+          -58
+        ],
+        [
+          6,
+          -53
+        ],
+        [
+          2,
+          -50
+        ],
+        [
+          -2,
+          -52
+        ],
+        [
+          -3,
+          -60
+        ],
+        [
+          2,
+          -67
+        ],
+        [
+          5,
+          -67
+        ],
+        [
+          9,
+          -65
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/goliath-birdeater.jpg"
+}

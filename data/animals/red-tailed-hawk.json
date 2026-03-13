@@ -1,0 +1,142 @@
+{
+  "id": "red-tailed-hawk",
+  "name_zh": "红尾鵟",
+  "name_en": "Red-tailed Hawk",
+  "scientific_name": "Buteo jamaicensis",
+  "ui_tags": [
+    "Bird",
+    "Grassland",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Accipitriformes",
+      "zh": "鹰形目"
+    },
+    "family": {
+      "en": "Accipitridae",
+      "zh": "鹰科"
+    },
+    "genus": {
+      "en": "Buteo",
+      "zh": "鵟属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The most common and widespread hawk in North America, famous for its thrilling, raspy scream often dubbed over eagles in movies.",
+    "zh": "北美最常见、分布最广的猛禽，以其令人毛骨悚然的嘶哑尖叫声而闻名，这种声音在电影里经常被错误地配给老鹰。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Red-tailed hawks are large, broad-winged raptors weighing up to 1.6 kg (3.5 lbs), with a wingspan stretching nearly 1.4 meters (4.5 ft). While their body plumage can vary wildly from nearly white to incredibly dark brown depending on the region, adults are almost always identifiable by their namesake: a wide, fiercely brick-red tail. They possess incredibly sharp talons and a hooked beak designed to tear meat effortlessly.",
+      "zh": "红尾鵟是一种体型庞大、翅膀宽阔的猛禽，体重可达1.6公斤（3.5磅），翼展接近1.4米（4.5英尺）。虽然它们的身体羽毛颜色因地区不同而差异巨大——从近乎纯白到极深的深褐色皆有，但成鸟几乎总是可以通过它们名字的由来被辨认出来：一条宽阔的、鲜艳的砖红色尾巴。它们拥有异常锋利的爪子和专为轻松撕裂肉类而设计的钩状喙。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are the undisputed masters of soaring, often seen riding thermal updrafts in wide circles high in the sky to scout for prey. Their eyesight is legendary, roughly eight times more powerful than a human's, allowing them to spot a mouse moving in the grass from a hundred feet in the air. Their iconic, spine-chilling screech (a raspy 'kee-eeeee-arr') is so quintessentially 'wild' that Hollywood uses it as the default sound effect for almost every bird of prey on screen.",
+      "zh": "它们是无可争议的翱翔大师，经常被看到在天空中乘着热气流于高空盘旋，以搜寻猎物。它们的视力堪称传奇，大约是人类的八倍，这让它们能够从一百英尺的高空发现草丛中移动的老鼠。它们标志性的、令人不寒而栗的尖叫声（一阵嘶哑的“汽—伊伊伊—啊”）是如此典型的“狂野之声”，以至于好莱坞将其用作屏幕上几乎所有猛禽的默认音效。"
+    },
+    "habitat_and_distribution": {
+      "en": "They occupy an incredibly vast and diverse range covering almost the entirety of North America, from the freezing interior of Alaska and northern Canada, stretching all the way south through the United States and Mexico, deep into Panama. They are exceptionally adaptable, making their homes in deserts, scrublands, grasslands, dense forests, and even comfortably perching on highway light poles or urban skyscrapers.",
+      "zh": "它们占据着极其广阔且多样化的分布范围，几乎覆盖了整个北美洲：从阿拉斯加和加拿大北部冰冷的内陆，一直向南延伸穿过美国和墨西哥，深入巴拿马。它们具有极强的适应能力，在沙漠、灌木丛、草原、茂密的森林中安家，甚至能舒适地栖息在高速公路的路灯杆或大都市的摩天大楼上。"
+    }
+  },
+  "habitat": {
+    "text_en": "Open Country, Woodlands, and Urban Areas",
+    "text_zh": "开阔地带、林地与市区",
+    "map_coordinates": [
+      40,
+      -100
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          70,
+          -165
+        ],
+        [
+          68,
+          -135
+        ],
+        [
+          65,
+          -110
+        ],
+        [
+          60,
+          -90
+        ],
+        [
+          55,
+          -60
+        ],
+        [
+          45,
+          -60
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          15,
+          -90
+        ],
+        [
+          8,
+          -80
+        ],
+        [
+          7,
+          -84
+        ],
+        [
+          15,
+          -95
+        ],
+        [
+          25,
+          -115
+        ],
+        [
+          35,
+          -125
+        ],
+        [
+          55,
+          -135
+        ],
+        [
+          60,
+          -150
+        ],
+        [
+          60,
+          -165
+        ],
+        [
+          70,
+          -165
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/red-tailed-hawk.jpg"
+}

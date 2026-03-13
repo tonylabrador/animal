@@ -1,0 +1,98 @@
+{
+  "id": "striped-blue-ringed-octopus",
+  "name_zh": "条纹蓝环章鱼",
+  "name_en": "Striped Blue-ringed Octopus",
+  "scientific_name": "Hapalochlaena fasciata",
+  "ui_tags": [
+    "Mollusk",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Mollusca",
+      "zh": "软体动物门"
+    },
+    "class": {
+      "en": "Cephalopoda",
+      "zh": "头足纲"
+    },
+    "order": {
+      "en": "Octopoda",
+      "zh": "八腕目"
+    },
+    "family": {
+      "en": "Octopodidae",
+      "zh": "章鱼科"
+    },
+    "genus": {
+      "en": "Hapalochlaena",
+      "zh": "蓝环章鱼属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "A highly toxic, golf-ball-sized octopus famous for flashing iridescent blue stripes, rather than rings, across its entire body when provoked.",
+    "zh": "一种高毒性、高尔夫球大小的变种章鱼，以在受到挑衅时全身闪烁出耀眼的蓝色条纹（而非圆环）而闻名于世。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Like other members of its deadly genus, it is a micro-predator with an arm span of just 15 cm. However, the Striped blue-ringed octopus possesses a unique visual alarm system. While it maintains a few classical blue rings solely on its eight arms, its primary mantle (body) is completely completely devoid of rings. Instead, when alarmed, the mantle violently erupts with vibrant, pulsating, longitudinal blue lines or 'stripes' set against a rapidly darkening brown skin.",
+      "zh": "与该致命属的其他成员一样，它是一种微型捕食者，臂展仅有15厘米。然而，条纹蓝环章鱼拥有一套非常独特的视觉警报系统。虽然它在八条触手上依然保留着几个经典的蓝色圆环，但它的躯干（外套膜）上却完全没有任何圆环。取而代之的是，当受到惊吓时，其躯干会在迅速变暗的棕色皮肤背景下，猛烈爆发并脉动出极其鲜艳的纵向蓝色线条或「条纹」。"
+    },
+    "ecology_and_behavior": {
+      "en": "It shares the same terrifyingly potent, symbiotic bacterial venom (tetrodotoxin) as its cousins. This venom is harbored in its salivary glands, meaning it bites to deliver its lethal payload. They are solitary and incredibly reclusive, spending most of their short, 1-2 year lifespans wedged tightly inside discarded bottles or empty clam shells on shallow reefs. They hunt at night, creeping out to ambuscade unwary crustaceans. The tragic danger to humans lies not in aggression, but in their habit of hiding in small tidal pools where curious beachgoers unknowingly pick them up.",
+      "zh": "它与表亲们共享着同样令人恐惧的、由共生细菌产生的强效毒液（河豚毒素）。这种毒液潜藏在其唾液腺中，这意味着它必须通过咬伤来注射致命载荷。它们习惯独居且极其隐蔽，在仅仅1到2年的短暂生命里，大部分时间都紧紧塞在浅礁上废弃的瓶子或空蛤壳中。它们在夜间狩猎，悄悄爬出伏击毫无防备的甲壳类动物。对人类而言，悲剧性的危险并不在于它的攻击性，而在于它们喜欢躲在小潮池中，导致好奇的游客在不知情的情况下将其捡起而致命。"
+    },
+    "habitat_and_distribution": {
+      "en": "This octopus occupies a highly specific, narrow ecological niche perfectly wedged geographically between its tropical 'Greater' and temperate 'Southern' cousins. It is strictly endemic to the sub-tropical eastern coast of Australia. Its distribution forms a precise coastal polygon spanning primarily from southern Queensland (near Brisbane), stretching continuously down the New South Wales coastline past Sydney. It is a strictly shallow-water species commonly encountered by rock pool explorers at low tide.",
+      "zh": "这种章鱼占据了一个极其特定、狭窄的生态位，在地理上完美楔入其热带的「大蓝环」和温带的「南方蓝环」表亲之间。它严格特产于澳大利亚的亚热带东部海岸。其分布形成了一个精确的沿海多边形，主要从昆士兰州南部（布里斯班附近）开始，沿着新南威尔士州海岸线连续向下延伸，穿过悉尼。它是一种极其严格的浅水物种，经常被那些在退潮时探索岩石水洼的人们遇到。"
+    }
+  },
+  "habitat": {
+    "text_en": "Sub-tropical Australian Eastern Coast",
+    "text_zh": "亚热带澳大利亚东部沿海",
+    "map_coordinates": [
+      -30,
+      153
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -25,
+          150
+        ],
+        [
+          -38,
+          148
+        ],
+        [
+          -38,
+          153
+        ],
+        [
+          -30,
+          157
+        ],
+        [
+          -25,
+          155
+        ],
+        [
+          -25,
+          150
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/striped-blue-ringed-octopus.jpg"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "house-fly",
+  "name_zh": "家蝇",
+  "name_en": "House Fly",
+  "scientific_name": "Musca domestica",
+  "ui_tags": [
+    "Insect",
+    "Grassland",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Insecta",
+      "zh": "昆虫纲"
+    },
+    "order": {
+      "en": "Diptera",
+      "zh": "双翅目"
+    },
+    "family": {
+      "en": "Muscidae",
+      "zh": "蝇科"
+    },
+    "genus": {
+      "en": "Musca",
+      "zh": "蝇属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "Perhaps the most ubiquitous insect in the world, equipped with lightning-fast reflexes and sponge-like mouthparts.",
+    "zh": "也许是世界上最无处不在的昆虫，配备了闪电般的快速反应能力和像海绵一样的口器。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "A small grey insect covered in bristly hair. The house fly's seemingly simple design is actually highly engineered. It has incredibly complex, large red compound eyes providing nearly 360-degree vision. Instead of a solid jaw, its mouth is a retractable 'proboscis' equipped with a fleshy sponge. Its feet are fitted with minuscule claw-like hooks and incredibly sticky pads, allowing it to walk effortlessly upside down on glass ceilings.",
+      "zh": "这是一种覆盖着粗硬毛的灰色小昆虫。家蝇看似简单的设计实际上经过了高度精密的“工程学计”。它拥有令人难以置信的、大型的红色复眼，能提供近乎360度的全景视野。它的嘴巴不是坚硬的下颌，而是配备了肉质海绵的可伸缩的「吸管」。它的脚上长着微小的钩爪和难以置信的黏性肉垫，使其即使在倒挂在玻璃天花板上也能毫不费力地行走。"
+    },
+    "ecology_and_behavior": {
+      "en": "They cannot chew solid food. To eat, a house fly vomits digestive juices and stomach acids onto the food to dissolve it into a liquid soup, which it then slurps back up through its sponge-mouth. They are notorious carriers of disease because they constantly alternate between feeding on decaying garbage or feces, and landing on human food. A female fly can lay thousands of eggs in her extremely short, three-to-four-week lifespan.",
+      "zh": "它们不能咀嚼固体食物。为了进食，家蝇会将消化液和胃酸反吐到食物上，将其溶解成液体一般的“汤”，然后再通过它像海绵一样的嘴把它咕噜咕噜地吸上回去。它们是臭名昭著的疾病传播者，因为它们不断在腐烂的垃圾或粪便上进食，然后又落在人类食物上交替往返。雌蝇在其极短的、只有三到四周的寿命内可以产下成千上万个卵。"
+    },
+    "habitat_and_distribution": {
+      "en": "Originally native to the steppes of Central Asia, the house fly has followed humans to literally every corner of the globe. They are found from the tropics to polar regions, surviving in almost any environment as long as there is organic waste, warmth, and human activity to support their rapid lifecycle.",
+      "zh": "家蝇最初原产于中亚的干草原，如今已跟随着人类到达了地球上的每一个角落。从热带到极地都能找到它们的踪影，只要有有机废物、温暖的环境和人类活动来支持它们快速的生命周期，它们几乎可以在任何环境中生存。"
+    }
+  },
+  "habitat": {
+    "text_en": "Cosmopolitan (Everywhere)",
+    "text_zh": "世界广泛分布",
+    "map_coordinates": [
+      0,
+      0
+    ],
+    "map_zoom_level": 1,
+    "global_distribution_polygons": [
+      [
+        [
+          -60,
+          -180
+        ],
+        [
+          80,
+          -180
+        ],
+        [
+          80,
+          180
+        ],
+        [
+          -60,
+          180
+        ],
+        [
+          -60,
+          -180
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/house-fly.jpg"
+}

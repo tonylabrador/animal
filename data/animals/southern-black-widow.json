@@ -1,0 +1,102 @@
+{
+  "id": "southern-black-widow",
+  "name_zh": "南方黑寡妇",
+  "name_en": "Southern Black Widow",
+  "scientific_name": "Latrodectus mactans",
+  "ui_tags": [
+    "Arthropod",
+    "Forest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Arachnida",
+      "zh": "蛛形纲"
+    },
+    "order": {
+      "en": "Araneae",
+      "zh": "蜘蛛目"
+    },
+    "family": {
+      "en": "Theridiidae",
+      "zh": "姬蛛科"
+    },
+    "genus": {
+      "en": "Latrodectus",
+      "zh": "寡妇蛛属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "North America's most famously venomous spider, easily identified by the sinister, brilliant red hourglass shape stamped upon the female's jet-black abdomen.",
+    "zh": "北美最著名的剧毒蜘蛛，雌蜘蛛那乌黑发亮的腹部上烙印着邪恶而极其鲜艳的红色沙漏图案，使其极易被辨认。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The female southern black widow exhibits extreme sexual dimorphism. She is a visually striking spider measuring about 1.5 inches (38 mm) long with her legs extended. She possesses a shiny, hairless, completely jet-black, fundamentally spherical abdomen. Underneath this glossy globe sits her universally feared warning sign: an unmistakable, flawlessly shaped, vivid red or orange 'hourglass' marking. By extreme contrast, the male is practically harmless; he is less than half her size, brown or drab grey, and rarely displays a complete hourglass.",
+      "zh": "雌性南方黑寡妇表现出极端的两性异形。她是一种视觉上极具冲击力的蜘蛛，伸展双腿时长约1.5英寸（38毫米）。她拥有一个有光泽的、无毛的、彻底乌黑且基本上呈球形的惊悚腹部。在这个光滑的球体底面，印着她那令世人恐惧的致命警告标志：一个完美无瑕的、异常鲜艳的红色或橙色「沙漏」形状。形成极端对比的是，雄性实际上几乎是无害的；他的体型不到雌性的一半，呈现出棕色或暗淡的灰色，并且极其罕见地能展示出完整的沙漏图案。"
+    },
+    "ecology_and_behavior": {
+      "en": "Their venom contains 'latrotoxin', an extraordinarily potent neurotoxin reported to be roughly 15 times more toxic than the venom of a prairie rattlesnake, though the spider injects a vastly smaller volume. Despite their deadly reputation, they are remarkably timid, non-aggressive, and prefer to flee or instinctively drop to the ground and play dead when their messy, irregular cobweb is disturbed. Bites exclusively occur when humans unknowingly trap, crush, or press the spider against their skin (often putting on old shoes). The Macabre rumor that females always devour and cannibalize the male during or after mating is vastly overstated in the wild, though it happens occasionally if the female is exceptionally hungry.",
+      "zh": "它们的毒液中含有一种被称为「α-蛛毒素(Latrotoxin)」的极其强效的神经毒素，据报道其毒性大约是草原响尾蛇毒液的15倍，尽管蜘蛛注入的剂量要少得多。尽管它们名声致命，但它们极其胆小、毫无攻击性，当它们那杂乱无章、极不规则的蛛网受到干扰时，它们最喜欢的策略是逃跑，或者本能地掉在地上装死。咬伤人类的事件几乎完全发生在人类在不知情的情况下将其困住、压碎或将其紧紧压在皮肤上时（很多情况是发生在人类穿旧鞋子时）。一直流传着一个极其耸人听闻的谣言，称雌蛛在交配时或交配后必定会吞噬并残杀雄蛛，这在野外其实被极大地夸大了，但如果雌蛛刚好异常饥饿，这种情况偶尔也确实会发生。"
+    },
+    "habitat_and_distribution": {
+      "en": "The Southern Black Widow precisely dominates the southeastern quadrant of the United States. Its geographic range creates a solid polygon stretching from Florida all the way north to New York, and stretching aggressively westward through Texas into parts of Oklahoma and Kansas. They aggressively seek out dark, undisturbed, severely dry corners near the ground to build their incredibly strong webs. They are notorious squatters in woodpiles, hollow stumps, abandoned rodent holes, dark garages, basement corners, and famously, the undersides of outdoor outhouse toilet seats.",
+      "zh": "南方黑寡妇精准地统治着美国东南部的象限区域。它的地理分布形成了一个极其坚实的地理多边形区域，从佛罗里达州一路向北延伸至纽约州，并凶猛地向西穿过德克萨斯州进入俄克拉荷马州和堪萨斯州的部分地区。它们极度渴望在靠近地面的、极其黑暗、不被打扰且极度干燥的角落来结它们那极其坚固的蛛网。它们是臭名昭著的“擅自占地者”，极喜欢躲在木柴堆、空心树桩、废弃的啮齿动物洞穴、黑暗的地下车库、地下室极暗角落里，还有最著名的——极其喜欢躲在户外旱厕马桶座圈下方。"
+    }
+  },
+  "habitat": {
+    "text_en": "Dark, Dry Microhabitats and Woodpiles",
+    "text_zh": "极其黑暗、干燥的微生境与木堆",
+    "map_coordinates": [
+      33,
+      -85
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          25,
+          -97
+        ],
+        [
+          35,
+          -100
+        ],
+        [
+          42,
+          -90
+        ],
+        [
+          42,
+          -75
+        ],
+        [
+          35,
+          -75
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          25,
+          -97
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/southern-black-widow.jpg"
+}

@@ -1,0 +1,116 @@
+{
+  "id": "common-cuckoo",
+  "name_zh": "大杜鹃",
+  "name_en": "Common Cuckoo",
+  "scientific_name": "Cuculus canorus",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Cuculiformes",
+      "zh": "鹃形目"
+    },
+    "family": {
+      "en": "Cuculidae",
+      "zh": "杜鹃科"
+    },
+    "genus": {
+      "en": "Cuculus",
+      "zh": "杜鹃属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A widespread bird notorious for never building its own nest, instead sneaking its eggs into the nests of other species.",
+    "zh": "一种分布广泛的鸟类，因从不筑巢，而是将蛋偷偷产在其他物种的巢里而臭名昭著。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The common cuckoo is a medium-sized bird, roughly the size of a pigeon, with greyish or reddish-brown plumage and distinct dark barring on its underparts. This barred pattern makes them resemble a bird of prey like the Eurasian sparrowhawk, which may help them scare host birds away from their nests.",
+      "zh": "大杜鹃是一种中等体型的鸟类，大约和鸽子一般大，羽毛呈灰褐色或红褐色，下半身有明显的黑色横纹。这种条纹图案使它们看起来像欧亚雀鹰等猛禽，这可能有助于它们将寄主鸟从巢中吓跑。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are famous 'brood parasites'. The female cuckoo carefully watches a nest, swoops down when the hosts leave, quickly eats one of their eggs, and lays her own—all in under 10 seconds. When the cuckoo chick hatches, it instinctively pushes the host's eggs or chicks out of the nest, ensuring it receives all the food from its unwitting foster parents.",
+      "zh": "它们是著名的“巢寄生”动物。雌杜鹃会仔细观察一个鸟巢，当原主人离开时俯冲下来，迅速吃掉它们的一枚蛋，然后产下自己的蛋——整个过程不到10秒。当小杜鹃孵化出来后，它会本能地将寄主鸟的蛋或幼雏推出巢外，以确保自己能从不知情的养父母那里独占所有食物。"
+    },
+    "habitat_and_distribution": {
+      "en": "Highly adaptable, the common cuckoo can be found across Europe and Asia during summer, inhabiting open woods, scrub, and moorland. They are long-distance migrants, undertaking incredible journeys to spend the winter months in Africa and Southeast Asia.",
+      "zh": "大杜鹃适应性极强，夏季遍布欧洲和亚洲，栖息在开阔的树林、灌木丛和荒原。它们是长距离候鸟，会进行惊人的旅行，前往非洲和东南亚度过冬季。"
+    }
+  },
+  "habitat": {
+    "text_en": "Open Woodlands and Scrubland",
+    "text_zh": "开阔林地与灌木地",
+    "map_coordinates": [
+      50,
+      10
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          35,
+          -10
+        ],
+        [
+          70,
+          -10
+        ],
+        [
+          70,
+          140
+        ],
+        [
+          35,
+          140
+        ],
+        [
+          35,
+          -10
+        ]
+      ],
+      [
+        [
+          -35,
+          15
+        ],
+        [
+          15,
+          15
+        ],
+        [
+          15,
+          45
+        ],
+        [
+          -35,
+          45
+        ],
+        [
+          -35,
+          15
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/common-cuckoo.jpg"
+}

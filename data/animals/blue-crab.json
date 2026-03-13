@@ -1,0 +1,150 @@
+{
+  "id": "blue-crab",
+  "name_zh": "蓝蟹",
+  "name_en": "Blue Crab",
+  "scientific_name": "Callinectes sapidus",
+  "ui_tags": [
+    "Arthropod",
+    "Ocean",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Malacostraca",
+      "zh": "软甲纲"
+    },
+    "order": {
+      "en": "Decapoda",
+      "zh": "十足目"
+    },
+    "family": {
+      "en": "Portunidae",
+      "zh": "梭子蟹科"
+    },
+    "genus": {
+      "en": "Callinectes",
+      "zh": "美青蟹属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "A highly aggressive, fast-swimming crustacean known for its brilliant sapphire-tinted claws and immense culinary and economic importance.",
+    "zh": "一种极具攻击性、游动迅速的甲壳动物，以其闪耀着蓝宝石色泽的双螯及其巨大的烹饪和经济重要性而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Its scientific name, Callinectes sapidus, beautifully translates to 'savory beautiful swimmer'. They possess a wide, olive-green carapace (shell) ending in sharp spines. What truly sets them apart are their front claws, which sport a stunning, bright blue coloration—though females have red-tipped claws, often likened to 'painted fingernails'. Uniquely, their fifth pair of legs has flattened, paddle-like ends, allowing them to swim sideways with remarkable speed through the water column, rather than just crawling.",
+      "zh": "它的学名 Callinectes sapidus 可以被优美地翻译成“美味的漂亮游泳者”。它们拥有宽阔的橄榄绿甲壳（外壳），边缘带有尖锐的刺。真正让它与众不同的是它那一对前螯，闪耀着令人惊叹的亮蓝色——不过雌蟹的爪尖是红色的，常被比作“涂了指甲油”。独特的是，它们的第五对脚的末端呈扁平的桨状，这使得它们在水层中能够以惊人的速度横向游动，而不仅仅是爬行。"
+    },
+    "ecology_and_behavior": {
+      "en": "Blue crabs are notoriously feisty scavengers and ambush predators. They bury themselves in the mud, leaving only their eye stalks and antennae exposed, waiting for unsuspecting fish or smaller crustaceans to pass by before striking viciously. They are deeply reliant on seagrass beds for protection, especially during the vulnerable molting period. When a blue crab molts, it must hide as an entirely 'soft-shell crab' for several days while its new shell hardens.",
+      "zh": "蓝蟹是出了名的暴躁清道夫和伏击猎手。它们会将自己埋在泥里，只露出眼柄和触角，由于毫无戒备的鱼类或较小的甲壳类动物经过时，它们就会凶猛地发动攻击。它们极其依赖海草床来保护自己，尤其是在脆弱的蜕壳期间。当一只蓝蟹蜕壳后，它必须作为一个完全的「软壳蟹」躲藏好几天，直到它的新壳变硬。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are native to the western Atlantic Ocean, aggressively clinging to the coastlines. Their range extends extensively along the eastern seaboard of North America (notably the Chesapeake Bay), wrapping around the Gulf of Mexico, down through the Caribbean, and bordering South America all the way to Argentina. They migrate constantly between varying salinities: females head to high-salinity oceans to spawn millions of eggs, while males often remain in fresher, brackish rivers and estuaries.",
+      "zh": "它们原产于西大西洋，极其固执地依附于海岸线生活。它们的分布范围广泛地沿着北美东海岸（特别是切萨皮克湾），环绕墨西哥湾，向下穿过加勒比海，并一直沿着南美洲边界延伸到阿根廷。它们在不同盐度的水域之间不断迁徙：雌蟹会前往高盐度的海洋产下数百万个卵，而雄蟹通常留在较淡、半咸水的河流和河口中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Brackish Estuaries and Coastal Waters",
+    "text_zh": "半咸水河口与近海水域",
+    "map_coordinates": [
+      38,
+      -75
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          42,
+          -70
+        ],
+        [
+          40,
+          -74
+        ],
+        [
+          35,
+          -75
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          30,
+          -85
+        ],
+        [
+          28,
+          -96
+        ],
+        [
+          22,
+          -98
+        ],
+        [
+          20,
+          -90
+        ],
+        [
+          10,
+          -82
+        ],
+        [
+          -10,
+          -35
+        ],
+        [
+          -20,
+          -40
+        ],
+        [
+          -35,
+          -55
+        ],
+        [
+          -35,
+          -50
+        ],
+        [
+          -20,
+          -35
+        ],
+        [
+          -10,
+          -30
+        ],
+        [
+          20,
+          -80
+        ],
+        [
+          30,
+          -80
+        ],
+        [
+          42,
+          -65
+        ],
+        [
+          42,
+          -70
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/blue-crab.jpg"
+}

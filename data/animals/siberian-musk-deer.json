@@ -1,0 +1,138 @@
+{
+  "id": "siberian-musk-deer",
+  "name_zh": "原麝",
+  "name_en": "Siberian Musk Deer",
+  "scientific_name": "Moschus moschiferus",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Moschidae",
+      "zh": "麝科"
+    },
+    "genus": {
+      "en": "Moschus",
+      "zh": "麝属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "A small, primitive deer lacking antlers but armed with distinctive vampire-like fangs protruding from its mouth.",
+    "zh": "一种体型微小且原始的鹿类，不长鹿角，取而代之的是嘴里突出的、极其独特的微型“吸血鬼般”的长牙。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Siberian musk deer completely lacks antlers. Instead, adult males grow extremely prominent, downward-pointing upper canine teeth that can protrude up to 10 cm (4 inches) past their lower lip, resembling saber teeth. They have slightly hunched backs, as their powerful hind legs are significantly longer than their front ones, granting them incredible jumping agility on steep rocks. An adult male secretes a powerfully scented substance known as 'musk' from a gland near his navel, used famously in expensive perfumes.",
+      "zh": "原麝完全不长鹿角。取而代之的是，成年雄麝会长出极其醒目的、向下生长的上尖牙，可伸出下唇长达10厘米（4英寸），看起来很像剑齿虎。它们的背部略微弓起，因为它们强壮的后腿明显比前腿长，这赋予了它们在陡峭岩石上惊人的跳跃敏捷性。成年雄性会从肚脐附近的腺体分泌一种强烈气味的物质，即著名的“麝香”，这在昂贵的香水中极其闻名。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are highly elusive, solitary, and largely active at dawn or dusk (crepuscular). They rely heavily on lichens for food, especially during the harsh winter months when they stand on their long hind legs to reach lichens hanging from the branches of conifer trees. When chased by a predator like a lynx or wolverine, a musk deer prefers to bound upwards into rugged, impossibly steep, rocky terrain where larger predators cannot safely follow.",
+      "zh": "它们行踪极其诡秘、独居，且主要在黎明或黄昏时分活动（晨昏性）。它们极度依赖地衣为食，特别是在严寒的冬季几个月里，它们会用长长的后腿站立起来，去够挂在针叶树树枝上的地衣。当被猞猁或貂熊等捕食者追赶时，原麝更倾向于向上跳入崎岖不平、几乎不可能攀爬的极其陡峭的岩石地带，在那里体型较大的捕食者无法安全地跟进。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are specifically adapted to the freezing, mountainous taiga (boreal forests) of Northeast Asia. Their heavily fragmented range includes eastern Siberia, the Russian Far East, Mongolia, the Korean Peninsula, northeast China, and the island of Sakhalin. They are relentlessly hunted by poachers simply so their musk glands can be carved out to feed the lucrative illegal trade for traditional medicine and luxury perfumes.",
+      "zh": "它们被极度特化以适应东北亚冰冷的、多山的泰加林（北方针叶林）。它们高度破碎化的分布范围包括东西伯利亚、俄罗斯远东地区、蒙古、朝鲜半岛、中国东北以及萨哈林岛。它们遭到偷猎者的无情猎杀，仅仅是为了挖出它们的麝香腺，以满足利润极其丰厚的传统医药和奢侈香水非法贸易。"
+    }
+  },
+  "habitat": {
+    "text_en": "Mountainous Taiga and Coniferous Forests",
+    "text_zh": "多山泰加林与针叶林",
+    "map_coordinates": [
+      55,
+      110
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          65,
+          85
+        ],
+        [
+          70,
+          100
+        ],
+        [
+          70,
+          130
+        ],
+        [
+          65,
+          160
+        ],
+        [
+          60,
+          160
+        ],
+        [
+          55,
+          140
+        ],
+        [
+          55,
+          120
+        ],
+        [
+          45,
+          120
+        ],
+        [
+          45,
+          125
+        ],
+        [
+          40,
+          125
+        ],
+        [
+          35,
+          128
+        ],
+        [
+          40,
+          135
+        ],
+        [
+          52,
+          142
+        ],
+        [
+          55,
+          100
+        ],
+        [
+          60,
+          85
+        ],
+        [
+          65,
+          85
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/siberian-musk-deer.jpg"
+}

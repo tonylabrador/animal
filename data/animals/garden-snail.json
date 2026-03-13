@@ -1,0 +1,182 @@
+{
+  "id": "garden-snail",
+  "name_zh": "花园蜗牛",
+  "name_en": "Garden Snail",
+  "scientific_name": "Cornu aspersum",
+  "ui_tags": [
+    "Mollusk",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Mollusca",
+      "zh": "软体动物门"
+    },
+    "class": {
+      "en": "Gastropoda",
+      "zh": "腹足纲"
+    },
+    "order": {
+      "en": "Stylommatophora",
+      "zh": "柄眼目"
+    },
+    "family": {
+      "en": "Helicidae",
+      "zh": "大蜗牛科"
+    },
+    "genus": {
+      "en": "Cornu",
+      "zh": "角蜗牛属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A remarkably resilient terrestrial mollusk known for carrying its intricately patterned shell house wherever it slowly glides.",
+    "zh": "一种异常顽强的陆生软体动物，以无论缓慢滑行到哪里都背着其拥有复杂图案的贝壳房子而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The garden snail has a soft, slimy body enclosed in a hard, spiraled shell made of calcium carbonate. This distinct shell is mottled yellowish-brown with irregular dark brown bands. It possesses two pairs of tentacles on its head: the longer upper pair holds its light-sensitive 'eyes', while the shorter lower pair is dedicated to smelling and feeling its environment.",
+      "zh": "花园蜗牛拥有一个柔软、黏滑的身体，包裹在由碳酸钙组成的坚硬螺旋形外壳中。这个独特的外壳呈斑驳的黄褐色，带有不规则的深褐色带状图案。它的头部有两对触角：较长的上位触角上长着对光敏感的「眼睛」，而较短的下位触角则专门用于嗅觉和感知周围环境。"
+    },
+    "ecology_and_behavior": {
+      "en": "They move by gliding on a muscular 'foot', secreting mucus to reduce friction and protect against sharp objects—allowing them to literally crawl over a razor blade without injury. They are hermaphrodites, meaning each snail possesses both male and female reproductive organs, and during mating, they famously shoot each other with tiny calcium 'love darts'. They are nocturnal herbivores equipped with a radula, a ribbon-like tongue covered in thousands of microscopic teeth used to scrape up plant matter.",
+      "zh": "它们通过肌肉发达的「腹足」滑行，并分泌黏液以减少摩擦并防御尖锐物体保护自己——这让它们甚至能毫发无伤地爬过剃须刀片。它们是雌雄同体，这意味着每只蜗牛都同时拥有雄性和雌性生殖器官；在交配时，它们会用微小的钙质「爱情飞镖」射向彼此，这也是它们的一个著名特征。作为夜行性植食动物，它们配备了齿舌——这是一种覆盖着成千上万微小牙齿的带状舌头，用来刮取植物进食。"
+    },
+    "habitat_and_distribution": {
+      "en": "Originally native to the Mediterranean region and Western Europe, human activity has inadvertently (and sometimes intentionally, as a food source) spread them to temperate and subtropical areas all over the world. They thrive in damp, vegetated areas such as gardens, woods, and hedges, sealing the opening of their shells with dry mucus to survive dry or frosty conditions.",
+      "zh": "它们原产于地中海地区和西欧，人类活动在无意中（有时是有意地，作为食物来源）将它们传播到了世界各地的温带和亚热带地区。它们在潮湿、植被茂盛的地区（如花园、树林和灌木篱笆）繁衍生息，在干燥或霜冻条件下，能用干燥的黏液封住壳口以维持生命。"
+    }
+  },
+  "habitat": {
+    "text_en": "Damp Gardens and Woodlands",
+    "text_zh": "潮湿的花园与林地",
+    "map_coordinates": [
+      45,
+      10
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          30,
+          -10
+        ],
+        [
+          60,
+          -10
+        ],
+        [
+          60,
+          40
+        ],
+        [
+          30,
+          40
+        ],
+        [
+          30,
+          -10
+        ]
+      ],
+      [
+        [
+          25,
+          -125
+        ],
+        [
+          50,
+          -125
+        ],
+        [
+          50,
+          -70
+        ],
+        [
+          25,
+          -70
+        ],
+        [
+          25,
+          -125
+        ]
+      ],
+      [
+        [
+          -45,
+          110
+        ],
+        [
+          -10,
+          110
+        ],
+        [
+          -10,
+          155
+        ],
+        [
+          -45,
+          155
+        ],
+        [
+          -45,
+          110
+        ]
+      ],
+      [
+        [
+          -40,
+          -75
+        ],
+        [
+          -20,
+          -75
+        ],
+        [
+          -20,
+          -45
+        ],
+        [
+          -40,
+          -45
+        ],
+        [
+          -40,
+          -75
+        ]
+      ],
+      [
+        [
+          -35,
+          15
+        ],
+        [
+          -20,
+          15
+        ],
+        [
+          -20,
+          35
+        ],
+        [
+          -35,
+          35
+        ],
+        [
+          -35,
+          15
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/garden-snail.jpg"
+}

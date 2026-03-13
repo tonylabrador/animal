@@ -1,0 +1,138 @@
+{
+  "id": "great-white-pelican",
+  "name_zh": "大白鹈",
+  "name_en": "Great White Pelican",
+  "scientific_name": "Pelecanus onocrotalus",
+  "ui_tags": [
+    "Bird",
+    "River",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Pelecaniformes",
+      "zh": "鹈形目"
+    },
+    "family": {
+      "en": "Pelecanidae",
+      "zh": "鹈鹕科"
+    },
+    "genus": {
+      "en": "Pelecanus",
+      "zh": "鹈鹕属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A massive aquatic bird known for its gigantic bill and throat pouch, used to scoop up impressive amounts of fish.",
+    "zh": "一种巨大的水鸟，以其巨大的喙和喉囊而闻名，用来舀起惊人数量的鱼。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Great white pelicans are among the heaviest flying birds, with wingspans reaching up to 3.6 meters (11.8 ft). Their most distinctive feature is the massive bill with a huge, yellowish throat pouch capable of holding up to 13 liters (3.4 gallons) of water. During the breeding season, males develop a swollen, fleshy hook on the tip of their bill.",
+      "zh": "大白鹈是最重的飞行鸟类之一，翼展可达3.6米（11.8英尺）。它们最显著的特征是巨大的喙，带有一个巨大的淡黄色喉囊，可以容纳高达13升（3.4加仑）的水。在繁殖季节，雄性喙尖会发育出一个肿胀的肉质钩。"
+    },
+    "ecology_and_behavior": {
+      "en": "These birds are highly social and often hunt cooperatively. They form a horseshoe shape to corral schools of fish into shallow water, then plunge their massive bills in unison to scoop them up. Remarkably, they can eat up to 1.2 kg (2.6 lbs) of fish per day. Their pouch essentially acts as a short-term fishing net rather than a storage stomach.",
+      "zh": "这些鸟具有高度社会性，经常合作捕猎。它们排成马蹄形将鱼群赶进浅水区，然后齐刷刷地将它们巨大的喙伸入水中舀起猎物。令人惊叹的是，它们每天能吃掉多达1.2公斤（2.6磅）的鱼。它们的喉囊实际上起着短期渔网的作用，而不是用于储存食物的胃。"
+    },
+    "habitat_and_distribution": {
+      "en": "Great white pelicans inhabit large, warm, shallow lakes and swamps. They are found from southeastern Europe through Asia and across much of Africa. The African populations are mostly resident, remaining in the same areas year-round, while European and Asian populations are migratory, returning south for the winter.",
+      "zh": "大白鹈栖息在巨大、温暖且较浅的湖泊和沼泽中。它们的分布范围从欧洲东南部，穿越亚洲，一直延伸到非洲的大部分地区。非洲的种群大多是留鸟，全年留在同一地区；而欧洲和亚洲的种群则是候鸟，冬季会向南迁徙。"
+    }
+  },
+  "habitat": {
+    "text_en": "Shallow Lakes and Swamps",
+    "text_zh": "浅水湖泊与沼泽",
+    "map_coordinates": [
+      5,
+      30
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          45,
+          25
+        ],
+        [
+          45,
+          30
+        ],
+        [
+          42,
+          30
+        ],
+        [
+          42,
+          25
+        ],
+        [
+          45,
+          25
+        ]
+      ],
+      [
+        [
+          15,
+          -15
+        ],
+        [
+          15,
+          50
+        ],
+        [
+          -30,
+          50
+        ],
+        [
+          -30,
+          -15
+        ],
+        [
+          15,
+          -15
+        ]
+      ],
+      [
+        [
+          40,
+          60
+        ],
+        [
+          40,
+          70
+        ],
+        [
+          35,
+          70
+        ],
+        [
+          35,
+          60
+        ],
+        [
+          40,
+          60
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/great-white-pelican.jpg"
+}

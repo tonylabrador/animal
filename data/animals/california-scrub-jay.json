@@ -1,0 +1,110 @@
+{
+  "id": "california-scrub-jay",
+  "name_zh": "加州灌丛鸦",
+  "name_en": "California Scrub-Jay",
+  "scientific_name": "Aphelocoma californica",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Corvidae",
+      "zh": "鸦科"
+    },
+    "genus": {
+      "en": "Aphelocoma",
+      "zh": "丛鸦属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A highly intelligent, crestless blue jay natively restricted to the West Coast, known for meticulously burying acorns to retrieve later.",
+    "zh": "一种极度聪明、没有羽冠的蓝鸦，原产且严格限制在美国西海岸，以仔细埋藏橡子以备日后取食而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "A medium-sized, strikingly colorful corvid. Unlike the widespread Blue Jay of the East, the California scrub-jay does not have a head crest. It features a stunning, rich azure-blue head, wings, and tail, strongly contrasting with a dull brownish-grey back and a pale grey underbelly. A distinctive blue 'necklace' uniquely drops down onto its white chest. They possess a stout, remarkably strong black bill evolved specifically to hammer open hard nuts.",
+      "zh": "一种中等体型、色彩极其醒目的鸦科鸟类。与美国东部广泛分布的冠蓝鸦不同，加州灌丛鸦没有头冠。它拥有令人惊叹的、浓郁的蔚蓝色头部、带有同样蓝色的翅膀和尾羽，这与其暗褐灰色的背部和浅灰色的腹部形成强烈对比。一条独特的蓝色“项链”奇妙地垂落在它白色的胸前。它们长着粗壮且异常坚硬的黑色喙，这是专门为了敲开坚果而进化出来的。"
+    },
+    "ecology_and_behavior": {
+      "en": "Being members of the corvid family, they are astonishingly intelligent problem-solvers. They are avid 'cachers'—a single scrub-jay expertly gathers and buries up to 5,000 acorns each autumn over a vast territory. Unbelievably, they possess incredible spatial memory and can retrieve almost all of them months later. If they notice another jay watching them bury a nut, they will return later to secretly dig it up and re-hide it elsewhere to prevent theft.",
+      "zh": "作为鸦科动物的一员，它们是极其聪明的“问题解决专家”。它们是狂热的“贮藏者”——每到秋天，一只灌丛鸦就能在一大片领地上熟练地收集并埋藏多达5000颗橡子。令人难以置信的是，它们拥有超强空间记忆力，几个月后还能找回几乎所有的储藏。如果它们发现另一只鸦在盯着自己埋坚果，它们稍后会偷偷回来把它挖出来，重新藏到别处以防被盗。"
+    },
+    "habitat_and_distribution": {
+      "en": "Their range is remarkably narrow and specific. They are totally confined to the extreme western edge of North America, living exclusively from southern Washington State, down through Oregon and California west of the Sierra Nevada mountains, reaching into the northern tip of Baja California in Mexico. They meticulously carve out territories in oak woodlands, dry coastal scrub (chaparral), and well-vegetated suburbs.",
+      "zh": "它们的分布范围异常狭窄且极其特定。它们完全被限制在北美洲的最西侧边缘，严格只分布在华盛顿州南部，沿着内华达山脉以西穿过俄勒冈州和加利福尼亚州，最后延伸到墨西哥的下加利福尼亚半岛的北端。它们在橡树林、干燥的沿海灌丛（chaparral）以及植被茂盛的郊区精挑细选地建立着自己的领地。"
+    }
+  },
+  "habitat": {
+    "text_en": "Oak Woodlands and Coastal Chaparral",
+    "text_zh": "橡树林带与沿海灌木丛",
+    "map_coordinates": [
+      37,
+      -120
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          46,
+          -122
+        ],
+        [
+          42,
+          -122
+        ],
+        [
+          35,
+          -119
+        ],
+        [
+          30,
+          -115
+        ],
+        [
+          32,
+          -118
+        ],
+        [
+          37,
+          -123
+        ],
+        [
+          42,
+          -125
+        ],
+        [
+          46,
+          -124
+        ],
+        [
+          46,
+          -122
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/california-scrub-jay.jpg"
+}

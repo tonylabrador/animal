@@ -1,0 +1,110 @@
+{
+  "id": "cockatiel",
+  "name_zh": "玄凤鹦鹉",
+  "name_en": "Cockatiel",
+  "scientific_name": "Nymphicus hollandicus",
+  "ui_tags": [
+    "Bird",
+    "Grassland",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Psittaciformes",
+      "zh": "鹦形目"
+    },
+    "family": {
+      "en": "Cacatuidae",
+      "zh": "凤头鹦鹉科"
+    },
+    "genus": {
+      "en": "Nymphicus",
+      "zh": "鸡尾鹦鹉属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A universally beloved, expressive small parrot boasting a striking yellow crest and bright, 'Pikachu-like' orange cheek patches.",
+    "zh": "一种全球范围内极其深受喜爱的、表情极其丰富的小型鹦鹉，拥有一顶惊艳的黄色羽冠和明亮的、“皮卡丘般”的橙色脸颊斑块。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The cockatiel is the smallest member of the cockatoo family. The wild 'normal grey' male is beautifully streamlined, featuring a grey body, prominent white flashes on his wing edges, and a brilliantly contrasting yellow face crowned with an erectile 'crest'. This crest is a remarkably direct barometer of the bird's emotional state: perfectly vertical when startled or intensely curious, flattened when angry or defensive, and gently relaxed when at peace. The bright orange circular patches on their cheeks serve to visually attract mates.",
+      "zh": "玄凤鹦鹉（鸡尾鹦鹉）是由于体型最小的凤头鹦鹉科成员。野生的“原始灰”雄鸟拥有极其优美的流线型体态，长着灰色的身体，翅膀边缘有极其醒目的白色斑块，以及一张由于鲜明对比的亮黄色脸庞，上面顶着一顶极其独特的可充血竖起的“羽冠”——这是极其直接反映鸟儿情绪状态的晴雨表：在受惊或受到惊吓以及极度好奇时完全垂直竖起，在感到愤怒或防御时则会向后紧紧贴平，而在平静或满足时，它会微微弯曲呈温和的放松状态。它们脸颊极其显眼的亮橙色圆形斑块起着在视觉上吸引配偶的关键作用。"
+    },
+    "ecology_and_behavior": {
+      "en": "These highly social birds travel the harsh, arid Australian outback in massive, nomadic flocks, constantly searching endlessly for bodies of freshwater and fields of native grasses. They forage almost exclusively on the ground, delicately husking seeds with their specialized beaks. While females are generally quiet, males are incredibly vocal show-offs, utilizing a highly advanced vocal tract to flawlessly whistle complex tunes, mimic household noises like microwaves, and sing relentlessly to court females or claim territory.",
+      "zh": "这些极度社会化的鸟类在澳大利亚极其严酷、干旱的内陆地区成群结队地进行极其飘忽不定的游牧迁徙，几乎永无止境地不断寻找由于降雨而形成的临时淡水水域以及长满本土草籽的广阔平原。它们几乎完全是在地面上觅食，用它们极其特化的喙精巧地剥开一粒粒草籽。虽然由于雌鸟通常相对安静，但雄鸟却是极度高调炫技的“话痨大师”，它们极其擅长利用其高度进化的声道来完美地吹出由复杂旋律组成的口哨调、极度逼真地模仿微波炉或闹钟等各种极其常见的家庭噪音，并且极其不知疲倦地通过不断唱歌来向雌鸟求偶或宣示它的领地主权。"
+    },
+    "habitat_and_distribution": {
+      "en": "Although they are now bred in captivity worldwide as the second most popular pet bird, their wild ancestors remain exclusively native to Australia. However, they completely avoid the deep tropical rainforests of the north and the densely populated, cooler coastal regions of the deep south and east. Instead, they thrive exclusively throughout the incredibly harsh, sun-baked, arid internal 'Outback' regions (scrublands and savannas) where extreme temperature fluctuations and severe droughts are completely normal.",
+      "zh": "尽管如今它们作为全球第二大极其受欢迎的宠物鸟在世界各地被广泛人工繁育，但它们真正的野生祖先仍然是极其严格的澳大利亚特有种。然而非常奇妙的是，它们完全避开了澳大利亚北部潮湿的深部热带雨林，也彻底避开了东部和深南部极其寒冷、人口密集的大堡礁沿海地区。相反，它们仅仅依靠极端惊人的适应力，只极其顽强地繁衍生息在澳大利亚极其深处、被猛烈阳光无常炙烤着的大面积极其干旱内陆（即著名的“Outback”内陆灌木带和极其稀树草原），在那里极其剧烈的昼夜温度波动和长达数年的极度严重干旱是完全正常的生活常态。"
+    }
+  },
+  "habitat": {
+    "text_en": "Arid Australian Outback and Savannas",
+    "text_zh": "干旱的澳洲内陆与稀树草原",
+    "map_coordinates": [
+      -25,
+      135
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -28,
+          115
+        ],
+        [
+          -20,
+          115
+        ],
+        [
+          -15,
+          130
+        ],
+        [
+          -17,
+          140
+        ],
+        [
+          -15,
+          145
+        ],
+        [
+          -25,
+          145
+        ],
+        [
+          -35,
+          140
+        ],
+        [
+          -35,
+          130
+        ],
+        [
+          -28,
+          115
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/cockatiel.jpg"
+}

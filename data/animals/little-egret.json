@@ -1,0 +1,116 @@
+{
+  "id": "little-egret",
+  "name_zh": "小白鹭",
+  "name_en": "Little Egret",
+  "scientific_name": "Egretta garzetta",
+  "ui_tags": [
+    "Bird",
+    "River",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Pelecaniformes",
+      "zh": "鹈形目"
+    },
+    "family": {
+      "en": "Ardeidae",
+      "zh": "鹭科"
+    },
+    "genus": {
+      "en": "Egretta",
+      "zh": "白鹭属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A graceful, brilliantly white wading bird known for its striking yellow feet and the spectacular wispy plumes it grows during breeding season.",
+    "zh": "一种姿态优美、洁白无瑕的涉禽，以其醒目的黄色双脚和在繁殖期长出的华丽丝状饰羽而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The little egret is entirely white with a long, slender black beak and long dark legs that end in surprisingly bright yellow feet. During the breeding season, adults develop two long, ribbon-like plumes on their nape and elegant, loose feathers on their back and breast. These feathers, called aigrettes, were once so highly prized for decorating women's hats that the species was nearly hunted to extinction.",
+      "zh": "小白鹭通体洁白，长着细长的黑色喙和深色的长腿，腿的尽头是一双令人惊讶的亮黄色脚。在繁殖期，成鸟的颈背会长出两根长长的丝带状饰羽，背部和胸部也会长出优雅蓬松的羽毛。这些被称为「白鹭羽」的羽毛曾经因为被用来装饰女帽而备受追捧，导致该物种几乎被猎杀至绝灭。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are active hunters in shallow waters. Instead of standing completely still like some larger herons, little egrets often shuffle or scrape their bright yellow feet in the mud to startle small fish, frogs, and aquatic insects into revealing themselves. They are highly social, returning to large communal roosts at night and nesting in large colonies called heronries.",
+      "zh": "它们是浅水区活跃的捕食者。与一些体型较大的鹭类一动不动地站立不同，小白鹭经常在泥巴里拖拉或摩擦它们亮黄色的双脚，以此惊吓小鱼、青蛙和水生昆虫，迫使它们暴露行踪。它们具有高度社会性，晚上会返回大型公共栖息地，并在被称为「鹭鸟林」的大型群落中筑巢。"
+    },
+    "habitat_and_distribution": {
+      "en": "They inhabit a wide range of shallow wetlands, including lake shores, river banks, estuaries, and flooded fields. Originally native to warmer parts of Europe, Africa, Asia, and Australia, they have successfully expanded their range in recent decades, recently breeding across much of northern Europe and even establishing populations in the Americas.",
+      "zh": "它们栖息在包括湖岸、河岸、河口和被水淹没的田地在内的各种浅水湿地中。它们原产于欧洲、非洲、亚洲和澳大利亚较温暖的地区，近几十年来成功扩大了其分布范围，最近在北欧大部分地区繁殖，甚至在美洲建立了种群。"
+    }
+  },
+  "habitat": {
+    "text_en": "Shallow Wetlands and Estuaries",
+    "text_zh": "浅水湿地与河口",
+    "map_coordinates": [
+      30,
+      100
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          -35,
+          10
+        ],
+        [
+          55,
+          10
+        ],
+        [
+          55,
+          150
+        ],
+        [
+          -35,
+          150
+        ],
+        [
+          -35,
+          10
+        ]
+      ],
+      [
+        [
+          -5,
+          -45
+        ],
+        [
+          20,
+          -45
+        ],
+        [
+          20,
+          -85
+        ],
+        [
+          -5,
+          -85
+        ],
+        [
+          -5,
+          -45
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/little-egret.jpg"
+}

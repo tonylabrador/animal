@@ -1,0 +1,140 @@
+{
+  "id": "african-forest-elephant",
+  "name_zh": "非洲森林象",
+  "name_en": "African Forest Elephant",
+  "scientific_name": "Loxodonta cyclotis",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Proboscidea",
+      "zh": "长鼻目"
+    },
+    "family": {
+      "en": "Elephantidae",
+      "zh": "象科"
+    },
+    "genus": {
+      "en": "Loxodonta",
+      "zh": "非洲象属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "A highly endangered, smaller cousin of the savanna elephant, acting as the crucial 'mega-gardener' of the deep African rainforests.",
+    "zh": "一种极度濒危的、体型比草原象略小的非洲象，在非洲茂密的雨林中扮演着至关重要的“超级园丁”角色。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Although still massive, the African forest elephant is significantly smaller than the African bush elephant, standing around 2.5 meters (8 ft) at the shoulder. They have uniquely rounded, less expansive ears and straighter, downward-pointing tusks. This compact body design forms the perfect shape for maneuvering efficiently through the tangled, dense undergrowth of the jungle without getting snagged.",
+      "zh": "虽然体型依然庞大，但非洲森林象明显比非洲草原象小，肩高约2.5米（8英尺）。它们长着独特的圆形、较小伸展的耳朵，以及更直、向下指的象牙。这种紧凑的身体设计形成了完美的体型，让它们能在丛林中错综复杂、茂盛的下层植被中高效穿梭而不会被绊住。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are fundamental to their ecosystem. As they forage for a highly diverse diet of leaves, bark, and crucially fruits, they disperse massive seeds that no other animal can swallow whole. Passing through an elephant's digestive tract helps these giant seeds germinate. Their heavy footsteps also carve out clearings and trail networks in the forest, allowing sunlight to reach the forest floor to stimulate new plant growth.",
+      "zh": "它们对其生态系统起着基础性作用。当它们觅食树叶、树皮，尤其是各种果实组成的高度多样化饮食时，它们能传播大量其他动物无法整个吞下的硕大种子。经过大象消化道的处理，有助于这些巨型种子发芽。它们沉重的脚步还会在森林中开辟出空地和足迹网络，让阳光能照射到森林地面，从而刺激新植物的生长。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are restricted entirely to the equatorial rainforests of central and western Africa, particularly in the Congo Basin (countries like Gabon, Republic of Congo, and Cameroon). Their populations have suffered catastrophic declines due to relentless poaching for their high-quality pinkish ivory and extensive habitat destruction from logging.",
+      "zh": "它们完全局限于非洲中部和西部的赤道雨林，特别是在刚果盆地（如加蓬、刚果共和国和喀麦隆等国家）。由于偷猎者为了获取它们高质量的微粉色象牙而进行无休止的捕杀，加上伐木造成的广泛栖息地破坏，它们的种群数量遭受了灾难性的下降。"
+    }
+  },
+  "habitat": {
+    "text_en": "Dense Equatorial Rainforests",
+    "text_zh": "茂密的赤道雨林",
+    "map_coordinates": [
+      2,
+      15
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          5,
+          9
+        ],
+        [
+          6,
+          12
+        ],
+        [
+          4,
+          18
+        ],
+        [
+          1,
+          28
+        ],
+        [
+          -4,
+          28
+        ],
+        [
+          -6,
+          24
+        ],
+        [
+          -6,
+          12
+        ],
+        [
+          -1,
+          9
+        ],
+        [
+          5,
+          9
+        ]
+      ],
+      [
+        [
+          7,
+          -13
+        ],
+        [
+          10,
+          -11
+        ],
+        [
+          6,
+          -2
+        ],
+        [
+          5,
+          -4
+        ],
+        [
+          6,
+          -11
+        ],
+        [
+          4,
+          -13
+        ],
+        [
+          7,
+          -13
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/african-forest-elephant.jpg"
+}

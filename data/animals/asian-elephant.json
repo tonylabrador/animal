@@ -1,0 +1,198 @@
+{
+  "id": "asian-elephant",
+  "name_zh": "亚洲象",
+  "name_en": "Asian Elephant",
+  "scientific_name": "Elephas maximus",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Proboscidea",
+      "zh": "长鼻目"
+    },
+    "family": {
+      "en": "Elephantidae",
+      "zh": "象科"
+    },
+    "genus": {
+      "en": "Elephas",
+      "zh": "亚洲象属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The largest land mammal in Asia, recognizable by its smaller, rounded ears and highly intelligent, social nature.",
+    "zh": "亚洲最大的陆栖哺乳动物，可通过其较小而圆润的耳朵以及高度聪明、具有社会性的本性来辨认。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Asian elephants are smaller than their African cousins, reaching about 2.7 meters (9 ft) tall and weighing around 4,000 kg (8,800 lbs). They have a distinctive twin-domed head, small ears (often described as shaped like the map of India), and a trunk ending in a single, prehensile 'finger' at the tip. Unlike African elephants, only some male Asian elephants grow large external tusks; females and some males (called makhnas) have small tushes or no tusks at all.",
+      "zh": "亚洲象比非洲象小，站立身高约2.7米（9英尺），重约4000公斤（8800磅）。它们有一个带有明显双丘状突起的头部、较小的耳朵（常被形容为形状像印度地图），象鼻的顶端仅有一个可抓握的「手指」。与非洲象不同，只有部分雄性亚洲象会长出巨大的外露象牙；雌性和一些雄象（被称为makhnas）只有小象牙或者根本没有象牙。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are highly social, living in matriarchal herds led by the oldest and most experienced female. Their incredibly versatile trunk contains over 40,000 muscles—it's delicate enough to crack a peanut and strong enough to tear down whole trees. They communicate across vast distances using low-frequency rumbles (infrasound) that vibrate through the ground and can be felt through their sensitive feet.",
+      "zh": "它们具有高度社会性，生活在由最年长、经验最丰富的雌象领导的母系社会群体中。它们极具多功能性的象鼻包含着四万多块肌肉——它精巧到可以剥开一颗花生，同时又强壮到可以连根拔起一整棵树。它们使用通过地面振动传播的低频隆隆声（次声波）进行远距离交流，并且可以通过敏感的脚底感觉到这种振荡。"
+    },
+    "habitat_and_distribution": {
+      "en": "Historically widespread across southern Asia, from Iran to China, their habitat is now severely fragmented. Small, isolated populations are now scattered across countries like India, Sri Lanka, Nepal, Thailand, and Indonesia (Sumatra and Borneo). They mostly inhabit tropical and subtropical moist broadleaf forests, relying heavily on proximity to water sources for drinking and bathing to cool down their thick skin.",
+      "zh": "曾经极其广泛地分布在从伊朗到南亚及中国的广阔区域，如今它们的栖息地已遭受到严重破碎化。小而孤立的种群现在零星分布在印度、斯里兰卡、尼泊尔、泰国和印度尼西亚（苏门答腊岛和婆罗洲）等国家。它们主要栖息在这片热带和亚热带湿润阔叶林中，极其依赖靠近水源的地方洗澡来为它们厚实的皮肤降温。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical Moist Broadleaf Forests",
+    "text_zh": "热带湿润阔叶林",
+    "map_coordinates": [
+      20,
+      80
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          10,
+          77
+        ],
+        [
+          29,
+          78
+        ],
+        [
+          28,
+          88
+        ],
+        [
+          23,
+          90
+        ],
+        [
+          10,
+          79
+        ],
+        [
+          10,
+          77
+        ]
+      ],
+      [
+        [
+          7,
+          80
+        ],
+        [
+          10,
+          80
+        ],
+        [
+          8,
+          82
+        ],
+        [
+          6,
+          82
+        ],
+        [
+          7,
+          80
+        ]
+      ],
+      [
+        [
+          25,
+          93
+        ],
+        [
+          28,
+          97
+        ],
+        [
+          20,
+          102
+        ],
+        [
+          14,
+          100
+        ],
+        [
+          17,
+          98
+        ],
+        [
+          15,
+          96
+        ],
+        [
+          25,
+          93
+        ]
+      ],
+      [
+        [
+          -7,
+          104
+        ],
+        [
+          -2,
+          105
+        ],
+        [
+          5,
+          98
+        ],
+        [
+          2,
+          98
+        ],
+        [
+          -7,
+          104
+        ]
+      ],
+      [
+        [
+          7,
+          116
+        ],
+        [
+          5,
+          119
+        ],
+        [
+          3,
+          117
+        ],
+        [
+          1,
+          110
+        ],
+        [
+          5,
+          113
+        ],
+        [
+          7,
+          116
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/asian-elephant.jpg"
+}

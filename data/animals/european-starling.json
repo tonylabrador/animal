@@ -1,0 +1,230 @@
+{
+  "id": "european-starling",
+  "name_zh": "普通椋鸟",
+  "name_en": "European Starling",
+  "scientific_name": "Sturnus vulgaris",
+  "ui_tags": [
+    "Bird",
+    "Grassland",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Sturnidae",
+      "zh": "椋鸟科"
+    },
+    "genus": {
+      "en": "Sturnus",
+      "zh": "椋鸟属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A highly adaptable, iridescent songbird famous for gathering in mesmerizing, shape-shifting flocks called murmurations.",
+    "zh": "一种适应能力极强、羽毛闪烁着荧光的鸣禽，因能聚集成令人如痴如醉、不断变换形状的巨大鸟群（称为「椋鸟群舞」）而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The European starling is a stocky, blackbird-sized passerine with a short tail and long, pointed bill. In summer, adults display glossy black plumage with brilliant iridescent purple and green sheens, and their beak turns bright yellow. In winter, they are heavily speckled with white or buff spots. Their strong leg muscles allow them to pry open the ground (a technique called 'open-bill probing') to reach deeply buried grubs.",
+      "zh": "普通椋鸟是一种粗壮的、体型和乌鸫相仿的雀鸣禽，尾巴短，嘴又长又尖。在夏季，成鸟展示出闪亮的黑色羽毛，并带有耀眼的华丽紫色和绿色金属性光泽，它们的嘴会变成亮黄色。到了冬天，它们身上布满了密集的白色或浅黄褐色的斑点。它们强健的腿部肌肉能让它们撬开地面（一种被称为“开嘴探测”的技巧），以够到深埋在地下的蛴螬。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are fiercely aggressive competitors and incredibly versatile omnivores. They are renowned for their incredible vocal mimicry, capable of copying car alarms, ringing phones, and other bird calls. In autumn and winter, tens of thousands (sometimes over a million) of starlings gather before roosting to form a 'murmuration'. This colossal, swirling cloud of birds moves in perfect unison, creating a phenomenal visual display that confuses predators like falcons.",
+      "zh": "它们是异常凶猛的竞争者和适应力惊人的杂食动物。它们以惊人的声音模仿能力而闻名，能够模仿汽车防盗器、电话铃声以及其他鸟类的叫声。在秋天和冬天，成千上万（有时超过一百万）的椋鸟会在栖息前聚集在一起形成“鸟群云舞”。这片巨大、旋转的鸟云整齐划一地移动，创造出一种极其惊人的视觉奇观，从而使拉里等捕食者感到困惑而无法下手。"
+    },
+    "habitat_and_distribution": {
+      "en": "Originally native to Europe, western Asia, and North Africa. In 1890, a Shakespeare enthusiast released 100 starlings into New York's Central Park hoping to introduce all birds mentioned in Shakespeare's plays to North America. Today, there are over 200 million descending from that flock, spreading across the entire continent down to Mexico. They thrive in agricultural areas, woodlands, and deeply within metropolitan cities.",
+      "zh": "最初原产于欧洲、西亚和北非。1890年，一位莎士比亚狂热分子在纽约中央公园放飞了100只椋鸟，希望将莎翁剧作中提到的所有鸟类都引入北美。如今，有多达超过2亿只黑压压的后代不仅遍布了整个北美大陆，还一路向南蔓延到了墨西哥。它们在农业区、林地以及大都市的最深处都繁衍得非常旺盛。"
+    }
+  },
+  "habitat": {
+    "text_en": "Cosmopolitan (Urban, Agricultural, and Woodlands)",
+    "text_zh": "世界广泛分布（城市、农业区与林地）",
+    "map_coordinates": [
+      50,
+      10
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          35,
+          -10
+        ],
+        [
+          45,
+          -10
+        ],
+        [
+          55,
+          -5
+        ],
+        [
+          70,
+          0
+        ],
+        [
+          70,
+          40
+        ],
+        [
+          60,
+          90
+        ],
+        [
+          45,
+          90
+        ],
+        [
+          35,
+          75
+        ],
+        [
+          30,
+          50
+        ],
+        [
+          30,
+          30
+        ],
+        [
+          25,
+          15
+        ],
+        [
+          30,
+          0
+        ],
+        [
+          35,
+          -10
+        ]
+      ],
+      [
+        [
+          25,
+          -125
+        ],
+        [
+          50,
+          -125
+        ],
+        [
+          60,
+          -120
+        ],
+        [
+          60,
+          -60
+        ],
+        [
+          45,
+          -60
+        ],
+        [
+          30,
+          -80
+        ],
+        [
+          25,
+          -100
+        ],
+        [
+          25,
+          -125
+        ]
+      ],
+      [
+        [
+          -40,
+          110
+        ],
+        [
+          -20,
+          110
+        ],
+        [
+          -10,
+          140
+        ],
+        [
+          -10,
+          155
+        ],
+        [
+          -40,
+          155
+        ],
+        [
+          -40,
+          110
+        ]
+      ],
+      [
+        [
+          -40,
+          -75
+        ],
+        [
+          -20,
+          -75
+        ],
+        [
+          -20,
+          -45
+        ],
+        [
+          -40,
+          -45
+        ],
+        [
+          -40,
+          -75
+        ]
+      ],
+      [
+        [
+          -35,
+          15
+        ],
+        [
+          -25,
+          15
+        ],
+        [
+          -25,
+          30
+        ],
+        [
+          -35,
+          30
+        ],
+        [
+          -35,
+          15
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/european-starling.jpg"
+}

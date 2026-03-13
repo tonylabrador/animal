@@ -1,0 +1,110 @@
+{
+  "id": "northern-cardinal",
+  "name_zh": "北美红雀",
+  "name_en": "Northern Cardinal",
+  "scientific_name": "Cardinalis cardinalis",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Cardinalidae",
+      "zh": "美洲雀科"
+    },
+    "genus": {
+      "en": "Cardinalis",
+      "zh": "主红雀属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A fiercely territorial songbird famous for the male's arresting, all-over brilliant red plumage and prominent crest.",
+    "zh": "一种极具领地意识的鸣禽，以雄雀令人惊叹的、通体鲜艳的红色羽毛和醒目的羽冠而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The northern cardinal is a robust, mid-sized songbird featuring a distinctive raised crest on its head and a thick, cone-shaped bill perfect for crushing seeds. The male is entirely a breathtaking, vibrant red except for a striking black mask around his beak and eyes. Females are an elegant pale tan or olive brown with reddish tinges on their wings, tail, and crest.",
+      "zh": "北美红雀是一种粗壮的中型鸣禽，其特征是头部高耸的羽冠，以及专为碾碎种子而生的厚实圆锥形喙。除了喙和眼睛周围引人注目的黑色面罩外，雄鸟通体呈现出令人叹为观止的鲜艳红色。雌鸟则是优雅的淡黄褐色或橄榄棕色，翅膀、尾巴和羽冠上带有微红的光泽。"
+    },
+    "ecology_and_behavior": {
+      "en": "Only a few female North American songbirds sing, but the female northern cardinal does, often belting out clear, whistling melodies from the nest. Males are incredibly aggressive defenders of their territory; they are notoriously known to spend hours fiercely attacking their own brilliant red reflection in glass windows or car mirrors, thinking it's an invading male. They mostly forage on the ground, eating seeds, grains, and insects.",
+      "zh": "北美只有少数几种雌性鸣禽会唱歌，北美红雀就是其中之一，雌雀经常在巢中高唱清晰、如口哨般悦耳的旋律。雄雀是极度好斗的领地保卫者；它们因经常花费数小时凶猛地攻击自己在玻璃窗或汽车后视镜里那鲜艳红色的倒影（以为是入侵的雄性）而臭名昭著。它们主要在地面觅食，以种子、谷物和昆虫为食。"
+    },
+    "habitat_and_distribution": {
+      "en": "They do not migrate, relying on thick bushes for winter shelter. They are abundant strictly in the eastern and central United States, extending from extreme southern Canada down through Mexico to northern Guatemala. They favor the edges of woods, overgrown fields, hedgerows, and the dense shrubbery densely planted in suburban parks and backyards.",
+      "zh": "它们不迁徙，冬季依靠茂密的灌木丛避寒。它们严格、大量地分布在美国东部和中部，从加拿大最南端向下延伸穿过墨西哥，到达危地马拉北部。它们更喜欢树林边缘、杂草丛生的田野、灌木篱笆，以及郊区公园和后院密集种植的茂密灌木林。"
+    }
+  },
+  "habitat": {
+    "text_en": "Woodland Edges and Suburbs",
+    "text_zh": "树林边缘与郊区",
+    "map_coordinates": [
+      35,
+      -90
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          -100
+        ],
+        [
+          20,
+          -100
+        ],
+        [
+          25,
+          -105
+        ],
+        [
+          30,
+          -105
+        ],
+        [
+          45,
+          -100
+        ],
+        [
+          45,
+          -70
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          15,
+          -85
+        ],
+        [
+          15,
+          -100
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/northern-cardinal.jpg"
+}

@@ -1,0 +1,224 @@
+{
+  "id": "common-fruit-fly",
+  "name_zh": "黑腹果蝇",
+  "name_en": "Common Fruit Fly",
+  "scientific_name": "Drosophila melanogaster",
+  "ui_tags": [
+    "Insect",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Insecta",
+      "zh": "昆虫纲"
+    },
+    "order": {
+      "en": "Diptera",
+      "zh": "双翅目"
+    },
+    "family": {
+      "en": "Drosophilidae",
+      "zh": "果蝇科"
+    },
+    "genus": {
+      "en": "Drosophila",
+      "zh": "果蝇属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "A tiny household nuisance that has profoundly revolutionized our understanding of modern genetics and biology.",
+    "zh": "一种微小的家庭烦人精，却深刻地彻底改变了我们对现代遗传学和生物学的理解。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "This diminutive fly measures just 3 millimeters (0.12 inches) long. It's easily identified by its yellowish-brown body, transverse black rings across its abdomen, and striking, bright red compound eyes. Females are slightly larger than males. Despite its tiny size, its genome shares about 60% of its genes with humans, making it a perfect biological analog.",
+      "zh": "这种微小的苍蝇只有3毫米（0.12英寸）长。它的身体呈黄褐色，腹部有横向的黑环，还有引人注目的亮红色复眼，很容易辨认。雌性比雄性稍大。尽管它的体型极小，但它的基因组中有约60%的基因与人类相同，这使其成为完美的生物学类似物。"
+    },
+    "ecology_and_behavior": {
+      "en": "They don't strictly eat the fruit itself; they predominantly feed on, and lay their eggs in, the yeast and bacteria growing on overripe and rotting fruit. Their sense of smell is incredibly sharp, allowing them to detect the scent of ethanol and acetic acid (the products of fermentation) from far away. They have an astonishingly fast life cycle, developing from egg to reproducing adult in just 7 days at room temperature.",
+      "zh": "它们并不完全是吃水果本身；它们主要以生长在熟透和腐烂水果上的酵母菌和细菌为食，并在那里产卵。它们的嗅觉极其敏锐，能从很远的地方闻到乙醇和乙酸（发酵产物）的气味。它们有着惊人得快的生命周期，在室温下，从卵发育到能繁殖的成虫只需短短7天。"
+    },
+    "habitat_and_distribution": {
+      "en": "Originally native to sub-Saharan Africa, they have commensally spread alongside human agriculture and trade routes to become truly cosmopolitan. They are now found on every continent except Antarctica, thriving in orchards, kitchens, supermarkets, and anywhere decaying plant matter exists.",
+      "zh": "黑腹果蝇最初原产于撒哈拉以南非洲，后来伴随着人类的农业和贸易路线共生地传播开来，成为真正的世界性物种。除了南极洲，现在在每个大洲都能找到它们的踪影，在果园、厨房、超市以及任何存在腐烂植物物质的地方繁衍生息。"
+    }
+  },
+  "habitat": {
+    "text_en": "Cosmopolitan (Everywhere humans and fruit exist)",
+    "text_zh": "世界广泛分布（有人类和水果的地方）",
+    "map_coordinates": [
+      20,
+      10
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          -54,
+          -73
+        ],
+        [
+          -33,
+          -71
+        ],
+        [
+          -12,
+          -77
+        ],
+        [
+          0,
+          -80
+        ],
+        [
+          12,
+          -75
+        ],
+        [
+          20,
+          -100
+        ],
+        [
+          50,
+          -125
+        ],
+        [
+          60,
+          -135
+        ],
+        [
+          70,
+          -160
+        ],
+        [
+          70,
+          -60
+        ],
+        [
+          50,
+          -60
+        ],
+        [
+          30,
+          -80
+        ],
+        [
+          10,
+          -60
+        ],
+        [
+          -10,
+          -35
+        ],
+        [
+          -20,
+          -40
+        ],
+        [
+          -54,
+          -65
+        ],
+        [
+          -54,
+          -73
+        ]
+      ],
+      [
+        [
+          70,
+          20
+        ],
+        [
+          70,
+          170
+        ],
+        [
+          30,
+          120
+        ],
+        [
+          10,
+          105
+        ],
+        [
+          -10,
+          140
+        ],
+        [
+          -40,
+          150
+        ],
+        [
+          -40,
+          115
+        ],
+        [
+          -15,
+          120
+        ],
+        [
+          -10,
+          110
+        ],
+        [
+          10,
+          80
+        ],
+        [
+          5,
+          40
+        ],
+        [
+          -35,
+          30
+        ],
+        [
+          -35,
+          15
+        ],
+        [
+          -15,
+          10
+        ],
+        [
+          -5,
+          -10
+        ],
+        [
+          15,
+          -15
+        ],
+        [
+          35,
+          -5
+        ],
+        [
+          45,
+          -5
+        ],
+        [
+          60,
+          0
+        ],
+        [
+          70,
+          20
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/common-fruit-fly.jpg"
+}

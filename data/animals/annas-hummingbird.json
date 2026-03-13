@@ -1,0 +1,110 @@
+{
+  "id": "annas-hummingbird",
+  "name_zh": "安娜蜂鸟",
+  "name_en": "Anna's Hummingbird",
+  "scientific_name": "Calypte anna",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Apodiformes",
+      "zh": "雨燕目"
+    },
+    "family": {
+      "en": "Trochilidae",
+      "zh": "蜂鸟科"
+    },
+    "genus": {
+      "en": "Calypte",
+      "zh": "丽羽蜂鸟属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A jewel of the Pacific Coast, famously identifiable by the male's spectacular iridescent rose-red crown and throat.",
+    "zh": "太平洋海岸的一颗宝石，以雄鸟绝美的、闪着霓虹般玫瑰红色光泽的头冠和喉部而极易辨认。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Anna's hummingbird is a medium-sized hummingbird, about 4 inches (10 cm) long. Like all hummingbirds, they have tiny legs and long, incredibly thin, straight bills perfectly evolved for precision flower-probing. The male is unmistakable: his entire head (crown) and throat (gorget) are covered in tiny feathers containing microscopic structural prisms. These don't contain red pigment; instead, they magically scatter light to flash brilliant metallic crimson depending on his orientation to the sun.",
+      "zh": "安娜蜂鸟是一种中等体型的蜂鸟，体长约4英寸（10厘米）。像所有的蜂鸟一样，它们有着短小的腿以及极长、极细直的喙，完美地进化成了可以精确探测花朵的工具。雄鸟的特征极其醒目：他的整个头部（头冠）和喉部（喉羽）都覆盖着带有微观结构棱镜的小羽毛。这些羽毛里并没有红色色素；相反，它们能神奇地散射光线，根据其对太阳的朝向，闪烁出耀眼的金属深红色。"
+    },
+    "ecology_and_behavior": {
+      "en": "Their wingbeats are invisible to the human eye, humming at 50 to over 80 beats per second to hover motionlessly and even fly backwards. They consume more than their own weight in flower nectar daily to fuel their hyperactive metabolism. During courtship, the male executes an astounding, high-speed dive from 130 feet in the air. As he pulls up at the bottom, his outer tail feathers vibrate like a reed in a wind instrument, producing a sudden, loud chirping sound.",
+      "zh": "它们拍击翅膀的速度肉眼根本无法看清，以每秒50到80多下的频率发出嗡嗡声，能做到定点悬停甚至倒退飞行。它们每天要消耗超过自身体重的花蜜，以为其过度活跃的新陈代谢提供燃料。在求偶期间，雄鸟会从130英尺的高空进行一次惊人的俯冲。当他在底部拉升时，他外侧的尾羽会像管乐器中的簧片一样剧烈振动，发出一声突发且响亮的啁啾声。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are permanent, non-migratory residents confined strictly to the western coast of North America. They thrive in a very specific vertical strip stretching from southern British Columbia down through Washington, Oregon, and primarily California, ending in northern Mexico. They historically lived in chaparral and coastal scrub, but have enthusiastically adapted to suburban gardens enriched with exotic flowering plants and nectar feeders.",
+      "zh": "它们是永久性、不迁徙的留鸟，并且严格局限于居住在北美洲西海岸。在从不列颠哥伦比亚省南部向下延伸穿过华盛顿州、俄勒冈州，一直到加利福尼亚州（主要栖息地）并止于墨西哥北部的一条极其特定的垂直狭长地带内，它们繁衍生息。它们在历史上居住在灌木丛和沿海灌丛中，但现在已热情地适应了郊区到处栽满外来开花植物和花蜜喂食器的人造花园。"
+    }
+  },
+  "habitat": {
+    "text_en": "Coastal Scrub and Suburban Gardens",
+    "text_zh": "沿海灌丛与郊区花园",
+    "map_coordinates": [
+      37,
+      -122
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          30,
+          -114
+        ],
+        [
+          40,
+          -118
+        ],
+        [
+          50,
+          -120
+        ],
+        [
+          53,
+          -124
+        ],
+        [
+          55,
+          -133
+        ],
+        [
+          52,
+          -135
+        ],
+        [
+          40,
+          -125
+        ],
+        [
+          30,
+          -120
+        ],
+        [
+          30,
+          -114
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/annas-hummingbird.jpg"
+}

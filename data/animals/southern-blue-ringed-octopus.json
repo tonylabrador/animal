@@ -1,0 +1,130 @@
+{
+  "id": "southern-blue-ringed-octopus",
+  "name_zh": "南方蓝环章鱼",
+  "name_en": "Southern Blue-ringed Octopus",
+  "scientific_name": "Hapalochlaena maculosa",
+  "ui_tags": [
+    "Mollusk",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Mollusca",
+      "zh": "软体动物门"
+    },
+    "class": {
+      "en": "Cephalopoda",
+      "zh": "头足纲"
+    },
+    "order": {
+      "en": "Octopoda",
+      "zh": "八腕目"
+    },
+    "family": {
+      "en": "Octopodidae",
+      "zh": "章鱼科"
+    },
+    "genus": {
+      "en": "Hapalochlaena",
+      "zh": "蓝环章鱼属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "A temperate-water cousin of the lethal ringed family, possessing distinctly larger blue maculae (spots) and an exclusively southern territory.",
+    "zh": "作为致命蓝环家族的一名极其偏好温带水域的表亲，它拥有明显更大的蓝色斑块（而非完美的圆环），并且统治着一个专属的南方海域。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Southern blue-ringed octopus is one of the larger species within its diminutive, deadly genus, reaching up to 20 cm (8 inches) when stretched. Unlike the perfect, disconnected rings of its northern tropical 'Greater' relative, when this animal is threatened, it flashes large, slightly irregular, bright azure maculae (spots) that often merge and clump together over its dark brown, highly textured skin. It is entirely devoid of an ink sac, abandoning distraction tactics entirely in favor of an aggressively visible venom warning system.",
+      "zh": "南方蓝环章鱼是其极其微小且致命的属中体型较大的一种，伸展时长达20厘米（8英寸）。与其北方的热带亲戚「大蓝环章鱼」那些极其完美且相互独立的圆环不同，当这只动物受到致命威胁时，它会闪烁出巨大、略显不规则但极其明亮的蔚蓝色斑块（斑点），这些极其密集的蓝斑经常在它深棕色且极具质感的皮肤上融合聚集在一起。它体内完全不含墨囊，彻底放弃了喷墨干扰战术，而是全盘依赖其极度激进且耀眼的毒液视觉预警系统。"
+    },
+    "ecology_and_behavior": {
+      "en": "Like its relatives, it wields the incredibly deadly tetrodotoxin (TTX), a non-protein venom immune to heat degradation, meaning cooking will not neutralize it. It spends its days hiding strictly inside discarded bivalve shells, empty soda cans, or narrow crevices in rocky reefs. Females exhibit unparalleled maternal dedication; after laying a clutch of roughly 50 eggs, she holds the gelatinous mass constantly beneath her arms for up to six months. She fiercely refuses to eat during this entire incubation period and inevitably starves to death exactly as her offspring hatch.",
+      "zh": "与它的近亲完全一样，它同样挥舞着一种极其致命的神经毒素——河豚毒素(TTX)。这是一种非蛋白类毒素，对热降解免疫，这意味着即使极其高温烹饪也无法中和它的毒性。白天它永远极其严密地躲藏在废弃的极其坚硬双壳贝类内、海底的废弃汽水罐或极其狭窄的岩礁裂缝中。雌海怪表现出大自然中无与伦比的极其悲壮的母爱奉献精神；在产下一窝大约50枚卵后，她会将这一团极其脆弱的胶状卵紧紧抱在极其柔弱的触手下方长达极度漫长的六个月。在整个漫长极其耗损的孵化期内，她将极度固执地拒绝极其所有食物，并且必定会在极其饥饿的极度衰竭中，精准地随着极其最后一颗后代孵化破壳而悲壮饿死。"
+    },
+    "habitat_and_distribution": {
+      "en": "This particular species is uniquely cold-tolerant and entirely geographically isolated from the rest of the blue-ringed family. It is strictly endemic only to the much cooler, temperate coastal waters fringing the entire southern edge of the Australian continent. The specific distribution polygon traces the rocky southern coastline from temperate Western Australia, carving directly across the Great Australian Bight, tightly wrapping around South Australia and Victoria, and extending cleanly down surrounding the island of Tasmania in shallow rocky tide pools.",
+      "zh": "这种极其特殊的蓝色海怪出人意料地因为具有极强的耐寒性而在地理极其分布上完全与极其家族中的极其其他热带亲属彻底物理隔离。它是一种极其严格的地方特有致命物种，只栖息在环绕整个极其开阔的澳大利亚大陆极南边缘、极其寒冷得多的温带沿海近水区域中。其非常极其具体的地理多边形精准并且严格地沿着凉爽极其温带西澳大利亚极其陡峭岩石极其曲折的南部海岸线无情下切，径直彻底横穿巨大的极其风暴大澳大利亚湾，极其紧密地极其完全包裹住南澳大利亚和维多利亚州的海边边境，并异常干净利落地极其最后极其极其无情地下向下极其极度扩张紧紧包围住极其最南端的塔斯马尼亚岛的所有极浅的致命岩石潮池。"
+    }
+  },
+  "habitat": {
+    "text_en": "Temperate Australian Southern Coast",
+    "text_zh": "温带澳大利亚南部沿海",
+    "map_coordinates": [
+      -35,
+      135
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -28,
+          112
+        ],
+        [
+          -35,
+          115
+        ],
+        [
+          -35,
+          125
+        ],
+        [
+          -35,
+          135
+        ],
+        [
+          -38,
+          140
+        ],
+        [
+          -40,
+          142
+        ],
+        [
+          -45,
+          144
+        ],
+        [
+          -45,
+          150
+        ],
+        [
+          -40,
+          150
+        ],
+        [
+          -38,
+          148
+        ],
+        [
+          -35,
+          135
+        ],
+        [
+          -32,
+          125
+        ],
+        [
+          -28,
+          115
+        ],
+        [
+          -28,
+          112
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/southern-blue-ringed-octopus.jpg"
+}

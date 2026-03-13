@@ -1,0 +1,102 @@
+{
+  "id": "hyacinth-macaw",
+  "name_zh": "紫蓝金刚鹦鹉",
+  "name_en": "Hyacinth Macaw",
+  "scientific_name": "Anodorhynchus hyacinthinus",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Psittaciformes",
+      "zh": "鹦形目"
+    },
+    "family": {
+      "en": "Psittacidae",
+      "zh": "鹦鹉科"
+    },
+    "genus": {
+      "en": "Anodorhynchus",
+      "zh": "琉璃金刚鹦鹉属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The largest flying parrot species in the world, stunningly draped in deep, striking cobalt-blue plumage with bright yellow eye rings.",
+    "zh": "世界上最大的会飞的鹦鹉，披着令人惊叹的、引人注目的深钴蓝色羽毛，并带有明亮的黄色眼圈。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The majestic hyacinth macaw is truly massive, reaching up to 1 meter (40 inches) in length from the tip of its tail to the top of its head, and weighing up to 1.7 kg. Its stunning feathers are entirely rich, solid cobalt blue, broken only by brilliant 'sunburst' yellow rings around its eyes and at the base of its lower beak. This beak is not just large; it is strong enough to crack open coconuts, the Macadamia nut, and welded wire cages.",
+      "zh": "雄伟的紫蓝金刚鹦鹉体型确实庞大，从尾巴尖到头顶的长度可达1米（40英寸），体重可达1.7公斤。它那令人惊叹的羽毛是完全浓郁的纯钴蓝色，只被眼睛周围和下喙底部明亮的“日光射线般的”黄色环所打破。它的喙不仅很大；而且强壮到足以咬开结实的椰子壳、澳洲坚果，甚至能咬断焊接的铁丝鸟笼。"
+    },
+    "ecology_and_behavior": {
+      "en": "Despite their formidable size and sheer beak strength, they are famously known as 'gentle giants' due to their affectionate, even-tempered, and highly social nature. They almost exclusively eat the rock-hard nuts from native palm trees, using a special bone inside their tongue to expertly tap the nut into the perfect position to deliver a crushing bite. In the wild, they mate for life and are rarely seen without their partner flying side-by-side.",
+      "zh": "尽管它们体型庞大且喙部力量惊人，但它们却因充满深情、性情温和及高度群居的天性而被称为“温柔的巨人”。它们几乎只吃本地棕榈树上坚如磐石的坚果，它们会利用舌头内一块特殊的骨头巧妙地敲击坚果，将其调整到完美的角度进行致命的咬合。在野外，它们终生相伴，很少看到它们不和伴侣并排飞行。"
+    },
+    "habitat_and_distribution": {
+      "en": "Unlike many other large macaws that live deep within the dense, dark Amazon basin rainforests, hyacinth macaws prefer semi-open palm swamps, woodlands, and the edges of the Pantanal (the world's largest tropical wetland region) extending into Brazil, eastern Bolivia, and northeastern Paraguay. Relentless trapping for the illegal pet trade and rampant destruction of their nesting palm trees have made them a vulnerable species.",
+      "zh": "与许多其他生活在茂密、黑暗的亚马逊盆地热带雨林深处的大型金刚鹦鹉不同，紫蓝金刚鹦鹉更喜欢半开阔的棕榈沼泽、林地，以及延伸至巴西、玻利维亚东部和巴拉圭东北部的潘塔纳尔（世界上最大的热带湿地地区）的边缘地带。为了非法宠物贸易而进行的无情捕捉，以及对其筑巢棕榈树的猖獗破坏，使它们成为了一个易危物种。"
+    }
+  },
+  "habitat": {
+    "text_en": "Palm Swamps and the Pantanal Edges",
+    "text_zh": "棕榈沼泽与潘塔纳尔林缘",
+    "map_coordinates": [
+      -15,
+      -55
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -21,
+          -58
+        ],
+        [
+          -17,
+          -58
+        ],
+        [
+          -12,
+          -49
+        ],
+        [
+          -10,
+          -42
+        ],
+        [
+          -14,
+          -40
+        ],
+        [
+          -21,
+          -50
+        ],
+        [
+          -21,
+          -58
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/hyacinth-macaw.jpg"
+}

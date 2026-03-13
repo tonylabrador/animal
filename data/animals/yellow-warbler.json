@@ -1,0 +1,150 @@
+{
+  "id": "yellow-warbler",
+  "name_zh": "黄林莺",
+  "name_en": "Yellow Warbler",
+  "scientific_name": "Setophaga petechia",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Parulidae",
+      "zh": "森莺科"
+    },
+    "genus": {
+      "en": "Setophaga",
+      "zh": "橙尾鸲莺属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A brilliant, vividly yellow little songbird that flits energetically through willows and wet thickets across the Americas.",
+    "zh": "一种毛色极其鲜艳明黄的小型鸣禽，在整个美洲的柳树林和潮湿的灌木丛中精力充沛地穿梭飞舞。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The yellow warbler is a small, uniformly golden-yellow bird, lacking the intricate facial patterns typical of many other warblers. Males are particularly stunning, featuring rusty-red streaks cascading down their bright yellow breasts like melted caramel. Females and immature birds are slightly paler and lack the pronounced red streaking. They have a relatively stout, pointed bill perfect for snatching tiny insects off foliage.",
+      "zh": "黄林莺是一种小型的、通体呈金黄色的鸟类，没有许多其他林莺那种错综复杂的面部花纹。雄鸟尤为惊艳，其亮黄色的胸前如同融化的焦糖一般垂落着铁锈红色的斑纹。雌鸟和未成熟的幼鸟颜色稍浅，且缺乏明显的红色斑纹。它们长着一个相对粗壮、尖锐的喙，极其完美地适应了从树叶上精准抓取微小昆虫。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are hyperactive foragers, constantly hopping and wildly fluttering through the outer branches of trees to glean caterpillars and spiders. Their song is incredibly sweet and rapid, often memorized by birders as sounding like 'sweet, sweet, sweet, I'm so sweet'. They are a frequent victim of the parasitic Brown-headed Cowbird, which lays its eggs in the warbler's nest. Incredibly, instead of merely abandoning the nest, the yellow warbler often builds a new nest floor directly over the imposter egg and starts her clutch again.",
+      "zh": "它们是极度活跃的觅食者，不断在树木的外层枝条间跳跃和疯狂地拍打翅膀，以搜集毛毛虫和蜘蛛。它们的歌声极其甜美而急促，经常被观鸟者记忆为听起来像在唱“甜、甜、甜，我好甜”。它们经常是寄生的褐头牛鹂的受害者，牛鹂会把蛋产在林莺的巢里。令人难以置信的是，黄林莺通常不会简单地弃巢，而是经常直接把新的巢底建在冒牌蛋的上方，然后重新开始产卵。"
+    },
+    "habitat_and_distribution": {
+      "en": "They occupy an incredibly vast range across the Americas. During the summer breeding season, they spread densely across almost all of North America, from the high Arctic tundra line in Alaska and Canada down through the United States to central Mexico, heavily favoring wet thickets and willow-lined streams. For the winter, they undertake a massive migration down to Central America and northern South America, completely abandoning their northern ranges.",
+      "zh": "它们在整个美洲占据着极其广阔的分布范围。在夏季繁殖季节，它们密集地遍布几乎整个北美洲，从阿拉斯加和加拿大的高纬度北极苔原线，向下穿过美国到达墨西哥中部，它们极度偏爱潮湿的灌木丛和长满柳树的溪流。到了冬天，它们会进行一场大规模迁徙，飞往中美洲和南美洲北部，彻底弃掉北方的分布区。"
+    }
+  },
+  "habitat": {
+    "text_en": "Wet Thickets, Willows, and Streamsides",
+    "text_zh": "潮湿灌丛、柳树林与溪流边",
+    "map_coordinates": [
+      38,
+      -95
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          70,
+          -165
+        ],
+        [
+          65,
+          -135
+        ],
+        [
+          60,
+          -110
+        ],
+        [
+          55,
+          -90
+        ],
+        [
+          50,
+          -60
+        ],
+        [
+          40,
+          -70
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          10,
+          -85
+        ],
+        [
+          -15,
+          -75
+        ],
+        [
+          -15,
+          -45
+        ],
+        [
+          -5,
+          -50
+        ],
+        [
+          15,
+          -65
+        ],
+        [
+          20,
+          -75
+        ],
+        [
+          25,
+          -95
+        ],
+        [
+          30,
+          -115
+        ],
+        [
+          35,
+          -125
+        ],
+        [
+          55,
+          -135
+        ],
+        [
+          60,
+          -165
+        ],
+        [
+          70,
+          -165
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/yellow-warbler.jpg"
+}

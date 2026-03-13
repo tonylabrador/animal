@@ -1,0 +1,138 @@
+{
+  "id": "giant-apple-snail",
+  "name_zh": "巨型苹果螺",
+  "name_en": "Giant Apple Snail",
+  "scientific_name": "Pomacea maculata",
+  "ui_tags": [
+    "Mollusk",
+    "River",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Mollusca",
+      "zh": "软体动物门"
+    },
+    "class": {
+      "en": "Gastropoda",
+      "zh": "腹足纲"
+    },
+    "order": {
+      "en": "Architaenioglossa",
+      "zh": "主扭舌目"
+    },
+    "family": {
+      "en": "Ampullariidae",
+      "zh": "瓶螺科"
+    },
+    "genus": {
+      "en": "Pomacea",
+      "zh": "瓶螺属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "One of the largest freshwater snails in the world, notorious for laying masses of bright pink eggs above the waterline.",
+    "zh": "世界上最大的淡水螺之一，因在水面之上产下大团鲜艳的粉红色卵块而臭名昭著。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "As its name suggests, this massive snail can grow an Apple-sized shell measuring up to 15 centimeters (6 inches) across. It possesses a fascinating dual respiratory system: a gill for breathing underwater and a lung for breathing air. It extends an impressive tube called a siphon up to the water's surface to inhale air without exposing itself to predators.",
+      "zh": "顾名思义，这种体型庞大的螺能长出一个像苹果一样大、直径可达15厘米（6英寸）的壳。它拥有一个奇妙的双重呼吸系统：在水下呼吸的鳃和在空气中呼吸的肺。它能伸出一根极其惊人的、被称为虹吸管的管子到水面上吸入空气，而无需将自己暴露给捕食者。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are voracious aquatic herbivores equipped to mow down immense volumes of aquatic vegetation. To avoid aquatic egg predators, females crawl out of the water at night to lay striking, bright bubble-gum pink egg masses on plant stems or structures above the waterline. Each mass can contain thousands of individual eggs containing a neurotoxin to deter predators.",
+      "zh": "它们是贪婪的水生植食动物，有能力吞食和清除掉大量的巨型水生植被。为了躲避水中的卵捕食者，雌螺会在晚上爬出水面，在水面以上的植物茎干或建筑物上产下引人注目的泡泡糖般鲜艳的粉红色卵块。每个卵块可能包含数千个单颗螺卵，这些卵带有一种神经毒素，以阻止捕食者。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to the rivers, lakes, and marshes of South America. However, mostly due to the aquarium trade, they have been introduced to North America, Asia, and other regions where they have become a highly devastating invasive species, destroying rice crops and drastically altering local wetland ecosystems.",
+      "zh": "原产于南美洲的河流、湖泊和沼泽。然而，主要由于水族贸易的需求，它们被引入了北美、亚洲和其他地区，并在那里成为一种极具破坏性的入侵物种，摧毁水稻作物并极大地改变了当地湿地生态系统。"
+    }
+  },
+  "habitat": {
+    "text_en": "Freshwater Lakes, Rivers and Wetlands",
+    "text_zh": "淡水湖泊、河流与湿地",
+    "map_coordinates": [
+      -15,
+      -60
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          -35,
+          -75
+        ],
+        [
+          10,
+          -75
+        ],
+        [
+          10,
+          -35
+        ],
+        [
+          -35,
+          -35
+        ],
+        [
+          -35,
+          -75
+        ]
+      ],
+      [
+        [
+          25,
+          -100
+        ],
+        [
+          35,
+          -100
+        ],
+        [
+          35,
+          -80
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          25,
+          -100
+        ]
+      ],
+      [
+        [
+          -10,
+          95
+        ],
+        [
+          40,
+          95
+        ],
+        [
+          40,
+          130
+        ],
+        [
+          -10,
+          130
+        ],
+        [
+          -10,
+          95
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/giant-apple-snail.jpg"
+}

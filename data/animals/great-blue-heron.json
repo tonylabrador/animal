@@ -1,0 +1,94 @@
+{
+  "id": "great-blue-heron",
+  "name_zh": "大蓝鹭",
+  "name_en": "Great Blue Heron",
+  "scientific_name": "Ardea herodias",
+  "ui_tags": [
+    "Bird",
+    "River",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Pelecaniformes",
+      "zh": "鹈形目"
+    },
+    "family": {
+      "en": "Ardeidae",
+      "zh": "鹭科"
+    },
+    "genus": {
+      "en": "Ardea",
+      "zh": "鹭属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The largest heron in North America, a majestic wader with a subtle blue-grey plumage and a lightning-fast strike.",
+    "zh": "北美洲最大的鹭类，一种拥有微妙蓝灰色羽毛且出击如闪电般迅速的雄伟涉禽。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The great blue heron is an elegant wading bird capable of standing over 1.3 meters (4.5 ft) tall. They have long, sinuous necks, extremely thin stilt-like legs, and a thick, dagger-like bill. When flying, they tuck their long neck into an 'S' shape, unlike cranes which stretch their necks out straight.",
+      "zh": "大蓝鹭是一种优雅的涉禽，站立时身高可超过1.3米（4.5英尺）。它们有盘曲纤长的脖子、极细的踩高跷般的腿和厚实如匕首般的喙。飞行时，它们将长脖子缩成“S”形，这与伸直脖子飞行的鹤截然不同。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are incredibly patient ambush predators. A great blue heron will stand motionless in shallow water for long periods, or wade extremely slowly. When a fish passes by, the heron unleashes a lightning-fast strike with its neck and bill to spear or grab the prey. Besides fish, they can swallow frogs, rodents, insects, and even small birds whole.",
+      "zh": "它们是极具耐心的伏击掠食者。大蓝鹭会长时间一动不动地站在浅水中，或者极其缓慢地涉水。当鱼游过时，鹭会用脖子和喙发出闪电般的致命一击来刺穿或抓住猎物。除了鱼类，它们还能将青蛙、啮齿动物、昆虫甚至小鸟整个吞下。"
+    },
+    "habitat_and_distribution": {
+      "en": "Highly adaptable, they are found throughout North America, Central America, the Caribbean, and northern South America. Practically anywhere with calm, shallow water—from coastlines and tidal flats to inland rivers, ponds, and marshes—serves as an ideal hunting ground.",
+      "zh": "它们的适应性极强，分布在整个北美洲、中美洲、加勒比海和南美洲北部。几乎任何有平静、较浅水域的地方——从海岸线和潮滩，到内陆的河流、池塘和沼泽——都是它们理想的狩猎场。"
+    }
+  },
+  "habitat": {
+    "text_en": "Fresh and Saltwater Marshes, Riverbanks",
+    "text_zh": "淡水与咸水沼泽、河岸",
+    "map_coordinates": [
+      38,
+      -95
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          8,
+          -130
+        ],
+        [
+          60,
+          -130
+        ],
+        [
+          60,
+          -60
+        ],
+        [
+          8,
+          -60
+        ],
+        [
+          8,
+          -130
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/great-blue-heron.jpg"
+}

@@ -1,0 +1,118 @@
+{
+  "id": "greater-blue-ringed-octopus",
+  "name_zh": "大蓝环章鱼",
+  "name_en": "Greater Blue-ringed Octopus",
+  "scientific_name": "Hapalochlaena lunulata",
+  "ui_tags": [
+    "Mollusk",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Mollusca",
+      "zh": "软体动物门"
+    },
+    "class": {
+      "en": "Cephalopoda",
+      "zh": "头足纲"
+    },
+    "order": {
+      "en": "Octopoda",
+      "zh": "八腕目"
+    },
+    "family": {
+      "en": "Octopodidae",
+      "zh": "章鱼科"
+    },
+    "genus": {
+      "en": "Hapalochlaena",
+      "zh": "蓝环章鱼属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "A tiny, seemingly harmless octopus carrying enough venom to kill 26 adult humans, advertising its lethal nature with brilliantly glowing iridescent rings.",
+    "zh": "一种极其微小、看似人畜无害的章鱼，却携带着足以杀死26名成年人的剧毒，并用极其耀眼的蓝色荧光环来警告其致命本性。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Despite its 'greater' name, it is a remarkably small cephalopod, rarely exceeding 10 cm (4 inches) including its arms. Usually, it appears as a nondescript, camouflaged yellowish-brown blob blending into sand and rubble. However, when agitated, specialized chromatophore cells instantly expand to reveal 50 to 60 striking, iridescent blue rings pulsing across its mantle and arms. These luminescent 'rings of death' are one of nature's most unambiguous warning signals.",
+      "zh": "尽管名字里有个「大」字，它却是一种极其微小的头足类动物，连带触手很少超过10厘米。平时它通常呈现出不起眼的黄褐色伪装，与周围的沙子和碎石融为一体。然而当被激怒时，一种特殊的色素细胞会瞬间膨胀，在其外套膜和触手上显现出50到60个极其耀眼、脉动闪烁的虹彩蓝环。这些发光的「死亡之环」是大自然中最明确无误的终极警告信号之一。"
+    },
+    "ecology_and_behavior": {
+      "en": "It is a benthic predator that hunts small crabs and shrimp by rapidly pouncing and engulfing them within its webbed arms. It paralyzes prey using a highly modified beak to inject a potent neurotoxin called tetrodotoxin (TTX) produced by symbiotic bacteria in its salivary glands. This venom completely blocks sodium channels, causing rapid motor paralysis and respiratory failure in victims within minutes. Because the bite is tiny and often completely painless, human victims rarely realize they have been envenomated until they tragically lose the ability to breathe.",
+      "zh": "这是一种底栖捕食者，通过快速扑向猎物并用连有腕膜的触手将其包裹，来捕食小型螃蟹和虾类。它利用特化的喙注入一种名为河豚毒素(TTX)的强效神经毒素来麻痹猎物，这种毒素由其唾液腺内的共生细菌产生。该毒液能彻底阻断神经钠离子通道，在几分钟内导致受害者运动神经完全瘫痪和呼吸衰竭。因为它的咬伤极其细小且通常完全无痛，被咬的人类很少意识到自己中毒，直到悲剧性地失去呼吸能力。"
+    },
+    "habitat_and_distribution": {
+      "en": "The Greater blue-ringed octopus is broadly distributed across the shallow, warm tropical waters of the Indo-Pacific. Its range traces the coral rubble, tide pools, and shallow sandy flats from Sri Lanka, running extensively throughout the Philippines and Indonesian archipelagos, plunging down to the northern coast of Australia, and stretching eastwards toward Vanuatu. They are strictly marine and exclusively inhabit depths of less than 20 meters.",
+      "zh": "大蓝环章鱼广泛分布于印度洋-太平洋极其温暖的浅水热带海域。它的分布轨迹沿着斯里兰卡的珊瑚碎石、潮池和浅沙滩，广泛穿越极其错综复杂的菲律宾和印度尼西亚群岛，向下延伸至澳大利亚的北部海岸带，并向东一直绵延至瓦努阿图。它们是极其纯正的海洋生物，并且严格只栖息在深度不到20米的极浅水区中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Indo-Pacific Tropical Reefs and Shallow Flats",
+    "text_zh": "印太热带珊瑚礁与极浅滩",
+    "map_coordinates": [
+      0,
+      120
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          15,
+          75
+        ],
+        [
+          -12,
+          110
+        ],
+        [
+          -20,
+          140
+        ],
+        [
+          -25,
+          155
+        ],
+        [
+          -15,
+          170
+        ],
+        [
+          -5,
+          160
+        ],
+        [
+          15,
+          130
+        ],
+        [
+          25,
+          125
+        ],
+        [
+          15,
+          115
+        ],
+        [
+          20,
+          95
+        ],
+        [
+          15,
+          75
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/greater-blue-ringed-octopus.jpg"
+}

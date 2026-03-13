@@ -1,0 +1,192 @@
+{
+  "id": "brown-widow",
+  "name_zh": "褐寡妇蛛",
+  "name_en": "Brown Widow",
+  "scientific_name": "Latrodectus geometricus",
+  "ui_tags": [
+    "Arthropod",
+    "Forest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Arachnida",
+      "zh": "蛛形纲"
+    },
+    "order": {
+      "en": "Araneae",
+      "zh": "蜘蛛目"
+    },
+    "family": {
+      "en": "Theridiidae",
+      "zh": "姬蛛科"
+    },
+    "genus": {
+      "en": "Latrodectus",
+      "zh": "寡妇蛛属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "An aggressive invasive cousin of the black widow, sporting a mottled brown shell, a distinctly orange hourglass, and highly distinctive spiked egg sacs.",
+    "zh": "黑寡妇的一种极具侵略性的入侵远亲，披着斑驳的棕色外壳，拥有极其独特的橙色沙漏以及极具辨识度的带刺卵囊。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The brown widow is generally slightly smaller and distinctly lighter-colored than the black widow. Instead of glossy black, its abdomen is heavily mottled and patterned with complex geometric designs in varying shades of tan, brown, and grey. Rather than a stark red warning, the hourglass marking on the underside of a female brown widow's abdomen is a highly visible yellow-orange or muted orange. Uniquely, they construct incredibly spiky, spherical egg sacs that perfectly resemble incredibly tiny, yellowish World War II naval landmines, making their presence instantly identifiable.",
+      "zh": "褐寡妇在体型上通常比黑寡妇稍小，且颜色明显浅得多。它的腹部不再是极其乌亮的光泽黑色，而是布满了斑驳的图案，并带有复杂的由各种深浅不一的棕褐色、棕色和灰色组合而成的几何设计。与令人震惊的鲜红色警告标志不同，雌性褐寡妇腹部底面的沙漏标志是极其醒目的黄橙色或暗淡的橙色。极为独特的是，它们能够构建出布满尖刺的球形卵囊，这些卵囊极其完美地类似于二战时期极其微小的黄色水雷，这成为了瞬间识别它们存在的最致命特征。"
+    },
+    "ecology_and_behavior": {
+      "en": "Intriguingly, the brown widow's venom is chemically determined to be approximately twice as potent as the venom of a black widow on an equal-volume basis. However, their bites are usually significantly much less dangerous to humans because they inject a vastly smaller amount of venom per bite and cannot pierce the skin as deeply. Furthermore, they are incredibly timid, preferring to immediately retreat into severe hiding rather than defend their irregular webs. As a highly successful invasive species, they are fiercely outcompeting and rapidly displacing native black widow populations in urban areas.",
+      "zh": "非常耐人寻味的是，从化学层面测定，在同等体积下，褐寡妇的毒液效力大约是黑寡妇毒液的两倍。然而，它们对人类造成的咬伤通常危险性要小得多，因为它们无论是每次撕咬注入的毒液量都少得多，而且它们更小的獠牙无法极其深入地刺穿皮肤。此外，它们拥有极其病态的害羞性格，极其倾向于在受到惊飞时立刻躲进深度隐藏处，而不是保卫它们那极其不规则的蛛网。作为一种极其成功的入侵物种，在城市环境中，它们正在残酷地击败并极其迅速地取代本地的黑寡妇种群。"
+    },
+    "habitat_and_distribution": {
+      "en": "Believed to have originally evolved in either Africa or South America, the brown widow is now a wildly successful, pantropical invasive species perfectly adapted to human urbanization. Because they cannot survive freezing ground temperatures, their global distribution creates incredibly precise patchy polygons completely hugging the tropical and subtropical belts of the globe. They are aggressively found in South Africa, Australia, Japan, the Caribbean, South America, and across the warm southern coastal strip of the United States (Florida to California), often hiding under patio furniture and plastic outdoor children's toys.",
+      "zh": "人们普遍认为褐寡妇最初进化于非洲或南美洲，如今它已彻底沦为一种极其成功的泛热带区入侵物种，极其完美地适应了人类的城市化进程。由于它们完全无法在零度以下冷冻的地面温度中存活，它们的全球分布图构成了极其精确的斑块状多边形，完全死死地紧贴地球的热带和亚热带气候带。如今在南非、澳大利亚、日本、加勒比海、南美洲以及极其分散横跨美国整个温暖的南部沿海地带（从佛罗里达州一直到加利福尼亚半岛）都能极其普遍地发现它们的踪影，最令人感到恐惧的是，它们极其喜欢躲在外卖庭院家具下甚至户外极其常见的塑料儿童玩具底部。"
+    }
+  },
+  "habitat": {
+    "text_en": "Pantropical Urban Areas and Structures",
+    "text_zh": "泛热带的城市区域与人造结构",
+    "map_coordinates": [
+      -25,
+      25
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          -35,
+          15
+        ],
+        [
+          -20,
+          15
+        ],
+        [
+          -20,
+          35
+        ],
+        [
+          -35,
+          35
+        ],
+        [
+          -35,
+          15
+        ]
+      ],
+      [
+        [
+          -40,
+          115
+        ],
+        [
+          -25,
+          115
+        ],
+        [
+          -15,
+          140
+        ],
+        [
+          -25,
+          155
+        ],
+        [
+          -40,
+          155
+        ],
+        [
+          -40,
+          115
+        ]
+      ],
+      [
+        [
+          -35,
+          -70
+        ],
+        [
+          -10,
+          -80
+        ],
+        [
+          10,
+          -75
+        ],
+        [
+          35,
+          -80
+        ],
+        [
+          35,
+          -120
+        ],
+        [
+          30,
+          -120
+        ],
+        [
+          30,
+          -85
+        ],
+        [
+          25,
+          -85
+        ],
+        [
+          10,
+          -90
+        ],
+        [
+          -10,
+          -90
+        ],
+        [
+          -35,
+          -75
+        ],
+        [
+          -35,
+          -70
+        ]
+      ],
+      [
+        [
+          25,
+          120
+        ],
+        [
+          40,
+          130
+        ],
+        [
+          40,
+          145
+        ],
+        [
+          25,
+          130
+        ],
+        [
+          25,
+          120
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/brown-widow.jpg"
+}

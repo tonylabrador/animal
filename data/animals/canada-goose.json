@@ -1,0 +1,134 @@
+{
+  "id": "canada-goose",
+  "name_zh": "加拿大雁",
+  "name_en": "Canada Goose",
+  "scientific_name": "Branta canadensis",
+  "ui_tags": [
+    "Bird",
+    "River",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Anseriformes",
+      "zh": "雁形目"
+    },
+    "family": {
+      "en": "Anatidae",
+      "zh": "鸭科"
+    },
+    "genus": {
+      "en": "Branta",
+      "zh": "黑雁属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A highly successful waterfowl famous for flying in iconic V-formations and ruthlessly defending lakeshores.",
+    "zh": "一种极其成功的水禽，以其标志性的“V”字形编队飞行以及无情地捍卫湖畔领地而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Canada goose is a large, sturdy waterfowl species easily recognized by its jet-black head and long neck, punctuated by a prominent white 'chinstrap' stretching across its cheeks. They feature a drab, light-brown body and massive, powerful wings that can span up to 1.8 meters (6 ft). They are equipped with distinctively jagged, tooth-like serrations along the edges of their strong bills, perfectly adapted to efficiently slice through tough grass stems like miniature saws.",
+      "zh": "加拿大雁是一种体型大而健壮的水禽，其乌黑的头部和长脖子极易辨认，脸颊上还有一道醒目的白色“下巴颏带”横跨其间。它们长着灰暗的浅褐色身体以及极其巨大的有力翅膀，翼展可达1.8米（6英尺）。它们强壮的喙边缘长有奇特的锯齿状结构，就像微型锯子一样，极其完美地适应了高效地切断坚韧的草茎。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are famous for their remarkable annual migrations, flying in aerodynamically efficient 'V' formations while honking loudly to coordinate their colossal flocks. This shape significantly reduces wind resistance for the trailing birds, and they regularly swap the exhausting lead position. On the ground, they are famously aggressive during nesting season; an angry goose will unhesitatingly hiss, charge, and viciously bite or wing-beat anything—including humans or large dogs—that dares approach its nest.",
+      "zh": "它们以惊人的年度迁徙而闻名，以具有空气动力学效率的“V”字形编队飞行，同时大声地鸣叫以协调庞大的雁群。这种队形大大降低了后方鸟类的风阻，并且它们会定期轮换极度消耗体力的领航位置。在地面上，它们在筑巢季节非常具有攻击性；一只发怒的大雁会毫不犹豫地发出嘶嘶声，冲锋上前并凶猛地撕咬或用翅膀猛烈拍击任何胆敢靠近其巢穴的东西——甚至包括人类或大型犬类。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to North America, they breed abundantly across the expansive arctic and temperate regions of Canada and the northern United States. As winter approaches, massive flocks migrate southwards into the lower United States and Mexico. Benefiting greatly from human-altered landscapes, year-round 'resident' flocks have aggressively colonized manicured lawns, golf courses, and urban parks with artificial ponds, where natural predators are scarce and the grass is always succulent.",
+      "zh": "原产于北美洲的加拿大雁广泛繁衍于广阔的加拿大北极和温带地区以及美国北部。随着冬季临近，庞大的雁群会向南迁徙进入美国南部和墨西哥。它们从人类改变的景观中极大地获益，成群的“常驻”雁已经凶猛地占领了修剪整齐的草坪、高尔夫球场和带有人工池塘的城市公园，那里不仅捕食者稀少，而且草总是鲜嫩多汁。"
+    }
+  },
+  "habitat": {
+    "text_en": "Lakes, Wetlands, and Mowed Lawns",
+    "text_zh": "湖泊、湿地与修剪过的草坪",
+    "map_coordinates": [
+      45,
+      -95
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          70,
+          -165
+        ],
+        [
+          68,
+          -135
+        ],
+        [
+          65,
+          -110
+        ],
+        [
+          60,
+          -90
+        ],
+        [
+          55,
+          -60
+        ],
+        [
+          45,
+          -60
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          15,
+          -90
+        ],
+        [
+          15,
+          -95
+        ],
+        [
+          25,
+          -115
+        ],
+        [
+          35,
+          -125
+        ],
+        [
+          55,
+          -135
+        ],
+        [
+          60,
+          -150
+        ],
+        [
+          60,
+          -165
+        ],
+        [
+          70,
+          -165
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/canada-goose.jpg"
+}

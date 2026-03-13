@@ -1,0 +1,94 @@
+{
+  "id": "corn-snake",
+  "name_zh": "玉米蛇",
+  "name_en": "Corn Snake",
+  "scientific_name": "Pantherophis guttatus",
+  "ui_tags": [
+    "Reptile",
+    "Forest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Colubridae",
+      "zh": "游蛇科"
+    },
+    "genus": {
+      "en": "Pantherophis",
+      "zh": "豹斑蛇属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A popular, completely harmless North American snake known for its beautiful orange pattern and remarkable ability to control rodent populations.",
+    "zh": "一种广受欢迎、完全无害的北美蛇类，以其美丽的橙色图案和控制啮齿动物种群的非凡能力而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The corn snake is a slender but incredibly strong constrictor. They typically grow to 1.2-1.8 meters (4-6 feet) long. Their most striking feature is their vibrant coloration: usually a yellowish-orange background heavily patterned with large, red-orange blotches outlined in black. Their belly scales often resemble a black-and-white checkerboard, remarkably similar to rows of 'Indian corn' kernels, which is likely how they got their name.",
+      "zh": "玉米蛇是一种修长但异常强壮的绞杀蛇。它们通常能长到1.2-1.8米（4-6英尺）长。它们最引人注目的特征是鲜艳的体色：通常是黄橙色的底色，上面布满了黑边的大红橙色斑块。它们腹部的鳞片通常类似于黑白棋盘格，非常像一排排“印第安玉米”的内核，这很可能就是它们得名的原因。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are non-venomous constrictors. Rather than biting to kill, they strike rapidly to grab their prey, then throw several powerful coils of their muscular body around it, squeezing tighter every time the victim exhales until it suffocates. They are highly beneficial to humans as they spend large amounts of time hunting mice and rats around farms and barns. If threatened, they may surprisingly vibrate their tail rapidly against dry leaves, imitating the terrifying rattle of a rattlesnake.",
+      "zh": "它们是无毒的绞杀蛇。它们不通过撕咬来杀死猎物，而是迅速出击抓住猎物，然后用肌肉发达的身体将其紧紧缠绕数圈，而且只要受害者一呼气，它们就会缠得更紧，直到其窒息而死。它们对人类非常有益，因为它们花大量时间在农场和谷仓周围捕猎老鼠。如果受到威胁，它们可能会令人惊讶地在干树叶上快速振动尾巴，这模仿了响尾蛇发出的可怕的咯咯声响。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are native to the southeastern United States, ranging from New Jersey down to Florida and west to Louisiana. They can adapt to various habitats, including overgrown fields, forest openings, rocky hillsides, and importantly, abandoned human structures, where rodents—their favorite food—are plentiful.",
+      "zh": "它们原产于美国东南部，分布范围从新泽西州南下到佛罗里达州，向西一直到路易斯安那州。它们能适应各种栖息地，包括杂草丛生的田野、森林空地、遍布岩石的山坡，重要的是，还能适应废弃的人类建筑，因为那里有大量它们最喜欢的食物——啮齿动物。"
+    }
+  },
+  "habitat": {
+    "text_en": "Woodlands, Fields, and Agricultural Areas",
+    "text_zh": "林地、田野与农业区",
+    "map_coordinates": [
+      33,
+      -83
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          25,
+          -95
+        ],
+        [
+          40,
+          -95
+        ],
+        [
+          40,
+          -75
+        ],
+        [
+          25,
+          -75
+        ],
+        [
+          25,
+          -95
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/corn-snake.jpg"
+}

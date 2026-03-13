@@ -1,0 +1,94 @@
+{
+  "id": "northern-potoo",
+  "name_zh": "北方林鸱",
+  "name_en": "Northern Potoo",
+  "scientific_name": "Nyctibius jamaicensis",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Nyctibiiformes",
+      "zh": "林鸱目"
+    },
+    "family": {
+      "en": "Nyctibiidae",
+      "zh": "林鸱科"
+    },
+    "genus": {
+      "en": "Nyctibius",
+      "zh": "林鸱属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A nocturnal bird of the Americas that relies on absurdly perfect camouflage, looking exactly like a broken tree stump during the day.",
+    "zh": "一种美洲夜行性鸟类，依靠极其完美的伪装在白天看起来和断裂的树枝截断毫无二致。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Potoos have cryptic grey and brown plumage resembling tree bark. They have huge yellow eyes for night vision, but their most bizarre feature is their eyelid: they have small slits in their eyelids that allow them to sense predator movement even while their eyes are fully closed during daytime sleep.",
+      "zh": "林鸱拥有像树皮一样的神秘灰色和棕色羽毛。它们有巨大的黄色眼睛用于夜视，但它们最奇异的特征是眼睑：它们的眼睑上有小缝隙，使它们即使在白天完全闭着眼睛睡觉时，也能感知捕食者的动静。"
+    },
+    "ecology_and_behavior": {
+      "en": "During the day, they perch perfectly upright on the stump of a broken branch, completely motionless. At night, they transform into active hunters, sallying out periodically to snatch large flying insects like moths and beetles out of the air before returning to the exact same perch. Their calls are often described as haunting and melancholic.",
+      "zh": "白天，它们笔直地栖息在一根折断的树枝残端上，完全一动不动。到了晚上，它们就变成了活跃的猎手，会定期飞出去在空中捕食飞蛾和甲虫等大型飞虫，然后再返回那个完全相同的位置。它们的叫声常被描述为令人难忘且忧郁的。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are native to Central America, Mexico, and parts of the Caribbean (such as Jamaica). They prefer lowland forests, gallery forests, and forest edges where there are plenty of dead branches to utilize for their daytime camouflage rest.",
+      "zh": "它们原产于中美洲、墨西哥和加勒比海的部分地区（如牙买加）。它们更喜欢低地森林、廊道林和森林边缘，那里有大量的死树枝可以用来供它们白天进行伪装休息。"
+    }
+  },
+  "habitat": {
+    "text_en": "Lowland Forests and Edges",
+    "text_zh": "低地森林与林缘",
+    "map_coordinates": [
+      15,
+      -90
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          10,
+          -95
+        ],
+        [
+          25,
+          -95
+        ],
+        [
+          25,
+          -75
+        ],
+        [
+          10,
+          -75
+        ],
+        [
+          10,
+          -95
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/northern-potoo.jpg"
+}

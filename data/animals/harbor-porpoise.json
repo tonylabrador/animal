@@ -1,0 +1,220 @@
+{
+  "id": "harbor-porpoise",
+  "name_zh": "港湾鼠海豚",
+  "name_en": "Harbor Porpoise",
+  "scientific_name": "Phocoena phocoena",
+  "ui_tags": [
+    "Mammal",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Cetartiodactyla",
+      "zh": "鲸偶蹄目"
+    },
+    "family": {
+      "en": "Phocoenidae",
+      "zh": "鼠海豚科"
+    },
+    "genus": {
+      "en": "Phocoena",
+      "zh": "鼠海豚属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A shy, exceptionally small marine mammal that hugs the world's cold northern coastlines.",
+    "zh": "一种极其害羞、体型异常娇小的海洋哺乳动物，紧紧依偎着世界上寒冷的北部海岸线生活。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The harbor porpoise is one of the smallest marine mammals, reaching only 1.4 to 1.9 meters (4.6 to 6.2 ft) in length. Unlike dolphins which have elongated 'beaks' and curved dorsal fins, porpoises have blunt, rounded faces and a distinctive, short triangular dorsal fin. They are dark grey on the back, fading to white underneath, with a dark strip running from their mouth down to their flippers.",
+      "zh": "港湾鼠海豚是体型最小的海洋哺乳动物之一，体长仅达到1.4至1.9米（4.6至6.2英尺）。与拥有长“喙”和弯曲背鳍的海豚不同，鼠海豚有一张钝圆的脸以及一个独特的短三角形背鳍。它们的背部呈深灰色，向腹部渐变为白色，并且有一条深色的条纹从嘴部一直延伸到鳍状肢。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are noticeably less acrobatic than dolphins. They almost never leap out of the water or ride the bow waves of boats. Instead, they surface with a quick, rolling motion to breathe, creating a distinct 'puffing' sound that earned them the nickname 'puffing pig'. They hunt school fish like herring and mackerel using high-frequency echolocation clicks that are pitched far above the hearing range of their main predators: orcas.",
+      "zh": "它们明显不如海豚那般热爱杂技。它们几乎从不跃出水面，也不会在船首的波浪中穿梭冲浪。相反，它们会伴随着一个快速翻滚的动作浮出水面呼吸，并发出一种独特的“呼哧”声，这为它们赢得了“呼哧猪”的绰号。它们使用高频的声纳回声定位来捕猎鲱鱼和鲭鱼等鱼群，这些声波的频率远高于它们的主要天敌——虎鲸的听觉范围。"
+    },
+    "habitat_and_distribution": {
+      "en": "True to their name, they stick close to the coastal areas and estuaries of the Northern Hemisphere. They thrive in cold, sub-arctic, and temperate waters. Their narrow ribbon-like distribution map closely traces the coastlines of the North Atlantic (from Massachusetts to Greenland and Europe) and the North Pacific (from California to Alaska and across to Japan). They rarely venture out into the deep, open ocean.",
+      "zh": "正如它们的名字一样，它们紧贴着北半球的沿海地区和河口生活。它们在寒冷的亚北极和温带水域中繁衍生息。它们那如狭窄丝带般的分布图紧密地勾勒出了北大西洋（从马萨诸塞州到格陵兰岛再到欧洲）和北太平洋（从加利福尼亚州到阿拉斯加州再穿过至日本）的海岸线轮廓。它们极少涉足深邃的公海。"
+    }
+  },
+  "habitat": {
+    "text_en": "Cold Coastal Waters and Estuaries",
+    "text_zh": "寒冷的沿海水域与河口",
+    "map_coordinates": [
+      55,
+      0
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          35,
+          -125
+        ],
+        [
+          50,
+          -128
+        ],
+        [
+          60,
+          -145
+        ],
+        [
+          58,
+          -165
+        ],
+        [
+          52,
+          -155
+        ],
+        [
+          45,
+          -124
+        ],
+        [
+          35,
+          -121
+        ],
+        [
+          35,
+          -125
+        ]
+      ],
+      [
+        [
+          38,
+          -75
+        ],
+        [
+          45,
+          -60
+        ],
+        [
+          60,
+          -60
+        ],
+        [
+          70,
+          -50
+        ],
+        [
+          60,
+          -50
+        ],
+        [
+          50,
+          -45
+        ],
+        [
+          45,
+          -55
+        ],
+        [
+          38,
+          -70
+        ],
+        [
+          38,
+          -75
+        ]
+      ],
+      [
+        [
+          70,
+          5
+        ],
+        [
+          60,
+          -5
+        ],
+        [
+          45,
+          -10
+        ],
+        [
+          35,
+          -10
+        ],
+        [
+          45,
+          0
+        ],
+        [
+          55,
+          10
+        ],
+        [
+          65,
+          20
+        ],
+        [
+          70,
+          35
+        ],
+        [
+          72,
+          15
+        ],
+        [
+          70,
+          5
+        ]
+      ],
+      [
+        [
+          35,
+          140
+        ],
+        [
+          45,
+          145
+        ],
+        [
+          55,
+          145
+        ],
+        [
+          60,
+          160
+        ],
+        [
+          55,
+          160
+        ],
+        [
+          45,
+          155
+        ],
+        [
+          35,
+          145
+        ],
+        [
+          35,
+          140
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/harbor-porpoise.jpg"
+}

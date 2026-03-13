@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **187** 种动物
+**统计**：共 **220** 种动物
 
 ---
 
@@ -66,6 +66,10 @@
 - 驯鹿 / Reindeer — *Rangifer tarandus* `reindeer`
 - 梅花鹿 / Sika Deer — *Cervus nippon* `sika-deer`
 - 獐 / Water Deer — *Hydropotes inermis* `water-deer`
+
+**麝科**
+
+- 原麝 / Siberian Musk Deer — *Moschus moschiferus* `siberian-musk-deer`
 
 ### 兔形目
 
@@ -209,6 +213,8 @@
 **象科**
 
 - 非洲草原象 / African Bush Elephant — *Loxodonta africana* `african-bush-elephant`
+- 非洲森林象 / African Forest Elephant — *Loxodonta cyclotis* `african-forest-elephant`
+- 亚洲象 / Asian Elephant — *Elephas maximus* `asian-elephant`
 
 ### 非洲猬目
 
@@ -294,6 +300,16 @@
 - 海獭 / Sea Otter — *Enhydra lutris* `sea-otter`
 - 狼獾 / Wolverine — *Gulo gulo* `wolverine`
 
+### 鲸偶蹄目
+
+**白鱀豚科**
+
+- 白鳍豚 / Baiji — *Lipotes vexillifer* `baiji`
+
+**鼠海豚科**
+
+- 港湾鼠海豚 / Harbor Porpoise — *Phocoena phocoena* `harbor-porpoise`
+
 ### 鲸目
 
 **海豚科**
@@ -332,6 +348,12 @@
 
 - 普通翠鸟 / Common Kingfisher — *Alcedo atthis* `common-kingfisher`
 
+### 林鸱目
+
+**林鸱科**
+
+- 北方林鸱 / Northern Potoo — *Nyctibius jamaicensis* `northern-potoo`
+
 ### 犀鸟目
 
 **犀鸟科**
@@ -352,14 +374,34 @@
 
 ### 雀形目
 
+**森莺科**
+
+- 黄林莺 / Yellow Warbler — *Setophaga petechia* `yellow-warbler`
+
 **椋鸟科**
 
 - 八哥 / Crested Myna — *Acridotheres cristatellus* `crested-myna`
+- 普通椋鸟 / European Starling — *Sturnus vulgaris* `european-starling`
+
+**美洲雀科**
+
+- 北美红雀 / Northern Cardinal — *Cardinalis cardinalis* `northern-cardinal`
+
+**鸦科**
+
+- 加州灌丛鸦 / California Scrub-Jay — *Aphelocoma californica* `california-scrub-jay`
+
+### 雁形目
+
+**鸭科**
+
+- 加拿大雁 / Canada Goose — *Branta canadensis* `canada-goose`
 
 ### 雨燕目
 
 **蜂鸟科**
 
+- 安娜蜂鸟 / Anna's Hummingbird — *Calypte anna* `annas-hummingbird`
 - 红喉蜂鸟 / Ruby-throated Hummingbird — *Archilochus colubris* `ruby-throated-hummingbird`
 
 ### 鴷形目
@@ -390,15 +432,36 @@
 
 - 非洲鸵鸟 / Common Ostrich — *Struthio camelus* `common-ostrich`
 
+### 鹃形目
+
+**杜鹃科**
+
+- 大杜鹃 / Common Cuckoo — *Cuculus canorus* `common-cuckoo`
+
 ### 鹈形目
 
 **鲸头鹳科**
 
 - 鲸头鹳 / Shoebill Stork — *Balaeniceps rex* `shoebill-stork`
 
+**鹈鹕科**
+
+- 大白鹈 / Great White Pelican — *Pelecanus onocrotalus* `great-white-pelican`
+
+**鹭科**
+
+- 大蓝鹭 / Great Blue Heron — *Ardea herodias* `great-blue-heron`
+- 小白鹭 / Little Egret — *Egretta garzetta* `little-egret`
+
 **鹮科**
 
 - 朱鹮 / Crested Ibis — *Nipponia nippon* `crested-ibis`
+
+### 鹤形目
+
+**秧鸡科**
+
+- 骨顶鸡 / Eurasian Coot — *Fulica atra* `eurasian-coot`
 
 ### 鹤鸵目
 
@@ -409,16 +472,26 @@
 
 ### 鹦形目
 
+**凤头鹦鹉科**
+
+- 玄凤鹦鹉 / Cockatiel — *Nymphicus hollandicus* `cockatiel`
+
 **鹦鹉科**
 
+- 紫蓝金刚鹦鹉 / Hyacinth Macaw — *Anodorhynchus hyacinthinus* `hyacinth-macaw`
 - 绯红金刚鹦鹉 / Scarlet Macaw — *Ara macao* `scarlet-macaw`
 
 ### 鹰形目
+
+**鹭鹰科**
+
+- 秘书鸟 / Secretary Bird — *Sagittarius serpentarius* `secretary-bird`
 
 **鹰科**
 
 - 白头海雕 / Bald Eagle — *Haliaeetus leucocephalus* `bald-eagle`
 - 角雕 / Harpy Eagle — *Harpia harpyja* `harpy-eagle`
+- 红尾鵟 / Red-tailed Hawk — *Buteo jamaicensis* `red-tailed-hawk`
 
 ### 鹱形目
 
@@ -439,6 +512,10 @@
 **毒蜥科**
 
 - 毒蜥 / Gila Monster — *Heloderma suspectum* `gila-monster`
+
+**游蛇科**
+
+- 玉米蛇 / Corn Snake — *Pantherophis guttatus* `corn-snake`
 
 **眼镜蛇科**
 
@@ -525,6 +602,12 @@
 
 ### 八腕目
 
+**章鱼科**
+
+- 大蓝环章鱼 / Greater Blue-ringed Octopus — *Hapalochlaena lunulata* `greater-blue-ringed-octopus`
+- 南方蓝环章鱼 / Southern Blue-ringed Octopus — *Hapalochlaena maculosa* `southern-blue-ringed-octopus`
+- 条纹蓝环章鱼 / Striped Blue-ringed Octopus — *Hapalochlaena fasciata* `striped-blue-ringed-octopus`
+
 **肠蛸科**
 
 - 北太平洋巨型章鱼 / Giant Pacific Octopus — *Enteroctopus dofleini* `giant-pacific-octopus`
@@ -538,6 +621,16 @@
 ---
 
 ## 昆虫纲
+
+### 双翅目
+
+**果蝇科**
+
+- 黑腹果蝇 / Common Fruit Fly — *Drosophila melanogaster* `common-fruit-fly`
+
+**蝇科**
+
+- 家蝇 / House Fly — *Musca domestica* `house-fly`
 
 ### 膜翅目
 
@@ -632,6 +725,18 @@
 
 ## 腹足纲
 
+### 主扭舌目
+
+**瓶螺科**
+
+- 巨型苹果螺 / Giant Apple Snail — *Pomacea maculata* `giant-apple-snail`
+
+### 柄眼目
+
+**大蜗牛科**
+
+- 花园蜗牛 / Garden Snail — *Cornu aspersum* `garden-snail`
+
 ### 裸鳃目
 
 **海神鳃科**
@@ -640,9 +745,28 @@
 
 ---
 
+## 蛛形纲
+
+### 蜘蛛目
+
+**姬蛛科**
+
+- 褐寡妇蛛 / Brown Widow — *Latrodectus geometricus* `brown-widow`
+- 南方黑寡妇 / Southern Black Widow — *Latrodectus mactans* `southern-black-widow`
+
+**捕鸟蛛科**
+
+- 歌利亚食鸟蛛 / Goliath Birdeater — *Theraphosa blondi* `goliath-birdeater`
+
+---
+
 ## 软甲纲
 
 ### 十足目
+
+**梭子蟹科**
+
+- 蓝蟹 / Blue Crab — *Callinectes sapidus* `blue-crab`
 
 **蜘蛛蟹科**
 
