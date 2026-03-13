@@ -13,3 +13,4 @@
 | 6 | 澳大利亚箱水母 | Australian box jellyfish | Chironex fleckeri | ⏳ Pending |
 | 7 | 食猴蝙蝠 | Large Flying Fox | Pteropus vampyrus | ⏳ Pending |
 | 8 | 吕氏狐 | Rüppell's Fox | Vulpes rueppellii | ⏳ Pending |
+| 9 | 敏狐 | Kit Fox | Vulpes macrotis | ⏳ Pending |
