@@ -34,3 +34,7 @@
 | 27 | 南方黑寡妇 | Southern Black Widow | Latrodectus mactans | ⏳ Pending |
 | 28 | 褐寡妇蛛 | Brown widow | Latrodectus geometricus | ⏳ Pending |
 | 29 | 玄凤鹦鹉 | Cockatiel | Nymphicus hollandicus | ⏳ Pending |
+| 30 | 白鳍豚 | Baiji | Lipotes vexillifer | ⏳ Pending |
+| 31 | 大蓝环章鱼 | Greater blue-ringed octopus | Hapalochlaena lunulata | ⏳ Pending |
+| 32 | 南方蓝环章鱼 | Southern Blue-ringed Octopus | Hapalochlaena maculosa | ⏳ Pending |
+| 33 | 条纹蓝环章鱼 | Striped Blue-ringed Octopus | Hapalochlaena fasciata | ⏳ Pending |
