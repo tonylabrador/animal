@@ -25,3 +25,4 @@
 | 18 | 蓝蟹 | Blue Crab | Callinectes sapidus | ⏳ Pending |
 | 19 | 安娜蜂鸟 | Anna's hummingbird | Calypte anna | ⏳ Pending |
 | 20 | 北美红雀 | Northern cardinal | Cardinalis cardinalis | ⏳ Pending |
+| 21 | 红尾鵟 | Red-tailed Hawk | Buteo jamaicensis | ⏳ Pending |
