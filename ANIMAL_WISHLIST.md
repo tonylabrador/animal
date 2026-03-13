@@ -33,3 +33,4 @@
 | 26 | 歌利亚食鸟蛛 | Goliath birdeater | Theraphosa blondi | ⏳ Pending |
 | 27 | 南方黑寡妇 | Southern Black Widow | Latrodectus mactans | ⏳ Pending |
 | 28 | 褐寡妇蛛 | Brown widow | Latrodectus geometricus | ⏳ Pending |
+| 29 | 玄凤鹦鹉 | Cockatiel | Nymphicus hollandicus | ⏳ Pending |
