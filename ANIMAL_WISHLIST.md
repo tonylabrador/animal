@@ -20,3 +20,4 @@
 | 13 | 亚洲象 | Asian elephant | Elephas maximus | ⏳ Pending |
 | 14 | 骨顶鸡 | Eurasian Coot | Fulica atra | ⏳ Pending |
 | 15 | 紫蓝金刚鹦鹉 | Hyacinth Macaw | Anodorhynchus hyacinthinus | ⏳ Pending |
+| 16 | 普通椋鸟 | European Starling | Sturnus vulgaris | ⏳ Pending |
