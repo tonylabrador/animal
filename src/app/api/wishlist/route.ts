@@ -101,22 +101,27 @@ async function appendToWishlistAsync(zh: string, en: string, scientific: string)
 // ── Gemini AI: resolve any input → { zh, en, scientific } ────────────────────
 async function resolveWithGemini(
   input: string
-): Promise<{ status: string; zh: string; en: string; scientific: string; clarification?: string }> {
+): Promise<{ status: string; detected_lang?: "en" | "zh"; zh: string; en: string; scientific: string; clarification?: string }> {
   const apiKey = process.env.GEMINI_API_KEY;
   if (!apiKey) throw new Error("GEMINI_API_KEY not set");
 
   const prompt = `You are a wildlife taxonomist. The user wants to add an animal to a wishlist.
 Input: "${input}"
 
+First, detect the language of the input. If it contains ONLY Chinese characters, the language is "zh". If it contains ANY English, or is purely English, the language is "en".
+
 Rules:
 1. If the input is a valid species (or can be matched to one), return JSON with status "VALID".
-2. If it's a subspecies (like "dog", "dingo"), identify its parent species (like "wolf", "Canis lupus"). Return status "SUBSPECIES", and provide the parent species details in \`zh\`, \`en\`, \`scientific\`. Put a custom message in \`clarification\` like "[Original Input] 是 [Parent Name] 的亚种，系统将以种级记录。" (e.g. "狗是灰狼的亚种").
-3. If it's a genus/family/vague group (like "shark", "owl"), return status "NEEDS_CLARIFICATION" with a friendly Chinese message listing 3 representative species.
+2. If it's a subspecies (like "dog", "dingo"), identify its parent species (like "wolf", "Canis lupus"). Return status "SUBSPECIES", and provide the parent species details. Put a custom message in \`clarification\`:
+   - If language="en": "[Original Input] is a subspecies of [Parent Name], it will be recorded at the species level."
+   - If language="zh": "[Original Input] 是 [Parent Name] 的亚种，系统将以种级记录。"
+3. If it's a genus/family/vague group, return status "NEEDS_CLARIFICATION" with a friendly message listing 3 representative species in the detected language.
 4. If it's not an animal, return status "INVALID".
 
 Respond ONLY with raw JSON (no markdown):
 {
   "status": "VALID" | "SUBSPECIES" | "NEEDS_CLARIFICATION" | "INVALID",
+  "detected_lang": "en" | "zh",
   "zh": "中文俗名 (如果是亚种则填其归属的种名)",
   "en": "English Common Name (如果是亚种则填其归属的种名)",
   "scientific": "Genus species (如果是亚种则填其归属的种名)",
@@ -182,12 +187,18 @@ export async function POST(req: Request) {
     return NextResponse.json({ status: "NEEDS_CLARIFICATION", clarification: resolved.clarification });
   }
   if (resolved.status === "INVALID") {
-    return NextResponse.json({ status: "INVALID", clarification: "这好像不是一种动物哦，请换个名字试试！" });
+    const invalidMsg = resolved.detected_lang === 'en' 
+      ? "That doesn't seem to be an animal, try another name!" 
+      : "这好像不是一种动物哦，请换个名字试试！";
+    return NextResponse.json({ status: "INVALID", clarification: invalidMsg });
   }
 
   // Check if it already exists in the main animal list
   if (isAnimalInList(resolved.scientific, resolved.zh, resolved.en)) {
-    let msg = `该动物 (${resolved.zh} / ${resolved.en}) 已经存在于系统中了，去首页搜搜看吧！`;
+    let msg = resolved.detected_lang === 'en'
+      ? `This animal (${resolved.en}) already exists in the system. Go back and search for it!`
+      : `该动物 (${resolved.zh} / ${resolved.en}) 已经存在于系统中了，去首页搜搜看吧！`;
+      
     if (resolved.status === "SUBSPECIES" && resolved.clarification) {
       msg = `${resolved.clarification} \n` + msg;
     }
@@ -207,9 +218,12 @@ export async function POST(req: Request) {
   );
 
   if (alreadyWished) {
+    const wishMsg = resolved.detected_lang === 'en'
+      ? `This animal (${resolved.en}) is already in the wishlist waiting to be added!`
+      : `该动物 (${resolved.zh} / ${resolved.en}) 已经在许愿池中等待处理啦！`;
     return NextResponse.json({ 
       status: "INVALID", 
-      clarification: `该动物 (${resolved.zh} / ${resolved.en}) 已经在许愿池中等待处理啦！` 
+      clarification: wishMsg
     });
   }
   
