@@ -1,3 +1,5 @@
+stable version: processed first wishlist of 33 animals, improved search accuracy from 2.0
+
 # Wild Explorer
 
 双语动物科普小站。数据存放在 `data/animals/`（一物一文件）。
