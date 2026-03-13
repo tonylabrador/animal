@@ -2,7 +2,7 @@
 
 import { useState, useMemo } from "react";
 import Link from "next/link";
-import { Globe, Search, X, MapPin, Tag, TreeDeciduous, ChevronRight } from "lucide-react";
+import { Globe, Search, X, MapPin, Tag, TreeDeciduous, ChevronRight, Shuffle, ArrowDownAZ } from "lucide-react";
 import { useLanguage } from "@/lib/LanguageContext";
 import type { Animal } from "@/types/animal";
 import WishlistSection from "@/components/WishlistSection";
@@ -121,18 +121,52 @@ interface AnimalDashboardProps {
 export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
   const { lang, toggleLang } = useLanguage();
   const [query, setQuery] = useState("");
+  const [sortSeed, setSortSeed] = useState(0); // 0 = default (alphabetical), >0 = random
 
   const filtered = useMemo(() => {
+    let result = animals;
+
+    // 1. Deep Text Search
     const q = query.toLowerCase().trim();
-    if (!q) return animals;
-    return animals.filter(
-      (a) =>
-        a.name_en.toLowerCase().includes(q) ||
-        a.name_zh.includes(q) ||
-        a.scientific_name.toLowerCase().includes(q) ||
-        a.ui_tags.some((t) => t.toLowerCase().includes(q))
-    );
-  }, [animals, query]);
+    if (q) {
+      result = result.filter((a) => {
+        // Create a massive string containing ALL text fields of the animal to ensure comprehensive matching
+        const superString = [
+          a.name_en, a.name_zh, a.scientific_name,
+          ...a.ui_tags,
+          a.description.en, a.description.zh,
+          a.habitat.text_en, a.habitat.text_zh,
+          a.encyclopedia.anatomy.en, a.encyclopedia.anatomy.zh,
+          a.encyclopedia.ecology_and_behavior.en, a.encyclopedia.ecology_and_behavior.zh,
+          a.encyclopedia.habitat_and_distribution.en, a.encyclopedia.habitat_and_distribution.zh,
+          a.taxonomy.kingdom.en, a.taxonomy.kingdom.zh,
+          a.taxonomy.phylum.en, a.taxonomy.phylum.zh,
+          a.taxonomy.class.en, a.taxonomy.class.zh,
+          a.taxonomy.order.en, a.taxonomy.order.zh,
+          a.taxonomy.family.en, a.taxonomy.family.zh,
+          a.taxonomy.genus.en, a.taxonomy.genus.zh,
+          a.conservation_status.code, a.conservation_status.en, a.conservation_status.zh
+        ].join(" ").toLowerCase();
+        
+        return superString.includes(q);
+      });
+    }
+
+    // 2. Sorting
+    result = [...result]; // Clone to prevent mutating props
+    if (sortSeed === 0) {
+      // Revert to alphabetical mapping (defaults to English names)
+      result.sort((a, b) => a.name_en.localeCompare(b.name_en));
+    } else {
+      // Randomly shuffle (Fisher-Yates) triggered by sortSeed change
+      for (let i = result.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [result[i], result[j]] = [result[j], result[i]];
+      }
+    }
+
+    return result;
+  }, [animals, query, sortSeed]);
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 via-stone-50 to-amber-50">
@@ -257,6 +291,32 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
           </div>
         </div>
       </section>
+
+      {/* ── Sort & Filter Controls ── */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-4 flex items-center justify-start gap-3">
+        <button
+          onClick={() => setSortSeed(0)}
+          className={`flex items-center gap-2 px-4 py-2 rounded-xl font-bold text-sm transition-all duration-200 shadow-sm ${
+            sortSeed === 0
+              ? "bg-slate-800 text-white shadow-md"
+              : "bg-white text-slate-600 hover:bg-slate-50 border border-slate-200"
+          }`}
+        >
+          <ArrowDownAZ size={16} strokeWidth={2.5} />
+          {lang === "en" ? "A-Z" : "默认顺序"}
+        </button>
+        <button
+          onClick={() => setSortSeed(Date.now())} // Trigger a new random seed every click
+          className={`flex items-center gap-2 px-4 py-2 rounded-xl font-bold text-sm transition-all duration-200 shadow-sm ${
+            sortSeed > 0
+              ? "bg-amber-400 text-white shadow-md hover:bg-amber-500"
+              : "bg-white text-amber-600 hover:bg-amber-50 border border-amber-200"
+          }`}
+        >
+          <Shuffle size={16} strokeWidth={2.5} className={sortSeed > 0 ? "animate-pulse" : ""} />
+          {lang === "en" ? "Randomize" : "随机打乱"}
+        </button>
+      </div>
 
       {/* ── Grid ── */}
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-20">
