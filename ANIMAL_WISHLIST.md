@@ -7,3 +7,4 @@
 |---|--------|-------------|-----------------|------|
 | 1 | 大白鹈鹕 | Great White Pelican | Pelecanus onocrotalus | ⏳ Pending |
 | 2 | 褐鹈鹕 | Brown Pelican | Pelecanus occidentalis | ⏳ Pending |
+| 3 | 美洲白鹈鹕 | American White Pelican | Pelecanus erythrorhynchos | ⏳ Pending |
