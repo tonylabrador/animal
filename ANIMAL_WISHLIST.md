@@ -7,3 +7,4 @@
 |---|--------|-------------|-----------------|------|
 | 1 | 大白鹈 | Great White Pelican | Pelecanus onocrotalus | ⏳ Pending |
 | 2 | 秘书鸟 | Secretary bird | Sagittarius serpentarius | ⏳ Pending |
+| 3 | 大杜鹃 | Common cuckoo | Cuculus canorus | ⏳ Pending |
