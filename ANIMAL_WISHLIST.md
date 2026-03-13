@@ -12,3 +12,4 @@
 | 5 | 大蓝鹭 | Great blue heron | Ardea herodias | ⏳ Pending |
 | 6 | 小白鹭 | Little egret | Egretta garzetta | ⏳ Pending |
 | 7 | 花园蜗牛 | Garden snail | Cornu aspersum | ⏳ Pending |
+| 8 | 巨型苹果螺 | Giant apple snail | Pomacea maculata | ⏳ Pending |
