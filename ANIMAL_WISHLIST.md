@@ -22,3 +22,4 @@
 | 15 | 紫蓝金刚鹦鹉 | Hyacinth Macaw | Anodorhynchus hyacinthinus | ⏳ Pending |
 | 16 | 普通椋鸟 | European Starling | Sturnus vulgaris | ⏳ Pending |
 | 17 | 港湾鼠海豚 | Harbor Porpoise | Phocoena phocoena | ⏳ Pending |
+| 18 | 蓝蟹 | Blue Crab | Callinectes sapidus | ⏳ Pending |
