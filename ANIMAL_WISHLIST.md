@@ -11,3 +11,4 @@
 | 4 | 北方林鸱 | Northern Potoo | Nyctibius jamaicensis | ⏳ Pending |
 | 5 | 大蓝鹭 | Great blue heron | Ardea herodias | ⏳ Pending |
 | 6 | 小白鹭 | Little egret | Egretta garzetta | ⏳ Pending |
+| 7 | 花园蜗牛 | Garden snail | Cornu aspersum | ⏳ Pending |
