@@ -14,3 +14,4 @@
 | 7 | 花园蜗牛 | Garden snail | Cornu aspersum | ⏳ Pending |
 | 8 | 巨型苹果螺 | Giant apple snail | Pomacea maculata | ⏳ Pending |
 | 9 | 玉米蛇 | Corn snake | Pantherophis guttatus | ⏳ Pending |
+| 10 | 家蝇 | House Fly | Musca domestica | ⏳ Pending |
