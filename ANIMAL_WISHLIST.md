@@ -28,3 +28,4 @@
 | 21 | 红尾鵟 | Red-tailed Hawk | Buteo jamaicensis | ⏳ Pending |
 | 22 | 加州灌丛鸦 | California Scrub-Jay | Aphelocoma californica | ⏳ Pending |
 | 23 | 加拿大雁 | Canada Goose | Branta canadensis | ⏳ Pending |
+| 24 | 黄林莺 | Yellow Warbler | Setophaga petechia | ⏳ Pending |
