@@ -134,18 +134,12 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
         const superString = [
           a.name_en, a.name_zh, a.scientific_name,
           ...a.ui_tags,
-          a.description.en, a.description.zh,
-          a.habitat.text_en, a.habitat.text_zh,
-          a.encyclopedia.anatomy.en, a.encyclopedia.anatomy.zh,
-          a.encyclopedia.ecology_and_behavior.en, a.encyclopedia.ecology_and_behavior.zh,
-          a.encyclopedia.habitat_and_distribution.en, a.encyclopedia.habitat_and_distribution.zh,
           a.taxonomy.kingdom.en, a.taxonomy.kingdom.zh,
           a.taxonomy.phylum.en, a.taxonomy.phylum.zh,
           a.taxonomy.class.en, a.taxonomy.class.zh,
           a.taxonomy.order.en, a.taxonomy.order.zh,
           a.taxonomy.family.en, a.taxonomy.family.zh,
           a.taxonomy.genus.en, a.taxonomy.genus.zh,
-          a.conservation_status.code, a.conservation_status.en, a.conservation_status.zh
         ].join(" ").toLowerCase();
         
         return superString.includes(q);
