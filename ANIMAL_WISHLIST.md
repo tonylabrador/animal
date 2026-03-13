@@ -5,5 +5,3 @@
 
 | # | 中文名 | English Name | Scientific Name | 状态 |
 |---|--------|-------------|-----------------|------|
-| 1 | 吕氏狐 | Rüppell's Fox | Vulpes rueppellii | ⏳ Pending |
-| 2 | 敏狐 | Kit Fox | Vulpes macrotis | ⏳ Pending |
