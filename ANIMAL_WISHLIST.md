@@ -9,4 +9,4 @@
 | 2 | 褐鹈鹕 | Brown Pelican | Pelecanus occidentalis | ⏳ Pending |
 | 3 | 美洲白鹈鹕 | American White Pelican | Pelecanus erythrorhynchos | ⏳ Pending |
 | 4 | 霍加狓 | Okapi | Okapia johnstoni | ⏳ Pending |
-| 5 | 亚洲野牛 (白肢体野牛 是 亚洲野牛 的亚种，系统将以种级记录。) | Gaur | Bos gaurus | ⏳ Pending |
+
