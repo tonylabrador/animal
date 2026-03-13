@@ -105,14 +105,14 @@ async function resolveWithGemini(
   const apiKey = process.env.GEMINI_API_KEY;
   if (!apiKey) throw new Error("GEMINI_API_KEY not set");
 
-  const prompt = `You are a wildlife taxonomist. The user wants to add an animal to a wishlist.
+  const prompt = `You are an expert wildlife taxonomist following strict IUCN Red List standards. The user wants to add an animal to a wishlist.
 Input: "${input}"
 
 First, detect the language of the input. If it contains ONLY Chinese characters, the language is "zh". If it contains ANY English, or is purely English, the language is "en".
 
 Rules:
-1. If the input is a valid species (or can be matched to one), return JSON with status "VALID".
-2. If it's a subspecies (like "dog", "dingo"), identify its parent species (like "wolf", "Canis lupus"). Return status "SUBSPECIES", and provide the parent species details. Put a custom message in \`clarification\`:
+1. Identify if the input is a valid Species (e.g. Bos gaurus). If it is a distinct, recognized species, return JSON with status "VALID". DO NOT falsely classify valid species as subspecies.
+2. If it is STRICTLY recognized by taxonomy as a Subspecies (e.g. "dog", "dingo", "Bengal tiger"), identify its parent species. Return status "SUBSPECIES", and provide the parent species details. Put a custom message in \`clarification\`:
    - If language="en": "[Original Input] is a subspecies of [Parent Name], it will be recorded at the species level."
    - If language="zh": "[Original Input] 是 [Parent Name] 的亚种，系统将以种级记录。"
 3. If it's a genus/family/vague group, return status "NEEDS_CLARIFICATION" with a friendly message listing 3 representative species in the detected language.
@@ -227,11 +227,8 @@ export async function POST(req: Request) {
     });
   }
   
-  // If it's a valid subspecies but parent species is NOT in the list, we still add the *parent* species to the wishlist
-  const zhName = resolved.status === "SUBSPECIES" && resolved.clarification ? `${resolved.zh} (${resolved.clarification})` : resolved.zh;
-
-  // VALID — append to wishlist
-  await appendToWishlistAsync(zhName, resolved.en, resolved.scientific);
+  // VALID — append to wishlist (only use the strict species name, do not append clarification text)
+  await appendToWishlistAsync(resolved.zh, resolved.en, resolved.scientific);
   
   if (resolved.status === "SUBSPECIES" && resolved.clarification) {
     return NextResponse.json({ 
