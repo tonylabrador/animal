@@ -17,3 +17,4 @@
 | 10 | 家蝇 | House Fly | Musca domestica | ⏳ Pending |
 | 11 | 黑腹果蝇 | Common Fruit Fly | Drosophila melanogaster | ⏳ Pending |
 | 12 | 非洲森林象 | African forest elephant | Loxodonta cyclotis | ⏳ Pending |
+| 13 | 亚洲象 | Asian elephant | Elephas maximus | ⏳ Pending |
