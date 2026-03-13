@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "d3": "^7.9.0",
     "leaflet": "^1.9.4",
     "lucide-react": "^0.474.0",
