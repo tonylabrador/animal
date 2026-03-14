@@ -10,6 +10,6 @@
 | 4 | 僧帽水母 | Portuguese man o' war | Physalia physalis | [Link](https://wild-explorer.vercel.app/animal/portuguese-man-o-war) |
 | 5 | 国王箱水母 | King's box jellyfish | Malo kingi | [Link](https://wild-explorer.vercel.app/animal/kings-box-jellyfish) |
 | 6 | 澳大利亚箱水母 | Australian box jellyfish | Chironex fleckeri | [Link](https://wild-explorer.vercel.app/animal/australian-box-jellyfish) |
-| 7 | 食猴蝙蝠 | Large Flying Fox | Pteropus vampyrus | [Link](https://wild-explorer.vercel.app/animal/large-flying-fox) |
+| 7 | 马来大狐蝠 | Large Flying Fox | Pteropus vampyrus | [Link](https://wild-explorer.vercel.app/animal/large-flying-fox) |
 | 8 | 吕氏狐 | Rüppell's Fox | Vulpes rueppellii | [Link](https://wild-explorer.vercel.app/animal/rueppells-fox) |
 | 9 | 敏狐 | Kit Fox | Vulpes macrotis | [Link](https://wild-explorer.vercel.app/animal/kit-fox) |

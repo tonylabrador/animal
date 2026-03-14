@@ -22,8 +22,8 @@
       "zh": "哺乳纲"
     },
     "order": {
-      "en": "Artiodactyla",
-      "zh": "偶蹄目"
+      "en": "Cetartiodactyla",
+      "zh": "鲸偶蹄目"
     },
     "family": {
       "en": "Camelidae",
@@ -66,7 +66,36 @@
     ],
     "map_zoom_level": 5,
     "global_distribution_polygons": [
-      [[-10, -77], [-15, -73], [-25, -68], [-28, -68], [-25, -65], [-10, -70], [-10, -77]]
+      [
+        [
+          -10,
+          -77
+        ],
+        [
+          -15,
+          -73
+        ],
+        [
+          -25,
+          -68
+        ],
+        [
+          -28,
+          -68
+        ],
+        [
+          -25,
+          -65
+        ],
+        [
+          -10,
+          -70
+        ],
+        [
+          -10,
+          -77
+        ]
+      ]
     ]
   },
   "image": "/images/animals/vicuna.jpg"

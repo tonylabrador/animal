@@ -22,8 +22,8 @@
       "zh": "哺乳纲"
     },
     "order": {
-      "en": "Cetacea",
-      "zh": "鲸目"
+      "en": "Cetartiodactyla",
+      "zh": "鲸偶蹄目"
     },
     "family": {
       "en": "Phocoenidae",
@@ -66,7 +66,28 @@
     ],
     "map_zoom_level": 7,
     "global_distribution_polygons": [
-      [[31.6, -114.9], [31.6, -114.3], [30.9, -114.3], [30.9, -114.9], [31.6, -114.9]]
+      [
+        [
+          31.6,
+          -114.9
+        ],
+        [
+          31.6,
+          -114.3
+        ],
+        [
+          30.9,
+          -114.3
+        ],
+        [
+          30.9,
+          -114.9
+        ],
+        [
+          31.6,
+          -114.9
+        ]
+      ]
     ]
   },
   "image": "/images/animals/vaquita.jpg"

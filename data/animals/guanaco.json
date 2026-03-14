@@ -22,8 +22,8 @@
       "zh": "哺乳纲"
     },
     "order": {
-      "en": "Artiodactyla",
-      "zh": "偶蹄目"
+      "en": "Cetartiodactyla",
+      "zh": "鲸偶蹄目"
     },
     "family": {
       "en": "Camelidae",
@@ -66,7 +66,36 @@
     ],
     "map_zoom_level": 4,
     "global_distribution_polygons": [
-      [[-15, -75], [-25, -70], [-55, -70], [-55, -65], [-40, -62], [-20, -65], [-15, -75]]
+      [
+        [
+          -15,
+          -75
+        ],
+        [
+          -25,
+          -70
+        ],
+        [
+          -55,
+          -70
+        ],
+        [
+          -55,
+          -65
+        ],
+        [
+          -40,
+          -62
+        ],
+        [
+          -20,
+          -65
+        ],
+        [
+          -15,
+          -75
+        ]
+      ]
     ]
   },
   "image": "/images/animals/guanaco.jpg"

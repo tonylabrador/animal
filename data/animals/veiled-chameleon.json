@@ -1,0 +1,73 @@
+{
+  "id": "veiled-chameleon",
+  "name_zh": "高冠变色龙",
+  "name_en": "Veiled Chameleon",
+  "scientific_name": "Chamaeleo calyptratus",
+  "ui_tags": [
+    "Reptile",
+    "Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Chamaeleonidae",
+      "zh": "避役科"
+    },
+    "genus": {
+      "en": "Chamaeleo",
+      "zh": "避役属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "Known for the large, casque-like structure on its head, this chameleon is a master of adaptation in Yemen and Saudi Arabia.",
+    "zh": "以头部巨大的盔冠结构而闻名，这种变色龙是也门和沙特阿拉伯地区的适应大师。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Veiled Chameleon is characterized by a high bony casque on top of its head, which grows larger as the animal matures. This casque helps channel water droplets into its mouth. They have zygodactylous feet for climbing and prehensile tails that act as a fifth limb.",
+      "zh": "高冠变色龙的特征是头顶有一个高大的骨质盔冠，随着动物成熟而增大。这个盔冠有助于将水滴引导至口中。它们通过对生趾足爬行，其缠绕尾可作为「第五肢」。"
+    },
+    "ecology_and_behavior": {
+      "en": "These chameleons are primarily insectivorous but are known to consume leaves for hydration during dry spells. They are solitary and territorial. Males show vibrant color displays to intimidate rivals or attract mates.",
+      "zh": "这些变色龙主要以昆虫为食，但在干旱时期也会通过食用叶子补充水分。它们是独居且具有领地意识的动物。雄性会展示鲜艳的体色来威慑竞争对手或吸引配偶。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to the Arabian Peninsula, specifically Yemen and Saudi Arabia, they live in a variety of habitats including coastal plains and high mountain plateaus. They have also become an invasive species in parts of Florida and Hawaii.",
+      "zh": "原产于阿拉伯半岛，特别是也门 and 沙特阿拉伯，它们生活在包括沿海平原和高山高原在内的多种栖息地。它们在佛罗里达州和夏威夷的部分地区也已成为入侵物种。"
+    }
+  },
+  "habitat": {
+    "text_en": "Coastal plains and mountain plateaus of Yemen and Saudi Arabia",
+    "text_zh": "也门和沙特阿拉伯的沿海平原及山地高原",
+    "map_coordinates": [
+      15,
+      44
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [[13, 42.5], [17, 42.5], [17, 46], [13, 46], [13, 42.5]]
+    ]
+  },
+  "image": "/images/animals/veiled-chameleon.jpg"
+}

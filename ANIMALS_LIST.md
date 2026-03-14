@@ -8,69 +8,6 @@
 
 ## 哺乳纲
 
-### 偶蹄目
-
-**一角鲸科**
-
-- 白鲸 / Beluga Whale — *Delphinapterus leucas* `beluga-whale`
-- 独角鲸 / Narwhal — *Monodon monoceros* `narwhal`
-
-**叉角羚科**
-
-- 叉角羚 / Pronghorn — *Antilocapra americana* `pronghorn`
-
-**河马科**
-
-- 河马 / Hippopotamus — *Hippopotamus amphibius* `hippopotamus`
-
-**海豚科**
-
-- 中华白海豚 / Chinese White Dolphin — *Sousa chinensis* `chinese-white-dolphin`
-
-**牛科**
-
-- 旋角羚 / Addax — *Addax nasomaculatus* `addax`
-- 非洲水牛 / African Buffalo — *Syncerus caffer* `african-buffalo`
-- 美洲野牛 / American Bison — *Bison bison* `american-bison`
-- 大角羊 / Bighorn Sheep — *Ovis canadensis* `bighorn-sheep`
-- 牛 / Domestic Cow — *Bos taurus* `domestic-cow`
-- 绵羊 / Domestic Sheep — *Ovis aries* `domestic-sheep`
-- 雪羊 / Mountain Goat — *Oreamnos americanus* `mountain-goat`
-- 麝牛 / Muskox — *Ovibos moschatus* `muskox`
-- 普氏原羚 / Przewalski's Gazelle — *Procapra przewalskii* `przewalskis-gazelle`
-- 高鼻羚羊 / Saiga Antelope — *Saiga tatarica* `saiga-antelope`
-- 羚牛 / Takin — *Budorcas taxicolor* `takin`
-- 藏羚羊 / Tibetan Antelope — *Pantholops hodgsonii* `tibetan-antelope`
-
-**猪科**
-
-- 猪 / Domestic Pig — *Sus domesticus* `domestic-pig`
-
-**长颈鹿科**
-
-- 长颈鹿 / Giraffe — *Giraffa camelopardalis* `giraffe`
-
-**骆驼科**
-
-- 羊驼 / Alpaca — *Vicugna pacos* `alpaca`
-- 双峰骆驼 / Bactrian Camel — *Camelus bactrianus* `bactrian-camel`
-- 单峰骆驼 / Dromedary Camel — *Camelus dromedarius* `dromedary-camel`
-- 原驼 / Guanaco — *Lama guanicoe* `guanaco`
-- 大羊驼 / Llama — *Lama glama* `llama`
-- 小羊驼 / Vicuña — *Vicugna vicugna* `vicuna`
-- 野双峰骆驼 / Wild Bactrian Camel — *Camelus ferus* `wild-bactrian-camel`
-
-**鹿科**
-
-- 驼鹿 / Moose — *Alces alces* `moose`
-- 驯鹿 / Reindeer — *Rangifer tarandus* `reindeer`
-- 梅花鹿 / Sika Deer — *Cervus nippon* `sika-deer`
-- 獐 / Water Deer — *Hydropotes inermis* `water-deer`
-
-**麝科**
-
-- 原麝 / Siberian Musk Deer — *Moschus moschiferus* `siberian-musk-deer`
-
 ### 兔形目
 
 **兔科**
@@ -202,7 +139,7 @@
 
 **狐蝠科**
 
-- 食猴蝙蝠 / Large Flying Fox — *Pteropus vampyrus* `large-flying-fox`
+- 马来大狐蝠 / Large Flying Fox — *Pteropus vampyrus* `large-flying-fox`
 
 ### 袋鼬目
 
@@ -312,27 +249,80 @@
 
 ### 鲸偶蹄目
 
+**一角鲸科**
+
+- 白鲸 / Beluga Whale — *Delphinapterus leucas* `beluga-whale`
+- 独角鲸 / Narwhal — *Monodon monoceros* `narwhal`
+
+**叉角羚科**
+
+- 叉角羚 / Pronghorn — *Antilocapra americana* `pronghorn`
+
+**河马科**
+
+- 河马 / Hippopotamus — *Hippopotamus amphibius* `hippopotamus`
+
+**海豚科**
+
+- 中华白海豚 / Chinese White Dolphin — *Sousa chinensis* `chinese-white-dolphin`
+- 宽吻海豚 / Common Bottlenose Dolphin — *Tursiops truncatus* `common-bottlenose-dolphin`
+- 虎鲸 / Orca — *Orcinus orca* `orca`
+
+**牛科**
+
+- 旋角羚 / Addax — *Addax nasomaculatus* `addax`
+- 非洲水牛 / African Buffalo — *Syncerus caffer* `african-buffalo`
+- 美洲野牛 / American Bison — *Bison bison* `american-bison`
+- 大角羊 / Bighorn Sheep — *Ovis canadensis* `bighorn-sheep`
+- 牛 / Domestic Cow — *Bos taurus* `domestic-cow`
+- 绵羊 / Domestic Sheep — *Ovis aries* `domestic-sheep`
+- 雪羊 / Mountain Goat — *Oreamnos americanus* `mountain-goat`
+- 麝牛 / Muskox — *Ovibos moschatus* `muskox`
+- 普氏原羚 / Przewalski's Gazelle — *Procapra przewalskii* `przewalskis-gazelle`
+- 高鼻羚羊 / Saiga Antelope — *Saiga tatarica* `saiga-antelope`
+- 羚牛 / Takin — *Budorcas taxicolor* `takin`
+- 藏羚羊 / Tibetan Antelope — *Pantholops hodgsonii* `tibetan-antelope`
+
+**猪科**
+
+- 猪 / Domestic Pig — *Sus domesticus* `domestic-pig`
+
 **白鱀豚科**
 
 - 白鳍豚 / Baiji — *Lipotes vexillifer* `baiji`
 
-**鼠海豚科**
+**长颈鹿科**
 
-- 港湾鼠海豚 / Harbor Porpoise — *Phocoena phocoena* `harbor-porpoise`
-
-### 鲸目
-
-**海豚科**
-
-- 宽吻海豚 / Common Bottlenose Dolphin — *Tursiops truncatus* `common-bottlenose-dolphin`
-- 虎鲸 / Orca — *Orcinus orca* `orca`
+- 长颈鹿 / Giraffe — *Giraffa camelopardalis* `giraffe`
 
 **须鲸科**
 
 - 蓝鲸 / Blue Whale — *Balaenoptera musculus* `blue-whale`
 
+**骆驼科**
+
+- 羊驼 / Alpaca — *Vicugna pacos* `alpaca`
+- 双峰骆驼 / Bactrian Camel — *Camelus bactrianus* `bactrian-camel`
+- 单峰骆驼 / Dromedary Camel — *Camelus dromedarius* `dromedary-camel`
+- 原驼 / Guanaco — *Lama guanicoe* `guanaco`
+- 大羊驼 / Llama — *Lama glama* `llama`
+- 小羊驼 / Vicuña — *Vicugna vicugna* `vicuna`
+- 野双峰骆驼 / Wild Bactrian Camel — *Camelus ferus* `wild-bactrian-camel`
+
+**鹿科**
+
+- 驼鹿 / Moose — *Alces alces* `moose`
+- 驯鹿 / Reindeer — *Rangifer tarandus* `reindeer`
+- 梅花鹿 / Sika Deer — *Cervus nippon* `sika-deer`
+- 獐 / Water Deer — *Hydropotes inermis* `water-deer`
+
+**麝科**
+
+- 原麝 / Siberian Musk Deer — *Moschus moschiferus* `siberian-musk-deer`
+
 **鼠海豚科**
 
+- 港湾鼠海豚 / Harbor Porpoise — *Phocoena phocoena* `harbor-porpoise`
 - 小头鼠海豚 / Vaquita — *Phocoena sinus* `vaquita`
 
 ### 鳞甲目
@@ -456,7 +446,7 @@
 
 **鹈鹕科**
 
-- 大白鹈 / Great White Pelican — *Pelecanus onocrotalus* `great-white-pelican`
+- 大白鹈鹕 / Great White Pelican — *Pelecanus onocrotalus* `great-white-pelican`
 
 **鹭科**
 
@@ -537,7 +527,7 @@
 
 **避役科**
 
-- 变色龙 / Chameleon — *Chamaeleonidae* `chameleon`
+- 高冠变色龙 / Veiled Chameleon — *Chamaeleo calyptratus* `veiled-chameleon`
 
 **鬣蜥科**
 
@@ -747,11 +737,11 @@
 
 - 红树林箱水母 / Mangrove box jellyfish — *Tripedalia cystophora* `mangrove-box-jellyfish`
 
-### 手叉水母目
-
 **单手水母科**
 
 - 国王箱水母 / King's box jellyfish — *Malo kingi* `kings-box-jellyfish`
+
+### 手叉水母目
 
 **手叉水母科**
 

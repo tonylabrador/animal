@@ -22,8 +22,8 @@
       "zh": "哺乳纲"
     },
     "order": {
-      "en": "Artiodactyla",
-      "zh": "偶蹄目"
+      "en": "Cetartiodactyla",
+      "zh": "鲸偶蹄目"
     },
     "family": {
       "en": "Delphinidae",
@@ -66,7 +66,28 @@
     ],
     "map_zoom_level": 8,
     "global_distribution_polygons": [
-      [[21.5, 113], [22.8, 113], [22.8, 114.5], [21.5, 114.5], [21.5, 113]]
+      [
+        [
+          21.5,
+          113
+        ],
+        [
+          22.8,
+          113
+        ],
+        [
+          22.8,
+          114.5
+        ],
+        [
+          21.5,
+          114.5
+        ],
+        [
+          21.5,
+          113
+        ]
+      ]
     ]
   },
   "image": "/images/animals/chinese-white-dolphin.jpg"

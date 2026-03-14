@@ -22,8 +22,8 @@
       "zh": "哺乳纲"
     },
     "order": {
-      "en": "Artiodactyla",
-      "zh": "偶蹄目"
+      "en": "Cetartiodactyla",
+      "zh": "鲸偶蹄目"
     },
     "family": {
       "en": "Camelidae",
@@ -66,7 +66,32 @@
     ],
     "map_zoom_level": 4,
     "global_distribution_polygons": [
-      [[35, 65], [50, 70], [52, 110], [38, 115], [35, 85], [35, 65]]
+      [
+        [
+          35,
+          65
+        ],
+        [
+          50,
+          70
+        ],
+        [
+          52,
+          110
+        ],
+        [
+          38,
+          115
+        ],
+        [
+          35,
+          85
+        ],
+        [
+          35,
+          65
+        ]
+      ]
     ]
   },
   "image": "/images/animals/bactrian-camel.jpg"

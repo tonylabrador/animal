@@ -22,8 +22,8 @@
       "zh": "哺乳纲"
     },
     "order": {
-      "en": "Artiodactyla",
-      "zh": "偶蹄目"
+      "en": "Cetartiodactyla",
+      "zh": "鲸偶蹄目"
     },
     "family": {
       "en": "Monodontidae",
@@ -66,7 +66,36 @@
     ],
     "map_zoom_level": 3,
     "global_distribution_polygons": [
-      [[65, -90], [75, -100], [82, -60], [80, 30], [70, 80], [65, 0], [65, -90]]
+      [
+        [
+          65,
+          -90
+        ],
+        [
+          75,
+          -100
+        ],
+        [
+          82,
+          -60
+        ],
+        [
+          80,
+          30
+        ],
+        [
+          70,
+          80
+        ],
+        [
+          65,
+          0
+        ],
+        [
+          65,
+          -90
+        ]
+      ]
     ]
   },
   "image": "/images/animals/narwhal.jpg"
