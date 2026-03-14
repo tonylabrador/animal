@@ -5,7 +5,3 @@
 
 | # | 中文名 | English Name | Scientific Name | 状态 |
 |---|--------|-------------|-----------------|------|
-| 1 | 眼镜熊 | Spectacled Bear | Tremarctos ornatus | ⏳ Pending |
-| 2 | 马来貘 | Malayan tapir | Tapirus indicus | ⏳ Pending |
-| 3 | 南美貘 | South American tapir | Tapirus terrestris | ⏳ Pending |
-| 4 | 野马 | Wild Horse | Equus ferus | ⏳ Pending |

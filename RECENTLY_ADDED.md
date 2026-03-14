@@ -13,3 +13,7 @@
 | 7 | 马来大狐蝠 | Large Flying Fox | Pteropus vampyrus | [Link](https://wild-explorer.vercel.app/animal/large-flying-fox) |
 | 8 | 吕氏狐 | Rüppell's Fox | Vulpes rueppellii | [Link](https://wild-explorer.vercel.app/animal/rueppells-fox) |
 | 9 | 敏狐 | Kit Fox | Vulpes macrotis | [Link](https://wild-explorer.vercel.app/animal/kit-fox) |
+| 10 | 眼镜熊 | Spectacled Bear | Tremarctos ornatus | [Link](https://wild-explorer.vercel.app/animal/spectacled-bear) |
+| 11 | 马来貘 | Malayan tapir | Tapirus indicus | [Link](https://wild-explorer.vercel.app/animal/malayan-tapir) |
+| 12 | 南美貘 | South American tapir | Tapirus terrestris | [Link](https://wild-explorer.vercel.app/animal/south-american-tapir) |
+| 13 | 野马 | Wild Horse | Equus ferus | [Link](https://wild-explorer.vercel.app/animal/wild-horse) |

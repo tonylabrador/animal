@@ -1,0 +1,140 @@
+{
+  "id": "malayan-tapir",
+  "name_zh": "马来貘",
+  "name_en": "Malayan tapir",
+  "scientific_name": "Tapirus indicus",
+  "ui_tags": [
+    "Mammal",
+    "Rainforest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Perissodactyla",
+      "zh": "奇蹄目"
+    },
+    "family": {
+      "en": "Tapiridae",
+      "zh": "貘科"
+    },
+    "genus": {
+      "en": "Tapirus",
+      "zh": "貘属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The largest of the four species of tapir and the only one native to Asia, recognized by its distinct black-and-white countershading.",
+    "zh": "四种貘中体型最大的一种，也是亚洲唯一的原产貘，以其独特的黑白双色保护色而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Malayan tapir has a very striking color pattern: its front and back are black, while its midsection is creamy white or grey. This 'saddle' pattern breaks up the animal's outline in the dappled light of the forest, making it difficult for predators like tigers to spot. They have a long, flexible snout (proboscis) used for grabbing leaves and a heavy, barrel-shaped body.",
+      "zh": "马来貘拥有非常醒目的颜色模式：其前段和后段为黑色，中段为乳白色或灰色。这种「马鞍」状纹路在森林斑驳的光影中能打破动物的轮廓，使虎等掠食者难以察觉。它们长有灵活的鼻肉（长鼻），用于抓取树叶，其身体沉重且呈桶状。"
+    },
+    "ecology_and_behavior": {
+      "en": "Exclusively nocturnal or crepuscular, Malayan tapirs are solitary animals that stick to a specific territory. They are excellent swimmers and often seek out water to cool down or escape predators. They communicate through high-pitched whistles and rely heavily on their senses of smell and hearing rather than their poor eyesight.",
+      "zh": "马来貘完全属于夜行性或晨昏性动物，通常独居并固守特定的领地。它们是游泳高手，经常寻找水源降温或躲避掠食者。它们通过高音调的哨声进行交流，主要依靠敏锐的嗅觉和听觉，而非较弱的视力。"
+    },
+    "habitat_and_distribution": {
+      "en": "Once found across much of Southeast Asia, they are now restricted to isolated populations in southern Thailand, Peninsular Malaysia, and the island of Sumatra in Indonesia. They inhabit dense tropical rainforests, particularly in low-lying areas near rivers or swamps.",
+      "zh": "曾广泛分布于东南亚大部分地区，现在仅限于泰国南部、马来半岛和印度尼西亚苏门答腊岛的零星种群。它们栖息在茂密的热带雨林中，特别是靠近河流或沼泽的低洼地区。"
+    }
+  },
+  "habitat": {
+    "text_en": "Dense Tropical Rainforests and Wetlands",
+    "text_zh": "茂密的热带雨林与湿地",
+    "map_coordinates": [
+      3,
+      102
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          7.5,
+          99
+        ],
+        [
+          7.5,
+          101
+        ],
+        [
+          5,
+          102
+        ],
+        [
+          1.5,
+          103.5
+        ],
+        [
+          1,
+          104
+        ],
+        [
+          1.5,
+          102
+        ],
+        [
+          5,
+          100.5
+        ],
+        [
+          7.5,
+          99
+        ]
+      ],
+      [
+        [
+          5,
+          96
+        ],
+        [
+          5,
+          98
+        ],
+        [
+          0,
+          102
+        ],
+        [
+          -5,
+          104
+        ],
+        [
+          -6,
+          105
+        ],
+        [
+          -5,
+          102
+        ],
+        [
+          0,
+          99
+        ],
+        [
+          5,
+          96
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/malayan-tapir.jpg"
+}

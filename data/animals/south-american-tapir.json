@@ -1,0 +1,130 @@
+{
+  "id": "south-american-tapir",
+  "name_zh": "南美貘",
+  "name_en": "South American tapir",
+  "scientific_name": "Tapirus terrestris",
+  "ui_tags": [
+    "Mammal",
+    "Rainforest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Perissodactyla",
+      "zh": "奇蹄目"
+    },
+    "family": {
+      "en": "Tapiridae",
+      "zh": "貘科"
+    },
+    "genus": {
+      "en": "Tapirus",
+      "zh": "貘属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The largest native terrestrial mammal in the Amazon, known for its short trunk and its critical role as a landscape architect.",
+    "zh": "亚马逊地区最大的原住民陆生哺乳动物，以其短鼻子和作为「景观建筑师」的关键生态作用而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The South American tapir has a dark brown or reddish coat and a low, upright mane that runs from the top of its head back over its neck. The most characteristic feature is its short, prehensile trunk, which is actually an extended nose and upper lip. They are heavy-bodied animals with thick skin, which helps protect them as they move through dense, thorny undergrowth.",
+      "zh": "南美貘拥有深褐色或红褐色的皮毛，以及从头顶延伸至颈部的低矮直立鬃毛。其最典型的特征是短而有力的抓握鼻，这实际上是延伸的鼻子和上唇。它们体型沉重，皮肤厚实，有助于在穿过茂密且多刺的底层植被时提供保护。"
+    },
+    "ecology_and_behavior": {
+      "en": "These tapirs are key seed dispersers, consuming a wide variety of fruits and passing the seeds intact. They are semi-aquatic and spend a significant amount of time in water to escape heat, parasites, and predators. They are generally solitary and communicate through a series of whistles and squeaks.",
+      "zh": "这些貘是关键的种子传播者，进食多种水果并排出完整的种子。它们是半水栖动物，大量的时间待在水中以避暑、寄生虫和掠食者。它们通常独居，通过一系列哨声和尖叫进行交流。"
+    },
+    "habitat_and_distribution": {
+      "en": "They have the largest range of any tapir, found in most of South America east of the Andes, from Colombia and Venezuela to southern Brazil and northern Argentina. They prefer moist lowland forests near water sources but can also be found in flooded grasslands and swamps.",
+      "zh": "在所有貘中，它们的分布范围最广，遍布安第斯山脉以东的大部分南美洲地区，从哥伦比亚和委内瑞拉到巴西南部和阿根廷北部。它们偏好靠近水源的潮湿低地森林，但在洪泛草地和沼泽中也能发现它们的身影。"
+    }
+  },
+  "habitat": {
+    "text_en": "Lowland Rainforests and Wetlands",
+    "text_zh": "低地雨林与湿地",
+    "map_coordinates": [
+      -10,
+      -55
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          12,
+          -72
+        ],
+        [
+          10,
+          -60
+        ],
+        [
+          5,
+          -50
+        ],
+        [
+          0,
+          -45
+        ],
+        [
+          -10,
+          -35
+        ],
+        [
+          -20,
+          -40
+        ],
+        [
+          -30,
+          -50
+        ],
+        [
+          -35,
+          -60
+        ],
+        [
+          -30,
+          -65
+        ],
+        [
+          -20,
+          -60
+        ],
+        [
+          -10,
+          -75
+        ],
+        [
+          0,
+          -78
+        ],
+        [
+          10,
+          -75
+        ],
+        [
+          12,
+          -72
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/south-american-tapir.jpg"
+}

@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **229** 种动物
+**统计**：共 **233** 种动物
 
 ---
 
@@ -59,10 +59,16 @@
 
 - 白犀牛 / White Rhinoceros — *Ceratotherium simum* `white-rhinoceros`
 
+**貘科**
+
+- 马来貘 / Malayan tapir — *Tapirus indicus* `malayan-tapir`
+- 南美貘 / South American tapir — *Tapirus terrestris* `south-american-tapir`
+
 **马科**
 
 - 马 / Horse — *Equus caballus* `horse`
 - 平原斑马 / Plains Zebra — *Equus quagga* `plains-zebra`
+- 野马 / Wild Horse — *Equus ferus* `wild-horse`
 
 ### 披毛目
 
@@ -187,6 +193,7 @@
 - 大熊猫 / Giant Panda — *Ailuropoda melanoleuca* `giant-panda`
 - 北极熊 / Polar Bear — *Ursus maritimus* `polar-bear`
 - 懒熊 / Sloth Bear — *Melursus ursinus* `sloth-bear`
+- 眼镜熊 / Spectacled Bear — *Tremarctos ornatus* `spectacled-bear`
 
 **犬科**
 

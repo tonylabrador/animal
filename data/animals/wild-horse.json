@@ -1,0 +1,116 @@
+{
+  "id": "wild-horse",
+  "name_zh": "野马",
+  "name_en": "Wild Horse",
+  "scientific_name": "Equus ferus",
+  "ui_tags": [
+    "Mammal",
+    "Steppe",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Perissodactyla",
+      "zh": "奇蹄目"
+    },
+    "family": {
+      "en": "Equidae",
+      "zh": "马科"
+    },
+    "genus": {
+      "en": "Equus",
+      "zh": "马属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The ancestor of all domestic horses, with the only truly wild subspecies being the Przewalski's horse of Central Asia.",
+    "zh": "所有家马的祖先，目前唯一真正的野马亚种是中亚的普氏野马。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Wild horses, specifically the Przewalski's subspecies, are stockier and shorter than domestic horses. They have a short, erect mane, a thick tail, and a yellowish-brown coat with a light muzzle and a dark dorsal stripe. Unlike many domestic breeds, they lack a forelock. Their heads are large in proportion to their bodies, and their legs are strong and resilient for traversing rugged steppes.",
+      "zh": "野马（特别是普氏野马亚种）比家马更壮健且矮短。它们有短而直立的鬃毛、浓密的尾巴以及黄褐色的皮毛，并伴有浅色嘴部和深色背部条纹。与许多家马品种不同，它们没有额毛。它们的头部相对于身体很大，腿部强壮且富有韧性，适应于穿越崎岖的草原。"
+    },
+    "ecology_and_behavior": {
+      "en": "Wild horses are highly social and live in family groups consisting of a dominant stallion, several mares, and their offspring. They are grazing herbivores, feeding on a variety of grasses and forbs. They are known for their endurance and can travel long distances in search of water and food. In their natural habitat, they are wary and possess keen senses to detect predators.",
+      "zh": "野马具有高度社会性，生活在由一只优势种马、几只母马及其后代组成的家庭群体中。它们是食草动物，以各种草类和杂草为食。它们以耐力闻名，可以长途跋涉寻找水源和食物。在自然栖息地中，它们非常警惕，拥有敏锐的感官来探测掠食者。"
+    },
+    "habitat_and_distribution": {
+      "en": "The last truly wild populations are now limited to reintroduction sites in the steppes of Mongolia and parts of China and Russia. They inhabit arid, open grasslands and shrubby steppes where they can graze freely. Conservation efforts have successfully brought them back from the brink of extinction in the wild.",
+      "zh": "目前最后真正的野生种群仅限于蒙古以及中国和俄罗斯部分地区草原的重引入点。它们栖息在干旱、开阔的草地和灌木草原上，在那里可以自由采食。保护工作已成功将它们从野外灭绝的边缘拉了回来。"
+    }
+  },
+  "habitat": {
+    "text_en": "Arid Steppes and Grasslands",
+    "text_zh": "干旱草原与荒漠草原",
+    "map_coordinates": [
+      46,
+      93
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          44,
+          90
+        ],
+        [
+          48,
+          90
+        ],
+        [
+          48,
+          98
+        ],
+        [
+          44,
+          98
+        ],
+        [
+          44,
+          90
+        ]
+      ],
+      [
+        [
+          45,
+          85
+        ],
+        [
+          47,
+          85
+        ],
+        [
+          47,
+          88
+        ],
+        [
+          45,
+          88
+        ],
+        [
+          45,
+          85
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/wild-horse.jpg"
+}

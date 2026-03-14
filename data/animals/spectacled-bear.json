@@ -1,0 +1,142 @@
+{
+  "id": "spectacled-bear",
+  "name_zh": "眼镜熊",
+  "name_en": "Spectacled Bear",
+  "scientific_name": "Tremarctos ornatus",
+  "ui_tags": [
+    "Mammal",
+    "Mountain",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Ursidae",
+      "zh": "熊科"
+    },
+    "genus": {
+      "en": "Tremarctos",
+      "zh": "南美熊属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The only bear species native to South America, named for the unique white or yellowish markings around its eyes.",
+    "zh": "南美洲唯一的原产熊类，因其眼部周围独特的白色或黄色斑纹而得名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Also known as the Andean bear, it is a mid-sized bear with black or dark brown fur. Its most distinctive feature is the pale patterning on its face and neck, which varies so much between individuals that it can be used for identification. They have shorter muzzles than most bears and a massive jaw structure adapted for eating tough vegetation like palm hearts and bromeliads.",
+      "zh": "又称安第斯熊，是一种体型中等的熊，皮毛呈黑色或深棕色。其最独特的特征是面部和颈部的浅色斑纹，个体差异极大，甚至可以作为「指纹」用于识别。它们的口鼻部比大多数熊短，具有极其厚重的颌骨结构，专门适应于进食棕榈芯和凤梨科植物等坚韧植被。"
+    },
+    "ecology_and_behavior": {
+      "en": "Andean bears are expert climbers and will often spend time in trees, even building nesting platforms to sleep and eat. They are the most herbivorous of all bears except the Giant Panda, with plants making up about 95% of their diet. They are generally solitary and shy, avoiding human contact in the dense cloud forests.",
+      "zh": "安第斯熊是攀爬高手，经常在树上活动，甚至会搭建平台进行休息和进食。除了大熊猫外，它们是所有熊类中最偏向草食性的，植物占其食性的约95%。它们通常独来独往，性格害羞，在茂密的云雾林中极力避开人类接触。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to the Andean mountains of South America, they can be found from Venezuela and Colombia in the north to Bolivia and northern Argentina in the south. They inhabit a wide range of elevations, from high-altitude paramo grasslands to lower-elevation cloud forests and dry forests.",
+      "zh": "原生于南美洲的安第斯山脉，分布范围从北部的委内瑞拉和哥伦比亚，向南延伸至玻利维亚和阿根廷北部。它们栖息的海拔跨度极大，从高海拔的帕拉莫草地到低海拔的云雾林和干旱森林都能见到它们的身影。"
+    }
+  },
+  "habitat": {
+    "text_en": "Andean Cloud Forests and High-altitude Grasslands",
+    "text_zh": "安第斯云雾林与高海拔草地",
+    "map_coordinates": [
+      -10,
+      -75
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          10,
+          -73
+        ],
+        [
+          8,
+          -71
+        ],
+        [
+          5,
+          -76
+        ],
+        [
+          0,
+          -78
+        ],
+        [
+          -5,
+          -79
+        ],
+        [
+          -10,
+          -76
+        ],
+        [
+          -15,
+          -68
+        ],
+        [
+          -20,
+          -65
+        ],
+        [
+          -25,
+          -64
+        ],
+        [
+          -22,
+          -66
+        ],
+        [
+          -18,
+          -70
+        ],
+        [
+          -14,
+          -74
+        ],
+        [
+          -10,
+          -78
+        ],
+        [
+          -5,
+          -81
+        ],
+        [
+          0,
+          -80
+        ],
+        [
+          5,
+          -77
+        ],
+        [
+          10,
+          -73
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/spectacled-bear.jpg"
+}
