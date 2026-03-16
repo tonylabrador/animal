@@ -11,3 +11,4 @@
 | 4 | 须角鸮 | Whiskered Screech Owl | Megascops trichopsis | ⏳ Pending |
 | 5 | 红头美洲鹫 | Turkey vulture | Cathartes aura | ⏳ Pending |
 | 6 | 夏唐纳雀 | Summer Tanager | Piranga rubra | ⏳ Pending |
+| 7 | 家朱雀 | House finch | Haemorhous mexicanus | ⏳ Pending |
