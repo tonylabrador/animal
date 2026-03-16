@@ -20,3 +20,4 @@
 | 13 | 须钟伞鸟 | Bearded bellbird | Procnias averano | ⏳ Pending |
 | 14 | 冠棘蜥 | Indochinese spiky lizard | Acanthosaura coronata | ⏳ Pending |
 | 15 | 中部鬃狮蜥 | Central Bearded dragon | Pogona vitticeps | ⏳ Pending |
+| 16 | 小斑几维鸟 | Little spotted kiwi | Apteryx owenii | ⏳ Pending |
