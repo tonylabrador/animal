@@ -13,3 +13,4 @@
 | 6 | 夏唐纳雀 | Summer Tanager | Piranga rubra | ⏳ Pending |
 | 7 | 家朱雀 | House finch | Haemorhous mexicanus | ⏳ Pending |
 | 8 | 家麻雀 | House Sparrow | Passer domesticus | ⏳ Pending |
+| 9 | 虎皮鹦鹉 | Budgerigar | Melopsittacus undulatus | ⏳ Pending |
