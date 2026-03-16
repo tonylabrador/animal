@@ -9,3 +9,4 @@
 | 2 | 白背跳狐猴 | Pearly Sifaka | Propithecus perrieri | ⏳ Pending |
 | 3 | 笑翠鸟 | Laughing Kookaburra | Dacelo novaeguineae | ⏳ Pending |
 | 4 | 须角鸮 | Whiskered Screech Owl | Megascops trichopsis | ⏳ Pending |
+| 5 | 红头美洲鹫 | Turkey vulture | Cathartes aura | ⏳ Pending |
