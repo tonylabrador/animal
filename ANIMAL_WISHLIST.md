@@ -8,3 +8,4 @@
 | 1 | 座头鲸 | Humpback Whale | Megaptera novaeangliae | ⏳ Pending |
 | 2 | 白背跳狐猴 | Pearly Sifaka | Propithecus perrieri | ⏳ Pending |
 | 3 | 笑翠鸟 | Laughing Kookaburra | Dacelo novaeguineae | ⏳ Pending |
+| 4 | 须角鸮 | Whiskered Screech Owl | Megascops trichopsis | ⏳ Pending |
