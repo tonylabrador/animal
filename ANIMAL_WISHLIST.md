@@ -17,3 +17,4 @@
 | 10 | 沟嘴巨嘴鸟 | Channel-billed Toucan | Ramphastos vitellinus | ⏳ Pending |
 | 11 | 灰山鹑 | Grey Partridge | Perdix perdix | ⏳ Pending |
 | 12 | 大天堂鸟 | Greater Bird-of-paradise | Paradisaea apoda | ⏳ Pending |
+| 13 | 须钟伞鸟 | Bearded bellbird | Procnias averano | ⏳ Pending |
