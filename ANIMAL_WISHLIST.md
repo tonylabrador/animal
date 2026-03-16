@@ -14,3 +14,4 @@
 | 7 | 家朱雀 | House finch | Haemorhous mexicanus | ⏳ Pending |
 | 8 | 家麻雀 | House Sparrow | Passer domesticus | ⏳ Pending |
 | 9 | 虎皮鹦鹉 | Budgerigar | Melopsittacus undulatus | ⏳ Pending |
+| 10 | 沟嘴巨嘴鸟 | Channel-billed Toucan | Ramphastos vitellinus | ⏳ Pending |
