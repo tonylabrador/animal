@@ -16,3 +16,4 @@
 | 9 | 虎皮鹦鹉 | Budgerigar | Melopsittacus undulatus | ⏳ Pending |
 | 10 | 沟嘴巨嘴鸟 | Channel-billed Toucan | Ramphastos vitellinus | ⏳ Pending |
 | 11 | 灰山鹑 | Grey Partridge | Perdix perdix | ⏳ Pending |
+| 12 | 大天堂鸟 | Greater Bird-of-paradise | Paradisaea apoda | ⏳ Pending |
