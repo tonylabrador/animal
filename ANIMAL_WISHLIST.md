@@ -15,3 +15,4 @@
 | 8 | 家麻雀 | House Sparrow | Passer domesticus | ⏳ Pending |
 | 9 | 虎皮鹦鹉 | Budgerigar | Melopsittacus undulatus | ⏳ Pending |
 | 10 | 沟嘴巨嘴鸟 | Channel-billed Toucan | Ramphastos vitellinus | ⏳ Pending |
+| 11 | 灰山鹑 | Grey Partridge | Perdix perdix | ⏳ Pending |
