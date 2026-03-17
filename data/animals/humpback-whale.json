@@ -1,0 +1,194 @@
+{
+  "id": "humpback-whale",
+  "name_zh": "座头鲸",
+  "name_en": "Humpback Whale",
+  "scientific_name": "Megaptera novaeangliae",
+  "ui_tags": [
+    "Mammal",
+    "Ocean",
+    "Filter Feeder"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Balaenopteridae",
+      "zh": "须鲸科"
+    },
+    "genus": {
+      "en": "Megaptera",
+      "zh": "大翅鲸属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A majestic baleen whale known for its complex songs and acrobatic breaching behavior during long migrations.",
+    "zh": "一种雄伟的须鲸，以其复杂的鸣唱和在漫长迁徙过程中的空中跃出行为而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Humpback whales are easily identified by their stocky bodies, unique tail flukes, and exceptionally long pectoral fins, which can reach up to one-third of their body length. They feature a series of knobs, called tubercles, on their heads and lower jaws, each containing a single sensory hair. Their baleen plates are dark and stiff, perfectly adapted for filtering small krill and fish from seawater.",
+      "zh": "座头鲸易于识别，其特征是粗壮的身体、独特的尾鳍以及异常长的胸鳍（可达体长的三分之一）。它们的头部和下颚有一系列被称为「结节」的凸起，每个结节都包含一根感官毛。它们的鲸须呈深色且坚硬，完美适应从海水中过滤小型磷虾和鱼类。"
+    },
+    "ecology_and_behavior": {
+      "en": "Famous for their elaborate and long songs produced by males during the breeding season, humpbacks are also highly social and use 'bubble-net feeding'—a cooperative hunting technique where they blow bubbles to entrap fish. They undertake the longest migrations of any mammal, traveling up to 16,000 miles rounded-trip between polar feeding grounds and tropical breeding waters.",
+      "zh": "座头鲸因雄性在繁殖季节创作的长而复杂的鸣唱而闻名，它们还具有高度社会性，会使用「气泡网捕食」——这是一种合作狩猎技巧，通过吹出气泡来困住鱼类。它们进行着哺乳动物中最长的迁徙，在极地捕食区和热带繁殖区之间往返航行可达16,000英里。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are found in oceans worldwide, ranging from the edge of the ice pack in the Antarctic and Arctic to tropical waters near the equator. Key populations migrate along the coastlines of North America, Australia, and South America. They prefer shallow coastal waters during the breeding season but stay in nutrient-rich open oceans for feeding.",
+      "zh": "它们分布于全球各大洋，从南极和极地的冰缘到赤道附近的热带水域。主要种群沿北美、大洋洲和南美洲海岸线迁徙。在繁殖季节，它们偏好浅层近海水域，但在捕食期则停留在营养丰富的开阔海域。"
+    }
+  },
+  "habitat": {
+    "text_en": "Global Oceans and Coastal Waters",
+    "text_zh": "全球海洋与近海水域",
+    "map_coordinates": [
+      0,
+      0
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          -60,
+          -180
+        ],
+        [
+          -60,
+          180
+        ],
+        [
+          -80,
+          180
+        ],
+        [
+          -80,
+          -180
+        ],
+        [
+          -60,
+          -180
+        ]
+      ],
+      [
+        [
+          60,
+          -180
+        ],
+        [
+          60,
+          180
+        ],
+        [
+          80,
+          180
+        ],
+        [
+          80,
+          -180
+        ],
+        [
+          60,
+          -180
+        ]
+      ],
+      [
+        [
+          45,
+          -130
+        ],
+        [
+          20,
+          -110
+        ],
+        [
+          10,
+          -90
+        ],
+        [
+          20,
+          -70
+        ],
+        [
+          45,
+          -50
+        ],
+        [
+          45,
+          -130
+        ]
+      ],
+      [
+        [
+          -10,
+          -80
+        ],
+        [
+          -30,
+          -75
+        ],
+        [
+          -50,
+          -70
+        ],
+        [
+          -50,
+          -40
+        ],
+        [
+          -30,
+          -35
+        ],
+        [
+          -10,
+          -80
+        ]
+      ],
+      [
+        [
+          -10,
+          110
+        ],
+        [
+          -30,
+          115
+        ],
+        [
+          -45,
+          120
+        ],
+        [
+          -45,
+          155
+        ],
+        [
+          -30,
+          155
+        ],
+        [
+          -10,
+          110
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/humpback-whale.jpg"
+}

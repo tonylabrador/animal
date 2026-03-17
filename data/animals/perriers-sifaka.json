@@ -1,0 +1,98 @@
+{
+  "id": "perriers-sifaka",
+  "name_zh": "佩氏跳狐猴",
+  "name_en": "Perrier's Sifaka",
+  "scientific_name": "Propithecus perrieri",
+  "ui_tags": [
+    "Mammal",
+    "Rainforest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Primates",
+      "zh": "灵长目"
+    },
+    "family": {
+      "en": "Indriidae",
+      "zh": "大狐猴科"
+    },
+    "genus": {
+      "en": "Propithecus",
+      "zh": "跳狐猴属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "A rare, entirely black lemur from northeastern Madagascar, known for its incredible leaping ability and limited range.",
+    "zh": "一种来自马达加斯加东北部、全身漆黑的罕见狐猴，以其惊人的跳跃能力和极小的分布范围而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Perrier's sifaka is distinguished by its uniform velvety black fur and starkly contrasting red-orange eyes. It has a relatively small body compared to other sifakas, with long, powerful hind legs adapted for 'vertical clinging and leaping'. Their hands and feet are specialized for grasping vertical trunks, allowing them to traverse the canopy with explosive jumps and pinpoint accuracy.",
+      "zh": "佩氏跳狐猴的特征是全身覆盖着天鹅绒般的黑色皮毛，并配有鲜明对比的红橙色眼睛。与其他跳狐猴相比，它的体型相对较小，拥有强壮修长的后腿，专门适应「垂直攀附和跳跃」。它们的手和脚专门用于抓握垂直的树干，使其能以爆发性的跳跃和精准的定位穿梭于林冠层。"
+    },
+    "ecology_and_behavior": {
+      "en": "They live in small family groups of two to six individuals. Sifakas are diurnal and spend much of their day feeding on leaves, seeds, and fruit. Their movement on the ground is famous—a rhythmic, bipedal 'dance' or side-skip, as they cannot walk on all fours. They are highly vocal, using a variety of calls to coordinate group movements and warn of predators like the fossa.",
+      "zh": "它们生活在两到六只个体组成的小型家庭群体中。跳狐猴是昼行性的，大部分时间用于进食叶子、种子和水果。它们在地面的移动方式非常著名——一种节奏感十足的双足「舞蹈」或侧跳，因为它们无法四足行走。它们交流频繁，使用多种鸣叫来协调群体移动，并警告如长岛马岛獴等掠食者的威胁。"
+    },
+    "habitat_and_distribution": {
+      "en": "CRITICALLY ENDANGERED. This species is found only in a tiny, fragmented area of northeastern Madagascar, specifically in dry deciduous and semi-evergreen forests like Analamerana and Andrafiamena. Their habitat is severely threatened by shifting agriculture, charcoal production, and illegal logging.",
+      "zh": "【极度濒危】该物种仅分布于马达加斯加东北部极小且破碎的区域，特别是安纳拉梅拉纳（Analamerana）和安德拉菲亚梅纳（Andrafiamena）等地的落叶干燥林和半常绿林中。由于轮歇农业、木炭生产和非法伐木，它们的栖息地受到严重威胁。"
+    }
+  },
+  "habitat": {
+    "text_en": "Dry Deciduous and Semi-evergreen Forests",
+    "text_zh": "落叶干燥林与半常绿林",
+    "map_coordinates": [
+      -12.75,
+      49.3
+    ],
+    "map_zoom_level": 9,
+    "global_distribution_polygons": [
+      [
+        [
+          -12.85,
+          49.2
+        ],
+        [
+          -12.65,
+          49.2
+        ],
+        [
+          -12.6,
+          49.35
+        ],
+        [
+          -12.75,
+          49.45
+        ],
+        [
+          -12.9,
+          49.35
+        ],
+        [
+          -12.85,
+          49.2
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/perriers-sifaka.jpg"
+}

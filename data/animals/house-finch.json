@@ -1,0 +1,112 @@
+{
+  "id": "house-finch",
+  "name_zh": "家朱雀",
+  "name_en": "House Finch",
+  "scientific_name": "Haemorhous mexicanus",
+  "ui_tags": [
+    "Bird",
+    "Urban",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Fringillidae",
+      "zh": "燕雀科"
+    },
+    "genus": {
+      "en": "Haemorhous",
+      "zh": "朱雀属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A social, colorful finch common in North American cities, whose red intensity depends on its diet.",
+    "zh": "北美城市中常见的社会性彩色雀类，其红色的鲜艳程度取决于其摄入的食物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The house finch is a small-bodied bird with a short, heavy conical bill. Adult males are distinctively colored with a bright red or orange head, breast, and rump, while the rest of their plumage is streaky brown. Interestingly, the red pigment comes directly from carotenoids in the seeds and berries they eat; therefore, a male's 'redness' is an honest indicator of his foraging success and health to potential mates.",
+      "zh": "家朱雀是一种体型娇小的鸟类，拥有短而厚实的圆锥形喙。成年雄性特征明显，头部、胸部和腰部呈鲜艳的红色或橙色，而其余羽毛为深浅不一的棕色条纹。有趣的是，红色色素直接源自它们食用的种子和浆果中的类胡萝卜素；因此，雄性的「红润度」是其觅食能力和健康状况对潜在配偶的真实反映。"
+    },
+    "ecology_and_behavior": {
+      "en": "Highly social year-round, house finches often forage in large, noisy flocks. They are strict vegetarians, feeding almost exclusively on plant materials like seeds, buds, and fruit. Their song is a long, jumbled warble that often ends with a upward-slurred 'cheee' note. They are remarkably adaptable, frequently nesting in hanging plants, vents, or ledges near human dwellings.",
+      "zh": "家朱雀全年都具有高度的社会性，常成群结队鸣叫觅食。它们是严格的植食者，几乎完全以种子、芽和水果等植物性材料为食。它们的鸣声是长而杂乱的颤音，通常以向上挑的「唧——」声结束。它们适应力极佳，经常在人类住宅附近的吊盆、通风口或窗台上筑巢。"
+    },
+    "habitat_and_distribution": {
+      "en": "Originally native to the western United States and Mexico, they were introduced to the east coast in the 1940s and have since spread across the entire continent. They thrive in a range of environments from desert scrub to suburbs and urban centers. They are now among the most common birds found at backyard bird feeders in North America.",
+      "zh": "最初原生于美国西部和墨西哥，1940年代被引入东海岸，此后扩展至整个大陆。它们在从沙漠灌丛到郊区和市中心的各种环境中都能茁壮成长。现在，它们已成为北美后院喂鸟器旁最常见的鸟类之一。"
+    }
+  },
+  "habitat": {
+    "text_en": "Urban Areas, Suburbs, and Semi-Arid Lands",
+    "text_zh": "城市区域、郊区与半干旱土地",
+    "map_coordinates": [
+      35,
+      -100
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          50,
+          -125
+        ],
+        [
+          50,
+          -65
+        ],
+        [
+          25,
+          -75
+        ],
+        [
+          25,
+          -115
+        ],
+        [
+          50,
+          -125
+        ]
+      ],
+      [
+        [
+          25,
+          -110
+        ],
+        [
+          15,
+          -95
+        ],
+        [
+          25,
+          -95
+        ],
+        [
+          25,
+          -110
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/house-finch.jpg"
+}

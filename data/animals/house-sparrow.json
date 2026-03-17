@@ -1,0 +1,164 @@
+{
+  "id": "house-sparrow",
+  "name_zh": "家麻雀",
+  "name_en": "House Sparrow",
+  "scientific_name": "Passer domesticus",
+  "ui_tags": [
+    "Bird",
+    "Global",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Passeridae",
+      "zh": "麻雀科"
+    },
+    "genus": {
+      "en": "Passer",
+      "zh": "麻雀属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "One of the most widely distributed wild birds on Earth, this bold sparrow has successfully followed humans across every continent except Antarctica.",
+    "zh": "地球上分布最广的野生鸟类之一，这种大胆的麻雀已成功跟随人类的足迹遍布除南极洲外的所有大陆。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The house sparrow is a compact, short-legged bird with a thick, powerful bill for crushing seeds. Adult males have a distinct 'black bib' on their throat and chest; the size of this bib is a status symbol—males with larger bibs are generally more dominant and preferred by females. Their plumage is a complex pattern of grey, brown, and black, providing excellent camouflage in urban and agricultural settings.",
+      "zh": "家麻雀是一种体型紧凑、腿短的鸟类，拥有厚实强劲的喙，用于压碎种子。成年雄性的喉部和胸部有明显的「黑色围兜」；围兜的大小是地位的象征——围兜越大的雄性通常更具优势，也更受雌性青睐。它们的羽毛由灰色、棕色和黑色组成复杂的图案，在城市和农业环境中提供了极佳的伪装。"
+    },
+    "ecology_and_behavior": {
+      "en": "Extremely social, they live and forage in colonies. House sparrows are opportunists, feeding on grains, seeds, insects, and human food scraps. They are aggressive competitors, often displacing native birds from nesting sites. They are famous for 'dust bathing'—vigorously throwing dry soil over their feathers to clean them and remove parasites.",
+      "zh": "家麻雀具有极强的社会性，成群生活和觅食。它们是机会主义者，以谷物、种子、昆虫和人类食物残渣为食。它们是好斗的竞争者，经常将原生鸟类赶出筑巢地。它们以「沙浴」闻名——用力将干土泼洒在羽毛上以清洁羽毛并去除寄生虫。"
+    },
+    "habitat_and_distribution": {
+      "en": "Originally native to Eurasia and North Africa, they have been introduced worldwide. They are strictly associated with human-modified habitats, from farms and rural villages to the centers of the world's largest cities. Unlike many birds, they are rarely found in vast forests or deserts away from human presence.",
+      "zh": "最初原生于欧亚大陆和北非，现已遍布全球。它们与人类改造的栖息地密切相关，从农场、乡村到世界各大城市的中心都能看到它们的身影。与许多鸟类不同，它们极少出现在远离人类足迹的茂密森林或荒漠中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Urban, Suburban, and Agricultural Land",
+    "text_zh": "城市、郊区与农耕地",
+    "map_coordinates": [
+      30,
+      0
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          35,
+          -125
+        ],
+        [
+          60,
+          -125
+        ],
+        [
+          60,
+          -60
+        ],
+        [
+          35,
+          -60
+        ],
+        [
+          35,
+          -125
+        ]
+      ],
+      [
+        [
+          -10,
+          -75
+        ],
+        [
+          -55,
+          -70
+        ],
+        [
+          -55,
+          -40
+        ],
+        [
+          -10,
+          -35
+        ],
+        [
+          -10,
+          -75
+        ]
+      ],
+      [
+        [
+          35,
+          -10
+        ],
+        [
+          70,
+          -10
+        ],
+        [
+          70,
+          150
+        ],
+        [
+          10,
+          150
+        ],
+        [
+          10,
+          -10
+        ],
+        [
+          35,
+          -10
+        ]
+      ],
+      [
+        [
+          -15,
+          115
+        ],
+        [
+          -40,
+          115
+        ],
+        [
+          -40,
+          155
+        ],
+        [
+          -15,
+          155
+        ],
+        [
+          -15,
+          115
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/house-sparrow.jpg"
+}

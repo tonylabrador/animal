@@ -2,11 +2,17 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **233** 种动物
+**统计**：共 **249** 种动物
 
 ---
 
 ## 哺乳纲
+
+### 偶蹄目
+
+**须鲸科**
+
+- 座头鲸 / Humpback Whale — *Megaptera novaeangliae* `humpback-whale`
 
 ### 兔形目
 
@@ -114,6 +120,10 @@
 - 黑猩猩 / Chimpanzee — *Pan troglodytes* `chimpanzee`
 - 人 / Human — *Homo sapiens* `human`
 - 大猩猩 / Western Gorilla — *Gorilla gorilla* `western-gorilla`
+
+**大狐猴科**
+
+- 佩氏跳狐猴 / Perrier's Sifaka — *Propithecus perrieri* `perriers-sifaka`
 
 **指猴科**
 
@@ -354,6 +364,13 @@
 **翠鸟科**
 
 - 普通翠鸟 / Common Kingfisher — *Alcedo atthis* `common-kingfisher`
+- 笑翠鸟 / Laughing Kookaburra — *Dacelo novaeguineae* `laughing-kookaburra`
+
+### 几维目
+
+**几维科**
+
+- 小斑几维鸟 / Little spotted kiwi — *Apteryx owenii* `little-spotted-kiwi`
 
 ### 林鸱目
 
@@ -373,6 +390,12 @@
 
 - 大红鹳 / Greater Flamingo — *Phoenicopterus roseus* `greater-flamingo`
 
+### 美洲鹫目
+
+**美洲鹫科**
+
+- 红头美洲鹫 / Turkey Vulture — *Cathartes aura* `turkey-vulture`
+
 ### 隼形目
 
 **隼科**
@@ -380,6 +403,14 @@
 - 游隼 / Peregrine Falcon — *Falco peregrinus* `peregrine-falcon`
 
 ### 雀形目
+
+**伞鸟科**
+
+- 须钟伞鸟 / Bearded Bellbird — *Procnias averano* `bearded-bellbird`
+
+**极乐鸟科**
+
+- 大天堂鸟 / Greater Bird-of-paradise — *Paradisaea apoda* `greater-bird-of-paradise`
 
 **森莺科**
 
@@ -390,13 +421,22 @@
 - 八哥 / Crested Myna — *Acridotheres cristatellus* `crested-myna`
 - 普通椋鸟 / European Starling — *Sturnus vulgaris* `european-starling`
 
+**燕雀科**
+
+- 家朱雀 / House Finch — *Haemorhous mexicanus* `house-finch`
+
 **美洲雀科**
 
 - 北美红雀 / Northern Cardinal — *Cardinalis cardinalis* `northern-cardinal`
+- 夏唐纳雀 / Summer Tanager — *Piranga rubra* `summer-tanager`
 
 **鸦科**
 
 - 加州灌丛鸦 / California Scrub-Jay — *Aphelocoma californica* `california-scrub-jay`
+
+**麻雀科**
+
+- 家麻雀 / House Sparrow — *Passer domesticus* `house-sparrow`
 
 ### 雁形目
 
@@ -415,6 +455,7 @@
 
 **巨嘴鸟科**
 
+- 沟嘴巨嘴鸟 / Channel-billed Toucan — *Ramphastos vitellinus* `channel-billed-toucan`
 - 彩虹巨嘴鸟 / Keel-billed Toucan — *Ramphastos sulfuratus* `keel-billed-toucan`
 - 巨嘴鸟 / Toco Toucan — *Ramphastos toco* `toco-toucan`
 
@@ -424,6 +465,7 @@
 
 - 褐马鸡 / Brown Eared Pheasant — *Crossoptilon mantchuricum* `brown-eared-pheasant`
 - 红腹锦鸡 / Golden Pheasant — *Chrysolophus pictus* `golden-pheasant`
+- 灰山鹑 / Grey Partridge — *Perdix perdix* `grey-partridge`
 - 蓝孔雀 / Indian Peafowl — *Pavo cristatus* `indian-peafowl`
 - 原鸡 / Red Junglefowl — *Gallus gallus* `red-junglefowl`
 
@@ -432,6 +474,7 @@
 **鸱鸮科**
 
 - 雪鸮 / Snowy Owl — *Bubo scandiacus* `snowy-owl`
+- 须角鸮 / Whiskered Screech Owl — *Megascops trichopsis* `whiskered-screech-owl`
 
 ### 鸵鸟目
 
@@ -485,6 +528,7 @@
 
 **鹦鹉科**
 
+- 虎皮鹦鹉 / Budgerigar — *Melopsittacus undulatus* `budgerigar`
 - 紫蓝金刚鹦鹉 / Hyacinth Macaw — *Anodorhynchus hyacinthinus* `hyacinth-macaw`
 - 绯红金刚鹦鹉 / Scarlet Macaw — *Ara macao* `scarlet-macaw`
 
@@ -538,7 +582,9 @@
 
 **鬣蜥科**
 
+- 中部鬃狮蜥 / Central Bearded dragon — *Pogona vitticeps* `central-bearded-dragon`
 - 绿鬣蜥 / Green Iguana — *Iguana iguana* `green-iguana`
+- 冠棘蜥 / Indochinese spiky lizard — *Acanthosaura coronata* `indochinese-spiky-lizard`
 
 ### 鳄目
 

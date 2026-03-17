@@ -1,0 +1,116 @@
+{
+  "id": "greater-bird-of-paradise",
+  "name_zh": "大天堂鸟",
+  "name_en": "Greater Bird-of-paradise",
+  "scientific_name": "Paradisaea apoda",
+  "ui_tags": [
+    "Bird",
+    "Rainforest",
+    "Frugivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Paradisaeidae",
+      "zh": "极乐鸟科"
+    },
+    "genus": {
+      "en": "Paradisaea",
+      "zh": "极乐鸟属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "Famous for the male's spectacular yellow plumes and elaborate courtship dances, this species was once thought by Europeans to have no feet, as early trade specimens were prepared without them.",
+    "zh": "以雄性壮观的黄色装饰羽和复杂的求偶舞蹈而闻名。欧洲人曾认为这种鸟没有脚，因为早期的贸易标本在制作时并未保留脚部。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The greater bird-of-paradise is a large passerine. Males are remarkably beautiful, featuring an iridescent green throat and a crown of silvery-yellow. Their most iconic trait is the long, flowing yellow plumes that grow from their flanks and can be raised during displays. Females are a subtle maroon-brown. The scientific name 'apoda' means 'without feet', reflecting the historical myth created when traders from the Aru Islands brought skins to Europe with the legs removed.",
+      "zh": "大天堂鸟是一种大型雀鸟。雄鸟极其华丽，拥有虹彩绿色的喉部和银黄色的头顶。它们最标志性的特征是从肋部生长的长而飘逸的黄色羽线，在展示时可以高高举起。雌鸟则是低调的栗棕色。其拉丁学名「apoda」意为「无脚」，反映了历史上的一个误解：当时阿鲁群岛的贸易商将去除腿部的鸟皮运往欧洲，导致人们误以为它们终生在空中飞行。"
+    },
+    "ecology_and_behavior": {
+      "en": "They practice a 'lek' mating system, where multiple males gather in high forest canopies to perform synchronized, competitive dances. They display their vibrant plumes, fan their wings, and emit loud, bell-like calls to attract females. Their diet consists primarily of fruits and seeds, supplemented by insects. They are crucial seed dispersers for many specialized tropical forest trees.",
+      "zh": "它们实行「求偶场」交配制度，多只雄鸟会聚集在森林高层的冠层中进行同步且具竞争性的舞蹈。它们展示鲜艳的羽线，扇动手臂般的翅膀，并发出响亮的铃声般的鸣叫以吸引雌性。它们的饮食主要由水果和种子组成，并辅以昆虫。它们是许多特有热带森林树种的重要种子传播者。"
+    },
+    "habitat_and_distribution": {
+      "en": "Found in the lowland and hill forests of southwest New Guinea and the Aru Islands of Indonesia. They rely on primary rainforest with tall trees suitable for their elaborate display arenas. While classified as 'Least Concern', they remain threatened by illegal trade for their feathers and the ongoing destruction of their forest habitat.",
+      "zh": "分布于新几内亚西南部和印度尼西亚阿鲁群岛的低地及山地森林中。它们依赖于拥有高大树木的原始雨林，以作为其复杂的展示舞台。虽然目前被归类为「无危」，但由于羽毛非法贸易以及森林栖息地的持续破坏，它们仍面临潜在威胁。"
+    }
+  },
+  "habitat": {
+    "text_en": "Lowland and Hill Tropical Rainforests",
+    "text_zh": "低地与山地热带雨林",
+    "map_coordinates": [
+      -6,
+      137
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [
+        [
+          -5,
+          134
+        ],
+        [
+          -5,
+          135.5
+        ],
+        [
+          -7.5,
+          135.5
+        ],
+        [
+          -7.5,
+          134
+        ],
+        [
+          -5,
+          134
+        ]
+      ],
+      [
+        [
+          -5.5,
+          136
+        ],
+        [
+          -5.5,
+          140
+        ],
+        [
+          -8,
+          140
+        ],
+        [
+          -8,
+          136
+        ],
+        [
+          -5.5,
+          136
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/greater-bird-of-paradise.jpg"
+}

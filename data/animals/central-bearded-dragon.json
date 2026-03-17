@@ -1,0 +1,94 @@
+{
+  "id": "central-bearded-dragon",
+  "name_zh": "中部鬃狮蜥",
+  "name_en": "Central Bearded dragon",
+  "scientific_name": "Pogona vitticeps",
+  "ui_tags": [
+    "Reptile",
+    "Desert",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Agamidae",
+      "zh": "鬣蜥科"
+    },
+    "genus": {
+      "en": "Pogona",
+      "zh": "鬃狮蜥属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "One of the most social and expressive reptiles, known for the expandable spiny pouch under its chin called a 'beard'.",
+    "zh": "最具社交性和表现力的爬行动物之一，因其下巴下可膨胀的带棘刺囊袋（称为「胡须」）而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Central bearded dragons are mid-sized lizards with a wide, flat body that helps them soak up heat from the sun. Their most famous feature is the 'beard'—a patch of spiny skin on the throat that they can puff out and turn jet black when stressed, aggressive, or displaying for a mate. Small, specialized spikes line their sides and head. They have powerful jaws and a broad, sticky tongue for capturing insects.",
+      "zh": "中部鬃狮蜥是中型蜥蜴，拥有宽阔扁平的身体，有助于它们吸收阳光热量。它们最注明的特征是「故须」——喉部的一块带棘皮肤，在感到压力、表现攻击性或向配偶展示时会鼓起并变成漆黑色。身体两侧和头部排列着细小的专用棘刺。它们拥有强劲的颚部和宽大粘稠的舌头，用于捕捉昆虫。"
+    },
+    "ecology_and_behavior": {
+      "en": "Bearded dragons are famous for their unique social signals. They communicate through 'head bobbing' (dominance) and 'arm waving' (submission or acknowledgment). They are semi-arboreal and are often seen basking on fence posts or fallen trees in the wild. As omnivores, they graze on desert vegetation but also hunt protein-rich insects. During the hottest part of the day, they burrow underground to stay cool.",
+      "zh": "鬃狮蜥以其独特的社交信号而著称。它们通过「点头」（表现优势）和「挥手」（表现臣服或确认）进行交流。它们是半树栖的，野外常能见到它们在篱笆桩或倒下的树木上晒太阳。作为杂食动物，它们取食沙漠植被，也猎食高蛋白昆虫。在一天中最热的时候，它们会钻入地下挖洞以保持凉爽。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to a wide range of arid and semi-arid regions in central and eastern Australia. They thrive in savannas, rocky deserts, and dry scrublands. They are remarkably hardy and adaptable, leading to their global popularity as pets, though wild populations remain strictly protected in Australia.",
+      "zh": "原生于澳大利亚中部和东部广泛的干旱及半干旱地区。它们在萨瓦纳稀树草原、岩石沙漠和干燥灌木丛中茁壮成长。它们极其强健且适应力强，这使得它们在全世界作为宠物备受欢迎，尽管野外种群在澳大利亚受到严格保护。"
+    }
+  },
+  "habitat": {
+    "text_en": "Semi-Arid Savannas and Deserts",
+    "text_zh": "半干旱稀树草原与沙漠",
+    "map_coordinates": [
+      -25,
+      140
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -20,
+          135
+        ],
+        [
+          -20,
+          150
+        ],
+        [
+          -35,
+          150
+        ],
+        [
+          -35,
+          135
+        ],
+        [
+          -20,
+          135
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/central-bearded-dragon.jpg"
+}

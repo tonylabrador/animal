@@ -1,0 +1,110 @@
+{
+  "id": "bearded-bellbird",
+  "name_zh": "须钟伞鸟",
+  "name_en": "Bearded Bellbird",
+  "scientific_name": "Procnias averano",
+  "ui_tags": [
+    "Bird",
+    "South America",
+    "Frugivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Cotingidae",
+      "zh": "伞鸟科"
+    },
+    "genus": {
+      "en": "Procnias",
+      "zh": "钟伞鸟属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "Capable of producing some of the loudest bird calls in the world, the male is easily recognized by the strange black 'beard' of fleshy wattles hanging from its throat.",
+    "zh": "这种鸟能发出世界上最响亮的鸟鸣声之一。雄鸟非常容易辨认，其喉部悬挂着垂成奇特黑色「胡须」状的肉质垂饰。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The male bearded bellbird is striking with white plumage on its body and brown on its head and wings. Its most bizarre feature is the large number of stringy black wattles—often numbering over 30—that hang from its throat, resembling a messy beard. These wattles are not feathers but fleshy extensions that can be inflated or moved. Females are much more cryptic, featuring olive-green plumage with yellow streaks, blending perfectly with forest foliage.",
+      "zh": "雄性须钟伞鸟特征鲜明，身体为白色羽毛，头和翅膀为棕色。其最奇特的特征是喉部长有大量线状黑色肉垂——通常超过30条——垂下如同凌乱的胡须。这些肉垂并非羽毛，而是可以膨胀或移动的肉质突起。雌鸟则隐蔽得多，拥有橄榄绿色的羽毛并带有黄色条纹，能完美融入森林枝叶中。"
+    },
+    "ecology_and_behavior": {
+      "en": "Their vocalizations are legendary; the male's call is a series of loud, metallic 'bong' sounds, similar to a hammer striking an anvil, audible from over a kilometer away. They are almost entirely frugivorous, preferring high-fat fruits which they swallow whole. They are key pollinators and seed dispersers for many tropical trees. During breeding, males defend a 'calling tree' where they perform and shout to attract females.",
+      "zh": "它们的鸣声具有传奇色彩；雄鸟的鸣叫是一系列响亮的、带有金属质感的「磅——」声，类似于锤子敲击铁砧，在超过一公里外都能听到。它们几乎完全是食果动物，更喜欢吞食高脂肪的水果。它们是许多热带树木的关键授粉者和种子传播者。繁殖期间，雄鸟会占据一棵「鸣求木」，在那里通过表演和呐喊来吸引雌性。"
+    },
+    "habitat_and_distribution": {
+      "en": "They inhabit humid tropical forests and montane woodlands in northern South America, with populations found in Colombia, Venezuela, Guyana, and northern Brazil, as well as the island of Trinidad. They move seasonally through the forest canopy, following the ripening schedules of their favorite fruiting trees.",
+      "zh": "它们栖息在南美洲北部的湿润热带森林和山地林地中，种群分布于哥伦比亚、委内瑞拉、圭亚那、巴西北部以及特立尼达岛。它们会随季节在森林冠层中移动，追随它们喜爱的果类树木的成熟期。"
+    }
+  },
+  "habitat": {
+    "text_en": "Humid Tropical and Montane Forests",
+    "text_zh": "湿润热带与山地森林",
+    "map_coordinates": [
+      5,
+      -60
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          11,
+          -62
+        ],
+        [
+          5,
+          -58
+        ],
+        [
+          0,
+          -52
+        ],
+        [
+          -1,
+          -45
+        ],
+        [
+          0,
+          -35
+        ],
+        [
+          -5,
+          -40
+        ],
+        [
+          -5,
+          -70
+        ],
+        [
+          5,
+          -75
+        ],
+        [
+          11,
+          -62
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/bearded-bellbird.jpg"
+}

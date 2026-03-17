@@ -1,0 +1,126 @@
+{
+  "id": "turkey-vulture",
+  "name_zh": "红头美洲鹫",
+  "name_en": "Turkey Vulture",
+  "scientific_name": "Cathartes aura",
+  "ui_tags": [
+    "Bird",
+    "Global",
+    "Scavenger"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Cathartiformes",
+      "zh": "美洲鹫目"
+    },
+    "family": {
+      "en": "Cathartidae",
+      "zh": "美洲鹫科"
+    },
+    "genus": {
+      "en": "Cathartes",
+      "zh": "美洲鹫属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A large, widespread scavenger of the Americas with a keen sense of smell, easily recognized by its red head and unsteady, soaring flight.",
+    "zh": "一种分布广泛的系统美洲大型食腐动物，拥有敏锐的嗅觉，因其红色的头部和摇晃的翱翔飞行姿态而易于辨认。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The turkey vulture has brownish-black plumage and a featherless red head, which helps it keep clean while feeding on carcasses. It has a large wingspan of up to 180 cm and long, broad wings. A key anatomical feature is its perforated nostrils, which lack a septum, allowing for a highly developed sense of smell—one of the most advanced among all birds—used to locate decaying meat from high altitudes.",
+      "zh": "红头美洲鹫拥有褐黑色的羽毛和无毛的红色头部，这有助于它在进食腐肉时保持清洁。它的翼展可达180厘米，拥有长而宽的翅膀。一个关键的解剖特征是其穿通的鼻孔（缺乏鼻中隔），这赋予了它高度发达的嗅觉——在所有鸟类中最为先进之一——使其能从高空定位腐烂的肉类。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are social birds that often roost in large groups but forage alone or in small numbers. Turkey vultures are efficient gliders, using thermals to stay aloft with minimal energy expenditure. They practice 'urohidrosis'—excreting onto their legs to cool down via evaporation. Unlike many raptors, they are not aggressive and rarely kill their own prey, relying almost entirely on carrion.",
+      "zh": "它们是社会性鸟类，常成群栖息，但倾向于独自或小规模觅食。红头美洲鹫是高效的滑翔者，利用热气流以极低的能量消耗停留在空中。它们会进行「尿排泄降温」——排泄到腿上通过蒸发来散热。与许多猛禽不同，它们不具攻击性，极少捕杀猎物，几乎完全依靠腐肉生存。"
+    },
+    "habitat_and_distribution": {
+      "en": "They have a vast distribution, ranging from southern Canada to the southernmost tip of South America. They inhabit a variety of open and semi-open areas, including subtropical forests, shrublands, pastures, and deserts. They vary from permanent residents in the south to long-distance migrants in the northern parts of their range.",
+      "zh": "它们分布范围极广，从加拿大南部一直延伸到南美洲的最南端。它们栖息在多种开放和半开放区域，包括亚热带森林、灌木丛、牧场和沙漠。在南方它们是留鸟，而在其分布范围的北方则是长距离迁徙鸟类。"
+    }
+  },
+  "habitat": {
+    "text_en": "Open Country, Woodlands, and Deserts",
+    "text_zh": "开阔地、林地与沙漠",
+    "map_coordinates": [
+      20,
+      -80
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          50,
+          -125
+        ],
+        [
+          50,
+          -60
+        ],
+        [
+          30,
+          -75
+        ],
+        [
+          10,
+          -75
+        ],
+        [
+          -10,
+          -75
+        ],
+        [
+          -30,
+          -70
+        ],
+        [
+          -55,
+          -65
+        ],
+        [
+          -55,
+          -75
+        ],
+        [
+          -30,
+          -80
+        ],
+        [
+          -10,
+          -85
+        ],
+        [
+          10,
+          -90
+        ],
+        [
+          30,
+          -110
+        ],
+        [
+          50,
+          -125
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/turkey-vulture.jpg"
+}

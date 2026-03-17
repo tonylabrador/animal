@@ -1,0 +1,136 @@
+{
+  "id": "summer-tanager",
+  "name_zh": "夏唐纳雀",
+  "name_en": "Summer Tanager",
+  "scientific_name": "Piranga rubra",
+  "ui_tags": [
+    "Bird",
+    "Woodland",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Cardinalidae",
+      "zh": "美洲雀科"
+    },
+    "genus": {
+      "en": "Piranga",
+      "zh": "丽唐纳雀属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The only completely red bird in North America, this tanager is a specialized bee and wasp eater.",
+    "zh": "北美洲唯一全身红色的鸟类，这种雀鸟是专门捕食蜜蜂和胡蜂的专家。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The summer tanager is medium-sized with a stout, pale bill. Adult males are striking, being entirely rose-red throughout the year, while females and immatures are olive-yellow. Their bills are adapted for capturing large insects; they have a slight notch in the upper mandible that helps in handling stingers and crushing insect exoskeletons.",
+      "zh": "夏唐纳雀体型中等，拥有粗壮且色淡的喙。成年雄性特征鲜明，全年全身呈现引人注目的玫瑰红色，而雌性和幼鸟则呈橄榄黄色。它们的喙设计精密，专门用于捕捉大型昆虫；上颚有一个微小的切口，有助于处理毒针并压碎昆虫的外骨骼。"
+    },
+    "ecology_and_behavior": {
+      "en": "Known as 'bee-eaters', they have a unique way of dealing with venomous prey. After catching a bee or wasp in mid-air, they take it to a perch and smash it against a branch to kill it, then rub it back and forth to remove the stinger before eating. They are also known for their continuous, musical song, often described as a more melodic version of a Robin's song.",
+      "zh": "它们被称为「食蜂者」，处理有毒猎物的方式十分独特。在空中捕获蜜蜂或胡蜂后，它们会将其带到栖息处，在树枝上摔打致死，然后反复摩擦以除去毒针后再进食。它们还以持续且悦耳的鸣唱著称，常被描述为知更鸟鸣声的更悠扬版本。"
+    },
+    "habitat_and_distribution": {
+      "en": "They breed in open deciduous woods or pine-oak forests across the southern United States and northern Mexico. During winter, they migrate to tropical forests and orchards ranging from central Mexico to northern South America. They prefer upper levels of the forest canopy, making them often heard before they are seen.",
+      "zh": "它们在美国南部和墨西哥北部的开阔落叶林或松橡林中繁殖。冬季则迁徙至从墨西哥中部到南美洲北部的热带森林和果园中。它们偏好森林冠层的上层活动，因此往往是先闻其声，后见其影。"
+    }
+  },
+  "habitat": {
+    "text_en": "Deciduous Woods and Tropical Forests",
+    "text_zh": "落叶林与热带森林",
+    "map_coordinates": [
+      25,
+      -90
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          38,
+          -120
+        ],
+        [
+          40,
+          -110
+        ],
+        [
+          40,
+          -80
+        ],
+        [
+          35,
+          -75
+        ],
+        [
+          30,
+          -80
+        ],
+        [
+          30,
+          -115
+        ],
+        [
+          38,
+          -120
+        ]
+      ],
+      [
+        [
+          20,
+          -105
+        ],
+        [
+          15,
+          -95
+        ],
+        [
+          5,
+          -80
+        ],
+        [
+          -5,
+          -75
+        ],
+        [
+          -5,
+          -70
+        ],
+        [
+          10,
+          -65
+        ],
+        [
+          20,
+          -100
+        ],
+        [
+          20,
+          -105
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/summer-tanager.jpg"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "budgerigar",
+  "name_zh": "虎皮鹦鹉",
+  "name_en": "Budgerigar",
+  "scientific_name": "Melopsittacus undulatus",
+  "ui_tags": [
+    "Bird",
+    "Arid Land",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Psittaciformes",
+      "zh": "鹦形目"
+    },
+    "family": {
+      "en": "Psittaculidae",
+      "zh": "鹦鹉科"
+    },
+    "genus": {
+      "en": "Melopsittacus",
+      "zh": "虎皮鹦鹉属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A small, nomadic parrot from Australia's arid interior, whose wild green-and-yellow plumage earned it the name 'budgerigar'.",
+    "zh": "一种来自澳大利亚干旱内陆的小型游牧鹦鹉，其野生的绿黄相间羽毛为其赢得了「虎皮鹦鹉」的美称。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "In the wild, budgerigars are strictly green and yellow with black scalloped markings on their wings and back. They have a characteristic 'cere'—a fleshy area above the beak where the nostrils are located. A fascinating anatomical detail is that their eyes can see into the ultraviolet spectrum, which helps them locate food and potentially detect the condition of their mates' feathers, which fluoresce under UV light.",
+      "zh": "在野外，虎皮鹦鹉严格呈现绿黄两色，翅膀和背部带有黑色的扇贝状条纹。它们拥有特征性的「鼻蜡」——这是喙上方包含鼻孔的肉质区域。一个迷人的解剖细节是，它们的眼睛能看到紫外光谱，这有助于它们定位食物，并可能探测配偶羽毛的状况，因为羽毛在紫外光下会发出荧光。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are highly nomadic and opportunistically follow rainfall to find food and water in the Australian outback. This survival strategy allows them to form massive flocks, sometimes numbering in the tens of thousands, which creates a spectacular shimmering green wave across the desert. They are incredibly fast breeders, often starting to nest whenever conditions are favorable, even in mid-winter.",
+      "zh": "它们具有高度的游牧性，在澳大利亚内陆机会主义地追随雨水以寻找食物和水源。这种生存策略使它们能形成巨大的群体，有时数量达数万只，在沙漠中创造出壮观的闪烁绿色波浪。它们的繁殖速度极快，只要条件允许，甚至在仲冬也会开始筑巢。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to the scrublands, woodlands, and grasslands of Australia's interior. They are almost entirely absent from the humid coastal regions. Their survival depends on their ability to travel long distances in search of fresh seeding grasses, which form the bulk of their diet.",
+      "zh": "原生于澳大利亚内陆的灌木丛、林地和草原。在那湿润的沿海地区几乎完全看不到它们。它们的生存取决于长途旅行寻找新鲜草种的能力，这也是它们饮食的主要组成部分。"
+    }
+  },
+  "habitat": {
+    "text_en": "Arid Scrublands and Interior Grasslands",
+    "text_zh": "干旱灌木丛与内陆草原",
+    "map_coordinates": [
+      -25,
+      135
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -15,
+          120
+        ],
+        [
+          -20,
+          145
+        ],
+        [
+          -35,
+          145
+        ],
+        [
+          -35,
+          115
+        ],
+        [
+          -20,
+          115
+        ],
+        [
+          -15,
+          120
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/budgerigar.jpg"
+}

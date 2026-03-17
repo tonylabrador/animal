@@ -1,0 +1,94 @@
+{
+  "id": "indochinese-spiky-lizard",
+  "name_zh": "冠棘蜥",
+  "name_en": "Indochinese spiky lizard",
+  "scientific_name": "Acanthosaura coronata",
+  "ui_tags": [
+    "Reptile",
+    "Rainforest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Agamidae",
+      "zh": "鬣蜥科"
+    },
+    "genus": {
+      "en": "Acanthosaura",
+      "zh": "角蜥属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "An arboreal dragon-like lizard from Southeast Asia, notable for the sharp spikes on its head and neck that give it a prehistoric appearance.",
+    "zh": "一种来自东南亚的树栖类龙蜥蜴，以其头部和颈部锋利的棘刺而著称，使其看起来极具史前色彩。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Known as the 'Crown Lizard', this species features prominent, sharp spines above each eye and on the back of its neck (nuchal spines). Its body is covered in rough, keeled scales that range in color from mossy green to dark brown, providing excellent camouflage against tree bark. They have long, strong limbs and sharp claws specifically adapted for climbing and gripping branches in the dense tropical canopy.",
+      "zh": "它们被称为「冠棘蜥」，在两眼上方和颈背部（项棘）长有显著且锋利的棘刺。身体覆盖着粗糙的、带棱角的鳞片，颜色从苔藓绿到深棕色不等，在树皮上提供了极佳的伪装。它们拥有长而强壮的四肢和锋利的爪子，专门适应在茂密的热带冠层中攀爬和抓握树枝。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are diurnal and primarily arboreal hunters. Instead of actively chasing prey, they often use a 'sit-and-wait' strategy, remaining perfectly still for hours until an insect or small invertebrate wanders within reach. When threatened, they can flare their translucent throat fans and gape their mouths to appear larger and more intimidating to predators.",
+      "zh": "它们是昼行性的，并且主要是树栖猎人。它们不主动追逐猎物，而是通常采用「坐等」策略，保持完全静止数小时，直到昆虫或小型无脊椎动物靠近。当受到威胁时，它们可以张开半透明的喉扇并张大嘴巴，使自己在捕食者面前看起来更大、更具威慑力。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to the tropical rainforests and secondary forests of mainland Southeast Asia, including Vietnam, Cambodia, Laos, and Thailand. They prefer humid environments near water sources like streams and waterfalls. Though common in their range, they are sensitive to habitat loss caused by deforestation for timber and agriculture.",
+      "zh": "原生于东南亚大陆的热带雨林和次生林，包括越南、柬埔寨、老挝和泰国。它们偏好溪流和瀑布等水源附近的潮湿环境。尽管在分布区内较为常见，但它们对因伐木和农业导致的栖息地丧失十分敏感。"
+    }
+  },
+  "habitat": {
+    "text_en": "Humid Tropical Rainforests",
+    "text_zh": "湿润热带雨林",
+    "map_coordinates": [
+      15,
+      105
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          20,
+          100
+        ],
+        [
+          20,
+          110
+        ],
+        [
+          10,
+          110
+        ],
+        [
+          10,
+          100
+        ],
+        [
+          20,
+          100
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/indochinese-spiky-lizard.jpg"
+}

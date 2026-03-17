@@ -1,0 +1,128 @@
+{
+  "id": "grey-partridge",
+  "name_zh": "灰山鹑",
+  "name_en": "Grey Partridge",
+  "scientific_name": "Perdix perdix",
+  "ui_tags": [
+    "Bird",
+    "Grassland",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Galliformes",
+      "zh": "鸡形目"
+    },
+    "family": {
+      "en": "Phasianidae",
+      "zh": "雉科"
+    },
+    "genus": {
+      "en": "Perdix",
+      "zh": "山鹑属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A rotund ground-dwelling bird known for its explosive flight and strong social bonds within winter 'coveys'.",
+    "zh": "一种圆滚滚的陆栖鸟类，以其爆发性的飞行能力和冬季「群体」中强固的社会纽带而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The grey partridge is a plump bird with a distinctive orange-brown face and a greyish breast. Mature birds, particularly males, often display a dark brown 'horseshoe' mark on their upper belly. Their wings are short and rounded, designed for rapid, powerful bursts of flight to escape predators, though they prefer to stay on the ground. Their cryptic plumage provides exceptional camouflage against stubble and dry grass.",
+      "zh": "灰山鹑体态丰满，拥有独特的橙棕色面部和淡灰色胸部。成年鸟类，尤其是雄性，上腹部通常有深棕色的「马蹄形」斑块。它们的翅膀短而圆，专门设计用于快速、有力的爆发性飞行以逃避捕食者，尽管它们更倾向于在地面活动。它们隐蔽的羽毛在残留的庄稼地和枯草中提供了极佳的伪装。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are highly social outside the breeding season, forming groups called 'coveys' of up to 20 birds. These groups stay together for warmth and protection, often sleeping in a circular formation with heads facing outwards to detect threats. They are primarily seed eaters but provide their young with high-protein insects during the first few weeks of life. Their 'explosive' take-off, accompanied by a loud whirring of wings, is a classic defensive mechanism.",
+      "zh": "在非繁殖季节，它们具有高度的社会性，会形成多达20只鸟的「群体」。这些群体聚在一起取暖和保护，常以圆形阵型睡眠，头部朝外以感应威胁。它们主要以种子为食，但在幼鸟出生的最初几周内会提供高蛋白昆虫。它们「爆发式」的起飞伴随着巨大的羽翼拍击声，是一种经典的防御机制。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native across much of temperate Europe and western Asia, they were also successfully introduced to North America as a game bird. They prefer open farmland, grasslands, and steppes with plenty of low cover. While still common in some areas, their populations have declined significantly in parts of Europe due to intensive agriculture and the loss of hedgerows and wild field margins.",
+      "zh": "分布于欧洲大部分温带地区和西亚，并作为狩猎鸟类被成功引入北美。它们偏好开阔的耕地、草原和拥有充足低矮掩护的干草原。虽然在某些地区仍然常见，但由于集约化农业以及树篱和野生田边地带的丧失，其种群数量在欧洲部分地区已显著下降。"
+    }
+  },
+  "habitat": {
+    "text_en": "Temperate Grasslands and Farmlands",
+    "text_zh": "温带草原与农田",
+    "map_coordinates": [
+      50,
+      10
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          35,
+          -10
+        ],
+        [
+          60,
+          -10
+        ],
+        [
+          65,
+          30
+        ],
+        [
+          65,
+          80
+        ],
+        [
+          50,
+          85
+        ],
+        [
+          40,
+          60
+        ],
+        [
+          35,
+          20
+        ],
+        [
+          35,
+          -10
+        ]
+      ],
+      [
+        [
+          40,
+          -115
+        ],
+        [
+          55,
+          -115
+        ],
+        [
+          55,
+          -85
+        ],
+        [
+          40,
+          -85
+        ],
+        [
+          40,
+          -115
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/grey-partridge.jpg"
+}

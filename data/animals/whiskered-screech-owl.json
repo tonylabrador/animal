@@ -1,0 +1,122 @@
+{
+  "id": "whiskered-screech-owl",
+  "name_zh": "须角鸮",
+  "name_en": "Whiskered Screech Owl",
+  "scientific_name": "Megascops trichopsis",
+  "ui_tags": [
+    "Bird",
+    "Mountain",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Strigiformes",
+      "zh": "鸮形目"
+    },
+    "family": {
+      "en": "Strigidae",
+      "zh": "鸱鸮科"
+    },
+    "genus": {
+      "en": "Megascops",
+      "zh": "角鸮属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A small, nocturnal owl native to the mountains of Arizona and Mexico, well-camouflaged and named for the long bristles near its beak.",
+    "zh": "一种原生于亚利桑那州和墨西哥山区的小型夜行鸮，伪装极佳，因其喙部附近的长须状羽毛而得名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The whiskered screech owl is a masters of camouflage, featuring intricate grey or brown bark-like patterns on its plumage. It is very similar to the Western Screech Owl but smaller, with smaller feet and more heavily barred underparts. Its name comes from the long, hair-like facial bristles (modified feathers) that extend beyond its facial disk, which likely serve as tactile sensors in the dark.",
+      "zh": "须角鸮是伪装大师，其羽毛上点缀着复杂的灰色或棕色类树皮图案。它与西美角鸮非常相似，但体型更小，足部也较细，下半身的横斑更密集。其名称源于延伸至面盘之外的长而细的须状羽（特化的羽毛），这些羽毛在黑暗中可能充当触觉感应器。"
+    },
+    "ecology_and_behavior": {
+      "en": "Strictly nocturnal, these owls are most active on moonless nights. Their primary diet consists of large insects like moths, beetles, and crickets, which they catch mid-air or pounce on from a perch. Their call is a distinctive, rhythmic series of hoots—'hoo-hoo-hoo-hoo'—often compared to the sound of Morse code or a small engine.",
+      "zh": "须角鸮属于严格的夜行性鸟类，在无月之夜最为活跃。它们的主要食物包括飞蛾、甲虫和蟋蟀等大型昆虫，它们会在空中捕捉或从栖息处扑向猎物。它们的鸣叫声是独特且有节奏的一系列「呼-呼-呼-呼」声，常被比作摩斯电码或小引擎的轰鸣声。"
+    },
+    "habitat_and_distribution": {
+      "en": "They inhabit oak-pine forests and sycamore canyons at middle elevations, typically between 1,200 and 2,500 meters. Their range extends from southeastern Arizona in the United States, through the highlands of Mexico, to Nicaragua. They rely on old woodpecker holes or natural cavities in trees for nesting.",
+      "zh": "它们栖息在海拔1,200至2,500米之间的橡树-松树林和悬铃木峡谷中。分布范围从美国亚利桑那州东南部开始，穿过墨西哥高地，一直延伸到尼加拉瓜。它们依靠旧的啄木鸟洞或树木的天然空腔进行筑巢。"
+    }
+  },
+  "habitat": {
+    "text_en": "Oak-Pine Mountain Forests",
+    "text_zh": "橡木-松木山地森林",
+    "map_coordinates": [
+      25,
+      -103
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          32,
+          -111
+        ],
+        [
+          32,
+          -109
+        ],
+        [
+          30,
+          -107
+        ],
+        [
+          25,
+          -100
+        ],
+        [
+          20,
+          -95
+        ],
+        [
+          15,
+          -90
+        ],
+        [
+          12,
+          -85
+        ],
+        [
+          12,
+          -87
+        ],
+        [
+          15,
+          -93
+        ],
+        [
+          20,
+          -98
+        ],
+        [
+          25,
+          -105
+        ],
+        [
+          32,
+          -111
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/whiskered-screech-owl.jpg"
+}

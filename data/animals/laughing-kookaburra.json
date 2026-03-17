@@ -1,0 +1,154 @@
+{
+  "id": "laughing-kookaburra",
+  "name_zh": "笑翠鸟",
+  "name_en": "Laughing Kookaburra",
+  "scientific_name": "Dacelo novaeguineae",
+  "ui_tags": [
+    "Bird",
+    "Woodland",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Coraciiformes",
+      "zh": "佛法僧目"
+    },
+    "family": {
+      "en": "Alcedinidae",
+      "zh": "翠鸟科"
+    },
+    "genus": {
+      "en": "Dacelo",
+      "zh": "笑翠鸟属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A large kingfisher native to eastern Australia, famous for its distinctive call that sounds like human laughter.",
+    "zh": "一种原生于澳大利亚东部的大型翠鸟，以其听起来像人类笑声的独特鸣叫声而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The laughing kookaburra is the world's largest species of kingfisher. It has a heavy-set body, a large head with a prominent brown eye-stripe, and a massive, dagger-like bill. Its plumage is primarily off-white or cream on the body, with brown wings and a reddish-brown barred tail. Unlike many other kingfishers, they are not specialized for fishing but have strong feet adapted for perching and pouncing on terrestrial prey.",
+      "zh": "笑翠鸟是世界上最大的翠鸟物种。它拥有粗壮的身体、带有显眼棕色眼纹的大头，以及巨大的匕首状长喙。其羽毛身体部分主要呈灰白色或乳白色，翅膀为棕色，尾部有红棕色横斑。与许多其他翠鸟不同，它们并不专门捕鱼，而是拥有适应于栖息和扑向陆地猎物的强壮双足。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are famous for their 'laugh'—a raucous, rhythmic call used to establish territory and communicate with family members, often most intense at dawn and dusk. Kookaburras are opportunistic carnivores, feeding on insects, lizards, snakes, and even small birds or rodents. They are known for their 'sit-and-wait' hunting style, diving from a perch to seize prey and then bashing it against a branch to kill it.",
+      "zh": "它们因「笑声」而闻名——这是一种刺耳且有节奏的鸣叫，用于建立领地和与家庭成员交流，通常在黎明和黄昏最为频繁。笑翠鸟是机会主义食肉动物，以昆虫、蜥蜴、蛇甚至小型鸟类或啮齿动物为食。它们以「原地待命」的狩猎风格著称，从栖息处俯冲而下抓住猎物，然后在树枝上摔打致死。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to the eucalyptus forests, woodlands, and urban parks of eastern and southeastern Australia. They have also been introduced to Western Australia and Tasmania. They are highly adaptable and are often found in close proximity to human settlements, where they may even steal food from barbecues.",
+      "zh": "原生于澳大利亚东部和东南部的桉树林、林地和城市公园。它们也被引入到了西澳大利亚和塔斯马尼亚。它们适应能力极强，经常出现在人类定居点附近，甚至可能从烧烤摊上偷取食物。"
+    }
+  },
+  "habitat": {
+    "text_en": "Eucalyptus Woodlands and Urban Areas",
+    "text_zh": "桉树林地与城市区域",
+    "map_coordinates": [
+      -28,
+      150
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -10,
+          142
+        ],
+        [
+          -15,
+          145
+        ],
+        [
+          -25,
+          153
+        ],
+        [
+          -35,
+          150
+        ],
+        [
+          -38,
+          145
+        ],
+        [
+          -35,
+          138
+        ],
+        [
+          -30,
+          140
+        ],
+        [
+          -20,
+          142
+        ],
+        [
+          -10,
+          142
+        ]
+      ],
+      [
+        [
+          -30,
+          115
+        ],
+        [
+          -35,
+          115
+        ],
+        [
+          -35,
+          120
+        ],
+        [
+          -30,
+          120
+        ],
+        [
+          -30,
+          115
+        ]
+      ],
+      [
+        [
+          -41,
+          145
+        ],
+        [
+          -43.5,
+          145
+        ],
+        [
+          -43.5,
+          148.5
+        ],
+        [
+          -41,
+          148.5
+        ],
+        [
+          -41,
+          145
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/laughing-kookaburra.jpg"
+}

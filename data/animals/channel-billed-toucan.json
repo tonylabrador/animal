@@ -1,0 +1,102 @@
+{
+  "id": "channel-billed-toucan",
+  "name_zh": "沟嘴巨嘴鸟",
+  "name_en": "Channel-billed Toucan",
+  "scientific_name": "Ramphastos vitellinus",
+  "ui_tags": [
+    "Bird",
+    "Rainforest",
+    "Frugivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Piciformes",
+      "zh": "鴷形目"
+    },
+    "family": {
+      "en": "Ramphastidae",
+      "zh": "巨嘴鸟科"
+    },
+    "genus": {
+      "en": "Ramphastos",
+      "zh": "巨嘴鸟属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "A stunning rainforest bird with a massive bill and a distinctive yellow or orange throat channel, native to the Amazon.",
+    "zh": "一种拥有巨喙和独特黄橙色喉部沟纹的惊人雨林鸟类，原生于亚马逊地区。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The channel-billed toucan is medium-sized for its family, with black plumage and a bright throat. Its most prominent feature is the massive, colorful bill, which is surprisingly light because it's made of a honeycombed keratin structure. The bill is used for reaching distant fruit, regulating body temperature by radiating heat, and as a specialized tool for fencing during social displays.",
+      "zh": "沟嘴巨嘴鸟在其家族中体型适中，拥有黑色羽毛和亮色喉部。它最显著的特征是巨大的彩色巨喙，尽管看起来笨重，但由于内部是蜂窝状角质结构，其实非常轻盈。巨喙的作用包括采摘远处的果实、通过辐射热量调节体温，以及在社交活动中作为格斗的专用工具。"
+    },
+    "ecology_and_behavior": {
+      "en": "Primarily frugivores, they play a vital role in seed dispersal across the rainforest. However, they are also opportunistic, eating insects, lizards, and even small birds or their eggs. They are highly vocal, making a croaking 'cree-ah cree-ah' call that characterizes the Amazonian dawn. They nest in tree cavities, often enlarging holes made by woodpeckers.",
+      "zh": "作为主要的食果动物，它们在雨林种子传播中起着至关重要的作用。然而，它们也是机会主义者，会进食昆虫、蜥蜴，甚至小型鸟类或它们的卵。它们非常嘈杂，发出的「嘎——啊 嘎——啊」的鸣叫声是亚马逊黎明的标志。它们在树洞中筑巢，通常会扩建啄木鸟留下的洞穴。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to the tropical rainforests and woodlands of South America, particularly within the Amazon Basin and extending to Trinidad. They prefer primary lowland forests but can also be found in gallery forests and well-wooded edges. They are increasingly threatened by habitat loss due to deforestation and fragmentation.",
+      "zh": "原生于南美洲的热带雨林和林地，特别是亚马逊盆地内，并延伸至特立尼达。它们偏好原始低地森林，但在廊道林和林木茂盛的边缘地带也能看到。由于森林砍伐和栖息地破碎，它们正面临日益严重的威胁。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical Rainforests and Gallery Forests",
+    "text_zh": "热带雨林与廊道林",
+    "map_coordinates": [
+      -3,
+      -60
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          11,
+          -62
+        ],
+        [
+          5,
+          -50
+        ],
+        [
+          -10,
+          -45
+        ],
+        [
+          -15,
+          -50
+        ],
+        [
+          -10,
+          -75
+        ],
+        [
+          5,
+          -75
+        ],
+        [
+          11,
+          -62
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/channel-billed-toucan.jpg"
+}

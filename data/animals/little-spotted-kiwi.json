@@ -1,0 +1,116 @@
+{
+  "id": "little-spotted-kiwi",
+  "name_zh": "小斑几维鸟",
+  "name_en": "Little spotted kiwi",
+  "scientific_name": "Apteryx owenii",
+  "ui_tags": [
+    "Bird",
+    "Island",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Apterygiformes",
+      "zh": "几维目"
+    },
+    "family": {
+      "en": "Apterygidae",
+      "zh": "几维科"
+    },
+    "genus": {
+      "en": "Apteryx",
+      "zh": "几维属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "The smallest species of kiwi, this flightless bird is a survivor that now lives primarily on predator-free offshore islands of New Zealand.",
+    "zh": "体型最小的几维鸟。这种不会飞的鸟类是一种生存强者，目前主要生活在新西兰无捕食者的离岸岛屿上。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The little spotted kiwi has pale mottled grey feathers that look more like hair than plumage. Being flightless, it lacks a keel on its breastbone for wing muscle attachment. Unique among birds, its nostrils are located at the very tip of its long, flexible bill. They also have exceptionally large ears and long sensory whiskers (vibrissae) at the base of the bill to help them navigate the dark forest floor.",
+      "zh": "小斑几维鸟拥有淡灰色斑驳的羽毛，看起来更像毛发而非羽翼。由于不会飞，其胸骨缺乏用于附着翅膀肌肉的龙骨突。在鸟类中独一无二的是，其鼻孔位于长而灵活的喙的最尖端。它们还拥有格外大的耳朵，且喙基部部长有长长的感觉须（触须），以帮助它们在黑暗的森林地表穿行。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are strictly nocturnal and rely heavily on their acute sense of smell to find soil-dwelling invertebrates like earthworms and grubs. They 'snuffle' loudly as they probe the ground with their bills. Kiwis lay eggs that are massive relative to their body size—up to 20% of the female's weight. In little spotted kiwis, it is primarily the male who incubates the egg in a burrow for about 70 days.",
+      "zh": "它们是严格的夜行性动物，极大程度上依赖敏锐的嗅觉来寻找和挖掘土壤中的无脊椎动物，如蚯蚓和幼虫。当它们用喙探测地面时，会发出响亮的「喷鼻」声。几维鸟产下的蛋相对于其体型而言极其巨大——可达雌性体重的20%。在小斑几维鸟中，主要由雄性在洞穴中孵卵，周期约为70天。"
+    },
+    "habitat_and_distribution": {
+      "en": "Historically once found across both main islands of New Zealand, they were wiped out on the mainland by introduced predators like stoats and cats. Today, they exist almost entirely on offshore island sanctuaries, such as Kapiti Island and Tiritiri Matangi. Conservation efforts have successfully increased their population from a low of about 500 to over 1,500 birds.",
+      "zh": "历史上曾遍布新西兰的两大主岛，但因引入的鼬和猫等捕食者而在大陆绝迹。如今，它们几乎完全生存于离岸岛屿避难所中，如卡皮蒂岛和蒂里蒂里马唐伊岛。保护工作已成功将其种群数量从约500只的低谷提升至超过1500只。"
+    }
+  },
+  "habitat": {
+    "text_en": "Island Sanctuaries and Humid Forest Burrows",
+    "text_zh": "岛屿避难所与湿润森林洞穴",
+    "map_coordinates": [
+      -40.8,
+      174.9
+    ],
+    "map_zoom_level": 7,
+    "global_distribution_polygons": [
+      [
+        [
+          -40.8,
+          174.8
+        ],
+        [
+          -40.8,
+          175
+        ],
+        [
+          -41,
+          175
+        ],
+        [
+          -41,
+          174.8
+        ],
+        [
+          -40.8,
+          174.8
+        ]
+      ],
+      [
+        [
+          -36.5,
+          174.8
+        ],
+        [
+          -36.5,
+          175
+        ],
+        [
+          -36.7,
+          175
+        ],
+        [
+          -36.7,
+          174.8
+        ],
+        [
+          -36.5,
+          174.8
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/little-spotted-kiwi.jpg"
+}
