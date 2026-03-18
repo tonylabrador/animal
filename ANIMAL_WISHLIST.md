@@ -20,3 +20,4 @@
 | 13 | 印度狐蝠 | Indian Flying Fox | Pteropus giganteus | ⏳ Pending |
 | 14 | 美洲乌鸦 | American Crow | Corvus brachyrhynchos | ⏳ Pending |
 | 15 | 渡鸦 | Common Raven | Corvus corax | ⏳ Pending |
+| 16 | 吕氏睑虎 | Chinese Cave Gecko | Goniurosaurus luii | ⏳ Pending |
