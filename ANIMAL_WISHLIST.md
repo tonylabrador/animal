@@ -12,3 +12,4 @@
 | 5 | 短尾矮袋鼠 | Quokka | Setonix brachyurus | ⏳ Pending |
 | 6 | 欧洲艾鼬 | European Polecat | Mustela putorius | ⏳ Pending |
 | 7 | 黑足鼬 | Black-footed Ferret | Mustela nigripes | ⏳ Pending |
+| 8 | 巨獭 | Giant Otter | Pteronura brasiliensis | ⏳ Pending |
