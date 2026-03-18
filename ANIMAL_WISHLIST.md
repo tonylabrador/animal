@@ -11,3 +11,4 @@
 | 4 | 绒啄木鸟 | Downy woodpecker | Dryobates pubescens | ⏳ Pending |
 | 5 | 短尾矮袋鼠 | Quokka | Setonix brachyurus | ⏳ Pending |
 | 6 | 欧洲艾鼬 | European Polecat | Mustela putorius | ⏳ Pending |
+| 7 | 黑足鼬 | Black-footed Ferret | Mustela nigripes | ⏳ Pending |
