@@ -16,3 +16,4 @@
 | 9 | 小棕蝠 | Little Brown Bat | Myotis lucifugus | ⏳ Pending |
 | 10 | 大棕蝠 | Big Brown Bat | Eptesicus fuscus | ⏳ Pending |
 | 11 | 白翼吸血蝠 | White-winged vampire bat | Diaemus youngi | ⏳ Pending |
+| 12 | 灰头狐蝠 | Grey-headed Flying Fox | Pteropus poliocephalus | ⏳ Pending |
