@@ -8,3 +8,4 @@
 | 1 | 帝王斑蝶 | Monarch butterfly | Danaus plexippus | ⏳ Pending |
 | 2 | 家燕 | Barn Swallow | Hirundo rustica | ⏳ Pending |
 | 3 | 大暗雨燕 | Great dusky swift | Cypseloides senex | ⏳ Pending |
+| 4 | 绒啄木鸟 | Downy woodpecker | Dryobates pubescens | ⏳ Pending |
