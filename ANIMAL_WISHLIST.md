@@ -13,3 +13,4 @@
 | 6 | 欧洲艾鼬 | European Polecat | Mustela putorius | ⏳ Pending |
 | 7 | 黑足鼬 | Black-footed Ferret | Mustela nigripes | ⏳ Pending |
 | 8 | 巨獭 | Giant Otter | Pteronura brasiliensis | ⏳ Pending |
+| 9 | 小棕蝠 | Little Brown Bat | Myotis lucifugus | ⏳ Pending |
