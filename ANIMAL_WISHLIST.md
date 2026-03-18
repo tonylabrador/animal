@@ -17,3 +17,4 @@
 | 10 | 大棕蝠 | Big Brown Bat | Eptesicus fuscus | ⏳ Pending |
 | 11 | 白翼吸血蝠 | White-winged vampire bat | Diaemus youngi | ⏳ Pending |
 | 12 | 灰头狐蝠 | Grey-headed Flying Fox | Pteropus poliocephalus | ⏳ Pending |
+| 13 | 印度狐蝠 | Indian Flying Fox | Pteropus giganteus | ⏳ Pending |
