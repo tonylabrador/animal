@@ -6,3 +6,4 @@
 | # | 中文名 | English Name | Scientific Name | 状态 |
 |---|--------|-------------|-----------------|------|
 | 1 | 帝王斑蝶 | Monarch butterfly | Danaus plexippus | ⏳ Pending |
+| 2 | 家燕 | Barn Swallow | Hirundo rustica | ⏳ Pending |
