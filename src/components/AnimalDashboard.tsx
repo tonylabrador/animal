@@ -242,8 +242,8 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
       </header>
 
       {/* ── Hero ── */}
-      <section className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-12">
-        <div className="flex flex-col lg:flex-row items-center lg:items-start justify-between gap-8 lg:gap-0">
+      <section className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-4 pb-6 lg:pt-12 lg:pb-12">
+        <div className="flex flex-col lg:flex-row items-center lg:items-start justify-between gap-3 lg:gap-0">
           
           {/* Left: Message Board */}
           <div className="w-full max-w-md mx-auto lg:mx-0 lg:w-[320px] xl:w-[360px] shrink-0 z-10">
@@ -274,11 +274,11 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
             {/* Taxonomy Banner */}
             <Link
               href="/taxonomy"
-              className="inline-flex items-center gap-3 mt-6 px-8 py-4 rounded-2xl bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-600 hover:to-teal-600 text-white font-bold text-lg shadow-lg hover:shadow-xl transition-all duration-300 active:scale-95 group"
+              className="inline-flex items-center gap-2 lg:gap-3 mt-4 lg:mt-6 px-5 py-3 lg:px-8 lg:py-4 rounded-xl lg:rounded-2xl bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-600 hover:to-teal-600 text-white font-bold text-sm lg:text-lg shadow-md lg:shadow-lg hover:shadow-xl transition-all duration-300 active:scale-95 group"
             >
-              <TreeDeciduous size={24} strokeWidth={2} />
+              <TreeDeciduous className="w-5 h-5 lg:w-6 lg:h-6" strokeWidth={2} />
               <span>{lang === "en" ? "Explore the Tree of Life" : "探索生命之树"}</span>
-              <ChevronRight size={20} strokeWidth={2.5} className="transition-transform group-hover:translate-x-1" />
+              <ChevronRight className="w-4 h-4 lg:w-5 lg:h-5 transition-transform group-hover:translate-x-1" strokeWidth={2.5} />
             </Link>
           </div>
           

@@ -107,7 +107,7 @@ export default function WishlistSection({ lang, compact = false }: WishlistSecti
   return (
     <section className={compact ? "w-full" : "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16"}>
       {/* ── Banner card ─────────────────────────────────────────────────────── */}
-      <div className={`relative overflow-hidden rounded-3xl bg-gradient-to-br from-violet-600 via-indigo-600 to-purple-700 shadow-2xl ${compact ? 'p-4 sm:p-5' : 'p-8 sm:p-10'}`}>
+      <div className={`relative overflow-hidden rounded-2xl lg:rounded-3xl bg-gradient-to-br from-violet-600 via-indigo-600 to-purple-700 shadow-xl lg:shadow-2xl transition-all duration-300 ${compact ? (isOpen ? 'p-4 sm:p-5 lg:p-5' : 'py-3 px-4 lg:p-5') : 'p-8 sm:p-10'}`}>
         {/* Decorative blobs */}
         <div className="pointer-events-none absolute -top-10 -right-10 w-60 h-60 rounded-full bg-white/10 blur-3xl" />
         <div className="pointer-events-none absolute bottom-0 left-10 w-40 h-40 rounded-full bg-indigo-300/20 blur-2xl" />
@@ -117,15 +117,15 @@ export default function WishlistSection({ lang, compact = false }: WishlistSecti
           onClick={() => compact && setIsOpen(!isOpen)}
           className={`relative w-full flex items-center justify-between text-left ${compact ? 'cursor-pointer lg:cursor-default group mb-0' : 'cursor-default pointer-events-none mb-6'}`}
         >
-          <div className={`flex flex-col sm:flex-row sm:items-center gap-3`}>
-            <span className={`${compact ? 'text-3xl' : 'text-4xl'} select-none ${!compact || isOpen ? 'animate-bounce' : ''}`}>🌟</span>
+          <div className={`flex flex-col sm:flex-row sm:items-center gap-2 lg:gap-3`}>
+            <span className={`${compact ? 'text-3xl hidden lg:inline-block' : 'text-4xl'} select-none ${compact && !isOpen ? '' : 'animate-bounce'}`}>🌟</span>
             <div>
-              <h2 className={`text-white font-extrabold leading-tight tracking-tight transition-colors ${compact ? 'text-base sm:text-lg group-hover:text-indigo-100 lg:group-hover:text-white' : 'text-xl sm:text-2xl'}`}>
+              <h2 className={`text-white font-extrabold leading-tight tracking-tight transition-colors ${compact ? 'text-sm lg:text-lg group-hover:text-indigo-100 lg:group-hover:text-white' : 'text-xl sm:text-2xl'}`}>
                 {lang === "en"
                   ? "Can't find your favourite animal?"
                   : "找不到你心中的动物？"}
               </h2>
-              <p className={`text-indigo-200 mt-0.5 font-medium ${compact ? 'text-xs' : 'text-sm'}`}>
+              <p className={`text-indigo-200 mt-0.5 font-medium ${compact ? 'text-xs' : 'text-sm'} ${compact && !isOpen ? 'hidden lg:block' : 'block'}`}>
                 {lang === "en"
                   ? "Submit it to the Animal Wishing Pool — AI will identify it for you 🤖"
                   : "填写加入动物许愿池 — AI 自动为你识别物种 🤖"}
@@ -133,8 +133,8 @@ export default function WishlistSection({ lang, compact = false }: WishlistSecti
             </div>
           </div>
           {compact && (
-            <div className="lg:hidden text-white/70 bg-white/10 p-1 rounded-full shrink-0">
-              <ChevronDown size={20} className={`transition-transform duration-300 ${isOpen ? 'rotate-180' : ''}`} />
+            <div className={`lg:hidden text-white/70 bg-white/10 p-1 rounded-full shrink-0 transition-transform duration-300 ${isOpen ? 'rotate-180 bg-white/20' : ''}`}>
+              <ChevronDown size={18} />
             </div>
           )}
         </button>

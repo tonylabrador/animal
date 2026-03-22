@@ -43,7 +43,7 @@ export default function MessageBoard() {
   };
 
   return (
-    <div className="bg-white/90 backdrop-blur-sm rounded-3xl p-4 sm:p-5 shadow-sm border border-slate-100 flex flex-col h-full">
+    <div className="bg-white/90 backdrop-blur-sm rounded-2xl lg:rounded-3xl p-3 lg:p-5 shadow-sm border border-slate-100 flex flex-col h-full">
       <button 
         onClick={() => setIsOpen(!isOpen)}
         className="flex items-center justify-between w-full text-left lg:cursor-default lg:pointer-events-none group"
