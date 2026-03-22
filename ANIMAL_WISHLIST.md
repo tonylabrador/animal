@@ -24,3 +24,4 @@
 | 17 | 美洲红松鼠 | American red Squirrel | Tamiasciurus hudsonicus | ⏳ Pending |
 | 18 | 红松鼠 | Red squirrel | Sciurus vulgaris | ⏳ Pending |
 | 19 | 克氏原螯虾 | Red swamp crayfish | Procambarus clarkii | ⏳ Pending |
+| 20 | 美洲螯龙虾 | American lobster | Homarus americanus | ⏳ Pending |
