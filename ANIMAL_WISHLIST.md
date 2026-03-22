@@ -17,3 +17,4 @@
 | 10 | 渡鸦 | Common Raven | Corvus corax | ⏳ Pending |
 | 11 | 吕氏睑虎 | Chinese Cave Gecko | Goniurosaurus luii | ⏳ Pending |
 | 12 | 黑翅土白蚁 | Black-winged subterranean termite | Odontotermes formosanus | ⏳ Pending |
+| 13 | 白氏树蛙 | White's tree frog | Ranoidea caerulea | ⏳ Pending |
