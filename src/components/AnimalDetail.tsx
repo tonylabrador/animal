@@ -78,8 +78,8 @@ function TaxonomyBreadcrumbs({
       {levels.map((lvl, i) => (
         <span key={lvl.label} className="flex items-center gap-1">
           <span className="font-medium text-slate-400">{lvl.label}</span>
-          <span className="text-slate-600">{lvl.value[lang]}</span>
-          <span className="text-slate-400 ml-0.5">
+          <span className="text-slate-600" lang={lang}>{lvl.value[lang]}</span>
+          <span className="text-slate-400 ml-0.5" lang={lang === "en" ? "zh" : "en"}>
             ({lang === "en" ? lvl.value.zh : lvl.value.en})
           </span>
           {i < levels.length - 1 && (
@@ -102,13 +102,13 @@ function EncyclopediaPanel({
 }) {
   return (
     <div className="space-y-4">
-      <div className="bg-white rounded-2xl p-5 shadow-sm border border-slate-100">
+      <div className="bg-white rounded-2xl p-5 shadow-sm border border-slate-100" lang="en">
         <h3 className="text-xs font-bold uppercase tracking-wider text-amber-500 mb-2">
           {titleEn}
         </h3>
         <p className="text-slate-700 leading-relaxed text-[15px]">{content.en}</p>
       </div>
-      <div className="bg-stone-50 rounded-2xl p-5 shadow-sm border border-stone-100">
+      <div className="bg-stone-50 rounded-2xl p-5 shadow-sm border border-stone-100" lang="zh">
         <h3 className="text-xs font-bold uppercase tracking-wider text-amber-400 mb-2">
           {titleZh}
         </h3>
@@ -202,10 +202,10 @@ export default function AnimalDetail({ animal }: { animal: Animal }) {
             )}
             <div className="absolute inset-0 z-20 bg-gradient-to-t from-black/55 via-black/10 to-transparent" />
             <div className="absolute bottom-0 left-0 right-0 z-30 p-5 sm:p-7">
-              <h1 className="text-2xl sm:text-4xl font-extrabold text-white drop-shadow-lg leading-tight">
+              <h1 className="text-2xl sm:text-4xl font-extrabold text-white drop-shadow-lg leading-tight" lang={lang}>
                 {primaryName}
               </h1>
-              <p className="text-white/80 text-base sm:text-lg font-medium mt-0.5 drop-shadow">
+              <p className="text-white/80 text-base sm:text-lg font-medium mt-0.5 drop-shadow" lang={lang === "en" ? "zh" : "en"}>
                 {secondaryName}
               </p>
               <p className="text-white/55 text-xs italic mt-0.5">
@@ -300,7 +300,7 @@ export default function AnimalDetail({ animal }: { animal: Animal }) {
 
             {/* Short description */}
             <section className="mt-6 grid grid-cols-1 md:grid-cols-2 gap-4">
-              <div className="bg-white rounded-2xl p-5 shadow-sm border border-slate-100">
+              <div className="bg-white rounded-2xl p-5 shadow-sm border border-slate-100" lang="en">
                 <div className="flex items-center gap-2 mb-2">
                   <BookOpen size={14} className="text-amber-500" />
                   <span className="text-xs font-bold text-slate-500 uppercase tracking-wide">
@@ -311,7 +311,7 @@ export default function AnimalDetail({ animal }: { animal: Animal }) {
                   {animal.description.en}
                 </p>
               </div>
-              <div className="bg-stone-50 rounded-2xl p-5 shadow-sm border border-stone-100">
+              <div className="bg-stone-50 rounded-2xl p-5 shadow-sm border border-stone-100" lang="zh">
                 <div className="flex items-center gap-2 mb-2">
                   <BookOpen size={14} className="text-amber-400" />
                   <span className="text-xs font-bold text-slate-500 uppercase tracking-wide">

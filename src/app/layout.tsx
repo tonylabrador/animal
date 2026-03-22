@@ -7,8 +7,8 @@ import "./globals.css";
 const geist = Geist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Wild Explorer · 动物探索",
-  description: "A bilingual animal encyclopedia for curious minds.",
+  title: "Wild Explorer / 动物探索笔记",
+  description: "一份安静的双语动物笔记。提供地道的中英对照科普，适合孩子、家长和语言学习者阅读。",
 };
 
 export default function RootLayout({
