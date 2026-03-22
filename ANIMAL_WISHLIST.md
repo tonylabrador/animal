@@ -31,3 +31,4 @@
 | 24 | 睫角守宫 | Eyelash crested gecko | Correlophus ciliatus | ⏳ Pending |
 | 25 | 豹纹守宫 | Leopard gecko | Eublepharis macularius | ⏳ Pending |
 | 26 | 美洲鹤 | Whooping Crane | Grus americana | ⏳ Pending |
+| 27 | 沙丘鹤 | Sandhill crane | Antigone canadensis | ⏳ Pending |
