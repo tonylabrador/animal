@@ -1,0 +1,98 @@
+{
+  "id": "indian-flying-fox",
+  "name_zh": "印度狐蝠",
+  "name_en": "Indian Flying Fox",
+  "scientific_name": "Pteropus giganteus",
+  "ui_tags": [
+    "Mammal",
+    "Asia",
+    "Frugivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Chiroptera",
+      "zh": "翼手目"
+    },
+    "family": {
+      "en": "Pteropodidae",
+      "zh": "狐蝠科"
+    },
+    "genus": {
+      "en": "Pteropus",
+      "zh": "狐蝠属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "One of the largest bats in the world, carrying a wingspan of up to 1.5 meters, it acts as a crucial nocturnal pollinator across the Indian subcontinent.",
+    "zh": "世界上最大的蝙蝠之一，翼展可达1.5米。它们在穿越整个印度次大陆时扮演着至关重要的夜间授粉者的角色。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Indian flying fox is a massive megabat, with some individuals reaching 1.2 to 1.5 meters in wingspan and weighing over 1.6 kilograms. They have dark brown or black body fur contrasted by a yellowish-brown mantle. Their distinctly canine facial features, including large probing eyes and prominent ears, give them the unmistakable 'flying fox' silhouette. Like all megabats, they depend on an incredibly sharp sense of smell and large eyes to navigate in the dark rather than echolocation.",
+      "zh": "印度狐蝠是一种巨大的狐蝠科动物，部分个体的翼展可达1.2至1.5米，体重超过1.6公斤。它们拥有深棕色或黑色的体毛，与黄褐色的颈背形成对比。它们明显类似犬科动物的面部特征（包括善于探寻的大眼睛和显眼的耳朵），赋予了它们无可错认的「飞狐」轮廓。像所有巨型蝙蝠一样，它们依赖着极其敏锐的嗅觉和一双大眼睛在黑暗中航行，而不是依靠回声定位。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are highly gregarious, establishing daytime roosts in tall, open-canopied trees frequently close to human settlements, temples, or water bodies. A single roost can contain hundreds or even thousands of bats constantly bickering for the best positions. They are strictly frugivorous and nectarivorous. By chewing fruit simply to extract the juices and spitting out the fibrous parts along with intact seeds, they serve as essential architects of forest regeneration across South Asia.",
+      "zh": "它们高度群居，白天常常在靠近人类聚居地、寺庙或水体旁的、有着开阔树冠的高大树木上建立栖息地。一个栖息地可能包含数百甚至数千只蝙蝠，它们总是为了争夺最好的位置而争吵不休。它们完全以食果和食蜜为生。通过咀嚼水果榨取汁液，然后将粗纤维连同完整的种子直接吐出，它们成为了整个南亚森林再生不可或缺的建筑师。"
+    },
+    "habitat_and_distribution": {
+      "en": "Widespread across Bangladesh, China, India, Maldives, Nepal, Pakistan, and Sri Lanka. They show high adaptability toward urban areas and agricultural lands as long as large protective roost trees (like banyan or tamarind) and fruiting orchards are available. While stable globally, local populations often suffer from lethal culling by farmers due to the damage the bats inflict on commercial mango and lychee plantations.",
+      "zh": "广泛分布于孟加拉国、中国、印度、马尔代夫、尼泊尔、巴基斯坦和斯里兰卡。只要有能够提供保护的大型栖息树（如榕树或罗望子树）和结果的果园，它们对城市地区和农业区表现出极高的适应力。虽然全球种群稳定，但由于蝙蝠对商业性芒果和荔枝种植园造成破坏，当地种群经常遭到农民残杀。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical Forests, Orchards, and Urban Edges",
+    "text_zh": "热带森林、果园与城市边缘",
+    "map_coordinates": [
+      20,
+      80
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          10,
+          70
+        ],
+        [
+          35,
+          70
+        ],
+        [
+          30,
+          95
+        ],
+        [
+          20,
+          95
+        ],
+        [
+          10,
+          80
+        ],
+        [
+          10,
+          70
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/indian-flying-fox.jpg"
+}

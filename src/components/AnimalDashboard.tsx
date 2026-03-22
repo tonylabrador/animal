@@ -6,6 +6,7 @@ import { Globe, Search, X, MapPin, Tag, TreeDeciduous, ChevronRight, Shuffle, Ar
 import { useLanguage } from "@/lib/LanguageContext";
 import type { Animal } from "@/types/animal";
 import WishlistSection from "@/components/WishlistSection";
+import MessageBoard from "@/components/MessageBoard";
 
 type Language = "en" | "zh";
 
@@ -244,8 +245,10 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
       <section className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-12">
         <div className="flex flex-col lg:flex-row items-center lg:items-start justify-between gap-8 lg:gap-0">
           
-          {/* Left Spacer to keep title perfectly centered on large screens */}
-          <div className="hidden lg:block lg:w-[320px] xl:w-[360px] shrink-0"></div>
+          {/* Left: Message Board */}
+          <div className="w-full max-w-md mx-auto lg:mx-0 lg:w-[320px] xl:w-[360px] shrink-0 z-10">
+            <MessageBoard />
+          </div>
 
           {/* Center Text */}
           <div className="text-center flex-1 max-w-2xl mx-auto lg:pt-4">

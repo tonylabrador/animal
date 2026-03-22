@@ -1,0 +1,94 @@
+{
+  "id": "american-crow",
+  "name_zh": "美洲乌鸦",
+  "name_en": "American Crow",
+  "scientific_name": "Corvus brachyrhynchos",
+  "ui_tags": [
+    "Bird",
+    "North America",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Corvidae",
+      "zh": "鸦科"
+    },
+    "genus": {
+      "en": "Corvus",
+      "zh": "鸦属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A highly intelligent, completely black bird renowned for its problem-solving abilities, facial recognition skills, and complex social systems.",
+    "zh": "一种极度聪明的全黑鸟类，以其解决问题的能力、对人类面部的识别能力以及复杂的社会系统而闻名于世。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The American crow is a large passerine, entirely iridescent black from the tip of its stout bill to the ends of its tail feathers and legs. When light hits its plumage, it can display subtle purplish or bluish sheens. Its wings are broad and moderately pointed, and its tail has a slightly rounded, fan-like ending in flight. They possess an exceptionally large brain-to-body-size ratio—comparable to that of many primates—fueling their well-documented high intelligence.",
+      "zh": "美洲乌鸦是一种大型鸣禽，从粗壮的喙尖到尾羽的末端以及双腿，全部呈现出带有反光的纯黑色。当阳光照射在它的羽毛上时，会闪烁出微妙的紫色或蓝色光泽。它的翅膀宽大且适度尖锐，在飞行时尾巴呈现略微圆滑的扇形末端。它们的大脑与身体的质量之比异常高——甚至可以与许多灵长类动物相媲美——这为它们广有记载的极高智力提供了基础。"
+    },
+    "ecology_and_behavior": {
+      "en": "Crows exhibit behaviors indicating high cognition, including dropping hard nuts into street traffic for cars to crack them, and memorizing the specific faces of humans who have threatened or fed them, actively passing this knowledge on to their offspring. They are highly social, occasionally forming massive winter roosts numbering over two million birds. They are omnivorous opportunists, eating virtually anything including insects, seeds, carrion, and human garbage. They engage in 'cooperative breeding', where young from previous years help raise the new chicks.",
+      "zh": "乌鸦表现出表明高度认知能力的行为，包括将坚硬的坚果扔进街道的车流中让汽车轧碎它，以及熟记曾经威胁或喂养过它们的人类的特定真容，并积极地将这些知识传授给它们的后代。它们具有高度的社交性，在冬季偶尔会形成包含超过两百万只鸟的庞大栖息群。它们是无所不吃的机会主义者，几乎吃任何东西，包括昆虫、种子、腐肉和人类垃圾。它们实行「合作繁殖」，即前几年出生的幼鸟会协助父母抚养新孵化出的雏鸟。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are ubiquitous across North America, ranging from southern Canada deep into the United States and northern Mexico. They thrive in almost any habitat offering trees for nesting combined with open areas for feeding, making them incredibly successful in adapting to agricultural lands, suburbs, and bustling city centers.",
+      "zh": "它们遍布整个北美洲无处不在，范围从加拿大南部深入到美国全境和墨西哥北部。它们几乎在任何能提供树木用于筑巢和开阔区域用于觅食的环境中都能茁壮成长，这使得它们在适应农田、郊区和繁华城市中心方面取得了难以置信的成功。"
+    }
+  },
+  "habitat": {
+    "text_en": "Forest Edges, Suburbs, and Urban Centers",
+    "text_zh": "森林边缘、郊区与城市中心",
+    "map_coordinates": [
+      40,
+      -100
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          30,
+          -125
+        ],
+        [
+          55,
+          -125
+        ],
+        [
+          55,
+          -60
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          30,
+          -125
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/american-crow.jpg"
+}

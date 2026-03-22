@@ -1,0 +1,116 @@
+{
+  "id": "common-raven",
+  "name_zh": "渡鸦",
+  "name_en": "Common Raven",
+  "scientific_name": "Corvus corax",
+  "ui_tags": [
+    "Bird",
+    "Global",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Corvidae",
+      "zh": "鸦科"
+    },
+    "genus": {
+      "en": "Corvus",
+      "zh": "鸦属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "Considered the most intelligent of all birds, this massive all-black corvid possesses a deep, echoing croak and actively engages in complex play behavior.",
+    "zh": "被认为是所有鸟类中最聪明的物种，这只巨大的全黑鸦科飞禽拥有低沉且回音缭绕的嘎嘎叫声，并积极地参与复杂的玩耍行为。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The common raven is significantly larger than a crow, often matching the size of a red-tailed hawk. Its plumage is entirely black, heavily glossed with a bluish or purplish iridescence. Key anatomical differences from crows include a dramatically thicker, heavier bill, elongated throat feathers (called 'hackles') that it uses for communication, and a distinct wedge-shaped tail visible during flight. They excel in acrobatic flying, capable of executing rolls and somersaults in mid-air.",
+      "zh": "渡鸦明显比普通乌鸦大得多，体型通常可以和红尾鵟相提并论。它的全部羽毛呈纯黑色，闪烁着厚重的蓝色或紫色虹彩光泽。它和乌鸦在解剖学上的主要区别包括：极其粗壮的喙、脖子上用于社交沟通的长而尖的「颈羽」，以及在飞行时能清晰看到的明显的楔形尾巴。它们极其擅长飞行杂技，能够在半空中完成翻滚和筋斗。"
+    },
+    "ecology_and_behavior": {
+      "en": "Ravens boast unparalleled avian intelligence. They are known to fashion tools, understand abstract concepts of displacement, and imitate human speech with uncanny clarity. Emphasizing their profound cognitive depth, they engage in playful behaviors—sliding down snowbanks purely for fun, or brazenly acting playfully towards apex predators like wolves to establish complex scavenger relationships. They are generalist omnivores, utilizing their powerful bills to open frozen carcasses or consume practically any organic matter.",
+      "zh": "渡鸦拥有无与伦比的鸟类智力。它们被证实能够制造工具，理解置换的抽象概念，甚至能异常清晰地模仿人类说话。强调其深邃认知层面的一点是，它们会纯粹为了乐趣而参与玩耍活动——比如从雪堆上滑落，或者肆无忌惮地试图与狼这类的顶级捕食者逗引玩耍，以此建立复杂的食腐共生关系。它们是泛化杂食动物，运用强大的喙撕开冰冻的尸体或吞食几乎任何有机物。"
+    },
+    "habitat_and_distribution": {
+      "en": "It has the largest distribution of any member of the crow family, found across the entire Northern Hemisphere, from the high Arctic tundra and the towering Himalayas to North American deserts and Eurasian forests. Extremely hardy, it easily overcomes environmental challenges that limit other bird groups.",
+      "zh": "它是整个鸦科动物中分布最广的成员，踪迹遍布整个北半球，从高纬度极地苔原、高耸的喜马拉雅山脉，一直到北美的沙漠和欧亚大陆的森林。它们极其强健，能够轻松克服那些限制了其他鸟类生存的环境挑战。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tundra, Montane Forests, and Rugged Deserts",
+    "text_zh": "苔原、高山森林与崎岖沙漠",
+    "map_coordinates": [
+      60,
+      -110
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          30,
+          -130
+        ],
+        [
+          75,
+          -170
+        ],
+        [
+          75,
+          -60
+        ],
+        [
+          30,
+          -60
+        ],
+        [
+          30,
+          -130
+        ]
+      ],
+      [
+        [
+          30,
+          -10
+        ],
+        [
+          75,
+          -10
+        ],
+        [
+          75,
+          150
+        ],
+        [
+          30,
+          150
+        ],
+        [
+          30,
+          -10
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/common-raven.jpg"
+}

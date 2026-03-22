@@ -1,0 +1,114 @@
+{
+  "id": "grey-headed-flying-fox",
+  "name_zh": "灰头狐蝠",
+  "name_en": "Grey-headed Flying Fox",
+  "scientific_name": "Pteropus poliocephalus",
+  "ui_tags": [
+    "Mammal",
+    "Australia",
+    "Frugivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Chiroptera",
+      "zh": "翼手目"
+    },
+    "family": {
+      "en": "Pteropodidae",
+      "zh": "狐蝠科"
+    },
+    "genus": {
+      "en": "Pteropus",
+      "zh": "狐蝠属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The largest bat in Australia, this megabat completely lacks echolocation, relying entirely on exceptional eyesight and smell to locate nectar and fruit at night.",
+    "zh": "澳大利亚最大的蝙蝠，这种巨型蝙蝠完全缺乏回声定位能力，而在夜间完全依赖出色的视力和嗅觉来寻找花蜜和水果。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "With a wingspan approaching 1 meter and weighing over a kilogram, the grey-headed flying fox is an imposing sight. They are named for the thick, light-grey fur covering their head, contrasting with a distinctly bright reddish-orange 'collar' around their neck and a dark grey body. Their skull and large, forward-facing eyes bear a striking resemblance to those of a small fox or dog. They completely lack echolocation, instead utilizing advanced binocular vision optimized for extreme low-light conditions.",
+      "zh": "翼展接近1米，体重超过1公斤，灰头狐蝠的身形令人极具压迫感。它们因头部覆盖着厚厚的浅灰色皮毛而得名，这与它们脖子上十分醒目的红橙色「领圈」和深灰色的身体形成了鲜明对比。它们的头骨以及大而朝前的眼睛，与小狐狸或小狗有着惊人的相似之处。它们完全不具备回声定位的能力，取而代之的是专为极低光照条件优化的高级双目视觉。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are highly social, roosting dynamically in noisy 'camps' that can number in the tens of thousands during the day. As keystone pollinators and seed dispersers, they play a critical role in the reproduction of Australian native hardwood forests. Every night they may commute up to 50 kilometers in search of flowering eucalyptus or rainforest fruits. During extreme Australian heatwaves, they try to cool themselves by panting and fanning their massive wings, but mass die-offs frequently occur when temperatures soar.",
+      "zh": "它们具有高度的社会性，白天会动态地栖息在嘈杂的「营地」中，数量可达数万只。作为关键的授粉者和种子传播者，它们在澳大利亚本土硬木森林的繁衍中发挥着极其关键的作用。每晚它们可能会通勤飞行长达50公里，以寻找开花的桉树或雨林果实。在澳大利亚极端的酷暑期间，它们会通过大口喘气和扇动巨大的翅膀来降温，但当气温飙升时，依然经常发生大规模热病死亡事件。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the forested coastal sections of eastern Australia, stretching from Queensland down through New South Wales and Victoria. Historically occupying deep rainforests and mangroves, severe habitat loss has forced them increasingly into urban parks and botanical gardens, placing them in close conflict with human populations over noise and agricultural crop damage.",
+      "zh": "特产于澳大利亚东部森林覆盖的沿海地区，从昆士兰州一路向南延伸穿过新南威尔士州并到达维多利亚州。历史上它们栖息在深邃的雨林和红树林中，但严重的栖息地丧失迫使它们越来越多地进入城市公园和植物园，常常因为噪音和农业作物损害而与人类群体爆发激烈的冲突。"
+    }
+  },
+  "habitat": {
+    "text_en": "Eastern Australian Forests and Urban Parks",
+    "text_zh": "澳大利亚东岸森林与城市公园",
+    "map_coordinates": [
+      -30,
+      151
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -22,
+          152
+        ],
+        [
+          -22,
+          154
+        ],
+        [
+          -28,
+          154
+        ],
+        [
+          -34,
+          152
+        ],
+        [
+          -38,
+          150
+        ],
+        [
+          -38,
+          144
+        ],
+        [
+          -36,
+          144
+        ],
+        [
+          -36,
+          150
+        ],
+        [
+          -30,
+          152
+        ],
+        [
+          -22,
+          152
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/grey-headed-flying-fox.jpg"
+}

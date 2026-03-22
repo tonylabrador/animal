@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **259** 种动物
+**统计**：共 **264** 种动物
 
 ---
 
@@ -153,9 +153,12 @@
 **叶口蝠科**
 
 - 吸血蝠 / Common Vampire Bat — *Desmodus rotundus* `common-vampire-bat`
+- 白翼吸血蝠 / White-winged vampire bat — *Diaemus youngi* `white-winged-vampire-bat`
 
 **狐蝠科**
 
+- 灰头狐蝠 / Grey-headed Flying Fox — *Pteropus poliocephalus* `grey-headed-flying-fox`
+- 印度狐蝠 / Indian Flying Fox — *Pteropus giganteus* `indian-flying-fox`
 - 马来大狐蝠 / Large Flying Fox — *Pteropus vampyrus* `large-flying-fox`
 
 **蝙蝠科**
@@ -445,7 +448,9 @@
 
 **鸦科**
 
+- 美洲乌鸦 / American Crow — *Corvus brachyrhynchos* `american-crow`
 - 加州灌丛鸦 / California Scrub-Jay — *Aphelocoma californica* `california-scrub-jay`
+- 渡鸦 / Common Raven — *Corvus corax* `common-raven`
 
 **麻雀科**
 

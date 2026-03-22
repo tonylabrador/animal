@@ -1,0 +1,118 @@
+{
+  "id": "white-winged-vampire-bat",
+  "name_zh": "白翼吸血蝠",
+  "name_en": "White-winged vampire bat",
+  "scientific_name": "Diaemus youngi",
+  "ui_tags": [
+    "Mammal",
+    "Neotropical",
+    "Sanguivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Chiroptera",
+      "zh": "翼手目"
+    },
+    "family": {
+      "en": "Phyllostomidae",
+      "zh": "叶口蝠科"
+    },
+    "genus": {
+      "en": "Diaemus",
+      "zh": "白翼吸血蝠属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "One of only three true vampire bats in the world, this species uniquely specializes in feeding almost exclusively on the blood of birds rather than mammals.",
+    "zh": "世界上仅有的三种真正的吸血蝠之一，该物种的独特之处在于它几乎完全以鸟类的血液而不是哺乳动物的血液为食。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The white-winged vampire bat is distinguishable by the striking white margins on its wing tips and the webbing between its digits. It possesses specialized, razor-sharp upper incisors designed solely for making painless, precise incisions in flesh. Uniquely, they have two specialized oral glands inside their cheeks that, when the bat is alarmed, spray a foul-smelling liquid as a defense mechanism—a trait absent in other bat species.",
+      "zh": "白翼吸血蝠可以通过其翼端引人注目的白色边缘和指间蹼来识别。它拥有专门进化出、锋利如剃刀的上门齿，完全是为了在猎物肉体上无痛且精准地切开小口。独一无二的是，它们的脸颊内侧长有两个特殊的口腔腺体，当蝙蝠受到惊吓时，会喷射出散发恶臭的液体作为防御机制——这是其它蝙蝠物种所没有的特征。"
+    },
+    "ecology_and_behavior": {
+      "en": "While the common vampire bat feeds on mammals, the white-winged vampire bat is highly adapted to prey on resting birds, approaching them meticulously along branches from below. It uses heat sensors in its nose to locate a blood vessel, bites painlessly, and uses its grooved tongue to lap up the blood. Their saliva contains a powerful anticoagulant ('draculin') that keeps the blood flowing. They are highly social, occasionally sharing regurgitated blood meals with hungry roost-mates to prevent them from starving.",
+      "zh": "虽然普通吸血蝠以哺乳动物为食，但白翼吸血蝠高度适应于捕食休息中的鸟类，它们会小心翼翼地顺着树枝从下方靠近猎物。它利用鼻子里的热感应器定位血管，无痛地咬破皮肤，并通过带有凹槽的舌头舔舐流出的血液。它们的唾液含有一种强效的抗凝血剂（被称为「德古拉素」），能保持血液不断流出。它们具有高度的社会性，偶尔会将反刍出的血液分享给饥饿的同伴，以防它们饿死。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are widely but sparsely distributed across Central and South America, stretching from Mexico down to northern Argentina. They typically inhabit moist, evergreen and deciduous forests, choosing to roost inside hollow trees or occasionally deep within well-lit caves. They are rarely encountered by humans and prefer wild forested areas over agricultural lands.",
+      "zh": "它们广泛而稀疏地分布在整个中美洲和南美洲，从墨西哥一直延伸到阿根廷北部。它们通常栖息在潮湿的常绿林和落叶林中，选择在空心树干内或偶尔在光线较好的洞穴深处休息。人类极少能遇见它们，比起农业用地，它们更偏爱野生的森林区域。"
+    }
+  },
+  "habitat": {
+    "text_en": "Neotropical Moist Forests and Hollow Trees",
+    "text_zh": "新热带湿润森林与空心树洞",
+    "map_coordinates": [
+      0,
+      -60
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          20,
+          -100
+        ],
+        [
+          20,
+          -90
+        ],
+        [
+          10,
+          -85
+        ],
+        [
+          5,
+          -75
+        ],
+        [
+          5,
+          -50
+        ],
+        [
+          -10,
+          -40
+        ],
+        [
+          -25,
+          -55
+        ],
+        [
+          -25,
+          -65
+        ],
+        [
+          0,
+          -80
+        ],
+        [
+          10,
+          -105
+        ],
+        [
+          20,
+          -100
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/white-winged-vampire-bat.jpg"
+}

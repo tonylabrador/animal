@@ -5,31 +5,21 @@
 
 | # | 中文名 | English Name | Scientific Name | 状态 |
 |---|--------|-------------|-----------------|------|
-| 1 | 欧洲艾鼬 | European Polecat | Mustela putorius | ⏳ Pending |
-| 2 | 黑足鼬 | Black-footed Ferret | Mustela nigripes | ⏳ Pending |
-| 3 | 巨獭 | Giant Otter | Pteronura brasiliensis | ⏳ Pending |
-| 4 | 小棕蝠 | Little Brown Bat | Myotis lucifugus | ⏳ Pending |
-| 5 | 大棕蝠 | Big Brown Bat | Eptesicus fuscus | ⏳ Pending |
-| 6 | 白翼吸血蝠 | White-winged vampire bat | Diaemus youngi | ⏳ Pending |
-| 7 | 灰头狐蝠 | Grey-headed Flying Fox | Pteropus poliocephalus | ⏳ Pending |
-| 8 | 印度狐蝠 | Indian Flying Fox | Pteropus giganteus | ⏳ Pending |
-| 9 | 美洲乌鸦 | American Crow | Corvus brachyrhynchos | ⏳ Pending |
-| 10 | 渡鸦 | Common Raven | Corvus corax | ⏳ Pending |
-| 11 | 吕氏睑虎 | Chinese Cave Gecko | Goniurosaurus luii | ⏳ Pending |
-| 12 | 黑翅土白蚁 | Black-winged subterranean termite | Odontotermes formosanus | ⏳ Pending |
-| 13 | 白氏树蛙 | White's tree frog | Ranoidea caerulea | ⏳ Pending |
-| 14 | 天堂金花蛇 | Paradise tree snake | Chrysopelea paradisi | ⏳ Pending |
-| 15 | 金花蛇 | Golden tree snake | Chrysopelea ornata | ⏳ Pending |
-| 16 | 黄腹海蛇 | Yellow-bellied sea snake | Hydrophis platurus | ⏳ Pending |
-| 17 | 美洲红松鼠 | American red Squirrel | Tamiasciurus hudsonicus | ⏳ Pending |
-| 18 | 红松鼠 | Red squirrel | Sciurus vulgaris | ⏳ Pending |
-| 19 | 克氏原螯虾 | Red swamp crayfish | Procambarus clarkii | ⏳ Pending |
-| 20 | 美洲螯龙虾 | American lobster | Homarus americanus | ⏳ Pending |
-| 21 | 蓑鲉 | Red lionfish | Pterois volitans | ⏳ Pending |
-| 22 | 黑凤蝶 | Black Swallowtail | Papilio polyxenes | ⏳ Pending |
-| 23 | 普通野蝗 | Common field grasshopper | Chorthippus brunneus | ⏳ Pending |
-| 24 | 睫角守宫 | Eyelash crested gecko | Correlophus ciliatus | ⏳ Pending |
-| 25 | 豹纹守宫 | Leopard gecko | Eublepharis macularius | ⏳ Pending |
-| 26 | 美洲鹤 | Whooping Crane | Grus americana | ⏳ Pending |
-| 27 | 沙丘鹤 | Sandhill crane | Antigone canadensis | ⏳ Pending |
-| 28 | 灰鹤 | Common crane | Grus grus | ⏳ Pending |
+| 1 | 吕氏睑虎 | Chinese Cave Gecko | Goniurosaurus luii | ⏳ Pending |
+| 2 | 黑翅土白蚁 | Black-winged subterranean termite | Odontotermes formosanus | ⏳ Pending |
+| 3 | 白氏树蛙 | White's tree frog | Ranoidea caerulea | ⏳ Pending |
+| 4 | 天堂金花蛇 | Paradise tree snake | Chrysopelea paradisi | ⏳ Pending |
+| 5 | 金花蛇 | Golden tree snake | Chrysopelea ornata | ⏳ Pending |
+| 6 | 黄腹海蛇 | Yellow-bellied sea snake | Hydrophis platurus | ⏳ Pending |
+| 7 | 美洲红松鼠 | American red Squirrel | Tamiasciurus hudsonicus | ⏳ Pending |
+| 8 | 红松鼠 | Red squirrel | Sciurus vulgaris | ⏳ Pending |
+| 9 | 克氏原螯虾 | Red swamp crayfish | Procambarus clarkii | ⏳ Pending |
+| 10 | 美洲螯龙虾 | American lobster | Homarus americanus | ⏳ Pending |
+| 11 | 蓑鲉 | Red lionfish | Pterois volitans | ⏳ Pending |
+| 12 | 黑凤蝶 | Black Swallowtail | Papilio polyxenes | ⏳ Pending |
+| 13 | 普通野蝗 | Common field grasshopper | Chorthippus brunneus | ⏳ Pending |
+| 14 | 睫角守宫 | Eyelash crested gecko | Correlophus ciliatus | ⏳ Pending |
+| 15 | 豹纹守宫 | Leopard gecko | Eublepharis macularius | ⏳ Pending |
+| 16 | 美洲鹤 | Whooping Crane | Grus americana | ⏳ Pending |
+| 17 | 沙丘鹤 | Sandhill crane | Antigone canadensis | ⏳ Pending |
+| 18 | 灰鹤 | Common crane | Grus grus | ⏳ Pending |
