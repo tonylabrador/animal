@@ -19,3 +19,4 @@
 | 12 | 黑翅土白蚁 | Black-winged subterranean termite | Odontotermes formosanus | ⏳ Pending |
 | 13 | 白氏树蛙 | White's tree frog | Ranoidea caerulea | ⏳ Pending |
 | 14 | 天堂金花蛇 | Paradise tree snake | Chrysopelea paradisi | ⏳ Pending |
+| 15 | 金花蛇 | Golden tree snake | Chrysopelea ornata | ⏳ Pending |
