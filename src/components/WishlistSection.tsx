@@ -33,6 +33,7 @@ export default function WishlistSection({ lang, compact = false }: WishlistSecti
   const [showRecentlyAdded, setShowRecentlyAdded] = useState(false);
   const [recentlyAddedEntries, setRecentlyAddedEntries] = useState<{zh: string; en: string; scientific: string; id: string}[]>([]);
   const [loadingRecentlyAdded, setLoadingRecentlyAdded] = useState(false);
+  const [isOpen, setIsOpen] = useState(false);
 
   // ── Submit handler ──────────────────────────────────────────────────────────
   const handleSubmit = useCallback(async () => {
@@ -112,21 +113,37 @@ export default function WishlistSection({ lang, compact = false }: WishlistSecti
         <div className="pointer-events-none absolute bottom-0 left-10 w-40 h-40 rounded-full bg-indigo-300/20 blur-2xl" />
 
         {/* Header */}
-        <div className={`relative flex flex-col sm:flex-row sm:items-center gap-3 ${compact ? 'mb-4' : 'mb-6'}`}>
-          <span className={`${compact ? 'text-3xl' : 'text-4xl'} select-none animate-bounce`}>🌟</span>
-          <div>
-            <h2 className={`text-white font-extrabold leading-tight tracking-tight ${compact ? 'text-base sm:text-lg' : 'text-xl sm:text-2xl'}`}>
-              {lang === "en"
-                ? "Can't find your favourite animal?"
-                : "找不到你心中的动物？"}
-            </h2>
-            <p className={`text-indigo-200 mt-0.5 font-medium ${compact ? 'text-xs' : 'text-sm'}`}>
-              {lang === "en"
-                ? "Submit it to the Animal Wishing Pool — AI will identify it for you 🤖"
-                : "填写加入动物许愿池 — AI 自动为你识别物种 🤖"}
-            </p>
+        <button 
+          onClick={() => compact && setIsOpen(!isOpen)}
+          className={`relative w-full flex items-center justify-between text-left ${compact ? 'cursor-pointer lg:cursor-default group mb-0' : 'cursor-default pointer-events-none mb-6'}`}
+        >
+          <div className={`flex flex-col sm:flex-row sm:items-center gap-3`}>
+            <span className={`${compact ? 'text-3xl' : 'text-4xl'} select-none ${!compact || isOpen ? 'animate-bounce' : ''}`}>🌟</span>
+            <div>
+              <h2 className={`text-white font-extrabold leading-tight tracking-tight transition-colors ${compact ? 'text-base sm:text-lg group-hover:text-indigo-100 lg:group-hover:text-white' : 'text-xl sm:text-2xl'}`}>
+                {lang === "en"
+                  ? "Can't find your favourite animal?"
+                  : "找不到你心中的动物？"}
+              </h2>
+              <p className={`text-indigo-200 mt-0.5 font-medium ${compact ? 'text-xs' : 'text-sm'}`}>
+                {lang === "en"
+                  ? "Submit it to the Animal Wishing Pool — AI will identify it for you 🤖"
+                  : "填写加入动物许愿池 — AI 自动为你识别物种 🤖"}
+              </p>
+            </div>
           </div>
-        </div>
+          {compact && (
+            <div className="lg:hidden text-white/70 bg-white/10 p-1 rounded-full shrink-0">
+              <ChevronDown size={20} className={`transition-transform duration-300 ${isOpen ? 'rotate-180' : ''}`} />
+            </div>
+          )}
+        </button>
+
+        {/* ── Collapsible Wrapper ───────────────────────────────────────────── */}
+        <div className={`grid transition-all duration-300 ease-in-out ${compact ? 'lg:!grid-rows-[1fr] lg:!opacity-100 lg:!mt-4' : 'grid-rows-[1fr] opacity-100 mt-0'} ${
+          compact && isOpen ? 'grid-rows-[1fr] opacity-100 mt-4' : compact && !isOpen ? 'grid-rows-[0fr] opacity-0 mt-0' : ''
+        }`}>
+          <div className="overflow-hidden min-h-0">
 
         {/* ── Input area ────────────────────────────────────────────────────── */}
         <div className="relative flex gap-3">
@@ -313,6 +330,8 @@ export default function WishlistSection({ lang, compact = false }: WishlistSecti
             )}
           </div>
         )}
+          </div>
+        </div>
       </div>
     </section>
   );
