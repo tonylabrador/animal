@@ -1,0 +1,98 @@
+{
+  "id": "downy-woodpecker",
+  "name_zh": "绒啄木鸟",
+  "name_en": "Downy woodpecker",
+  "scientific_name": "Dryobates pubescens",
+  "ui_tags": [
+    "Bird",
+    "Woodland",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Piciformes",
+      "zh": "鴷形目"
+    },
+    "family": {
+      "en": "Picidae",
+      "zh": "啄木鸟科"
+    },
+    "genus": {
+      "en": "Dryobates",
+      "zh": "林啄木鸟属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The smallest woodpecker in North America, familiar at backyard feeders and recognizable by its diminutive size and swift, acrobatic foraging on fragile branches.",
+    "zh": "北美洲体型最小的啄木鸟，常见于后院喂鸟器，以其迷你的体型和在脆弱树枝上杂技般敏捷的觅食方式而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The downy woodpecker is diminutive, measuring just 14-17 cm in length. It shares a nearly identical black-and-white checkered plumage with the larger Hairy Woodpecker, but can be distinguished by its much shorter, more delicate bill. Males feature a distinct bright red patch on the back of their heads. Their specially adapted 'zygodactyl' feet (two toes forward, two backward) and stiff tail feathers provide essential support as they hitch up vertical tree trunks.",
+      "zh": "绒啄木鸟体型非常小，体长只有14-17厘米。它拥有与体型更大的长喙啄木鸟几乎完全相同的黑白相间格子花纹，但可以通过它更短小、更精致的喙来区分。雄鸟的后脑勺上有一块明显的鲜红色斑块。它们特意进化的「对趾足」（两趾朝前，两趾向后）和僵硬的尾羽，在顺着垂直的树干向上攀附时提供了必要的支撑。"
+    },
+    "ecology_and_behavior": {
+      "en": "Because of their small size, they can forage on tiny branches and weed stems that larger woodpeckers cannot access. They frequently join mixed-species flocks in winter, moving through the woods with chickadees and nuthatches. Rather than loud vocal calls, they communicate presence and establish territory by 'drumming' their bills rapidly against hollow wood. They use their specialized barbed tongues to extract insect larvae hidden deep within wood cavities.",
+      "zh": "由于体型娇小，它们可以在大型啄木鸟无法接触到的细微树枝和杂草茎上觅食。在冬季，它们经常加入由不同物种组成的混群，与山雀和䴓科鸟类一起在树林里穿梭。它们不是用响亮的鸣叫声，而是通过用喙快速「敲击」中空的木头来沟通并确立领地。它们使用长有倒刺的特化舌头，将隐藏在树洞深处的昆虫幼虫拖拽出来。"
+    },
+    "habitat_and_distribution": {
+      "en": "Widespread across the majority of North America, from the tree line in Alaska and Canada down to Florida and southern California. They are common residents of deciduous forests, parklands, orchards, and urban suburbs. They excavate their own nesting cavities in dead wood, usually prioritizing fungus-softened trees to ease the digging effort.",
+      "zh": "广泛分布于北美洲大部分地区，从阿拉斯加和加拿大的树线一直向南延伸到佛罗里达和南加州。它们是落叶林、公园、果园以及城市郊区的常见留鸟。它们在枯木上挖掘自己的巢洞，通常会优先选择被真菌软化过的树木以减轻挖掘难度。"
+    }
+  },
+  "habitat": {
+    "text_en": "Deciduous Forests and Suburban Parks",
+    "text_zh": "落叶林与城市周边公园",
+    "map_coordinates": [
+      40,
+      -95
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          30,
+          -125
+        ],
+        [
+          65,
+          -165
+        ],
+        [
+          70,
+          -135
+        ],
+        [
+          60,
+          -60
+        ],
+        [
+          30,
+          -75
+        ],
+        [
+          30,
+          -125
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/downy-woodpecker.jpg"
+}

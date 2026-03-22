@@ -1,0 +1,106 @@
+{
+  "id": "european-polecat",
+  "name_zh": "欧洲艾鼬",
+  "name_en": "European Polecat",
+  "scientific_name": "Mustela putorius",
+  "ui_tags": [
+    "Mammal",
+    "Woodland",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Mustelidae",
+      "zh": "鼬科"
+    },
+    "genus": {
+      "en": "Mustela",
+      "zh": "鼬属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The wild ancestor of the domesticated ferret, this secretive hunter is notorious for the pungent odor it secretes to deter threats.",
+    "zh": "作为家养雪貂的野生祖先，这种隐秘的猎手以其分泌刺鼻气味来威慑威胁而臭名昭著。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The European polecat features a long, flexible body and short legs, typical of mustelids. Its fur is dark brown with pale yellow underfur, and it sports a distinct bandit-like 'mask' of dark fur across its eyes surrounded by white patches. They have remarkably strong jaws relative to their size, necessary for dispatching vertebrate prey. At the base of their tail are specialized anal glands that produce a foul-smelling liquid used primarily for marking territory and self-defense.",
+      "zh": "欧洲艾鼬身体细长且柔韧，腿很短，具有典型的鼬科动物特征。它有一身由深棕色外层和浅黄色底绒组成的皮毛，眼睛周围带有类似强盗眼罩的「深色面纹」，面纹周围则是白斑。相对于它们的体型而言，其下颚异常强壮，这是杀死脊椎动物猎物所必需的。在它们的尾巴根部有特化的肛门腺，能分泌一种发出恶臭的液体，主要用于标记领地和自卫。"
+    },
+    "ecology_and_behavior": {
+      "en": "Strictly carnivorous and largely nocturnal, they are agile predators that hunt by stalking and ambushing. A unique behavior is their habit of paralyzing frogs and toads with a precise bite to the base of the skull, then storing them alive in underground caches for winter feeding. They also relentlessly pursue rodents, rabbits, and ground-nesting birds. Though mostly solitary, they communicate through a series of clucks and chatters.",
+      "zh": "它们是严格的肉食性及主要于夜间活动的动物，也是行动极其敏捷的捕食者，通过潜行和伏击进行狩猎。一种独特的行为是它们习惯于精准地咬住青蛙和蟾蜍的颅骨基部，使其瘫痪，然后将它们活着储藏在地下，以备过冬食用。它们还会坚持不懈地追捕啮齿类、兔子和在地面筑巢的鸟类。尽管大多独居，但它们会通过一系列咯咯声和喋喋不休的声音进行交流。"
+    },
+    "habitat_and_distribution": {
+      "en": "They are widely distributed across western Eurasia, from Great Britain and northern Portugal to the Ural Mountains in Russia. They highly prefer lowland habitats near water edges, marshes, and riverbanks but also frequent forest edges and agricultural areas. Unlike many other mustelids, they generally construct their own burrows rather than taking over the dens of their prey.",
+      "zh": "它们广泛分布于欧亚大陆西部，从英国大不列颠和葡萄牙北部一直延伸到俄罗斯的乌拉尔山脉。它们极其偏好水边、沼泽和河岸附近的低地栖息地，但也经常光顾森林边缘和农业区。与许多其他鼬科动物不同，它们通常自己挖掘洞穴，而不是占有其猎物现成的巢穴。"
+    }
+  },
+  "habitat": {
+    "text_en": "Lowland Marshes and Forest Edges",
+    "text_zh": "低地沼泽与森林边缘",
+    "map_coordinates": [
+      50,
+      15
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          40,
+          -10
+        ],
+        [
+          55,
+          -10
+        ],
+        [
+          60,
+          10
+        ],
+        [
+          65,
+          40
+        ],
+        [
+          60,
+          60
+        ],
+        [
+          40,
+          40
+        ],
+        [
+          35,
+          20
+        ],
+        [
+          40,
+          -10
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/european-polecat.jpg"
+}

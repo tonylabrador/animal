@@ -1,0 +1,102 @@
+{
+  "id": "little-brown-bat",
+  "name_zh": "小棕蝠",
+  "name_en": "Little Brown Bat",
+  "scientific_name": "Myotis lucifugus",
+  "ui_tags": [
+    "Mammal",
+    "Global",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Chiroptera",
+      "zh": "翼手目"
+    },
+    "family": {
+      "en": "Vespertilionidae",
+      "zh": "蝙蝠科"
+    },
+    "genus": {
+      "en": "Myotis",
+      "zh": "鼠耳蝠属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "Once North America's most common bat, it consumes half its body weight in insects nightly before retreating to warm domestic attics or deep caves.",
+    "zh": "曾是北美洲最常见的一种蝙蝠，每晚能吃掉相当于体重一半的昆虫量，然后在温暖的人类阁楼或深邃的洞穴中休息。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The little brown bat is a microbat that weighs intensely small, roughly the same as a single US nickel piece, despite possessing a respectable wingspan. They are covered in glossy, pale-to-dark brown fur with a lighter underbelly. They use specialized muscles to shape their mouths, emitting ultra-high-frequency echolocation pulses up to 20 times a second to 'see' their surroundings and capture tiny rapidly moving mosquitoes and moths in total darkness.",
+      "zh": "小棕蝠属于微型蝙蝠，尽管拥有惊人的翼展，但其体重却极其微小，大概只相当于一枚美国5美分硬币重。它们覆盖着从浅色到深棕色富有光泽的皮毛，腹部颜色较浅。在完全黑暗的环境中，它们利用特化的肌肉改变嘴巴形状，发射每秒高达20次的超高频回声定位脉冲，以「看清」周围环境并精准捕捉微小且快速移动的蚊虫和飞蛾。"
+    },
+    "ecology_and_behavior": {
+      "en": "During the summer, females form massive 'maternity colonies' often utilizing the radiating heat of human buildings. As ferocious insectivores, nursing mothers can consume their entire body weight in insects every single night, making them ecologically invaluable pest controllers. During the harsh winter, they undergo true hibernation in caves and abandoned mines, significantly dropping their body temperatures to barely above freezing to conserve fat reserves.",
+      "zh": "在夏季，雌性会形成庞大的「育种群」，通常利用人类建筑散发的辐射热。作为异常凶猛的食虫动物，哺乳期的母亲每晚可以吃掉相当于自身全部体重的昆虫，这使它们成为生态学上不可估量的害虫控制者。在严酷的冬季，它们会在洞穴和废弃矿井中进行真正的冬眠，将体温显著降低至勉强高于冰点，以极度节约脂肪储备。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to North America, they are found from high-altitude forests in Alaska stretching eastwards to the Atlantic coast. Sadly, their populations have been utterly devastated—in some regional caves suffering mortality rates of over 90%—by 'White-Nose Syndrome', a lethal invasive fungal disease that brutally awakens them during their deeply sensitive winter torpor.",
+      "zh": "特产于北美洲，它们的分布极广，从阿拉斯加的高海拔森林一直向东延伸到大西洋海岸。不幸的是，它们的种群遭到了毁灭性的打击——在某些区域的洞穴死亡率甚至超过90%——原因是一种称为「白鼻综合症」的致命入侵性真菌疾病，它会在蝙蝠高度敏感的冬季蛰伏期间将它们残忍唤醒。"
+    }
+  },
+  "habitat": {
+    "text_en": "Deciduous Forests, Lakes, and Karst Caves",
+    "text_zh": "落叶林、湖泊与喀斯特洞穴",
+    "map_coordinates": [
+      45,
+      -95
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          35,
+          -130
+        ],
+        [
+          65,
+          -150
+        ],
+        [
+          65,
+          -60
+        ],
+        [
+          45,
+          -60
+        ],
+        [
+          30,
+          -80
+        ],
+        [
+          35,
+          -110
+        ],
+        [
+          35,
+          -130
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/little-brown-bat.jpg"
+}

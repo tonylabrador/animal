@@ -1,0 +1,102 @@
+{
+  "id": "big-brown-bat",
+  "name_zh": "大棕蝠",
+  "name_en": "Big Brown Bat",
+  "scientific_name": "Eptesicus fuscus",
+  "ui_tags": [
+    "Mammal",
+    "Global",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Chiroptera",
+      "zh": "翼手目"
+    },
+    "family": {
+      "en": "Vespertilionidae",
+      "zh": "蝙蝠科"
+    },
+    "genus": {
+      "en": "Eptesicus",
+      "zh": "棕蝠属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A robust, heavily built flyer harboring immensely strong jaws uniquely adapted to crush through the thick armor of heavy yard beetles.",
+    "zh": "一种身体粗壮、飞行有力的动物。它拥有异常强健的下颚，经过独特进化专门用于粉碎庭院大型甲虫厚重的铠甲。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "True to its name, the big brown bat is significantly larger than its 'little' counterpart, though it still only weighs around 20 grams. It possesses broad, robust wings and long, deeply chocolate-brown fur overlaid onto black facial skin and wing membranes. What sets the big brown bat apart physically are its oversized skull and immensely powerful jaw muscles, which arm it with one of the strongest bite forces for its size, designed specifically for cracking heavy exoskeletons.",
+      "zh": "名副其实，大棕蝠比它的「小」表亲大得多，尽管它的依然只重约20克。它拥有宽大强劲的翅膀，深厚巧克力色的长毛覆盖在黑色的面部皮肤和翼膜之上。让大棕蝠在外观上卓尔不群的是它超大的头骨和极其强劲的下颚肌肉，这赋予了它在同体型中数一数二的超强咬合力，这些全都是为了咬碎猎物厚重的外骨骼而设计的。"
+    },
+    "ecology_and_behavior": {
+      "en": "Instead of hunting soft moths, these bats hunt larger, tough-shelled agricultural pests such as cucumber beetles, stink bugs, and leafhoppers. Using frequency-modulated echolocation specifically tuned against clutter, they strike their prey in mid-air. They are remarkably resilient and have adapted exceptionally well to urbanization, routinely forming colonies under bridges, in church belfries, and inside modern wall cavities where they safely hibernate away extreme winter temperatures.",
+      "zh": "它们不捕猎柔软的飞蛾，而是专门猎杀体型更大、带有坚硬外壳的农业害虫，例如黄瓜甲虫、臭虫和叶蝉。利用针对杂乱环境专门调整过的调频回声定位，它们可以在半空中准确击中猎物。它们韧性惊人且极其适应城市化，通常在桥下、教堂钟楼以及现代房屋墙壁夹层内形成群落，在这些地方它们能安全地冬眠躲避极端冬季严寒。"
+    },
+    "habitat_and_distribution": {
+      "en": "It has an incredibly large and flexible range stretching across nearly all of the United States, deep into Central America, the Caribbean, and the northern tip of South America. Fortunately, their larger body size and tendency to roost in much colder, less humid hibernacula (environments inherently hostile to fungus) has allowed them to survive the regional White-Nose Syndrome epidemics significantly better than smaller bat species.",
+      "zh": "它的分布范围极其广阔且灵活，横跨了几乎整个美国，并深入中美洲、加勒比地区和南美洲北部。幸运的是，由于它们体型较大，加上倾向躲藏在更寒冷且湿度更低的冬眠场所（这种环境本身就不适合真菌生存），使得它们在区域性「白鼻综合症」疫情中的存活情况远远好于其它小型蝙蝠物种。"
+    }
+  },
+  "habitat": {
+    "text_en": "Widespread Urban, Deciduous, and Conifer Habitats",
+    "text_zh": "广泛的城市、落叶与针叶环境",
+    "map_coordinates": [
+      38,
+      -90
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          20,
+          -110
+        ],
+        [
+          55,
+          -130
+        ],
+        [
+          55,
+          -60
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          5,
+          -75
+        ],
+        [
+          5,
+          -80
+        ],
+        [
+          20,
+          -110
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/big-brown-bat.jpg"
+}

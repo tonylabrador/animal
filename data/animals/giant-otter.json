@@ -1,0 +1,102 @@
+{
+  "id": "giant-otter",
+  "name_zh": "巨獭",
+  "name_en": "Giant Otter",
+  "scientific_name": "Pteronura brasiliensis",
+  "ui_tags": [
+    "Mammal",
+    "River",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Mustelidae",
+      "zh": "鼬科"
+    },
+    "genus": {
+      "en": "Pteronura",
+      "zh": "巨獭属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "Known locally as the 'river wolf', this apex predator dominates the Amazonian waterways in highly social and intensely vocal family groups.",
+    "zh": "在当地被称为「河狼」，这种顶级捕食者以高度群居和极其喜欢发出强烈鸣唤声的家族群体，统治着亚马逊的水道。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The giant otter is the longest member of the mustelid family, capable of reaching up to 1.7 meters. They have large heads, powerful snapping jaws, and thick, velvety, water-repellent brown fur. Each individual boasts a unique patch of white or cream fur on their throat, acting as an unmistakable fingerprint. Their wing-like, flattened tail and fully webbed feet propel them through the murky rivers with torpedo-like efficiency.",
+      "zh": "巨獭是鼬科家族中身长最长的成员，最长可达1.7米。它们拥有大脑袋、强壮而具咬合力的下颚，以及厚实、呈天鹅绒般且防水的棕色皮毛。每只巨獭的喉咙上都长有一块独一无二的白色或奶油色花纹，就像无法伪造的指纹一样。它们那翅膀般扁平的尾巴和全蹼的双脚，使其能以犹如鱼雷般的效率在浑浊的河水中推进。"
+    },
+    "ecology_and_behavior": {
+      "en": "Unlike most other secretive otters, giant otters are highly visible and overwhelmingly noisy. They form tight-knit clans of up to eight members that hunt cooperatively with military precision. As apex predators in the river, they coordinate attacks to overwhelm large fish—primarily piranhas and catfish—and even young caimans or anacondas. They establish huge dens dug into riverbanks and are fiercely territorial, readily driving off intrusive jaguars.",
+      "zh": "与大多数其他隐秘的水獭不同，巨獭非常招摇且极其吵闹。它们组成一个最多达八名成员的严密氏族，以类似军队般精确的方式合作狩猎。作为河流中的顶级捕食者，它们会协同攻击以压制大型鱼类（主要是食人鱼和鲶鱼），甚至包括年幼的凯门鳄或森蚺。它们在河岸上挖掘巨大的洞穴系统，并且具有强烈的领地意识，会毫不犹豫地驱赶入侵的美洲豹。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the freshwater rivers, slow-moving creeks, lakes, and flooded forests (igapós) of the Amazon, Orinoco, and La Plata river basins in South America. The Pantanal in Brazil remains a stronghold. Their extreme vulnerability to unregulated hunting for their dense pelts historically decimated their populations, and today they also face severe threats from habitat destruction and dangerous mercury pollution from illegal gold mining.",
+      "zh": "特产于南美洲亚马逊河、奥里诺科河及拉普拉塔河流域的淡水河流、缓慢水溪、湖泊和洪泛森林中。巴西的潘塔纳尔湿地依然是它们的大本营。由于历史上针对其浓密毛皮的无节制猎杀，其种群曾遭到毁灭性破坏；如今，它们还面临着栖息地破坏以及来自非法金矿开采导致的有毒水银污染等严重威胁。"
+    }
+  },
+  "habitat": {
+    "text_en": "Amazonian Rivers and Flooded Wetlands",
+    "text_zh": "亚马逊河流域与洪泛湿地",
+    "map_coordinates": [
+      -10,
+      -60
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          5,
+          -70
+        ],
+        [
+          5,
+          -50
+        ],
+        [
+          -10,
+          -50
+        ],
+        [
+          -20,
+          -55
+        ],
+        [
+          -20,
+          -65
+        ],
+        [
+          -10,
+          -75
+        ],
+        [
+          5,
+          -70
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/giant-otter.jpg"
+}

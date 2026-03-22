@@ -1,0 +1,138 @@
+{
+  "id": "quokka",
+  "name_zh": "短尾矮袋鼠",
+  "name_en": "Quokka",
+  "scientific_name": "Setonix brachyurus",
+  "ui_tags": [
+    "Mammal",
+    "Island",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Diprotodontia",
+      "zh": "双门齿目"
+    },
+    "family": {
+      "en": "Macropodidae",
+      "zh": "袋鼠科"
+    },
+    "genus": {
+      "en": "Setonix",
+      "zh": "短尾矮袋鼠属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "Often dubbed the 'world's happiest animal' due to its facial structure that resembles a permanent smile, this small macropod is a quirky survivor native to Western Australia.",
+    "zh": "常被冠以「世界上最快乐的动物」的名号，只因其面部结构看起来总是面带微笑。这种体型娇小的袋鼠是西澳大利亚原产的一位奇特的生存者。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The quokka is a small member of the kangaroo family, roughly the size of a domestic cat. It features a stocky build, rounded ears, and a short, barely noticeable tail. Its coarse fur is a grizzled grey-brown. The structure of its snout and mouth creates an expression that looks like a cheerful smile, contributing heavily to its immense internet popularity. Unlike larger kangaroos, they are capable of climbing small trees and shrubs to reach foliage.",
+      "zh": "短尾矮袋鼠是袋鼠科中的小型成员，体型大致相当于家猫。它身体粗壮，耳朵呈圆形，更有一条短得几乎难以察觉的尾巴。它粗糙的皮毛呈灰褐色。其吻部和嘴巴的结构营造出一种看起来像是在欢快微笑的表情，这极大地促成了它在网络上的极高人气。与体型较大的袋鼠不同，它们能够攀爬小树和灌木去采食树叶。"
+    },
+    "ecology_and_behavior": {
+      "en": "Primarily nocturnal herbivores, they forage at night by tunneling through dense ground vegetation. Quokkas are mostly solitary but can congregate in large numbers where food is abundant. When faced with extreme danger from predators like foxes, mothers resort to a brutal survival tactic: they will relax their pouch muscles, allowing their joey to fall out onto the ground. The squirming, vocalizing joey distracts the predator, giving the mother a chance to escape.",
+      "zh": "主要作为夜行性的草食动物，它们在夜间通过在密集的地面灌木丛中穿梭来觅食。短尾矮袋鼠大多独居，但在食物丰富的地区也会大量聚集。当面临狐狸等捕食者的极端危险时，母亲们会求助于一种极其残酷的生存策略：她们会放松育儿袋的肌肉，让里面的小袋鼠掉到地上。挣扎并发出叫声的小袋鼠会分散捕食者的注意力，从而给母亲创造逃跑的机会。"
+    },
+    "habitat_and_distribution": {
+      "en": "Historically widespread across the Australian mainland, they have been decimated by introduced predators (foxes and cats). Today, mainland populations are small and highly localized in dense coastal scrub. However, a thriving population of around 10,000 individuals exists on Rottnest Island (whose name translates to 'Rat's nest', given by Dutch explorers who mistook quokkas for giant rats) and Bald Island, where predators are absent.",
+      "zh": "历史上曾广泛分布于澳大利亚大陆，但后来因外来捕食者（狐狸和猫）的引入而遭到毁灭性打击。如今，大陆种群数量极少且高度局限于茂密的沿海灌木丛中。幸运的是，在没有捕食者的罗特尼斯岛（荷兰探险家曾将这种袋鼠误认为巨鼠，因此将其命名为「老鼠的巢穴」）和巴尔德岛上，仍生活着约10,000只繁荣的种群。"
+    }
+  },
+  "habitat": {
+    "text_en": "Dense Coastal Scrub and Predator-free Islands",
+    "text_zh": "稠密沿海灌木丛与无捕食者岛屿",
+    "map_coordinates": [
+      -32,
+      115.5
+    ],
+    "map_zoom_level": 7,
+    "global_distribution_polygons": [
+      [
+        [
+          -31.9,
+          115.4
+        ],
+        [
+          -31.9,
+          115.6
+        ],
+        [
+          -32.1,
+          115.6
+        ],
+        [
+          -32.1,
+          115.4
+        ],
+        [
+          -31.9,
+          115.4
+        ]
+      ],
+      [
+        [
+          -34.8,
+          117.8
+        ],
+        [
+          -34.8,
+          118.5
+        ],
+        [
+          -35.2,
+          118.5
+        ],
+        [
+          -35.2,
+          117.8
+        ],
+        [
+          -34.8,
+          117.8
+        ]
+      ],
+      [
+        [
+          -34.5,
+          115.8
+        ],
+        [
+          -34.5,
+          116.5
+        ],
+        [
+          -35,
+          116.5
+        ],
+        [
+          -35,
+          115.8
+        ],
+        [
+          -34.5,
+          115.8
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/quokka.jpg"
+}

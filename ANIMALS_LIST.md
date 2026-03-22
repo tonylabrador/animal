@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **249** 种动物
+**统计**：共 **259** 种动物
 
 ---
 
@@ -43,6 +43,7 @@
 
 **袋鼠科**
 
+- 短尾矮袋鼠 / Quokka — *Setonix brachyurus* `quokka`
 - 红袋鼠 / Red Kangaroo — *Osphranter rufus* `red-kangaroo`
 
 ### 啮齿目
@@ -157,6 +158,11 @@
 
 - 马来大狐蝠 / Large Flying Fox — *Pteropus vampyrus* `large-flying-fox`
 
+**蝙蝠科**
+
+- 大棕蝠 / Big Brown Bat — *Eptesicus fuscus* `big-brown-bat`
+- 小棕蝠 / Little Brown Bat — *Myotis lucifugus* `little-brown-bat`
+
 ### 袋鼬目
 
 **袋鼬科**
@@ -260,6 +266,9 @@
 **鼬科**
 
 - 美洲獾 / American Badger — *Taxidea taxus* `american-badger`
+- 黑足鼬 / Black-footed Ferret — *Mustela nigripes* `black-footed-ferret`
+- 欧洲艾鼬 / European Polecat — *Mustela putorius* `european-polecat`
+- 巨獭 / Giant Otter — *Pteronura brasiliensis* `giant-otter`
 - 蜜獾 / Honey Badger — *Mellivora capensis* `honey-badger`
 - 海獭 / Sea Otter — *Enhydra lutris* `sea-otter`
 - 狼獾 / Wolverine — *Gulo gulo* `wolverine`
@@ -421,6 +430,10 @@
 - 八哥 / Crested Myna — *Acridotheres cristatellus* `crested-myna`
 - 普通椋鸟 / European Starling — *Sturnus vulgaris* `european-starling`
 
+**燕科**
+
+- 家燕 / Barn Swallow — *Hirundo rustica* `barn-swallow`
+
 **燕雀科**
 
 - 家朱雀 / House Finch — *Haemorhous mexicanus* `house-finch`
@@ -451,7 +464,15 @@
 - 安娜蜂鸟 / Anna's Hummingbird — *Calypte anna* `annas-hummingbird`
 - 红喉蜂鸟 / Ruby-throated Hummingbird — *Archilochus colubris* `ruby-throated-hummingbird`
 
+**雨燕科**
+
+- 大暗雨燕 / Great dusky swift — *Cypseloides senex* `great-dusky-swift`
+
 ### 鴷形目
+
+**啄木鸟科**
+
+- 绒啄木鸟 / Downy woodpecker — *Dryobates pubescens* `downy-woodpecker`
 
 **巨嘴鸟科**
 
@@ -708,6 +729,7 @@
 **蛱蝶科**
 
 - 大蓝闪蝶 / Blue Morpho Butterfly — *Morpho menelaus* `blue-morpho-butterfly`
+- 帝王斑蝶 / Monarch butterfly — *Danaus plexippus* `monarch-butterfly`
 
 ---
 

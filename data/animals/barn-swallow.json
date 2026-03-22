@@ -1,0 +1,148 @@
+{
+  "id": "barn-swallow",
+  "name_zh": "家燕",
+  "name_en": "Barn Swallow",
+  "scientific_name": "Hirundo rustica",
+  "ui_tags": [
+    "Bird",
+    "Global",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Hirundinidae",
+      "zh": "燕科"
+    },
+    "genus": {
+      "en": "Hirundo",
+      "zh": "燕属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A globally widespread songbird known for its deeply forked tail, acrobatic flight, and habit of nesting closely with human settlements.",
+    "zh": "一种全球分布广泛的鸣禽，以其深深分叉的尾巴、杂技般的飞行技巧以及在人类聚居地附近筑巢的习性而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The barn swallow is easily recognizable by its metallic cobalt-blue upperparts, rusty-red forehead and throat, and pale underparts. Its most diagnostic feature is the deeply forked tail, which includes two long, slender outer feathers known as 'tail streamers'. These streamers are slightly longer in males and play a role in sexual selection, as females prefer males with longer, more symmetrical tails. Their streamlined bodies and pointed wings are perfectly adapted for high-speed, agile flight.",
+      "zh": "家燕很容易通过其具有金属光泽的钴蓝色上体、铁锈红色的前额和喉部以及浅色的下腹来识别。它最具鉴别性的特征是深深分叉的尾巴，其外侧有两根细长的羽毛，被称为「尾羽饰带」。雄性的这些饰带通常稍长一些，并在性选择中起到一定作用，因为雌性更偏爱拥有修长且对称尾羽的雄性。它们流线型的身体和尖锐的翅膀完美适应了高速、敏捷的飞行。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are highly aerial insectivores, catching flies, beetles, and wasps in mid-air in sweeping, low-level flights over open ground or water. They even drink on the wing by skimming across the surface of a pond. Historically nesting in cave entrances and on cliffs, they have completely adapted to cohabiting with humans. They construct sturdy cup-shaped nests out of mud pellets mixed with dry grass, almost exclusively attaching them to man-made structures like barns, bridges, and eaves.",
+      "zh": "它们是高度空栖的食虫鸟类，在开阔地面或水面上空进行低飞扫荡，从半空中捕食苍蝇、甲虫和黄蜂。它们甚至可以在飞行中掠过池塘表面饮水。历史上它们曾在洞穴入口和悬崖上筑巢，但现在已完全适应与人类共居。它们用泥球混合干草建造坚固的杯状巢穴，几乎专门将它们附着在谷仓、桥梁和屋檐等人类建筑上。"
+    },
+    "habitat_and_distribution": {
+      "en": "The barn swallow is the most widespread species of swallow in the world. They breed throughout the Northern Hemisphere across North America, Europe, and Asia in open country such as farmlands and meadows. During winter, they undertake massive migrations to the Southern Hemisphere, reaching as far as South America, sub-Saharan Africa, and northern Australia.",
+      "zh": "家燕是世界上分布最广的燕科动物。它们在整个北半球，包括北美、欧洲和亚洲的农田草地等广阔地带繁殖。冬季时，它们会进行大规模迁徙前往南半球，最远可达南美洲、撒哈拉以南非洲和澳大利亚北部。"
+    }
+  },
+  "habitat": {
+    "text_en": "Open Country, Farmlands, and Urban Edges",
+    "text_zh": "开阔地带、农田与城市边缘",
+    "map_coordinates": [
+      35,
+      10
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          30,
+          -125
+        ],
+        [
+          60,
+          -125
+        ],
+        [
+          60,
+          -60
+        ],
+        [
+          30,
+          -75
+        ],
+        [
+          10,
+          -80
+        ],
+        [
+          -40,
+          -70
+        ],
+        [
+          -40,
+          -50
+        ],
+        [
+          10,
+          -60
+        ],
+        [
+          30,
+          -125
+        ]
+      ],
+      [
+        [
+          30,
+          -10
+        ],
+        [
+          65,
+          -10
+        ],
+        [
+          65,
+          150
+        ],
+        [
+          30,
+          120
+        ],
+        [
+          10,
+          100
+        ],
+        [
+          -30,
+          30
+        ],
+        [
+          -30,
+          10
+        ],
+        [
+          10,
+          -15
+        ],
+        [
+          30,
+          -10
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/barn-swallow.jpg"
+}

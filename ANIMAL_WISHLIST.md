@@ -5,19 +5,14 @@
 
 | # | 中文名 | English Name | Scientific Name | 状态 |
 |---|--------|-------------|-----------------|------|
-| 1 | 帝王斑蝶 | Monarch butterfly | Danaus plexippus | ⏳ Pending |
-| 2 | 家燕 | Barn Swallow | Hirundo rustica | ⏳ Pending |
-| 3 | 大暗雨燕 | Great dusky swift | Cypseloides senex | ⏳ Pending |
-| 4 | 绒啄木鸟 | Downy woodpecker | Dryobates pubescens | ⏳ Pending |
-| 5 | 短尾矮袋鼠 | Quokka | Setonix brachyurus | ⏳ Pending |
-| 6 | 欧洲艾鼬 | European Polecat | Mustela putorius | ⏳ Pending |
-| 7 | 黑足鼬 | Black-footed Ferret | Mustela nigripes | ⏳ Pending |
-| 8 | 巨獭 | Giant Otter | Pteronura brasiliensis | ⏳ Pending |
-| 9 | 小棕蝠 | Little Brown Bat | Myotis lucifugus | ⏳ Pending |
-| 10 | 大棕蝠 | Big Brown Bat | Eptesicus fuscus | ⏳ Pending |
-| 11 | 白翼吸血蝠 | White-winged vampire bat | Diaemus youngi | ⏳ Pending |
-| 12 | 灰头狐蝠 | Grey-headed Flying Fox | Pteropus poliocephalus | ⏳ Pending |
-| 13 | 印度狐蝠 | Indian Flying Fox | Pteropus giganteus | ⏳ Pending |
-| 14 | 美洲乌鸦 | American Crow | Corvus brachyrhynchos | ⏳ Pending |
-| 15 | 渡鸦 | Common Raven | Corvus corax | ⏳ Pending |
-| 16 | 吕氏睑虎 | Chinese Cave Gecko | Goniurosaurus luii | ⏳ Pending |
+| 1 | 欧洲艾鼬 | European Polecat | Mustela putorius | ⏳ Pending |
+| 2 | 黑足鼬 | Black-footed Ferret | Mustela nigripes | ⏳ Pending |
+| 3 | 巨獭 | Giant Otter | Pteronura brasiliensis | ⏳ Pending |
+| 4 | 小棕蝠 | Little Brown Bat | Myotis lucifugus | ⏳ Pending |
+| 5 | 大棕蝠 | Big Brown Bat | Eptesicus fuscus | ⏳ Pending |
+| 6 | 白翼吸血蝠 | White-winged vampire bat | Diaemus youngi | ⏳ Pending |
+| 7 | 灰头狐蝠 | Grey-headed Flying Fox | Pteropus poliocephalus | ⏳ Pending |
+| 8 | 印度狐蝠 | Indian Flying Fox | Pteropus giganteus | ⏳ Pending |
+| 9 | 美洲乌鸦 | American Crow | Corvus brachyrhynchos | ⏳ Pending |
+| 10 | 渡鸦 | Common Raven | Corvus corax | ⏳ Pending |
+| 11 | 吕氏睑虎 | Chinese Cave Gecko | Goniurosaurus luii | ⏳ Pending |

@@ -1,0 +1,98 @@
+{
+  "id": "great-dusky-swift",
+  "name_zh": "大暗雨燕",
+  "name_en": "Great dusky swift",
+  "scientific_name": "Cypseloides senex",
+  "ui_tags": [
+    "Bird",
+    "Rainforest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Apodiformes",
+      "zh": "雨燕目"
+    },
+    "family": {
+      "en": "Apodidae",
+      "zh": "雨燕科"
+    },
+    "genus": {
+      "en": "Cypseloides",
+      "zh": "暗雨燕属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A large swift legendary for repeatedly flying directly through roaring waterfalls to roost safely behind the curtain of water.",
+    "zh": "一种大型雨燕，以其反复径直飞越咆哮的瀑布，在水幕后安全栖息的传奇行为而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The great dusky swift is one of the largest members of the swift family. It possesses an overall drab, dark sooty-brown plumage. The head often appears paler or slightly scaled with grey ('senex' meaning old man, referring to this greyish head). It has extremely long, sickle-shaped wings optimized for continuous flight, and small, specialized feet that are weak for walking but act as powerful grappling hooks, allowing the bird to cling vertically to slippery wet rocks.",
+      "zh": "大暗雨燕是雨燕科中体型最大的成员之一。它拥有整体暗淡深褐色的羽毛。它头部的颜色通常较浅，或带有类似鳞片状的灰色斑纹（学名「senex」意为老人，正是指它灰白的头部）。它极长的镰刀形翅膀专为持续飞行而优化，而其小巧的特化双脚虽不善于行走，却如同强力的抓钩，使这鸟类能垂直攀附在湿滑的岩石上。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are highly gregarious and aerial by nature, spending daylight hours foraging for insects high above the forest canopy. However, their most extreme behavior happens at dusk: massive flocks plunge directly through the heavy, torrential flows of magnificent waterfalls, such as Iguazu Falls. They build their nests out of moss and mud on the rocky ledges directly behind the cascading water. This creates an impenetrable fortress against predators, maintaining a constantly humid micro-climate for their eggs.",
+      "zh": "它们天生高度群居且常在空中活动，白天在森林冠层高空搜寻昆虫。然而，它们最极端的行为发生在黄昏：成群结队的鸟会径直扎进像伊瓜苏瀑布这样壮观且水流湍急的瀑布中。它们利用苔藓和泥土在瀑布水幕后的岩石壁架上筑巢。水幕形成了一座令捕食者无法逾越的堡垒，同时也为鸟蛋维持了持续潮湿的微气候环境。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to central and southeastern South America, including southern Brazil, eastern Paraguay, and northeastern Argentina. Their existence is strictly tied to tropical and subtropical humid forests that feature steep ravines, gorges, and constant, large waterfalls required for their highly specialized breeding strategy.",
+      "zh": "特产于南美洲中南部和东南部，包括巴西南半部、巴拉圭东部和阿根廷东北部。它们的生存严格依赖于热带和亚热带湿润森林，并且这些森林必须具备陡峭的沟壑、峡谷以及它们高度特化的繁殖策略所必需的常年大瀑布。"
+    }
+  },
+  "habitat": {
+    "text_en": "Subtropical Forests and Massive Waterfalls",
+    "text_zh": "亚热带森林与巨大瀑布边缘",
+    "map_coordinates": [
+      -25,
+      -54
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -15,
+          -60
+        ],
+        [
+          -15,
+          -45
+        ],
+        [
+          -25,
+          -45
+        ],
+        [
+          -30,
+          -50
+        ],
+        [
+          -30,
+          -60
+        ],
+        [
+          -15,
+          -60
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/great-dusky-swift.jpg"
+}

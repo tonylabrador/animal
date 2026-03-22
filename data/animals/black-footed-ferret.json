@@ -1,0 +1,138 @@
+{
+  "id": "black-footed-ferret",
+  "name_zh": "黑足鼬",
+  "name_en": "Black-footed Ferret",
+  "scientific_name": "Mustela nigripes",
+  "ui_tags": [
+    "Mammal",
+    "Grassland",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Mustelidae",
+      "zh": "鼬科"
+    },
+    "genus": {
+      "en": "Mustela",
+      "zh": "鼬属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "One of North America's most endangered mammals, whose survival is completely dependent on prairie dogs for both food and underground shelter.",
+    "zh": "北美洲最濒危的哺乳动物之一，其生存无论是在食物还是地下庇护所上都完全依赖于草原犬鼠。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The black-footed ferret has a long, slender, tube-like body specifically adapted for hunting inside the narrow tunnels of prairie dogs. True to its name, its paws are jet black. It sports a tan to yellowish-brown body, a prominent black 'bandit mask' across its face, and a black-tipped tail. Its large eyes are adapted for low-light night vision, and its sharp front teeth are tailored for piercing the thick necks of its large prey.",
+      "zh": "黑足鼬拥有长而修长的管状身体，专门适应在草原犬鼠狭窄的地道内进行狩猎。正如其名，它的四足呈漆黑色。它拥有棕褐色到黄褐色的身体，面部清晰可见黑色的「强盗面纹」，以及带有黑色尖端的尾巴。它的大眼睛适应了低光下的夜视，而且其锋利的门齿专为刺穿其大型猎物粗壮的脖颈而生。"
+    },
+    "ecology_and_behavior": {
+      "en": "It is an extreme dietary specialist: over 90% of its diet consists solely of prairie dogs. Because a prairie dog can be almost the same size as the ferret itself, hunting requires immense ferocity. The ferret stalks sleeping prairie dogs deep inside their dark burrows and dispatches them with a bite to the throat. They do not dig their own burrows; they entirely usurp the massive tunnel towns built by their prey to escape extreme weather and predators.",
+      "zh": "它是一种极端的食性特化动物：其饮食中超过90%完全是草原犬鼠。因为一只草原犬鼠的体型几乎和这只鼬一样大，所以狩猎需要极大的凶猛程度。鼬会在黑暗的洞穴深处跟踪熟睡的草原犬鼠，并通过咬断喉咙来了结它们。它们自己不会挖地洞；它们完全篡夺猎物建造的大型隧道群，借此躲避极端天气和捕食者。"
+    },
+    "habitat_and_distribution": {
+      "en": "Historically widespread across the Great Plains of North America, their population collapsed when extensive agricultural poisoning campaigns nearly eradicated prairie dogs. Once thought to be completely extinct globally, a tiny remnant population of just 18 individuals was discovered by a ranch dog in Wyoming in 1981. Today, thanks to intensive, cloned breeding and reintroduction programs, small fragmented populations exist in parts of the United States, Canada, and Mexico.",
+      "zh": "历史上曾广泛分布于北美大平原，但当大规模的农业投毒运动几乎根除了草原犬鼠时，它们的种群也随之崩溃。一度被认为在全球已经完全灭绝，直到1981年，怀俄明州的一只牧羊犬意外发现了仅存的18只残余种群。如今，得益于密集的、甚至包含克隆技术的繁殖与野化放归计划，它们在美、加、墨等地的部分区域存在着少量高度断裂分布的种群。"
+    }
+  },
+  "habitat": {
+    "text_en": "Shortgrass Prairies and Grasslands",
+    "text_zh": "短草大草原",
+    "map_coordinates": [
+      41,
+      -107
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          44,
+          -107
+        ],
+        [
+          44,
+          -105
+        ],
+        [
+          43,
+          -105
+        ],
+        [
+          43,
+          -107
+        ],
+        [
+          44,
+          -107
+        ]
+      ],
+      [
+        [
+          40,
+          -105
+        ],
+        [
+          40,
+          -103
+        ],
+        [
+          38,
+          -103
+        ],
+        [
+          38,
+          -105
+        ],
+        [
+          40,
+          -105
+        ]
+      ],
+      [
+        [
+          45,
+          -100
+        ],
+        [
+          45,
+          -98
+        ],
+        [
+          43,
+          -98
+        ],
+        [
+          43,
+          -100
+        ],
+        [
+          45,
+          -100
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/black-footed-ferret.jpg"
+}
