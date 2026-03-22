@@ -1,26 +1,26 @@
-# 🚀 Recently Added (最近完成)
+# ✅ Recently Added Animals
 
-> 已经从许愿池成功录入并生成正式数据的动物将在此处存档。
+> Latest additions successfully parsed by the AI pipeline.
 
 | # | 中文名 | English Name | Scientific Name | Link |
 |---|--------|-------------|-----------------|------|
-| 1 | 大天堂鸟 | Greater Bird-of-paradise | Paradisaea apoda | [Link](https://wild-explorer.vercel.app/animal/greater-bird-of-paradise) |
-| 2 | 须钟伞鸟 | Bearded bellbird | Procnias averano | [Link](https://wild-explorer.vercel.app/animal/bearded-bellbird) |
-| 3 | 冠棘蜥 | Indochinese spiky lizard | Acanthosaura coronata | [Link](https://wild-explorer.vercel.app/animal/indochinese-spiky-lizard) |
-| 4 | 中部鬃狮蜥 | Central Bearded dragon | Pogona vitticeps | [Link](https://wild-explorer.vercel.app/animal/central-bearded-dragon) |
-| 5 | 小斑几维鸟 | Little spotted kiwi | Apteryx owenii | [Link](https://wild-explorer.vercel.app/animal/little-spotted-kiwi) |
-| 6 | 帝王斑蝶 | Monarch butterfly | Danaus plexippus | [Link](https://wild-explorer.vercel.app/animal/monarch-butterfly) |
-| 7 | 家燕 | Barn Swallow | Hirundo rustica | [Link](https://wild-explorer.vercel.app/animal/barn-swallow) |
-| 8 | 大暗雨燕 | Great dusky swift | Cypseloides senex | [Link](https://wild-explorer.vercel.app/animal/great-dusky-swift) |
-| 9 | 绒啄木鸟 | Downy woodpecker | Dryobates pubescens | [Link](https://wild-explorer.vercel.app/animal/downy-woodpecker) |
-| 10 | 短尾矮袋鼠 | Quokka | Setonix brachyurus | [Link](https://wild-explorer.vercel.app/animal/quokka) |
-| 11 | 欧洲艾鼬 | European Polecat | Mustela putorius | [Link](https://wild-explorer.vercel.app/animal/european-polecat) |
-| 12 | 黑足鼬 | Black-footed Ferret | Mustela nigripes | [Link](https://wild-explorer.vercel.app/animal/black-footed-ferret) |
-| 13 | 巨獭 | Giant Otter | Pteronura brasiliensis | [Link](https://wild-explorer.vercel.app/animal/giant-otter) |
-| 14 | 小棕蝠 | Little Brown Bat | Myotis lucifugus | [Link](https://wild-explorer.vercel.app/animal/little-brown-bat) |
-| 15 | 大棕蝠 | Big Brown Bat | Eptesicus fuscus | [Link](https://wild-explorer.vercel.app/animal/big-brown-bat) |
-| 16 | 白翼吸血蝠 | White-winged vampire bat | Diaemus youngi | [Link](https://wild-explorer.vercel.app/animal/white-winged-vampire-bat) |
-| 17 | 灰头狐蝠 | Grey-headed Flying Fox | Pteropus poliocephalus | [Link](https://wild-explorer.vercel.app/animal/grey-headed-flying-fox) |
-| 18 | 印度狐蝠 | Indian Flying Fox | Pteropus giganteus | [Link](https://wild-explorer.vercel.app/animal/indian-flying-fox) |
-| 19 | 美洲乌鸦 | American Crow | Corvus brachyrhynchos | [Link](https://wild-explorer.vercel.app/animal/american-crow) |
-| 20 | 渡鸦 | Common Raven | Corvus corax | [Link](https://wild-explorer.vercel.app/animal/common-raven) |
+| 1 | 美洲鹤 | Whooping Crane | Grus americana | [Link](https://wild-explorer.vercel.app/animal/whooping-crane) |
+| 2 | 沙丘鹤 | Sandhill crane | Antigone canadensis | [Link](https://wild-explorer.vercel.app/animal/sandhill-crane) |
+| 3 | 灰鹤 | Common crane | Grus grus | [Link](https://wild-explorer.vercel.app/animal/common-crane) |
+| 4 | 蓑鲉 | Red Lionfish | Pterois volitans | [Link](https://wild-explorer.vercel.app/animal/red-lionfish) |
+| 5 | 黑凤蝶 | Black Swallowtail | Papilio polyxenes | [Link](https://wild-explorer.vercel.app/animal/black-swallowtail) |
+| 6 | 普通野蝗 | Common Field Grasshopper | Chorthippus brunneus | [Link](https://wild-explorer.vercel.app/animal/common-field-grasshopper) |
+| 7 | 睫角守宫 | Eyelash Crested Gecko | Correlophus ciliatus | [Link](https://wild-explorer.vercel.app/animal/eyelash-crested-gecko) |
+| 8 | 豹纹守宫 | Leopard gecko | Eublepharis macularius | [Link](https://wild-explorer.vercel.app/animal/leopard-gecko) |
+| 9 | 黄腹海蛇 | Yellow-bellied Sea Snake | Hydrophis platurus | [Link](https://wild-explorer.vercel.app/animal/yellow-bellied-sea-snake) |
+| 10 | 美洲红松鼠 | American Red Squirrel | Tamiasciurus hudsonicus | [Link](https://wild-explorer.vercel.app/animal/american-red-squirrel) |
+| 11 | 红松鼠 | Red squirrel | Sciurus vulgaris | [Link](https://wild-explorer.vercel.app/animal/red-squirrel) |
+| 12 | 克氏原螯虾 | Red swamp crayfish | Procambarus clarkii | [Link](https://wild-explorer.vercel.app/animal/red-swamp-crayfish) |
+| 13 | 美洲螯龙虾 | American lobster | Homarus americanus | [Link](https://wild-explorer.vercel.app/animal/american-lobster) |
+| 14 | 吕氏睑虎 | Chinese Cave Gecko | Goniurosaurus luii | [Link](https://wild-explorer.vercel.app/animal/chinese-cave-gecko) |
+| 15 | 黑翅土白蚁 | Black-winged Subterranean Termite | Odontotermes formosanus | [Link](https://wild-explorer.vercel.app/animal/black-winged-subterranean-termite) |
+| 16 | 白氏树蛙 | White's Tree Frog | Ranoidea caerulea | [Link](https://wild-explorer.vercel.app/animal/whites-tree-frog) |
+| 17 | 天堂金花蛇 | Paradise tree snake | Chrysopelea paradisi | [Link](https://wild-explorer.vercel.app/animal/paradise-tree-snake) |
+| 18 | 金花蛇 | Golden Tree Snake | Chrysopelea ornata | [Link](https://wild-explorer.vercel.app/animal/golden-tree-snake) |
+| 19 | 大天堂鸟 | Greater Bird-of-paradise | Paradisaea apoda | [Link](https://wild-explorer.vercel.app/animal/greater-bird-of-paradise) |
+| 20 | 须钟伞鸟 | Bearded bellbird | Procnias averano | [Link](https://wild-explorer.vercel.app/animal/bearded-bellbird) |

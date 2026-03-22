@@ -1,0 +1,204 @@
+{
+  "id": "black-swallowtail",
+  "name_zh": "黑凤蝶",
+  "name_en": "Black Swallowtail",
+  "scientific_name": "Papilio polyxenes",
+  "ui_tags": [
+    "Insecta",
+    "Terrestrial",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Insecta",
+      "zh": "昆虫纲"
+    },
+    "order": {
+      "en": "Lepidoptera",
+      "zh": "鳞翅目"
+    },
+    "family": {
+      "en": "Papilionidae",
+      "zh": "凤蝶科"
+    },
+    "genus": {
+      "en": "Papilio",
+      "zh": "凤蝶属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Black Swallowtail (Papilio polyxenes) is a large, iconic butterfly native to North America. It is renowned for its striking sexual dimorphism and its role as a classic example of Batesian mimicry, where the female mimics the toxic Pipevine Swallowtail (Battus philenor) to deter predators. The species is highly adaptable, frequently found in suburban gardens and agricultural fields where its larvae, known as 'parsley worms,' feed on plants in the Apiaceae family. Adults are powerful fliers with a wingspan ranging from 8 to 11 cm, characterized by velvet-black wings adorned with rows of yellow spots and iridescent blue scaling on the hindwings.",
+    "zh": "黑凤蝶（Papilio polyxenes）是北美洲一种大型且极具代表性的蝴蝶。它以显著的雌雄异型和经典的贝氏拟态（Batesian mimicry）而闻名，雌蝶通过模仿有毒的马兜铃凤蝶来躲避捕食者。该物种适应性极强，常见于郊区花园和农田，其幼虫被称为“欧芹虫”，主要取食伞形科植物。成蝶飞行有力，翼展在8至11厘米之间，天鹅绒般的黑色翅膀上点缀着成排的黄色斑点，后翅具有绚丽的蓝色鳞片和明显的尾突。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults possess a black base color on both wing surfaces. Males feature a prominent row of yellow wedge-shaped spots along the wing margins. Females have smaller yellow spots and a much larger area of iridescent blue on the hindwings. A key diagnostic feature is the orange-centered black eyespot located at the inner margin of the hindwing. The larvae are initially bird-dropping mimics but mature into bright green caterpillars with black transverse bands and yellow/orange spots. They possess a unique defensive organ called the osmeterium—a Y-shaped, foul-smelling gland that everted from behind the head when threatened.",
+      "zh": "成蝶翅膀正反面均为黑色基调。雄蝶沿翅缘有一排显著的黄色楔形斑点；雌蝶的黄斑较小，但后翅拥有更大面积的闪烁蓝色区域。一个关键的鉴定特征是后翅内缘带有橙色中心的黑色眼斑。幼虫早期模拟鸟粪，成熟后变为亮绿色，带有黑色横带和黄/橙色斑点。它们拥有独特的防御器官——臭角（osmeterium），这是一种位于头后部的Y形腺体，受威胁时会喷出并散发难闻的气味。"
+    },
+    "ecology_and_behavior": {
+      "en": "The life cycle involves complete metamorphosis. Females lay pale yellow eggs singly on host plants like dill, fennel, and Queen Anne's lace. The species exhibits 'puddling' behavior, where males congregate on moist soil to extract essential minerals. Males are also known for 'hilltopping,' a territorial behavior where they fly to the highest point in the landscape to seek mates. During winter, they diapause as a chrysalis, which can be either green or brown to match the surrounding environment (phenotypic plasticity).",
+      "zh": "其生命周期属于完全变态。雌蝶将淡黄色的卵单独产在莳萝、茴香和野胡萝卜等寄主植物上。该物种表现出“吸水”行为，雄蝶常聚集在潮湿的土壤上摄取必需的矿物质。雄蝶还具有“占山头”（hilltopping）的领地行为，即飞向地势最高处寻找配偶。冬季，它们以蛹的形式进入滞育状态，蛹的颜色可随环境变为绿色或褐色，表现出表型可塑性。"
+    },
+    "habitat_and_distribution": {
+      "en": "Black Swallowtails are found across most of the eastern and midwestern United States, extending north into southern Canada and south through Mexico into Central America. They prefer open areas including meadows, fields, roadsides, and gardens. Unlike many forest-dwelling swallowtails, they thrive in disturbed habitats and human-altered landscapes where their host plants are abundant.",
+      "zh": "黑凤蝶分布于美国东部和中西部的大部分地区，向北延伸至加拿大南部，向南穿过墨西哥进入中美洲。它们偏好开阔地带，包括草甸、田野、路边和花园。与许多栖息在森林中的凤蝶不同，它们在受干扰的生境和人类改造的景观中生长良好，因为这些地方通常有丰富的寄主植物。"
+    }
+  },
+  "habitat": {
+    "text_en": "Open fields, meadows, suburban gardens, and agricultural lands across North and Central America.",
+    "text_zh": "北美和中美洲的开阔田野、草甸、郊区花园及农耕地。",
+    "map_coordinates": [
+      37.0902,
+      -95.7129
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          48.5,
+          -70.5
+        ],
+        [
+          50.2,
+          -80.1
+        ],
+        [
+          51.5,
+          -95.2
+        ],
+        [
+          50.8,
+          -105.5
+        ],
+        [
+          48.2,
+          -115.3
+        ],
+        [
+          45.5,
+          -122.4
+        ],
+        [
+          40.1,
+          -124.2
+        ],
+        [
+          34.5,
+          -120.5
+        ],
+        [
+          31.2,
+          -115.8
+        ],
+        [
+          25.5,
+          -108.2
+        ],
+        [
+          18.2,
+          -100.5
+        ],
+        [
+          14.5,
+          -92.2
+        ],
+        [
+          12.1,
+          -86.5
+        ],
+        [
+          10.5,
+          -83.2
+        ],
+        [
+          15.2,
+          -88.5
+        ],
+        [
+          20.5,
+          -95.2
+        ],
+        [
+          25.8,
+          -97.5
+        ],
+        [
+          28.5,
+          -95.2
+        ],
+        [
+          29.5,
+          -90.5
+        ],
+        [
+          28.2,
+          -82.5
+        ],
+        [
+          25.1,
+          -80.5
+        ],
+        [
+          30.5,
+          -81.2
+        ],
+        [
+          35.2,
+          -75.5
+        ],
+        [
+          40.5,
+          -73.5
+        ],
+        [
+          44.5,
+          -68.2
+        ],
+        [
+          48.5,
+          -70.5
+        ]
+      ],
+      [
+        [
+          32.5,
+          -117.2
+        ],
+        [
+          35.5,
+          -115.5
+        ],
+        [
+          38.2,
+          -110.5
+        ],
+        [
+          35.5,
+          -105.2
+        ],
+        [
+          30.2,
+          -106.5
+        ],
+        [
+          32.5,
+          -117.2
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/black-swallowtail.jpg"
+}

@@ -1,0 +1,184 @@
+{
+  "id": "whooping-crane",
+  "name_zh": "美洲鹤",
+  "name_en": "Whooping Crane",
+  "scientific_name": "Grus americana",
+  "ui_tags": [
+    "鸟纲",
+    "湿地",
+    "杂食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Gruiformes",
+      "zh": "鹤形目"
+    },
+    "family": {
+      "en": "Gruidae",
+      "zh": "鹤科"
+    },
+    "genus": {
+      "en": "Grus",
+      "zh": "鹤属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The Whooping Crane is the tallest bird in North America, standing nearly 1.5 meters tall. It is a symbol of conservation success, having been brought back from the brink of extinction in the 1940s. Known for its snowy white plumage, red crown, and a bugle-like call that can carry for miles, this species is highly specialized for life in expansive wetlands. They are long-lived, monogamous birds that exhibit complex social behaviors and one of the most rigorous migration patterns in the avian world, traveling between the Canadian taiga and the Gulf Coast of Texas.",
+    "zh": "美洲鹤是北美洲最高的鸟类，身高近1.5米。它是生物多样性保护成功的象征，曾在20世纪40年代濒临灭绝。美洲鹤以其雪白的羽毛、鲜红的冠部以及如同号角般响彻数公里的鸣叫声而闻名。该物种高度适应广阔的湿地生活，寿命较长，实行一夫一妻制，并表现出复杂的社交行为。它们拥有鸟类中最艰辛的迁徙路线之一，往返于加拿大泰加林和德克萨斯州墨西哥湾沿岸之间。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are characterized by pure white feathers with black primary wing feathers visible only in flight. The head features a distinctive patch of featherless red skin on the crown and a dark 'mustache' of feathers. Their long, straight bill is dark, and their legs are black. A unique anatomical feature is the trachea, which is up to 1.5 meters long and coiled within the sternum, acting as a resonator for their powerful vocalizations. Juveniles are distinguished by cinnamon-brown plumage which gradually molts into white over their first year.",
+      "zh": "成鸟的特征是纯白色羽毛，仅在飞行时可见黑色的初级飞羽。头部冠部有一块独特的无毛红色皮肤斑块，并带有深色的“胡须”状羽毛。喙部长而直，颜色较深，腿部为黑色。一个独特的解剖学特征是其气管长达1.5米，盘绕在胸骨内，作为其强大发声的共鸣器。幼鸟的特征是肉桂褐色的羽毛，在出生后的第一年内逐渐换羽变为白色。"
+    },
+    "ecology_and_behavior": {
+      "en": "Whooping Cranes are omnivorous, with a diet that shifts seasonally. In their wintering grounds in Texas, they rely heavily on blue crabs and wolfberries. In breeding grounds, they consume insects, small rodents, frogs, and aquatic plants. They are famous for their elaborate courtship dances, which include leaping, wing-flapping, and head-bowing. They typically lay two eggs, but usually only one chick survives. The migration is a learned behavior; young cranes follow their parents or, in reintroduction programs, have been led by ultra-light aircraft to learn the route.",
+      "zh": "美洲鹤是杂食性动物，其食谱随季节变化。在德克萨斯州的越冬地，它们高度依赖蓝蟹和枸杞；在繁殖地，则摄食昆虫、小型啮齿动物、青蛙和水生植物。它们以复杂的求偶舞蹈而闻名，包括跳跃、拍打翅膀和低头鞠躬。通常产下两枚卵，但通常只有一只雏鸟能存活。迁徙是一种学习行为；幼鹤跟随父母迁徙，在人工引入计划中，甚至曾由超轻型飞机引导以学习迁徙路线。"
+    },
+    "habitat_and_distribution": {
+      "en": "The only self-sustaining wild population breeds in the remote marshes of Wood Buffalo National Park in Canada and winters in the salt marshes and tidal flats of Aransas National Wildlife Refuge in Texas. They require large, undisturbed areas of shallow water and wetlands for nesting and foraging. Reintroduced populations have been established in the Eastern United States (Wisconsin to Florida) and Louisiana, though these remain heavily managed. Their survival is closely tied to the availability of freshwater inflows into coastal estuaries.",
+      "zh": "唯一的自我维持野生种群在加拿大伍德布法罗国家公园的偏远沼泽中繁殖，并在德克萨斯州阿兰萨斯国家野生动物保护区的盐碱沼泽和潮汐泥滩越冬。它们需要大面积、不受干扰的浅水区和湿地进行筑巢和觅食。在美东（威斯康星州至佛罗里达州）和路易斯安那州也建立了人工引入种群，但这些种群仍需高度人工管理。它们的生存与流入沿海河口的淡水供应密切相关。"
+    }
+  },
+  "habitat": {
+    "text_en": "Wetlands, marshes, and coastal salt flats.",
+    "text_zh": "湿地、沼泽和沿海盐滩。",
+    "map_coordinates": [
+      45,
+      -100
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          60.95,
+          -114.1
+        ],
+        [
+          60.88,
+          -113.25
+        ],
+        [
+          60.4,
+          -112.6
+        ],
+        [
+          59.9,
+          -112.4
+        ],
+        [
+          59.6,
+          -113.1
+        ],
+        [
+          59.7,
+          -114.15
+        ],
+        [
+          60.25,
+          -114.55
+        ],
+        [
+          60.95,
+          -114.1
+        ]
+      ],
+      [
+        [
+          28.48,
+          -96.78
+        ],
+        [
+          28.38,
+          -96.62
+        ],
+        [
+          28.12,
+          -96.68
+        ],
+        [
+          28.02,
+          -96.88
+        ],
+        [
+          28.08,
+          -97.12
+        ],
+        [
+          28.28,
+          -97.22
+        ],
+        [
+          28.42,
+          -97.05
+        ],
+        [
+          28.48,
+          -96.78
+        ]
+      ],
+      [
+        [
+          44.2,
+          -90.2
+        ],
+        [
+          44.1,
+          -89.9
+        ],
+        [
+          43.8,
+          -89.95
+        ],
+        [
+          43.85,
+          -90.25
+        ],
+        [
+          44.2,
+          -90.2
+        ]
+      ],
+      [
+        [
+          29.95,
+          -92.6
+        ],
+        [
+          29.9,
+          -92.4
+        ],
+        [
+          29.75,
+          -92.45
+        ],
+        [
+          29.78,
+          -92.65
+        ],
+        [
+          29.95,
+          -92.6
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/whooping-crane.jpg"
+}

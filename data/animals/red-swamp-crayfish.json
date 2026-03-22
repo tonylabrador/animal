@@ -1,0 +1,206 @@
+{
+  "id": "red-swamp-crayfish",
+  "name_zh": "克氏原螯虾",
+  "name_en": "Red swamp crayfish",
+  "scientific_name": "Procambarus clarkii",
+  "ui_tags": [
+    "Malacostraca",
+    "Freshwater",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Malacostraca",
+      "zh": "软甲纲"
+    },
+    "order": {
+      "en": "Decapoda",
+      "zh": "十足目"
+    },
+    "family": {
+      "en": "Cambaridae",
+      "zh": "螯虾科"
+    },
+    "genus": {
+      "en": "Procambarus",
+      "zh": "原螯虾属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "Procambarus clarkii, commonly known as the red swamp crayfish or crawfish, is a freshwater decapod crustacean native to the southeastern United States and northern Mexico. It is one of the most adaptable and invasive freshwater species globally, characterized by its dark red coloration, robust tuberculated chelae, and exceptional tolerance for diverse environmental conditions, including low oxygen levels and temporary desiccation. It plays a significant role in both aquaculture and as a biological indicator, though its burrowing behavior often causes ecological and structural damage in non-native regions.",
+    "zh": "克氏原螯虾，俗称小龙虾或红螯虾，是一种原产于美国东南部和墨西哥北部的淡水十足目甲壳动物。它是全球最具适应性和侵略性的入侵物种之一，以其深红色的体色、粗壮且布满颗粒突起的螯足以及对低氧、干旱等极端环境的极强耐受力而著称。该物种在水产养殖中具有极高的经济价值，但在非原产地，其强大的掘洞习性常对水利设施和当地生态系统造成显著破坏。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The adult red swamp crayfish typically reaches 5.5 to 12 centimeters in length. Its body is divided into a fused cephalothorax and a segmented abdomen, encased in a hard, calcified exoskeleton. The primary identifying feature is the dark red to nearly black color of adults, while juveniles are often grey-green. The first pair of walking legs (pereiopods) are modified into large, powerful chelae (claws) which are covered in bright red tubercles. It possesses a long, pointed rostrum and a linear areola on the carapace. Sexual dimorphism is present, with males possessing specialized gonopods on the first two abdominal segments for internal fertilization.",
+      "zh": "成年克氏原螯虾体长通常在5.5至12厘米之间。身体分为由头胸甲覆盖的头胸部和分节的腹部，全身包裹着坚硬的钙化外骨骼。其主要识别特征是成体呈深红色至近乎黑色，而幼体常呈灰绿色。第一对步足特化为巨大的螯足，表面布满鲜红色的颗粒状突起。头胸甲前端有长而尖的额剑，背部具有狭窄的颈沟。该物种具有明显的雌雄异形，雄性腹部前两对附肢特化为交接器，用于体内受精。"
+    },
+    "ecology_and_behavior": {
+      "en": "P. clarkii is an opportunistic omnivore, consuming aquatic plants, detritus, mollusks, insects, and small fish. It is a 'r-strategist' with rapid growth, early sexual maturity, and high fecundity, allowing it to colonize new habitats quickly. One of its most distinctive behaviors is burrowing; it creates complex tunnels up to 1 meter deep to survive dry seasons or cold winters. These burrows provide a microhabitat for other species but can destabilize riverbanks and levees. It is also known for its aggressive territorial behavior and its ability to walk long distances over land during rainy periods to find new water bodies.",
+      "zh": "克氏原螯虾是典型的机会主义杂食动物，摄食水生植物、有机碎屑、软体动物、昆虫及小型鱼类。它属于r-选择策略生物，生长迅速、性成熟早且产卵量大，能迅速占领新栖息地。其最显著的行为是掘洞，在旱季或严冬时会挖掘深达1米的复杂洞穴以维持生存。这些洞穴虽为其他生物提供了微生境，却常导致堤坝和河岸失稳。此外，它具有强烈的领地意识，并能在雨季通过陆地长距离爬行以寻找新水源。"
+    },
+    "habitat_and_distribution": {
+      "en": "Originally native to the Gulf Coast (Louisiana, Texas) and the Mississippi River drainage, it has been introduced to every continent except Antarctica. It thrives in warm, slow-moving freshwater environments such as swamps, marshes, rice paddies, and sluggish rivers. It is particularly successful in disturbed habitats and can tolerate moderate salinity and significant organic pollution. In many regions, including East Asia and Southern Europe, it has established massive wild populations that outcompete native crayfish species and alter local food webs.",
+      "zh": "原产于美国墨西哥湾沿岸（如路易斯安那州、德克萨斯州）及密西西比河流域，现已扩散至除南极洲外的各大洲。它偏好温暖、流速缓慢的淡水环境，如沼泽、湿地、稻田和缓流河段。该物种在受干扰的生境中表现尤为出色，能耐受中度盐度和严重的有机污染。在包括东亚和南欧在内的许多地区，它已建立起庞大的野生种群，竞争性地取代了当地原生螯虾物种，并改变了当地的食物网结构。"
+    }
+  },
+  "habitat": {
+    "text_en": "Freshwater wetlands, swamps, rice paddies, and slow-moving river basins.",
+    "text_zh": "淡水湿地、沼泽、稻田以及流速缓慢的河流流域。",
+    "map_coordinates": [
+      30.4515,
+      -91.1871
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          29.7,
+          -95.3
+        ],
+        [
+          31.2,
+          -94.5
+        ],
+        [
+          32.5,
+          -91.2
+        ],
+        [
+          32,
+          -88.5
+        ],
+        [
+          30.2,
+          -87.5
+        ],
+        [
+          29.1,
+          -89.4
+        ],
+        [
+          28.9,
+          -91.5
+        ],
+        [
+          29.7,
+          -95.3
+        ]
+      ],
+      [
+        [
+          32.5,
+          118.8
+        ],
+        [
+          31.8,
+          121.5
+        ],
+        [
+          30.2,
+          121.2
+        ],
+        [
+          28.5,
+          116.5
+        ],
+        [
+          28.2,
+          113.2
+        ],
+        [
+          30.5,
+          111.8
+        ],
+        [
+          32.8,
+          114.5
+        ],
+        [
+          32.5,
+          118.8
+        ]
+      ],
+      [
+        [
+          36.8,
+          -6.5
+        ],
+        [
+          38.2,
+          -9.2
+        ],
+        [
+          41.5,
+          -8.8
+        ],
+        [
+          42.5,
+          -3.5
+        ],
+        [
+          41.2,
+          1.5
+        ],
+        [
+          37.5,
+          -0.5
+        ],
+        [
+          36.8,
+          -6.5
+        ]
+      ],
+      [
+        [
+          43.5,
+          10.2
+        ],
+        [
+          45.5,
+          12.5
+        ],
+        [
+          45,
+          7.5
+        ],
+        [
+          43.5,
+          10.2
+        ]
+      ],
+      [
+        [
+          34.5,
+          135.5
+        ],
+        [
+          36.2,
+          140.5
+        ],
+        [
+          35.5,
+          139.5
+        ],
+        [
+          34.5,
+          135.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/red-swamp-crayfish.jpg"
+}

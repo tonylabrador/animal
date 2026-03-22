@@ -1,0 +1,252 @@
+{
+  "id": "red-lionfish",
+  "name_zh": "蓑鲉",
+  "name_en": "Red Lionfish",
+  "scientific_name": "Pterois volitans",
+  "ui_tags": [
+    "辐鳍鱼纲",
+    "珊瑚礁",
+    "肉食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "辐鳍鱼纲"
+    },
+    "order": {
+      "en": "Scorpaeniformes",
+      "zh": "鲉形目"
+    },
+    "family": {
+      "en": "Scorpaenidae",
+      "zh": "鲉科"
+    },
+    "genus": {
+      "en": "Pterois",
+      "zh": "蓑鲉属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Red Lionfish (Pterois volitans) is a venomous coral reef fish known for its dramatic appearance and predatory prowess. It features bold, zebra-like vertical stripes in shades of red, white, and dark brown. Its most striking features are the elongated, fan-like pectoral fins and 13 venomous dorsal spines used for defense. Native to the Indo-Pacific, it has become a notorious invasive species in the Western Atlantic and Caribbean, where it lacks natural predators and severely impacts local biodiversity by consuming vast quantities of juvenile reef fish.",
+    "zh": "蓑鲉（Pterois volitans）又称红狮子鱼，是一种极具视觉冲击力的有毒珊瑚礁鱼类。其体表布满红、白、黑褐相间的垂直条纹，形似斑马。最显著的特征是其如折扇般展开的巨大胸鳍，以及背部13根含有剧毒的硬棘。蓑鲉原产于印度洋-太平洋海域，但目前已成为西大西洋和加勒比海地区严重的入侵物种。由于在入侵地缺乏天敌，它们大量捕食当地幼年鱼类，对珊瑚礁生态系统造成了巨大的破坏。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Red Lionfish can grow up to 47 cm in length. It possesses 13 dorsal spines, 3 anal spines, and 2 pelvic spines, all connected to venom glands containing a potent neurotoxin. These spines are primarily defensive. Its large, wing-like pectoral fins are used to corner prey. The fish has a unique bilateral symmetry in its striping pattern, which provides camouflage against the complex backdrop of coral reefs. They also have fleshy tentacles above their eyes and below their mouths, which may help in luring prey or breaking up their silhouette.",
+      "zh": "蓑鲉体长可达47厘米。其背部有13根长棘，臀鳍有3根，腹鳍有2根，这些长棘均连接毒腺，分泌强烈的神经毒素，主要用于防御。其巨大的胸鳍呈扇形展开，常被用来将猎物驱赶至死角。蓑鲉的条纹具有独特的双侧对称性，使其在复杂的珊瑚礁背景中具有极佳的伪装效果。此外，其眼上方和口下方长有肉质触须，可能用于诱捕猎物或模糊自身轮廓。"
+    },
+    "ecology_and_behavior": {
+      "en": "Lionfish are primarily nocturnal hunters, though they are active during the day in some environments. They employ a 'suction feeding' technique, rapidly expanding their buccal cavity to swallow prey whole. They are known to use their pectoral fins to 'herd' small fish and crustaceans. Reproduction is rapid; a single female can release up to 2 million eggs per year, which are dispersed by ocean currents. In their invasive range, they have been observed to reduce native fish populations by up to 90% on some reefs.",
+      "zh": "蓑鲉主要是夜间猎手，但在某些环境下白天也十分活跃。它们采用“吸入式捕食”技术，通过迅速扩张口腔产生负压将猎物整口吞下。它们还会利用宽大的胸鳍像围栏一样“驱赶”小鱼和甲壳类动物。其繁殖速度惊人，一只雌鱼每年可产下多达200万枚卵，这些卵随洋流漂散。在入侵海域，据观察，它们在某些礁石区能使当地鱼类种群数量减少高达90%。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to the Indo-Pacific region, ranging from Western Australia and Malaysia east to French Polynesia and the Pitcairn Islands, and north to southern Japan and southern Korea. However, they have successfully invaded the Western Atlantic, from Rhode Island down to Brazil, including the entire Gulf of Mexico and Caribbean Sea. They inhabit coral reefs, rocky crevices, and lagoons from the surface down to depths of 300 meters, showing remarkable adaptability to different salinities and temperatures.",
+      "zh": "原产于印太地区，范围从西澳大利亚和马来西亚向东延伸至法属波利尼西亚和皮特凯恩群岛，北至日本南部和韩国南部。然而，它们已成功入侵西大西洋，范围从美国的罗德岛一直延伸到巴西，包括整个墨西哥湾和加勒比海。它们栖息在珊瑚礁、岩石缝隙和泻湖中，分布深度从水面到300米深处不等，对不同盐度和温度表现出极强的适应性。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical and subtropical marine waters, specifically coral reefs and rocky substrates.",
+    "text_zh": "热带和亚热带海域，特别是珊瑚礁和岩石基质环境。",
+    "map_coordinates": [
+      15,
+      120
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          35.2,
+          139.8
+        ],
+        [
+          32.5,
+          130.2
+        ],
+        [
+          25.1,
+          121.5
+        ],
+        [
+          22.3,
+          114.2
+        ],
+        [
+          15.5,
+          108.5
+        ],
+        [
+          10.2,
+          103.8
+        ],
+        [
+          1.3,
+          103.8
+        ],
+        [
+          -8.5,
+          115.2
+        ],
+        [
+          -12.4,
+          130.8
+        ],
+        [
+          -20.2,
+          148.5
+        ],
+        [
+          -33.8,
+          151.2
+        ],
+        [
+          -38,
+          145
+        ],
+        [
+          -32,
+          115.8
+        ],
+        [
+          -20,
+          114
+        ],
+        [
+          -10,
+          120
+        ],
+        [
+          0,
+          130
+        ],
+        [
+          10,
+          145
+        ],
+        [
+          20,
+          160
+        ],
+        [
+          15,
+          175
+        ],
+        [
+          -10,
+          -160
+        ],
+        [
+          -25,
+          -140
+        ],
+        [
+          -15,
+          -150
+        ],
+        [
+          5,
+          160
+        ],
+        [
+          25,
+          150
+        ],
+        [
+          35.2,
+          139.8
+        ]
+      ],
+      [
+        [
+          41.5,
+          -71
+        ],
+        [
+          35,
+          -75.5
+        ],
+        [
+          28,
+          -80.5
+        ],
+        [
+          25,
+          -80.2
+        ],
+        [
+          25,
+          -97
+        ],
+        [
+          20,
+          -97
+        ],
+        [
+          18.5,
+          -88
+        ],
+        [
+          10,
+          -83
+        ],
+        [
+          8.5,
+          -77
+        ],
+        [
+          11,
+          -65
+        ],
+        [
+          5,
+          -50
+        ],
+        [
+          -5,
+          -35
+        ],
+        [
+          -15,
+          -38
+        ],
+        [
+          -23,
+          -43
+        ],
+        [
+          0,
+          -45
+        ],
+        [
+          15,
+          -60
+        ],
+        [
+          25,
+          -75
+        ],
+        [
+          32,
+          -78
+        ],
+        [
+          41.5,
+          -71
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/red-lionfish.jpg"
+}

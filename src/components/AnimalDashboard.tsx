@@ -251,7 +251,14 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
           </div>
 
           {/* Center Text */}
-          <div className="text-center flex-1 max-w-2xl mx-auto lg:pt-4">
+          <div className="text-center flex-1 max-w-2xl mx-auto lg:pt-4 flex flex-col items-center">
+            
+            {/* Bilingual Learning Badge */}
+            <div className="inline-flex items-center gap-2 px-3.5 py-1.5 mb-3 lg:mb-4 rounded-full bg-gradient-to-r from-indigo-50 to-violet-50 text-indigo-700 text-[11px] sm:text-sm font-bold shadow-sm border border-indigo-100/50">
+              <span className="text-sm sm:text-base leading-none">📖</span>
+              <span>{lang === "en" ? "Explore Animals while Learning Mandarin!" : "中英双语-探索动物学习英文！"}</span>
+            </div>
+
             <h1 className={`${lang === 'en' ? 'text-3xl sm:text-4xl lg:text-[42px]' : 'text-4xl sm:text-5xl'} font-extrabold text-slate-800 tracking-tight leading-tight`}>
               {lang === "en" ? (
                 <>

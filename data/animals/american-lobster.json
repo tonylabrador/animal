@@ -1,0 +1,210 @@
+{
+  "id": "american-lobster",
+  "name_zh": "美洲螯龙虾",
+  "name_en": "American lobster",
+  "scientific_name": "Homarus americanus",
+  "ui_tags": [
+    "软甲纲",
+    "海洋生物",
+    "肉食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Malacostraca",
+      "zh": "软甲纲"
+    },
+    "order": {
+      "en": "Decapoda",
+      "zh": "十足目"
+    },
+    "family": {
+      "en": "Nephropidae",
+      "zh": "海螯虾科"
+    },
+    "genus": {
+      "en": "Homarus",
+      "zh": "螯龙虾属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The American lobster is a species of lobster found on the Atlantic coast of North America. It is the heaviest crustacean in the world, reaching weights of up to 20 kilograms (44 lb). Known for its large, powerful claws, it typically has a dark bluish-green to brownish-olive color, which turns bright red only when cooked. They are long-lived organisms, with some individuals estimated to be over 100 years old. They possess a complex life cycle involving multiple larval stages before settling on the ocean floor as juveniles.",
+    "zh": "美洲螯龙虾，常被称为波士顿龙虾或缅因龙虾，是分布于北美大西洋沿岸的一种大型甲壳动物。它是世界上最重的甲壳类动物，最大体重可达20公斤。其显著特征是一对巨大的、不对称的螯足：一只为较厚重的“碎壳螯”，另一只为较锋利的“撕裂螯”。其体色通常呈深蓝绿色至褐橄榄色，只有在烹饪加热后才会变为鲜红色。美洲螯龙虾寿命极长，部分个体估计可活超过100年，其生长过程伴随着多次复杂的蜕壳阶段。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The body consists of a cephalothorax and a segmented abdomen. It features two large chelae (claws): the 'crusher' claw has rounded nodules for breaking shells, while the 'seizer' or 'cutter' claw has sharp teeth for tearing flesh. Their blood is blue due to the presence of hemocyanin, which contains copper. They possess compound eyes on stalks, though they rely more heavily on their two pairs of antennae for chemoreception and tactile sensing in the dark depths.",
+      "zh": "身体由头胸部和分节的腹部组成。最引人注目的是其不对称的双螯：“碎螯”拥有圆钝的突起，用于粉碎贝壳；“剪螯”则拥有锐利的齿状结构，用于撕裂猎物。由于血液中含有含铜的血蓝蛋白，其血液呈蓝色。它们拥有带柄的复眼，但在深海黑暗环境中，主要依靠两对触角进行化学感受和触觉感知。"
+    },
+    "ecology_and_behavior": {
+      "en": "American lobsters are primarily nocturnal and solitary. They are opportunistic scavengers and predators, feeding on fish, mollusks, other crustaceans, and sometimes plant life. Cannibalism can occur in high-density environments. They undergo ecdysis (molting) to grow, a vulnerable period where they hide in crevices. They are known for long-distance seasonal migrations, moving to deeper, warmer waters in winter and returning to shallower coastal areas in summer for spawning.",
+      "zh": "美洲螯龙虾主要在夜间活动，具有强烈的领地意识和独居倾向。它们是机会主义的捕食者和食腐动物，食物包括鱼类、软体动物、其他甲壳类，有时也摄食海藻。在高密度环境下可能出现同类相食现象。为了生长，它们必须经历蜕壳过程，蜕壳期间身体极度脆弱，通常躲藏在岩石缝隙中。它们具有季节性迁徙习性，冬季移向较深且温暖的海域，夏季则回到浅海沿岸产卵。"
+    },
+    "habitat_and_distribution": {
+      "en": "They thrive in cold, rocky coastal waters at depths ranging from the intertidal zone down to 480 meters, though they are most common between 4 and 50 meters. Their range extends from Labrador in Canada south to Cape Hatteras in North Carolina. They prefer substrates that provide ample hiding spots, such as rocky reefs, eelgrass beds, and muddy bottoms where they can excavate burrows.",
+      "zh": "它们栖息在寒冷的岩石沿岸海域，分布深度从潮间带一直延伸到水下480米，但在4至50米深度最为常见。其分布范围北起加拿大的拉布拉多，南至美国北卡罗来纳州的哈特拉斯角。它们偏好具有充足躲避空间的底质，如岩礁、大叶藻床以及可以挖掘洞穴的泥沙质海底。"
+    }
+  },
+  "habitat": {
+    "text_en": "Northwest Atlantic Ocean, from subarctic waters to temperate coastal shelves.",
+    "text_zh": "西北大西洋，从亚寒带海域到温带大陆架沿岸。",
+    "map_coordinates": [
+      43.65,
+      -70.25
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          53.5,
+          -55.8
+        ],
+        [
+          52,
+          -54
+        ],
+        [
+          49,
+          -52.5
+        ],
+        [
+          46.5,
+          -53
+        ],
+        [
+          46,
+          -56
+        ],
+        [
+          47.5,
+          -59.5
+        ],
+        [
+          50.5,
+          -58
+        ],
+        [
+          51.5,
+          -57
+        ],
+        [
+          50,
+          -65
+        ],
+        [
+          48.5,
+          -69
+        ],
+        [
+          47.5,
+          -70.5
+        ],
+        [
+          46.5,
+          -68
+        ],
+        [
+          45.5,
+          -64
+        ],
+        [
+          46.5,
+          -60
+        ],
+        [
+          44.5,
+          -59
+        ],
+        [
+          43,
+          -65
+        ],
+        [
+          44.5,
+          -67.5
+        ],
+        [
+          43.5,
+          -70
+        ],
+        [
+          41.5,
+          -70.5
+        ],
+        [
+          41,
+          -72
+        ],
+        [
+          40.5,
+          -74
+        ],
+        [
+          39,
+          -74.5
+        ],
+        [
+          37.5,
+          -75.5
+        ],
+        [
+          35.5,
+          -75.5
+        ],
+        [
+          35,
+          -75
+        ],
+        [
+          36.5,
+          -74
+        ],
+        [
+          38.5,
+          -73
+        ],
+        [
+          40,
+          -70
+        ],
+        [
+          41.5,
+          -67
+        ],
+        [
+          43,
+          -63
+        ],
+        [
+          44,
+          -58
+        ],
+        [
+          46,
+          -52
+        ],
+        [
+          50,
+          -48
+        ],
+        [
+          53.5,
+          -55.8
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/american-lobster.jpg"
+}

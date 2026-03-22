@@ -1,0 +1,224 @@
+{
+  "id": "american-red-squirrel",
+  "name_zh": "美洲红松鼠",
+  "name_en": "American Red Squirrel",
+  "scientific_name": "Tamiasciurus hudsonicus",
+  "ui_tags": [
+    "哺乳纲",
+    "森林",
+    "植食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Rodentia",
+      "zh": "啮齿目"
+    },
+    "family": {
+      "en": "Sciuridae",
+      "zh": "松鼠科"
+    },
+    "genus": {
+      "en": "Tamiasciurus",
+      "zh": "美洲红松鼠属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The American red squirrel is a small, diurnal tree squirrel characterized by its reddish fur, white underparts, and distinctive white eye rings. Unlike the larger Eastern gray squirrel, it is highly territorial and known for its aggressive 'rattle' calls. It plays a critical role in North American coniferous ecosystems as a primary consumer of conifer seeds and a key architect of 'middens'—massive piles of discarded cone scales that serve as multi-generational food caches and micro-habitats for other species.",
+    "zh": "美洲红松鼠是一种小型、昼行性的树松鼠，以其红褐色的背毛、洁白的腹部和明显的白色眼圈为特征。与体型较大的灰松鼠不同，美洲红松鼠具有极强的领地意识，并以其响亮的“嘎嘎”报警声著称。它们在北美针叶林生态系统中扮演着至关重要的角色，不仅是针叶树种子的主要消费者，还是“堆肥堆”（middens）的建造者——这些由球果鳞片堆积而成的巨大储藏库不仅是它们的跨代粮仓，也为其他物种提供了微型栖息地。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults typically measure 28–35 cm in length including the tail. Their coat undergoes seasonal changes: in summer, a prominent black lateral line separates the reddish-brown back from the white belly; in winter, this line fades and they develop small ear tufts. Their hind legs are powerful, adapted for rapid vertical climbing and leaping between branches. Their incisors are open-rooted, growing continuously throughout their life to compensate for the wear caused by gnawing hard conifer cones.",
+      "zh": "成年个体体长通常在28-35厘米之间（含尾长）。其被毛随季节变化：夏季，一条明显的黑色侧线将红褐色的背部与白色的腹部分隔开；冬季侧线消失，耳尖会长出小簇毛。其后肢强健，适应于快速垂直攀爬和在树枝间跳跃。门齿为开根式，终生持续生长，以补偿啃咬坚硬针叶球果造成的磨损。"
+    },
+    "ecology_and_behavior": {
+      "en": "Red squirrels are solitary and fiercely defend a territory of 0.5 to 1.5 hectares. Their diet is dominated by seeds from conifer cones (spruce, pine, fir), but they also consume mushrooms (which they hang on branches to dry), berries, and occasionally bird eggs. A defining behavior is the creation of 'middens', which can be several meters wide and deep, providing the cool, moist environment necessary to keep conifer seeds viable for years. They are also known to tap maple trees to drink the sap.",
+      "zh": "红松鼠营独居生活，并激烈捍卫0.5至1.5公顷的领地。其食谱以针叶树种子（云杉、松树、冷杉）为主，但也食用真菌（它们会将蘑菇挂在树枝上晾干）、浆果，偶尔捕食鸟蛋。其标志性行为是建造“堆肥堆”，这些堆积物可达数米宽深，为保持种子活性提供了必要的阴凉潮湿环境。它们还被观察到会凿开枫树皮以饮用树汁。"
+    },
+    "habitat_and_distribution": {
+      "en": "Widely distributed across North America, from the tree line in Alaska and Canada south through the Rocky Mountains and the Appalachians. They are primarily found in coniferous forests, though they inhabit mixed forests in the southern parts of their range. They prefer dense stands with mature cone-producing trees, utilizing tree cavities or 'dreys' (nests made of twigs and moss) for shelter and raising young.",
+      "zh": "广泛分布于北美洲，从阿拉斯加和加拿大的林线向南延伸至落基山脉和阿巴拉契亚山脉。它们主要栖息在针叶林中，但在分布区南部也出没于针阔混交林。它们偏好拥有成熟产果树木的茂密林分，利用树洞或“树巢”（由细枝和苔藓筑成）进行庇护和育雏。"
+    }
+  },
+  "habitat": {
+    "text_en": "Boreal and montane coniferous forests across North America.",
+    "text_zh": "遍布北美的北方针叶林及山地针叶林。",
+    "map_coordinates": [
+      55,
+      -105
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          70.5,
+          -165
+        ],
+        [
+          71.5,
+          -155
+        ],
+        [
+          70,
+          -140
+        ],
+        [
+          68,
+          -120
+        ],
+        [
+          65,
+          -100
+        ],
+        [
+          60,
+          -80
+        ],
+        [
+          58,
+          -65
+        ],
+        [
+          52,
+          -55
+        ],
+        [
+          48,
+          -52
+        ],
+        [
+          44,
+          -65
+        ],
+        [
+          40,
+          -74
+        ],
+        [
+          36,
+          -82
+        ],
+        [
+          34,
+          -85
+        ],
+        [
+          35.5,
+          -87
+        ],
+        [
+          40,
+          -88
+        ],
+        [
+          43,
+          -90
+        ],
+        [
+          45,
+          -95
+        ],
+        [
+          48,
+          -102
+        ],
+        [
+          45,
+          -105
+        ],
+        [
+          40,
+          -105
+        ],
+        [
+          35,
+          -106
+        ],
+        [
+          32,
+          -108
+        ],
+        [
+          31.5,
+          -110
+        ],
+        [
+          34,
+          -112
+        ],
+        [
+          38,
+          -112
+        ],
+        [
+          42,
+          -115
+        ],
+        [
+          45,
+          -122
+        ],
+        [
+          49,
+          -125
+        ],
+        [
+          55,
+          -132
+        ],
+        [
+          60,
+          -145
+        ],
+        [
+          64,
+          -160
+        ],
+        [
+          70.5,
+          -165
+        ]
+      ],
+      [
+        [
+          38,
+          -120
+        ],
+        [
+          36,
+          -118
+        ],
+        [
+          35,
+          -120
+        ],
+        [
+          37,
+          -122
+        ],
+        [
+          38,
+          -120
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/american-red-squirrel.jpg"
+}

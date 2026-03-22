@@ -1,0 +1,288 @@
+{
+  "id": "black-winged-subterranean-termite",
+  "name_zh": "黑翅土白蚁",
+  "name_en": "Black-winged Subterranean Termite",
+  "scientific_name": "Odontotermes formosanus",
+  "ui_tags": [
+    "Insecta",
+    "Subterranean",
+    "Fungivorous"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Insecta",
+      "zh": "昆虫纲"
+    },
+    "order": {
+      "en": "Blattodea",
+      "zh": "蜚蠊目"
+    },
+    "family": {
+      "en": "Termitidae",
+      "zh": "白蚁科"
+    },
+    "genus": {
+      "en": "Odontotermes",
+      "zh": "土白蚁属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "Odontotermes formosanus is a highly eusocial, fungus-growing termite species native to East and Southeast Asia. It is characterized by its complex underground nesting systems and its obligate mutualistic relationship with fungi of the genus Termitomyces. The species is notorious for its impact on hydraulic engineering, as its extensive tunneling can lead to the catastrophic failure of earthen dams and river embankments. During the late spring and early summer, winged reproductives (alates) emerge in massive swarms, typically following heavy rainfall, to establish new colonies.",
+    "zh": "黑翅土白蚁是一种高度社会化的土栖性白蚁，广泛分布于东亚和东南亚。该物种以其复杂的地下巢穴系统以及与鸡枞菌属（Termitomyces）真菌的专性互利共生关系而闻名。它们在地下修筑菌圃，通过真菌分解纤维素以获取营养。在工程地质领域，黑翅土白蚁被视为严重的害虫，其深达数米的地下通道和巨大的主巢常导致水库大坝和江河堤防发生管涌甚至溃决，即俗语所云“千里之堤，溃于蚁穴”。每年4-6月雨后傍晚，有翅成虫会进行大规模的分飞（婚飞）以建立新群体。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The species exhibits distinct polymorphism. Workers are pale and wingless, responsible for foraging and nest maintenance. Soldiers possess a reddish-brown head with powerful, asymmetrical mandibles used for defense. The alates (winged reproductives) are dark brown to black with two pairs of long, smoky-gray wings that are shed after the nuptial flight. The queen, in mature colonies, undergoes physogastrism, where her abdomen distends significantly to accommodate massive egg production, reaching several centimeters in length.",
+      "zh": "该物种具有明显的品级多态性。工蚁体色较浅，无翅，负责筑巢、采食和抚育；兵蚁头部呈红褐色，拥有强壮且不对称的颚部，用于防御外敌。有翅成虫（长翅繁殖蚁）体色深褐至黑色，拥有两对烟灰色的长翅，分飞后翅膀脱落。成熟群体的蚁后会出现“腹部膨大现象”，腹部可延伸至数厘米长，以维持巨大的产卵量。"
+    },
+    "ecology_and_behavior": {
+      "en": "Odontotermes formosanus is a 'higher termite' that cultivates fungal gardens. They collect wood, dry grass, and other cellulosic materials, which are partially digested and then excreted to form a substrate for Termitomyces fungi. The termites then feed on the nutrient-rich fungal nodules (mycotetes). Their social structure is governed by complex pheromone signaling. They are sensitive to soil moisture and temperature, constructing 'mud tubes' to protect themselves from desiccation and predators while foraging above ground.",
+      "zh": "黑翅土白蚁属于“高等白蚁”，具有培植真菌的行为。它们采集木材、枯草等含纤维素的物质，经半消化后排出形成菌圃基质，供鸡枞菌生长。白蚁随后取食菌圃上富含营养的菌球体。其社会结构受复杂的激素信号调节。它们对土壤湿度和温度高度敏感，在地面活动时会修筑“泥被”或“泥线”以防止水分散失并躲避捕食者。"
+    },
+    "habitat_and_distribution": {
+      "en": "This species thrives in humid subtropical and tropical environments. It is commonly found in forests, orchards, and particularly in the soil of earthen embankments. Its distribution covers Southern China (south of the Yangtze River), Taiwan, Southern Japan (Ryukyu Islands), Vietnam, and Thailand. They prefer well-drained loamy soils where they can excavate deep primary chambers, sometimes reaching depths of 1 to 3 meters below the surface.",
+      "zh": "该物种在温暖潮湿的亚热带和热带环境中繁衍。常见于森林、果园，尤其偏好土质堤坝的土壤环境。其分布范围涵盖中国南方（长江以南各省）、台湾、日本南部（琉球群岛）、越南和泰国。它们倾向于选择排水良好的壤土，主巢通常位于地下1至3米深处，以维持稳定的温湿度。"
+    }
+  },
+  "habitat": {
+    "text_en": "Subtropical forests, grasslands, and hydraulic structures in East/Southeast Asia.",
+    "text_zh": "东亚及东南亚的亚热带森林、草地及水利工程设施。",
+    "map_coordinates": [
+      23.1291,
+      113.2644
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          32.5,
+          118.5
+        ],
+        [
+          32,
+          121
+        ],
+        [
+          31,
+          122.5
+        ],
+        [
+          29.5,
+          122.5
+        ],
+        [
+          28,
+          121.5
+        ],
+        [
+          26.5,
+          120.5
+        ],
+        [
+          25,
+          119.5
+        ],
+        [
+          23.5,
+          117.5
+        ],
+        [
+          22.5,
+          115.5
+        ],
+        [
+          22,
+          114
+        ],
+        [
+          21.5,
+          112.5
+        ],
+        [
+          21,
+          110.5
+        ],
+        [
+          20,
+          110
+        ],
+        [
+          19,
+          108.5
+        ],
+        [
+          18.2,
+          109.5
+        ],
+        [
+          19,
+          111
+        ],
+        [
+          20.5,
+          111
+        ],
+        [
+          21.5,
+          108.5
+        ],
+        [
+          21,
+          107
+        ],
+        [
+          20,
+          106
+        ],
+        [
+          18.5,
+          105.5
+        ],
+        [
+          17,
+          106.5
+        ],
+        [
+          16,
+          107.5
+        ],
+        [
+          16.5,
+          104.5
+        ],
+        [
+          18.5,
+          103.5
+        ],
+        [
+          20.5,
+          102.5
+        ],
+        [
+          22.5,
+          100.5
+        ],
+        [
+          24.5,
+          98.5
+        ],
+        [
+          26.5,
+          99.5
+        ],
+        [
+          28.5,
+          102.5
+        ],
+        [
+          30.5,
+          104.5
+        ],
+        [
+          31.5,
+          107.5
+        ],
+        [
+          32.5,
+          111.5
+        ],
+        [
+          33.5,
+          115.5
+        ],
+        [
+          32.5,
+          118.5
+        ]
+      ],
+      [
+        [
+          25.3,
+          121.5
+        ],
+        [
+          25,
+          122
+        ],
+        [
+          24,
+          121.8
+        ],
+        [
+          23,
+          121.4
+        ],
+        [
+          22,
+          120.8
+        ],
+        [
+          22.3,
+          120.2
+        ],
+        [
+          23.5,
+          120.1
+        ],
+        [
+          24.5,
+          120.5
+        ],
+        [
+          25.3,
+          121.5
+        ]
+      ],
+      [
+        [
+          28.5,
+          129.5
+        ],
+        [
+          28,
+          130
+        ],
+        [
+          27.5,
+          129
+        ],
+        [
+          28.5,
+          129.5
+        ]
+      ],
+      [
+        [
+          26.5,
+          128
+        ],
+        [
+          26,
+          128.3
+        ],
+        [
+          26,
+          127.5
+        ],
+        [
+          26.5,
+          128
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/black-winged-subterranean-termite.jpg"
+}

@@ -1,0 +1,158 @@
+{
+  "id": "eyelash-crested-gecko",
+  "name_zh": "睫角守宫",
+  "name_en": "Eyelash Crested Gecko",
+  "scientific_name": "Correlophus ciliatus",
+  "ui_tags": [
+    "爬行纲",
+    "热带雨林",
+    "杂食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Diplodactylidae",
+      "zh": "澳虎科"
+    },
+    "genus": {
+      "en": "Correlophus",
+      "zh": "睫角守宫属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The Eyelash Crested Gecko (Correlophus ciliatus) is a remarkable species of gecko native to southern New Caledonia. Once thought to be extinct since its initial discovery in 1866, it was sensationally rediscovered in 1994 following a tropical storm. It is characterized by the hair-like projections (cilia) found above the eyes and running down the sides of its wedge-shaped head to the base of the tail. These geckos are primarily nocturnal and arboreal, spending their days hiding in dense foliage and emerging at night to forage. They are unique among geckos for their inability to regrow their prehensile tails once lost (caudal autotomy).",
+    "zh": "睫角守宫（Correlophus ciliatus）是原产于新喀里多尼亚南部的一种奇特壁虎。该物种自1866年被发现后曾长期被认为已经灭绝，直到1994年在一场热带风暴后才被重新发现。其最显著的特征是眼睛上方延伸至背部两侧的睫毛状肉质突起（纤毛）。它们是典型的夜行性树栖动物，白天躲藏在茂密的植被中，夜晚出来觅食。睫角守宫在壁虎中非常特殊，因为它们的抓握尾一旦因自割而断落，便无法像其他壁虎那样重新再生。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "C. ciliatus possesses a wedge-shaped head with prominent supraciliary scales. They lack eyelids and use their long, spatulate tongues to clear debris and provide moisture to the eyes. Their limbs end in specialized toe pads covered in millions of microscopic hairs called setae, allowing them to climb smooth vertical surfaces via van der Waals forces. Their prehensile tail features a small adhesive pad at the tip to assist in climbing, though it is fragile and does not regenerate.",
+      "zh": "睫角守宫拥有楔形的头部和显著的眼上鳞片。它们没有眼睑，依靠长而宽的舌头舔舐眼球以清除杂物并保持湿润。四肢末端拥有特化的趾垫，覆盖着数以百万计的微小刚毛（setae），利用范德华力在光滑的垂直表面行走。其抓握尾末端有一个微小的粘附垫辅助攀爬，但尾部极其脆弱，断裂后不会再生。"
+    },
+    "ecology_and_behavior": {
+      "en": "As an omnivorous species, its diet consists of both insects and various fruits or floral nectars. In the wild, they are crucial seed dispersers within their fragile island ecosystem. They are solitary and territorial, especially males. Reproduction involves laying clutches of two eggs, which hatch after 60-90 days depending on temperature. Interestingly, unlike many other reptiles, the sex of crested geckos is not determined by incubation temperature.",
+      "zh": "作为杂食性物种，它们的食物包括昆虫、各种水果及花蜜。在野外，它们是脆弱岛屿生态系统中重要的种子传播者。睫角守宫具有独居性和领地意识，尤其是雄性。繁殖方式为卵生，通常每窝产两枚卵，孵化期根据温度在60至90天之间。有趣的是，与许多爬行动物不同，睫角守宫的性别并不受孵化温度的影响。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the South Province of New Caledonia, they inhabit primary and secondary lowland rainforests. They prefer areas with high humidity and moderate temperatures, typically found at elevations between sea level and 400 meters. Their distribution is highly fragmented, limited to three distinct populations: one on the Isle of Pines and surrounding islets, and two on the main island of Grande Terre.",
+      "zh": "作为新喀里多尼亚南部的特有种，它们栖息在原生和次生的低地热带雨林中。它们偏好高湿度和温和气温的环境，通常分布在海拔0至400米之间。其野外分布高度碎片化，仅限于三个独立的种群：一个位于松树岛（Isle of Pines）及其周边小岛，另外两个位于大特雷岛（Grande Terre）主岛。"
+    }
+  },
+  "habitat": {
+    "text_en": "Lowland tropical rainforests of New Caledonia, characterized by high humidity and dense canopy cover.",
+    "text_zh": "新喀里多尼亚的低地热带雨林，以高湿度和茂密的林冠层为特征。",
+    "map_coordinates": [
+      -22.27,
+      166.45
+    ],
+    "map_zoom_level": 8,
+    "global_distribution_polygons": [
+      [
+        [
+          -22.15,
+          166.35
+        ],
+        [
+          -22.05,
+          166.55
+        ],
+        [
+          -22.15,
+          166.85
+        ],
+        [
+          -22.35,
+          167.05
+        ],
+        [
+          -22.55,
+          166.95
+        ],
+        [
+          -22.45,
+          166.65
+        ],
+        [
+          -22.25,
+          166.35
+        ],
+        [
+          -22.15,
+          166.35
+        ]
+      ],
+      [
+        [
+          -22.52,
+          167.38
+        ],
+        [
+          -22.48,
+          167.52
+        ],
+        [
+          -22.62,
+          167.65
+        ],
+        [
+          -22.75,
+          167.55
+        ],
+        [
+          -22.72,
+          167.42
+        ],
+        [
+          -22.52,
+          167.38
+        ]
+      ],
+      [
+        [
+          -21.15,
+          165.35
+        ],
+        [
+          -21.05,
+          165.45
+        ],
+        [
+          -21.18,
+          165.65
+        ],
+        [
+          -21.35,
+          165.55
+        ],
+        [
+          -21.25,
+          165.35
+        ],
+        [
+          -21.15,
+          165.35
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/eyelash-crested-gecko.jpg"
+}

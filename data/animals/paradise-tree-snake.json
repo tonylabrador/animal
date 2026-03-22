@@ -1,0 +1,214 @@
+{
+  "id": "paradise-tree-snake",
+  "name_zh": "天堂金花蛇",
+  "name_en": "Paradise tree snake",
+  "scientific_name": "Chrysopelea paradisi",
+  "ui_tags": [
+    "Reptilia",
+    "Rainforest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Colubridae",
+      "zh": "游蛇科"
+    },
+    "genus": {
+      "en": "Chrysopelea",
+      "zh": "金花蛇属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Paradise tree snake is a renowned 'flying snake' native to the tropical rainforests of Southeast Asia. It is famous for its extraordinary ability to glide through the air by flattening its body into a concave wing-shape, effectively turning itself into a pseudo-airfoil. This allows it to travel distances of up to 100 meters between trees. It is a slender, diurnal species with striking coloration, typically featuring black scales with vibrant green centers and red or orange spots along the spine.",
+    "zh": "天堂金花蛇是原产于东南亚热带雨林的著名“飞蛇”。它以惊人的滑翔能力闻名，通过收缩腹部使身体呈凹陷的半圆柱状，将自己变成一个伪机翼结构，从而在树木之间滑翔长达100米的距离。这是一种细长的日行性蛇类，体色鲜艳，通常在黑色鳞片中心带有亮绿色斑点，脊柱线上分布有红色或橙色的斑块。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The snake possesses specialized ventral scales that provide traction for vertical climbing on tree bark. During flight, it rotates its ribs forward and upward, doubling its body width and creating a concave underside that generates lift. Its coloration is highly cryptic in the canopy, consisting of black-edged scales with lime-green or yellow centers, often punctuated by a row of red 'flower' spots along the vertebral line.",
+      "zh": "这种蛇拥有专门的腹鳞，为在树皮上垂直攀爬提供抓地力。在飞行过程中，它会将肋骨向前和向上转动，使身体宽度增加一倍，并形成一个产生升力的凹陷腹面。其体色在树冠层中具有极佳的伪装性，由黑边的淡绿色或黄色鳞片组成，脊柱线上常点缀着一排红色的“花朵状”斑点。"
+    },
+    "ecology_and_behavior": {
+      "en": "Primarily arboreal and diurnal, this snake is an active hunter that feeds on lizards (especially geckos), bats, and small birds. Its gliding is not just for travel but also a primary escape mechanism. Despite being mildly venomous (opisthoglyphous), its venom is specialized for small prey and is considered harmless to humans. It is oviparous, laying small clutches of eggs in tree hollows.",
+      "zh": "主要营树栖和日行性生活，是一种活跃的捕食者，以蜥蜴（尤其是壁虎）、蝙蝠和小型鸟类为食。其滑翔不仅用于移动，也是主要的逃生机制。尽管具有微毒（后沟牙），但其毒液专门针对小型猎物，对人类无害。它是卵生动物，在树洞中产下少量的卵。"
+    },
+    "habitat_and_distribution": {
+      "en": "It is widely distributed across Southeast Asia, including Thailand, Malaysia, Singapore, Indonesia, and the Philippines. It thrives in primary and secondary rainforests but is remarkably adaptable, frequently found in suburban gardens, parks, and coconut plantations where its primary prey is abundant.",
+      "zh": "广泛分布于东南亚，包括泰国、马来西亚、新加坡、印度尼西亚和菲律宾。它在原生和次生雨林中繁衍生息，但适应能力极强，经常出现在郊区花园、公园和椰子林中，因为这些地方有丰富的猎物。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical rainforests, mangroves, and urban gardens across Southeast Asia.",
+    "text_zh": "东南亚的热带雨林、红树林和城市花园。",
+    "map_coordinates": [
+      4.2105,
+      101.9758
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          20.4,
+          97.5
+        ],
+        [
+          18.2,
+          105.1
+        ],
+        [
+          11.5,
+          109.3
+        ],
+        [
+          1.2,
+          104.5
+        ],
+        [
+          1.3,
+          100.2
+        ],
+        [
+          6.5,
+          99.5
+        ],
+        [
+          13.8,
+          100.5
+        ],
+        [
+          20.4,
+          97.5
+        ]
+      ],
+      [
+        [
+          5.8,
+          95.3
+        ],
+        [
+          2.5,
+          99.5
+        ],
+        [
+          -5.9,
+          106
+        ],
+        [
+          -5.5,
+          102
+        ],
+        [
+          0.1,
+          97.2
+        ],
+        [
+          5.8,
+          95.3
+        ]
+      ],
+      [
+        [
+          7.3,
+          116.8
+        ],
+        [
+          5.2,
+          119.3
+        ],
+        [
+          -3.1,
+          116.5
+        ],
+        [
+          -4.2,
+          111.2
+        ],
+        [
+          2.1,
+          109.1
+        ],
+        [
+          7.3,
+          116.8
+        ]
+      ],
+      [
+        [
+          -5.9,
+          105.2
+        ],
+        [
+          -8.7,
+          114.5
+        ],
+        [
+          -8.2,
+          115.2
+        ],
+        [
+          -6.1,
+          106.8
+        ],
+        [
+          -5.9,
+          105.2
+        ]
+      ],
+      [
+        [
+          18.5,
+          120.8
+        ],
+        [
+          16.2,
+          122.5
+        ],
+        [
+          12.5,
+          125.8
+        ],
+        [
+          6.1,
+          126.2
+        ],
+        [
+          5.8,
+          121.5
+        ],
+        [
+          9.5,
+          117.5
+        ],
+        [
+          14.5,
+          120.2
+        ],
+        [
+          18.5,
+          120.8
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/paradise-tree-snake.jpg"
+}

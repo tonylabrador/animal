@@ -1,0 +1,236 @@
+{
+  "id": "whites-tree-frog",
+  "name_zh": "白氏树蛙",
+  "name_en": "White's Tree Frog",
+  "scientific_name": "Ranoidea caerulea",
+  "ui_tags": [
+    "Amphibia",
+    "Tropical",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Amphibia",
+      "zh": "两栖纲"
+    },
+    "order": {
+      "en": "Anura",
+      "zh": "无尾目"
+    },
+    "family": {
+      "en": "Pelodryadidae",
+      "zh": "雨滨蛙科"
+    },
+    "genus": {
+      "en": "Ranoidea",
+      "zh": "雨滨蛙属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "White's tree frog, also known as the dumpy tree frog, is one of the most iconic amphibians of the Australasian region. Reaching up to 10 cm in length, it is distinguished by its robust, fleshy appearance and remarkably docile temperament. Its skin possesses a thick, waxy cuticle that functions as a physiological adaptation to prevent desiccation, allowing it to survive in more arid environments than most other frogs. The coloration is typically a vivid leaf-green or teal, though it can shift to grayish-brown depending on temperature and surroundings. They are famous for their 'smiling' facial expression and the large, adhesive toe pads that allow them to scale smooth vertical surfaces with ease.",
+    "zh": "白氏树蛙，又称老爷树蛙或绿雨滨蛙，是澳新界最具代表性的两栖动物之一。其体长可达10厘米，以其粗壮、肉感的外观和极其温顺的性格而闻名。其皮肤拥有一层厚厚的蜡质角质层，这是一种防止水分蒸发的生理适应，使其能在比大多数蛙类更干燥的环境中生存。体色通常为鲜艳的叶绿色或青绿色，但会根据温度和环境改变为灰褐色。它们因其酷似“微笑”的面部表情以及巨大的吸盘状趾垫而闻名，这使得它们能轻松攀爬光滑的垂直表面。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The anatomy of Ranoidea caerulea is specialized for an arboreal, sit-and-wait predatory lifestyle. It features a broad, blunt head with a large mouth capable of swallowing relatively large prey. A prominent fatty ridge, known as the supratympanic fold, extends from the eye to the shoulder, often giving older individuals a 'dumpy' look. Their skin contains large parotoid glands that secrete caeruleins—peptides with potent antimicrobial and antiviral properties, which are currently being researched for pharmacological applications. The eyes possess horizontal pupils, providing a wide field of vision for nocturnal hunting.",
+      "zh": "白氏树蛙的解剖结构专门适应树栖和伏击捕食的生活方式。它拥有宽阔圆钝的头部和大嘴，能够吞下相对较大的猎物。从眼睛延伸到肩膀的显著脂肪褶皱（鼓膜上褶）使年长的个体看起来非常臃肿。它们的皮肤含有发达的腮腺，能分泌雨滨蛙肽（caeruleins），这是一种具有强效抗菌和抗病毒特性的肽类物质，目前正处于药理学研究中。其眼睛具有水平瞳孔，为夜间狩猎提供了广阔的视野。"
+    },
+    "ecology_and_behavior": {
+      "en": "Primarily nocturnal, White's tree frogs emerge at night to hunt. They are opportunistic carnivores, feeding on a diet of insects, spiders, and occasionally small vertebrates like lizards or other frogs. Unlike many amphibians that require constant high humidity, this species is remarkably drought-tolerant. During the breeding season (summer), males congregate near water sources and emit a deep, repetitive 'crawk-crawk-crawk' call to attract females. They are exceptionally long-lived for frogs, with some captive individuals reaching over 20 years of age.",
+      "zh": "白氏树蛙主要在夜间活动。它们是机会主义肉食动物，以昆虫、蜘蛛为食，偶尔也会捕食蜥蜴或其他蛙类等小型脊椎动物。与许多需要持续高湿度的两栖动物不同，该物种具有显著的耐旱性。在夏季繁殖季节，雄性会聚集在水源附近，发出低沉且重复的“呱-呱-呱”鸣叫声以吸引雌性。在蛙类中，它们的寿命异常长，部分人工饲养个体的寿命可超过20年。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to northern and eastern Australia and southern New Guinea, they occupy a diverse range of habitats including tropical rainforests, sclerophyll forests, and even semi-arid grasslands. They have successfully adapted to human-modified landscapes, frequently inhabiting suburban gardens, bathrooms, and water tanks where moisture is available. Their distribution is limited by temperature and seasonal rainfall patterns, favoring regions with distinct wet and dry seasons.",
+      "zh": "原产于澳大利亚北部、东部以及新几内亚南部，占据了包括热带雨林、硬叶林甚至半干旱草原在内的多种栖息地。它们成功适应了人类改变的地貌，经常栖息在郊区花园、浴室和水箱等有水源的地方。其分布受温度和季节性降雨模式的限制，偏好有明显旱季和雨季的地区。"
+    }
+  },
+  "habitat": {
+    "text_en": "Found across the northern and eastern reaches of Australia and parts of New Guinea, inhabiting tree hollows and rock crevices near water.",
+    "text_zh": "分布于澳大利亚北部、东部及新几内亚部分地区，栖息在靠近水源的树洞和岩石缝隙中。",
+    "map_coordinates": [
+      -19.4769,
+      142.1035
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -15.5,
+          124
+        ],
+        [
+          -13.8,
+          126.5
+        ],
+        [
+          -14.2,
+          128.8
+        ],
+        [
+          -12.5,
+          130.5
+        ],
+        [
+          -11.2,
+          132
+        ],
+        [
+          -11,
+          134.5
+        ],
+        [
+          -11.8,
+          136.8
+        ],
+        [
+          -14.5,
+          135.5
+        ],
+        [
+          -16,
+          137.5
+        ],
+        [
+          -17.5,
+          139.5
+        ],
+        [
+          -15,
+          141.5
+        ],
+        [
+          -11.5,
+          142.2
+        ],
+        [
+          -10.6,
+          142.5
+        ],
+        [
+          -12.5,
+          143.5
+        ],
+        [
+          -15.5,
+          145.3
+        ],
+        [
+          -18.5,
+          146.5
+        ],
+        [
+          -21.5,
+          149.5
+        ],
+        [
+          -25,
+          153.2
+        ],
+        [
+          -28.5,
+          153.6
+        ],
+        [
+          -32.5,
+          152.5
+        ],
+        [
+          -35.5,
+          150.5
+        ],
+        [
+          -37.5,
+          149.8
+        ],
+        [
+          -36.5,
+          147
+        ],
+        [
+          -34.5,
+          144.5
+        ],
+        [
+          -31.5,
+          142
+        ],
+        [
+          -27.5,
+          140.5
+        ],
+        [
+          -23.5,
+          138.5
+        ],
+        [
+          -19.5,
+          135.5
+        ],
+        [
+          -17.5,
+          130.5
+        ],
+        [
+          -15.5,
+          124
+        ]
+      ],
+      [
+        [
+          -8.2,
+          140.5
+        ],
+        [
+          -7.5,
+          142
+        ],
+        [
+          -7.2,
+          144.5
+        ],
+        [
+          -8.5,
+          147.5
+        ],
+        [
+          -10.2,
+          150.5
+        ],
+        [
+          -10.8,
+          149.5
+        ],
+        [
+          -9.5,
+          146
+        ],
+        [
+          -8.8,
+          143
+        ],
+        [
+          -9.2,
+          141
+        ],
+        [
+          -8.2,
+          140.5
+        ]
+      ]
+    ]
+  },
+  "image": null
+}

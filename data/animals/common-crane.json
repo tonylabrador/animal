@@ -1,0 +1,266 @@
+{
+  "id": "common-crane",
+  "name_zh": "灰鹤",
+  "name_en": "Common crane",
+  "scientific_name": "Grus grus",
+  "ui_tags": [
+    "鸟纲",
+    "湿地",
+    "杂食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Gruiformes",
+      "zh": "鹤形目"
+    },
+    "family": {
+      "en": "Gruidae",
+      "zh": "鹤科"
+    },
+    "genus": {
+      "en": "Grus",
+      "zh": "鹤属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Common Crane is a large, stately bird and the only member of the crane family naturally occurring in northern Europe. Standing up to 130 cm tall with a wingspan reaching 240 cm, it is characterized by its slate-grey plumage, a blackish throat and face, and a distinctive white stripe stretching from behind the eye to the upper back. Adults feature a small, vibrant red patch of bare skin on the crown. They are renowned for their loud, trumpeting calls, enabled by an elongated, coiled trachea, and their elaborate 'dancing' displays which involve leaping, bowing, and throwing vegetation into the air. As a highly migratory species, they travel in massive V-formations across continents.",
+    "zh": "灰鹤是一种体型巨大、姿态优雅的涉禽，是唯一在北欧自然分布的鹤类。其体长可达130厘米，翼展可达240厘米。全身羽毛主要呈石板灰色，喉部和面部为黑色，一条醒目的白色条纹从眼后延伸至颈背。成年灰鹤头顶有一块鲜红色的裸露皮肤。灰鹤以其响亮的如喇叭般的鸣叫声而闻名，这得益于其胸骨内长而卷曲的气管。它们拥有复杂的“舞蹈”行为，包括跳跃、鞠躬和向空中抛掷植物。作为典型的迁徙鸟类，它们常以巨大的“V”字形编队跨越大陆飞行。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Common Crane possesses a robust yet slender build. Its most striking feature is the 'bustle'—a cluster of elongated, drooping inner secondary feathers that cover the tail when the bird is standing. The beak is straight and powerful, adapted for probing soil and grasping prey. The long, black legs are designed for wading through shallow wetlands. Internally, the trachea is exceptionally long and coiled within the sternum, acting as a resonator for their powerful vocalizations that can be heard from kilometers away.",
+      "zh": "灰鹤体型健硕而修长。其最显著的特征是“假尾”，即在站立时覆盖在尾部的一簇细长、下垂的内侧次级飞羽。喙部笔直有力，适合挖掘土壤和捕捉猎物。长而黑的腿部适应于在浅水湿地中行走。在内部构造上，其气管极长且在胸骨内卷曲，起到共鸣箱的作用，使其鸣叫声在数公里外清晰可闻。"
+    },
+    "ecology_and_behavior": {
+      "en": "Common Cranes are highly social and monogamous, often forming lifelong pair bonds. Their diet is omnivorous, shifting seasonally: during the breeding season, they consume insects, frogs, and small rodents, while during migration and wintering, they rely heavily on waste grain, tubers, and berries. Their 'dance' is not limited to courtship; it serves as a social bonding mechanism and a way to reduce aggression within the flock. They are extremely wary and usually feed in open areas with high visibility to detect predators like foxes or eagles.",
+      "zh": "灰鹤具有高度的社会性，实行一夫一妻制，通常形成终身的配偶关系。它们的食性为杂食性，并随季节变化：在繁殖季节，它们捕食昆虫、青蛙和小食肉动物；而在迁徙和越冬期间，则主要依赖残茬谷物、块茎和浆果。它们的“舞蹈”不仅限于求偶，还作为一种社会纽带机制和减少群内攻击的方式。灰鹤极其警觉，通常在视野开阔的露天区域觅食，以便及时发现狐狸或猛禽等天敌。"
+    },
+    "habitat_and_distribution": {
+      "en": "This species has a vast range across the Palearctic. It breeds in extensive wetlands, bogs, and swampy forests across Northern and Eastern Europe, Scandinavia, and Northern Asia. During winter, they migrate to warmer regions including the Iberian Peninsula, North Africa, the Middle East, the Indian subcontinent, and Southern China. They prefer open landscapes for wintering, such as flooded grasslands, agricultural fields, and shallow lakeside marshes.",
+      "zh": "该物种在古北界拥有广阔的分布范围。它们在北欧、东欧、斯堪的纳维亚半岛和北亚的大片湿地、泥炭沼泽和森林沼泽中繁殖。冬季，它们迁徙到较温暖的地区，包括伊比利亚半岛、北非、中东、印度次大陆和中国南方。越冬时，它们偏好开阔的景观，如淹水的草地、农田和浅水湖泊沼泽。"
+    }
+  },
+  "habitat": {
+    "text_en": "Breeds in boreal and temperate wetlands; winters in agricultural lands and shallow marshes.",
+    "text_zh": "繁殖于北方森林和温带湿地；越冬于农田和浅水沼泽。",
+    "map_coordinates": [
+      52,
+      45
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          70.5,
+          15
+        ],
+        [
+          71.2,
+          30
+        ],
+        [
+          70.8,
+          60
+        ],
+        [
+          68.5,
+          90
+        ],
+        [
+          69.2,
+          120
+        ],
+        [
+          65.5,
+          150
+        ],
+        [
+          60.2,
+          160
+        ],
+        [
+          55,
+          145
+        ],
+        [
+          50.5,
+          130
+        ],
+        [
+          52,
+          100
+        ],
+        [
+          55.5,
+          70
+        ],
+        [
+          58.2,
+          40
+        ],
+        [
+          62.5,
+          20
+        ],
+        [
+          68,
+          10
+        ]
+      ],
+      [
+        [
+          45.2,
+          -5.5
+        ],
+        [
+          48.5,
+          5
+        ],
+        [
+          52,
+          15
+        ],
+        [
+          55.5,
+          25
+        ],
+        [
+          50,
+          35
+        ],
+        [
+          45,
+          30
+        ],
+        [
+          40.5,
+          20
+        ],
+        [
+          38.2,
+          5
+        ],
+        [
+          42,
+          -8
+        ]
+      ],
+      [
+        [
+          36.5,
+          -10.2
+        ],
+        [
+          38,
+          0
+        ],
+        [
+          35.5,
+          10.5
+        ],
+        [
+          32,
+          12
+        ],
+        [
+          30.5,
+          5
+        ],
+        [
+          32.2,
+          -8.5
+        ]
+      ],
+      [
+        [
+          32.5,
+          34
+        ],
+        [
+          35.2,
+          45
+        ],
+        [
+          33,
+          55
+        ],
+        [
+          28.5,
+          65
+        ],
+        [
+          22,
+          70
+        ],
+        [
+          18.5,
+          75
+        ],
+        [
+          22.5,
+          85
+        ],
+        [
+          28,
+          80
+        ],
+        [
+          31.5,
+          70
+        ],
+        [
+          34,
+          50
+        ]
+      ],
+      [
+        [
+          40.5,
+          115
+        ],
+        [
+          35.2,
+          122
+        ],
+        [
+          28.5,
+          121
+        ],
+        [
+          22,
+          115
+        ],
+        [
+          23.5,
+          105
+        ],
+        [
+          28.2,
+          100
+        ],
+        [
+          35,
+          105
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/common-crane.jpg"
+}

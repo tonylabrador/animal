@@ -1,0 +1,138 @@
+{
+  "id": "chinese-cave-gecko",
+  "name_zh": "吕氏睑虎",
+  "name_en": "Chinese Cave Gecko",
+  "scientific_name": "Goniurosaurus luii",
+  "ui_tags": [
+    "Reptilia",
+    "Karst",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Eublepharidae",
+      "zh": "睑虎科"
+    },
+    "genus": {
+      "en": "Goniurosaurus",
+      "zh": "睑虎属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "Goniurosaurus luii, the Chinese Cave Gecko, is a primitive and visually striking lizard endemic to the karst landscapes of Southern China and Northern Vietnam. Unlike typical geckos, it belongs to the Eublepharidae family, characterized by the presence of movable eyelids and the absence of adhesive toe pads. It features a slender, dark purple-brown body adorned with four to five vibrant yellow or orange transverse bands and piercing red irises. This species is a relict lineage, highly specialized for life in the high-humidity microclimates of limestone crevices, making it an important bioindicator for karst ecosystem health.",
+    "zh": "吕氏睑虎是一种原始且极具视觉冲击力的蜥蜴，特产于中国南部及越南北部的喀斯特地貌中。与普通壁虎不同，它隶属于睑虎科，拥有可活动的眼睑且指趾末端缺乏攀附吸盘。其体态修长，背部呈深紫褐色，点缀着4至5条鲜艳的黄色或橙色横向色带，并拥有一双深红色的虹膜。作为一种残遗物种，吕氏睑虎高度特化于石灰岩缝隙中高湿度的微气候环境，是喀斯特生态系统健康程度的重要指示物种。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Chinese Cave Gecko possesses a slender, elongated body and a tail that can be autotomized and regenerated. Its skin is covered in fine granular scales interspersed with larger, prominent tubercles. Most notably, it lacks the subdigital lamellae (sticky pads) found in other geckos, instead utilizing long, slender toes equipped with sharp claws to navigate the rugged surfaces of limestone. Its eyes are large with vertical pupils, adapted for low-light conditions, and are protected by functional eyelids.",
+      "zh": "吕氏睑虎体型修长，尾部具有自断与再生能力。全身覆盖着细小的粒鳞，并散布着较大的疣鳞。最显著的解剖特征是其指、趾末端不具攀附用的皮褶（吸盘），而是依靠细长且具强力爪的指趾在崎岖的石灰岩表面攀爬。其眼睛巨大，具有适应弱光环境的垂直缝状瞳孔，并受可活动的眼睑保护。"
+    },
+    "ecology_and_behavior": {
+      "en": "Strictly nocturnal and highly stenotopic, this gecko emerges from deep limestone crevices at night to hunt. It is an opportunistic insectivore, preying on various arthropods such as crickets, spiders, and beetles. It requires a very specific microhabitat with high humidity (80-90%) and stable temperatures. During the breeding season, females typically lay two leathery-shelled eggs. They are known for their slow movement but can be surprisingly agile when escaping predators within their rocky labyrinth.",
+      "zh": "该物种为严格的夜行性动物，且具有高度的狭域分布特性，仅在夜间从深邃的石灰岩缝隙中爬出活动。它们是机会主义的食虫动物，捕食蟋蟀、蜘蛛和甲虫等各种节肢动物。其生存极度依赖于湿度保持在80-90%且温度稳定的特定微生境。在繁殖季节，雌性通常产下两枚革质卵。它们平时行动缓慢，但在岩石迷宫中逃避捕食者时却异常敏捷。"
+    },
+    "habitat_and_distribution": {
+      "en": "Its distribution is restricted to the karst limestone formations of southwestern Guangxi (notably Longzhou and Pingxiang counties) in China and the adjacent Cao Bang province in Vietnam. The habitat consists of primary or secondary tropical and subtropical forests growing on limestone hills. These areas are characterized by complex cave systems and deep rock fissures. The species is currently threatened by habitat destruction and illegal collection for the international exotic pet trade.",
+      "zh": "其分布局限于中国广西西南部（特别是龙州县和凭祥市）以及毗邻的越南高平省的喀斯特石灰岩地区。栖息地主要由石灰岩山地上的原生或次生热带、亚热带森林组成。这些区域以复杂的洞穴系统和深邃的岩石裂缝为特征。目前，该物种正面临栖息地破坏以及国际奇特宠物贸易非法采集的严重威胁。"
+    }
+  },
+  "habitat": {
+    "text_en": "Karst limestone forests and cave entrances in the border regions of China and Vietnam.",
+    "text_zh": "中越边境地区的喀斯特石灰岩森林及洞穴入口。",
+    "map_coordinates": [
+      22.5833,
+      106.75
+    ],
+    "map_zoom_level": 8,
+    "global_distribution_polygons": [
+      [
+        [
+          22.15,
+          106.4
+        ],
+        [
+          22.28,
+          106.25
+        ],
+        [
+          22.45,
+          106.15
+        ],
+        [
+          22.62,
+          106.1
+        ],
+        [
+          22.78,
+          106.22
+        ],
+        [
+          22.92,
+          106.45
+        ],
+        [
+          23.05,
+          106.75
+        ],
+        [
+          23.15,
+          107.05
+        ],
+        [
+          23.12,
+          107.3
+        ],
+        [
+          22.98,
+          107.45
+        ],
+        [
+          22.8,
+          107.5
+        ],
+        [
+          22.65,
+          107.35
+        ],
+        [
+          22.48,
+          107.15
+        ],
+        [
+          22.3,
+          106.95
+        ],
+        [
+          22.18,
+          106.7
+        ],
+        [
+          22.15,
+          106.4
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/chinese-cave-gecko.jpg"
+}

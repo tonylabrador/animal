@@ -1,0 +1,168 @@
+{
+  "id": "leopard-gecko",
+  "name_zh": "豹纹守宫",
+  "name_en": "Leopard gecko",
+  "scientific_name": "Eublepharis macularius",
+  "ui_tags": [
+    "爬行纲",
+    "荒漠",
+    "食虫性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Eublepharidae",
+      "zh": "睑虎科"
+    },
+    "genus": {
+      "en": "Eublepharis",
+      "zh": "拟睑虎属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Leopard gecko is a crepuscular, ground-dwelling lizard native to the rocky dry grasslands and desert regions of South Asia. Unlike most geckos, members of the Eublepharidae family possess movable eyelids and lack adhesive toe pads (lamellae), meaning they cannot climb smooth vertical surfaces. They are characterized by their robust build, bumpy skin covered in small tubercles, and a thick, carrot-shaped tail used for fat storage. In the wild, they exhibit a yellow base color with numerous dark brown or black spots, providing excellent camouflage against sandy and rocky substrates.",
+    "zh": "豹纹守宫是一种原产于南亚岩石干旱草原和荒漠地带的晨昏性地栖蜥蜴。与大多数壁虎不同，睑虎科成员拥有可移动的眼睑，且脚趾末端缺乏吸盘（皮褶），因此无法在光滑的垂直表面攀爬。它们体型粗壮，皮肤表面布满细小的颗粒状突起，拥有肥大的“胡萝卜状”尾部用于储存脂肪以备不时之需。野生个体通常呈现黄色底色并布满深褐色或黑色斑点，这种体色在沙石环境中提供了极佳的伪装保护。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults typically reach 20–28 cm in length. Their most distinctive anatomical feature is the presence of functional eyelids, allowing them to blink and sleep with closed eyes. Their skin is exceptionally tough and covered in small bumps called tubercles. The tail is a critical survival organ; it stores metabolic fat and can be autotomized (dropped) if the gecko is grabbed by a predator, later regenerating but with a different appearance. Their eyes have vertical pupils that expand in low light to enhance nocturnal vision.",
+      "zh": "成年个体体长通常在20至28厘米之间。其最显著的解剖特征是拥有功能性眼睑，能够眨眼并闭眼睡觉。皮肤异常坚韧，覆盖着被称为“结节”的小突起。尾部是关键的生存器官，不仅储存代谢脂肪，在受到捕食者攻击时还能通过“自割”脱落以逃生，随后会再生，但外观会变得更加圆钝。它们的眼睛具有垂直瞳孔，在光线昏暗时会扩大以增强夜视能力。"
+    },
+    "ecology_and_behavior": {
+      "en": "Leopard geckos are primarily crepuscular, being most active during dawn and dusk to avoid the extreme heat of the day. They are strict insectivores, preying on crickets, beetles, and scorpions. They exhibit temperature-dependent sex determination (TSD): eggs incubated at lower temperatures (around 26°C) predominantly produce females, while higher temperatures (around 32°C) produce males. They are known to be relatively vocal, producing squeaking or barking sounds when threatened or during social interactions.",
+      "zh": "豹纹守宫主要在晨昏时段活动，以避开白天的极端高温。它们是严格的食虫动物，捕食蟋蟀、甲虫甚至蝎子。该物种表现出温度依赖型性别决定（TSD）：在较低温度（约26°C）下孵化的卵多为雌性，而在较高温度（约32°C）下则多为雄性。它们具有一定的发声能力，在受到威胁或进行社交互动时会发出吱吱声或类似吠叫的声音。"
+    },
+    "habitat_and_distribution": {
+      "en": "Their natural range extends across the arid regions of Afghanistan, Pakistan, northwest India, and parts of Iran. They prefer rocky deserts, sparse grasslands, and scrub forests rather than shifting sand dunes. They spend the day hiding in deep crevices or under rocks to maintain hydration and regulate body temperature. Their habitat is characterized by significant seasonal temperature fluctuations, ranging from intense summer heat to near-freezing winter nights.",
+      "zh": "其自然分布范围横跨阿富汗、巴基斯坦、印度西北部以及伊朗部分地区的干旱地带。它们更倾向于栖息在岩石荒漠、稀疏草原和灌木丛林中，而非流动的沙丘。白天它们躲藏在深邃的岩缝或岩石下方，以保持水分并调节体温。其栖息地具有显著的季节性温差，从酷热的夏季到接近冰点的冬季夜晚不等。"
+    }
+  },
+  "habitat": {
+    "text_en": "Arid rocky deserts and dry scrublands of South Asia.",
+    "text_zh": "南亚的干旱岩石荒漠和干燥灌木丛。",
+    "map_coordinates": [
+      28.5,
+      68.5
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          25.1,
+          61.2
+        ],
+        [
+          26.5,
+          59.8
+        ],
+        [
+          28.2,
+          59.5
+        ],
+        [
+          30.5,
+          61
+        ],
+        [
+          32.8,
+          62.5
+        ],
+        [
+          34.5,
+          65
+        ],
+        [
+          35.8,
+          69.2
+        ],
+        [
+          34.5,
+          72.5
+        ],
+        [
+          33,
+          74.5
+        ],
+        [
+          31.5,
+          76
+        ],
+        [
+          28.5,
+          77.5
+        ],
+        [
+          26,
+          76.5
+        ],
+        [
+          23.5,
+          73.5
+        ],
+        [
+          22.8,
+          70.5
+        ],
+        [
+          23.5,
+          68.5
+        ],
+        [
+          24.8,
+          66.5
+        ],
+        [
+          25.1,
+          61.2
+        ]
+      ],
+      [
+        [
+          34.2,
+          61.5
+        ],
+        [
+          35.5,
+          63.8
+        ],
+        [
+          36.5,
+          67.5
+        ],
+        [
+          35,
+          69.5
+        ],
+        [
+          33.5,
+          67
+        ],
+        [
+          34.2,
+          61.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/leopard-gecko.jpg"
+}

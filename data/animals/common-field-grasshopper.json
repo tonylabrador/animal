@@ -1,0 +1,160 @@
+{
+  "id": "common-field-grasshopper",
+  "name_zh": "普通野蝗",
+  "name_en": "Common Field Grasshopper",
+  "scientific_name": "Chorthippus brunneus",
+  "ui_tags": [
+    "昆虫纲",
+    "草地",
+    "植食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Insecta",
+      "zh": "昆虫纲"
+    },
+    "order": {
+      "en": "Orthoptera",
+      "zh": "直翅目"
+    },
+    "family": {
+      "en": "Acrididae",
+      "zh": "蝗科"
+    },
+    "genus": {
+      "en": "Chorthippus",
+      "zh": "雏蝗属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "Chorthippus brunneus, commonly known as the common field grasshopper, is a highly adaptable orthopteran widespread across the Palearctic. It is characterized by its extreme color polymorphism, ranging from mottled brown and grey to vibrant green or even purple, which serves as effective camouflage against diverse substrates. Measuring between 14-25mm, it is best known for the male's distinct 'song'—a series of rapid, harsh chirps produced by stridulation. This species is a pioneer colonizer of dry, sparsely vegetated habitats and is a key indicator of grassland biodiversity.",
+    "zh": "普通野蝗（Chorthippus brunneus）是一种适应力极强的直翅目昆虫，广泛分布于古北界。该物种具有显著的体色多态性，颜色从斑驳的棕色、灰色到鲜艳的绿色甚至紫色不等，这为其在不同基质上提供了极佳的伪装。其体长通常在14至25毫米之间，最为人所知的是雄性发出的独特“鸣声”——通过后腿与前翅摩擦产生的一系列短促、粗糙的摩擦音。普通野蝗是干燥、植被稀疏生境的先锋定居者，也是草地生物多样性的重要指示物种。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The common field grasshopper features a robust body with a relatively straight pronotum (mid-section) and a distinct keel. Its hind legs are highly developed for jumping, with a row of microscopic pegs on the inner femur used for stridulation against the thickened veins of the forewings. The wings are fully developed, extending beyond the tip of the abdomen, enabling strong flight. The tympanum (hearing organ) is located on the first abdominal segment, protected by a small flap.",
+      "zh": "普通野蝗身体强健，前胸背板相对较直且具有明显的隆线。其后足高度发达，适于跳跃，股节内侧有一排微小的摩擦齿，用于与前翅加厚的翅脉摩擦发声。翅膀发育完全，长度超过腹部末端，具备较强的飞行能力。听器（鼓膜）位于第一腹节两侧，由一个小皮褶保护。"
+    },
+    "ecology_and_behavior": {
+      "en": "This species is strictly diurnal and thermophilic, requiring direct sunlight to reach optimal activity levels. Males are highly territorial and use their song to attract females and deter rivals; the song consists of 5-12 short chirps at intervals of about 2 seconds. They are generalist herbivores, feeding on a variety of grasses (Poaceae). The life cycle is univoltine, with eggs laid in dry soil during late summer, overwintering as embryos, and hatching in late spring.",
+      "zh": "该物种为典型的昼行性且喜温昆虫，需要直接阳光照射以达到最佳活动水平。雄性具有领地意识，通过鸣叫吸引雌性并驱逐竞争对手；其鸣声由5-12个短促的摩擦音组成，间隔约2秒。它们是广食性植食动物，取食多种禾本科植物。生命周期为一年一代，卵于夏末产在干燥的土壤中越冬，次年暮春孵化。"
+    },
+    "habitat_and_distribution": {
+      "en": "Chorthippus brunneus prefers dry, open habitats with patches of bare ground, such as heaths, dunes, railway embankments, and abandoned industrial sites. It avoids dense, lush vegetation. Its range spans from the British Isles and Western Europe through Siberia to Northern China and Japan, reaching as far south as North Africa and the Mediterranean islands.",
+      "zh": "普通野蝗偏好干燥、开阔且含有裸露地面的生境，如荒地、沙丘、铁路路基和废弃工业区。它通常避开茂密、潮湿的植被区。其分布范围从不列颠群岛和西欧延伸，经西伯利亚直至中国北方和日本，向南可达北非及地中海岛屿。"
+    }
+  },
+  "habitat": {
+    "text_en": "Dry grasslands, heaths, and disturbed open ground across the Palearctic.",
+    "text_zh": "古北界范围内的干燥草地、荒野及受干扰的开阔地带。",
+    "map_coordinates": [
+      52.52,
+      13.405
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          58.5,
+          -9.5
+        ],
+        [
+          65.2,
+          15.3
+        ],
+        [
+          70.1,
+          25.4
+        ],
+        [
+          68.5,
+          45.2
+        ],
+        [
+          60.2,
+          80.5
+        ],
+        [
+          55.4,
+          120.1
+        ],
+        [
+          50.2,
+          145.5
+        ],
+        [
+          35.1,
+          142.2
+        ],
+        [
+          30.5,
+          121.5
+        ],
+        [
+          38.2,
+          105.4
+        ],
+        [
+          42.1,
+          80.2
+        ],
+        [
+          35.5,
+          60.1
+        ],
+        [
+          30.2,
+          35.5
+        ],
+        [
+          32.1,
+          -5.5
+        ],
+        [
+          45.5,
+          -10.2
+        ],
+        [
+          58.5,
+          -9.5
+        ]
+      ],
+      [
+        [
+          45.2,
+          125.1
+        ],
+        [
+          48.5,
+          130.2
+        ],
+        [
+          45.1,
+          135.5
+        ],
+        [
+          40.2,
+          130.1
+        ],
+        [
+          45.2,
+          125.1
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/common-field-grasshopper.jpg"
+}

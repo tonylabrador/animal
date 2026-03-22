@@ -1,0 +1,222 @@
+{
+  "id": "sandhill-crane",
+  "name_zh": "沙丘鹤",
+  "name_en": "Sandhill crane",
+  "scientific_name": "Antigone canadensis",
+  "ui_tags": [
+    "鸟纲",
+    "湿地",
+    "杂食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Gruiformes",
+      "zh": "鹤形目"
+    },
+    "family": {
+      "en": "Gruidae",
+      "zh": "鹤科"
+    },
+    "genus": {
+      "en": "Antigone",
+      "zh": "沙丘鹤属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Sandhill crane is one of the oldest living bird species, with fossil records dating back over 2.5 million years. Known for its distinctive trumpeting call and elegant mating dances, this large crane inhabits North America and extreme northeastern Siberia. They are highly social birds that migrate in massive flocks, often numbering in the tens of thousands, creating one of nature's most spectacular aerial displays. Their plumage is primarily gray, but often appears rusty-brown due to the birds preening themselves with iron-rich mud.",
+    "zh": "沙丘鹤是现存最古老的鸟类之一，其化石记录可追溯至250万年前。它们以独特的喇叭状鸣叫声和优雅的求偶舞姿而闻名，主要栖息于北美洲及西伯利亚极东北地区。沙丘鹤是高度社会化的鸟类，迁徙时常形成数万只规模的壮观集群。其羽毛主要呈灰色，但由于它们喜欢用富含铁质的泥土梳理羽毛，常使背部呈现出铁锈般的棕红色。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are characterized by a bald red forehead, white cheeks, and a long, dark, pointed bill. They stand about 80 to 120 cm tall with a wingspan reaching up to 2 meters. Their long trachea forms loops within the breastbone, acting like a resonator to produce their powerful, rattling calls. Unlike herons, they fly with their necks extended straight out.",
+      "zh": "成年沙丘鹤的特征是裸露的红色额头、白色的面颊以及长而深色的尖喙。它们身高约80至120厘米，翼展可达2米。其长气管在胸骨内形成环状结构，如同共鸣箱一般，使其能发出响亮且具有穿透力的颤音。与鹭类不同，它们飞行时颈部完全向前伸直。"
+    },
+    "ecology_and_behavior": {
+      "en": "Sandhill cranes are omnivorous, feeding on grains, seeds, berries, insects, snails, and small reptiles. They are famous for their 'dancing'—a complex series of hops, bows, and wing-flapping used for pair bonding and social signaling. They are monogamous, often staying with the same mate for life, and both parents participate in raising the colts (chicks).",
+      "zh": "沙丘鹤为杂食性，摄食谷物、种子、浆果、昆虫、蜗牛及小型爬行动物。它们以“舞蹈”著称，包括一系列复杂的跳跃、鞠躬和扇动翅膀的动作，用于建立配偶关系及社交信号。沙丘鹤实行一夫一妻制，通常终生相伴，父母双方共同抚育雏鸟。"
+    },
+    "habitat_and_distribution": {
+      "en": "They prefer open wetlands, marshes, and wet prairies. Their distribution spans from the Arctic tundras of Alaska and Canada to the subtropical wetlands of Florida and Cuba. During migration, key stopover points like the Platte River in Nebraska host over 80% of the world's population.",
+      "zh": "它们偏好开阔的湿地、沼泽和潮湿的草原。分布范围从阿拉斯加和加拿大的北极苔原一直延伸到佛罗里达州和古巴的亚热带湿地。在迁徙期间，内布拉斯加州的普拉特河等关键中转站会聚集全球80%以上的沙丘鹤种群。"
+    }
+  },
+  "habitat": {
+    "text_en": "Wetlands, marshes, and river valleys across North America and Eastern Siberia.",
+    "text_zh": "遍布北美和西伯利亚东部的湿地、沼泽和河谷。",
+    "map_coordinates": [
+      48,
+      -100
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          71.5,
+          -165
+        ],
+        [
+          72,
+          -140
+        ],
+        [
+          68,
+          -120
+        ],
+        [
+          60,
+          -100
+        ],
+        [
+          55,
+          -80
+        ],
+        [
+          50,
+          -65
+        ],
+        [
+          45,
+          -70
+        ],
+        [
+          50,
+          -90
+        ],
+        [
+          55,
+          -110
+        ],
+        [
+          60,
+          -130
+        ],
+        [
+          65,
+          -160
+        ]
+      ],
+      [
+        [
+          30,
+          -85
+        ],
+        [
+          32,
+          -80
+        ],
+        [
+          28,
+          -80
+        ],
+        [
+          25,
+          -81
+        ],
+        [
+          25,
+          -83
+        ],
+        [
+          28,
+          -84
+        ]
+      ],
+      [
+        [
+          35,
+          -120
+        ],
+        [
+          30,
+          -115
+        ],
+        [
+          25,
+          -110
+        ],
+        [
+          20,
+          -105
+        ],
+        [
+          18,
+          -100
+        ],
+        [
+          22,
+          -95
+        ],
+        [
+          30,
+          -95
+        ],
+        [
+          35,
+          -105
+        ]
+      ],
+      [
+        [
+          70,
+          170
+        ],
+        [
+          72,
+          180
+        ],
+        [
+          68,
+          -175
+        ],
+        [
+          65,
+          -170
+        ],
+        [
+          62,
+          175
+        ],
+        [
+          65,
+          165
+        ]
+      ],
+      [
+        [
+          23,
+          -83
+        ],
+        [
+          22,
+          -80
+        ],
+        [
+          21,
+          -82
+        ],
+        [
+          22,
+          -84
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/sandhill-crane.jpg"
+}

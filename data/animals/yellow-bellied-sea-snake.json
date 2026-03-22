@@ -1,0 +1,193 @@
+{
+  "id": "yellow-bellied-sea-snake",
+  "name_zh": "黄腹海蛇",
+  "name_en": "Yellow-bellied Sea Snake",
+  "scientific_name": "Hydrophis platurus",
+  "ui_tags": [
+    "爬行纲",
+    "海洋生物",
+    "肉食性",
+    "剧毒"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Elapidae",
+      "zh": "眼镜蛇科"
+    },
+    "genus": {
+      "en": "Hydrophis",
+      "zh": "海蛇属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Yellow-bellied sea snake is the most widely distributed sea snake in the world and the only truly pelagic species. It is instantly recognizable by its striking bicolor pattern: a dark brown or black dorsal surface and a bright yellow ventral side, meeting at a sharp lateral line. Its tail is laterally compressed and paddle-shaped, often decorated with black spots or bars, functioning as a powerful oar for swimming. Unlike most sea snakes that remain near coasts, H. platurus spends its entire life cycle in the open ocean, often congregating in massive numbers along sea-surface slicks or drift lines where currents meet.",
+    "zh": "黄腹海蛇是世界上分布最广的海蛇，也是唯一一种真正的远洋性海蛇。其最显著的特征是强烈的双色对比：背部呈深褐色或黑色，腹部呈鲜艳的黄色，两者在侧面形成清晰的分界线。其尾部侧扁如桨，通常布有黑色斑点或条纹，是强有力的游泳器官。与大多数栖息在近岸的海蛇不同，黄腹海蛇一生都在大洋中度过，常在洋流交汇形成的漂浮物聚集带（Slicks）大规模聚集。它拥有极强的神经毒素，主要用于麻痹小型鱼类。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Hydrophis platurus exhibits extreme adaptations for marine life. Its body is laterally compressed to reduce drag, and its nostrils are located dorsally with valves to prevent water entry. It possesses a specialized sublingual salt gland that excretes excess salt from the blood. Its skin is relatively impermeable to salt but allows for some cutaneous respiration, enabling it to stay submerged for up to 3 hours. The venom apparatus consists of short, fixed fangs at the front of the maxillary bone, delivering a potent neurotoxin that targets the nervous system of teleost fish.",
+      "zh": "黄腹海蛇展现了极端的海洋生活适应性。其身体侧扁以减少阻力，鼻孔位于头顶并具有瓣膜以防止海水进入。舌下具有专门的盐腺，用于排出血液中多余的盐分。其皮肤对盐分的渗透性较低，但允许一定程度的皮肤呼吸，使其能在水下停留长达3小时。毒液系统由上颌骨前部的短固定牙组成，分泌强效神经毒素，专门针对硬骨鱼类的神经系统。"
+    },
+    "ecology_and_behavior": {
+      "en": "As a sit-and-wait predator, it drifts with ocean currents, often positioning itself within surface slicks. It feeds exclusively on small fish that seek shelter under floating debris. It can swim backward as easily as forward and is known to tie itself into knots (knotting behavior) to help shed its skin or clean itself of parasites. It is ovoviviparous, giving birth to live young at sea, which are independent from birth. Despite its potent venom, it is generally non-aggressive toward humans unless severely provoked.",
+      "zh": "作为一种坐等式捕食者，它随洋流漂流，常位于海面漂浮带中。它专门捕食在漂浮物下寻求庇护的小型鱼类。它向后游泳的能力与向前一样出色，并具有“打结”行为，通过身体摩擦来辅助蜕皮或清除寄生虫。它是卵胎生动物，在海中直接产下幼蛇，幼蛇出生即能独立生存。尽管拥有剧毒，但除非受到严重挑衅，它通常对人类没有攻击性。"
+    },
+    "habitat_and_distribution": {
+      "en": "This species has a vast range covering the tropical and subtropical waters of the Indian and Pacific Oceans. It is found from the eastern coast of Africa and the Red Sea, across the Indo-Australian Archipelago, to the western coasts of the Americas (from Baja California to northern Peru). It is limited by water temperature, requiring temperatures above 18°C to survive and above 20°C to feed and reproduce. It is rarely found in the Atlantic due to the cold currents around the southern tips of Africa and South America.",
+      "zh": "该物种分布范围极广，覆盖印度洋和太平洋的热带及亚热带海域。从非洲东海岸和红海，横跨印度-澳大利亚群岛，一直延伸到美洲西海岸（从下加利福尼亚到秘鲁北部）。其分布受水温限制，生存需18°C以上水温，摄食和繁殖则需20°C以上。由于非洲和南美洲南端的寒流屏障，它们极少进入大西洋。"
+    }
+  },
+  "habitat": {
+    "text_en": "Pelagic ocean waters, surface slicks, and drift lines in tropical and subtropical zones.",
+    "text_zh": "热带及亚热带地区的远洋海域、海面漂浮带及洋流交汇处。",
+    "map_coordinates": [
+      0,
+      120
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          35,
+          30
+        ],
+        [
+          25,
+          45
+        ],
+        [
+          15,
+          55
+        ],
+        [
+          5,
+          45
+        ],
+        [
+          -15,
+          40
+        ],
+        [
+          -35,
+          20
+        ],
+        [
+          -40,
+          40
+        ],
+        [
+          -35,
+          115
+        ],
+        [
+          -45,
+          150
+        ],
+        [
+          -30,
+          180
+        ],
+        [
+          -10,
+          -150
+        ],
+        [
+          -20,
+          -100
+        ],
+        [
+          -15,
+          -75
+        ],
+        [
+          5,
+          -78
+        ],
+        [
+          20,
+          -105
+        ],
+        [
+          32,
+          -120
+        ],
+        [
+          40,
+          -140
+        ],
+        [
+          45,
+          160
+        ],
+        [
+          40,
+          140
+        ],
+        [
+          35,
+          125
+        ],
+        [
+          25,
+          110
+        ],
+        [
+          15,
+          90
+        ],
+        [
+          10,
+          60
+        ],
+        [
+          35,
+          30
+        ]
+      ],
+      [
+        [
+          25,
+          50
+        ],
+        [
+          28,
+          55
+        ],
+        [
+          22,
+          60
+        ],
+        [
+          15,
+          55
+        ],
+        [
+          25,
+          50
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/yellow-bellied-sea-snake.jpg"
+}

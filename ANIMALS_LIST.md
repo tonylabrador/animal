@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **264** 种动物
+**统计**：共 **282** 种动物
 
 ---
 
@@ -50,7 +50,9 @@
 
 **松鼠科**
 
+- 美洲红松鼠 / American Red Squirrel — *Tamiasciurus hudsonicus* `american-red-squirrel`
 - 黑尾土拨鼠 / Black-tailed Prairie Dog — *Cynomys ludovicianus* `black-tailed-prairie-dog`
+- 红松鼠 / Red squirrel — *Sciurus vulgaris* `red-squirrel`
 
 **河狸科**
 
@@ -539,6 +541,12 @@
 
 - 骨顶鸡 / Eurasian Coot — *Fulica atra* `eurasian-coot`
 
+**鹤科**
+
+- 灰鹤 / Common crane — *Grus grus* `common-crane`
+- 沙丘鹤 / Sandhill crane — *Antigone canadensis* `sandhill-crane`
+- 美洲鹤 / Whooping Crane — *Grus americana* `whooping-crane`
+
 ### 鹤鸵目
 
 **鹤鸵科**
@@ -593,10 +601,22 @@
 **游蛇科**
 
 - 玉米蛇 / Corn Snake — *Pantherophis guttatus* `corn-snake`
+- 金花蛇 / Golden Tree Snake — *Chrysopelea ornata* `golden-tree-snake`
+- 天堂金花蛇 / Paradise tree snake — *Chrysopelea paradisi* `paradise-tree-snake`
+
+**澳虎科**
+
+- 睫角守宫 / Eyelash Crested Gecko — *Correlophus ciliatus* `eyelash-crested-gecko`
 
 **眼镜蛇科**
 
 - 眼镜王蛇 / King Cobra — *Ophiophagus hannah* `king-cobra`
+- 黄腹海蛇 / Yellow-bellied Sea Snake — *Hydrophis platurus* `yellow-bellied-sea-snake`
+
+**睑虎科**
+
+- 吕氏睑虎 / Chinese Cave Gecko — *Goniurosaurus luii* `chinese-cave-gecko`
+- 豹纹守宫 / Leopard gecko — *Eublepharis macularius* `leopard-gecko`
 
 **蚺科**
 
@@ -665,6 +685,10 @@
 
 - 哥伦比亚角蛙 / Surinam Horned Frog — *Ceratophrys cornuta* `surinam-horned-frog`
 
+**雨滨蛙科**
+
+- 白氏树蛙 / White's Tree Frog — *Ranoidea caerulea* `whites-tree-frog`
+
 ### 有尾目
 
 **钝口螈科**
@@ -711,11 +735,23 @@
 
 - 家蝇 / House Fly — *Musca domestica* `house-fly`
 
+### 直翅目
+
+**蝗科**
+
+- 普通野蝗 / Common Field Grasshopper — *Chorthippus brunneus* `common-field-grasshopper`
+
 ### 膜翅目
 
 **蚁科**
 
 - 布氏游蚁 / Army Ant — *Eciton burchellii* `army-ant`
+
+### 蜚蠊目
+
+**白蚁科**
+
+- 黑翅土白蚁 / Black-winged Subterranean Termite — *Odontotermes formosanus* `black-winged-subterranean-termite`
 
 ### 螳螂目
 
@@ -730,6 +766,10 @@
 - 长颈鹿锯锹甲 / Giraffe Stag Beetle — *Prosopocoilus giraffa* `giraffe-stag-beetle`
 
 ### 鳞翅目
+
+**凤蝶科**
+
+- 黑凤蝶 / Black Swallowtail — *Papilio polyxenes* `black-swallowtail`
 
 **蛱蝶科**
 
@@ -874,9 +914,17 @@
 
 - 蓝蟹 / Blue Crab — *Callinectes sapidus* `blue-crab`
 
+**海螯虾科**
+
+- 美洲螯龙虾 / American lobster — *Homarus americanus* `american-lobster`
+
 **蜘蛛蟹科**
 
 - 甘氏巨螯蟹 / Japanese Spider Crab — *Macrocheira kaempferi* `japanese-spider-crab`
+
+**螯虾科**
+
+- 克氏原螯虾 / Red swamp crayfish — *Procambarus clarkii* `red-swamp-crayfish`
 
 ### 口足目
 
@@ -921,6 +969,16 @@
 **鼠鲨科**
 
 - 大白鲨 / Great White Shark — *Carcharodon carcharias* `great-white-shark`
+
+---
+
+## 辐鳍鱼纲
+
+### 鲉形目
+
+**鲉科**
+
+- 蓑鲉 / Red Lionfish — *Pterois volitans* `red-lionfish`
 
 ---
 

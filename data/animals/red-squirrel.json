@@ -1,0 +1,250 @@
+{
+  "id": "red-squirrel",
+  "name_zh": "红松鼠",
+  "name_en": "Red squirrel",
+  "scientific_name": "Sciurus vulgaris",
+  "ui_tags": [
+    "Mammalia",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Rodentia",
+      "zh": "啮齿目"
+    },
+    "family": {
+      "en": "Sciuridae",
+      "zh": "松鼠科"
+    },
+    "genus": {
+      "en": "Sciurus",
+      "zh": "松鼠属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The red squirrel (Sciurus vulgaris) is a species of tree squirrel in the genus Sciurus common throughout Eurasia. It is an arboreal, primarily herbivorous rodent. The red squirrel is famous for its distinctive reddish-brown coat, bushy tail, and prominent ear tufts that develop in winter. Unlike many other rodents, it does not hibernate but remains active throughout the year, relying on cached food supplies during harsh winters. In recent decades, its population in Great Britain and parts of Europe has faced significant threats from the introduced Eastern grey squirrel, which outcompetes it for resources and carries the squirrelpox virus.",
+    "zh": "红松鼠（Sciurus vulgaris）是松鼠属中分布最广的树栖啮齿动物，遍布欧亚大陆。它们以标志性的红褐色毛皮、蓬松的大尾巴以及冬季特有的长耳簇毛而闻名。红松鼠是典型的林栖动物，主要以植物种子、坚果和真菌为食。与许多啮齿类不同，红松鼠不冬眠，而是通过在秋季埋藏食物（分散贮藏）来度过寒冬。近年来，受外来物种灰松鼠的竞争和松鼠痘病毒的影响，红松鼠在英国及欧洲部分地区的种群数量显著下降，但在整个欧亚大陆北部森林中仍较为常见。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults typically measure 19 to 23 cm in head-and-body length, with a tail of 15 to 20 cm, weighing between 250 and 340 g. Their long tail helps maintain balance when jumping between branches and serves as a blanket during sleep. They possess sharp, curved claws for vertical climbing and hind legs that are longer than the forelegs, enabling powerful leaps. Their coat color varies geographically and seasonally, ranging from bright ginger to deep chocolate or even black, though the underside always remains white.",
+      "zh": "成年红松鼠体长约19至23厘米，尾长15至20厘米，体重在250至340克之间。其长而多毛的尾巴在树间跳跃时起到平衡作用，睡眠时还可覆盖身体保暖。它们拥有锐利且弯曲的爪子，适合在垂直的树干上快速攀爬；后肢强健且长于前肢，赋予其卓越的跳跃能力。毛色随季节和地理位置变化，从鲜艳的铁锈红到深巧克力色甚至黑色不等，但腹部始终保持白色。"
+    },
+    "ecology_and_behavior": {
+      "en": "Red squirrels are diurnal and solitary, though they may share nests (dreys) for warmth during winter. They are scatter-hoarders, burying thousands of seeds and nuts across their territory, a behavior that significantly aids forest regeneration. Their diet is highly specialized towards conifer seeds (spruce, pine), but they also consume fungi, berries, tree sap, and occasionally bird eggs or nestlings. They communicate through vocalizations, tail flicking, and scent marking.",
+      "zh": "红松鼠为日行性动物，通常独居，但在严冬时节可能共用巢穴（drey）以取暖。它们具有“分散贮藏”的行为习惯，会在领地内埋藏数以千计的种子和坚果，这在客观上促进了森林的天然更新。其食性高度依赖针叶树种子（如云杉、松树），但也摄食真菌、浆果、树汁，偶尔也会捕食鸟蛋或雏鸟。它们通过鸣叫、摆动尾巴和气味标记进行社交沟通。"
+    },
+    "habitat_and_distribution": {
+      "en": "They inhabit both coniferous and broad-leaved temperate forests across the Palearctic region, from the Atlantic coast of Europe to the Pacific coast of Asia, including the British Isles, Scandinavia, Russia, Northern China, and Japan (Hokkaido). They prefer mature forests with a continuous canopy that allows for arboreal movement without descending to the ground, where they are more vulnerable to predators like pine martens and raptors.",
+      "zh": "它们栖息于欧亚大陆北部的针叶林和温带阔叶林中，分布范围从欧洲大西洋沿岸一直延伸到亚洲太平洋沿岸，包括不列颠群岛、斯堪的纳维亚、俄罗斯、中国北方及日本北海道。它们偏好郁闭度高、树冠连续的成熟林地，这样可以在树间自由穿梭而无需降落到地面，从而规避松貂、猛禽等天敌的捕食。"
+    }
+  },
+  "habitat": {
+    "text_en": "Boreal and temperate forests of Eurasia.",
+    "text_zh": "欧亚大陆的北方针叶林及温带森林。",
+    "map_coordinates": [
+      55,
+      60
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          70.5,
+          18.5
+        ],
+        [
+          71.2,
+          25
+        ],
+        [
+          69.5,
+          35
+        ],
+        [
+          68,
+          45
+        ],
+        [
+          66.5,
+          60
+        ],
+        [
+          68,
+          80
+        ],
+        [
+          70,
+          100
+        ],
+        [
+          72,
+          130
+        ],
+        [
+          71.5,
+          155
+        ],
+        [
+          68,
+          170
+        ],
+        [
+          60,
+          165
+        ],
+        [
+          55,
+          160
+        ],
+        [
+          45,
+          145
+        ],
+        [
+          42,
+          140
+        ],
+        [
+          38,
+          130
+        ],
+        [
+          35,
+          125
+        ],
+        [
+          38,
+          115
+        ],
+        [
+          42,
+          100
+        ],
+        [
+          45,
+          80
+        ],
+        [
+          48,
+          60
+        ],
+        [
+          45,
+          40
+        ],
+        [
+          40,
+          30
+        ],
+        [
+          36,
+          15
+        ],
+        [
+          36,
+          -5
+        ],
+        [
+          43,
+          -10
+        ],
+        [
+          50,
+          -5
+        ],
+        [
+          55,
+          -10
+        ],
+        [
+          60,
+          -5
+        ],
+        [
+          65,
+          5
+        ],
+        [
+          70.5,
+          18.5
+        ]
+      ],
+      [
+        [
+          58.5,
+          -6.5
+        ],
+        [
+          56,
+          -5
+        ],
+        [
+          54,
+          -3
+        ],
+        [
+          52,
+          -1
+        ],
+        [
+          51,
+          1
+        ],
+        [
+          53,
+          0
+        ],
+        [
+          56,
+          -3
+        ],
+        [
+          58.5,
+          -6.5
+        ]
+      ],
+      [
+        [
+          45.5,
+          141.5
+        ],
+        [
+          43,
+          140.5
+        ],
+        [
+          41.5,
+          142
+        ],
+        [
+          43.5,
+          145.5
+        ],
+        [
+          45.5,
+          141.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/red-squirrel.jpg"
+}
