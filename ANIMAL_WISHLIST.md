@@ -16,3 +16,4 @@
 | 9 | 美洲乌鸦 | American Crow | Corvus brachyrhynchos | ⏳ Pending |
 | 10 | 渡鸦 | Common Raven | Corvus corax | ⏳ Pending |
 | 11 | 吕氏睑虎 | Chinese Cave Gecko | Goniurosaurus luii | ⏳ Pending |
+| 12 | 黑翅土白蚁 | Black-winged subterranean termite | Odontotermes formosanus | ⏳ Pending |
