@@ -21,3 +21,4 @@
 | 14 | 天堂金花蛇 | Paradise tree snake | Chrysopelea paradisi | ⏳ Pending |
 | 15 | 金花蛇 | Golden tree snake | Chrysopelea ornata | ⏳ Pending |
 | 16 | 黄腹海蛇 | Yellow-bellied sea snake | Hydrophis platurus | ⏳ Pending |
+| 17 | 美洲红松鼠 | American red Squirrel | Tamiasciurus hudsonicus | ⏳ Pending |
