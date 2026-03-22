@@ -29,3 +29,4 @@
 | 22 | 黑凤蝶 | Black Swallowtail | Papilio polyxenes | ⏳ Pending |
 | 23 | 普通野蝗 | Common field grasshopper | Chorthippus brunneus | ⏳ Pending |
 | 24 | 睫角守宫 | Eyelash crested gecko | Correlophus ciliatus | ⏳ Pending |
+| 25 | 豹纹守宫 | Leopard gecko | Eublepharis macularius | ⏳ Pending |
