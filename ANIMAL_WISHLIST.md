@@ -6,3 +6,4 @@
 |---|--------|-------------|-----------------|------|
 | 1 | 疣鼻天鹅 | Mute Swan | Cygnus olor | ⏳ Pending |
 | 2 | 黑天鹅 | Black Swan | Cygnus atratus | ⏳ Pending |
+| 3 | 蓝山雀 | Eurasian Blue Tit | Cyanistes caeruleus | ⏳ Pending |
