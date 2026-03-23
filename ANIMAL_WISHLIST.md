@@ -5,3 +5,4 @@
 | # | 中文名 | English Name | Scientific Name | 状态 |
 |---|--------|-------------|-----------------|------|
 | 1 | 疣鼻天鹅 | Mute Swan | Cygnus olor | ⏳ Pending |
+| 2 | 黑天鹅 | Black Swan | Cygnus atratus | ⏳ Pending |
