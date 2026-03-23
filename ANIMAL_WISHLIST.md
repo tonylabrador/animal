@@ -10,3 +10,4 @@
 | 4 | 煤山雀 | Coal Tit | Periparus ater | ⏳ Pending |
 | 5 | 欧亚喜鹊 | Eurasian Magpie | Pica pica | ⏳ Pending |
 | 6 | 刺角蝉 | Thorn Bug | Umbonia crassicornis | ⏳ Pending |
+| 7 | 内华达湿木白蚁 | Nevada dampwood termite | Zootermopsis nevadensis | ⏳ Pending |
