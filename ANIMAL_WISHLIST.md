@@ -8,3 +8,4 @@
 | 2 | 黑天鹅 | Black Swan | Cygnus atratus | ⏳ Pending |
 | 3 | 蓝山雀 | Eurasian Blue Tit | Cyanistes caeruleus | ⏳ Pending |
 | 4 | 煤山雀 | Coal Tit | Periparus ater | ⏳ Pending |
+| 5 | 欧亚喜鹊 | Eurasian Magpie | Pica pica | ⏳ Pending |
