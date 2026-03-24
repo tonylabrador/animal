@@ -12,3 +12,4 @@
 | 6 | 刺角蝉 | Thorn Bug | Umbonia crassicornis | ⏳ Pending |
 | 7 | 内华达湿木白蚁 | Nevada dampwood termite | Zootermopsis nevadensis | ⏳ Pending |
 | 8 | 中华鲟 | Chinese Sturgeon | Acipenser sinensis | ⏳ Pending |
+| 9 | 窄脊江豚 | Narrow-ridged finless porpoise | Neophocaena asiaeorientalis | ⏳ Pending |
