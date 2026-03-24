@@ -11,3 +11,4 @@
 | 5 | 欧亚喜鹊 | Eurasian Magpie | Pica pica | ⏳ Pending |
 | 6 | 刺角蝉 | Thorn Bug | Umbonia crassicornis | ⏳ Pending |
 | 7 | 内华达湿木白蚁 | Nevada dampwood termite | Zootermopsis nevadensis | ⏳ Pending |
+| 8 | 中华鲟 | Chinese Sturgeon | Acipenser sinensis | ⏳ Pending |
