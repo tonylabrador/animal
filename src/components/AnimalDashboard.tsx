@@ -1,8 +1,8 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import Link from "next/link";
-import { Globe, Search, X, MapPin, Tag, TreeDeciduous, ChevronRight, Shuffle, ArrowDownAZ } from "lucide-react";
+import { Globe, Search, X, MapPin, Tag, TreeDeciduous, ChevronRight, Shuffle, ArrowDownAZ, ArrowUp } from "lucide-react";
 import { useLanguage } from "@/lib/LanguageContext";
 import type { Animal } from "@/types/animal";
 import WishlistSection from "@/components/WishlistSection";
@@ -123,6 +123,26 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
   const { lang, toggleLang } = useLanguage();
   const [query, setQuery] = useState("");
   const [sortSeed, setSortSeed] = useState(0); // 0 = default (alphabetical), >0 = random
+  const [displayCount, setDisplayCount] = useState(24);
+  const [showTop, setShowTop] = useState(false);
+
+  // Reset pagination when search or sort changes
+  useEffect(() => {
+    setDisplayCount(24);
+  }, [query, sortSeed]);
+
+  // Back to Top visibility
+  useEffect(() => {
+    const handleScroll = () => {
+      setShowTop(window.scrollY > 600);
+    };
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
 
   const filtered = useMemo(() => {
     let result = animals;
@@ -162,6 +182,8 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
 
     return result;
   }, [animals, query, sortSeed]);
+
+  const visibleAnimals = filtered.slice(0, displayCount);
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 via-stone-50 to-amber-50">
@@ -334,11 +356,27 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
             </p>
           </div>
         ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-            {filtered.map((animal) => (
-              <AnimalCard key={animal.id} animal={animal} lang={lang} />
-            ))}
-          </div>
+          <>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+              {visibleAnimals.map((animal) => (
+                <AnimalCard key={animal.id} animal={animal} lang={lang} />
+              ))}
+            </div>
+
+            {displayCount < filtered.length && (
+              <div className="mt-14 mb-4 flex justify-center">
+                <button
+                  onClick={() => setDisplayCount((prev) => prev + 24)}
+                  className="group flex flex-col sm:flex-row items-center gap-2 sm:gap-3 px-8 py-3.5 bg-white border border-slate-200 text-slate-700 font-bold rounded-2xl shadow-sm hover:shadow-lg hover:border-amber-300 hover:text-amber-600 active:scale-[0.98] transition-all bg-gradient-to-b from-white to-slate-50"
+                >
+                  <span>{lang === "en" ? "Load More Animals" : "加载更多动物"}</span>
+                  <span className="text-xs font-semibold bg-slate-100 text-slate-500 px-2.5 py-1 rounded-full group-hover:bg-amber-100 group-hover:text-amber-700 transition-colors">
+                    {filtered.length - displayCount} {lang === "en" ? "remaining" : "尚未显示"}
+                  </span>
+                </button>
+              </div>
+            )}
+          </>
         )}
       </main>
 
@@ -348,6 +386,17 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
           ? "Wild Explorer · Made by Emily & Family"
           : "动物探索 · Emily & Family 制作"}
       </footer>
+
+      {/* ── Back to Top FAB ── */}
+      <button
+        onClick={scrollToTop}
+        className={`fixed bottom-6 right-6 lg:bottom-10 lg:right-10 z-[60] px-5 py-3.5 bg-slate-800 text-white rounded-2xl shadow-xl shadow-slate-800/20 active:scale-95 hover:bg-slate-700 hover:-translate-y-1 transition-all duration-300 pointer-events-auto flex items-center justify-center gap-2 group ${
+          showTop ? "translate-y-0 opacity-100" : "translate-y-12 opacity-0 !pointer-events-none"
+        }`}
+      >
+        <ArrowUp size={18} strokeWidth={2.5} className="transition-transform group-hover:-translate-y-0.5" />
+        <span className="font-bold text-sm tracking-wide">{lang === "en" ? "Top" : "回到顶部"}</span>
+      </button>
     </div>
   );
 }
