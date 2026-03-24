@@ -34,7 +34,7 @@ function parseRecentlyAdded(content: string) {
       }
     }
   }
-  return entries.reverse(); // Show newest first
+  return entries;
 }
 
 export async function GET() {

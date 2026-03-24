@@ -1,0 +1,240 @@
+{
+  "id": "coal-tit",
+  "name_zh": "煤山雀",
+  "name_en": "Coal Tit",
+  "scientific_name": "Periparus ater",
+  "ui_tags": [
+    "鸟纲",
+    "森林",
+    "食虫性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Paridae",
+      "zh": "山雀科"
+    },
+    "genus": {
+      "en": "Periparus",
+      "zh": "煤山雀属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Coal Tit is a small, distinctive passerine bird characterized by its glossy black cap and a prominent white patch on its nape. As a specialist of coniferous habitats, it is widely distributed across the temperate and subtropical forests of Eurasia and North Africa. It is known for its energetic foraging behavior and its remarkable ability to cache food in tree bark to survive harsh winters.",
+    "zh": "煤山雀是一种体型纤小、动作敏捷的雀形目鸟类，以其亮黑色的头顶和枕部醒目的白色斑块为显著特征。作为针叶林的特化物种，它们广泛分布于欧亚大陆及北非的温带与亚热带森林中。煤山雀以其活跃的觅食行为和高超的储食本领著称，常在树皮缝隙中隐藏食物以度过严冬。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Measuring approximately 10–11.5 cm in length, the Coal Tit features a greyish-blue or olive-grey mantle and buff-colored flanks. Its most diagnostic feature is the vertical white stripe on the back of its black head (nuchal patch). It possesses two distinct white wing bars and a fine, needle-like bill adapted for extracting seeds from conifer cones and picking small invertebrates from dense foliage.",
+      "zh": "体长约10-11.5厘米。羽色以灰、黑、白为主，背部呈蓝灰色或橄榄灰色，腹部污白色，两胁带棕色。其最核心的识别特征是黑色头顶后方延伸至颈部的垂直白色斑块。双翼具有两道明显的白色翼斑。喙部短而尖细，是演化出的精密工具，便于从针叶缝隙中啄食昆虫或从松果中提取种子。"
+    },
+    "ecology_and_behavior": {
+      "en": "Primarily insectivorous during the breeding season, the Coal Tit shifts to a seed-based diet in winter. It exhibits advanced food-caching behavior, storing thousands of seeds annually in bark crevices and lichen. It is highly social outside the breeding season, often forming the core of mixed-species foraging flocks. Its song is a repetitive, high-pitched 'tui-tui-tui', echoing through the forest canopy.",
+      "zh": "在繁殖季节主要以昆虫为食，冬季则转向植物种子。煤山雀具有极强的储食行为（Caching），单只个体每年会在树皮裂缝或地衣下隐藏数千颗种子，并依靠发达的空间记忆找回。非繁殖季节具有高度社交性，常与其他山雀组成混群觅食。其鸣声为清脆、重复的“tui-tui-tui”声，在林冠层中极具辨识度。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species is a Palearctic resident, ranging from Ireland and the Atlas Mountains of North Africa across the vast Taiga belt of Siberia to Japan and the Himalayas. It shows a strong preference for coniferous forests, particularly those dominated by spruce (Picea), fir (Abies), and pine (Pinus), though it can be found in mixed woodlands at lower elevations.",
+      "zh": "该物种广泛分布于古北界，从西欧、北非的阿特拉斯山脉，横跨西伯利亚广袤的泰加林带，直至中国东北、日本及喜马拉雅山脉。它们对针叶林有强烈的偏好，尤其是云杉、冷杉和松树林，但在低海拔地区也会出现在针阔混交林中。在不同地理区域演化出了多个亚种，羽色略有差异。"
+    }
+  },
+  "habitat": {
+    "text_en": "Coniferous and mixed forests across Eurasia and North Africa.",
+    "text_zh": "分布于欧亚大陆及北非的针叶林与针阔混交林。",
+    "map_coordinates": [
+      52,
+      35
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          50.5,
+          -10.5
+        ],
+        [
+          58.2,
+          -6.5
+        ],
+        [
+          64.5,
+          15.2
+        ],
+        [
+          69.8,
+          25.4
+        ],
+        [
+          70.2,
+          60.5
+        ],
+        [
+          68.5,
+          100.2
+        ],
+        [
+          62.4,
+          135.5
+        ],
+        [
+          55.2,
+          142.8
+        ],
+        [
+          45.5,
+          138.2
+        ],
+        [
+          42.1,
+          125.5
+        ],
+        [
+          48.5,
+          105.2
+        ],
+        [
+          52.4,
+          80.5
+        ],
+        [
+          50.2,
+          45.5
+        ],
+        [
+          45.8,
+          20.2
+        ],
+        [
+          38.5,
+          -5.2
+        ],
+        [
+          42.5,
+          -10.2
+        ],
+        [
+          50.5,
+          -10.5
+        ]
+      ],
+      [
+        [
+          45.2,
+          115.5
+        ],
+        [
+          52.8,
+          125.2
+        ],
+        [
+          53.5,
+          140.5
+        ],
+        [
+          45.2,
+          145.8
+        ],
+        [
+          35.5,
+          142.2
+        ],
+        [
+          32.8,
+          130.5
+        ],
+        [
+          38.2,
+          118.5
+        ],
+        [
+          45.2,
+          115.5
+        ]
+      ],
+      [
+        [
+          35.2,
+          72.5
+        ],
+        [
+          37.8,
+          85.2
+        ],
+        [
+          38.5,
+          102.5
+        ],
+        [
+          30.2,
+          105.8
+        ],
+        [
+          24.5,
+          102.2
+        ],
+        [
+          26.8,
+          90.5
+        ],
+        [
+          28.2,
+          75.5
+        ],
+        [
+          35.2,
+          72.5
+        ]
+      ],
+      [
+        [
+          31.5,
+          -9.5
+        ],
+        [
+          35.8,
+          -6.2
+        ],
+        [
+          37.2,
+          4.5
+        ],
+        [
+          36.5,
+          9.8
+        ],
+        [
+          33.2,
+          8.5
+        ],
+        [
+          31.8,
+          2.2
+        ],
+        [
+          31.5,
+          -9.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/coal-tit.jpg"
+}

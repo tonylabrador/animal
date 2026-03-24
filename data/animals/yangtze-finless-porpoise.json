@@ -1,0 +1,150 @@
+{
+  "id": "yangtze-finless-porpoise",
+  "name_zh": "长江江豚",
+  "name_en": "Yangtze finless porpoise",
+  "scientific_name": "Neophocaena asiaeorientalis asiaeorientalis",
+  "ui_tags": [
+    "Mammalia",
+    "Coastal/River",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Cetartiodactyla",
+      "zh": "鲸偶蹄目"
+    },
+    "family": {
+      "en": "Phocoenidae",
+      "zh": "鼠海豚科"
+    },
+    "genus": {
+      "en": "Neophocaena",
+      "zh": "江豚属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The Yangtze finless porpoise is a unique, small cetacean distinguished by the complete absence of a dorsal fin. Instead, it features a narrow, tuberculated ridge running along its back. It is the only freshwater porpoise in the world, endemic to the middle and lower reaches of the Yangtze River. It is known for its bulbous head, expressive face, and shy behavior. It is under severe pressure from human activities, including habitat loss, pollution, and variable water environments, leaving the species critically endangered.",
+    "zh": "长江江豚是一种独特的小型淡水齿鲸，其最显著的特征是完全缺失背鳍，取而代之的是背部一条布满角质结节的狭窄隆起。它是世界上唯一的淡水江豚，更是中国长江中下游独有的明星物种。它们拥有圆钝的头部、总是挂着淡淡微笑的面部和害羞的性格。由于栖息地丧失、水污染及高强度航运，该种群面临着巨大的生存压力，处于极度濒危状态。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The most striking anatomical feature is the lack of a dorsal fin. In its place is a narrow ridge (4–12 mm wide) that starts from the mid-back and extends to the tail, covered with numerous small, wart-like tubercles containing nerve endings. The head is rounded with a steep forehead and no distinct beak. Their skin is typically a uniform lead-grey or dark grey. Adults reach lengths of 1.5 to 1.9 meters and weigh between 30 and 45 kg. Their teeth are spade-shaped, a characteristic of the Phocoenidae family.",
+      "zh": "最显著的解剖特征是缺乏背鳍。取而代之的是从背部中段延伸至尾柄的一条狭窄隆起（宽约4-12毫米），该隆起上密布着角质化的结节（小疣），这些结节含有丰富的神经末梢，可能具有某种感知功能。其头部圆钝，额部隆起且无吻突。皮肤呈均匀的铅灰色或深灰色。成年个体体长通常在1.5至1.9米，体重约30至45公斤。其牙齿呈铲状，这是鼠海豚科的典型特征。"
+    },
+    "ecology_and_behavior": {
+      "en": "Yangtze finless porpoises are generalist feeders, preying on small fish, cephalopods, and crustaceans. They use high-frequency echolocation clicks (around 125 kHz) to navigate and hunt in turbid waters. Unlike many dolphins, they are relatively solitary or travel in small groups of 2-5 individuals. They are known to be shy and rarely perform aerial leaps or bow-ride. Their social structure is loose but they exhibit complex maternal care, with calves often seen riding on their mothers' backs, clinging to the tuberculated ridge.",
+      "zh": "长江江豚属于广食性捕食者，主要以小型鱼类和甲壳类动物为食。它们利用高频超声波（约125千赫兹）在浑浊的水域中进行回声定位和捕猎。与许多海豚不同，它们性格内敛，通常以2-5只的小群体活动，极少进行跳跃或乘浪行为。它们的社会结构相对松散，但表现出复杂的母性抚育行为，幼豚常被观察到趴在母亲背部的隆起处，随母亲一同游动。"
+    },
+    "habitat_and_distribution": {
+      "en": "The Yangtze finless porpoise is strictly endemic to the main stem of the middle and lower reaces of the Yangtze River and its adjoining lakes, such as Poyang and Dongting, in China. Unlike its marine relatives, it is entirely restricted to freshwater environments, preferring areas with sandy or soft bottoms where tributaries meet the main river.",
+      "zh": "长江江豚是世界上唯一完全生活在淡水中的江豚。它的分布极其有限，仅限于中国长江中下游干流以及与之相通的两个大型淡水湖——鄱阳湖和洞庭湖。它们偏好沙质或软泥底质的浅水区，尤其喜欢在支流汇入干流的河口地带活动。"
+    }
+  },
+  "habitat": {
+    "text_en": "Middle and lower reaches of the Yangtze River.",
+    "text_zh": "全淡水环境：中国长江中下游干流与大型湖泊。",
+    "map_coordinates": [
+      31.2304,
+      121.4737
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          30.62,
+          114.31
+        ],
+        [
+          30.25,
+          115.05
+        ],
+        [
+          29.88,
+          116.02
+        ],
+        [
+          29.75,
+          116.65
+        ],
+        [
+          30.52,
+          117.45
+        ],
+        [
+          31.35,
+          118.35
+        ],
+        [
+          32.12,
+          119.15
+        ],
+        [
+          32.05,
+          120.25
+        ],
+        [
+          31.75,
+          121.15
+        ],
+        [
+          31.25,
+          121.85
+        ],
+        [
+          31.05,
+          121.95
+        ],
+        [
+          31.45,
+          121.05
+        ],
+        [
+          31.85,
+          119.85
+        ],
+        [
+          31.25,
+          118.55
+        ],
+        [
+          30.25,
+          117.25
+        ],
+        [
+          29.45,
+          116.45
+        ],
+        [
+          29.15,
+          115.85
+        ],
+        [
+          30.15,
+          114.15
+        ],
+        [
+          30.62,
+          114.31
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/yangtze-finless-porpoise.jpg"
+}

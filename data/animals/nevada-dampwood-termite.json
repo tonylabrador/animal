@@ -1,0 +1,146 @@
+{
+  "id": "nevada-dampwood-termite",
+  "name_zh": "内华达湿木白蚁",
+  "name_en": "Nevada dampwood termite",
+  "scientific_name": "Zootermopsis nevadensis",
+  "ui_tags": [
+    "Insecta",
+    "Forest",
+    "Detritivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Insecta",
+      "zh": "昆虫纲"
+    },
+    "order": {
+      "en": "Blattodea",
+      "zh": "蜚蠊目"
+    },
+    "family": {
+      "en": "Archotermopsidae",
+      "zh": "原白蚁科"
+    },
+    "genus": {
+      "en": "Zootermopsis",
+      "zh": "湿木白蚁属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "Zootermopsis nevadensis, commonly known as the Nevada dampwood termite, is a basal eusocial insect species native to the coniferous forests of Western North America. Unlike 'higher' termites, they do not build complex mounds or subterranean tunnels; instead, they live entirely within the damp, decaying logs they consume. They are of significant scientific interest as the first termite species to have its genome fully sequenced, providing critical insights into the evolution of eusociality and the molecular basis of caste differentiation. They lack a true worker caste, instead utilizing 'pseudergates' (false workers) which are developmentally plastic nymphs that can differentiate into soldiers or reproductives based on colony needs.",
+    "zh": "内华达湿木白蚁（Zootermopsis nevadensis）是原生于北美西部针叶林的一种基础真社会性昆虫。与“高等”白蚁不同，它们不建造复杂的蚁丘或地下通道，而是完全生活在它们所食用的潮湿腐烂原木中。作为第一种完成全基因组测序的白蚁，它在科学研究中具有重要地位，为研究真社会性的演化和品级分化的分子基础提供了关键见解。该物种缺乏真正的工蚁品级，而是利用“拟工蚁”（pseudergates），即具有发育可塑性的若虫，它们可以根据群体需要分化为兵蚁或生殖蚁。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults exhibit significant polymorphism. Reproductives (alates) are dark brown to black with two pairs of long, equal-sized wings. Soldiers are characterized by massive, elongated heads with powerful, asymmetrical mandibles used for defense against predators like ants. They lack a true worker caste; instead, the colony's labor is performed by pseudergates—immature stages that retain the ability to molt into other castes. Their digestive tract contains specialized symbiotic flagellates and bacteria that enable the breakdown of cellulose and lignin in wood.",
+      "zh": "成虫表现出显著的多态性。有翅生殖蚁呈深褐色至黑色，拥有两对等长的长翅。兵蚁的特征是巨大的、拉长的头部，配有强力且不对称的大颚，用于防御蚂蚁等捕食者。它们缺乏真正的工蚁品级，群体劳动由拟工蚁承担——这些是处于发育阶段的若虫，保留了蜕变为其他品级的能力。其消化道内含有专门的共生鞭毛虫和细菌，使其能够分解木材中的纤维素和木质素。"
+    },
+    "ecology_and_behavior": {
+      "en": "Zootermopsis nevadensis follows a 'one-piece' nesting strategy, where a single piece of wood serves as both the colony's home and its food source. They are highly sensitive to desiccation and require high moisture levels within their wood substrate. Social regulation is maintained through pheromones and tactile communication. When a reproductive pair dies or the colony expands, pseudergates can undergo supplementary molts to become neotenic reproductives. They play a vital ecological role in forest nutrient cycling by accelerating the decomposition of fallen timber.",
+      "zh": "内华达湿木白蚁遵循“单体式”筑巢策略，即单块木材既是群体的家园又是食物来源。它们对干燥高度敏感，要求木材基质内保持高湿度。群体通过信息素和触觉交流维持社会调节。当原始生殖对死亡或群体扩张时，拟工蚁可以通过补充蜕变成为补充生殖蚁。它们通过加速倒伏木材的分解，在森林营养循环中发挥着至关重要的生态作用。"
+    },
+    "habitat_and_distribution": {
+      "en": "This species is primarily distributed along the Pacific coast of North America, ranging from Southern British Columbia through Washington, Oregon, and into California and the Sierra Nevada mountains of Nevada. They are typically found in cool, moist coniferous forests, inhabiting large fallen logs of Douglas fir, pine, and cedar. They are rarely found in urban structures unless the wood is in direct contact with soil and extremely damp.",
+      "zh": "该物种主要分布在北美太平洋沿岸，范围从不列颠哥伦比亚省南部穿过华盛顿州、俄勒冈州，一直延伸到加利福尼亚州和内华达州的内华达山脉。它们通常出现在凉爽潮湿的针叶林中，栖息在花旗松、松树和雪松的大型倒伏原木中。除非木材与土壤直接接触且极其潮湿，否则它们很少出现在城市建筑中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Temperate coniferous forests and coastal woodlands of Western North America.",
+    "text_zh": "北美西部的温带针叶林和沿海林地。",
+    "map_coordinates": [
+      42,
+      -121
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          50.5,
+          -127.5
+        ],
+        [
+          49,
+          -123
+        ],
+        [
+          48,
+          -120
+        ],
+        [
+          47,
+          -117.5
+        ],
+        [
+          45,
+          -117
+        ],
+        [
+          43,
+          -118.5
+        ],
+        [
+          39,
+          -119.5
+        ],
+        [
+          36,
+          -118
+        ],
+        [
+          34,
+          -117
+        ],
+        [
+          32.5,
+          -116.5
+        ],
+        [
+          32.5,
+          -117.5
+        ],
+        [
+          34.5,
+          -120.5
+        ],
+        [
+          37,
+          -122.5
+        ],
+        [
+          40.5,
+          -124.5
+        ],
+        [
+          44,
+          -124.5
+        ],
+        [
+          47,
+          -125
+        ],
+        [
+          49.5,
+          -127
+        ],
+        [
+          50.5,
+          -127.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/nevada-dampwood-termite.jpg"
+}

@@ -1,0 +1,192 @@
+{
+  "id": "eurasian-blue-tit",
+  "name_zh": "蓝山雀",
+  "name_en": "Eurasian Blue Tit",
+  "scientific_name": "Cyanistes caeruleus",
+  "ui_tags": [
+    "Aves",
+    "Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Paridae",
+      "zh": "山雀科"
+    },
+    "genus": {
+      "en": "Cyanistes",
+      "zh": "蓝山雀属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Eurasian Blue Tit is a small, highly active passerine bird characterized by its striking cobalt-blue crown, wings, and tail, contrasted with bright yellow underparts and a white face bisected by a dark blue-black eye stripe. Measuring approximately 12 cm in length, it is renowned for its acrobatic foraging style, often hanging upside down from the outermost twigs of trees to reach insects and larvae. It is a resident breeder throughout temperate and subarctic Europe and parts of Western Asia, showing remarkable adaptability to human-modified landscapes such as gardens and urban parks.",
+    "zh": "蓝山雀是一种体型小巧、极度活跃的雀形目鸟类，其特征是引人注目的钴蓝色冠羽、翅膀和尾部，与鲜黄色的腹部形成鲜明对比。其白色面部被一条深蓝黑色的过眼纹平分。体长约12厘米，以其高超的杂技式觅食方式而闻名，经常倒挂在树枝末梢寻找昆虫和幼虫。蓝山雀是遍布欧洲温带、亚寒带及西亚部分地区的留鸟，对花园和城市公园等人工环境具有极强的适应能力。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults possess a distinctive blue cap encircled by white, with a dark line running through the eye and around the back of the head. The bill is short and stout, optimized for both picking small insects and cracking seeds. Their zygodactyl-like grip (though anatomically passerine) allows them to cling to vertical surfaces and thin swaying branches. Juveniles are noticeably duller, with yellowish cheeks and a more greenish-grey mantle.",
+      "zh": "成鸟拥有独特的蓝色冠羽，周围环绕着白色，一条深色线条穿过眼睛并绕过脑后。喙短而粗壮，既适合啄食微小昆虫，也适合啄开种子。尽管解剖学上属于雀形目，但它们极强的抓握能力使其能够悬挂在垂直表面和摇摆的细枝上。幼鸟颜色明显较暗淡，脸颊发黄，背部呈绿灰色。"
+    },
+    "ecology_and_behavior": {
+      "en": "Blue tits are primarily insectivorous during the breeding season, with a heavy reliance on protein-rich caterpillars to feed their large broods (often 7-12 eggs). In winter, they shift to seeds, nuts, and fats, frequently visiting bird feeders. They are highly territorial during spring but form mixed-species foraging flocks in winter. They are secondary cavity nesters, utilizing holes in trees or nest boxes, and are known for their intelligence and ability to learn complex tasks, such as opening milk bottles to consume cream.",
+      "zh": "蓝山雀在繁殖季节主要以昆虫为食，高度依赖富含蛋白质的毛虫来哺育庞大的雏鸟群（通常产卵7-12枚）。冬季它们转向摄取种子、坚果和脂肪，经常光顾人工喂鸟器。春季具有强烈的领地意识，但冬季会加入混合物种的觅食群。它们是次级洞巢鸟，利用树洞或人工巢箱筑巢。蓝山雀以聪明著称，能够学习复杂的任务，例如在英国著名的“开奶瓶盖”行为。"
+    },
+    "habitat_and_distribution": {
+      "en": "They prefer deciduous or mixed woodlands, particularly those with a high density of oak trees which support abundant caterpillar populations. Their range extends from the British Isles across continental Europe to the Caspian Sea and northern Iran. They are absent from the high Alps and the northernmost reaches of Scandinavia and Russia.",
+      "zh": "它们偏好落叶林或混交林，尤其是橡树密度高的林地，因为橡树能提供丰富的毛虫资源。其分布范围从不列颠群岛横跨欧洲大陆，延伸至里海和伊朗北部。它们在阿尔卑斯山高海拔地区以及斯堪的纳维亚半岛和俄罗斯的最北部地区缺失。"
+    }
+  },
+  "habitat": {
+    "text_en": "Deciduous woodlands, parks, and gardens across Europe and Western Asia.",
+    "text_zh": "遍布欧洲和西亚的落叶林、公园和花园。",
+    "map_coordinates": [
+      52.52,
+      13.4
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          64.5,
+          10.5
+        ],
+        [
+          64,
+          20
+        ],
+        [
+          62,
+          30
+        ],
+        [
+          60,
+          45
+        ],
+        [
+          55,
+          55
+        ],
+        [
+          50,
+          58
+        ],
+        [
+          45,
+          55
+        ],
+        [
+          40,
+          50
+        ],
+        [
+          38,
+          45
+        ],
+        [
+          37,
+          35
+        ],
+        [
+          36,
+          28
+        ],
+        [
+          35,
+          20
+        ],
+        [
+          36,
+          10
+        ],
+        [
+          36,
+          -5
+        ],
+        [
+          37,
+          -9.5
+        ],
+        [
+          43,
+          -10
+        ],
+        [
+          48,
+          -5
+        ],
+        [
+          52,
+          -10.5
+        ],
+        [
+          55,
+          -10.5
+        ],
+        [
+          60,
+          -5
+        ],
+        [
+          62,
+          5
+        ],
+        [
+          64.5,
+          10.5
+        ]
+      ],
+      [
+        [
+          42,
+          35
+        ],
+        [
+          41,
+          45
+        ],
+        [
+          38,
+          48
+        ],
+        [
+          35,
+          45
+        ],
+        [
+          36,
+          35
+        ],
+        [
+          40,
+          28
+        ],
+        [
+          42,
+          35
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/eurasian-blue-tit.jpg"
+}

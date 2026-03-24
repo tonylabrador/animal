@@ -28,7 +28,8 @@ CRITICAL INSTRUCTIONS:
 2. 分布地图精确 (Map coordinates MUST precisely outline realistic terrains/coasts with many points).
 3. 分布地图不要大方框 (ABSOLUTELY NO lazy 4-point rectangular bounding boxes. Draw detailed polygons).
 4. ALL horizontal arrays for polygons: The global_distribution_polygons array should try to remain tight.
-5. Return ONLY raw JSON text. No markdown formatting (\`\`\`json). No apologies.
+5. TAXONOMY RULE: For all whales, dolphins, and even-toed ungulates, you MUST use the order "Cetartiodactyla" (鲸偶蹄目) instead of Cetacea or Artiodactyla.
+6. Return ONLY raw JSON text. No markdown formatting (\`\`\`json). No apologies.
 
 Required JSON Schema:
 {
@@ -143,7 +144,7 @@ function updateRecentlyAdded(newAnimals) {
         link: `[Link](https://wild-explorer.vercel.app/animal/${a.id})`
     }));
 
-    const combined = [...formattedNew, ...existing].slice(0, 20); // Keep only latest 20
+    const combined = [...formattedNew.reverse(), ...existing].slice(0, 20); // Keep only latest 20
     const header = `# ✅ Recently Added Animals\n\n> Latest additions successfully parsed by the AI pipeline.\n\n| # | 中文名 | English Name | Scientific Name | Link |\n|---|--------|-------------|-----------------|------|\n`;
     const body = combined.map((e, index) => `| ${index + 1} | ${e.zh} | ${e.en} | ${e.scientific} | ${e.link} |`).join("\n");
     fs.writeFileSync(RECENT_PATH, header + body + "\n", "utf-8");

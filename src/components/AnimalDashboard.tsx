@@ -345,8 +345,8 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
       {/* ── Footer ── */}
       <footer className="border-t border-slate-100 py-6 text-center text-xs text-slate-400">
         {lang === "en"
-          ? "Wild Explorer · Made with ❤️ for Emily"
-          : "动物探索 · 为 Emily 用心制作 ❤️"}
+          ? "Wild Explorer · Made by Emily & Family"
+          : "动物探索 · Emily & Family 制作"}
       </footer>
     </div>
   );

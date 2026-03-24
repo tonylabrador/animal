@@ -1,0 +1,234 @@
+{
+  "id": "mute-swan",
+  "name_zh": "疣鼻天鹅",
+  "name_en": "Mute Swan",
+  "scientific_name": "Cygnus olor",
+  "ui_tags": [
+    "鸟纲",
+    "湿地",
+    "植食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Anseriformes",
+      "zh": "雁形目"
+    },
+    "family": {
+      "en": "Anatidae",
+      "zh": "鸭科"
+    },
+    "genus": {
+      "en": "Cygnus",
+      "zh": "天鹅属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Mute Swan is a massive, elegant waterfowl known for its snowy white plumage and graceful S-shaped neck. Unlike other northern swans, it possesses a bright orange bill with a prominent black fleshy knob at the base, which is larger in males. Despite its name, it is not entirely silent; it communicates through a variety of hisses, snorts, and low barks. It is one of the heaviest flying birds in the world, often reaching weights of over 12 kilograms. In flight, their wings produce a distinctive rhythmic humming sound that can be heard from a distance.",
+    "zh": "疣鼻天鹅是一种体型巨大的水禽，以其洁白的羽毛和优雅的S型颈部曲线而闻名。与其他北半球天鹅不同，它的喙呈鲜艳的橙红色，基部有一个明显的黑色肉质疣突（雄性疣突通常更大）。虽然被称为“无声天鹅”，但它们并非完全沉默，而是通过嘶嘶声、喷鼻声和低沉的叫声进行交流。它是世界上最重的飞禽之一，体重常超过12公斤。飞行时，它们的翅膀会发出一种独特的、远距离可见的节奏性嗡嗡声。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults measure 140 to 160 cm in length with a wingspan of 200 to 240 cm. The plumage is entirely white, while the legs and webbed feet are typically black. The most diagnostic feature is the orange-red bill tipped with black and the basal black knob. Juveniles, known as cygnets, are usually greyish-brown with a lead-grey bill, gradually turning white over their first year. Their skeletal structure is highly adapted for aquatic life, featuring a long trachea and powerful pectoral muscles for sustained flight.",
+      "zh": "成年个体体长140至160厘米，翼展可达200至240厘米。全身羽毛纯白，腿部和蹼足通常为黑色。最显著的特征是橙红色的喙，尖端为黑色，基部有黑色疣突。幼鸟（天鹅雏）通常呈灰褐色，喙为铅灰色，在第一年内逐渐换羽变白。其骨骼结构高度适应水生生活，拥有长气管和强大的胸肌以支持长途飞行。"
+    },
+    "ecology_and_behavior": {
+      "en": "Mute Swans are highly territorial, especially during the breeding season. They perform a 'busking' display—arching their wings and pulling their neck back—to intimidate intruders. They are monogamous and often mate for life, building large mound nests out of reeds and vegetation near the water's edge. Their diet is primarily herbivorous, consisting of submerged aquatic vegetation (SAV), which they reach by upending their bodies in shallow water. They can be aggressive towards humans and other watercraft if they feel their nest or young are threatened.",
+      "zh": "疣鼻天鹅具有极强的领地意识，尤其在繁殖季节。它们会进行一种被称为“拱背”的示威行为——将翅膀弓起并将颈部后缩——以恐吓入侵者。它们实行一夫一妻制，通常终生为伴，在水边用芦苇和植物筑起巨大的堆状巢穴。其食性主要为植食性，摄取沉水植物，通过在浅水中翻转身体来取食。如果感到巢穴或幼鸟受到威胁，它们会对人类或其他船只表现出攻击性。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to much of Europe and Central Asia, they inhabit shallow lakes, slow-moving rivers, estuaries, and coastal lagoons. They have been widely introduced to North America, South Africa, and Australasia, where they are sometimes considered invasive due to their impact on local ecosystems. While some populations are migratory, moving to ice-free waters in winter (such as the Caspian Sea or coastal China), many temperate populations are sedentary year-round if food is abundant.",
+      "zh": "原产于欧洲和中亚的大部分地区，栖息于浅水湖泊、流速缓慢的河流、河口和沿海潟湖。它们已被广泛引入北美、南非和澳大拉西亚，在某些地区因对当地生态系统的影响而被视为入侵物种。虽然部分种群具有迁徙性，冬季会移动到不结冰的水域（如里海或中国沿海），但如果食物充足，许多温带种群会全年留居。"
+    }
+  },
+  "habitat": {
+    "text_en": "Temperate wetlands, freshwater lakes, and brackish coastal waters.",
+    "text_zh": "温带湿地、淡水湖泊及半咸水沿岸水域。",
+    "map_coordinates": [
+      52.52,
+      13.4
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          58.5,
+          -6.5
+        ],
+        [
+          61.2,
+          5.1
+        ],
+        [
+          65.4,
+          15.2
+        ],
+        [
+          66.8,
+          28.5
+        ],
+        [
+          64.2,
+          45.1
+        ],
+        [
+          58.5,
+          65.4
+        ],
+        [
+          55.2,
+          85.3
+        ],
+        [
+          52.1,
+          105.6
+        ],
+        [
+          48.5,
+          122.4
+        ],
+        [
+          42.1,
+          128.5
+        ],
+        [
+          38.5,
+          124.2
+        ],
+        [
+          35.2,
+          118.5
+        ],
+        [
+          32.1,
+          115.2
+        ],
+        [
+          34.5,
+          100.2
+        ],
+        [
+          38.2,
+          85.4
+        ],
+        [
+          42.5,
+          65.2
+        ],
+        [
+          45.1,
+          45.8
+        ],
+        [
+          42.2,
+          35.1
+        ],
+        [
+          38.5,
+          25.4
+        ],
+        [
+          36.2,
+          15.1
+        ],
+        [
+          38.5,
+          -5.2
+        ],
+        [
+          45.2,
+          -8.5
+        ],
+        [
+          52.1,
+          -9.2
+        ],
+        [
+          58.5,
+          -6.5
+        ]
+      ],
+      [
+        [
+          41.2,
+          -92.5
+        ],
+        [
+          45.8,
+          -88.2
+        ],
+        [
+          48.5,
+          -82.1
+        ],
+        [
+          47.2,
+          -70.5
+        ],
+        [
+          42.5,
+          -68.2
+        ],
+        [
+          38.2,
+          -74.5
+        ],
+        [
+          39.5,
+          -85.2
+        ],
+        [
+          41.2,
+          -92.5
+        ]
+      ],
+      [
+        [
+          46.5,
+          30.2
+        ],
+        [
+          48.2,
+          45.5
+        ],
+        [
+          45.1,
+          55.2
+        ],
+        [
+          40.2,
+          52.1
+        ],
+        [
+          38.5,
+          45.2
+        ],
+        [
+          42.1,
+          32.5
+        ],
+        [
+          46.5,
+          30.2
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/mute-swan.jpg"
+}

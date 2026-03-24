@@ -1,0 +1,212 @@
+{
+  "id": "chinese-sturgeon",
+  "name_zh": "中华鲟",
+  "name_en": "Chinese Sturgeon",
+  "scientific_name": "Acipenser sinensis",
+  "ui_tags": [
+    "Actinopterygii",
+    "Anadromous",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "辐鳍鱼纲"
+    },
+    "order": {
+      "en": "Acipenseriformes",
+      "zh": "鲟形目"
+    },
+    "family": {
+      "en": "Acipenseridae",
+      "zh": "鲟科"
+    },
+    "genus": {
+      "en": "Acipenser",
+      "zh": "鲟属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "The Chinese Sturgeon is a large, anadromous fish often referred to as a 'living fossil,' having existed for over 140 million years. It is characterized by its elongated body, five rows of longitudinal bony scutes, and a heterocercal caudal fin. Adults spend most of their lives in the coastal waters of the East and South China Seas before migrating thousands of kilometers up the Yangtze River to spawn. Due to overfishing and habitat fragmentation caused by dam construction (notably the Gezhouba and Three Gorges dams), the wild population has declined drastically, making it one of the most endangered species in the world.",
+    "zh": "中华鲟是一种大型溯河洄游性鱼类，被誉为“水中大熊猫”和“活化石”，其祖先可追溯至1.4亿年前的白垩纪。体呈纺锤形，体表披有五行纵列的硬鳞（骨板），尾鳍为不对称的歪尾型。成年个体大部分时间生活在东海和南海的沿海大陆架，待性成熟后，会逆流而上数千公里回到长江上游产卵。由于过度捕捞以及葛洲坝、三峡大坝等水利工程导致的生殖洄游通道阻断和栖息地破碎化，野生中华鲟种群数量急剧下降，目前处于极度濒危状态。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Features a spindle-shaped body with a pointed snout and a subterminal mouth. It lacks teeth and possesses four sensory barbels near the mouth used for locating prey on the riverbed. The skeleton is primarily cartilaginous, and the body is protected by five rows of large, diamond-shaped bony plates called scutes. They can grow up to 5 meters in length and weigh over 500 kilograms.",
+      "zh": "身体呈纺锤形，头尖吻长，口位腹面，口前有四枚触须，用于在水底探测猎物。骨骼大部分为软骨，体表无鳞，但有五行明显的菱形骨板（硬鳞）。中华鲟生长速度快，体型巨大，最大个体可达5米长，体重超过500公斤。"
+    },
+    "ecology_and_behavior": {
+      "en": "As an anadromous species, it exhibits complex migratory behavior. Juveniles migrate from the Yangtze to the sea to mature, while adults return to the river to spawn after 8-14 years. They are benthic feeders, consuming small fish, crustaceans, and aquatic insects. Spawning occurs in late autumn in deep, rocky riverbeds with swift currents.",
+      "zh": "作为溯河产卵鱼类，中华鲟具有复杂的洄游行为。幼鱼从长江迁徙至海洋发育成熟，8-14年后成年个体再返回长江产卵。它们是底栖捕食者，主要以小型鱼类、甲壳类和水生昆虫为食。产卵通常发生在深秋季节，选择在流速较快、河底为砾石的长江上游河段。"
+    },
+    "habitat_and_distribution": {
+      "en": "Historically distributed in the Pearl, Min, and Yangtze Rivers, it is now primarily restricted to the main channel of the Yangtze River below the Gezhouba Dam and the coastal waters of the East and South China Seas. They require specific water temperatures and flow rates for successful natural reproduction.",
+      "zh": "历史上分布于珠江、闽江和长江，但目前主要局限于长江干流（葛洲坝以下河段）以及东海、南海的沿海大陆架海域。它们对水温和流速有严格要求，以确保自然繁殖的成功。"
+    }
+  },
+  "habitat": {
+    "text_en": "Large river systems and coastal continental shelves of the Northwest Pacific.",
+    "text_zh": "大型河流系统及西北太平洋沿海大陆架。",
+    "map_coordinates": [
+      31.2304,
+      121.4737
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          31.3,
+          121.9
+        ],
+        [
+          31.8,
+          121
+        ],
+        [
+          32.1,
+          119.5
+        ],
+        [
+          32.2,
+          118.7
+        ],
+        [
+          31.5,
+          118.3
+        ],
+        [
+          30.5,
+          117
+        ],
+        [
+          29.8,
+          116
+        ],
+        [
+          30.5,
+          114.3
+        ],
+        [
+          29.8,
+          112.2
+        ],
+        [
+          30.7,
+          111.3
+        ],
+        [
+          30.3,
+          111.3
+        ],
+        [
+          29.5,
+          112.5
+        ],
+        [
+          30.2,
+          114.5
+        ],
+        [
+          29.5,
+          116.2
+        ],
+        [
+          31.2,
+          118.5
+        ],
+        [
+          31.5,
+          121.5
+        ],
+        [
+          31.3,
+          121.9
+        ]
+      ],
+      [
+        [
+          39,
+          121
+        ],
+        [
+          37.5,
+          123
+        ],
+        [
+          34,
+          122.5
+        ],
+        [
+          31,
+          123.5
+        ],
+        [
+          28,
+          122
+        ],
+        [
+          25,
+          120
+        ],
+        [
+          22,
+          115
+        ],
+        [
+          20,
+          111
+        ],
+        [
+          18.5,
+          109
+        ],
+        [
+          19.5,
+          108.5
+        ],
+        [
+          21.5,
+          112
+        ],
+        [
+          24,
+          118
+        ],
+        [
+          27,
+          121.5
+        ],
+        [
+          31,
+          122.5
+        ],
+        [
+          35,
+          123.5
+        ],
+        [
+          38.5,
+          122.5
+        ],
+        [
+          39,
+          121
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/chinese-sturgeon.jpg"
+}

@@ -1,0 +1,184 @@
+{
+  "id": "thorn-bug",
+  "name_zh": "刺角蝉",
+  "name_en": "Thorn Bug",
+  "scientific_name": "Umbonia crassicornis",
+  "ui_tags": [
+    "昆虫纲",
+    "热带雨林",
+    "植食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Insecta",
+      "zh": "昆虫纲"
+    },
+    "order": {
+      "en": "Hemiptera",
+      "zh": "半翅目"
+    },
+    "family": {
+      "en": "Membracidae",
+      "zh": "角蝉科"
+    },
+    "genus": {
+      "en": "Umbonia",
+      "zh": "刺角蝉属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "Umbonia crassicornis, commonly known as the thorn bug, is a master of mimicry within the Membracidae family. It is characterized by a remarkably enlarged and sclerotized pronotum that extends dorsally into a sharp, thorn-like structure. This morphological adaptation serves as a defensive mechanism, allowing the insect to blend seamlessly with the thorns of its host plants, primarily leguminous trees. They exhibit complex subsocial behaviors, including maternal care where females guard their offspring and use vibrational signals to communicate with nymphs. Their coloration is highly variable, ranging from bright greens and yellows to deep reddish-browns, often adorned with longitudinal stripes.",
+    "zh": "刺角蝉（Umbonia crassicornis）是角蝉科中极具代表性的拟态物种。其最显著的特征是高度发达且骨素化的前胸背板，向上延伸形成一个尖锐的、类似植物刺的突起。这种形态演化是一种精巧的防御机制，使其在栖息于宿主植物（主要是豆科植物）枝干时能完美伪装成植物的一部分以躲避捕食者。刺角蝉表现出复杂的亚社会性行为，雌性具有护卵和护幼习性，并能通过基质振动信号与若虫进行交流。其体色多变，从鲜绿色、黄色到深红褐色不等，通常带有明显的纵向条纹。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The most striking anatomical feature is the dorsal horn, a modification of the pronotum. In females, this horn is typically more vertical and pronounced, while in males, it may be shorter and angled forward. They possess piercing-sucking mouthparts (rostrum) designed to penetrate plant phloem. Their hind legs are adapted for jumping, though they spend most of their time stationary. The wings are membranous but usually hidden beneath the expansive pronotum when at rest.",
+      "zh": "其解剖结构最引人注目的是由前胸背板演化而来的背角。雌性的背角通常更直立且显著，而雄性的背角可能较短并向前倾斜。它们拥有刺吸式口器（喙），专门用于穿透植物韧皮部吸食汁液。后足适应跳跃，尽管它们大部分时间保持静止。翅膀为膜质，但在静止时通常隐藏在宽大的前胸背板之下。"
+    },
+    "ecology_and_behavior": {
+      "en": "Thorn bugs are gregarious, often found in dense clusters on twigs. They feed on plant sap, excreting honeydew which often attracts mutualistic ants. A unique aspect of their ecology is maternal investment; the female remains with her egg mass (inserted into the bark) and later the nymphs, defending them against predators like syrphid fly larvae and wasps. Communication is achieved through substrate-borne vibrations, which nymphs use to signal hunger or danger to the mother.",
+      "zh": "刺角蝉具有群居性，常成群聚集在嫩枝上。它们以植物汁液为食，排泄出的蜜露常吸引蚂蚁形成互利共生关系。其生态行为的一个独特方面是母本投入：雌性会守护嵌入树皮的卵块以及孵化后的若虫，抵御食蚜蝇幼虫和胡蜂等捕食者。它们通过基质传导的振动进行交流，若虫利用这种信号向母亲传递饥饿或危险的信息。"
+    },
+    "habitat_and_distribution": {
+      "en": "This species is native to the Neotropical realm, ranging from northern South America through Central America and Mexico into the southern United States, particularly Florida. They prefer subtropical and tropical climates where their host plants, such as Albizia, Acacia, and Calliandra, are abundant. In urban areas, they are frequently found on ornamental leguminous trees.",
+      "zh": "该物种原产于新热带界，分布范围从南美洲北部穿过中美洲和墨西哥，延伸至美国南部（尤其是佛罗里达州）。它们偏好亚热带和热带气候，其宿主植物如合欢属、金合欢属和朱缨花属在这些地区分布广泛。在城市地区，它们也经常出现在园林景观中的豆科观赏树木上。"
+    }
+  },
+  "habitat": {
+    "text_en": "Subtropical and tropical forests, gardens, and agricultural areas with leguminous host plants.",
+    "text_zh": "亚热带及热带森林、花园以及拥有豆科宿主植物的农业区域。",
+    "map_coordinates": [
+      18.5,
+      -88
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          28.5,
+          -82.7
+        ],
+        [
+          28.6,
+          -80.5
+        ],
+        [
+          27,
+          -80
+        ],
+        [
+          25.5,
+          -80
+        ],
+        [
+          24.5,
+          -81.8
+        ],
+        [
+          25.8,
+          -82.8
+        ],
+        [
+          28.5,
+          -82.7
+        ]
+      ],
+      [
+        [
+          25.9,
+          -97.1
+        ],
+        [
+          20.5,
+          -96.5
+        ],
+        [
+          18.5,
+          -91.5
+        ],
+        [
+          21.5,
+          -87
+        ],
+        [
+          18,
+          -87.5
+        ],
+        [
+          15.5,
+          -88.5
+        ],
+        [
+          13,
+          -87
+        ],
+        [
+          9,
+          -79.5
+        ],
+        [
+          7.5,
+          -77.5
+        ],
+        [
+          11.5,
+          -72.5
+        ],
+        [
+          10.5,
+          -66.5
+        ],
+        [
+          7,
+          -61.5
+        ],
+        [
+          3.5,
+          -60.5
+        ],
+        [
+          1.5,
+          -67.5
+        ],
+        [
+          4,
+          -76.5
+        ],
+        [
+          14,
+          -92.5
+        ],
+        [
+          16.5,
+          -99.5
+        ],
+        [
+          20.5,
+          -105.5
+        ],
+        [
+          25,
+          -108.5
+        ],
+        [
+          25.9,
+          -97.1
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/thorn-bug.jpg"
+}

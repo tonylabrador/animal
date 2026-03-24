@@ -1,0 +1,244 @@
+{
+  "id": "eurasian-magpie",
+  "name_zh": "欧亚喜鹊",
+  "name_en": "Eurasian Magpie",
+  "scientific_name": "Pica pica",
+  "ui_tags": [
+    "Aves",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Corvidae",
+      "zh": "鸦科"
+    },
+    "genus": {
+      "en": "Pica",
+      "zh": "喜鹊属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Eurasian Magpie is one of the most intelligent animals in the world and one of the few non-mammal species able to recognize itself in a mirror test. It is a resident breeding bird throughout the northern part of the Eurasian continent. It is easily distinguished by its black and white plumage and its long, wedge-shaped tail which shows a beautiful iridescent green, blue, and purple sheen in good light. They are highly social, often found in small groups, and are known for their complex vocalizations and bold behavior in urban environments. In many cultures, they are considered a symbol of good luck or intelligence.",
+    "zh": "欧亚喜鹊是世界上最聪明的动物之一，也是少数能通过镜子测试的非哺乳动物物种。它们是遍布欧亚大陆北部的留鸟。其特征非常明显：黑白相间的羽毛，长而呈楔形的尾羽在光线下呈现出迷人的金属绿色、蓝色和紫色光泽。喜鹊具有高度的社会性，常成小群活动，以其复杂的鸣叫声和在城市环境中大胆的行为而闻名。在许多文化中，它们被视为吉祥或智慧的象征。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults measure 44–46 cm in length, with the tail accounting for more than half of the total length. The plumage is predominantly black with a white belly and scapulars (shoulder feathers). The primary feathers are white with black tips, visible as a white flash during flight. The bill, legs, and feet are black. The most striking feature is the structural coloration of the tail and wing feathers, which creates an iridescent effect through light interference rather than pigment.",
+      "zh": "成年个体体长约44-46厘米，其中尾羽占总长度的一半以上。羽毛主要为黑色，腹部和肩羽为纯白色。初级飞羽为白色并带有黑色尖端，飞行时会露出明显的白色斑块。喙、腿和脚均为黑色。最引人注目的特征是尾部和翅膀羽毛的结构色，通过光线干涉产生虹彩效应，而非色素沉着。"
+    },
+    "ecology_and_behavior": {
+      "en": "Eurasian Magpies are opportunistic omnivores, feeding on insects, grain, berries, small mammals, and carrion. They are famous for building large, domed nests made of sticks, often high in trees. They exhibit advanced cognitive abilities, including food caching, tool use, and social learning. They are known to mob predators like hawks or owls to drive them away from their territory. Their breeding season typically begins in spring, with both parents participating in nest construction and chick rearing.",
+      "zh": "欧亚喜鹊是机会主义杂食动物，食物包括昆虫、谷物、浆果、小型哺乳动物和腐肉。它们以建造巨大的、带有顶盖的树枝巢穴而闻名，通常位于高树之上。它们表现出高级认知能力，包括储藏食物、使用工具和社交学习。它们会集体围攻鹰或鸮等捕食者，将其赶出领地。繁殖季节通常从春季开始，双亲都会参与筑巢和育雏。"
+    },
+    "habitat_and_distribution": {
+      "en": "They occupy a wide range of habitats, from open countryside with scattered trees to urban parks and gardens. They generally avoid treeless open steppes and dense forests. Their range extends from the British Isles and Iberia in the west, across Europe and Russia, to Central Asia and parts of the Middle East. They are highly adaptable to human-altered landscapes, which has allowed their population to remain stable despite urbanization.",
+      "zh": "它们占据广泛的栖息地，从分布有零星树木的开阔乡村到城市公园和花园。它们通常避开无树的开阔草原和茂密的森林。其分布范围西起不列颠群岛和伊比利亚半岛，横跨欧洲和俄罗斯，延伸至中亚和中东部分地区。它们对人类改变的景观具有极强的适应性，这使得尽管城市化进程不断，其种群数量仍保持稳定。"
+    }
+  },
+  "habitat": {
+    "text_en": "Temperate woodlands, agricultural land, and urban areas across Eurasia.",
+    "text_zh": "遍布欧亚大陆的温带林地、农田和城市区域。",
+    "map_coordinates": [
+      52.52,
+      13.4
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          37,
+          -9.5
+        ],
+        [
+          43,
+          -9
+        ],
+        [
+          50,
+          -5
+        ],
+        [
+          58,
+          -7
+        ],
+        [
+          62,
+          5
+        ],
+        [
+          68,
+          15
+        ],
+        [
+          70,
+          25
+        ],
+        [
+          69,
+          40
+        ],
+        [
+          66,
+          60
+        ],
+        [
+          63,
+          80
+        ],
+        [
+          61,
+          100
+        ],
+        [
+          58,
+          120
+        ],
+        [
+          55,
+          135
+        ],
+        [
+          45,
+          142
+        ],
+        [
+          35,
+          140
+        ],
+        [
+          30,
+          130
+        ],
+        [
+          25,
+          120
+        ],
+        [
+          22,
+          110
+        ],
+        [
+          25,
+          100
+        ],
+        [
+          28,
+          90
+        ],
+        [
+          32,
+          80
+        ],
+        [
+          35,
+          60
+        ],
+        [
+          32,
+          50
+        ],
+        [
+          30,
+          45
+        ],
+        [
+          34,
+          35
+        ],
+        [
+          38,
+          25
+        ],
+        [
+          36,
+          15
+        ],
+        [
+          34,
+          5
+        ],
+        [
+          35,
+          -5
+        ],
+        [
+          37,
+          -9.5
+        ]
+      ],
+      [
+        [
+          55.5,
+          -9.5
+        ],
+        [
+          57.5,
+          -7
+        ],
+        [
+          58.5,
+          -5
+        ],
+        [
+          59,
+          -3
+        ],
+        [
+          57,
+          -1.5
+        ],
+        [
+          54,
+          -0.5
+        ],
+        [
+          52,
+          1.5
+        ],
+        [
+          50.5,
+          0.5
+        ],
+        [
+          50,
+          -3
+        ],
+        [
+          51.5,
+          -5
+        ],
+        [
+          52.5,
+          -10
+        ],
+        [
+          55.5,
+          -9.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/eurasian-magpie.jpg"
+}

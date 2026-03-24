@@ -46,3 +46,13 @@
 * `global_distribution_polygons` lack high-precision detail (several polygons use only 6–10 points to represent vast continental ranges, which is considered "lazy" and low-resolution).
 * `ui_tags` are not bilingual (only Chinese terms are provided).
 * The `image` field is null and contains no data.
+
+### [2026-03-24 21:11:32] Review Failed for: 蓝山雀
+* The `image` field is null (missing data).
+* The `ui_tags` field is not bilingual (only provided in Chinese).
+
+### [2026-03-24 21:12:49] Review Failed for: 欧亚喜鹊
+* `global_distribution_polygons` contains a lazy 5-point polygon (Polygon 2).
+* `description` is not strictly bilingual; the Chinese version includes an additional sentence regarding cultural symbolism not present in the English text.
+* `ui_tags` are not bilingual (provided only in Chinese).
+* `image` field is null (missing data).

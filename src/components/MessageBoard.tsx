@@ -44,21 +44,39 @@ export default function MessageBoard() {
 
   return (
     <div className="bg-white/90 backdrop-blur-sm rounded-2xl lg:rounded-3xl p-3 lg:p-5 shadow-sm border border-slate-100 flex flex-col h-full">
-      <button 
-        onClick={() => setIsOpen(!isOpen)}
-        className="flex items-center justify-between w-full text-left lg:cursor-default lg:pointer-events-none group"
-      >
-        <div className="flex items-center gap-2 text-amber-500">
-          <MessageSquare size={18} strokeWidth={2.5} />
-          <h3 className="font-bold text-slate-800 text-sm tracking-tight transition-colors group-hover:text-amber-600 lg:group-hover:text-slate-800">
-            {lang === "en" ? "Feedback & Comments" : "留言与反馈"}
-          </h3>
+      <div className="flex items-center justify-between w-full">
+        <button 
+          onClick={() => setIsOpen(!isOpen)}
+          className="flex items-center gap-2 text-left lg:cursor-default lg:pointer-events-none group"
+        >
+          <div className="flex items-center gap-2 text-amber-500">
+            <MessageSquare size={18} strokeWidth={2.5} />
+            <h3 className="font-bold text-slate-800 text-sm tracking-tight transition-colors group-hover:text-amber-600 lg:group-hover:text-slate-800">
+              {lang === "en" ? "Feedback & Comments" : "留言与反馈"}
+            </h3>
+          </div>
+        </button>
+        
+        <div className="flex items-center gap-2">
+          <a
+            href="https://github.com/tonylabrador/animal/blob/main/USER_COMMENTS.md"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[11px] font-bold text-amber-600 bg-amber-50 hover:bg-amber-100 px-2 py-1 rounded-lg transition-colors shadow-sm whitespace-nowrap active:scale-95"
+          >
+            {lang === "en" ? "View Replies" : "查看回复"}
+          </a>
+          <button 
+            onClick={() => setIsOpen(!isOpen)}
+            className="p-1 lg:hidden text-slate-400"
+          >
+            <ChevronDown 
+              size={18} 
+              className={`transition-transform duration-300 ${isOpen ? "rotate-180" : ""}`} 
+            />
+          </button>
         </div>
-        <ChevronDown 
-          size={18} 
-          className={`lg:hidden transition-transform duration-300 text-slate-400 ${isOpen ? "rotate-180" : ""}`} 
-        />
-      </button>
+      </div>
       
       <div className={`grid transition-all duration-300 ease-in-out lg:!grid-rows-[1fr] lg:!opacity-100 lg:!mt-3 ${
         isOpen ? 'grid-rows-[1fr] opacity-100 mt-3' : 'grid-rows-[0fr] opacity-0 mt-0 pt-0'

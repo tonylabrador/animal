@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **282** 种动物
+**统计**：共 **291** 种动物
 
 ---
 
@@ -356,6 +356,12 @@
 - 港湾鼠海豚 / Harbor Porpoise — *Phocoena phocoena* `harbor-porpoise`
 - 小头鼠海豚 / Vaquita — *Phocoena sinus* `vaquita`
 
+### 鲸目
+
+**鼠海豚科**
+
+- 长江江豚 / Yangtze finless porpoise — *Neophocaena asiaeorientalis asiaeorientalis* `yangtze-finless-porpoise`
+
 ### 鳞甲目
 
 **穿山甲科**
@@ -422,6 +428,11 @@
 
 - 须钟伞鸟 / Bearded Bellbird — *Procnias averano* `bearded-bellbird`
 
+**山雀科**
+
+- 煤山雀 / Coal Tit — *Periparus ater* `coal-tit`
+- 蓝山雀 / Eurasian Blue Tit — *Cyanistes caeruleus* `eurasian-blue-tit`
+
 **极乐鸟科**
 
 - 大天堂鸟 / Greater Bird-of-paradise — *Paradisaea apoda* `greater-bird-of-paradise`
@@ -453,6 +464,7 @@
 - 美洲乌鸦 / American Crow — *Corvus brachyrhynchos* `american-crow`
 - 加州灌丛鸦 / California Scrub-Jay — *Aphelocoma californica* `california-scrub-jay`
 - 渡鸦 / Common Raven — *Corvus corax* `common-raven`
+- 欧亚喜鹊 / Eurasian Magpie — *Pica pica* `eurasian-magpie`
 
 **麻雀科**
 
@@ -462,7 +474,9 @@
 
 **鸭科**
 
+- 黑天鹅 / Black Swan — *Cygnus atratus* `black-swan`
 - 加拿大雁 / Canada Goose — *Branta canadensis* `canada-goose`
+- 疣鼻天鹅 / Mute Swan — *Cygnus olor* `mute-swan`
 
 ### 雨燕目
 
@@ -725,6 +739,12 @@
 
 ## 昆虫纲
 
+### 半翅目
+
+**角蝉科**
+
+- 刺角蝉 / Thorn Bug — *Umbonia crassicornis* `thorn-bug`
+
 ### 双翅目
 
 **果蝇科**
@@ -748,6 +768,10 @@
 - 布氏游蚁 / Army Ant — *Eciton burchellii* `army-ant`
 
 ### 蜚蠊目
+
+**原白蚁科**
+
+- 内华达湿木白蚁 / Nevada dampwood termite — *Zootermopsis nevadensis* `nevada-dampwood-termite`
 
 **白蚁科**
 
@@ -979,6 +1003,12 @@
 **鲉科**
 
 - 蓑鲉 / Red Lionfish — *Pterois volitans* `red-lionfish`
+
+### 鲟形目
+
+**鲟科**
+
+- 中华鲟 / Chinese Sturgeon — *Acipenser sinensis* `chinese-sturgeon`
 
 ---
 

@@ -1,0 +1,256 @@
+{
+  "id": "black-swan",
+  "name_zh": "黑天鹅",
+  "name_en": "Black Swan",
+  "scientific_name": "Cygnus atratus",
+  "ui_tags": [
+    "鸟纲",
+    "湿地",
+    "草食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Anseriformes",
+      "zh": "雁形目"
+    },
+    "family": {
+      "en": "Anatidae",
+      "zh": "鸭科"
+    },
+    "genus": {
+      "en": "Cygnus",
+      "zh": "天鹅属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Black Swan is a large, majestic waterbird native to Australia and Tasmania. Unlike its northern hemisphere relatives, it possesses striking soot-black plumage with ruffled feather edges and white primary flight feathers that are only visible during flight. It is renowned for its exceptionally long, S-shaped neck and its bright red bill with a white subterminal band. These birds are highly nomadic, moving across the Australian continent in response to rainfall and food availability, and are famous for their lifelong monogamous pair bonds.",
+    "zh": "黑天鹅是一种原产于澳大利亚和塔斯马尼亚的大型水禽。与北半球的近亲不同，它拥有独特的深黑色羽毛，羽缘微卷，仅在飞行时可见洁白的初级飞羽。黑天鹅以其极长的S型颈部和带有白色横带的鲜红色喙部而闻名。它们具有极强的游荡性，会根据降雨和食物供应情况在澳洲大陆迁徙。黑天鹅以其终身的一夫一妻制和复杂的社交行为而著称，是湿地生态系统中的旗舰物种。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Black Swan has the longest neck relative to its body size among all swans, containing 22 to 25 cervical vertebrae. Adults typically measure 110 to 142 cm in length and weigh up to 9 kg. Their plumage is almost entirely black, save for the white flight feathers. The bill is a vibrant waxy red with a pale bar near the tip. Juveniles (cygnets) are grey-brown with pale-edged feathers and a duller bill. Their feet are grey-black and fully webbed for efficient swimming.",
+      "zh": "黑天鹅拥有天鹅属中最长的脖子，包含22至25节颈椎。成年个体体长通常在110至142厘米之间，体重可达9公斤。全身羽毛除飞行羽外几乎全为黑色，羽片边缘呈波浪状卷曲。喙部呈鲜艳的蜡红色，尖端有一条明显的白色横带。幼鸟（天鹅雏）呈灰褐色，羽毛边缘较浅，喙色暗淡。其足部为灰黑色，具有完整的蹼，便于在水中高效游动。"
+    },
+    "ecology_and_behavior": {
+      "en": "Primarily herbivorous, Black Swans feed on aquatic and emergent plants, often reaching deep underwater with their long necks. They are highly social and can form flocks numbering in the thousands. Breeding is opportunistic, often triggered by high water levels following heavy rain. They build large mound-like nests of reeds and debris in shallow water. Both parents share incubation and cygnet-rearing duties. They communicate through a musical, bugle-like call and various visual displays including neck-stretching and wing-flapping.",
+      "zh": "黑天鹅主要为草食性，以水生植物和挺水植物为食，常利用长颈伸入深水处取食。它们具有高度的社会性，在非繁殖期可形成数千只的大群。繁殖行为具有机会性，通常由暴雨后的水位上升触发。它们在浅水中用芦苇和碎屑筑起巨大的堆状巢穴。双亲共同承担孵化和育雏任务。它们通过类似号角的鸣叫声以及包括伸展脖子和拍打翅膀在内的各种视觉信号进行交流。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to the wetlands of Australia, they inhabit permanent and ephemeral lakes, rivers, estuaries, and coastal lagoons. While they prefer freshwater, they are tolerant of brackish and saltwater environments. They have been successfully introduced to New Zealand, where they are now widespread, and small feral populations exist in parts of Europe and Asia. Their distribution is dynamic, shifting across the Australian interior during wet years to exploit temporary salt lakes.",
+      "zh": "黑天鹅原产于澳大利亚的湿地，栖息于永久性及季节性的湖泊、河流、河口和沿海泻湖。虽然它们偏好淡水，但也能耐受咸水环境。它们已被成功引入新西兰并广泛分布，在欧洲和亚洲部分地区也存在少量野化种群。其分布具有动态性，在雨水充沛的年份会迁徙至澳大利亚内陆，利用临时形成的盐湖进行繁殖和觅食。"
+    }
+  },
+  "habitat": {
+    "text_en": "Wetlands, lakes, and coastal lagoons across Australia and Tasmania.",
+    "text_zh": "遍布澳大利亚和塔斯马尼亚的湿地、湖泊及沿海泻湖。",
+    "map_coordinates": [
+      -28.2744,
+      133.7751
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -24.1,
+          151.5
+        ],
+        [
+          -26.5,
+          153.5
+        ],
+        [
+          -30.2,
+          153.3
+        ],
+        [
+          -33.5,
+          151.8
+        ],
+        [
+          -36.2,
+          150.2
+        ],
+        [
+          -38.5,
+          147.5
+        ],
+        [
+          -38.8,
+          145.2
+        ],
+        [
+          -38.2,
+          143.5
+        ],
+        [
+          -37.5,
+          140.2
+        ],
+        [
+          -35.8,
+          138.5
+        ],
+        [
+          -34.2,
+          136.5
+        ],
+        [
+          -32.5,
+          137.2
+        ],
+        [
+          -31.8,
+          139.5
+        ],
+        [
+          -30.5,
+          142.5
+        ],
+        [
+          -26.5,
+          146.5
+        ],
+        [
+          -24.2,
+          149.5
+        ],
+        [
+          -24.1,
+          151.5
+        ]
+      ],
+      [
+        [
+          -28.2,
+          114.2
+        ],
+        [
+          -30.5,
+          115.1
+        ],
+        [
+          -32.8,
+          115.6
+        ],
+        [
+          -34.8,
+          115.2
+        ],
+        [
+          -35.5,
+          117.8
+        ],
+        [
+          -34.9,
+          120.5
+        ],
+        [
+          -33.8,
+          123.8
+        ],
+        [
+          -32.5,
+          124.8
+        ],
+        [
+          -31.2,
+          122.5
+        ],
+        [
+          -29.2,
+          118.8
+        ],
+        [
+          -28.2,
+          114.2
+        ]
+      ],
+      [
+        [
+          -40.5,
+          144.5
+        ],
+        [
+          -40.6,
+          147.9
+        ],
+        [
+          -41.8,
+          148.5
+        ],
+        [
+          -43.2,
+          148.2
+        ],
+        [
+          -43.7,
+          146.8
+        ],
+        [
+          -43.5,
+          145.8
+        ],
+        [
+          -42.5,
+          145.1
+        ],
+        [
+          -41.2,
+          144.5
+        ],
+        [
+          -40.5,
+          144.5
+        ]
+      ],
+      [
+        [
+          -15.5,
+          125.5
+        ],
+        [
+          -17.2,
+          123.5
+        ],
+        [
+          -19.5,
+          121.5
+        ],
+        [
+          -21.5,
+          120.5
+        ],
+        [
+          -20.5,
+          124.5
+        ],
+        [
+          -18.5,
+          127.5
+        ],
+        [
+          -15.5,
+          125.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/black-swan.jpg"
+}
