@@ -18,3 +18,6 @@
 > 保护地位： 它们目前处于极度濒危（Critically Endangered）状态。
 
 ## 作者回复：已加入！欢迎查看！
+
+### Comment on 2026-03-24 23:09:25
+> The White's tree frog does not have a photo; plz fix it.
