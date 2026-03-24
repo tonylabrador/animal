@@ -1,0 +1,148 @@
+{
+  "id": "victorian-grassland-earless-dragon",
+  "name_zh": "维多利亚草原无耳龙",
+  "name_en": "Victorian grassland earless dragon",
+  "scientific_name": "Tympanocryptis pinguicolla",
+  "ui_tags": [
+    "Reptilia",
+    "Grassland",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Agamidae",
+      "zh": "飞蜥科"
+    },
+    "genus": {
+      "en": "Tympanocryptis",
+      "zh": "耳龙属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "The Victorian grassland earless dragon is a small, cryptic lizard endemic to the native temperate grasslands of Victoria, Australia. Measuring only about 15 centimeters in total length, it is distinguished by its lack of external ear openings and a stout, well-camouflaged body. For over 50 years, the species was feared extinct, with no confirmed sightings between 1969 and 2023. Its rediscovery in a secret location west of Melbourne has sparked intensive conservation efforts. It is a specialist of the Victorian Volcanic Plain, relying on the complex structure of native tussock grasses and basalt rock crevices for survival.",
+    "zh": "维多利亚草原无耳龙是一种体型细小、善于伪装的蜥蜴，仅分布于澳大利亚维多利亚州的天然温带草原。其全长仅约15厘米，最显著的特征是完全缺失外部耳孔，且拥有粗壮、颜色与环境高度融合的躯体。该物种曾被认为已经灭绝，在1969年至2023年间长达50多年的时间里没有任何确切的野外发现记录。2023年在墨尔本以西某秘密地点的重新发现引发了国际性的保护关注。它们是维多利亚火山平原的特有种，高度依赖原生丛生禾草和玄武岩裂缝提供的复杂生境生存。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "This dragon exhibits a robust, depressed body shape with relatively short limbs. Its coloration consists of intricate patterns of brown, grey, and white, mimicking the basalt soils and dried grasses of its habitat. Unlike most lizards, it lacks a tympanum (eardrum) and external ear canal, an evolutionary trait that gives the genus its name. The scales are keeled and varied in size, providing a rough texture that aids in thermoregulation and camouflage.",
+      "zh": "这种龙蜥表现出粗壮且略微扁平的体型，四肢相对较短。其体色由棕色、灰色和白色组成的复杂斑纹构成，完美模拟了其栖息地的玄武岩土壤和枯草。与大多数蜥蜴不同，它缺乏鼓膜（耳膜）和外耳道，这一进化特征正是该属名称的由来。其鳞片具有棱脊且大小不一，提供了粗糙的质感，有助于体温调节和伪装。"
+    },
+    "ecology_and_behavior": {
+      "en": "Primarily diurnal, these lizards are sit-and-wait predators that feed on small invertebrates such as ants, beetles, and spiders. They are highly cryptic and will remain motionless to avoid detection by predators like raptors and snakes. During extreme heat or cold, they retreat into deep cracks in the basalt soil or utilize the abandoned burrows of large wolf spiders. Their life cycle is relatively short, and they reach sexual maturity within their first year, a strategy likely evolved to cope with the unpredictable Australian climate.",
+      "zh": "它们主要在白天活动，属于坐等型捕食者，以蚂蚁、甲虫和蜘蛛等小型无脊椎动物为食。它们具有极强的隐蔽性，在遇到猛禽或蛇类等天敌时会保持绝对静止以躲避侦测。在极端炎热或寒冷的天气里，它们会退缩到玄武岩土壤的深层裂缝中，或利用大型狼蛛遗弃的洞穴。其生命周期相对较短，通常在出生后第一年内即可达到性成熟，这可能是为了应对澳大利亚不可预测气候的一种进化策略。"
+    },
+    "habitat_and_distribution": {
+      "en": "Historically, the species ranged across the Victorian Volcanic Plain from Melbourne to the South Australian border. However, due to over 99% loss of native grasslands to agriculture and urban development, its range is now restricted to tiny, fragmented remnants. They require high-quality native grasslands dominated by Kangaroo Grass (Themeda triandra) and Wallaby Grass (Rytidosperma spp.), where the ground cover is not too dense, allowing for open basking sites and access to underground refugia.",
+      "zh": "历史上，该物种分布于从墨尔本一直延伸到南澳大利亚州边界的维多利亚火山平原。然而，由于超过99%的原生草原因农业和城市开发而消失，其分布范围目前仅限于极少数破碎的残存区域。它们需要高质量的原生草原，主要由袋鼠草和沙蚕草组成，且地面覆盖物不能过于密集，以便提供开放的日光浴场所和进入地下避难所的通道。"
+    }
+  },
+  "habitat": {
+    "text_en": "Temperate native grasslands of the Victorian Volcanic Plain, characterized by basalt soils and tussock vegetation.",
+    "text_zh": "维多利亚火山平原的温带原生草原，以玄武岩土壤和丛生植被为特征。",
+    "map_coordinates": [
+      -37.8136,
+      144.3637
+    ],
+    "map_zoom_level": 8,
+    "global_distribution_polygons": [
+      [
+        [
+          -37.55,
+          143.5
+        ],
+        [
+          -37.45,
+          143.8
+        ],
+        [
+          -37.5,
+          144.2
+        ],
+        [
+          -37.65,
+          144.6
+        ],
+        [
+          -37.85,
+          144.85
+        ],
+        [
+          -38.05,
+          144.7
+        ],
+        [
+          -38.15,
+          144.4
+        ],
+        [
+          -38.25,
+          144.1
+        ],
+        [
+          -38.1,
+          143.5
+        ],
+        [
+          -37.9,
+          143
+        ],
+        [
+          -37.7,
+          143.1
+        ],
+        [
+          -37.55,
+          143.5
+        ]
+      ],
+      [
+        [
+          -37.7,
+          142.2
+        ],
+        [
+          -37.6,
+          142.5
+        ],
+        [
+          -37.8,
+          142.8
+        ],
+        [
+          -38,
+          142.6
+        ],
+        [
+          -37.9,
+          142.1
+        ],
+        [
+          -37.7,
+          142.2
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/victorian-grassland-earless-dragon.jpg"
+}

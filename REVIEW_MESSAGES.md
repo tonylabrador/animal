@@ -56,3 +56,9 @@
 * `description` is not strictly bilingual; the Chinese version includes an additional sentence regarding cultural symbolism not present in the English text.
 * `ui_tags` are not bilingual (provided only in Chinese).
 * `image` field is null (missing data).
+
+### [2026-03-24 23:50:27] Review Failed for: 维多利亚草原无耳龙
+* `image` field is null (missing data).
+* `ui_tags` are not strictly bilingual (English only).
+* `global_distribution_polygons` lack high-precision complexity (Polygon 2 is a simple 6-point shape).
+* `taxonomy.genus.zh` ("耳龙属") is inconsistent with the species name translation ("无耳龙").

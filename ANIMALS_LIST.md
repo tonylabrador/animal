@@ -2,17 +2,11 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **291** 种动物
+**统计**：共 **292** 种动物
 
 ---
 
 ## 哺乳纲
-
-### 偶蹄目
-
-**须鲸科**
-
-- 座头鲸 / Humpback Whale — *Megaptera novaeangliae* `humpback-whale`
 
 ### 兔形目
 
@@ -329,6 +323,7 @@
 **须鲸科**
 
 - 蓝鲸 / Blue Whale — *Balaenoptera musculus* `blue-whale`
+- 座头鲸 / Humpback Whale — *Megaptera novaeangliae* `humpback-whale`
 
 **骆驼科**
 
@@ -355,11 +350,6 @@
 
 - 港湾鼠海豚 / Harbor Porpoise — *Phocoena phocoena* `harbor-porpoise`
 - 小头鼠海豚 / Vaquita — *Phocoena sinus* `vaquita`
-
-### 鲸目
-
-**鼠海豚科**
-
 - 长江江豚 / Yangtze finless porpoise — *Neophocaena asiaeorientalis asiaeorientalis* `yangtze-finless-porpoise`
 
 ### 鳞甲目
@@ -640,6 +630,10 @@
 
 - 高冠变色龙 / Veiled Chameleon — *Chamaeleo calyptratus* `veiled-chameleon`
 
+**飞蜥科**
+
+- 维多利亚草原无耳龙 / Victorian grassland earless dragon — *Tympanocryptis pinguicolla* `victorian-grassland-earless-dragon`
+
 **鬣蜥科**
 
 - 中部鬃狮蜥 / Central Bearded dragon — *Pogona vitticeps* `central-bearded-dragon`
@@ -818,61 +812,6 @@
 
 ---
 
-## 硬骨鱼纲
-
-### 月鱼目
-
-**皇带鱼科**
-
-- 皇带鱼 / Giant Oarfish — *Regalecus glesne* `giant-oarfish`
-
-### 海龙目
-
-**海龙科**
-
-- 海马 / Common Seahorse — *Hippocampus kuda* `common-seahorse`
-- 叶海龙 / Leafy Seadragon — *Phycodurus eques* `leafy-seadragon`
-
-### 鮟鱇目
-
-**躄鱼科**
-
-- 条纹躄鱼 / Striated Frogfish — *Antennarius striatus* `striated-frogfish`
-
-**黑角鮟鱇科**
-
-- 黑角鮟鱇 / Humpback Anglerfish — *Melanocetus johnsonii* `humpback-anglerfish`
-
-### 鲀形目
-
-**四齿鲀科**
-
-- 红鳍东方鲀 / Tiger Puffer — *Takifugu rubripes* `tiger-puffer`
-
-**翻车鲀科**
-
-- 翻车鱼 / Ocean Sunfish — *Mola mola* `ocean-sunfish`
-
-### 鲈形目
-
-**雀鲷科**
-
-- 眼斑双锯鱼(小丑鱼) / Ocellaris Clownfish — *Amphiprion ocellaris* `ocellaris-clownfish`
-
-### 鲱形目
-
-**鲱科**
-
-- 大西洋鲱 / Atlantic Herring — *Clupea harengus* `atlantic-herring`
-
-### 鲻形目
-
-**鲻科**
-
-- 鲻鱼 / Flathead Grey Mullet — *Mugil cephalus* `flathead-grey-mullet`
-
----
-
 ## 立方水母纲
 
 ### 加勒比水母目
@@ -998,6 +937,45 @@
 
 ## 辐鳍鱼纲
 
+### 月鱼目
+
+**皇带鱼科**
+
+- 皇带鱼 / Giant Oarfish — *Regalecus glesne* `giant-oarfish`
+
+### 海龙目
+
+**海龙科**
+
+- 海马 / Common Seahorse — *Hippocampus kuda* `common-seahorse`
+- 叶海龙 / Leafy Seadragon — *Phycodurus eques* `leafy-seadragon`
+
+### 鮟鱇目
+
+**躄鱼科**
+
+- 条纹躄鱼 / Striated Frogfish — *Antennarius striatus* `striated-frogfish`
+
+**黑角鮟鱇科**
+
+- 黑角鮟鱇 / Humpback Anglerfish — *Melanocetus johnsonii* `humpback-anglerfish`
+
+### 鲀形目
+
+**四齿鲀科**
+
+- 红鳍东方鲀 / Tiger Puffer — *Takifugu rubripes* `tiger-puffer`
+
+**翻车鲀科**
+
+- 翻车鱼 / Ocean Sunfish — *Mola mola* `ocean-sunfish`
+
+### 鲈形目
+
+**雀鲷科**
+
+- 眼斑双锯鱼(小丑鱼) / Ocellaris Clownfish — *Amphiprion ocellaris* `ocellaris-clownfish`
+
 ### 鲉形目
 
 **鲉科**
@@ -1009,6 +987,18 @@
 **鲟科**
 
 - 中华鲟 / Chinese Sturgeon — *Acipenser sinensis* `chinese-sturgeon`
+
+### 鲱形目
+
+**鲱科**
+
+- 大西洋鲱 / Atlantic Herring — *Clupea harengus* `atlantic-herring`
+
+### 鲻形目
+
+**鲻科**
+
+- 鲻鱼 / Flathead Grey Mullet — *Mugil cephalus* `flathead-grey-mullet`
 
 ---
 
