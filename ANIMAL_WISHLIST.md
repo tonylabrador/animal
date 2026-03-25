@@ -40,3 +40,4 @@
 | 34 | 北美金翅雀 | American Goldfinch | Spinus tristis | ⏳ Pending |
 | 35 | 东草地鹨 | Eastern meadowlark | Sturnella magna | ⏳ Pending |
 | 36 | 北美真螽 | Common True Katydid | Pterophylla camellifolia | ⏳ Pending |
+| 37 | 家蟋蟀 | House Cricket | Acheta domesticus | ⏳ Pending |
