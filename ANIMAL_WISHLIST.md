@@ -26,3 +26,4 @@
 | 20 | 胭脂鱼 | Chinese high fin banded shark | Myxocyprinus asiaticus | ⏳ Pending |
 | 21 | 长吻鮠 | Longsnout catfish | Leiocassis longirostris | ⏳ Pending |
 | 22 | 日本鳗鲡 | Japanese Eel | Anguilla japonica | ⏳ Pending |
+| 23 | 绢粉蝶 | Crataegus Pierid | Aporia hippia | ⏳ Pending |
