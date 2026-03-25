@@ -22,3 +22,4 @@
 | 16 | 青鱼 | Black Carp | Mylopharyngodon piceus | ⏳ Pending |
 | 17 | 鳙鱼 | Bighead Carp | Hypophthalmichthys nobilis | ⏳ Pending |
 | 18 | 草鱼 | Grass Carp | Ctenopharyngodon idella | ⏳ Pending |
+| 19 | 鲢 | Silver Carp | Hypophthalmichthys molitrix | ⏳ Pending |
