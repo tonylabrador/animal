@@ -28,3 +28,4 @@
 | 22 | 日本鳗鲡 | Japanese Eel | Anguilla japonica | ⏳ Pending |
 | 23 | 绢粉蝶 | Crataegus Pierid | Aporia hippia | ⏳ Pending |
 | 24 | 苍鹰 | Northern Goshawk | Accipiter gentilis | ⏳ Pending |
+| 25 | 大鵟 | Upland Buzzard | Buteo hemilasius | ⏳ Pending |
