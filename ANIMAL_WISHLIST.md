@@ -29,3 +29,4 @@
 | 23 | 绢粉蝶 | Crataegus Pierid | Aporia hippia | ⏳ Pending |
 | 24 | 苍鹰 | Northern Goshawk | Accipiter gentilis | ⏳ Pending |
 | 25 | 大鵟 | Upland Buzzard | Buteo hemilasius | ⏳ Pending |
+| 26 | 黑鹳 | Black Stork | Ciconia nigra | ⏳ Pending |
