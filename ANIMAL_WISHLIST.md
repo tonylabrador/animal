@@ -31,3 +31,4 @@
 | 25 | 大鵟 | Upland Buzzard | Buteo hemilasius | ⏳ Pending |
 | 26 | 黑鹳 | Black Stork | Ciconia nigra | ⏳ Pending |
 | 27 | 美洲红鹮 | Scarlet ibis | Eudocimus ruber | ⏳ Pending |
+| 28 | 镰嘴管舌鸟 | I'iwi | Drepanis coccinea | ⏳ Pending |
