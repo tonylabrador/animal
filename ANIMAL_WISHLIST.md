@@ -21,3 +21,4 @@
 | 15 | 华莱士巨蜂 | Wallace's giant bee | Megachile pluto | ⏳ Pending |
 | 16 | 青鱼 | Black Carp | Mylopharyngodon piceus | ⏳ Pending |
 | 17 | 鳙鱼 | Bighead Carp | Hypophthalmichthys nobilis | ⏳ Pending |
+| 18 | 草鱼 | Grass Carp | Ctenopharyngodon idella | ⏳ Pending |
