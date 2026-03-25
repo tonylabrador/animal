@@ -15,3 +15,4 @@
 | 9 | 黄臀象鼩 | Golden-rumped elephant shrew | Rhynchocyon chrysopygus | ⏳ Pending |
 | 10 | 鸮鹦鹉 | Kakapo | Strigops habroptila | ⏳ Pending |
 | 11 | 马岛獴 | Fossa | Cryptoprocta ferox | ⏳ Pending |
+| 12 | 袋食蚁兽 | Numbat | Myrmecobius fasciatus | ⏳ Pending |
