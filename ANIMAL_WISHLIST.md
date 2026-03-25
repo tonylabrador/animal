@@ -36,3 +36,4 @@
 | 30 | 威氏极乐鸟 | Wilson's bird-of-paradise | Cicinnurus respublica | ⏳ Pending |
 | 31 | 斑马跳蛛 | Zebra jumping spider | Salticus scenicus | ⏳ Pending |
 | 32 | 壮丽细尾鹩莺 | Superb Fairy-wren | Malurus cyaneus | ⏳ Pending |
+| 33 | 蓝脚鲣鸟 | Blue-footed booby | Sula nebouxi | ⏳ Pending |
