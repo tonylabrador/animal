@@ -23,3 +23,4 @@
 | 17 | 鳙鱼 | Bighead Carp | Hypophthalmichthys nobilis | ⏳ Pending |
 | 18 | 草鱼 | Grass Carp | Ctenopharyngodon idella | ⏳ Pending |
 | 19 | 鲢 | Silver Carp | Hypophthalmichthys molitrix | ⏳ Pending |
+| 20 | 胭脂鱼 | Chinese high fin banded shark | Myxocyprinus asiaticus | ⏳ Pending |
