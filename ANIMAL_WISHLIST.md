@@ -6,3 +6,4 @@
 |---|--------|-------------|-----------------|------|
 | 1 | 土豚 | Aardvark | Orycteropus afer | ⏳ Pending |
 | 2 | 中南大羚 | Saola | Pseudoryx nghetinhensis | ⏳ Pending |
+| 3 | 达尔文狐 | Darwin's fox | Lycalopex fulvipes | ⏳ Pending |
