@@ -24,3 +24,4 @@
 | 18 | 草鱼 | Grass Carp | Ctenopharyngodon idella | ⏳ Pending |
 | 19 | 鲢 | Silver Carp | Hypophthalmichthys molitrix | ⏳ Pending |
 | 20 | 胭脂鱼 | Chinese high fin banded shark | Myxocyprinus asiaticus | ⏳ Pending |
+| 21 | 长吻鮠 | Longsnout catfish | Leiocassis longirostris | ⏳ Pending |
