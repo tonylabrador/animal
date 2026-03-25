@@ -39,3 +39,4 @@
 | 33 | 蓝脚鲣鸟 | Blue-footed booby | Sula nebouxi | ⏳ Pending |
 | 34 | 北美金翅雀 | American Goldfinch | Spinus tristis | ⏳ Pending |
 | 35 | 东草地鹨 | Eastern meadowlark | Sturnella magna | ⏳ Pending |
+| 36 | 北美真螽 | Common True Katydid | Pterophylla camellifolia | ⏳ Pending |
