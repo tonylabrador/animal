@@ -30,3 +30,4 @@
 | 24 | 苍鹰 | Northern Goshawk | Accipiter gentilis | ⏳ Pending |
 | 25 | 大鵟 | Upland Buzzard | Buteo hemilasius | ⏳ Pending |
 | 26 | 黑鹳 | Black Stork | Ciconia nigra | ⏳ Pending |
+| 27 | 美洲红鹮 | Scarlet ibis | Eudocimus ruber | ⏳ Pending |
