@@ -12,3 +12,4 @@
 | 6 | 象牙喙啄木鸟 | Ivory-billed Woodpecker | Campephilus principalis | ⏳ Pending |
 | 7 | 斯特雷泽曼须额穴鸟 | Stresemann's Bristlefront | Merulaxis stresemanni | ⏳ Pending |
 | 8 | 潮龟 | Northern river terrapin | Batagur baska | ⏳ Pending |
+| 9 | 黄臀象鼩 | Golden-rumped elephant shrew | Rhynchocyon chrysopygus | ⏳ Pending |
