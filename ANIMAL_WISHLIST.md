@@ -9,3 +9,4 @@
 | 3 | 达尔文狐 | Darwin's fox | Lycalopex fulvipes | ⏳ Pending |
 | 4 | 加州扁鲨 | Pacific Angelshark | Squatina californica | ⏳ Pending |
 | 5 | 斑鳖 | Yangtze giant softshell turtle | Rafetus swinhoei | ⏳ Pending |
+| 6 | 象牙喙啄木鸟 | Ivory-billed Woodpecker | Campephilus principalis | ⏳ Pending |
