@@ -37,3 +37,4 @@
 | 31 | 斑马跳蛛 | Zebra jumping spider | Salticus scenicus | ⏳ Pending |
 | 32 | 壮丽细尾鹩莺 | Superb Fairy-wren | Malurus cyaneus | ⏳ Pending |
 | 33 | 蓝脚鲣鸟 | Blue-footed booby | Sula nebouxi | ⏳ Pending |
+| 34 | 北美金翅雀 | American Goldfinch | Spinus tristis | ⏳ Pending |
