@@ -35,3 +35,4 @@
 | 29 | 辉亭鸟 | Flame Bowerbird | Sericulus ardens | ⏳ Pending |
 | 30 | 威氏极乐鸟 | Wilson's bird-of-paradise | Cicinnurus respublica | ⏳ Pending |
 | 31 | 斑马跳蛛 | Zebra jumping spider | Salticus scenicus | ⏳ Pending |
+| 32 | 壮丽细尾鹩莺 | Superb Fairy-wren | Malurus cyaneus | ⏳ Pending |
