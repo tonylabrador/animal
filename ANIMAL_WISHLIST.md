@@ -8,3 +8,4 @@
 | 2 | 中南大羚 | Saola | Pseudoryx nghetinhensis | ⏳ Pending |
 | 3 | 达尔文狐 | Darwin's fox | Lycalopex fulvipes | ⏳ Pending |
 | 4 | 加州扁鲨 | Pacific Angelshark | Squatina californica | ⏳ Pending |
+| 5 | 斑鳖 | Yangtze giant softshell turtle | Rafetus swinhoei | ⏳ Pending |
