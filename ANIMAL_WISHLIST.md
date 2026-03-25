@@ -32,3 +32,4 @@
 | 26 | 黑鹳 | Black Stork | Ciconia nigra | ⏳ Pending |
 | 27 | 美洲红鹮 | Scarlet ibis | Eudocimus ruber | ⏳ Pending |
 | 28 | 镰嘴管舌鸟 | I'iwi | Drepanis coccinea | ⏳ Pending |
+| 29 | 辉亭鸟 | Flame Bowerbird | Sericulus ardens | ⏳ Pending |
