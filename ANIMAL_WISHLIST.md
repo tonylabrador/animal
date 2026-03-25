@@ -19,3 +19,4 @@
 | 13 | 爪哇绿鹊 | Javan green magpie | Cissa thalassina | ⏳ Pending |
 | 14 | 伊河海豚 | Irrawaddy dolphin | Orcaella brevirostris | ⏳ Pending |
 | 15 | 华莱士巨蜂 | Wallace's giant bee | Megachile pluto | ⏳ Pending |
+| 16 | 青鱼 | Black Carp | Mylopharyngodon piceus | ⏳ Pending |
