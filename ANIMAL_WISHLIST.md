@@ -41,3 +41,4 @@
 | 35 | 东草地鹨 | Eastern meadowlark | Sturnella magna | ⏳ Pending |
 | 36 | 北美真螽 | Common True Katydid | Pterophylla camellifolia | ⏳ Pending |
 | 37 | 家蟋蟀 | House Cricket | Acheta domesticus | ⏳ Pending |
+| 38 | 鹃鵙 | Cuckoo roller | Leptosomus discolor | ⏳ Pending |
