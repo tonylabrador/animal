@@ -1,0 +1,194 @@
+{
+  "id": "aporia-hippia",
+  "name_zh": "绢粉蝶",
+  "name_en": "Crataegus Pierid",
+  "scientific_name": "Aporia hippia",
+  "ui_tags": [
+    "Insecta",
+    "Mountainous",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Insecta",
+      "zh": "昆虫纲"
+    },
+    "order": {
+      "en": "Lepidoptera",
+      "zh": "鳞翅目"
+    },
+    "family": {
+      "en": "Pieridae",
+      "zh": "粉蝶科"
+    },
+    "genus": {
+      "en": "Aporia",
+      "zh": "绢粉蝶属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "Aporia hippia, the Crataegus Pierid, is a distinctive butterfly characterized by its translucent, paper-like white wings and starkly contrasting black venation. Unlike many other pierids, its wing scales are relatively sparse, giving it a unique 'silken' appearance. It is a specialist of temperate montane environments in East Asia, where its life cycle is closely tied to specific host plants. The species is known for its graceful, slow flight and its tendency to aggregate in damp areas for puddling. During the larval stage, they exhibit communal behavior, often overwintering in silk nests constructed on host branches.",
+    "zh": "绢粉蝶（Aporia hippia）是粉蝶科中极具辨识度的物种，以其半透明如蝉翼般的乳白色翅膀和清晰的黑色翅脉而闻名。其翅面鳞片分布较稀疏，呈现出一种独特的丝绸质感，故名“绢粉蝶”。该物种主要栖息于东亚地区的温带山地森林中，其生命周期与特定的寄主植物紧密相关。绢粉蝶飞行姿态优雅缓慢，常在溪边或潮湿地面聚集吸水（吸吮行为）。其幼虫具有显著的群居性，能在寄主植物枝头织出坚韧的丝巢以度过寒冬，是研究昆虫社会性行为和抗寒机制的优良对象。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The adult has a wingspan of 60–75 mm. The most striking feature is the melanization of the veins against a white or pale yellow ground color. The forewings are slightly more translucent than the hindwings. The antennae are club-shaped and black. In males, the black veining is often more pronounced, while females may exhibit a slightly more brownish tint on the wing margins. Their mouthparts are adapted into a long proboscis for nectar feeding.",
+      "zh": "成虫展翅约60-75毫米。最显著的特征是白色或淡黄色的底色上分布着极深的黑色脉纹。前翅通常比后翅更具透明感。触角呈棒状，黑色。雄性的脉纹通常比雌性更为粗黑，而雌性在翅缘可能带有淡淡的褐色。其口器特化为长管状的喙，专门用于吸食花蜜。"
+    },
+    "ecology_and_behavior": {
+      "en": "The larvae primarily feed on plants of the genus Berberis (Barberry). They are gregarious in their early instars, living and feeding within a communal silk web that provides protection from predators and desiccation. They overwinter as third-instar larvae inside these nests. Adults emerge in early summer, typically having one generation per year (univoltine). They are frequently seen visiting flowers of the Asteraceae and Rosaceae families.",
+      "zh": "幼虫主要取食小檗属（Berberis）植物。低龄幼虫具有高度的群居性，它们共同生活在由丝线织成的巢穴中，以此抵御天敌捕食并保持湿度。该物种通常以三龄幼虫的形式在丝巢内越冬。成虫于初夏羽化，每年通常仅发生一代。成虫频繁访问菊科和蔷薇科植物的花朵，是山地生态系统中重要的传粉者。"
+    },
+    "habitat_and_distribution": {
+      "en": "Aporia hippia is native to East Asia, including Northern and Central China, the Korean Peninsula, Japan (specifically Hokkaido and Honshu), and the Russian Far East. It prefers deciduous broad-leaved forests and mixed forests at altitudes ranging from 500 to 2,500 meters. It is often found in forest edges, clearings, and along mountain streams where host plants are abundant.",
+      "zh": "绢粉蝶原产于东亚，分布范围涵盖中国北方及中部、朝鲜半岛、日本（主要是北海道和本州岛）以及俄罗斯远东地区。它偏好海拔500至2500米之间的落叶阔叶林和针阔混交林。常见于林缘、林间空地以及寄主植物丰富的小溪边。其分布受寄主植物分布的严格限制，具有明显的区域性特征。"
+    }
+  },
+  "habitat": {
+    "text_en": "Temperate deciduous forests, montane shrublands, and forest edges across East Asia.",
+    "text_zh": "东亚地区的温带落叶林、山地灌丛及森林边缘地带。",
+    "map_coordinates": [
+      38.5,
+      125
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          52.5,
+          118
+        ],
+        [
+          54,
+          125
+        ],
+        [
+          52,
+          135
+        ],
+        [
+          48,
+          140
+        ],
+        [
+          42,
+          135
+        ],
+        [
+          38,
+          128
+        ],
+        [
+          34,
+          127
+        ],
+        [
+          33,
+          121
+        ],
+        [
+          38,
+          115
+        ],
+        [
+          45,
+          114
+        ],
+        [
+          52.5,
+          118
+        ]
+      ],
+      [
+        [
+          45.5,
+          141
+        ],
+        [
+          45,
+          145.5
+        ],
+        [
+          42,
+          146
+        ],
+        [
+          38,
+          142
+        ],
+        [
+          34.5,
+          139
+        ],
+        [
+          33.5,
+          135
+        ],
+        [
+          34.5,
+          132
+        ],
+        [
+          37,
+          136
+        ],
+        [
+          41,
+          140
+        ],
+        [
+          45.5,
+          141
+        ]
+      ],
+      [
+        [
+          35,
+          102
+        ],
+        [
+          37,
+          108
+        ],
+        [
+          34,
+          112
+        ],
+        [
+          30,
+          110
+        ],
+        [
+          27,
+          105
+        ],
+        [
+          28,
+          101
+        ],
+        [
+          32,
+          100
+        ],
+        [
+          35,
+          102
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/aporia-hippia.jpg"
+}

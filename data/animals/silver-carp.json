@@ -1,0 +1,242 @@
+{
+  "id": "silver-carp",
+  "name_zh": "鲢",
+  "name_en": "Silver Carp",
+  "scientific_name": "Hypophthalmichthys molitrix",
+  "ui_tags": [
+    "辐鳍鱼纲",
+    "淡水",
+    "滤食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "辐鳍鱼纲"
+    },
+    "order": {
+      "en": "Cypriniformes",
+      "zh": "鲤形目"
+    },
+    "family": {
+      "en": "Xenocyprididae",
+      "zh": "鲴科"
+    },
+    "genus": {
+      "en": "Hypophthalmichthys",
+      "zh": "鲢属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "The Silver Carp is a specialized filter-feeding freshwater fish native to the large river systems of East Asia. It is globally recognized as one of the 'Four Domestic Carps' of China, playing a vital role in aquaculture for over a millennium. Morphologically, it is distinguished by its silver-colored body, exceptionally small scales, and eyes that are positioned unusually low on the head, below the midline. It possesses a sharp ventral keel extending from the throat to the anus. The species is famous for its 'jumping' behavior, where individuals leap up to 3 meters out of the water when startled by the sound of boat engines. While ecologically and economically significant in its native range, it has become a highly problematic invasive species in North America and parts of Europe, where it outcompetes native fish by depleting phytoplankton stocks.",
+    "zh": "鲢（学名：Hypophthalmichthys molitrix）是原产于东亚大型河流系统的特化滤食性淡水鱼类，名列中国“四大家鱼”之首。其养殖历史已逾千年，具有极高的经济价值。在形态上，鲢鱼体色银白，鳞片极小，最显著的特征是其眼睛位置极低，位于头侧中轴线以下。其腹部具有从咽喉部直达肛门的锐利腹棱。鲢鱼以受惊时跃出水面的习性而闻名，受船只引擎声刺激时可跳起逾3米高。虽然在原产地具有重要的生态与经济地位，但在北美及欧洲部分地区，鲢鱼已成为严重的入侵物种，通过大量消耗浮游植物与本土鱼类竞争，对当地水生生态系统造成了巨大冲击。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Silver carp possess a highly specialized branchial apparatus. Their gill rakers are fused into a sponge-like plate, allowing them to filter particles as small as 4 micrometers, primarily phytoplankton. Their digestive tract is extremely long, often 6 to 10 times their body length, to process low-energy plant matter. The low-set eyes and the ventral keel are key diagnostic features separating them from the Bighead Carp (H. nobilis), which only has a keel between the pelvic fins and the anus.",
+      "zh": "鲢鱼拥有高度特化的鳃耙结构，其鳃耙彼此愈合成海绵状的筛板，能够过滤直径仅为4微米的微小颗粒（主要是浮游植物）。为了消化低能量的植物性饵料，其消化道极长，通常为体长的6至10倍。低位的眼睛和贯穿全腹的腹棱是将其与鳙（大头鱼）区分的关键特征，后者的腹棱仅存在于腹鳍基部至肛门之间。"
+    },
+    "ecology_and_behavior": {
+      "en": "Silver carp are typical potamodromous fish, migrating upstream to spawn in turbulent, high-velocity river sections. Spawning is triggered by rising water levels and temperatures. Their eggs are semi-buoyant and must remain suspended in the current for approximately 40-60 miles to hatch successfully. They are highly sensitive to low-frequency vibrations, which triggers their characteristic leaping. In their native habitat, they serve as a primary consumer, regulating algal blooms.",
+      "zh": "鲢鱼是典型的洄游性鱼类，在繁殖季节会溯流而上，在水流湍急、流速较高的江河干流中产卵。产卵行为通常由水位上涨和水温升高诱发。其卵为半浮性，必须在水流中漂浮约60-100公里才能成功孵化。它们对低频振动极其敏感，这正是其受惊跳跃的原因。在原产地生态系统中，它们作为初级消费者，起着调节藻类生物量、防止水体富营养化的重要作用。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to the Amur River in Russia/China south to the Pearl River in China and Vietnam. They prefer the upper layers of large rivers, lakes, and reservoirs with abundant phytoplankton. As an invasive species, they have established massive populations in the Mississippi, Missouri, and Illinois river basins in the United States, where the lack of natural predators and abundant food allow for explosive growth.",
+      "zh": "原产地北起中俄边境的黑龙江，南至中国珠江及越南红河水系。它们偏好栖息于浮游植物丰富的江河干流、湖泊及水库的上层水域。作为入侵物种，它们在美国的密西西比河、密苏里河及伊利诺伊河流域建立了庞大的种群，由于缺乏天敌且食物充足，其种群数量呈爆炸式增长。"
+    }
+  },
+  "habitat": {
+    "text_en": "Large river systems, floodplains, and eutrophic lakes.",
+    "text_zh": "大型河流系统、泛滥平原及富营养化湖泊。",
+    "map_coordinates": [
+      30.5,
+      114.3
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          48.5,
+          130.2
+        ],
+        [
+          50.1,
+          127.5
+        ],
+        [
+          53.5,
+          120.1
+        ],
+        [
+          45.2,
+          122.3
+        ],
+        [
+          40.5,
+          120.5
+        ],
+        [
+          38.2,
+          117.5
+        ],
+        [
+          35.1,
+          119.2
+        ],
+        [
+          32,
+          121.5
+        ],
+        [
+          30.2,
+          122.1
+        ],
+        [
+          28.5,
+          121.8
+        ],
+        [
+          22.5,
+          114.5
+        ],
+        [
+          21.2,
+          110.2
+        ],
+        [
+          20.5,
+          106.5
+        ],
+        [
+          22.1,
+          103.5
+        ],
+        [
+          25.5,
+          105.2
+        ],
+        [
+          30.1,
+          110.5
+        ],
+        [
+          34.5,
+          110.2
+        ],
+        [
+          36.5,
+          115.5
+        ],
+        [
+          42.1,
+          125.5
+        ],
+        [
+          48.5,
+          130.2
+        ]
+      ],
+      [
+        [
+          45.5,
+          -93.2
+        ],
+        [
+          42.1,
+          -90.5
+        ],
+        [
+          38.5,
+          -90.2
+        ],
+        [
+          35.2,
+          -90.1
+        ],
+        [
+          30.5,
+          -91.2
+        ],
+        [
+          29.5,
+          -89.5
+        ],
+        [
+          31.2,
+          -88.5
+        ],
+        [
+          34.5,
+          -87.2
+        ],
+        [
+          37.5,
+          -88.5
+        ],
+        [
+          39.2,
+          -85.5
+        ],
+        [
+          41.5,
+          -82.5
+        ],
+        [
+          43.2,
+          -84.5
+        ],
+        [
+          45.5,
+          -93.2
+        ]
+      ],
+      [
+        [
+          52.5,
+          13.5
+        ],
+        [
+          50.2,
+          10.5
+        ],
+        [
+          48.5,
+          15.2
+        ],
+        [
+          45.5,
+          20.5
+        ],
+        [
+          44.2,
+          28.5
+        ],
+        [
+          47.5,
+          30.5
+        ],
+        [
+          50.5,
+          25.5
+        ],
+        [
+          52.5,
+          13.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/silver-carp.jpg"
+}

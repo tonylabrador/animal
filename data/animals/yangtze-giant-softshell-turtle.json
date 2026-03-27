@@ -1,0 +1,198 @@
+{
+  "id": "yangtze-giant-softshell-turtle",
+  "name_zh": "斑鳖",
+  "name_en": "Yangtze giant softshell turtle",
+  "scientific_name": "Rafetus swinhoei",
+  "ui_tags": [
+    "Reptilia",
+    "Freshwater",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Testudines",
+      "zh": "龟鳖目"
+    },
+    "family": {
+      "en": "Trionychidae",
+      "zh": "鳖科"
+    },
+    "genus": {
+      "en": "Rafetus",
+      "zh": "斑鳖属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "The Yangtze giant softshell turtle (Rafetus swinhoei) is the world's rarest and most endangered freshwater turtle species, often described as a 'living fossil'. It is a massive chelonian, capable of reaching weights exceeding 100 kilograms and lengths of over 100 centimeters. Characterized by its deep olive-green skin mottled with distinct yellow spots and a pig-like snout, it possesses a highly depressed, leathery carapace without peripheral bones. Historically revered in Vietnamese culture as the 'Hoan Kiem turtle', the species is now functionally extinct in the wild, with only a handful of individuals known to exist in captivity or isolated Vietnamese lakes. Its decline is attributed to habitat destruction, over-harvesting for local consumption, and the damming of major river systems like the Yangtze and the Red River.",
+    "zh": "斑鳖（Rafetus swinhoei）是世界上最稀有、最濒危的淡水鳖类，被誉为“水中大熊猫”和“活化石”。它是体型最大的鳖科动物，体重可超过100公斤，躯体长度可达1米以上。其背甲呈深橄榄绿色，布满醒目的黄色斑点，头部宽大，吻部极短且呈猪鼻状。斑鳖在历史上曾广泛分布于长江下游及红河水系，在越南文化中被尊为“还剑鳖”。由于过度捕捞、栖息地丧失以及河流筑坝导致的生态破碎化，该物种目前处于极度濒危状态，野外几乎绝迹，全球已知存活个体屈指可数，是生物多样性保护中最紧迫的案例之一。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Rafetus swinhoei exhibits extreme sexual dimorphism in size, with males generally smaller than females. Its skull is massive and heavily ossified, featuring a powerful bite force adapted for crushing mollusks and crustaceans. The carapace is smooth, leathery, and lacks the hard scutes found in most turtles, instead supported by a reduced bony disk. Its long neck and proboscis-like snout allow it to breathe while remaining almost entirely submerged. The limbs are heavily webbed with three claws, facilitating powerful swimming in slow-moving riverine and lacustrine environments.",
+      "zh": "斑鳖表现出明显的体型差异，雌性通常大于雄性。其头骨巨大且高度骨化，拥有极强的咬合力，足以粉碎软体动物和甲壳类动物。背甲平坦且具有厚实的革质皮肤，缺乏大多数龟类的硬质角质盾片，由退化的骨板支撑。其颈部极长，吻突呈管状，使其能在身体几乎完全没入水下的情况下进行呼吸。四肢具宽大的蹼和三枚强壮的爪，非常适合在流速较慢的河流和湖泊环境中强力游泳。"
+    },
+    "ecology_and_behavior": {
+      "en": "This species is primarily a solitary, nocturnal, or crepuscular predator. Its diet is opportunistic, consisting of fish, crustaceans, mollusks, frogs, and occasionally aquatic plants. They are known for their extreme shyness and ability to remain submerged for extended periods, making them exceptionally difficult to survey in the wild. Nesting occurs on sandy banks during the late spring and summer, where females lay clutches of 20 to 60 spherical, hard-shelled eggs. The incubation period and hatchling survival are highly sensitive to temperature and humidity fluctuations.",
+      "zh": "斑鳖主要是一种独居的、夜行性或晨昏性捕食者。其食性为机会主义，包括鱼类、甲壳类、软体动物、蛙类以及少量的水生植物。它们以极度胆小和长时间潜水的能力而闻名，这使得野外调查极其困难。产卵通常在春末夏初的沙岸上进行，雌性每窝产下20至60枚球形硬壳卵。孵化期和幼体存活率对温度和湿度的波动高度敏感。"
+    },
+    "habitat_and_distribution": {
+      "en": "Historically, the species ranged from the Yangtze River basin in China to the Red River (Sông Hồng) in northern Vietnam and Yunnan province. Its preferred habitats include large, deep freshwater rivers and adjacent wetlands or lakes with muddy bottoms. Today, its distribution is restricted to a few isolated locations in Vietnam, specifically Dong Mo Lake and Xuan Khanh Lake, where intensive DNA monitoring and local conservation efforts are underway to identify any remaining wild individuals.",
+      "zh": "历史上，该物种分布范围从中国的长江流域延伸至越南北部及云南省的红河水系。其首选栖息地包括大型深水河流及相邻的湿地或底质淤泥的湖泊。如今，其分布仅限于越南少数孤立地点，特别是同莫湖（Dong Mo Lake）和宣庆湖（Xuan Khanh Lake），目前正通过高强度的环境DNA监测和当地保护行动来寻找任何残存的野外个体。"
+    }
+  },
+  "habitat": {
+    "text_en": "Deep freshwater rivers, lakes, and wetlands with muddy substrates in the Yangtze and Red River basins.",
+    "text_zh": "长江及红河流域的深水河流、湖泊及具有淤泥底质的湿地。",
+    "map_coordinates": [
+      21.11,
+      105.53
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [
+        [
+          21.25,
+          105.35
+        ],
+        [
+          21.35,
+          105.45
+        ],
+        [
+          21.45,
+          105.65
+        ],
+        [
+          21.3,
+          105.85
+        ],
+        [
+          21.15,
+          105.95
+        ],
+        [
+          21,
+          105.85
+        ],
+        [
+          20.9,
+          105.65
+        ],
+        [
+          21.05,
+          105.45
+        ],
+        [
+          21.25,
+          105.35
+        ]
+      ],
+      [
+        [
+          23.5,
+          102.5
+        ],
+        [
+          23.8,
+          103.2
+        ],
+        [
+          23.2,
+          104
+        ],
+        [
+          22.5,
+          104.5
+        ],
+        [
+          22,
+          105
+        ],
+        [
+          21.5,
+          105.5
+        ],
+        [
+          21,
+          106.2
+        ],
+        [
+          20.5,
+          106.5
+        ],
+        [
+          20.2,
+          106.2
+        ],
+        [
+          20.8,
+          105.5
+        ],
+        [
+          21.5,
+          104.5
+        ],
+        [
+          22.5,
+          103.5
+        ],
+        [
+          23.5,
+          102.5
+        ]
+      ],
+      [
+        [
+          32.2,
+          118.5
+        ],
+        [
+          32.5,
+          119.5
+        ],
+        [
+          31.8,
+          120.8
+        ],
+        [
+          31.2,
+          121.5
+        ],
+        [
+          30.5,
+          121.2
+        ],
+        [
+          30.8,
+          120.2
+        ],
+        [
+          31.5,
+          119.2
+        ],
+        [
+          32.2,
+          118.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/yangtze-giant-softshell-turtle.jpg"
+}

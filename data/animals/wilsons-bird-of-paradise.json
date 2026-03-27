@@ -1,0 +1,168 @@
+{
+  "id": "wilsons-bird-of-paradise",
+  "name_zh": "威氏极乐鸟",
+  "name_en": "Wilson's Bird-of-paradise",
+  "scientific_name": "Cicinnurus respublica",
+  "ui_tags": [
+    "Aves",
+    "Rainforest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Paradisaeidae",
+      "zh": "极乐鸟科"
+    },
+    "genus": {
+      "en": "Cicinnurus",
+      "zh": "王极乐鸟属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "Wilson's bird-of-paradise is a small, strikingly colorful passerine endemic to the islands of Waigeo and Batanta. The male is a living masterpiece of evolution, featuring a bald, turquoise-blue crown patterned with black double-cross feathers, a crimson back, and a yellow mantle. Its most iconic feature is the pair of central tail feathers that curve into elegant violet spirals. Measuring approximately 16 cm, it is one of the most sought-after species for ornithologists due to its complex courtship rituals and restricted range.",
+    "zh": "威氏极乐鸟是一种体型娇小、色彩极其艳丽的雀形目鸟类，仅分布于印尼的维杰奥岛和巴丹塔岛。雄鸟堪称进化的杰作：其头顶是一块裸露的、带有黑色双十字花纹的蓝宝石色皮肤，背部呈鲜红色，颈部有黄色披肩。最显著的特征是其两根深紫色的中央尾羽，它们向外卷曲成完美的螺旋状。这种鸟体长约16厘米，因其复杂的求偶行为和极窄的分布范围，被认为是极乐鸟科中最具传奇色彩的物种之一。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The male's anatomy is specialized for visual display. The bare skin on the crown is a vivid turquoise, which remains bright even after death in museum specimens, though it loses its luster. The breast shield is an iridescent emerald green. The unique lyre-shaped tail feathers are formed by the rachis of the central rectrices, which lack barbs except at the base and tips, causing them to curl. Females, in contrast, are drab brown with a blue crown, providing camouflage while nesting.",
+      "zh": "雄鸟的解剖结构高度特化以用于视觉展示。其头顶裸露的皮肤呈鲜艳的蓝绿色，即使在博物馆标本中也能保持颜色（尽管会失去光泽）。胸部拥有一块翠绿色的虹彩胸盾。独特的琴状尾羽由中央尾羽的羽轴构成，除基部和尖端外几乎没有羽支，从而形成自然的卷曲。相比之下，雌鸟羽色暗淡，呈褐色，仅头顶有少量蓝色，这有利于其在筑巢时躲避掠食者。"
+    },
+    "ecology_and_behavior": {
+      "en": "Males are famous for their 'court' cleaning behavior. A male will select a small patch of the forest floor, meticulously removing every leaf, twig, and piece of debris to ensure his vibrant colors pop against the dark earth. When a female arrives, he performs a rhythmic dance, pulsating his green breast shield and tilting his head to showcase the turquoise crown. Their diet consists primarily of small fruits, arthropods, and insects found in the lower canopy.",
+      "zh": "雄鸟以其“清理舞台”的行为而闻名。雄鸟会在森林地面选择一小块区域，细心地清除每一片落叶、树枝和杂物，以确保在深色的背景上完美衬托出自己的艳丽色彩。当雌鸟出现时，雄鸟会进行有节奏的舞蹈，收缩并扩张其绿色的胸盾，同时倾斜头部以展示头顶的蓝宝石色皮肤。它们的饮食主要由低层林冠中的小型水果、节肢动物和昆虫组成。"
+    },
+    "habitat_and_distribution": {
+      "en": "This species has one of the most restricted distributions of any bird-of-paradise, found only on the islands of Waigeo and Batanta off West Papua, Indonesia. They inhabit lowland rainforests and hill forests, typically at elevations between 300 and 1,200 meters. Due to their limited range and ongoing habitat loss from logging, they are classified as Near Threatened.",
+      "zh": "该物种是极乐鸟中分布范围最窄的物种之一，仅发现于印尼西巴布亚省附近的维杰奥岛（Waigeo）和巴丹塔岛（Batanta）。它们栖息在低地雨林和山地森林中，通常分布在海拔300至1200米之间。由于分布范围极其有限，加之伐木导致的栖息地丧失，它们被列为近危物种。"
+    }
+  },
+  "habitat": {
+    "text_en": "Endemic to the hill forests of Waigeo and Batanta islands, West Papua.",
+    "text_zh": "特产于西巴布亚省的维杰奥岛和巴丹塔岛的山地森林中。",
+    "map_coordinates": [
+      -0.48,
+      130.75
+    ],
+    "map_zoom_level": 8,
+    "global_distribution_polygons": [
+      [
+        [
+          -0.152,
+          130.355
+        ],
+        [
+          -0.081,
+          130.452
+        ],
+        [
+          -0.025,
+          130.658
+        ],
+        [
+          0.012,
+          130.855
+        ],
+        [
+          -0.055,
+          131.052
+        ],
+        [
+          -0.158,
+          131.255
+        ],
+        [
+          -0.352,
+          131.325
+        ],
+        [
+          -0.485,
+          131.152
+        ],
+        [
+          -0.552,
+          130.955
+        ],
+        [
+          -0.525,
+          130.758
+        ],
+        [
+          -0.452,
+          130.552
+        ],
+        [
+          -0.325,
+          130.355
+        ],
+        [
+          -0.152,
+          130.355
+        ]
+      ],
+      [
+        [
+          -0.752,
+          130.355
+        ],
+        [
+          -0.785,
+          130.552
+        ],
+        [
+          -0.825,
+          130.758
+        ],
+        [
+          -0.852,
+          130.955
+        ],
+        [
+          -0.925,
+          130.985
+        ],
+        [
+          -0.985,
+          130.852
+        ],
+        [
+          -0.952,
+          130.655
+        ],
+        [
+          -0.885,
+          130.452
+        ],
+        [
+          -0.825,
+          130.325
+        ],
+        [
+          -0.752,
+          130.355
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/wilsons-bird-of-paradise.jpg"
+}

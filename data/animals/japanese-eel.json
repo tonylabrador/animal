@@ -1,0 +1,200 @@
+{
+  "id": "japanese-eel",
+  "name_zh": "日本鳗鲡",
+  "name_en": "Japanese Eel",
+  "scientific_name": "Anguilla japonica",
+  "ui_tags": [
+    "辐鳍鱼纲",
+    "江河洄游",
+    "肉食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "辐鳍鱼纲"
+    },
+    "order": {
+      "en": "Anguilliformes",
+      "zh": "鳗鲡目"
+    },
+    "family": {
+      "en": "Anguillidae",
+      "zh": "鳗鲡科"
+    },
+    "genus": {
+      "en": "Anguilla",
+      "zh": "鳗鲡属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The Japanese eel is a catadromous fish of immense biological and economic significance, native to East Asia. It is famous for its extraordinary life cycle, involving a 3,000-kilometer migration from freshwater rivers to deep-sea spawning grounds near the West Mariana Ridge. The species undergoes several distinct metamorphic stages: the leaf-like leptocephalus larvae, transparent glass eels, pigmented elvers, yellow eels (growth stage), and finally silver eels (migratory stage). Due to overfishing, habitat loss, and changes in ocean currents, its population has declined drastically, leading to its classification as Endangered.",
+    "zh": "日本鳗鲡是一种在生物学和经济上都具有极高价值的降河洄游鱼类，原产于东亚。它以其非凡的生命周期而闻名，涉及从淡水河流到马里亚纳海岭附近深海产卵场长达3000公里的迁徙。该物种经历多个不同的变态阶段：叶片状的柳叶鳗幼体、透明的玻璃鳗、色素沉着的黑丝鳗、黄鳗（生长阶段）以及最后的银鳗（洄游阶段）。由于过度捕捞、栖息地丧失和洋流变化，其种群数量急剧下降，已被列为濒危物种。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Japanese eel features an elongated, cylindrical body that becomes laterally compressed towards the tail. It lacks pelvic fins, and its dorsal, anal, and caudal fins are continuous, forming a single fringe. The skin is thick and covered with a protective mucus layer, with tiny, cycloid scales embedded deep within the dermis in a characteristic basket-weave pattern. Its lower jaw protrudes slightly beyond the upper jaw, and its gill openings are small and lateral. During the silver eel stage, their eyes enlarge and their digestive tract degenerates to prepare for the long journey to the abyss.",
+      "zh": "日本鳗鲡身体细长呈圆柱形，向尾部逐渐侧扁。它缺少腹鳍，背鳍、臀鳍和尾鳍完全连接，形成一个连续的边缘。皮肤厚实，覆盖着一层保护性的黏液层，微小的圆鳞深埋在真皮中，呈现出特征性的席纹状排列。其下颌略长于上颌，鳃孔小而位于侧位。在银鳗阶段，它们的眼睛会变大，消化道会退化，以为前往深海的漫长旅程做准备。"
+    },
+    "ecology_and_behavior": {
+      "en": "As a catadromous species, it spends most of its life (5 to 20 years) in freshwater or estuarine environments before returning to the ocean to spawn and die. Spawning occurs at depths of 150-200 meters in the North Equatorial Current region. The larvae drift with the Kuroshio Current towards the coasts of East Asia. They are primarily nocturnal predators, using a highly developed sense of smell to locate prey such as crustaceans, aquatic insects, and small fish. They are capable of surviving out of water for short periods by breathing through their skin, provided they remain moist.",
+      "zh": "作为一种降河洄游物种，它一生的大部分时间（5至20年）在淡水或河口环境中度过，然后返回海洋产卵并死亡。产卵发生在北赤道流区域150-200米深处。幼体随黑潮向东亚海岸漂移。它们主要是夜行性掠食者，利用高度发达的嗅觉寻找甲壳类、水生昆虫和小鱼等猎物。只要保持湿润，它们能够通过皮肤呼吸在水外短时间生存。"
+    },
+    "habitat_and_distribution": {
+      "en": "The distribution spans the northwestern Pacific Ocean, including the waters of Japan, Korea, mainland China, Taiwan, and the northern Philippines. Their habitat is diverse: adults inhabit rivers, lakes, and ponds with muddy or rocky bottoms, while juveniles are found in estuaries. The spawning site is localized to a specific area near the Suruga Seamount in the West Mariana Ridge. They prefer subtropical to temperate waters and are sensitive to water quality and migratory barriers like dams.",
+      "zh": "分布范围横跨西北太平洋，包括日本、韩国、中国大陆、台湾和菲律宾北部的海域。它们的栖息地多样：成鱼栖息在底质为泥沙或岩石的河流、湖泊和池塘中，而幼鱼则出现在河口。产卵场位于马里亚纳海岭骏河海山附近的特定区域。它们偏好亚热带至温带水域，对水质和水坝等洄游障碍非常敏感。"
+    }
+  },
+  "habitat": {
+    "text_en": "Freshwater rivers, lakes, and coastal estuaries of East Asia; deep-sea spawning grounds in the Western Pacific.",
+    "text_zh": "东亚的淡水河流、湖泊和沿海河口；西太平洋的深海产卵场。",
+    "map_coordinates": [
+      30.5,
+      125
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          14,
+          141.5
+        ],
+        [
+          16.5,
+          141.5
+        ],
+        [
+          16.5,
+          143.5
+        ],
+        [
+          14,
+          143.5
+        ],
+        [
+          14,
+          141.5
+        ]
+      ],
+      [
+        [
+          18.2,
+          121.5
+        ],
+        [
+          20.5,
+          121.8
+        ],
+        [
+          22,
+          120.5
+        ],
+        [
+          25.5,
+          121
+        ],
+        [
+          26.5,
+          119.8
+        ],
+        [
+          30.2,
+          121.5
+        ],
+        [
+          32.5,
+          121
+        ],
+        [
+          35.8,
+          126.2
+        ],
+        [
+          38.5,
+          124.5
+        ],
+        [
+          40.2,
+          128.5
+        ],
+        [
+          42.5,
+          130.2
+        ],
+        [
+          43.8,
+          141.5
+        ],
+        [
+          45.5,
+          142.2
+        ],
+        [
+          44,
+          145.5
+        ],
+        [
+          40.5,
+          142.5
+        ],
+        [
+          35.2,
+          140.8
+        ],
+        [
+          33.5,
+          135.5
+        ],
+        [
+          31.2,
+          130.5
+        ],
+        [
+          26.5,
+          127.5
+        ],
+        [
+          24.5,
+          121.5
+        ],
+        [
+          22.5,
+          114.5
+        ],
+        [
+          20,
+          110.5
+        ],
+        [
+          18.5,
+          108.5
+        ],
+        [
+          21.5,
+          108.2
+        ],
+        [
+          23.5,
+          117.5
+        ],
+        [
+          18.2,
+          121.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/japanese-eel.jpg"
+}

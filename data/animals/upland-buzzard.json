@@ -1,0 +1,170 @@
+{
+  "id": "upland-buzzard",
+  "name_zh": "大鵟",
+  "name_en": "Upland Buzzard",
+  "scientific_name": "Buteo hemilasius",
+  "ui_tags": [
+    "鸟纲",
+    "草原",
+    "肉食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Accipitriformes",
+      "zh": "鹰形目"
+    },
+    "family": {
+      "en": "Accipitridae",
+      "zh": "鹰科"
+    },
+    "genus": {
+      "en": "Buteo",
+      "zh": "鵟属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Upland Buzzard is the largest member of the genus Buteo, a powerful raptor specifically adapted to the high-altitude environments of Central and East Asia. It is distinguished by its broad, rounded wings and a relatively short, fan-shaped tail. A key anatomical feature is its partially feathered tarsi, which provide insulation against the extreme cold of the Tibetan and Mongolian plateaus. The species exhibits significant plumage polymorphism, ranging from pale morphs with creamy-white underparts to dark morphs that appear almost entirely sooty brown. As an apex predator of the steppe, it plays a crucial role in controlling rodent and lagomorph populations.",
+    "zh": "大鵟是鵟属中体型最大的一种，是专门适应中亚和东亚高海拔环境的强力猛禽。其特征是翅膀宽大圆润，尾羽呈短扇形。一个关键的解剖特征是其跗蹠前面通常被羽至趾基部，这为抵御青藏高原和蒙古高原的严寒提供了绝佳的隔热保护。该物种具有显著的羽色多态性，从下体呈奶油白色的淡色型到几乎全身呈烟褐色的暗色型不等。作为草原生态系统中的顶级掠食者，大鵟在控制啮齿类和兔形目动物数量方面发挥着至关重要的作用。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Upland Buzzard measures 57–71 cm in length with a wingspan of 143–161 cm. It possesses a heavy, hooked beak and powerful talons. Its most distinctive feature is the feathering on the front of the tarsus, which extends further down than in most other buzzards. The primary feathers often show a distinct white patch at the base when seen from below. The iris color varies from pale yellow in juveniles to dark brown in adults.",
+      "zh": "大鵟体长约57-71厘米，翼展可达143-161厘米。它拥有厚重且带钩的喙以及强有力的爪。最独特的特征是跗蹠前缘的被羽，比大多数其他鵟属鸟类延伸得更深。从下方观察时，初级飞羽基部通常显示出明显的白色斑块。虹膜颜色随年龄变化，幼鸟多为淡黄色，成年后变为深褐色。"
+    },
+    "ecology_and_behavior": {
+      "en": "Primarily a diurnal hunter, the Upland Buzzard employs various hunting strategies, including soaring at high altitudes to spot prey or perching on rocky outcrops and telegraph poles. Its diet consists mainly of small mammals such as pikas, voles, and marmot pups, but it also takes birds, reptiles, and large insects. Breeding occurs in spring, with nests typically constructed of sticks and wool on cliff ledges or occasionally in trees in more sheltered valleys.",
+      "zh": "大鵟主要在白天活动，采用多种捕猎策略，包括在高空盘旋以搜寻猎物，或静候在岩石露头和电线杆上。其食物主要由小型哺乳动物组成，如高原鼠兔、田鼠和旱獭幼崽，但也捕食鸟类、爬行动物和大型昆虫。繁殖期在春季，巢穴通常由树枝和羊毛筑成，位于悬崖边缘，偶尔也会建在避风山谷的树木上。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species is native to the vast open landscapes of Central Asia, including the Tibetan Plateau, Mongolia, and parts of Siberia and Northern China. It inhabits alpine meadows, montane steppes, and semi-desert regions at elevations ranging from 1,000 to 5,000 meters. While some populations are sedentary, those in the northernmost parts of the range migrate south to the Indian subcontinent and Southeast Asia during winter.",
+      "zh": "该物种原产于中亚广阔的开阔地带，包括青藏高原、蒙古以及西伯利亚和中国北部的部分地区。它栖息在海拔1000至5000米之间的高山草甸、山地草原和半荒漠地区。虽然部分种群为留鸟，但分布区最北端的种群在冬季会向南迁徙至印度次大陆和东南亚。"
+    }
+  },
+  "habitat": {
+    "text_en": "Alpine meadows, steppes, and semi-deserts of Central and East Asia.",
+    "text_zh": "中亚和东亚的高山草甸、草原及半荒漠地带。",
+    "map_coordinates": [
+      40,
+      100
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          52.5,
+          85.2
+        ],
+        [
+          54.1,
+          95.4
+        ],
+        [
+          55.2,
+          108.5
+        ],
+        [
+          54.8,
+          115.2
+        ],
+        [
+          53.5,
+          122.1
+        ],
+        [
+          50.2,
+          126.5
+        ],
+        [
+          45.8,
+          128.4
+        ],
+        [
+          42.1,
+          125.2
+        ],
+        [
+          38.5,
+          120.4
+        ],
+        [
+          35.2,
+          118.1
+        ],
+        [
+          32.4,
+          114.5
+        ],
+        [
+          30.1,
+          108.2
+        ],
+        [
+          28.5,
+          102.4
+        ],
+        [
+          27.2,
+          95.5
+        ],
+        [
+          26.8,
+          88.2
+        ],
+        [
+          27.5,
+          82.1
+        ],
+        [
+          29.2,
+          78.4
+        ],
+        [
+          32.5,
+          74.2
+        ],
+        [
+          36.8,
+          71.5
+        ],
+        [
+          41.2,
+          70.8
+        ],
+        [
+          45.5,
+          72.4
+        ],
+        [
+          48.2,
+          76.5
+        ],
+        [
+          50.5,
+          80.2
+        ],
+        [
+          52.5,
+          85.2
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/upland-buzzard.jpg"
+}

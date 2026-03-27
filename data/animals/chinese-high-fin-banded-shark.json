@@ -1,0 +1,174 @@
+{
+  "id": "chinese-high-fin-banded-shark",
+  "name_zh": "胭脂鱼",
+  "name_en": "Chinese high fin banded shark",
+  "scientific_name": "Myxocyprinus asiaticus",
+  "ui_tags": [
+    "辐鳍鱼纲",
+    "淡水",
+    "杂食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "辐鳍鱼纲"
+    },
+    "order": {
+      "en": "Cypriniformes",
+      "zh": "鲤形目"
+    },
+    "family": {
+      "en": "Catostomidae",
+      "zh": "亚口鱼科"
+    },
+    "genus": {
+      "en": "Myxocyprinus",
+      "zh": "胭脂鱼属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The Chinese high fin banded shark (Myxocyprinus asiaticus) is a primitive freshwater fish endemic to the Yangtze River basin. Despite its common name, it is not a shark but a member of the Catostomidae family, being the only extant species of this family in Asia. It is renowned for its dramatic ontogenetic morphological transformation; juveniles possess a remarkably high, triangular dorsal fin and three bold, dark vertical bands on a silver-grey body. As they reach maturity, their body elongates, the dorsal fin becomes proportionally smaller, and their coloration shifts to a uniform dusky red or thick brown. This species is a potamodromous migrant, traveling long distances within the river system to reach spawning grounds in the upper reaches.",
+    "zh": "胭脂鱼（Myxocyprinus asiaticus）是长江流域特有的古老淡水鱼类，隶属于鲤形目亚口鱼科。尽管其英文名中带有“shark”，但它并非鲨鱼，而是亚口鱼科在亚洲唯一的现存物种。胭脂鱼以其剧烈的个体发育形态变化而闻名：幼鱼体态奇特，背鳍极高且呈三角形，体侧分布有三条明显的黑色横纹；随着生长发育，成鱼体型变得细长，背鳍相对高度降低，体色转为深红色或灰褐色。胭脂鱼属于江河洄游性鱼类，具有长距离溯流产卵的习性，在生物地理学和演化生物学研究中具有极高的科研价值。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The most striking anatomical feature is the dorsal fin, which contains over 50 branched rays in juveniles, creating a sail-like appearance. The mouth is positioned ventrally (inferior), equipped with thick, fleshy lips covered in papillae, adapted for suction feeding on the benthos. Unlike most cyprinids, they possess a single row of numerous pharyngeal teeth arranged like a comb. Adults can grow up to 1 meter in length and weigh over 30 kilograms, showing a significant reduction in the relative height of the dorsal fin compared to the juvenile stage.",
+      "zh": "胭脂鱼最显著的解剖特征是其背鳍，幼鱼背鳍具有超过50根分枝鳍条，呈现帆状。其口位下位，具有肥厚且布满乳突的唇部，适应于吸食底栖生物。与大多数鲤科鱼类不同，它们拥有一行梳状排列的咽齿。成鱼体长可达1米，体重超过30公斤，与幼鱼时期相比，成鱼的背鳍相对高度显著降低，体型由高体型转变为流线型。"
+    },
+    "ecology_and_behavior": {
+      "en": "As a bottom-dwelling species, it primarily feeds on algae, detritus, and small benthic invertebrates such as chironomid larvae and mollusks. They are potamodromous; adults typically inhabit the main channels of the middle and lower Yangtze, but migrate to the fast-flowing, gravel-bottomed upper reaches (such as the Jinsha River) to spawn during the spring (March to May). Juveniles tend to stay in slower-moving tributaries or backwaters where food is abundant and predators are fewer, gradually moving to the main river as they grow.",
+      "zh": "作为底栖鱼类，胭脂鱼主要摄食藻类、有机碎屑以及小型底栖无脊椎动物（如摇蚊幼虫和软体动物）。它们具有江河洄游习性：成鱼通常栖息于长江中下游的主干道，但在春季（3月至5月）会溯流而上，前往金沙江等水流湍急、砾石底质的上游地区产卵。幼鱼则倾向于留在流速较慢、食物丰富且天敌较少的支流或回水区，随着体型增长逐渐迁徙至干流。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to China, its distribution is strictly confined to the Yangtze River system and the Minjiang River. It prefers large river habitats with varying flow velocities. Due to dam construction (which blocks migration routes), overfishing, and habitat degradation, its wild population has declined drastically. It is now listed as a Class II protected species in China, and extensive captive breeding and restocking programs are underway to supplement wild stocks.",
+      "zh": "胭脂鱼为中国特有种，其分布严格局限于长江水系及岷江。它偏好流速多变的大型河流生境。由于水坝建设（阻断了洄游路线）、过度捕捞和生境退化，其野外种群数量急剧下降。目前，胭脂鱼已被列为中国国家二级保护野生动物，相关部门正在开展大规模的人工繁育和增殖放流活动，以补充野外种群。"
+    }
+  },
+  "habitat": {
+    "text_en": "The Yangtze River basin, ranging from the upper Jinsha River to the estuary in Shanghai, including major tributaries like the Jialing, Min, and Han Rivers.",
+    "text_zh": "长江流域，范围从金沙江上游一直延伸至上海入海口，包括嘉陵江、岷江和汉江等主要支流。",
+    "map_coordinates": [
+      30.65,
+      114.3
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          26.5,
+          100.5
+        ],
+        [
+          27.2,
+          101.8
+        ],
+        [
+          28.5,
+          102.5
+        ],
+        [
+          29.8,
+          103.2
+        ],
+        [
+          31.5,
+          104.2
+        ],
+        [
+          32.5,
+          106.5
+        ],
+        [
+          32.8,
+          108.5
+        ],
+        [
+          31.5,
+          110.5
+        ],
+        [
+          30.8,
+          112.5
+        ],
+        [
+          29.5,
+          113.5
+        ],
+        [
+          28.2,
+          115.8
+        ],
+        [
+          29.2,
+          118.5
+        ],
+        [
+          31.2,
+          121.8
+        ],
+        [
+          32.2,
+          121.5
+        ],
+        [
+          32.5,
+          119.5
+        ],
+        [
+          31.5,
+          117.5
+        ],
+        [
+          30.2,
+          115.5
+        ],
+        [
+          29.8,
+          112.5
+        ],
+        [
+          30.5,
+          110.5
+        ],
+        [
+          31.2,
+          108.5
+        ],
+        [
+          30.5,
+          106.5
+        ],
+        [
+          29.2,
+          105.5
+        ],
+        [
+          28.5,
+          104.5
+        ],
+        [
+          26.8,
+          102.5
+        ],
+        [
+          26.2,
+          101.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/chinese-high-fin-banded-shark.jpg"
+}

@@ -1,0 +1,242 @@
+{
+  "id": "superb-fairy-wren",
+  "name_zh": "壮丽细尾鹩莺",
+  "name_en": "Superb Fairy-wren",
+  "scientific_name": "Malurus cyaneus",
+  "ui_tags": [
+    "鸟纲",
+    "灌木丛",
+    "食虫性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Maluridae",
+      "zh": "细尾鹩莺科"
+    },
+    "genus": {
+      "en": "Malurus",
+      "zh": "细尾鹩莺属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Superb Fairy-wren is a small, sexually dimorphic passerine bird endemic to south-eastern Australia. It is renowned for its complex social structure and striking breeding plumage. Breeding males exhibit a brilliant, iridescent electric-blue crown, ear coverts, and upper back, contrasted against a velvet-black throat and nape. Females and non-breeding males (eclipse plumage) are predominantly mouse-brown with a pale underside and a distinctive reddish-orange ring around the eye. They are highly active, frequently cocking their long tails vertically. This species is a classic example of cooperative breeding, where a dominant pair is assisted by several 'helpers'—usually male offspring from previous broods—in defending the territory and raising young.",
+    "zh": "壮丽细尾鹩莺是一种分布于澳大利亚东南部的雀形目小型鸟类，以其复杂的社会行为和显著的雌雄异形特征而闻名。在繁殖季节，雄鸟会换上极其耀眼的电蓝色羽毛，覆盖其头顶、耳羽和上背部，与天鹅绒般的黑色喉部和颈背形成强烈对比。雌鸟和非繁殖期的雄鸟则主要呈鼠灰色，腹部颜色较浅，眼周有一圈独特的红橙色。它们生性活泼，长尾巴经常垂直翘起。该物种是典型的合作繁殖者，一个领地通常由一对主配偶和若干只“助手”（通常是前几窝的雄性后代）共同守护并抚育雏鸟。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Measuring approximately 14 cm in length and weighing 8–13 grams, the Superb Fairy-wren possesses a short, black bill optimized for insectivory. The blue coloration in males is not produced by pigments but by the microscopic structure of the feathers, which reflects specific wavelengths of light (structural coloration). Their wings are relatively short and rounded, suited for short, fluttering flights within dense vegetation. The tail is notably long and often held upright, used for balance and social signaling.",
+      "zh": "体长约14厘米，体重在8至13克之间。壮丽细尾鹩莺拥有短而黑的喙，非常适合捕食昆虫。雄鸟的蓝色羽毛并非由色素产生，而是通过羽毛的微观结构反射特定波长的光线形成的（结构色）。它们的翅膀相对较短且圆，适合在茂密的植被中进行短距离的扑翼飞行。尾部显著较长且经常竖立，用于保持平衡和进行社交信号传递。"
+    },
+    "ecology_and_behavior": {
+      "en": "Superb Fairy-wrens are primarily insectivorous, foraging on the ground or in low shrubs for ants, grasshoppers, and larvae. They are famous for their 'promiscuous' mating system; while they form socially monogamous pairs, extra-pair fertilizations are extremely common, with up to 75% of offspring sired by males outside the social bond. Males perform a unique courtship display known as 'petal-carrying,' where they pluck yellow flower petals and present them to females to solicit mating. They are also known to respond to the alarm calls of other species, forming part of a complex interspecies communication network.",
+      "zh": "主要以昆虫为食，常在地面或低矮灌木丛中搜寻蚂蚁、蝗虫和幼虫。它们以“混乱”的交配系统著称：虽然在社会关系上维持一夫一妻制，但婚外配对极其普遍，高达75%的后代并非由社会配偶所生。雄鸟有一种独特的求偶行为，被称为“衔花瓣”，它们会采摘黄色的花瓣展示给雌鸟以寻求交配。此外，它们还能识别并响应其他物种的警报鸣叫，是复杂的物种间通信网络的一部分。"
+    },
+    "habitat_and_distribution": {
+      "en": "This species is found across south-eastern Australia, from southern Queensland through New South Wales and Victoria to south-eastern South Australia and Tasmania. They prefer habitats with dense undergrowth and sparse overstory, such as sclerophyll forests, shrublands, and increasingly, urban gardens and parks where domestic plantings provide sufficient cover from predators like butcherbirds and kookaburras.",
+      "zh": "该物种广泛分布于澳大利亚东南部，从昆士兰州南部穿过新南威尔士州和维多利亚州，一直延伸到南澳大利亚州东南部及塔斯马尼亚岛。它们偏好拥有茂密底层植被和稀疏林冠的生境，如硬叶林、灌木丛，以及日益增多的城市花园和公园。这些地方的人工植被为它们提供了躲避屠夫鸟和笑翠鸟等天敌的理想掩护。"
+    }
+  },
+  "habitat": {
+    "text_en": "Temperate shrublands, woodlands, and urban gardens of SE Australia.",
+    "text_zh": "澳大利亚东南部的温带灌木丛、林地及城市花园。",
+    "map_coordinates": [
+      -35.4735,
+      149.0124
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -26.1,
+          152.8
+        ],
+        [
+          -27.5,
+          153.5
+        ],
+        [
+          -28.8,
+          153.7
+        ],
+        [
+          -30.5,
+          153.2
+        ],
+        [
+          -32.4,
+          152.6
+        ],
+        [
+          -33.8,
+          151.5
+        ],
+        [
+          -35.2,
+          150.8
+        ],
+        [
+          -37.2,
+          150.1
+        ],
+        [
+          -38.3,
+          149.2
+        ],
+        [
+          -39.1,
+          146.5
+        ],
+        [
+          -38.8,
+          145.8
+        ],
+        [
+          -38.2,
+          144.5
+        ],
+        [
+          -38.9,
+          143.2
+        ],
+        [
+          -38.4,
+          141.5
+        ],
+        [
+          -37.8,
+          140.2
+        ],
+        [
+          -36.5,
+          139.5
+        ],
+        [
+          -35.8,
+          138.2
+        ],
+        [
+          -34.5,
+          138.5
+        ],
+        [
+          -33.8,
+          137.2
+        ],
+        [
+          -32.8,
+          137.8
+        ],
+        [
+          -32.2,
+          139.5
+        ],
+        [
+          -33.5,
+          142.2
+        ],
+        [
+          -32.5,
+          145.5
+        ],
+        [
+          -31.2,
+          148.5
+        ],
+        [
+          -28.5,
+          150.2
+        ],
+        [
+          -26.5,
+          151.5
+        ],
+        [
+          -26.1,
+          152.8
+        ]
+      ],
+      [
+        [
+          -40.6,
+          144.6
+        ],
+        [
+          -40.8,
+          147.5
+        ],
+        [
+          -41.5,
+          148.4
+        ],
+        [
+          -42.8,
+          148.5
+        ],
+        [
+          -43.6,
+          147.8
+        ],
+        [
+          -43.7,
+          146.2
+        ],
+        [
+          -43.2,
+          145.5
+        ],
+        [
+          -42.1,
+          145.1
+        ],
+        [
+          -41.2,
+          144.5
+        ],
+        [
+          -40.6,
+          144.6
+        ]
+      ],
+      [
+        [
+          -39.8,
+          147.8
+        ],
+        [
+          -40.2,
+          148.4
+        ],
+        [
+          -40.5,
+          148.1
+        ],
+        [
+          -39.8,
+          147.8
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/superb-fairy-wren.jpg"
+}

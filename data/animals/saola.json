@@ -1,0 +1,182 @@
+{
+  "id": "saola",
+  "name_zh": "中南大羚",
+  "name_en": "Saola",
+  "scientific_name": "Pseudoryx nghetinhensis",
+  "ui_tags": [
+    "Mammalia",
+    "Rainforest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Cetartiodactyla",
+      "zh": "鲸偶蹄目"
+    },
+    "family": {
+      "en": "Bovidae",
+      "zh": "牛科"
+    },
+    "genus": {
+      "en": "Pseudoryx",
+      "zh": "中南大羚属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "The Saola, often referred to as the 'Asian Unicorn', is one of the world's rarest large mammals. Discovered only in 1992 in the Vu Quang Nature Reserve of Vietnam, it represents a distinct evolutionary lineage within the Bovidae family. Characterized by two long, parallel horns and striking white facial markings, this elusive forest-dwelling bovid is found only in the Annamite Range of Vietnam and Laos. It is so rare that no biologist has ever observed it in the wild, with most data coming from camera traps and local reports.",
+    "zh": "中南大羚，常被称为“亚洲独角兽”，是世界上最罕见的大型哺乳动物之一。直到1992年才在越南武广自然保护区被首次发现，它在牛科中代表了一个独特的进化谱系。其特征是拥有一对长而平行的尖角以及面部显著的白色斑纹。这种隐秘的森林栖息牛科动物仅分布于越南和老挝交界的安南山脉。由于极其罕见，至今尚无生物学家在野外亲眼目睹过活体，大部分数据仅来源于红外相机监测和当地居民的报告。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Saola stands about 85 cm at the shoulder and weighs between 80 and 100 kg. Both males and females possess long, straight, spindle-shaped horns that can reach 50 cm in length. A defining anatomical feature is the massive maxillary scent glands on the muzzle, covered by a muscular flap, which are used to mark territory. Their coat is a deep chestnut brown with a black stripe along the spine, and they possess distinctive white spots and stripes on the face and throat.",
+      "zh": "中南大羚肩高约85厘米，体重在80至100公斤之间。雌雄两性均拥有长而直、呈梭形的角，长度可达50厘米。其解剖学上的一个显著特征是吻部巨大的上颌腺，由肌肉瓣覆盖，用于标记领地。其皮毛呈深栗褐色，脊柱有一条黑线，面部和喉部有独特的白色斑点和条纹。"
+    },
+    "ecology_and_behavior": {
+      "en": "Saolas are primarily solitary and crepuscular, being most active during the morning and late afternoon. They are browsers, feeding on small leafy plants, shrubs, and herbs along riverbanks. They are known to be extremely shy of humans. Their reproductive biology remains largely unknown, though births are thought to coincide with the onset of the monsoon season between April and June.",
+      "zh": "中南大羚主要是独居动物，具有晨昏性，在清晨和傍晚最为活跃。它们是食叶动物，主要取食河岸边的阔叶植物、灌木和草本植物。它们对人类极度警觉。其繁殖生物学在很大程度上仍是未知的，但据推测幼崽的出生时间与4月至6月间的季风季节开始相吻合。"
+    },
+    "habitat_and_distribution": {
+      "en": "Restricted to the moist evergreen forests of the Annamite Range (Truong Son Mountains). They prefer steep terrain with dense vegetation and permanent water sources, typically at altitudes between 400 and 1,000 meters. Their range is highly fragmented due to hunting and habitat loss, spanning a narrow strip along the border of Vietnam and the Lao People's Democratic Republic.",
+      "zh": "仅限于安南山脉（长山山脉）的潮湿常绿阔叶林。它们偏好植被茂密、有永久水源的陡峭地形，通常分布在海拔400至1000米之间。由于狩猎和栖息地丧失，其分布范围高度破碎化，仅分布在越南与老挝人民民主共和国边境的一条狭长地带。"
+    }
+  },
+  "habitat": {
+    "text_en": "Annamite Range moist forests, Vietnam and Laos.",
+    "text_zh": "越南与老挝交界的安南山脉潮湿森林。",
+    "map_coordinates": [
+      18.25,
+      105.25
+    ],
+    "map_zoom_level": 7,
+    "global_distribution_polygons": [
+      [
+        [
+          19.12,
+          104.55
+        ],
+        [
+          19.05,
+          104.72
+        ],
+        [
+          18.85,
+          104.85
+        ],
+        [
+          18.65,
+          105.15
+        ],
+        [
+          18.45,
+          105.25
+        ],
+        [
+          18.25,
+          105.35
+        ],
+        [
+          18.05,
+          105.55
+        ],
+        [
+          17.85,
+          105.85
+        ],
+        [
+          17.55,
+          106.15
+        ],
+        [
+          17.25,
+          106.45
+        ],
+        [
+          16.85,
+          106.75
+        ],
+        [
+          16.45,
+          107.15
+        ],
+        [
+          16.15,
+          107.45
+        ],
+        [
+          15.85,
+          107.65
+        ],
+        [
+          15.55,
+          107.85
+        ],
+        [
+          15.25,
+          108.05
+        ],
+        [
+          15.15,
+          107.85
+        ],
+        [
+          15.35,
+          107.55
+        ],
+        [
+          15.75,
+          107.25
+        ],
+        [
+          16.25,
+          106.85
+        ],
+        [
+          16.75,
+          106.45
+        ],
+        [
+          17.25,
+          106.05
+        ],
+        [
+          17.75,
+          105.65
+        ],
+        [
+          18.15,
+          105.15
+        ],
+        [
+          18.55,
+          104.85
+        ],
+        [
+          18.95,
+          104.45
+        ],
+        [
+          19.12,
+          104.55
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/saola.jpg"
+}

@@ -1,0 +1,170 @@
+{
+  "id": "wallaces-giant-bee",
+  "name_zh": "华莱士巨蜂",
+  "name_en": "Wallace's Giant Bee",
+  "scientific_name": "Megachile pluto",
+  "ui_tags": [
+    "昆虫纲",
+    "热带雨林",
+    "植食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Insecta",
+      "zh": "昆虫纲"
+    },
+    "order": {
+      "en": "Hymenoptera",
+      "zh": "膜翅目"
+    },
+    "family": {
+      "en": "Megachilidae",
+      "zh": "切叶蜂科"
+    },
+    "genus": {
+      "en": "Megachile",
+      "zh": "切叶蜂属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "Wallace's giant bee (Megachile pluto) is the largest known bee species in the world. Discovered by Alfred Russel Wallace in 1858, it was thought to be extinct until its rediscovery in 1981 and again in 2019. Females can reach a body length of 38 mm with a wingspan of over 63 mm. They are characterized by their massive mandibles, which they use to scrape resin from trees. This resin, mixed with wood fibers, is used to line their nests within active arboreal termite mounds, protecting the bee larvae from the termites and predators.",
+    "zh": "华莱士巨蜂（Megachile pluto）是世界上已知体型最大的蜜蜂。由阿尔弗雷德·拉塞尔·华莱士于1858年首次发现，曾一度被认为已经灭绝，直到1981年和2019年再次被发现。雌性体长可达38毫米，翼展超过63毫米。它们最显著的特征是拥有巨大的上颚，用于从树木上刮取树脂。这些树脂与木纤维混合后，被用来在活跃的树栖白蚁巢穴中筑巢，以保护幼虫免受白蚁和捕食者的侵害。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The species exhibits significant sexual dimorphism. Females are much larger than males and possess enormous, stag-beetle-like mandibles used for resin collection. Their bodies are predominantly black with a dense coat of black hairs, though they have a distinct white band on the abdomen. The labrum is large and hardened to assist in handling sticky resin. Males are smaller (about 23 mm) and lack the specialized mandibles, instead having a more typical bee-like appearance.",
+      "zh": "该物种表现出显著的雌雄异形。雌蜂比雄蜂大得多，拥有类似锹甲的巨大上颚，用于收集树脂。它们的身体呈黑色，覆盖着浓密的黑毛，腹部有明显的白色带状纹路。上唇大而坚硬，有助于处理粘稠的树脂。雄蜂体型较小（约23毫米），没有特化的上颚，外形更接近普通的蜜蜂。"
+    },
+    "ecology_and_behavior": {
+      "en": "Megachile pluto has a highly specialized nesting biology. It is an obligate associate of the arboreal termite Microcerotermes amboinensis. The female bee uses its mandibles to gather resin from Anisoptera trees and wood fibers to construct gallery-like nests inside the termite mounds. This resin barrier is chemically and physically resistant to termite intrusion. They are solitary bees in terms of reproduction, but multiple females may occasionally share a single termite mound for nesting. They feed on nectar and pollen from a variety of forest flora.",
+      "zh": "华莱士巨蜂具有高度特化的筑巢生物学特征。它是树栖白蚁（Microcerotermes amboinensis）的专性共生者。雌蜂利用上颚从龙脑香科树木中采集树脂，并结合木纤维在白蚁巢内部构建隧道状的巢室。这种树脂屏障在化学和物理上都能抵御白蚁的入侵。在繁殖上它们属于独居蜂，但多只雌蜂偶尔会共用同一个白蚁巢筑巢。它们以多种森林植物的花蜜和花粉为食。"
+    },
+    "habitat_and_distribution": {
+      "en": "This bee is endemic to the North Moluccas islands of Indonesia, specifically found on the islands of Bacan, Halmahera, and Tidore. Its habitat is restricted to primary lowland tropical rainforests where both its host termite species and resin-producing trees are present. Due to its extremely limited range and the ongoing threat of deforestation and illegal specimen trade, its population is considered highly fragmented and vulnerable.",
+      "zh": "这种蜜蜂是印度尼西亚北马鲁古群岛的特有种，具体分布于巴占岛（Bacan）、哈马黑拉岛（Halmahera）和蒂多雷岛（Tidore）。其栖息地局限于原生低地热带雨林，且必须同时存在宿主白蚁和产树脂的树木。由于其分布范围极其狭窄，加之森林砍伐和非法标本贸易的持续威胁，其种群被认为高度碎片化且十分脆弱。"
+    }
+  },
+  "habitat": {
+    "text_en": "Lowland tropical rainforests of the North Moluccas, Indonesia.",
+    "text_zh": "印度尼西亚北马鲁古群岛的低地热带雨林。",
+    "map_coordinates": [
+      0.6,
+      127.9
+    ],
+    "map_zoom_level": 8,
+    "global_distribution_polygons": [
+      [
+        [
+          1.85,
+          127.45
+        ],
+        [
+          2.1,
+          127.8
+        ],
+        [
+          1.95,
+          128.3
+        ],
+        [
+          1.5,
+          128.8
+        ],
+        [
+          1,
+          128.95
+        ],
+        [
+          0.5,
+          128.6
+        ],
+        [
+          0.3,
+          128.2
+        ],
+        [
+          0.45,
+          127.85
+        ],
+        [
+          0.85,
+          127.6
+        ],
+        [
+          1.3,
+          127.2
+        ],
+        [
+          1.85,
+          127.45
+        ]
+      ],
+      [
+        [
+          -0.45,
+          127.3
+        ],
+        [
+          -0.35,
+          127.6
+        ],
+        [
+          -0.6,
+          127.75
+        ],
+        [
+          -0.9,
+          127.65
+        ],
+        [
+          -0.95,
+          127.35
+        ],
+        [
+          -0.75,
+          127.15
+        ],
+        [
+          -0.45,
+          127.3
+        ]
+      ],
+      [
+        [
+          0.65,
+          127.35
+        ],
+        [
+          0.75,
+          127.45
+        ],
+        [
+          0.65,
+          127.55
+        ],
+        [
+          0.55,
+          127.45
+        ],
+        [
+          0.65,
+          127.35
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/wallaces-giant-bee.jpg"
+}

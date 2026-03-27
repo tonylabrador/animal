@@ -1,0 +1,180 @@
+{
+  "id": "northern-river-terrapin",
+  "name_zh": "潮龟",
+  "name_en": "Northern river terrapin",
+  "scientific_name": "Batagur baska",
+  "ui_tags": [
+    "Reptilia",
+    "Estuarine",
+    "Herbivorous"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Testudines",
+      "zh": "龟鳖目"
+    },
+    "family": {
+      "en": "Geoemydidae",
+      "zh": "地龟科"
+    },
+    "genus": {
+      "en": "Batagur",
+      "zh": "潮龟属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "The Northern river terrapin (Batagur baska) is one of Asia's largest freshwater and estuarine turtles and is currently ranked as one of the most critically endangered turtles in the world. Reaching a carapace length of up to 60 cm, it is distinguished by its upward-pointing snout and a unique sexual dichromatism. During the breeding season, the head and neck of the males turn intense black, while their pupils turn white, contrasting sharply with their orange or crimson limbs. Historically widespread across the river mouths of South and Southeast Asia, it has been driven to the brink of extinction by habitat loss, sand mining, and intensive harvesting for its meat and eggs. Today, it survives in tiny, fragmented populations, primarily within the Sundarbans delta.",
+    "zh": "潮龟（Batagur baska）是亚洲体型最大的淡水与河口龟类之一，也是目前全球最濒危的龟鳖目物种之一。其背甲长度可达60厘米，特征是吻部显著上翘。该物种具有独特的性二态性：在繁殖季节，雄性的头部和颈部会变为深黑色，虹膜变为白色，而四肢则呈现橙色或深红色。历史上，潮龟广泛分布于南亚和东南亚的各大河口，但由于栖息地丧失、河床采砂以及对其肉和蛋的过度捕捞，该物种已濒临灭绝。目前，仅在孟加拉国和印度的孙德尔本斯三角洲等极少数地区存有破碎的野生种群。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Northern river terrapin possesses a heavy, streamlined, olive-grey to brown carapace that is relatively flattened to aid in swimming through strong river currents. Its most striking anatomical feature is the snout, which is strongly upturned and pointed. Unlike many other turtles, it has only four claws on its forelimbs instead of five. The feet are broadly webbed, reflecting its highly aquatic lifestyle. Males are generally smaller than females but exhibit dramatic color shifts during the mating season, a physiological trait rare among chelonians.",
+      "zh": "潮龟拥有沉重且呈流线型的背甲，颜色从橄榄灰色到棕色不等，背甲较为扁平以适应强劲的河流水流。其最显著的解剖特征是强烈上翘且尖锐的吻部。与其他许多龟类不同，潮龟的前肢仅有四个爪子（而非五个）。其足部具有宽阔的蹼，反映了其高度水生的习性。雄性体型通常比雌性小，但在交配季节会表现出剧烈的体色变化，这在龟鳖类动物中是非常罕见的生理特征。"
+    },
+    "ecology_and_behavior": {
+      "en": "Primarily herbivorous, the Northern river terrapin feeds on the fruits, stems, and leaves of mangrove plants (such as Sonneratia spp.), though it may occasionally consume small mollusks and crustaceans. It is a highly migratory species within its estuarine habitat, moving between freshwater rivers and brackish tidal zones. Nesting occurs during the dry season (December to March), where females migrate to coastal sandbars and beaches to lay clutches of 10 to 34 eggs. The species is known for its longevity, potentially living over 80 years in the wild, though few individuals now reach such an age due to anthropogenic pressures.",
+      "zh": "潮龟主要为植食性，以红树林植物（如海桑属）的果实、茎和叶为食，偶尔也会摄食小型软体动物和甲壳类动物。它在河口栖息地内具有高度的迁徙性，在淡水河流和咸淡水交汇的潮汐带之间移动。筑巢发生在旱季（12月至次年3月），雌龟会迁徙到沿海沙洲和海滩产下10至34枚卵。该物种以长寿著称，在野外寿命可能超过80年，但由于人类活动的压力，目前很少有个体能达到这一年龄。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species is restricted to deep, tidal rivers and estuaries associated with mangrove forests. Its historical range included the Ganges-Brahmaputra delta in India and Bangladesh, extending through Myanmar to Thailand and possibly Vietnam. Currently, viable wild populations are almost entirely restricted to the Sundarbans region. Conservation efforts involve 'assurance colonies' and reintroduction programs in protected areas to prevent total extinction.",
+      "zh": "该物种仅限于与红树林相关的深水潮汐河流和河口地区。其历史分布范围包括印度和孟加拉国的恒河-布拉马普特拉河三角洲，向东延伸至缅甸、泰国，甚至可能到达越南。目前，具有生存能力的野生种群几乎完全局限于孙德尔本斯地区。目前的保护工作主要依靠“保险种群”建设以及在保护区内进行的重引入计划，以防止该物种彻底灭绝。"
+    }
+  },
+  "habitat": {
+    "text_en": "Estuarine mangrove deltas and tidal river systems of the Bay of Bengal.",
+    "text_zh": "孟加拉湾的河口红树林三角洲及潮汐河流系统。",
+    "map_coordinates": [
+      21.9497,
+      89.1833
+    ],
+    "map_zoom_level": 7,
+    "global_distribution_polygons": [
+      [
+        [
+          22.65,
+          88.35
+        ],
+        [
+          22.72,
+          88.85
+        ],
+        [
+          22.85,
+          89.2
+        ],
+        [
+          22.78,
+          89.65
+        ],
+        [
+          22.6,
+          90.15
+        ],
+        [
+          22.35,
+          90.45
+        ],
+        [
+          22.1,
+          90.65
+        ],
+        [
+          21.85,
+          90.75
+        ],
+        [
+          21.65,
+          90.55
+        ],
+        [
+          21.55,
+          90.25
+        ],
+        [
+          21.45,
+          89.85
+        ],
+        [
+          21.38,
+          89.45
+        ],
+        [
+          21.42,
+          89.05
+        ],
+        [
+          21.55,
+          88.65
+        ],
+        [
+          21.68,
+          88.25
+        ],
+        [
+          21.85,
+          88.05
+        ],
+        [
+          22.15,
+          87.95
+        ],
+        [
+          22.45,
+          88.15
+        ],
+        [
+          22.65,
+          88.35
+        ]
+      ],
+      [
+        [
+          16.85,
+          96.15
+        ],
+        [
+          16.95,
+          96.45
+        ],
+        [
+          16.75,
+          96.75
+        ],
+        [
+          16.45,
+          96.65
+        ],
+        [
+          16.25,
+          96.35
+        ],
+        [
+          16.45,
+          96.05
+        ],
+        [
+          16.85,
+          96.15
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/northern-river-terrapin.jpg"
+}

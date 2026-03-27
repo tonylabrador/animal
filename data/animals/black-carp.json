@@ -1,0 +1,290 @@
+{
+  "id": "black-carp",
+  "name_zh": "青鱼",
+  "name_en": "Black Carp",
+  "scientific_name": "Mylopharyngodon piceus",
+  "ui_tags": [
+    "辐鳍鱼纲",
+    "淡水",
+    "肉食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "辐鳍鱼纲"
+    },
+    "order": {
+      "en": "Cypriniformes",
+      "zh": "鲤形目"
+    },
+    "family": {
+      "en": "Xenocyprididae",
+      "zh": "鲴科"
+    },
+    "genus": {
+      "en": "Mylopharyngodon",
+      "zh": "青鱼属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Black Carp (Mylopharyngodon piceus) is a species of freshwater fish in the family Xenocyprididae and the only species of the genus Mylopharyngodon. It is one of the 'Four Domestic Fishes' in China, highly valued for its size and meat quality. Unlike other carps, it is a specialized molluscivore, possessing powerful, molar-like pharyngeal teeth used to crush the shells of snails and mussels. It can grow to massive sizes, exceeding 1.5 meters in length and 70 kilograms in weight. While native to East Asia, it has been introduced to North America, where it is considered a high-risk invasive species due to its potential to decimate native mussel populations.",
+    "zh": "青鱼（Mylopharyngodon piceus）是鲴科青鱼属下的唯一物种，中国著名的“四大家鱼”之一。其体色通常呈青黑色，体型硕大，最大个体可超过1.5米，体重达70公斤以上。青鱼在生态位上属于底栖肉食性鱼类，进化出了极其发达的咽喉齿（呈臼齿状），专门用于粉碎螺蛳、蚌类等硬壳软体动物，因此在民间也被称为“螺蛳青”。青鱼生长迅速，肉质肥嫩，具有极高的经济价值。虽然在其原产地东亚地区分布广泛，但在北美等地被视为具有高度威胁的入侵物种，因其对当地原生蚌类资源具有毁灭性影响。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Black Carp features an elongated, compressed body with a dark, brownish-black to blue-gray coloration on the dorsal side and silver-white on the belly. Its most distinctive anatomical feature is the pharyngeal apparatus: the pharyngeal teeth are arranged in a single row (4-4 or 5-5), large and molariform, specifically adapted for crushing hard shells. The scales are large and cycloid. The fins are dark, and the lateral line is complete, extending straight along the middle of the body. Its head is relatively pointed with a terminal mouth lacking barbels.",
+      "zh": "青鱼体呈圆筒形，尾部侧扁。体背及侧部呈青黑色，腹部灰白色，鳍条均为黑色。其解剖学上最显著的特征是其咽喉齿，呈单行排列（通常为4-4或5-5），齿面宽大且平滑，形似磨盘或臼齿，这种结构使其能够轻易压碎坚硬的螺壳。鳞片大而圆，侧线完全且平直。头部略尖，口端位，无须。其坚硬的咽喉齿骨骼在民间常被加工成“青鱼石”，被认为具有辟邪或工艺价值。"
+    },
+    "ecology_and_behavior": {
+      "en": "Black Carp are primarily bottom-dwellers, inhabiting the lower layers of large rivers and lakes. They are highly specialized feeders, with juveniles consuming zooplankton and insect larvae, while adults transition almost exclusively to mollusks (snails, clams, mussels). They are semi-migratory; during the breeding season (May to July), adults migrate upstream to spawn in open river channels with strong currents. The eggs are semi-buoyant and drift downstream while developing. They are long-lived fish, with some individuals reaching over 20 years of age.",
+      "zh": "青鱼主要栖息于大江大河及湖泊的中下层。它们是典型的底栖摄食者，幼鱼期主要摄食浮游动物和水生昆虫幼虫，成年后则转为以软体动物（如螺、蚬、蚌）为主食。青鱼具有半洄游性，每年5-7月产卵季节，亲鱼会溯流而上，在水流湍急的江河干流中产卵。其卵为半浮性，随水流漂浮发育。青鱼寿命较长，部分个体可活20年以上。在生态系统中，它们起到了控制软体动物种群数量的作用。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to East Asia, the Black Carp's range extends from the Amur River basin in Russia and China south to the Pearl River in Vietnam. It is most abundant in the Yangtze River basin. It prefers large, deep freshwater bodies with abundant mollusk populations. In the United States, it was initially introduced for snail control in aquaculture ponds but escaped into the Mississippi River basin, where it has established self-sustaining populations across several states, threatening native biodiversity.",
+      "zh": "青鱼原产于东亚，分布范围北起黑龙江流域，南至越南红河及中国珠江流域，其中以长江流域最为常见。它们偏好水深、水质清新且螺蛳资源丰富的淡水环境。在美国，青鱼最初被引入用于控制养殖池塘中的寄生虫宿主（螺类），但随后逃逸进入密西西比河水系，目前已在多个州建立自然种群，对当地原生的淡水蚌类多样性构成了严重威胁。"
+    }
+  },
+  "habitat": {
+    "text_en": "Large river systems, floodplains, and deep freshwater lakes with muddy or sandy bottoms.",
+    "text_zh": "大型江河干流、通江湖泊及底质多为淤泥或沙砾的深水区域。",
+    "map_coordinates": [
+      30.5,
+      114.3
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          31.2,
+          121.5
+        ],
+        [
+          32.1,
+          119.5
+        ],
+        [
+          32.5,
+          117.2
+        ],
+        [
+          34.8,
+          115.5
+        ],
+        [
+          36.5,
+          116.8
+        ],
+        [
+          37.8,
+          118.2
+        ],
+        [
+          38.2,
+          119.1
+        ],
+        [
+          37.5,
+          120.2
+        ],
+        [
+          36.1,
+          120.5
+        ],
+        [
+          34.5,
+          120.1
+        ],
+        [
+          32.5,
+          121.5
+        ],
+        [
+          31.2,
+          121.5
+        ]
+      ],
+      [
+        [
+          31.2,
+          121.5
+        ],
+        [
+          30.5,
+          118.2
+        ],
+        [
+          29.8,
+          116.1
+        ],
+        [
+          30.6,
+          114.3
+        ],
+        [
+          29.5,
+          112.5
+        ],
+        [
+          28.2,
+          113.1
+        ],
+        [
+          29.1,
+          110.5
+        ],
+        [
+          30.8,
+          109.2
+        ],
+        [
+          29.5,
+          106.5
+        ],
+        [
+          28.5,
+          105.2
+        ],
+        [
+          30.2,
+          104.1
+        ],
+        [
+          31.5,
+          104.5
+        ],
+        [
+          31.2,
+          121.5
+        ]
+      ],
+      [
+        [
+          23.5,
+          113.5
+        ],
+        [
+          22.8,
+          114.2
+        ],
+        [
+          22.1,
+          113.5
+        ],
+        [
+          22.5,
+          112.1
+        ],
+        [
+          23.2,
+          110.5
+        ],
+        [
+          24.5,
+          108.2
+        ],
+        [
+          23.1,
+          106.5
+        ],
+        [
+          22.5,
+          107.2
+        ],
+        [
+          21.5,
+          108.1
+        ],
+        [
+          23.5,
+          113.5
+        ]
+      ],
+      [
+        [
+          48.5,
+          135.1
+        ],
+        [
+          49.2,
+          132.5
+        ],
+        [
+          47.5,
+          130.2
+        ],
+        [
+          46.1,
+          131.5
+        ],
+        [
+          45.2,
+          133.5
+        ],
+        [
+          48.5,
+          135.1
+        ]
+      ],
+      [
+        [
+          29.1,
+          -89.4
+        ],
+        [
+          30.5,
+          -91.2
+        ],
+        [
+          32.5,
+          -91.1
+        ],
+        [
+          35.1,
+          -90
+        ],
+        [
+          38.6,
+          -90.2
+        ],
+        [
+          41.5,
+          -90.5
+        ],
+        [
+          44.8,
+          -92.9
+        ],
+        [
+          41.2,
+          -88.3
+        ],
+        [
+          39.1,
+          -84.5
+        ],
+        [
+          37,
+          -89.2
+        ],
+        [
+          29.1,
+          -89.4
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/black-carp.jpg"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "grass-carp",
+  "name_zh": "草鱼",
+  "name_en": "Grass Carp",
+  "scientific_name": "Ctenopharyngodon idella",
+  "ui_tags": [
+    "辐鳍鱼纲",
+    "淡水",
+    "草食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "辐鳍鱼纲"
+    },
+    "order": {
+      "en": "Cypriniformes",
+      "zh": "鲤形目"
+    },
+    "family": {
+      "en": "Xenocyprididae",
+      "zh": "鲴科"
+    },
+    "genus": {
+      "en": "Ctenopharyngodon",
+      "zh": "草鱼属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Grass Carp is a large, herbivorous freshwater fish species of the family Xenocyprididae native to East Asia, ranging from northern Vietnam to the Amur River on the Sino-Russian border. It is the only species of the genus Ctenopharyngodon. Characterized by an elongated, torpedo-shaped body and a lack of barbels, it is renowned for its specialized pharyngeal teeth arranged in a 2,4-4,2 formula, which are serrated and comb-like for grinding aquatic vegetation. While a critical aquaculture species in Asia, it has become a highly controversial invasive species in North America and parts of Europe due to its ability to drastically alter aquatic ecosystems by consuming massive quantities of macrophytes.",
+    "zh": "草鱼是鲴科草鱼属下唯一的物种，是一种大型草食性淡水鱼类。其原生范围覆盖东亚，从越南北部一直延伸至中俄边界的黑龙江流域。草鱼体型延长，呈圆筒形，头部平扁，无须。其最显著的解剖特征是具有两行梳状咽齿（齿式为2,4-4,2），齿面具有横沟纹，能极其有效地切割和磨碎坚韧的水生植物。草鱼是中国“四大家鱼”之一，具有极高的经济价值。然而，由于其巨大的食量和对水生植被的破坏力，它在北美及欧洲部分地区被列为严重的入侵物种，对当地生态系统的生物多样性构成威胁。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Grass Carp possesses a thick, elongated body with large, cycloid scales outlined in dark pigment, giving it a cross-hatched appearance. Its coloration ranges from olive-brown on the dorsal side to silvery-white on the belly. Unlike many other cyprinids, it lacks barbels. The mouth is terminal and slightly oblique. Its most distinctive feature is the pharyngeal apparatus: the teeth are strong, compressed, and feature a serrated grinding surface, allowing it to process up to its own body weight in aquatic plants daily. The digestive tract is extremely long, typical of herbivores, often measuring 2-3 times its body length.",
+      "zh": "草鱼体色呈青褐色或灰黄色，腹部灰白色，鳞片大而圆，边缘带有黑褐色斑点，使体表呈现明显的网格状纹理。体型呈梭形，头部宽平，吻短而圆钝。与鲤鱼不同，草鱼口角无须。其核心解剖特征在于咽喉齿，这些齿呈锯齿状且极其坚硬，能够像剪刀一样剪断水草。为了消化大量的植物纤维，草鱼拥有极长的肠道，通常为其体长的2至3倍。成年个体通常可长至60-100厘米，最大记录超过1.5米，体重可达40公斤以上。"
+    },
+    "ecology_and_behavior": {
+      "en": "Grass Carp are primarily herbivorous, feeding on submerged macrophytes, filamentous algae, and even terrestrial grass when floodwaters rise. They are highly efficient feeders but have a relatively inefficient digestive system, meaning they must consume vast quantities of food and excrete significant amounts of nutrients, which can lead to algal blooms. Spawning occurs in the main channels of large rivers with strong currents; the eggs are semi-buoyant and must remain suspended in flowing water for 24-48 hours to hatch. They are highly tolerant of wide temperature ranges (0-38°C) and low oxygen levels.",
+      "zh": "草鱼主要以水生高等植物为食，如苦草、眼子菜等，在洪水期也会摄食被淹没的陆生禾本科植物。它们食量惊人，但消化率相对较低，大量未完全消化的粪便排入水中后常会导致水体富营养化。草鱼具有典型的洄游习性，产卵场通常位于大江大河的主河道，要求有一定的流速。其卵为半浮性，必须在流动的河水中悬浮漂流24-48小时才能孵化。草鱼对环境适应性极强，能耐受0-38℃的水温以及较低的溶氧量。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to large river systems in East Asia, including the Yangtze, Pearl, and Amur rivers. They prefer quiet or slow-flowing waters such as lakes, backwaters, and reservoirs with abundant vegetation for feeding, but require turbulent river sections for reproduction. Due to intentional introductions for weed control and aquaculture, they are now found in over 70 countries. In the United States, they are widespread in the Mississippi River basin and have established breeding populations in the Great Lakes basin, where they pose a significant ecological risk.",
+      "zh": "草鱼原产于东亚的大型河流系统，包括长江、珠江、黑龙江等。它们偏好栖息于水草丰茂的湖泊、水库及河流缓流区，但在繁殖期必须进入流速较快的主河道。由于其在控制水草和水产养殖方面的作用，草鱼已被引入全球70多个国家。在美国，草鱼广泛分布于密西西比河流域，并在五大湖流域形成了自然繁殖种群。在这些非原产地，它们因过度消耗水生植物而破坏了本地鱼类和水禽的栖息地，被视为生态威胁。"
+    }
+  },
+  "habitat": {
+    "text_en": "Large rivers, lakes, and floodplains with dense aquatic vegetation.",
+    "text_zh": "大型河流、湖泊及植被茂密的洪泛区。",
+    "map_coordinates": [
+      30.5,
+      114.3
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          50.2,
+          127.1
+        ],
+        [
+          48.5,
+          135.2
+        ],
+        [
+          43.1,
+          131.9
+        ],
+        [
+          39.9,
+          119.5
+        ],
+        [
+          37.5,
+          122.4
+        ],
+        [
+          31.2,
+          121.8
+        ],
+        [
+          22.5,
+          114.1
+        ],
+        [
+          20.1,
+          106.5
+        ],
+        [
+          21.5,
+          101.2
+        ],
+        [
+          25.3,
+          102.7
+        ],
+        [
+          30.6,
+          104.1
+        ],
+        [
+          34.2,
+          108.9
+        ],
+        [
+          36.1,
+          114.3
+        ],
+        [
+          45.7,
+          126.6
+        ],
+        [
+          50.2,
+          127.1
+        ]
+      ],
+      [
+        [
+          41.5,
+          -91.2
+        ],
+        [
+          38.8,
+          -90.1
+        ],
+        [
+          35.1,
+          -90
+        ],
+        [
+          30.5,
+          -91.2
+        ],
+        [
+          29.5,
+          -89.5
+        ],
+        [
+          31.2,
+          -88.1
+        ],
+        [
+          34.5,
+          -86.5
+        ],
+        [
+          38.2,
+          -82.5
+        ],
+        [
+          40.5,
+          -80.1
+        ],
+        [
+          41.8,
+          -83.4
+        ],
+        [
+          43.2,
+          -87.9
+        ],
+        [
+          44.8,
+          -93.2
+        ],
+        [
+          41.5,
+          -91.2
+        ]
+      ],
+      [
+        [
+          52.5,
+          13.4
+        ],
+        [
+          50.1,
+          8.6
+        ],
+        [
+          48.8,
+          2.3
+        ],
+        [
+          45.7,
+          4.8
+        ],
+        [
+          47.5,
+          19
+        ],
+        [
+          44.4,
+          26.1
+        ],
+        [
+          47.1,
+          27.6
+        ],
+        [
+          50.4,
+          30.5
+        ],
+        [
+          52.5,
+          13.4
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/grass-carp.jpg"
+}

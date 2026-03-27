@@ -1,0 +1,224 @@
+{
+  "id": "black-stork",
+  "name_zh": "黑鹳",
+  "name_en": "Black Stork",
+  "scientific_name": "Ciconia nigra",
+  "ui_tags": [
+    "Aves",
+    "Wetlands",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Ciconiiformes",
+      "zh": "鹳形目"
+    },
+    "family": {
+      "en": "Ciconiidae",
+      "zh": "鹳科"
+    },
+    "genus": {
+      "en": "Ciconia",
+      "zh": "鹳属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Black Stork is a large, secretive wading bird characterized by its striking iridescent black plumage, which reflects shades of green, purple, and copper. Unlike its more social relative, the White Stork, the Black Stork is a shy, forest-dwelling species that avoids human disturbance. It is a long-distance migrant, breeding in the Palearctic region and wintering in tropical Africa and Southern Asia. Its bright red bill, legs, and bare skin around the eyes provide a sharp contrast to its dark feathers and white underparts.",
+    "zh": "黑鹳是一种大型且生性机警的涉禽，以其带有绿色、紫色和铜色金属光泽的黑色羽毛而闻名。与更具社会性的白鹳不同，黑鹳性格孤僻，主要栖息在远离人类干扰的深山森林和湿地中。它们是长距离迁徙鸟类，在古北界繁殖，并在热带非洲和南亚越冬。其鲜红色的喙、腿以及眼周裸露的皮肤与深色羽毛及纯白色腹部形成了鲜明的对比。在中国，黑鹳被列为国家一级保护野生动物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults measure 95 to 100 cm in length with a wingspan of 145 to 155 cm. The plumage is predominantly black with a white lower breast, belly, and axillaries. The iridescence is most prominent on the head, neck, and wing coverts. Juveniles are duller, with brownish-black feathers and greyish-pink legs and bills. The syrinx of the Black Stork is relatively well-developed compared to other storks, allowing for a wider range of vocalizations beyond simple bill-clattering.",
+      "zh": "成鸟体长95至100厘米，翼展可达145至155厘米。羽毛除下胸、腹部和腋羽为纯白色外，其余均为黑色，头、颈及覆羽具有强烈的金属光泽。幼鸟羽色较暗，呈褐黑色，喙和腿为灰粉色。与其他鹳类相比，黑鹳的鸣肌相对发达，除了上下嘴甲撞击发出的“嗒嗒”声外，还能发出多种叫声。"
+    },
+    "ecology_and_behavior": {
+      "en": "Black Storks are primarily piscivorous, feeding on fish, amphibians, insects, and occasionally small reptiles or mammals. They forage by walking slowly in shallow water, using their sensitive bills to strike prey. They are solitary nesters, often building massive stick nests high in old-growth trees or on remote cliff ledges. During migration, they utilize thermal updrafts to soar over land, but unlike White Storks, they are more willing to cross smaller bodies of water.",
+      "zh": "黑鹳主要以鱼类为食，也捕食两栖动物、昆虫，偶尔捕食小型爬行动物或哺乳动物。它们在浅水中缓慢行走觅食，利用敏锐的喙部迅速出击。黑鹳通常孤立营巢，在古老的高大树木或偏僻的悬崖峭壁上用树枝搭建巨大的巢穴。迁徙期间，它们利用热气流在陆地上空翱翔，但与白鹳不同，它们更愿意尝试跨越较小的水域。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species prefers undisturbed habitats consisting of large, deciduous or coniferous forests interspersed with streams, rivers, or marshes. Its breeding range extends from the Iberian Peninsula across Central and Eastern Europe to the Russian Far East and Northern China. Wintering grounds are located in Sub-Saharan Africa, the Indian Subcontinent, and parts of Southeast Asia. They require clean, shallow water for foraging and mature forests for nesting.",
+      "zh": "该物种偏好未受干扰的生境，包括分布有溪流、河流或沼泽的大片阔叶林或针叶林。其繁殖范围从伊比利亚半岛横跨中东欧，一直延伸至俄罗斯远东地区和中国北方。越冬地位于撒哈拉以南非洲、印度次大陆和东南亚部分地区。它们需要清澈的浅水区域进行觅食，并依赖成熟的森林进行营巢。"
+    }
+  },
+  "habitat": {
+    "text_en": "Temperate forests, riverine wetlands, and montane cliffs.",
+    "text_zh": "温带森林、河流湿地及山地悬崖。",
+    "map_coordinates": [
+      48,
+      45
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          36.5,
+          -9.5
+        ],
+        [
+          43.5,
+          -9.5
+        ],
+        [
+          43.5,
+          -1.5
+        ],
+        [
+          48.5,
+          5.5
+        ],
+        [
+          55.5,
+          15.5
+        ],
+        [
+          60.5,
+          30.5
+        ],
+        [
+          65.5,
+          60.5
+        ],
+        [
+          62.5,
+          90.5
+        ],
+        [
+          58.5,
+          120.5
+        ],
+        [
+          52.5,
+          135.5
+        ],
+        [
+          40.5,
+          130.5
+        ],
+        [
+          35.5,
+          115.5
+        ],
+        [
+          32.5,
+          100.5
+        ],
+        [
+          38.5,
+          80.5
+        ],
+        [
+          45.5,
+          40.5
+        ],
+        [
+          42.5,
+          20.5
+        ],
+        [
+          36.5,
+          -9.5
+        ]
+      ],
+      [
+        [
+          18.5,
+          -16.5
+        ],
+        [
+          18.5,
+          35.5
+        ],
+        [
+          10.5,
+          45.5
+        ],
+        [
+          -5.5,
+          40.5
+        ],
+        [
+          -15.5,
+          30.5
+        ],
+        [
+          -15.5,
+          15.5
+        ],
+        [
+          5.5,
+          -10.5
+        ],
+        [
+          18.5,
+          -16.5
+        ]
+      ],
+      [
+        [
+          28.5,
+          65.5
+        ],
+        [
+          32.5,
+          85.5
+        ],
+        [
+          25.5,
+          95.5
+        ],
+        [
+          10.5,
+          85.5
+        ],
+        [
+          12.5,
+          70.5
+        ],
+        [
+          28.5,
+          65.5
+        ]
+      ],
+      [
+        [
+          35.5,
+          110.5
+        ],
+        [
+          42.5,
+          110.5
+        ],
+        [
+          42.5,
+          125.5
+        ],
+        [
+          35.5,
+          125.5
+        ],
+        [
+          35.5,
+          110.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/black-stork.jpg"
+}

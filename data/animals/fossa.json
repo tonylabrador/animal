@@ -1,0 +1,196 @@
+{
+  "id": "fossa",
+  "name_zh": "马岛獴",
+  "name_en": "Fossa",
+  "scientific_name": "Cryptoprocta ferox",
+  "ui_tags": [
+    "Mammalia",
+    "Forest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Eupleridae",
+      "zh": "食蚁狸科"
+    },
+    "genus": {
+      "en": "Cryptoprocta",
+      "zh": "马岛獴属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The fossa is the largest terrestrial carnivore endemic to the island of Madagascar. Morphologically, it is a striking example of convergent evolution, possessing feline-like features such as semi-retractable claws and a lithe body, despite being more closely related to mongooses. As an apex predator, it plays a critical role in the Malagasy ecosystem, primarily preying on lemurs. It is known for its extraordinary climbing abilities, aided by a long tail that acts as a balance pole and highly flexible ankles that allow it to descend trees head-first.",
+    "zh": "马岛獴是马达加斯加岛特有的最大型陆生食肉动物。在形态学上，它是趋同演化的典型案例，尽管其亲缘关系更接近獴科，却拥有类似猫科动物的特征，如半可伸缩的爪子和轻盈的身躯。作为顶级掠食者，它在马达加斯加生态系统中发挥着至关重要的作用，主要以狐猴为食。马岛獴以其卓越的攀爬能力闻名，其长尾充当平衡杆，而极度灵活的踝关节使其能够头朝下从树干降落。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The fossa reaches a head-body length of 70–80 cm with a tail nearly as long. Its muscular build and short, reddish-brown coat are distinctive. A unique biological trait is the 'transient masculinization' in juvenile females, where they develop enlarged, spine-covered genitalia resembling those of adult males, likely to reduce aggression from males or sexual harassment. Their paws have large pads and their claws are sharp and curved, facilitating a scansorial (climbing) lifestyle.",
+      "zh": "马岛獴的头体长可达70-80厘米，尾长几乎与之相等。其肌肉发达的体格和短促的红褐色皮毛极具辨识度。一个独特的生物学特征是幼年雌性的“暂时性男性化”，它们会发育出类似成年雄性的巨大且布满刺的生殖器，这被认为是为了减少来自雄性的攻击或性骚扰。它们的足部有巨大的肉垫，爪子锋利且弯曲，非常适应攀爬生活。"
+    },
+    "ecology_and_behavior": {
+      "en": "Fossas are cathemeral, meaning they are active both during the day and at night. They are solitary animals except during the mating season. Their diet is generalist but specialized towards lemurs, which can make up over 50% of their intake. Mating behavior is unusual, occurring on specific 'mating trees' where a single female may occupy a high branch and mate with multiple males over several days, exhibiting a form of polyandry.",
+      "zh": "马岛獴属于全昼夜活动型（cathemeral），即昼夜均会活动。除繁殖季节外，它们通常是独居动物。其食性虽广，但高度偏好狐猴，狐猴占其食物摄入量的50%以上。其交配行为十分独特，通常在特定的“交配树”上进行，一只雌性可能会占据高处枝头，在数天内与多只雄性交配，表现出一种一雌多雄制的特征。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic strictly to Madagascar, the fossa is found in a variety of forest types, including humid rainforests, dry deciduous forests, and montane forests up to 2,000 meters. They require large, intact forest tracts to maintain viable populations. Due to extensive deforestation and habitat fragmentation across the island, their range has become increasingly restricted to protected areas and remote forest remnants.",
+      "zh": "马岛獴严格限定于马达加斯加岛，分布于多种森林类型中，包括潮湿的热带雨林、干燥的落叶林以及海拔高达2000公里的山地森林。它们需要大面积且完整的森林地带以维持种群生存。由于全岛范围内的过度砍伐和栖息地破碎化，它们的分布范围日益局限于保护区和偏远的残存森林中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Madagascar's diverse forest biomes, ranging from coastal lowlands to high-altitude interior forests.",
+    "text_zh": "马达加斯加多样的森林生物群落，从沿海低地到高海拔内陆森林均有分布。",
+    "map_coordinates": [
+      -18.7669,
+      46.8691
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -12.1,
+          49.2
+        ],
+        [
+          -12.5,
+          49.5
+        ],
+        [
+          -13.2,
+          49.9
+        ],
+        [
+          -14.5,
+          50.2
+        ],
+        [
+          -15.8,
+          50.4
+        ],
+        [
+          -17.2,
+          49.6
+        ],
+        [
+          -18.5,
+          49.3
+        ],
+        [
+          -20,
+          48.8
+        ],
+        [
+          -21.5,
+          48.3
+        ],
+        [
+          -23,
+          47.8
+        ],
+        [
+          -24.5,
+          47.2
+        ],
+        [
+          -25.5,
+          46.5
+        ],
+        [
+          -25.6,
+          45.2
+        ],
+        [
+          -25.2,
+          44.3
+        ],
+        [
+          -24,
+          43.6
+        ],
+        [
+          -22.5,
+          43.2
+        ],
+        [
+          -21,
+          43.5
+        ],
+        [
+          -19.5,
+          44.2
+        ],
+        [
+          -18,
+          44.1
+        ],
+        [
+          -16.5,
+          44.4
+        ],
+        [
+          -15.5,
+          45.8
+        ],
+        [
+          -14.2,
+          47.5
+        ],
+        [
+          -13.5,
+          48.2
+        ],
+        [
+          -12.8,
+          48.5
+        ],
+        [
+          -12.1,
+          49.2
+        ]
+      ],
+      [
+        [
+          -18,
+          47
+        ],
+        [
+          -18.5,
+          47.5
+        ],
+        [
+          -19,
+          47.2
+        ],
+        [
+          -18.5,
+          46.8
+        ],
+        [
+          -18,
+          47
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/fossa.jpg"
+}

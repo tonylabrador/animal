@@ -1,0 +1,248 @@
+{
+  "id": "bighead-carp",
+  "name_zh": "鳙鱼",
+  "name_en": "Bighead Carp",
+  "scientific_name": "Hypophthalmichthys nobilis",
+  "ui_tags": [
+    "辐鳍鱼纲",
+    "淡水",
+    "滤食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "辐鳍鱼纲"
+    },
+    "order": {
+      "en": "Cypriniformes",
+      "zh": "鲤形目"
+    },
+    "family": {
+      "en": "Xenocyprididae",
+      "zh": "鲴科"
+    },
+    "genus": {
+      "en": "Hypophthalmichthys",
+      "zh": "鲢属"
+    }
+  },
+  "conservation_status": {
+    "code": "DD",
+    "en": "Data Deficient",
+    "zh": "数据缺乏"
+  },
+  "description": {
+    "en": "The Bighead Carp (Hypophthalmichthys nobilis) is a large, freshwater cyprinid fish native to East Asia and one of the 'Four Domestic Fishes' in China. It is distinguished by an exceptionally large, scaleless head, a large mouth with a protruding lower jaw, and eyes positioned low on the head, below the midline of the body. Unlike its close relative, the Silver Carp, the Bighead Carp's ventral keel is incomplete, extending only from the pelvic fins to the anus. It is a specialized filter feeder, utilizing dense, sponge-like gill rakers to strain zooplankton from the water column. While highly valued in aquaculture for its rapid growth and meat quality, it has become a significant invasive species in North America, where it outcompetes native filter feeders and disrupts aquatic food webs.",
+    "zh": "鳙鱼（Hypophthalmichthys nobilis），又称大头鱼、胖头鱼、黑鲢，是中国著名的“四大家鱼”之一，原产于东亚大型河流系统。其最显著的形态特征是头部巨大，约占体长的三分之一，口大且上位，眼睛位置极低，位于头侧中线以下。鳙鱼与鲢鱼在外形上相似，但主要区别在于鳙鱼的腹棱较短，仅限于腹鳍基部至肛门之间，且体侧常有不规则的黑色斑点。鳙鱼是典型的滤食性鱼类，拥有极其精细的鳃耙结构，主要摄食浮游动物。在生态习性上，鳙鱼属于江河洄游性鱼类，产漂流性卵，对水流速度和温度变化敏感。虽然在亚洲是重要的淡水养殖品种，但在北美等地区被视为严重的入侵物种，对当地水生生态系统构成巨大威胁。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Bighead Carp features a robust, laterally compressed body. Its most defining anatomical feature is the hypertrophied head and the specialized branchial apparatus. The gill rakers are long, closely set, and non-fused (unlike the fused rakers of the Silver Carp), forming a complex sieve optimized for capturing zooplankton. The scales are small and cycloid. Its coloration is typically grayish-black on the dorsal side, fading to a silvery-white belly, often interspersed with dark, irregular blotches on the flanks. The pharyngeal teeth are arranged in a single row (4-4) and are smooth, adapted for processing soft planktonic matter.",
+      "zh": "鳙鱼体侧扁，头部特大。其解剖学上的核心特征是高度发达的呼吸与滤食系统。鳃耙长而细密，呈梳状，但不像鲢鱼那样相互愈合成海绵状，这使其更倾向于滤食体型较大的浮游动物。体表覆盖细小的圆鳞。背部呈青黑色，腹部灰白，体侧布满不规则的黑色云状斑点。其咽齿为单行，齿面平滑，适合处理柔软的浮游生物。腹棱仅存在于腹鳍基部到肛门之间，这是区分其与鲢鱼（全腹棱）的关键解剖特征。"
+    },
+    "ecology_and_behavior": {
+      "en": "Bighead Carp are potamodromous, meaning they migrate within freshwater systems to spawn. Spawning is triggered by rising water levels and temperatures (typically above 18°C) in large, turbulent rivers. The eggs are semi-buoyant and must drift downstream in the current to hatch. They are rapid growers, capable of reaching weights over 40 kg in optimal conditions. Behaviorally, they occupy the upper and middle layers of the water column. As opportunistic filter feeders, they consume vast quantities of zooplankton, including cladocerans, copepods, and rotifers, occasionally supplementing their diet with phytoplankton and detritus.",
+      "zh": "鳙鱼具有江河洄游习性。在自然条件下，它们在江河干流中产卵，产卵活动通常由水位上涨和水温升高（通常需达到18℃以上）诱发。其卵为半浮性，需随水流漂浮孵化。鳙鱼生长极快，在食物充足的环境下，成年个体体重可超过40公斤。它们主要活动于水体的中上层，性格相对温顺。作为高效的滤食者，它们每天摄入大量浮游动物（如枝角类、桡足类和轮虫），在食物匮乏时也会摄食浮游植物和有机碎屑。这种强大的摄食能力使其在非原产地极易形成种群优势。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to the large river systems of eastern China, including the Yangtze, Pearl, and Yellow Rivers, as well as parts of eastern Russia (Amur River). They prefer slow-moving or standing waters of large rivers, lakes, and reservoirs with high nutrient levels. They have been widely introduced globally for aquaculture and water quality management. In the United States, they have established self-sustaining populations throughout the Mississippi River basin, extending into the Missouri and Ohio Rivers, and are a major threat to the Great Lakes ecosystem.",
+      "zh": "原产于中国东部的大型河流系统，包括长江、珠江、黄河、淮河等流域，以及俄罗斯东部的黑龙江流域。它们偏好栖息于水质肥沃、浮游生物丰富的江河干流、湖泊和大型水库的中上层。由于其极高的经济价值，鳙鱼已被广泛引种至世界各地。在北美，鳙鱼已在密西西比河、密苏里河及俄亥俄河流域建立了庞大的自然种群，并持续向五大湖地区扩张，成为当地最受关注的入侵鱼类之一。"
+    }
+  },
+  "habitat": {
+    "text_en": "Large rivers, floodplains, and eutrophic lakes/reservoirs in East Asia and introduced regions.",
+    "text_zh": "东亚地区的大型河流、泛滥平原以及富营养化的湖泊与水库。",
+    "map_coordinates": [
+      30.5,
+      114.3
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          40.2,
+          116.5
+        ],
+        [
+          41.5,
+          119.2
+        ],
+        [
+          43.8,
+          124.5
+        ],
+        [
+          48.5,
+          130.2
+        ],
+        [
+          49.2,
+          135.5
+        ],
+        [
+          46.5,
+          134.2
+        ],
+        [
+          42.1,
+          130.5
+        ],
+        [
+          39.5,
+          122.8
+        ],
+        [
+          37.2,
+          119.5
+        ],
+        [
+          35.5,
+          120.2
+        ],
+        [
+          32.8,
+          121.5
+        ],
+        [
+          31.2,
+          122.1
+        ],
+        [
+          29.5,
+          122.5
+        ],
+        [
+          25.8,
+          119.8
+        ],
+        [
+          23.2,
+          117.5
+        ],
+        [
+          22.1,
+          114.2
+        ],
+        [
+          21.5,
+          110.5
+        ],
+        [
+          20.8,
+          108.5
+        ],
+        [
+          22.5,
+          106.2
+        ],
+        [
+          24.8,
+          105.5
+        ],
+        [
+          26.5,
+          108.2
+        ],
+        [
+          28.2,
+          110.5
+        ],
+        [
+          30.5,
+          112.8
+        ],
+        [
+          32.2,
+          114.5
+        ],
+        [
+          34.5,
+          112.2
+        ],
+        [
+          36.8,
+          110.5
+        ],
+        [
+          38.5,
+          112.8
+        ],
+        [
+          40.2,
+          116.5
+        ]
+      ],
+      [
+        [
+          42.5,
+          -91.5
+        ],
+        [
+          40.2,
+          -90.8
+        ],
+        [
+          38.5,
+          -90.2
+        ],
+        [
+          36.2,
+          -89.5
+        ],
+        [
+          34.5,
+          -91.2
+        ],
+        [
+          32.1,
+          -91.5
+        ],
+        [
+          30.5,
+          -91.2
+        ],
+        [
+          29.8,
+          -89.5
+        ],
+        [
+          31.2,
+          -88.5
+        ],
+        [
+          33.5,
+          -87.2
+        ],
+        [
+          36.8,
+          -84.5
+        ],
+        [
+          39.2,
+          -82.5
+        ],
+        [
+          41.5,
+          -83.2
+        ],
+        [
+          42.8,
+          -87.5
+        ],
+        [
+          42.5,
+          -91.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/bighead-carp.jpg"
+}

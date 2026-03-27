@@ -1,0 +1,166 @@
+{
+  "id": "golden-rumped-elephant-shrew",
+  "name_zh": "黄臀象鼩",
+  "name_en": "Golden-rumped Elephant Shrew",
+  "scientific_name": "Rhynchocyon chrysopygus",
+  "ui_tags": [
+    "Mammalia",
+    "Coastal Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Macroscelidea",
+      "zh": "象鼩目"
+    },
+    "family": {
+      "en": "Macroscelididae",
+      "zh": "象鼩科"
+    },
+    "genus": {
+      "en": "Rhynchocyon",
+      "zh": "东非象鼩属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The Golden-rumped elephant shrew (Rhynchocyon chrysopygus) is the largest member of the sengi family, a group of small insectivorous mammals endemic to Africa. It is characterized by its long, flexible, trunk-like snout and a distinctive patch of bright golden-yellow fur on its rump, which contrasts sharply with its otherwise dark reddish-brown to blackish coat. This species is a classic example of an evolutionary relict, belonging to the Afrotheria superorder, making them more closely related to elephants and manatees than to true shrews. They are diurnal, highly territorial, and form monogamous pairs that defend a shared territory but forage independently. Their survival is critically tied to the leaf litter layer of undisturbed coastal forests.",
+    "zh": "黄臀象鼩（Rhynchocyon chrysopygus）是象鼩科中体型最大的成员，这是一类非洲特有的食虫哺乳动物。其最显著的特征是拥有一个长而灵活、类似象鼻的吻部，以及臀部一块鲜艳的金色毛发斑块，这与身体其余部分的深红褐色或黑色被毛形成鲜明对比。从演化角度看，它们属于非洲兽总目，这意味着它们与大象和海牛的亲缘关系比与真正的鼩鼱更近。黄臀象鼩是典型的昼行性动物，具有强烈的领地意识，形成单配偶制配对，共同保卫领地但独立觅食。它们的生存高度依赖于未受干扰的沿海森林中的落叶层。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Physically, R. chrysopygus possesses long, spindly legs adapted for rapid cursorial movement. The most unique anatomical feature is the 'dermal shield'—a patch of thickened skin (up to 3 times thicker than on the flanks) located under the golden rump patch, which serves as protection against the bites of conspecifics during territorial disputes. Their elongated snout is highly sensitive and mobile, used to probe leaf litter for prey. They have a relatively large brain-to-body ratio for insectivores and possess well-developed eyes and ears.",
+      "zh": "解剖学上，黄臀象鼩拥有细长的四肢，适应于快速奔跑。最独特的解剖特征是“真皮盾”——在金色臀部斑块下方的皮肤厚度是侧腹部的三倍，这在领地争夺中起到了抵御同类咬伤的保护作用。它们细长的吻部高度敏感且灵活，用于在落叶中探测猎物。在食虫动物中，它们的大脑与身体比例相对较大，并拥有发育良好的眼睛和耳朵。"
+    },
+    "ecology_and_behavior": {
+      "en": "They are strictly diurnal, emerging at dawn to forage and returning to one of several leaf-nests at dusk. Their diet consists almost exclusively of invertebrates, including earthworms, millipedes, insects, and spiders. A unique anti-predator behavior involves 'tail-slapping' the leaf litter to create a loud noise, signaling to a predator (like a snake or raptor) that it has been detected. They maintain territories of about 1.7 hectares. While pairs share a territory, they spend very little time together, interacting primarily for mating and territory defense.",
+      "zh": "它们是严格的昼行性动物，黎明时分外出觅食，黄昏时返回由落叶筑成的巢穴。其食物几乎完全由无脊椎动物组成，包括蚯蚓、马陆、昆虫和蜘蛛。一种独特的抗捕食行为是“尾部拍击”，即用尾部拍打落叶发出响声，向捕食者（如蛇或猛禽）发出信号，表明其已被发现。它们维持约1.7公顷的领地。虽然配对个体共享领地，但它们很少花时间在一起，主要在交配和保卫领地时互动。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species is endemic to a highly fragmented range of moist coastal evergreen forests and semi-deciduous forests in Kenya. Its primary stronghold is the Arabuko-Sokoke Forest Reserve. They require a thick, undisturbed layer of leaf litter for foraging and nesting. The total population is declining due to habitat loss from agricultural expansion, illegal logging, and occasional trapping for bushmeat.",
+      "zh": "该物种特产于肯尼亚高度碎片化的潮湿沿海常绿林和半落叶林中。其主要栖息地是阿拉布科-索科凯森林保护区（Arabuko-Sokoke Forest Reserve）。它们需要厚实且未受干扰的落叶层来进行觅食和筑巢。由于农业扩张、非法伐木以及偶尔的丛林肉捕猎导致的栖息地丧失，其总种群数量正在下降。"
+    }
+  },
+  "habitat": {
+    "text_en": "Restricted to the coastal forest mosaic of Kenya, primarily in the Arabuko-Sokoke Forest and smaller patches like Gede, Boni, and Dodori.",
+    "text_zh": "局限于肯尼亚沿海森林马赛克地带，主要分布在阿拉布科-索科凯森林以及格德、博尼和多多里等较小的森林碎片中。",
+    "map_coordinates": [
+      -3.3167,
+      39.9167
+    ],
+    "map_zoom_level": 8,
+    "global_distribution_polygons": [
+      [
+        [
+          -3.125,
+          39.882
+        ],
+        [
+          -3.148,
+          39.955
+        ],
+        [
+          -3.221,
+          40.012
+        ],
+        [
+          -3.355,
+          40.035
+        ],
+        [
+          -3.482,
+          39.988
+        ],
+        [
+          -3.565,
+          39.895
+        ],
+        [
+          -3.521,
+          39.782
+        ],
+        [
+          -3.385,
+          39.725
+        ],
+        [
+          -3.215,
+          39.755
+        ],
+        [
+          -3.125,
+          39.882
+        ]
+      ],
+      [
+        [
+          -1.725,
+          41.125
+        ],
+        [
+          -1.785,
+          41.285
+        ],
+        [
+          -1.955,
+          41.355
+        ],
+        [
+          -2.125,
+          41.225
+        ],
+        [
+          -2.085,
+          41.055
+        ],
+        [
+          -1.885,
+          40.985
+        ],
+        [
+          -1.725,
+          41.125
+        ]
+      ],
+      [
+        [
+          -2.255,
+          40.755
+        ],
+        [
+          -2.325,
+          40.885
+        ],
+        [
+          -2.455,
+          40.825
+        ],
+        [
+          -2.415,
+          40.685
+        ],
+        [
+          -2.255,
+          40.755
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/golden-rumped-elephant-shrew.jpg"
+}

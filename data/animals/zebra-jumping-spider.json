@@ -1,0 +1,204 @@
+{
+  "id": "zebra-jumping-spider",
+  "name_zh": "斑马跳蛛",
+  "name_en": "Zebra jumping spider",
+  "scientific_name": "Salticus scenicus",
+  "ui_tags": [
+    "蛛形纲",
+    "陆生",
+    "肉食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Arachnida",
+      "zh": "蛛形纲"
+    },
+    "order": {
+      "en": "Araneae",
+      "zh": "蜘蛛目"
+    },
+    "family": {
+      "en": "Salticidae",
+      "zh": "跳蛛科"
+    },
+    "genus": {
+      "en": "Salticus",
+      "zh": "蝇虎属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Zebra jumping spider (Salticus scenicus) is a widespread jumping spider known for its distinctive black-and-white striped abdomen and cephalothorax, mimicking the pattern of a zebra. Measuring between 5 to 9 mm, these spiders are renowned for their exceptional visual acuity and hunting prowess. Unlike web-weaving spiders, they are active diurnal hunters that use hydraulic pressure to leap up to 20 times their body length to capture prey. Their large anterior median eyes provide high-resolution, binocular vision, allowing them to calculate distances with extreme precision. They are commonly found on sun-exposed vertical surfaces such as walls, fences, and tree trunks across the Holarctic region.",
+    "zh": "斑马跳蛛（Salticus scenicus）是一种广泛分布的跳蛛，以其头胸部和腹部明显的黑白相间条纹而闻名，其花纹酷似斑马。这种蜘蛛体长约5至9毫米，以其卓越的视力和捕猎技巧著称。与织网蜘蛛不同，斑马跳蛛是活跃的昼行性捕食者，利用体内液压系统产生的爆发力，能跃出相当于体长20倍的距离来捕捉猎物。它们巨大的中前眼提供高分辨率的双目视觉，使其能够极其精确地计算距离。它们常出现在北半球全北区的墙壁、篱笆和树干等向阳的垂直表面上。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Salticus scenicus possesses eight eyes, with the two massive anterior median eyes (AME) acting as primary telephoto lenses for detail and depth perception. Their legs lack the large extensor muscles found in mammals; instead, they utilize a sophisticated hydraulic system, rapidly increasing blood pressure in their limbs to facilitate explosive jumps. The body is covered in iridescent scales and dense hairs (setae) that aid in sensory perception and adhesion to smooth surfaces.",
+      "zh": "斑马跳蛛拥有八只眼睛，其中两只巨大的中前眼（AME）充当主要的远摄镜头，用于感知细节和深度。它们的腿部缺乏哺乳动物那样的巨大伸肌，而是利用复杂的液压系统，通过迅速增加肢体内的血压来实现爆发式跳跃。其身体覆盖着具有虹彩光泽的鳞片和密集的刚毛，有助于感官知觉和在光滑表面上的附着。"
+    },
+    "ecology_and_behavior": {
+      "en": "These spiders are solitary hunters. Before jumping, they attach a silk 'dragline' to the substrate, acting as a safety tether in case they miss their target. Their diet primarily consists of smaller insects and other spiders. During courtship, the male performs a complex visual display, waving its front legs and vibrating its abdomen to signal its identity and fitness to the female, avoiding being mistaken for prey.",
+      "zh": "这种蜘蛛是独居的猎手。在跳跃之前，它们会将一根丝质“安全绳”固定在基质上，以防跳跃失误时坠落。它们的食物主要由小型昆虫和其他蜘蛛组成。在求偶过程中，雄性会进行复杂的视觉展示，挥动前肢并震动腹部，向雌性表明身份和健康状况，以避免被误认为是猎物。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to the Holarctic region, they are found throughout Europe, Northern Asia, and North America. They thrive in open, sunny habitats and have successfully adapted to urban environments, frequently inhabiting man-made structures. They prefer vertical planes where they can easily spot prey from a distance.",
+      "zh": "原产于全北区，分布遍及整个欧洲、北亚和北美。它们在开阔、阳光充足的环境中生活得很好，并成功适应了城市环境，经常栖息在人造建筑上。它们偏好垂直平面，以便从远处轻松发现猎物。"
+    }
+  },
+  "habitat": {
+    "text_en": "Holarctic distribution including North America, Europe, and Northern Asia, often near human habitations.",
+    "text_zh": "全北区分布，包括北美、欧洲和北亚，常出现在人类居住区附近。",
+    "map_coordinates": [
+      45,
+      10
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          48.5,
+          -124.8
+        ],
+        [
+          53.2,
+          -114.5
+        ],
+        [
+          58.1,
+          -95.2
+        ],
+        [
+          55.4,
+          -70.1
+        ],
+        [
+          48.2,
+          -55.3
+        ],
+        [
+          44.1,
+          -65.4
+        ],
+        [
+          38.5,
+          -75.2
+        ],
+        [
+          32.1,
+          -80.5
+        ],
+        [
+          28.5,
+          -95.1
+        ],
+        [
+          31.2,
+          -115.4
+        ],
+        [
+          38.4,
+          -123.5
+        ],
+        [
+          45.2,
+          -124.5
+        ]
+      ],
+      [
+        [
+          36.5,
+          -9.5
+        ],
+        [
+          42.1,
+          -9.2
+        ],
+        [
+          50.5,
+          -5.1
+        ],
+        [
+          58.2,
+          5.5
+        ],
+        [
+          65.4,
+          15.2
+        ],
+        [
+          68.5,
+          25.1
+        ],
+        [
+          65.2,
+          40.5
+        ],
+        [
+          60.1,
+          60.2
+        ],
+        [
+          55.4,
+          85.1
+        ],
+        [
+          52.1,
+          110.5
+        ],
+        [
+          54.2,
+          130.4
+        ],
+        [
+          45.1,
+          145.2
+        ],
+        [
+          35.2,
+          140.1
+        ],
+        [
+          32.5,
+          130.2
+        ],
+        [
+          35.4,
+          110.5
+        ],
+        [
+          38.1,
+          80.2
+        ],
+        [
+          42.5,
+          45.1
+        ],
+        [
+          40.2,
+          20.5
+        ],
+        [
+          35.1,
+          10.2
+        ],
+        [
+          36.5,
+          -9.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/zebra-jumping-spider.jpg"
+}

@@ -1,0 +1,170 @@
+{
+  "id": "darwins-fox",
+  "name_zh": "达尔文狐",
+  "name_en": "Darwin's fox",
+  "scientific_name": "Lycalopex fulvipes",
+  "ui_tags": [
+    "Mammalia",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Canidae",
+      "zh": "犬科"
+    },
+    "genus": {
+      "en": "Lycalopex",
+      "zh": "伪狐属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "Darwin's fox is a small, critically endangered canid endemic to Chile. First collected by Charles Darwin in 1834 on Chiloé Island, it was long considered a subspecies of the South American grey fox until genetic analysis confirmed its status as a distinct, relict species from the Pleistocene. It is characterized by its dark, thick coat and relatively short legs, which are evolutionary adaptations to the dense undergrowth of the Valdivian temperate rainforests. Unlike many other canids, it is not strictly territorial and exhibits a high degree of habitat specialization, making it extremely vulnerable to habitat fragmentation and domestic dog-borne diseases.",
+    "zh": "达尔文狐是一种仅分布于智利的小型极度濒危犬科动物。1834年，查尔斯·达尔文在奇洛埃岛首次采集到该物种标本。长期以来，它被误认为是南美灰狐的一个亚种，直到现代遗传学分析证实其为更新世时期残存的独立孑遗物种。达尔文狐体型矮壮，拥有深色的厚实皮毛和相对较短的四肢，这是为了适应瓦尔迪维亚温带雨林茂密底层环境的进化特征。与许多犬科动物不同，它们并不具有强烈的领地意识，但对生境的选择极度专一，这使得它们在面对栖息地碎片化和家犬传播的疾病时显得极其脆弱。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Darwin's fox is the smallest member of the Lycalopex genus, weighing between 1.8 to 3.95 kg. It possesses a dark grizzly grey coat with rufous (reddish) markings on the ears and around the legs. Its muzzle is relatively short and dark. The most distinctive anatomical feature is its short legs, which lower its center of gravity, allowing for agile movement through dense forest thickets. Its tail is relatively short and bushy, often held low.",
+      "zh": "达尔文狐是伪狐属中体型最小的成员，体重在1.8至3.95公斤之间。它全身覆盖着深灰色的皮毛，耳朵边缘和腿部周围带有明显的红褐色斑块。其吻部较短且颜色较深。最显著的解剖特征是其短小的四肢，这降低了重心，使其能在茂密的森林灌木丛中灵活穿行。尾巴相对较短且多毛，通常低垂。"
+    },
+    "ecology_and_behavior": {
+      "en": "Primarily crepuscular and nocturnal, Darwin's fox is an opportunistic omnivore. Its diet fluctuates seasonally, consisting of small mammals (monito del monte), birds, reptiles, insects, and a significant amount of wild fruits. It plays a crucial role in the ecosystem as a seed disperser for forest plants. Socially, they are often solitary but may share home ranges with kin. They show little fear of humans, a trait that unfortunately increases their risk of contact with domestic dogs and associated pathogens like canine distemper.",
+      "zh": "达尔文狐主要在晨昏和夜间活动，是一种机会主义杂食动物。其食谱随季节波动，包括小型哺乳动物（如南猊）、鸟类、爬行动物、昆虫以及大量的野果。它在生态系统中扮演着森林植物种子传播者的关键角色。在社交上，它们通常独居，但可能与亲属共享家域。它们对人类表现出较低的恐惧感，这一特性不幸地增加了它们与家犬接触的风险，从而易感染犬瘟热等致命病毒。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species has an extremely restricted range, found only in two disjunct populations in Chile: the largest population resides on Chiloé Island, and a smaller, mainland population is found in the Nahuelbuta National Park and the coastal range of the Valdivian forest. They prefer primary, undisturbed temperate rainforests characterized by Nothofagus and Fitzroya trees, though they occasionally venture into secondary forests and open pastures.",
+      "zh": "该物种的分布范围极其狭窄，仅见于智利的两个不连续区域：最大的种群位于奇洛埃岛，较小的陆地种群分布在纳韦尔武塔国家公园以及瓦尔迪维亚森林的海岸山脉。它们偏好由南青冈和智利柏构成的原始温带雨林，尽管偶尔也会进入次生林和开阔的牧场。"
+    }
+  },
+  "habitat": {
+    "text_en": "Valdivian temperate rainforests and coastal matorral of southern Chile.",
+    "text_zh": "智利南部的瓦尔迪维亚温带雨林及沿海灌丛带。",
+    "map_coordinates": [
+      -42.6,
+      -73.9
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [
+        [
+          -41.75,
+          -73.88
+        ],
+        [
+          -41.82,
+          -73.52
+        ],
+        [
+          -42.15,
+          -73.38
+        ],
+        [
+          -42.65,
+          -73.42
+        ],
+        [
+          -43.12,
+          -73.62
+        ],
+        [
+          -43.42,
+          -73.75
+        ],
+        [
+          -43.48,
+          -74.15
+        ],
+        [
+          -43.15,
+          -74.48
+        ],
+        [
+          -42.45,
+          -74.42
+        ],
+        [
+          -41.95,
+          -74.12
+        ],
+        [
+          -41.75,
+          -73.88
+        ]
+      ],
+      [
+        [
+          -37.72,
+          -73.05
+        ],
+        [
+          -37.78,
+          -72.92
+        ],
+        [
+          -37.88,
+          -72.95
+        ],
+        [
+          -37.92,
+          -73.08
+        ],
+        [
+          -37.85,
+          -73.15
+        ],
+        [
+          -37.72,
+          -73.05
+        ]
+      ],
+      [
+        [
+          -39.35,
+          -73.35
+        ],
+        [
+          -39.45,
+          -73.25
+        ],
+        [
+          -39.65,
+          -73.28
+        ],
+        [
+          -39.75,
+          -73.42
+        ],
+        [
+          -39.55,
+          -73.48
+        ],
+        [
+          -39.35,
+          -73.35
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/darwins-fox.jpg"
+}

@@ -1,0 +1,228 @@
+{
+  "id": "cuckoo-roller",
+  "name_zh": "鹃鵙",
+  "name_en": "Cuckoo roller",
+  "scientific_name": "Leptosomus discolor",
+  "ui_tags": [
+    "鸟纲",
+    "森林",
+    "肉食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Leptosomiformes",
+      "zh": "鹃鵙目"
+    },
+    "family": {
+      "en": "Leptosomidae",
+      "zh": "鹃鵙科"
+    },
+    "genus": {
+      "en": "Leptosomus",
+      "zh": "鹃鵙属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Cuckoo roller is an evolutionary enigma, being the sole extant member of its entire order, Leptosomiformes. Endemic to Madagascar and the Comoro Islands, it represents a lineage that diverged from other birds tens of millions of years ago. It is a medium-to-large bird characterized by extreme sexual dimorphism and a unique 'semi-zygodactyl' foot structure. Unlike true rollers, it possesses powder-down feathers and lacks the typical vocal syrinx structure of its relatives. It is famous for its spectacular aerial displays, where males perform acrobatic loops and rolls high above the canopy while emitting loud, whistling calls to defend territory and attract mates.",
+    "zh": "鹃鵙是演化史上的一个谜团，它是整个鹃鵙目中唯一的现存物种。作为马达加斯加及其邻近科摩罗群岛的特有种，它代表了一个在数千万年前就与其他鸟类分道扬镳的古老谱系。这种中大型鸟类具有极端的雌雄异形特征以及独特的“半对生足”结构。与真正的佛法僧类不同，鹃鵙拥有粉䎃（用于羽毛保养的特殊粉末羽毛），且其鸣管结构也十分独特。它们以壮观的空中表演而闻名，雄鸟会在森林冠层上方进行高难度的翻滚和环绕飞行，并发出响亮的哨鸣声以保卫领地或吸引配偶。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Cuckoo roller exhibits striking sexual dimorphism: males have iridescent velvet-green and purple upperparts with ash-grey underparts, while females are larger, rufous-brown, and heavily barred with black. Their head is disproportionately large with a stout, slightly hooked bill. A key anatomical feature is the zygodactyl-like foot, where the fourth toe can swing forward or backward, aiding in gripping thick branches. They also possess powder-down feathers on the flanks, a trait shared with herons but rare in Coraciiform-like birds.",
+      "zh": "鹃鵙表现出显著的雌雄异形：雄鸟背部覆盖着闪烁金属光泽的丝绒绿和紫色羽毛，腹部为浅灰色；雌鸟体型更大，呈红褐色并布满黑色横斑。它们的头部比例极大，配有粗壮且略微钩曲的喙。一个关键的解剖特征是其类对生足结构，第四趾可以向前或向后摆动，有助于抓紧粗大的树枝。此外，它们的胁部拥有粉䎃，这一特征在鹭类中常见，但在类佛法僧鸟类中极罕见。"
+    },
+    "ecology_and_behavior": {
+      "en": "Primarily insectivorous and carnivorous, their diet is highly specialized toward arboreal prey that other birds often avoid, such as chameleons and large hairy caterpillars. They are 'sit-and-wait' predators, perching motionless for long periods on high branches before launching a sudden strike. Breeding occurs in tree hollows, often 10-25 meters above ground. Their social structure is largely solitary outside the breeding season, but they are highly vocal, with a distinctive 'whee-oo' call that can be heard from over a kilometer away.",
+      "zh": "鹃鵙主要以昆虫和小型脊椎动物为食，其食性高度特化，专门捕食其他鸟类通常避开的树栖猎物，如变色龙和大型多毛毛虫。它们是典型的“坐等式”捕食者，会在高处树枝上长时间静止不动，然后突然发动袭击。它们在树洞中筑巢，巢位通常距离地面10至25米。在繁殖季节之外，它们大多独居，但叫声极具穿透力，其独特的“whee-oo”鸣叫声在超过一公里外都能听到。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species is restricted to the Madagascar zoogeographic region. It inhabits a wide range of wooded environments, from humid evergreen rainforests in the east to dry deciduous forests in the west and spiny thickets in the south. They are found from sea level up to 2,000 meters in elevation. While they tolerate some habitat degradation, they are most abundant in undisturbed primary forests.",
+      "zh": "该物种仅限于马达加斯加动物地理区。它们栖息在各种林地环境中，从东部的潮湿常绿雨林到西部的干燥落叶林，以及南部的多刺灌丛。其分布范围从海平面一直延伸到海拔2000米。虽然它们能耐受一定程度的生境退化，但在未受干扰的原生林中种群密度最高。"
+    }
+  },
+  "habitat": {
+    "text_en": "Madagascar and Comoro Islands; primary rainforests, deciduous woodlands, and sub-arid scrub.",
+    "text_zh": "马达加斯加及科摩罗群岛；原生雨林、落叶林地及亚干旱灌丛。",
+    "map_coordinates": [
+      -18.7669,
+      46.8691
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -12,
+          49.2
+        ],
+        [
+          -12.5,
+          49.8
+        ],
+        [
+          -13.3,
+          50
+        ],
+        [
+          -14.5,
+          50.3
+        ],
+        [
+          -15.3,
+          50.5
+        ],
+        [
+          -16,
+          49.8
+        ],
+        [
+          -17.5,
+          49.5
+        ],
+        [
+          -19,
+          49.1
+        ],
+        [
+          -21,
+          48.5
+        ],
+        [
+          -23,
+          47.8
+        ],
+        [
+          -24.5,
+          47.2
+        ],
+        [
+          -25.6,
+          45.9
+        ],
+        [
+          -25.5,
+          45.1
+        ],
+        [
+          -25,
+          44.2
+        ],
+        [
+          -23.5,
+          43.6
+        ],
+        [
+          -22,
+          43.2
+        ],
+        [
+          -20.5,
+          44.1
+        ],
+        [
+          -19,
+          44.3
+        ],
+        [
+          -17.5,
+          44
+        ],
+        [
+          -16,
+          44.5
+        ],
+        [
+          -15,
+          46.5
+        ],
+        [
+          -14,
+          47.8
+        ],
+        [
+          -13,
+          48.5
+        ],
+        [
+          -12,
+          49.2
+        ]
+      ],
+      [
+        [
+          -11.3,
+          43.3
+        ],
+        [
+          -11.4,
+          43.5
+        ],
+        [
+          -11.8,
+          43.4
+        ],
+        [
+          -11.7,
+          43.2
+        ],
+        [
+          -11.3,
+          43.3
+        ]
+      ],
+      [
+        [
+          -12.1,
+          44.3
+        ],
+        [
+          -12.3,
+          44.5
+        ],
+        [
+          -12.4,
+          44.3
+        ],
+        [
+          -12.1,
+          44.3
+        ]
+      ],
+      [
+        [
+          -12.7,
+          45.1
+        ],
+        [
+          -12.9,
+          45.3
+        ],
+        [
+          -13,
+          45.1
+        ],
+        [
+          -12.7,
+          45.1
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/cuckoo-roller.jpg"
+}

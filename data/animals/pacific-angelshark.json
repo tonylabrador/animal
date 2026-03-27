@@ -1,0 +1,204 @@
+{
+  "id": "pacific-angelshark",
+  "name_zh": "加州扁鲨",
+  "name_en": "Pacific Angelshark",
+  "scientific_name": "Squatina californica",
+  "ui_tags": [
+    "板鳃亚纲",
+    "海洋生物",
+    "肉食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Elasmobranchii",
+      "zh": "板鳃亚纲"
+    },
+    "order": {
+      "en": "Squatiniformes",
+      "zh": "扁鲨目"
+    },
+    "family": {
+      "en": "Squatinidae",
+      "zh": "扁鲨科"
+    },
+    "genus": {
+      "en": "Squatina",
+      "zh": "扁鲨属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "The Pacific angelshark is a highly specialized benthic predator characterized by its extremely flattened body and wing-like pectoral fins, which give it a ray-like appearance. Despite this resemblance, it is a true shark, with gill slits located on the sides of its head rather than underneath. It is a master of camouflage, spending much of its day buried in sandy or muddy substrates near kelp forests and rocky reefs. As a sit-and-wait ambush predator, it possesses highly protrusible jaws that can snap upward with incredible speed to capture unsuspecting fish and cephalopods. Its skin is covered in dermal denticles, and its coloration typically mimics the speckled pattern of the seafloor, providing near-perfect concealment from both prey and larger predators.",
+    "zh": "加州扁鲨是一种高度特化的底栖捕食者，其特征是极度扁平的身体和翼状的胸鳍，使其外形酷似鳐鱼。尽管外表相似，但它属于真正的鲨鱼，其鳃裂位于头部两侧而非下方。它是伪装大师，白天大部分时间埋在海藻林和岩礁附近的沙质或泥质底质中。作为一种伏击型捕食者，它拥有高度可伸缩的颌骨，能以极快的速度向上弹出，捕捉毫无防备的鱼类和头足类动物。其皮肤覆盖着盾鳞，体色通常模拟海底的斑点图案，为其在猎物和大型捕食者面前提供了近乎完美的隐蔽性。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Pacific angelshark reaches lengths of up to 1.5 meters. Its body is dorsoventrally flattened with large, broad pectoral fins that are not attached to the head. It lacks an anal fin but possesses two small dorsal fins located far back on the tail. The caudal fin is unique among sharks, with the lower lobe being longer than the upper lobe, aiding in quick upward thrusts from the seabed. Its mouth is terminal, equipped with sharp, needle-like teeth designed for grasping slippery prey. Sensory barbels near the nostrils help detect chemical cues and vibrations in the murky bottom environment.",
+      "zh": "加州扁鲨的长度可达1.5米。其身体背腹扁平，拥有宽大的胸鳍，且胸鳍与头部不相连。它缺少臀鳍，但在尾部后方有两个较小的背鳍。其尾鳍在鲨鱼中十分独特，下叶比上叶长，有助于从海底快速向上冲刺。其口位于头部前端，配备有锋利的针状牙齿，专门用于抓取滑溜的猎物。鼻孔附近的感官触须有助于在浑浊的底层环境中探测化学信号和震动。"
+    },
+    "ecology_and_behavior": {
+      "en": "Primarily nocturnal, the Pacific angelshark remains motionless during the day, buried under a thin layer of sediment. It selects its ambush site based on the abundance of prey and local current patterns. When a prey item, such as a croaker, flatfish, or squid, swims within range, the shark uses a powerful suction mechanism combined with its protrusible jaws to strike in less than a tenth of a second. They are solitary animals and exhibit a high degree of site fidelity. Reproduction is ovoviviparous, with females giving birth to litters of 6 to 13 pups after a gestation period of approximately 10 months.",
+      "zh": "加州扁鲨主要在夜间活动，白天则埋在薄薄的沉积物下保持不动。它根据猎物的丰富程度和局部水流模式选择伏击地点。当石首鱼、比目鱼或乌贼等猎物游入攻击范围时，该鲨鱼利用强大的吸力机制结合其可伸缩的颌骨，在不到十分之一秒的时间内发动攻击。它们是独居动物，表现出高度的栖息地忠诚性。繁殖方式为卵胎生，雌性在约10个月的妊娠期后产下6至13只幼鲨。"
+    },
+    "habitat_and_distribution": {
+      "en": "This species is found in the eastern Pacific Ocean, ranging from southeastern Alaska to the Gulf of California, and also occurs off the coasts of Ecuador, Peru, and Chile. It inhabits continental shelf waters, typically at depths ranging from 3 to 200 meters. It prefers soft-bottom habitats, including sand flats and mudflats, often in close proximity to rocky reefs or kelp forests which provide a rich source of prey. While they are generally sedentary, some populations exhibit seasonal migrations to deeper waters.",
+      "zh": "该物种分布于东太平洋，范围从阿拉斯加东南部到加利福尼亚湾，也出现在厄瓜多尔、秘鲁和智利沿岸。它栖息于大陆架海域，深度通常在3到200米之间。它偏好软底生境，包括沙洲和泥滩，通常紧邻岩礁或海藻林，这些地方提供了丰富的食物来源。虽然它们通常定居不动，但某些种群会表现出向深水区的季节性迁徙。"
+    }
+  },
+  "habitat": {
+    "text_en": "Benthic zones of the Eastern Pacific continental shelf, favoring sandy substrates near kelp forests.",
+    "text_zh": "东太平洋大陆架的底栖带，偏好海藻林附近的沙质底质。",
+    "map_coordinates": [
+      34.0522,
+      -118.2437
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          58.5,
+          -136.5
+        ],
+        [
+          56,
+          -134
+        ],
+        [
+          52,
+          -131
+        ],
+        [
+          48,
+          -125
+        ],
+        [
+          42,
+          -124.5
+        ],
+        [
+          34,
+          -120.5
+        ],
+        [
+          30,
+          -116
+        ],
+        [
+          25,
+          -112
+        ],
+        [
+          23,
+          -110
+        ],
+        [
+          24,
+          -108
+        ],
+        [
+          28,
+          -111
+        ],
+        [
+          31,
+          -114.5
+        ],
+        [
+          32,
+          -117.5
+        ],
+        [
+          38,
+          -123
+        ],
+        [
+          45,
+          -124.5
+        ],
+        [
+          50,
+          -128
+        ],
+        [
+          55,
+          -133
+        ],
+        [
+          58.5,
+          -136.5
+        ]
+      ],
+      [
+        [
+          -2,
+          -81
+        ],
+        [
+          -5,
+          -81.5
+        ],
+        [
+          -12,
+          -78
+        ],
+        [
+          -18,
+          -71
+        ],
+        [
+          -25,
+          -71
+        ],
+        [
+          -35,
+          -73
+        ],
+        [
+          -40,
+          -74.5
+        ],
+        [
+          -40,
+          -73
+        ],
+        [
+          -30,
+          -71
+        ],
+        [
+          -20,
+          -69.5
+        ],
+        [
+          -10,
+          -77
+        ],
+        [
+          -4,
+          -80
+        ],
+        [
+          -1,
+          -80
+        ],
+        [
+          -2,
+          -81
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/pacific-angelshark.jpg"
+}

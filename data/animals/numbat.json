@@ -1,0 +1,208 @@
+{
+  "id": "numbat",
+  "name_zh": "袋食蚁兽",
+  "name_en": "Numbat",
+  "scientific_name": "Myrmecobius fasciatus",
+  "ui_tags": [
+    "Mammalia",
+    "Woodland",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Dasyuromorphia",
+      "zh": "袋鼬目"
+    },
+    "family": {
+      "en": "Myrmecobiidae",
+      "zh": "袋食蚁兽科"
+    },
+    "genus": {
+      "en": "Myrmecobius",
+      "zh": "袋食蚁兽属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The Numbat is a small, specialized marsupial native to Western Australia. Unlike most marsupials, it is strictly diurnal, aligning its activity with the movements of termites, its sole food source. It is the only member of the family Myrmecobiidae. Characterized by a reddish-brown coat with prominent white transverse stripes across its back and a bushy tail, the Numbat possesses a long, sticky tongue reaching up to 10 cm. It lacks a functional pouch, instead possessing mammary areas protected by long hair where the young cling to the mother's teats. Once widespread across southern Australia, its range has been drastically reduced due to predation by introduced red foxes and feral cats, as well as habitat loss.",
+    "zh": "袋食蚁兽是一种小型且高度特化的有袋类动物，原产于西澳大利亚。与大多数有袋类不同，它是完全的昼行性动物，其活动节律与唯一食物来源——白蚁的活动完全同步。它是袋食蚁兽科中唯一的现存成员。其特征是红褐色的皮毛，背部有明显的白色横向条纹，并拥有一条蓬松的尾巴。袋食蚁兽拥有长达10厘米的粘性舌头，专门用于从地下隧道中卷食白蚁。值得注意的是，它没有功能性的育儿袋，幼崽直接悬挂在母亲腹部的乳头上，由长毛覆盖保护。曾广泛分布于澳大利亚南部，但受外来物种（红狐、野猫）捕食和栖息地丧失的影响，目前种群极度萎缩。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Numbat exhibits extreme morphological adaptations for termitivory. It has a long, pointed snout and a delicate lower jaw. Its teeth are degenerate and non-functional for chewing, yet it possesses the highest number of teeth for any terrestrial mammal, ranging from 50 to 52. The tongue is cylindrical and coated with sticky saliva produced by enlarged submandibular glands. Its foreclaws are powerful, designed for digging into soft earth and rotting logs, though not strong enough to break into hard termite mounds. The distinctive white stripes provide camouflage against the dappled light of the eucalypt forest floor.",
+      "zh": "袋食蚁兽表现出极端的食蚁性形态适应。它拥有细长的吻部和脆弱的下颌。其牙齿退化，不具备咀嚼功能，但牙齿数量却是陆生哺乳动物中最多的（50至52颗）。舌头呈圆柱形，表面覆盖着由发达的下颌下腺分泌的粘性唾液。前爪强壮，适合挖掘松软的土壤和腐烂的木头，但不足以破开坚硬的蚁冢。其背部标志性的白色条纹在桉树林地斑驳的光影中提供了极佳的伪装。"
+    },
+    "ecology_and_behavior": {
+      "en": "A single Numbat can consume up to 20,000 termites per day. Because termites are sensitive to temperature, Numbats adjust their foraging patterns seasonally: active during the middle of the day in winter, and early morning/late afternoon in summer. They are solitary and territorial, with home ranges of up to 150 hectares. They utilize hollow logs as dens for sleeping and as refuges from predators like raptors and monitors. Breeding occurs in mid-summer, and the young remain attached to the mother for about 6 months before being deposited in a nursery burrow.",
+      "zh": "一只成年袋食蚁兽每天可摄入多达20,000只白蚁。由于白蚁对温度敏感，袋食蚁兽会季节性调整觅食模式：冬季在中午活动，夏季则在清晨和傍晚活动。它们具有强烈的领地意识且独居，家域面积可达150公顷。它们利用中空的木头作为睡眠的巢穴和躲避猛禽、巨蜥等天敌的避难所。繁殖发生在仲夏，幼崽会在母亲腹部悬挂约6个月，随后被安置在育儿洞穴中。"
+    },
+    "habitat_and_distribution": {
+      "en": "Numbats are restricted to eucalypt woodlands, particularly those dominated by Wandoo (Eucalyptus wandoo) and Jarrah (Eucalyptus marginata). These forests provide the necessary leaf litter and fallen logs for termite colonies. Historically found across semi-arid and arid southern Australia, the only remaining original wild populations are in Dryandra Woodland and Perup Nature Reserve. Reintroduced populations exist in several fenced, predator-free reserves such as Scotia Sanctuary and Mount Gibson.",
+      "zh": "袋食蚁兽仅限于桉树林地，特别是以万杜桉（Wandoo）和加拉桉（Jarrah）为主的森林。这些森林提供了白蚁种群生存所需的落叶层和倒伏木材。历史上曾遍布澳大利亚南部的半干旱和干旱地区，但目前仅存的原始野生种群位于德赖安德拉林地（Dryandra）和佩鲁普自然保护区（Perup）。在一些围栏保护、无天敌的保护区（如斯科舍保护区和吉布森山）已成功进行了人工引种。"
+    }
+  },
+  "habitat": {
+    "text_en": "Eucalypt woodlands and sclerophyll forests of Southwest Australia.",
+    "text_zh": "西澳大利亚西南部的桉树林地和硬叶林。",
+    "map_coordinates": [
+      -33.5,
+      117
+    ],
+    "map_zoom_level": 7,
+    "global_distribution_polygons": [
+      [
+        [
+          -32.71,
+          116.82
+        ],
+        [
+          -32.75,
+          116.95
+        ],
+        [
+          -32.82,
+          117.08
+        ],
+        [
+          -32.95,
+          117.15
+        ],
+        [
+          -33.1,
+          117.12
+        ],
+        [
+          -33.18,
+          117.02
+        ],
+        [
+          -33.15,
+          116.85
+        ],
+        [
+          -33,
+          116.75
+        ],
+        [
+          -32.85,
+          116.72
+        ],
+        [
+          -32.71,
+          116.82
+        ]
+      ],
+      [
+        [
+          -34.12,
+          116.35
+        ],
+        [
+          -34.18,
+          116.55
+        ],
+        [
+          -34.35,
+          116.68
+        ],
+        [
+          -34.52,
+          116.62
+        ],
+        [
+          -34.58,
+          116.45
+        ],
+        [
+          -34.45,
+          116.25
+        ],
+        [
+          -34.25,
+          116.18
+        ],
+        [
+          -34.12,
+          116.35
+        ]
+      ],
+      [
+        [
+          -33.18,
+          141.05
+        ],
+        [
+          -33.22,
+          141.22
+        ],
+        [
+          -33.35,
+          141.25
+        ],
+        [
+          -33.42,
+          141.12
+        ],
+        [
+          -33.38,
+          140.98
+        ],
+        [
+          -33.25,
+          140.95
+        ],
+        [
+          -33.18,
+          141.05
+        ]
+      ],
+      [
+        [
+          -29.62,
+          117.12
+        ],
+        [
+          -29.68,
+          117.28
+        ],
+        [
+          -29.82,
+          117.25
+        ],
+        [
+          -29.88,
+          117.1
+        ],
+        [
+          -29.78,
+          116.98
+        ],
+        [
+          -29.65,
+          117.02
+        ],
+        [
+          -29.62,
+          117.12
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/numbat.jpg"
+}

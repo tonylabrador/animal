@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **292** 种动物
+**统计**：共 **330** 种动物
 
 ---
 
@@ -144,6 +144,12 @@
 
 - 斑鼯猴 / Flying Lemur — *Cynocephalus volans* `philippine-flying-lemur`
 
+### 管齿目
+
+**土豚科**
+
+- 土豚 / Aardvark — *Orycteropus afer* `aardvark`
+
 ### 翼手目
 
 **叶口蝠科**
@@ -164,9 +170,19 @@
 
 ### 袋鼬目
 
+**袋食蚁兽科**
+
+- 袋食蚁兽 / Numbat — *Myrmecobius fasciatus* `numbat`
+
 **袋鼬科**
 
 - 袋獾 / Tasmanian Devil — *Sarcophilus harrisii* `tasmanian-devil`
+
+### 象鼩目
+
+**象鼩科**
+
+- 黄臀象鼩 / Golden-rumped Elephant Shrew — *Rhynchocyon chrysopygus* `golden-rumped-elephant-shrew`
 
 ### 负鼠目
 
@@ -217,6 +233,7 @@
 - 大耳狐 / Bat-eared Fox — *Otocyon megalotis* `bat-eared-fox`
 - 薮犬 / Bush Dog — *Speothos venaticus* `bush-dog`
 - 郊狼 / Coyote — *Canis latrans* `coyote`
+- 达尔文狐 / Darwin's fox — *Lycalopex fulvipes* `darwins-fox`
 - 豺 / Dhole — *Cuon alpinus* `dhole`
 - 耳廓狐 / Fennec Fox — *Vulpes zerda* `fennec-fox`
 - 亚洲胡狼 / Golden Jackal — *Canis aureus* `golden-jackal`
@@ -258,6 +275,10 @@
 
 - 条纹臭鼬 / Striped Skunk — *Mephitis mephitis* `striped-skunk`
 
+**食蚁狸科**
+
+- 马岛獴 / Fossa — *Cryptoprocta ferox* `fossa`
+
 **鬣狗科**
 
 - 斑鬣狗 / Spotted Hyena — *Crocuta crocuta* `spotted-hyena`
@@ -291,6 +312,7 @@
 
 - 中华白海豚 / Chinese White Dolphin — *Sousa chinensis* `chinese-white-dolphin`
 - 宽吻海豚 / Common Bottlenose Dolphin — *Tursiops truncatus* `common-bottlenose-dolphin`
+- 伊河海豚 / Irrawaddy dolphin — *Orcaella brevirostris* `irrawaddy-dolphin`
 - 虎鲸 / Orca — *Orcinus orca* `orca`
 
 **牛科**
@@ -305,6 +327,7 @@
 - 麝牛 / Muskox — *Ovibos moschatus* `muskox`
 - 普氏原羚 / Przewalski's Gazelle — *Procapra przewalskii* `przewalskis-gazelle`
 - 高鼻羚羊 / Saiga Antelope — *Saiga tatarica* `saiga-antelope`
+- 中南大羚 / Saola — *Pseudoryx nghetinhensis* `saola`
 - 羚牛 / Takin — *Budorcas taxicolor* `takin`
 - 藏羚羊 / Tibetan Antelope — *Pantholops hodgsonii* `tibetan-antelope`
 
@@ -362,6 +385,12 @@
 
 ## 鸟纲
 
+### 䴕形目
+
+**啄木鸟科**
+
+- 象牙喙啄木鸟 / Ivory-billed Woodpecker — *Campephilus principalis* `ivory-billed-woodpecker`
+
 ### 企鹅目
 
 **企鹅科**
@@ -418,14 +447,23 @@
 
 - 须钟伞鸟 / Bearded Bellbird — *Procnias averano* `bearded-bellbird`
 
+**园丁鸟科**
+
+- 辉亭鸟 / Flame Bowerbird — *Sericulus ardens* `flame-bowerbird`
+
 **山雀科**
 
 - 煤山雀 / Coal Tit — *Periparus ater* `coal-tit`
 - 蓝山雀 / Eurasian Blue Tit — *Cyanistes caeruleus* `eurasian-blue-tit`
 
+**拟鹂科**
+
+- 东草地鹨 / Eastern meadowlark — *Sturnella magna* `eastern-meadowlark`
+
 **极乐鸟科**
 
 - 大天堂鸟 / Greater Bird-of-paradise — *Paradisaea apoda* `greater-bird-of-paradise`
+- 威氏极乐鸟 / Wilson's Bird-of-paradise — *Cicinnurus respublica* `wilsons-bird-of-paradise`
 
 **森莺科**
 
@@ -442,7 +480,17 @@
 
 **燕雀科**
 
+- 北美金翅雀 / American Goldfinch — *Spinus tristis* `american-goldfinch`
 - 家朱雀 / House Finch — *Haemorhous mexicanus* `house-finch`
+- 镰嘴管舌鸟 / I'iwi — *Drepanis coccinea* `iiwi`
+
+**窜鸟科**
+
+- 斯特雷泽曼须额穴鸟 / Stresemann's Bristlefront — *Merulaxis stresemanni* `stresemanns-bristlefront`
+
+**细尾鹩莺科**
+
+- 壮丽细尾鹩莺 / Superb Fairy-wren — *Malurus cyaneus* `superb-fairy-wren`
 
 **美洲雀科**
 
@@ -455,6 +503,7 @@
 - 加州灌丛鸦 / California Scrub-Jay — *Aphelocoma californica* `california-scrub-jay`
 - 渡鸦 / Common Raven — *Corvus corax* `common-raven`
 - 欧亚喜鹊 / Eurasian Magpie — *Pica pica* `eurasian-magpie`
+- 爪哇绿鹊 / Javan green magpie — *Cissa thalassina* `javan-green-magpie`
 
 **麻雀科**
 
@@ -478,6 +527,12 @@
 **雨燕科**
 
 - 大暗雨燕 / Great dusky swift — *Cypseloides senex* `great-dusky-swift`
+
+### 鲣鸟目
+
+**鲣鸟科**
+
+- 蓝脚鲣鸟 / Blue-footed booby — *Sula nebouxi* `blue-footed-booby`
 
 ### 鴷形目
 
@@ -520,6 +575,12 @@
 
 - 大杜鹃 / Common Cuckoo — *Cuculus canorus* `common-cuckoo`
 
+### 鹃鵙目
+
+**鹃鵙科**
+
+- 鹃鵙 / Cuckoo roller — *Leptosomus discolor* `cuckoo-roller`
+
 ### 鹈形目
 
 **鲸头鹳科**
@@ -538,6 +599,7 @@
 **鹮科**
 
 - 朱鹮 / Crested Ibis — *Nipponia nippon* `crested-ibis`
+- 美洲红鹮 / Scarlet Ibis — *Eudocimus ruber* `scarlet-ibis`
 
 ### 鹤形目
 
@@ -564,6 +626,10 @@
 
 - 玄凤鹦鹉 / Cockatiel — *Nymphicus hollandicus* `cockatiel`
 
+**鸮鹦鹉科**
+
+- 鸮鹦鹉 / Kakapo — *Strigops habroptila* `kakapo`
+
 **鹦鹉科**
 
 - 虎皮鹦鹉 / Budgerigar — *Melopsittacus undulatus* `budgerigar`
@@ -580,13 +646,21 @@
 
 - 白头海雕 / Bald Eagle — *Haliaeetus leucocephalus* `bald-eagle`
 - 角雕 / Harpy Eagle — *Harpia harpyja* `harpy-eagle`
+- 苍鹰 / Northern Goshawk — *Accipiter gentilis* `northern-goshawk`
 - 红尾鵟 / Red-tailed Hawk — *Buteo jamaicensis* `red-tailed-hawk`
+- 大鵟 / Upland Buzzard — *Buteo hemilasius* `upland-buzzard`
 
 ### 鹱形目
 
 **信天翁科**
 
 - 漂泊信天翁 / Wandering Albatross — *Diomedea exulans* `wandering-albatross`
+
+### 鹳形目
+
+**鹳科**
+
+- 黑鹳 / Black Stork — *Ciconia nigra* `black-stork`
 
 ---
 
@@ -654,6 +728,10 @@
 
 ### 龟鳖目
 
+**地龟科**
+
+- 潮龟 / Northern river terrapin — *Batagur baska* `northern-river-terrapin`
+
 **棱皮龟科**
 
 - 棱皮龟 / Leatherback Sea Turtle — *Dermochelys coriacea* `leatherback-sea-turtle`
@@ -665,6 +743,10 @@
 **陆龟科**
 
 - 加拉帕戈斯象龟 / Galapagos Tortoise — *Chelonoidis niger* `galapagos-tortoise`
+
+**鳖科**
+
+- 斑鳖 / Yangtze giant softshell turtle — *Rafetus swinhoei* `yangtze-giant-softshell-turtle`
 
 ---
 
@@ -755,7 +837,19 @@
 
 - 普通野蝗 / Common Field Grasshopper — *Chorthippus brunneus* `common-field-grasshopper`
 
+**螽斯科**
+
+- 北美真螽 / Common True Katydid — *Pterophylla camellifolia* `common-true-katydid`
+
+**蟋蟀科**
+
+- 家蟋蟀 / House Cricket — *Acheta domesticus* `house-cricket`
+
 ### 膜翅目
+
+**切叶蜂科**
+
+- 华莱士巨蜂 / Wallace's Giant Bee — *Megachile pluto* `wallaces-giant-bee`
 
 **蚁科**
 
@@ -789,10 +883,24 @@
 
 - 黑凤蝶 / Black Swallowtail — *Papilio polyxenes* `black-swallowtail`
 
+**粉蝶科**
+
+- 绢粉蝶 / Crataegus Pierid — *Aporia hippia* `aporia-hippia`
+
 **蛱蝶科**
 
 - 大蓝闪蝶 / Blue Morpho Butterfly — *Morpho menelaus* `blue-morpho-butterfly`
 - 帝王斑蝶 / Monarch butterfly — *Danaus plexippus* `monarch-butterfly`
+
+---
+
+## 板鳃亚纲
+
+### 扁鲨目
+
+**扁鲨科**
+
+- 加州扁鲨 / Pacific Angelshark — *Squatina californica* `pacific-angelshark`
 
 ---
 
@@ -866,6 +974,10 @@
 **捕鸟蛛科**
 
 - 歌利亚食鸟蛛 / Goliath Birdeater — *Theraphosa blondi* `goliath-birdeater`
+
+**跳蛛科**
+
+- 斑马跳蛛 / Zebra jumping spider — *Salticus scenicus* `zebra-jumping-spider`
 
 ---
 
@@ -988,17 +1100,42 @@
 
 - 中华鲟 / Chinese Sturgeon — *Acipenser sinensis* `chinese-sturgeon`
 
+### 鲤形目
+
+**亚口鱼科**
+
+- 胭脂鱼 / Chinese high fin banded shark — *Myxocyprinus asiaticus* `chinese-high-fin-banded-shark`
+
+**鲴科**
+
+- 鳙鱼 / Bighead Carp — *Hypophthalmichthys nobilis* `bighead-carp`
+- 青鱼 / Black Carp — *Mylopharyngodon piceus* `black-carp`
+- 草鱼 / Grass Carp — *Ctenopharyngodon idella* `grass-carp`
+- 鲢 / Silver Carp — *Hypophthalmichthys molitrix* `silver-carp`
+
 ### 鲱形目
 
 **鲱科**
 
 - 大西洋鲱 / Atlantic Herring — *Clupea harengus* `atlantic-herring`
 
+### 鲶形目
+
+**鲿科**
+
+- 长吻鮠 / Longsnout Catfish — *Leiocassis longirostris* `longsnout-catfish`
+
 ### 鲻形目
 
 **鲻科**
 
 - 鲻鱼 / Flathead Grey Mullet — *Mugil cephalus* `flathead-grey-mullet`
+
+### 鳗鲡目
+
+**鳗鲡科**
+
+- 日本鳗鲡 / Japanese Eel — *Anguilla japonica* `japanese-eel`
 
 ---
 

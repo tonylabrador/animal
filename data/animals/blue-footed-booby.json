@@ -1,0 +1,262 @@
+{
+  "id": "blue-footed-booby",
+  "name_zh": "蓝脚鲣鸟",
+  "name_en": "Blue-footed booby",
+  "scientific_name": "Sula nebouxi",
+  "ui_tags": [
+    "Aves",
+    "Marine",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Suliformes",
+      "zh": "鲣鸟目"
+    },
+    "family": {
+      "en": "Sulidae",
+      "zh": "鲣鸟科"
+    },
+    "genus": {
+      "en": "Sula",
+      "zh": "鲣鸟属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Blue-footed booby is a specialized marine bird renowned for its vibrant turquoise-blue webbed feet. This coloration is a result of carotenoid pigments obtained from their diet of fresh fish, serving as a biological indicator of the individual's health and vigor. During courtship, males perform a highly ritualized 'skypointing' and stepping dance to showcase their feet. They are exceptional plunge-divers, capable of hitting the water at speeds up to 97 km/h (60 mph) from heights of 30 meters, utilizing a streamlined skull and air sacs to cushion the impact.",
+    "zh": "蓝脚鲣鸟是一种特化的海洋鸟类，以其鲜艳的青绿色蹼足而闻名。这种颜色源于其摄入新鲜鱼类中的类胡萝卜素，是衡量个体健康与生命力的重要生物指标。在求偶过程中，雄性会进行高度仪式化的“指向天空”和踏步舞蹈来展示双足。它们是卓越的俯冲捕食者，能从30米的高空以高达97公里的时速冲入水中，其流线型的头骨和皮下气囊可有效缓冲巨大的冲击力。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Features a long, pointed beak with serrated edges for gripping slippery prey. Unlike most birds, their nostrils are permanently closed to prevent water entry during high-speed dives; they breathe through the corners of their mouths. Their wings are long and narrow, optimized for both soaring and rapid underwater propulsion. The uropygial gland provides waterproofing oil for their feathers, while their iconic blue feet are highly vascularized.",
+      "zh": "拥有长而尖且边缘呈锯齿状的喙，便于抓紧滑溜的猎物。与大多数鸟类不同，它们的鼻孔永久关闭以防止高速俯冲时进水，转而通过嘴角呼吸。翅膀长而窄，既适合翱翔也适合在水下快速推进。尾脂腺分泌的油脂为羽毛提供了极佳的防水性能，而其标志性的蓝色脚部则布满了丰富的血管。"
+    },
+    "ecology_and_behavior": {
+      "en": "Primarily piscivorous, feeding on small schooling fish like sardines, anchovies, and flying fish. They exhibit facultative siblicide in some environments, though less common than in the Masked booby. They nest on bare ground or rocky outcroppings, often creating a ring of guano to demarcate territory. Their social structure is colonial, often nesting in groups of hundreds. The intensity of the blue in their feet is a key factor in mate selection.",
+      "zh": "主要以鱼类为食，捕食沙丁鱼、鳀鱼和飞鱼等小型群居鱼类。在某些环境下会表现出选择性同胞相残行为。它们在裸露的地面或岩石露头上筑巢，通常用鸟粪围成一圈来划定领地。社会结构呈群居性，经常成百上千只聚集在一起筑巢。脚部蓝色的深浅是配偶选择的关键因素。"
+    },
+    "habitat_and_distribution": {
+      "en": "Restricted to the tropical and subtropical waters of the Eastern Pacific. Major breeding colonies are found on the Galápagos Islands, where about half of the world population resides. They also inhabit coastal islands from the Gulf of California down to the northern coast of Peru. They prefer offshore islands for nesting to avoid land-based predators like rats and feral cats.",
+      "zh": "局限于东太平洋的热带和亚热带海域。主要的繁殖种群分布在加拉帕戈斯群岛，全球约一半的种群居住于此。它们还栖息在从加利福尼亚湾到秘鲁北岸的沿海岛屿。为了躲避老鼠和野猫等陆地捕食者，它们更倾向于在离岸岛屿上筑巢。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical and subtropical Pacific coasts and islands, specifically the Galápagos and the American west coast.",
+    "text_zh": "太平洋热带及亚热带海岸与岛屿，特别是加拉帕戈斯群岛及美洲西海岸。",
+    "map_coordinates": [
+      -0.3916,
+      -90.3518
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          31.8,
+          -114.8
+        ],
+        [
+          30.5,
+          -115.5
+        ],
+        [
+          28.2,
+          -115.2
+        ],
+        [
+          24.5,
+          -112.5
+        ],
+        [
+          22.8,
+          -110
+        ],
+        [
+          20.5,
+          -105.8
+        ],
+        [
+          18.2,
+          -103.5
+        ],
+        [
+          15.5,
+          -97.5
+        ],
+        [
+          13.2,
+          -90.2
+        ],
+        [
+          9.5,
+          -85.5
+        ],
+        [
+          7.2,
+          -82.5
+        ],
+        [
+          2.5,
+          -79.5
+        ],
+        [
+          -2.5,
+          -81.5
+        ],
+        [
+          -6.5,
+          -81.8
+        ],
+        [
+          -10.5,
+          -79.5
+        ],
+        [
+          -14.5,
+          -76.8
+        ],
+        [
+          -17.8,
+          -72.5
+        ],
+        [
+          -18.5,
+          -70.2
+        ],
+        [
+          -15,
+          -73.5
+        ],
+        [
+          -10,
+          -76.5
+        ],
+        [
+          -5,
+          -79.5
+        ],
+        [
+          0,
+          -78.5
+        ],
+        [
+          5,
+          -77.5
+        ],
+        [
+          10,
+          -81.5
+        ],
+        [
+          15,
+          -94.5
+        ],
+        [
+          20,
+          -104.5
+        ],
+        [
+          25,
+          -111.5
+        ],
+        [
+          30,
+          -114.5
+        ],
+        [
+          31.8,
+          -114.8
+        ]
+      ],
+      [
+        [
+          1.2,
+          -92.5
+        ],
+        [
+          1.5,
+          -90.5
+        ],
+        [
+          0.5,
+          -88.5
+        ],
+        [
+          -1.2,
+          -88.8
+        ],
+        [
+          -1.8,
+          -90.5
+        ],
+        [
+          -1.5,
+          -92.2
+        ],
+        [
+          0.2,
+          -93
+        ],
+        [
+          1.2,
+          -92.5
+        ]
+      ],
+      [
+        [
+          31.5,
+          -114.5
+        ],
+        [
+          30,
+          -113.5
+        ],
+        [
+          28,
+          -112
+        ],
+        [
+          26,
+          -110.5
+        ],
+        [
+          24,
+          -109
+        ],
+        [
+          25.5,
+          -110.5
+        ],
+        [
+          28.5,
+          -112.5
+        ],
+        [
+          31,
+          -114.8
+        ],
+        [
+          31.5,
+          -114.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/blue-footed-booby.jpg"
+}

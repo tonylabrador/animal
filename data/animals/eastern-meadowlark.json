@@ -1,0 +1,212 @@
+{
+  "id": "eastern-meadowlark",
+  "name_zh": "东草地鹨",
+  "name_en": "Eastern meadowlark",
+  "scientific_name": "Sturnella magna",
+  "ui_tags": [
+    "鸟纲",
+    "草原",
+    "食虫性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Icteridae",
+      "zh": "拟鹂科"
+    },
+    "genus": {
+      "en": "Sturnella",
+      "zh": "草地鹨属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "The Eastern meadowlark is a medium-sized icterid bird, iconic for its flute-like, melodic song that defines the soundscape of North American grasslands. It features a bright yellow breast adorned with a bold, black V-shaped collar. While it resembles the Western meadowlark, its song is distinctively different. This species is a ground-nester and is highly sensitive to agricultural intensification and habitat loss, leading to significant population declines in recent decades.",
+    "zh": "东草地鹨是一种中型拟鹂科鸟类，以其如长笛般悦耳的鸣声而闻名，是北美草原标志性的声音。其最显著的特征是鲜黄色的腹部和胸前醒目的黑色“V”字形斑纹。虽然在外形上与西草地鹨极为相似，但两者的鸣叫声截然不同。该物种在地面筑巢，对农业集约化和栖息地丧失高度敏感，近几十年来种群数量出现了显著下降。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults measure 19–28 cm in length with a wingspan of about 35–40 cm. They possess a long, pointed bill and a short tail with white outer feathers that are conspicuous during flight. The upperparts are brown with black streaks, providing excellent camouflage against dry grass. The most striking feature is the brilliant lemon-yellow underparts and the thick black crescent on the chest, which fades slightly during the non-breeding season.",
+      "zh": "成年个体体长19至28厘米，翼展约35至40厘米。它们拥有长而尖的喙，尾部较短，外侧尾羽为白色，在飞行时非常明显。背部羽毛呈棕色并带有黑色条纹，在枯草丛中具有极佳的伪装效果。最引人注目的特征是其明亮的柠檬黄色下体和胸前厚实的黑色新月形斑纹，这一斑纹在非繁殖季节会略微褪色。"
+    },
+    "ecology_and_behavior": {
+      "en": "Eastern meadowlarks are primarily insectivorous during the breeding season, feeding on grasshoppers, crickets, and beetles. In winter, they supplement their diet with seeds and berries. They are known for their complex vocalizations; males sing from elevated perches like fence posts to defend territories. Their nests are elaborate grass domes built in depressions on the ground, often with a 'runway' or tunnel leading to the entrance to hide it from predators.",
+      "zh": "东草地鹨在繁殖季节主要以昆虫为食，包括蝗虫、蟋蟀和甲虫。冬季则以种子和浆果补充营养。它们以复杂的鸣叫声著称，雄鸟常在围栏柱等高处鸣唱以保卫领地。它们的巢穴非常精致，是在地面凹陷处用草筑成的圆顶结构，通常带有一条“跑道”或隧道通往入口，以躲避捕食者的视线。"
+    },
+    "habitat_and_distribution": {
+      "en": "This species inhabits native grasslands, prairies, pastures, and hayfields. Its range extends from southeastern Canada through the eastern United States to Central America and northern South America (Colombia, Venezuela, and Guyana). They prefer large, contiguous tracts of grassland and avoid areas with high woody vegetation density.",
+      "zh": "该物种栖息于原生草原、大草原、牧场和干草地。其分布范围从加拿大东南部穿过美国东部，延伸至中美洲及南美洲北部（哥伦比亚、委内瑞拉和圭亚那）。它们偏好大面积连贯的草场，避开木本植物密度较高的区域。"
+    }
+  },
+  "habitat": {
+    "text_en": "Temperate and tropical grasslands, savannas, and agricultural fields.",
+    "text_zh": "温带及热带草原、稀树草原和农田。",
+    "map_coordinates": [
+      35,
+      -85
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          48.5,
+          -70.5
+        ],
+        [
+          46.2,
+          -63.8
+        ],
+        [
+          44.5,
+          -65
+        ],
+        [
+          41,
+          -71
+        ],
+        [
+          35,
+          -75.5
+        ],
+        [
+          25.5,
+          -80
+        ],
+        [
+          24.8,
+          -81.5
+        ],
+        [
+          29.5,
+          -85
+        ],
+        [
+          29,
+          -94.5
+        ],
+        [
+          26,
+          -97.5
+        ],
+        [
+          18.5,
+          -95
+        ],
+        [
+          15,
+          -90
+        ],
+        [
+          10,
+          -84
+        ],
+        [
+          8.5,
+          -78
+        ],
+        [
+          11.5,
+          -73
+        ],
+        [
+          10.5,
+          -65
+        ],
+        [
+          7,
+          -58
+        ],
+        [
+          4.5,
+          -59
+        ],
+        [
+          3,
+          -65
+        ],
+        [
+          6.5,
+          -75
+        ],
+        [
+          13.5,
+          -87
+        ],
+        [
+          20,
+          -105
+        ],
+        [
+          30,
+          -105
+        ],
+        [
+          38,
+          -100
+        ],
+        [
+          45,
+          -98
+        ],
+        [
+          49.5,
+          -95
+        ],
+        [
+          48.5,
+          -80
+        ],
+        [
+          48.5,
+          -70.5
+        ]
+      ],
+      [
+        [
+          10,
+          -67
+        ],
+        [
+          8,
+          -62
+        ],
+        [
+          5,
+          -60
+        ],
+        [
+          3.5,
+          -63
+        ],
+        [
+          5.5,
+          -68
+        ],
+        [
+          10,
+          -67
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/eastern-meadowlark.jpg"
+}

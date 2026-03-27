@@ -1,0 +1,262 @@
+{
+  "id": "scarlet-ibis",
+  "name_zh": "美洲红鹮",
+  "name_en": "Scarlet Ibis",
+  "scientific_name": "Eudocimus ruber",
+  "ui_tags": [
+    "鸟纲",
+    "湿地",
+    "肉食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Pelecaniformes",
+      "zh": "鹈形目"
+    },
+    "family": {
+      "en": "Threskiornithidae",
+      "zh": "鹮科"
+    },
+    "genus": {
+      "en": "Eudocimus",
+      "zh": "美洲鹮属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Scarlet Ibis is a medium-sized wading bird renowned for its brilliant, uniform scarlet plumage, which is one of the most intense colors found in the avian world. This vibrant red is derived from carotenoid pigments found in the crustaceans they consume. They are highly social birds, often seen in large flocks during foraging and nesting. While their populations are stable in many areas, they are sensitive to habitat loss and water pollution in their native South American and Caribbean ranges.",
+    "zh": "美洲红鹮是一种中型涉禽，以其全身均匀且极其鲜艳的朱红色羽毛而闻名，这是鸟类世界中最强烈的色彩之一。这种鲜艳的红色源于它们摄入的甲壳类动物中所含的类胡萝卜素。它们是高度社会化的鸟类，在觅食和筑巢时常成群结队。虽然在许多地区种群数量稳定，但它们对南美洲和加勒比地区原产地的栖息地丧失和水污染非常敏感。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults possess a striking scarlet plumage across the entire body, with the exception of the glossy black-blue wing tips visible during flight. Their long, thin, decurved bill is used for probing deep into soft mud; it contains sensitive nerve endings (Herbst corpuscles) to detect prey by touch. Juveniles are initially a dull greyish-brown with white underparts, only attaining the full scarlet coloration after their second year. They have partially webbed feet, aiding movement across soft, silty substrates.",
+      "zh": "成年个体全身覆盖着惊人的朱红色羽毛，唯独翅膀尖端呈现出飞行时可见的亮黑蓝色。它们拥有长而细、显著下弯的喙，用于深入软泥中搜寻食物；喙部末端布满敏感的神经末梢（赫氏小体），使其能通过触觉感知猎物。幼鸟最初呈暗灰褐色，腹部为白色，直到两岁后才完全换上红羽。它们的脚趾间有部分蹼，有助于在柔软的淤泥质基质上行走。"
+    },
+    "ecology_and_behavior": {
+      "en": "Scarlet Ibises are gregarious, forming colonies that can number in the thousands. They often associate with other wading birds like herons and egrets. Their diet is specialized, consisting primarily of shrimp, crabs, and aquatic insects. Breeding is highly synchronized within a colony to minimize predation risk through the dilution effect. They build platform nests of sticks in mangroves or trees overhanging water, typically laying 2-3 eggs. They are strong flyers, traveling in V-formations between roosting and foraging sites.",
+      "zh": "美洲红鹮具有极强的群居性，形成的群体数量可达数千只。它们常与鹭类等其他涉禽混群。其食性较为专一，主要以虾、蟹和水生昆虫为食。繁殖行为在群体内高度同步，通过“稀释效应”降低被捕食的风险。它们在红树林或临水树木上用树枝搭建平台状巢穴，通常产卵2-3枚。它们是强有力的飞行者，在栖息地和觅食地之间飞行时常排成V字形阵队。"
+    },
+    "habitat_and_distribution": {
+      "en": "This species is native to tropical South America and parts of the Caribbean. Its range extends from the coast of Colombia and Venezuela through the Guianas to the mouth of the Amazon in Brazil. They inhabit coastal mangroves, tidal mudflats, shallow lagoons, and inland freshwater wetlands like the Llanos. Their presence is a key indicator of wetland health, as they require specific water levels and abundant crustacean populations to thrive.",
+      "zh": "该物种原产于热带南美洲和加勒比部分地区。其分布范围从哥伦比亚和委内瑞拉沿海，穿过圭亚那地区，一直延伸到巴西的亚马逊河口。它们栖息在沿海红树林、潮汐泥滩、浅水泻湖以及像奥里诺科平原（Llanos）这样的内陆淡水湿地。它们的存在是湿地健康的关键指标，因为它们需要特定的水位和丰富的甲壳类种群才能生存。"
+    }
+  },
+  "habitat": {
+    "text_en": "Coastal mangroves, mudflats, and tropical inland wetlands.",
+    "text_zh": "沿海红树林、泥滩及热带内陆湿地。",
+    "map_coordinates": [
+      5.8,
+      -60.5
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          11.7,
+          -72.5
+        ],
+        [
+          11,
+          -71.2
+        ],
+        [
+          11.5,
+          -69.8
+        ],
+        [
+          10.8,
+          -68.2
+        ],
+        [
+          10.5,
+          -66.5
+        ],
+        [
+          10.6,
+          -64.8
+        ],
+        [
+          10.8,
+          -62.5
+        ],
+        [
+          10.8,
+          -61.5
+        ],
+        [
+          10.1,
+          -61.5
+        ],
+        [
+          9.8,
+          -62.5
+        ],
+        [
+          9.2,
+          -61
+        ],
+        [
+          8.5,
+          -59.8
+        ],
+        [
+          7.5,
+          -58.5
+        ],
+        [
+          6.5,
+          -57.2
+        ],
+        [
+          5.8,
+          -55
+        ],
+        [
+          5.2,
+          -53.5
+        ],
+        [
+          4.5,
+          -51.8
+        ],
+        [
+          3.5,
+          -50.5
+        ],
+        [
+          2.2,
+          -49.5
+        ],
+        [
+          1,
+          -48.5
+        ],
+        [
+          0.5,
+          -49.5
+        ],
+        [
+          -0.5,
+          -48.5
+        ],
+        [
+          -1.2,
+          -47
+        ],
+        [
+          -2.5,
+          -44.5
+        ],
+        [
+          -3.5,
+          -42
+        ],
+        [
+          -4.8,
+          -37.5
+        ],
+        [
+          -5.5,
+          -35.5
+        ],
+        [
+          -4.5,
+          -36.5
+        ],
+        [
+          -3,
+          -39
+        ],
+        [
+          -2,
+          -42.5
+        ],
+        [
+          -1,
+          -45
+        ],
+        [
+          0.5,
+          -47.5
+        ],
+        [
+          2,
+          -50
+        ],
+        [
+          4,
+          -52.5
+        ],
+        [
+          5.5,
+          -56.5
+        ],
+        [
+          7,
+          -60
+        ],
+        [
+          8.2,
+          -64.5
+        ],
+        [
+          7.5,
+          -68
+        ],
+        [
+          6,
+          -70.5
+        ],
+        [
+          4.5,
+          -71.5
+        ],
+        [
+          3.5,
+          -69.5
+        ],
+        [
+          5,
+          -67
+        ],
+        [
+          7,
+          -65.5
+        ],
+        [
+          8.5,
+          -67.5
+        ],
+        [
+          9.5,
+          -70
+        ],
+        [
+          10.5,
+          -72
+        ],
+        [
+          11.7,
+          -72.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/scarlet-ibis.jpg"
+}

@@ -1,0 +1,202 @@
+{
+  "id": "northern-goshawk",
+  "name_zh": "苍鹰",
+  "name_en": "Northern Goshawk",
+  "scientific_name": "Accipiter gentilis",
+  "ui_tags": [
+    "鸟纲",
+    "森林",
+    "肉食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Accipitriformes",
+      "zh": "鹰形目"
+    },
+    "family": {
+      "en": "Accipitridae",
+      "zh": "鹰科"
+    },
+    "genus": {
+      "en": "Accipiter",
+      "zh": "鹰属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Northern Goshawk is the largest and most powerful member of the genus Accipiter. Known as the 'phantom of the forest,' it is a master of high-speed maneuverability within dense woodland. This raptor exhibits a striking appearance with slate-grey upperparts, a dark cap, and a prominent white supercilium (eyebrow) that contrasts with its piercing red or orange irises. Its short, broad wings and long, rudder-like tail allow it to execute sharp turns and rapid accelerations while chasing prey through complex canopies. It is a highly territorial apex predator of the northern hemisphere's temperate and boreal forests.",
+    "zh": "苍鹰是鹰属中体型最大、力量最强的成员，被誉为“森林之魂”。它们是密林中极速机动飞行的专家，拥有短而宽的圆翼和长如舵的尾羽，使其能在复杂的林冠层中进行急转弯和爆发式加速。成年苍鹰背部呈深石板灰色，头顶颜色较深，最显著的特征是眼上方清晰的白色眉纹，与其犀利的红色或橙色虹膜形成鲜明对比。作为北半球温带和寒温带森林的顶级掠食者，苍鹰具有极强的领地意识，以其凶猛的捕食本性和卓越的狩猎技巧著称。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults display a significant size dimorphism, with females being up to 25% larger than males. Their plumage is characterized by fine horizontal grey barring on the underparts. Juveniles are distinct, featuring brown upperparts and vertical streaks on the chest, providing camouflage in the dappled light of the forest floor. Their talons are exceptionally powerful, designed for crushing the spine or skull of prey, while their beak is sharply hooked for tearing flesh.",
+      "zh": "成年苍鹰表现出显著的雌雄异形，雌鸟体型比雄鸟大出约25%。其腹部布满细密的灰色横纹。幼鸟与成鸟差异巨大，背部呈褐色，胸部有垂直的纵纹，这在森林地面的斑驳光影中提供了极佳的伪装。苍鹰的利爪极其强劲，足以捏碎猎物的脊椎或头骨，而其钩状喙则专门用于撕裂肌肉。"
+    },
+    "ecology_and_behavior": {
+      "en": "The Northern Goshawk is an opportunistic ambush predator. It typically hunts from a concealed perch, launching a sudden, high-speed pursuit once prey is spotted. Its diet is diverse, ranging from medium-sized birds like grouse and crows to mammals such as squirrels and hares. During the breeding season, they build large stick nests (eyries) high in mature trees, often reusing and expanding them over several years. They are known for their aggressive defense of the nest site, often diving at intruders, including humans.",
+      "zh": "苍鹰是一种机会主义的伏击掠食者。它们通常在隐蔽的栖木上窥视，一旦发现目标，便发动突然的高速追击。其食性广泛，从松鸡、乌鸦等中型鸟类到松鼠、野兔等哺乳动物均在其食谱之内。在繁殖季节，它们会在成熟树木的高处建造巨大的树枝巢穴，并常年修补使用。苍鹰以极具攻击性的护巢行为闻名，会俯冲攻击任何靠近巢穴的入侵者，包括人类。"
+    },
+    "habitat_and_distribution": {
+      "en": "This species has a vast Holarctic distribution, spanning North America, Europe, and Northern Asia. It prefers mature, old-growth forests with high canopy cover and open understories for hunting. While some northern populations are migratory, many individuals remain in their territories year-round if food remains abundant. They are sensitive to habitat fragmentation and logging, which can impact their nesting success.",
+      "zh": "苍鹰广泛分布于全北界，横跨北美、欧洲和北亚。它们偏好郁闭度高、林下空间开阔的成熟老龄林，以便于飞行狩猎。虽然部分北方种群具有迁徙性，但若食物充足，许多个体会在领地内常年留居。苍鹰对栖息地破碎化和伐木作业非常敏感，这些因素会直接影响其繁殖成功率。"
+    }
+  },
+  "habitat": {
+    "text_en": "Temperate and boreal coniferous, deciduous, and mixed forests across the Northern Hemisphere.",
+    "text_zh": "北半球的温带及寒温带针叶林、落叶林及混交林地带。",
+    "map_coordinates": [
+      55,
+      10
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          71.5,
+          -168
+        ],
+        [
+          70,
+          -140
+        ],
+        [
+          65,
+          -100
+        ],
+        [
+          55,
+          -60
+        ],
+        [
+          45,
+          -65
+        ],
+        [
+          35,
+          -80
+        ],
+        [
+          32,
+          -105
+        ],
+        [
+          35,
+          -120
+        ],
+        [
+          50,
+          -130
+        ],
+        [
+          65,
+          -168
+        ],
+        [
+          71.5,
+          -168
+        ]
+      ],
+      [
+        [
+          72,
+          -10
+        ],
+        [
+          70,
+          30
+        ],
+        [
+          70,
+          80
+        ],
+        [
+          65,
+          130
+        ],
+        [
+          60,
+          170
+        ],
+        [
+          45,
+          150
+        ],
+        [
+          35,
+          140
+        ],
+        [
+          30,
+          120
+        ],
+        [
+          28,
+          90
+        ],
+        [
+          35,
+          60
+        ],
+        [
+          38,
+          20
+        ],
+        [
+          35,
+          -5
+        ],
+        [
+          50,
+          -10
+        ],
+        [
+          72,
+          -10
+        ]
+      ],
+      [
+        [
+          42,
+          120
+        ],
+        [
+          45,
+          130
+        ],
+        [
+          40,
+          145
+        ],
+        [
+          30,
+          130
+        ],
+        [
+          35,
+          120
+        ],
+        [
+          42,
+          120
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/northern-goshawk.jpg"
+}

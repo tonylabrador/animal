@@ -1,0 +1,170 @@
+{
+  "id": "kakapo",
+  "name_zh": "鸮鹦鹉",
+  "name_en": "Kakapo",
+  "scientific_name": "Strigops habroptila",
+  "ui_tags": [
+    "鸟纲",
+    "海岛",
+    "植食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Psittaciformes",
+      "zh": "鹦形目"
+    },
+    "family": {
+      "en": "Strigopidae",
+      "zh": "鸮鹦鹉科"
+    },
+    "genus": {
+      "en": "Strigops",
+      "zh": "鸮鹦鹉属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "The Kakapo is a species of large, flightless, nocturnal, ground-dwelling parrot endemic to New Zealand. It is the world's only flightless parrot and the heaviest parrot species, with males weighing up to 4 kilograms. Its plumage is a moss-green mottled with black and brown, providing excellent camouflage against the forest floor. Evolutionarily distinct, it is the only parrot to have a 'lek' breeding system, where males congregate in arenas to compete and perform 'booming' calls to attract females. Due to its low metabolic rate and lack of flight, it was highly vulnerable to introduced mammalian predators, leading to a catastrophic population decline. Today, it is one of the world's rarest birds, surviving only on strictly managed, predator-free offshore islands.",
+    "zh": "鸮鹦鹉是新西兰特有的一种大型、不会飞、夜行性的地栖鹦鹉。它是世界上唯一一种丧失飞行能力的鹦鹉，也是最重的鹦鹉，成年雄性体重可达4公斤。其羽毛呈苔藓绿色，并夹杂着黑色和棕色的斑纹，在森林地面上具有极佳的伪装效果。在进化历史上，它是唯一拥有“求偶场”（Lek）繁殖系统的鹦鹉，雄性会聚集在特定区域发出低频的“轰鸣声”以吸引雌性。由于代谢率极低且无法飞行，它在面对引入的哺乳动物捕食者时极度脆弱，导致种群数量曾一度濒临灭绝。目前，它是世界上最罕见的鸟类之一，仅生存于受到严格管理的、无捕食者的离岸岛屿上。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Kakapo possesses a unique set of anatomical features adapted for a terrestrial, nocturnal lifestyle. It has a distinct facial disc of fine feathers, similar to an owl, which may help focus sound. Its wings are relatively short and lack the keel on the sternum required for flight muscles; instead, they are used for balance and breaking falls. The legs are exceptionally strong and muscular, adapted for walking and climbing trees. It has a highly developed sense of smell, which is unusual for birds, and its beak is specialized for grinding food into fine particles. Its feathers are notably soft, as they do not need the strength and stiffness required for flight.",
+      "zh": "鸮鹦鹉拥有一套独特的解剖特征，以适应其陆栖和夜行生活。它具有类似猫头鹰的细羽组成的面盘，可能有助于收集声音。其翅膀相对较短，胸骨缺乏飞行肌所需的龙骨突，主要用于平衡和在跳跃时缓冲。双腿异常强壮且肌肉发达，适应于长途行走和攀爬树木。它拥有高度发达的嗅觉，这在鸟类中并不多见，其喙部专门用于将食物磨碎。由于不需要飞行所需的强度和刚性，其羽毛异常柔软。"
+    },
+    "ecology_and_behavior": {
+      "en": "As a herbivore, the Kakapo feeds on a variety of native plants, seeds, fruits, and pollen. It is particularly dependent on the mast seeding of the Rimu tree (Dacrydium cupressinum) for successful breeding. Their breeding cycle is infrequent, occurring every 2-5 years when food is abundant. The male's 'booming' call is a low-frequency sound that can travel up to 5 kilometers. They are long-lived birds, with an estimated lifespan of up to 90 years. Their primary defense mechanism is 'freezing' in place, relying on their camouflage to avoid detection, a strategy that was effective against avian predators like the Haast's eagle but failed against scent-hunting mammals.",
+      "zh": "作为植食性动物，鸮鹦鹉取食多种原生植物、种子、果实和花粉。它们的繁殖高度依赖于陆均松（Rimu）的丰年结果，因此繁殖周期并不频繁，通常每2-5年才进行一次。雄性的“轰鸣声”是一种低频声音，传播距离可达5公里。它们是长寿的鸟类，估计寿命可达90岁。其主要的防御机制是“原地冻结”，依靠伪装色躲避侦察，这种策略在对抗哈斯特鹰等视觉捕食者时非常有效，但在面对依靠嗅觉捕食的哺乳动物时则完全失效。"
+    },
+    "habitat_and_distribution": {
+      "en": "Historically, the Kakapo was widespread across both the North and South Islands of New Zealand. Following the arrival of humans and invasive predators (cats, stoats, rats), they were pushed to the brink of extinction. Currently, the entire population is restricted to three primary predator-free islands: Whenua Hou (Codfish Island), Pukenui (Anchor Island), and Hauturu (Little Barrier Island). These islands provide a mix of podocarp forest and scrubland, offering the necessary food resources and nesting sites required for their survival and recovery programs.",
+      "zh": "历史上，鸮鹦鹉广泛分布于新西兰的南岛和北岛。随着人类的到来以及入侵捕食者（猫、鼬、大鼠）的引入，它们被推向灭绝边缘。目前，所有种群仅限于三个主要的无捕食者离岸岛屿：科德菲什岛（Whenua Hou）、安克岛（Pukenui）和豪图鲁岛（小巴里尔岛）。这些岛屿提供了罗汉松林和灌木丛的混合生境，为它们的生存和恢复计划提供了必要的食物资源和筑巢地点。"
+    }
+  },
+  "habitat": {
+    "text_en": "Restricted to predator-free offshore islands of New Zealand, characterized by temperate rainforests and sub-alpine scrub.",
+    "text_zh": "仅限于新西兰无捕食者的离岸岛屿，主要特征为温带雨林和亚高山灌木丛。",
+    "map_coordinates": [
+      -46.7833,
+      167.6333
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -46.795,
+          167.585
+        ],
+        [
+          -46.775,
+          167.58
+        ],
+        [
+          -46.755,
+          167.605
+        ],
+        [
+          -46.75,
+          167.635
+        ],
+        [
+          -46.765,
+          167.675
+        ],
+        [
+          -46.79,
+          167.685
+        ],
+        [
+          -46.81,
+          167.655
+        ],
+        [
+          -46.815,
+          167.615
+        ],
+        [
+          -46.795,
+          167.585
+        ]
+      ],
+      [
+        [
+          -45.745,
+          166.475
+        ],
+        [
+          -45.725,
+          166.505
+        ],
+        [
+          -45.735,
+          166.545
+        ],
+        [
+          -45.765,
+          166.555
+        ],
+        [
+          -45.785,
+          166.525
+        ],
+        [
+          -45.775,
+          166.485
+        ],
+        [
+          -45.745,
+          166.475
+        ]
+      ],
+      [
+        [
+          -36.185,
+          175.035
+        ],
+        [
+          -36.165,
+          175.075
+        ],
+        [
+          -36.175,
+          175.125
+        ],
+        [
+          -36.215,
+          175.135
+        ],
+        [
+          -36.245,
+          175.095
+        ],
+        [
+          -36.235,
+          175.045
+        ],
+        [
+          -36.185,
+          175.035
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/kakapo.jpg"
+}

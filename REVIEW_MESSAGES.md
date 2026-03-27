@@ -62,3 +62,67 @@
 * `ui_tags` are not strictly bilingual (English only).
 * `global_distribution_polygons` lack high-precision complexity (Polygon 2 is a simple 6-point shape).
 * `taxonomy.genus.zh` ("耳龙属") is inconsistent with the species name translation ("无耳龙").
+
+### [2026-03-26 07:08:06] Review Failed for: 土豚
+- The first polygon in `global_distribution_polygons` is not closed (the first and last coordinates must be identical to form a valid ring).
+- The `image` field is null, which constitutes a missing data error.
+- `ui_tags` are not strictly bilingual (only Chinese strings are provided, which is inconsistent with the rest of the schema).
+
+### [2026-03-26 07:11:39] Review Failed for: 象牙喙啄木鸟
+* The `image` field is `null` (missing data).
+* `global_distribution_polygons` contains low-precision shapes (e.g., a 5-point polygon for South Carolina and a 7-point polygon for Cuba) that fail the requirement for complex, high-precision geometry.
+* `global_distribution_polygons` uses an incorrect nested array structure for disjointed regions (it is structured as a single polygon with internal rings/holes rather than a MultiPolygon).
+* `global_distribution_polygons` uses `[Latitude, Longitude]` coordinate order, which is a schema-breaking error for standard GeoJSON implementations.
+
+### [2026-03-26 07:36:39] Review Failed for: 鳙鱼
+FATAL JSON GENERATION ERROR: Gemini API error: 503
+
+### [2026-03-26 07:37:08] Review Failed for: 鲢
+FATAL JSON GENERATION ERROR: Gemini API error: 503
+
+### [2026-03-26 07:37:19] Review Failed for: 胭脂鱼
+FATAL JSON GENERATION ERROR: Gemini API error: 503
+
+### [2026-03-26 07:39:11] Review Failed for: 苍鹰
+FATAL JSON GENERATION ERROR: Gemini API error: 503
+
+### [2026-03-26 07:41:02] Review Failed for: 日本鳗鲡
+* The first polygon in 'global_distribution_polygons' is a lazy 5-point rectangle.
+
+### [2026-03-26 07:45:37] Review Failed for: 绢粉蝶
+* `global_distribution_polygons` are not high-precision (low coordinate resolution and few vertices).
+* `description` and `encyclopedia` are not strictly bilingual (Chinese version contains additional information not present in the English text).
+* The `image` field is `null` (missing data).
+
+### [2026-03-26 07:50:18] Review Failed for: 大鵟
+* The `image` field is null.
+    * The `ui_tags` are not bilingual.
+    * The `taxonomy` object is missing the `species` level.
+
+### [2026-03-26 07:51:06] Review Failed for: 美洲红鹮
+FATAL JSON GENERATION ERROR: Expected ',' or '}' after property value in JSON at position 3770 (line 51 column 2)
+
+### [2026-03-26 07:51:37] Review Failed for: 辉亭鸟
+FATAL JSON GENERATION ERROR: Gemini API error: 503
+
+### [2026-03-26 07:52:24] Review Failed for: 黑鹳
+* The fourth polygon in `global_distribution_polygons` is a lazy 5-point rectangle, failing the requirement for complex, high-precision shapes.
+
+### [2026-03-26 07:52:53] Review Failed for: 镰嘴管舌鸟
+* The `global_distribution_polygons` for Maui and Kauai are low-precision (5-point and 4-point shapes), which are considered "lazy" and do not meet the requirement for complex, high-precision organic shapes.
+
+### [2026-03-26 08:04:12] Review Failed for: 斑马跳蛛
+* `ui_tags` is not bilingual (missing English translations).
+* `global_distribution_polygons` contains an unclosed ring (the first polygon's start and end points do not match).
+* `taxonomy` is missing the `species` level.
+* `image` field is null.
+
+### [2026-03-26 22:26:54] Review Failed for: 家蟋蟀
+* The fourth polygon in `global_distribution_polygons` is a lazy 5-point shape.
+* The `image` field is null, indicating missing data.
+
+### [2026-03-26 22:32:45] Review Failed for: 胭脂鱼
+* The `global_distribution_polygons` is not a closed loop (the first and last coordinates must be identical).
+* The `ui_tags` field is not bilingual (contains only Chinese).
+* The `image` field is null, which constitutes a missing data error.
+* The coordinates in `global_distribution_polygons` lack high precision (only one decimal place).

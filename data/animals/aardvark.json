@@ -1,0 +1,204 @@
+{
+  "id": "aardvark",
+  "name_zh": "土豚",
+  "name_en": "Aardvark",
+  "scientific_name": "Orycteropus afer",
+  "ui_tags": [
+    "哺乳纲",
+    "稀树草原",
+    "食虫性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Tubulidentata",
+      "zh": "管齿目"
+    },
+    "family": {
+      "en": "Orycteropodidae",
+      "zh": "土豚科"
+    },
+    "genus": {
+      "en": "Orycteropus",
+      "zh": "土豚属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The aardvark is a medium-sized, nocturnal, burrowing mammal native to Africa. It is the sole extant representative of the order Tubulidentata. Characterized by its long, pig-like snout, rabbit-like ears, and a powerful, tapering tail, the aardvark is a highly specialized myrmecophage, feeding almost exclusively on ants and termites. Its name derives from Afrikaans/Dutch for 'earth pig'. Despite its appearance, it is not closely related to pigs or South American anteaters, but belongs to the Afrotheria superorder, making it a distant relative of elephants and manatees. They are vital ecosystem engineers, as their abandoned burrows provide critical shelter for a wide variety of other African wildlife.",
+    "zh": "土豚是一种原产于非洲的中型、夜行性穴居哺乳动物，是管齿目下现存的唯一物种。其特征包括长而类似猪的口鼻部、兔状长耳以及强壮且逐渐变细的尾巴。土豚是高度特化的食蚁性动物，几乎完全以蚂蚁和白蚁为食。其名称在南非语/荷兰语中意为“土猪”。尽管外形独特，它与猪或南美食蚁兽并无近缘关系，而是属于非洲兽总目，是象和海牛的远亲。土豚是重要的生态系统工程师，它们遗弃的洞穴为多种非洲野生动物提供了关键的避难所。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The aardvark's most distinctive feature is its teeth, which lack enamel and consist of numerous hexagonal tubes of dentine fused together, giving the order its name (Tubulidentata). It possesses a long, protractile tongue (up to 30 cm) coated in sticky saliva for extracting insects. Its limbs are equipped with strong, shovel-like claws—four on the front feet and five on the hind—perfectly adapted for excavating hard-packed termite mounds. Its skin is thick and sparsely haired, providing protection against insect bites, while its large ears provide exceptional hearing to detect the movement of prey underground.",
+      "zh": "土豚最独特的特征是其牙齿，这些牙齿缺乏珐琅质，由许多融合在一起的六角形齿质管组成，这也是管齿目名称的由来。它拥有一条长达30厘米、可伸缩且涂有粘性唾液的舌头，用于卷食昆虫。其四肢配有强壮的铲状爪（前足四爪，后足五爪），完美适应于挖掘坚硬的白蚁丘。土豚皮肤厚实且毛发稀疏，可抵御昆虫叮咬，而巨大的耳朵则提供了卓越的听觉，用以探测地下猎物的活动。"
+    },
+    "ecology_and_behavior": {
+      "en": "Aardvarks are solitary and strictly nocturnal, emerging from their burrows shortly after sunset to forage. They can travel up to 10-30 km in a single night, using their keen sense of smell to locate termite nests. Once a nest is found, they use their powerful claws to break through the concrete-like exterior. Interestingly, they have a symbiotic relationship with the 'Aardvark cucumber' (Cucumis humifructus), which grows underground; the aardvark eats the fruit for its water content and disperses the seeds through its dung. They are excellent diggers, capable of excavating a yard of tunnel in about five minutes when threatened.",
+      "zh": "土豚营独居生活，是严格的夜行性动物，通常在日落后不久从洞穴中出来觅食。它们在一晚内可移动10至30公里，利用敏锐的嗅觉定位白蚁巢。一旦发现蚁巢，它们会用强壮的爪子破开坚如混凝土的外壳。有趣的是，它们与一种名为“土豚黄瓜”的地下植物存在共生关系：土豚食用这种果实以获取水分，并通过粪便传播种子。土豚是挖掘高手，在受到威胁时，能在约五分钟内挖掘出一码长的隧道。"
+    },
+    "habitat_and_distribution": {
+      "en": "Aardvarks are widely distributed across Sub-Saharan Africa, ranging from Senegal and Ethiopia down to South Africa. They are absent only from the driest deserts (like the Namib and central Sahara) and the densest tropical rainforests of the Congo Basin. They prefer habitats with sufficient sandy or loamy soil for digging and a high density of ants and termites, including savannas, grasslands, woodlands, and even some montane areas.",
+      "zh": "土豚广泛分布于撒哈拉以南非洲，从塞内加尔和埃塞俄比亚一直延伸到南非。它们仅在最干旱的沙漠（如纳米比沙漠和撒哈拉中部）以及刚果盆地最茂密的热带雨林中缺席。它们偏好具有足够沙质或壤土以便挖掘、且蚂蚁和白蚁密度高的生境，包括稀树草原、草原、林地，甚至是一些山地地区。"
+    }
+  },
+  "habitat": {
+    "text_en": "Sub-Saharan African savannas, grasslands, and open woodlands.",
+    "text_zh": "撒哈拉以南非洲的稀树草原、草原和开阔林地。",
+    "map_coordinates": [
+      0,
+      20
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          15.5,
+          -16.5
+        ],
+        [
+          16.5,
+          -10
+        ],
+        [
+          15,
+          5
+        ],
+        [
+          14,
+          15
+        ],
+        [
+          16,
+          25
+        ],
+        [
+          15,
+          35
+        ],
+        [
+          12,
+          42
+        ],
+        [
+          11.5,
+          48
+        ],
+        [
+          5,
+          50
+        ],
+        [
+          -5,
+          40
+        ],
+        [
+          -15,
+          40
+        ],
+        [
+          -25,
+          35
+        ],
+        [
+          -34.5,
+          25
+        ],
+        [
+          -34.8,
+          19
+        ],
+        [
+          -30,
+          15
+        ],
+        [
+          -20,
+          12
+        ],
+        [
+          -10,
+          10
+        ],
+        [
+          -5,
+          8
+        ],
+        [
+          0,
+          9
+        ],
+        [
+          5,
+          8
+        ],
+        [
+          10,
+          -14
+        ],
+        [
+          14.5,
+          -17.5
+        ]
+      ],
+      [
+        [
+          5,
+          25
+        ],
+        [
+          8,
+          30
+        ],
+        [
+          5,
+          35
+        ],
+        [
+          0,
+          38
+        ],
+        [
+          -10,
+          35
+        ],
+        [
+          -15,
+          25
+        ],
+        [
+          -10,
+          15
+        ],
+        [
+          -5,
+          12
+        ],
+        [
+          0,
+          15
+        ],
+        [
+          5,
+          25
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/aardvark.jpg"
+}

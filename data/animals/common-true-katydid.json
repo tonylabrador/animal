@@ -1,0 +1,150 @@
+{
+  "id": "common-true-katydid",
+  "name_zh": "北美真螽",
+  "name_en": "Common True Katydid",
+  "scientific_name": "Pterophylla camellifolia",
+  "ui_tags": [
+    "Insecta",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Insecta",
+      "zh": "昆虫纲"
+    },
+    "order": {
+      "en": "Orthoptera",
+      "zh": "直翅目"
+    },
+    "family": {
+      "en": "Tettigoniidae",
+      "zh": "螽斯科"
+    },
+    "genus": {
+      "en": "Pterophylla",
+      "zh": "真螽属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Common True Katydid (Pterophylla camellifolia) is a large, arboreal insect famous for its loud, repetitive nocturnal song that phonetically resembles the phrase 'Katy did, Katy didn't.' It is a master of crypsis, possessing forewings (tegmina) that evolved to perfectly mimic the texture, venation, and color of deciduous leaves. Unlike many other orthopterans, this species is a poor flyer and rarely leaves the high canopy of deciduous forests. Its acoustic communication is produced by stridulation, where a scraper on one wing is rubbed against a file on the other, creating a sound that can carry over long distances in the forest understory.",
+    "zh": "北美真螽（Pterophylla camellifolia）是一种大型树栖昆虫，以其响亮且重复的夜间鸣叫声而闻名，其鸣声在英语谐音中酷似“Katy did, Katy didn't”。它是拟态进化的杰出代表，其前翅（覆翅）演化出了极其精确的叶片纹理、脉络和色泽，使其能完美隐匿于阔叶林中。与许多其他直翅目昆虫不同，该物种飞行能力较弱，极少离开高大的阔叶树冠层。其声学交流通过摩擦发音器完成，即通过一只翅膀上的刮器摩擦另一只翅膀上的锉状结构，产生的声响在森林底层具有极强的穿透力。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults typically measure 45-55 mm in length. Their most striking feature is the pair of broad, leaf-like green tegmina that are distinctly convex, enclosing the abdomen and giving the insect a bulky, oval profile. The hind wings are shorter than the tegmina and are not used for sustained flight. They possess extremely long, thread-like antennae (filiform) that often exceed the body length, serving as vital sensory organs in the dark canopy. Females are distinguished by a large, sword-shaped, upward-curving ovipositor used for depositing eggs into plant tissue or bark crevices.",
+      "zh": "成虫体长通常在45-55毫米之间。其最显著的特征是一对宽大、呈叶状的绿色覆翅，翅面明显凸起，包裹着腹部，使昆虫呈现出厚实的椭圆形轮廓。后翅短于前翅，不具备持续飞行能力。它们拥有极长的丝状触角，长度往往超过体长，是黑暗树冠层中至关重要的感觉器官。雌性具有大型、剑状且向上弯曲的产卵器，用于将卵产入植物组织或树皮缝隙中。"
+    },
+    "ecology_and_behavior": {
+      "en": "Pterophylla camellifolia is strictly nocturnal. During the day, it remains motionless, relying on its leaf-mimicry to avoid avian predators. At night, males engage in intense acoustic competition to attract females. The song is temperature-dependent; the tempo increases as the ambient temperature rises. Their diet consists primarily of the foliage of deciduous trees, particularly oaks (Quercus) and hickories (Carya), though they are rarely numerous enough to cause significant defoliation. Their life cycle is hemimetabolous, involving egg, nymphal instars, and adult stages, with eggs overwintering in bark.",
+      "zh": "北美真螽是严格的夜行性动物。白天，它们保持静止，依靠叶状拟态躲避鸟类捕食者。夜晚，雄性通过激烈的声学竞争来吸引雌性。其鸣叫频率具有温度依赖性，环境温度越高，节奏越快。它们的食物主要由阔叶树的叶片组成，尤其是橡树和山核桃树，但其种群密度很少达到造成严重落叶灾害的程度。其生命周期为半变态发育，经历卵、若虫和成虫阶段，卵在树皮中越冬。"
+    },
+    "habitat_and_distribution": {
+      "en": "This species is widely distributed across the Eastern United States and Southern Ontario, Canada. Its range extends from Massachusetts west to Kansas and south to the Gulf Coast and Central Florida. It is an obligate forest dweller, restricted to deciduous woodlands where it occupies the upper strata of the canopy. Because they are flightless or poor fliers, populations can become genetically isolated if forests are fragmented by urban development.",
+      "zh": "该物种广泛分布于美国东部和加拿大安大略省南部。其分布范围从马萨诸塞州向西延伸至堪萨斯州，向南延伸至墨西哥湾沿岸和佛罗里达州中部。它们是专一的森林居住者，仅限于阔叶林地，并占据树冠的上层空间。由于它们不具备或仅具备微弱的飞行能力，如果森林因城市发展而碎片化，其种群可能会在遗传上陷入孤立。"
+    }
+  },
+  "habitat": {
+    "text_en": "Deciduous forests and woodlands of Eastern North America.",
+    "text_zh": "北美东部的阔叶林和林地。",
+    "map_coordinates": [
+      38,
+      -85
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          44.5,
+          -68.5
+        ],
+        [
+          46,
+          -75
+        ],
+        [
+          46.5,
+          -80
+        ],
+        [
+          47,
+          -85
+        ],
+        [
+          46,
+          -92
+        ],
+        [
+          44,
+          -96
+        ],
+        [
+          40,
+          -98
+        ],
+        [
+          37,
+          -99
+        ],
+        [
+          32,
+          -99
+        ],
+        [
+          29,
+          -98.5
+        ],
+        [
+          28.5,
+          -96
+        ],
+        [
+          26,
+          -82
+        ],
+        [
+          25,
+          -80.5
+        ],
+        [
+          26.5,
+          -80
+        ],
+        [
+          30,
+          -81
+        ],
+        [
+          34,
+          -76
+        ],
+        [
+          38,
+          -74.5
+        ],
+        [
+          41,
+          -71.5
+        ],
+        [
+          44.5,
+          -68.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/common-true-katydid.jpg"
+}
