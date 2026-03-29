@@ -2,12 +2,14 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 import dynamic from "next/dynamic";
 import {
   ArrowLeft,
   Globe,
   Layers,
   GitBranch,
+  Home,
 } from "lucide-react";
 import { useLanguage } from "@/lib/LanguageContext";
 import DrillDownView from "./DrillDownView";
@@ -68,16 +70,27 @@ export default function TaxonomyExplorer({ tree }: TaxonomyExplorerProps) {
       {/* ── Header ── */}
       <header className="sticky top-0 z-30 bg-white/90 backdrop-blur-md border-b border-slate-100 shadow-sm">
         <div className="px-4 sm:px-6 h-14 flex items-center justify-between gap-3 max-w-7xl mx-auto">
-          {/* Left: back */}
-          <button
-            onClick={() => router.back()}
-            className="flex items-center gap-2 text-slate-600 hover:text-slate-900 transition-colors font-medium text-sm shrink-0"
-          >
-            <ArrowLeft size={16} strokeWidth={2.5} />
-            <span className="hidden sm:inline">
-              {lang === "en" ? "Home" : "首页"}
-            </span>
-          </button>
+          {/* Left: back & home */}
+          <div className="flex items-center gap-4 shrink-0">
+            <button
+              onClick={() => router.back()}
+              className="flex items-center gap-1.5 text-slate-600 hover:text-slate-900 transition-colors font-medium text-sm"
+            >
+              <ArrowLeft size={16} strokeWidth={2.5} />
+              <span className="hidden sm:inline">
+                {lang === "en" ? "Back" : "返回"}
+              </span>
+            </button>
+            <Link
+              href="/"
+              className="flex items-center gap-1.5 text-slate-600 hover:text-slate-900 transition-colors font-medium text-sm"
+            >
+              <Home size={16} strokeWidth={2.5} />
+              <span className="hidden sm:inline">
+                {lang === "en" ? "Home" : "首页"}
+              </span>
+            </Link>
+          </div>
 
           {/* Centre: title */}
           <div className="flex items-center gap-1.5 font-bold text-slate-700 text-sm">
