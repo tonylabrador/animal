@@ -1,0 +1,136 @@
+{
+  "id": "eurasian-golden-oriole",
+  "name_zh": "金黄鹂",
+  "name_en": "Eurasian Golden Oriole",
+  "scientific_name": "Oriolus oriolus",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Oriolidae",
+      "zh": "黄鹂科"
+    },
+    "genus": {
+      "en": "Oriolus",
+      "zh": "黄鹂属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A strikingly beautiful songbird with bright yellow plumage, known for its melodic flute-like calls echoing through dense woodlands.",
+    "zh": "一种极其美丽的鸣禽，拥有明黄色的羽毛，以其在茂密树林中回荡的如长笛般悦耳的鸣叫声而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Male orioles showcase brilliant golden-yellow bodies contrasted with jet-black wings and tail feathers. Females and juveniles are much duller, blending into the canopy with olive-green upperparts and whitish, streaked underparts.",
+      "zh": "雄鸟展示着绚丽的亮黄色的身体，与乌黑的双翼和尾羽形成了强烈的反差。雌鸟和幼鸟的颜色较暗，上体呈橄榄绿色而下体呈带细纹的灰白色，极易隐蔽在树冠中。"
+    },
+    "ecology_and_behavior": {
+      "en": "Despite their bright colors, they are notoriously difficult to spot as they forage high in the forest foliage for insects and ripe fruits. They weave intricate cup-like nests that hang safely from forked branches like tiny hammocks.",
+      "zh": "尽管颜色鲜艳，但它们却出了名地难以被发现，因为它们喜欢在森林树冠高处穿梭觅食浆果和昆虫。它们会用植物纤维编织出精巧的杯状巢，像小吊床一样安全地悬挂在树杈上。"
+    },
+    "habitat_and_distribution": {
+      "en": "They breed across temperate deciduous forests, orchards, and extensive parks in Europe and western Asia, undertaking long migrations to spend the winter deep in tropical Africa.",
+      "zh": "它们广泛分布于欧洲和西亚的温带落叶林、果园以及大型公园中繁殖，并在冬季长途跋涉，飞往热带非洲深处越冬。"
+    }
+  },
+  "habitat": {
+    "text_en": "Deciduous forests and woodland edges",
+    "text_zh": "落叶林与林地边缘",
+    "map_coordinates": [
+      48,
+      15
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          40,
+          -9
+        ],
+        [
+          55,
+          -9
+        ],
+        [
+          60,
+          30
+        ],
+        [
+          55,
+          60
+        ],
+        [
+          45,
+          80
+        ],
+        [
+          35,
+          50
+        ],
+        [
+          40,
+          10
+        ],
+        [
+          40,
+          -9
+        ]
+      ],
+      [
+        [
+          -20,
+          10
+        ],
+        [
+          0,
+          10
+        ],
+        [
+          5,
+          20
+        ],
+        [
+          -10,
+          35
+        ],
+        [
+          -25,
+          30
+        ],
+        [
+          -30,
+          15
+        ],
+        [
+          -20,
+          10
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/eurasian-golden-oriole.jpg"
+}

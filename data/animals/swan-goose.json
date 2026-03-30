@@ -1,0 +1,128 @@
+{
+  "id": "swan-goose",
+  "name_zh": "鸿雁",
+  "name_en": "Swan Goose",
+  "scientific_name": "Anser cygnoides",
+  "ui_tags": [
+    "Bird",
+    "Wetland",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Anseriformes",
+      "zh": "雁形目"
+    },
+    "family": {
+      "en": "Anatidae",
+      "zh": "鸭科"
+    },
+    "genus": {
+      "en": "Anser",
+      "zh": "雁属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The swan goose is a large, elegant waterbird known as the wild ancestor of the domesticated Chinese goose, characterized by its long neck and bicolored bill.",
+    "zh": "鸿雁是一种体型巨大且优雅的水鸟，被认为是中国家鹅的野生祖先，以其修长的脖子和呈双色的喙而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Swan geese are heavily built with a long neck and a distinctive head profile. They possess a prominent dark bill with a black base, and their plumage features a dramatic contrast between the dark brown hindneck and pale creamy foreneck.",
+      "zh": "体型粗壮，颈部修长，头部轮廓独特。它们拥有醒目的黑色基部深色喙，其羽毛特征在于深褐色的后颈与浅奶油色的前颈形成了鲜明的对比。"
+    },
+    "ecology_and_behavior": {
+      "en": "Highly migratory, these geese travel in large flocks and communicate with resonant, honking calls. They primarily forage on sedges and grasses by grazing on land or dabbling in shallow waters.",
+      "zh": "这是一种高度迁徙的雁类，它们成大群飞行，并通过洪亮的鸣叫声进行交流。它们主要在陆地上啃食莎草和禾本科植物，或者在浅水区踯躅觅食。"
+    },
+    "habitat_and_distribution": {
+      "en": "They breed in inland lakes, marshes, and river valleys across Mongolia, northern China, and southeastern Russia, migrating down to wintering grounds in eastern and southern China.",
+      "zh": "它们在蒙古、中国北方以及俄罗斯东南部内陆的湖泊、沼泽和河谷中繁殖，冬季则向南迁徙至中国东部和南部的越冬地。"
+    }
+  },
+  "habitat": {
+    "text_en": "Freshwater wetlands and river valleys",
+    "text_zh": "淡水湿地与河谷",
+    "map_coordinates": [
+      48,
+      105
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          40,
+          115
+        ],
+        [
+          50,
+          115
+        ],
+        [
+          52,
+          120
+        ],
+        [
+          48,
+          125
+        ],
+        [
+          45,
+          128
+        ],
+        [
+          40,
+          120
+        ],
+        [
+          40,
+          115
+        ]
+      ],
+      [
+        [
+          28,
+          112
+        ],
+        [
+          32,
+          112
+        ],
+        [
+          35,
+          118
+        ],
+        [
+          30,
+          120
+        ],
+        [
+          28,
+          116
+        ],
+        [
+          28,
+          112
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/swan-goose.jpg"
+}

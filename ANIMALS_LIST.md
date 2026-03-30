@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **330** 种动物
+**统计**：共 **332** 种动物
 
 ---
 
@@ -509,6 +509,10 @@
 
 - 家麻雀 / House Sparrow — *Passer domesticus* `house-sparrow`
 
+**黄鹂科**
+
+- 金黄鹂 / Eurasian Golden Oriole — *Oriolus oriolus* `eurasian-golden-oriole`
+
 ### 雁形目
 
 **鸭科**
@@ -516,6 +520,7 @@
 - 黑天鹅 / Black Swan — *Cygnus atratus* `black-swan`
 - 加拿大雁 / Canada Goose — *Branta canadensis* `canada-goose`
 - 疣鼻天鹅 / Mute Swan — *Cygnus olor* `mute-swan`
+- 鸿雁 / Swan Goose — *Anser cygnoides* `swan-goose`
 
 ### 雨燕目
 

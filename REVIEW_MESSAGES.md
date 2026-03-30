@@ -126,3 +126,12 @@ FATAL JSON GENERATION ERROR: Gemini API error: 503
 * The `ui_tags` field is not bilingual (contains only Chinese).
 * The `image` field is null, which constitutes a missing data error.
 * The coordinates in `global_distribution_polygons` lack high precision (only one decimal place).
+
+### [2026-03-30 14:36:15] Review Failed for: 鸿雁
+FATAL JSON GENERATION ERROR: Gemini API error: 503
+
+### [2026-03-30 14:36:18] Review Failed for: 金黄鹂
+FATAL JSON GENERATION ERROR: Gemini API error: 503
+
+### [2026-03-30 15:00:57] Review Failed for: 鸿雁
+FATAL JSON GENERATION ERROR: Gemini API error: 503
