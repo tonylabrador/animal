@@ -6,3 +6,4 @@
 |---|--------|-------------|-----------------|------|
 | 1 | 野猪 | Wild Boar | Sus scrofa | ⏳ Pending |
 | 2 | 绿头鸭 | Mallard | Anas platyrhynchos | ⏳ Pending |
+| 3 | 鸳鸯 | Mandarin Duck | Aix galericulata | ⏳ Pending |
