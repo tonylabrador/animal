@@ -2,11 +2,17 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **332** 种动物
+**统计**：共 **335** 种动物
 
 ---
 
 ## 哺乳纲
+
+### 偶蹄目
+
+**猪科**
+
+- 野猪 / Wild Boar — *Sus scrofa* `wild-boar`
 
 ### 兔形目
 
@@ -519,6 +525,8 @@
 
 - 黑天鹅 / Black Swan — *Cygnus atratus* `black-swan`
 - 加拿大雁 / Canada Goose — *Branta canadensis* `canada-goose`
+- 绿头鸭 / Mallard — *Anas platyrhynchos* `mallard`
+- 鸳鸯 / Mandarin Duck — *Aix galericulata* `mandarin-duck`
 - 疣鼻天鹅 / Mute Swan — *Cygnus olor* `mute-swan`
 - 鸿雁 / Swan Goose — *Anser cygnoides* `swan-goose`
 

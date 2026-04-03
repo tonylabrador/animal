@@ -1,0 +1,128 @@
+{
+  "id": "wild-boar",
+  "name_zh": "野猪",
+  "name_en": "Wild Boar",
+  "scientific_name": "Sus scrofa",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Suidae",
+      "zh": "猪科"
+    },
+    "genus": {
+      "en": "Sus",
+      "zh": "猪属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A highly adaptable and intelligent omnivore known for its robust build, prominent tusks, and global distribution.",
+    "zh": "一种适应力极强且聪明的杂食动物，以其粗壮的体格、突出的獠牙和广泛的全球分布而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Wild boars have a compact, muscular body covered in coarse, bristly hair. Males possess continuously growing canine teeth that form curved tusks, used for both digging and defense against predators.",
+      "zh": "野猪拥有紧凑结实的肌肉躯体，表面覆盖着粗糙的硬毛。雄性长有不断生长的犬齿，形成弯曲的獠牙，既可用来挖掘食物，也能用来防御捕食者。"
+    },
+    "ecology_and_behavior": {
+      "en": "Living in matriarchal groups called sounders, they are quintessential omnivores, using their cartilaginous snouts to root for tubers, insects, and small vertebrates. They often wallow in mud to regulate their body temperature and deter parasites.",
+      "zh": "它们通常以母系社会群体（猪群）的方式生活。作为典型的杂食动物，它们经常用软骨质的口鼻部在泥土中拱寻块茎、昆虫甚至小型脊椎动物。它们经常在泥坑中打滚，以此调节体温并驱除寄生虫。"
+    },
+    "habitat_and_distribution": {
+      "en": "Originally native to Eurasia and North Africa, they thrive in diverse habitats from broadleaf forests to taiga and have been introduced worldwide, becoming one of the widest-ranging mammals.",
+      "zh": "野猪原产于欧亚大陆和北非，在从阔叶林到针叶林的各种栖息地中都能繁衍生息，并已被引入世界各地，成为分布最广的哺乳动物之一。"
+    }
+  },
+  "habitat": {
+    "text_en": "Deciduous forests and scrublands",
+    "text_zh": "落叶林与灌木丛",
+    "map_coordinates": [
+      45,
+      10
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          35,
+          -10
+        ],
+        [
+          60,
+          -10
+        ],
+        [
+          60,
+          40
+        ],
+        [
+          55,
+          80
+        ],
+        [
+          45,
+          130
+        ],
+        [
+          20,
+          110
+        ],
+        [
+          30,
+          60
+        ],
+        [
+          35,
+          -10
+        ]
+      ],
+      [
+        [
+          30,
+          -100
+        ],
+        [
+          40,
+          -100
+        ],
+        [
+          40,
+          -80
+        ],
+        [
+          30,
+          -80
+        ],
+        [
+          30,
+          -100
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/wild-boar.jpg"
+}

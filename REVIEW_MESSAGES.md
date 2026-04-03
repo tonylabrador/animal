@@ -135,3 +135,9 @@ FATAL JSON GENERATION ERROR: Gemini API error: 503
 
 ### [2026-03-30 15:00:57] Review Failed for: 鸿雁
 FATAL JSON GENERATION ERROR: Gemini API error: 503
+
+### [2026-04-03 02:06:03] Review Failed for: 野猪
+FATAL JSON GENERATION ERROR: Gemini API error: 503
+
+### [2026-04-03 02:06:53] Review Failed for: 鸳鸯
+FATAL JSON GENERATION ERROR: Gemini API error: 503

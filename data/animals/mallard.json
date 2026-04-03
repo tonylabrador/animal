@@ -1,0 +1,210 @@
+{
+  "id": "mallard",
+  "name_zh": "绿头鸭",
+  "name_en": "Mallard",
+  "scientific_name": "Anas platyrhynchos",
+  "ui_tags": [
+    "鸟纲",
+    "湿地",
+    "杂食性"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Anseriformes",
+      "zh": "雁形目"
+    },
+    "family": {
+      "en": "Anatidae",
+      "zh": "鸭科"
+    },
+    "genus": {
+      "en": "Anas",
+      "zh": "鸭属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Mallard is a medium-sized dabbling duck that is arguably the most recognizable and abundant wild duck in the world. It is the ancestor of almost all domestic duck breeds. The species exhibits strong sexual dimorphism: males (drakes) sport a glossy emerald-green head, a white collar, and a purplish-brown breast, while females (hens) are mottled brown with a dark eye-stripe. Both sexes possess a distinct iridescent blue speculum bordered by white on their wings. They are highly adaptable, occupying a vast range of wetland habitats from Arctic tundras to subtropical marshes, and are known for their 'dabbling' feeding behavior—tipping head-first into water to reach aquatic plants and invertebrates.",
+    "zh": "绿头鸭是一种中型游禽，也是世界上分布最广、数量最多的野鸭之一，几乎是所有家鸭品种的祖先。该物种具有显著的雌雄二型性：雄鸟拥有亮丽的金属绿色头部、醒目的白色颈环以及栗褐色的胸部；雌鸟则全身布满深褐色斑驳羽毛，并带有深色过眼纹。无论雌雄，其翅膀上都有一块由白色边缘包围的蓝紫色金属光泽翼镜。绿头鸭具有极强的适应性，栖息地横跨从北极苔原到亚热带沼泽的各类湿地。它们以典型的“滤食”方式进食，即通过在水面觅食或将前半身没入水中摄取水生植物、小型无脊椎动物及种子。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adult Mallards measure 50–65 cm in length with a wingspan of 81–98 cm. The drake's bill is yellow-orange with a black tip, while the hen's bill is usually darker, mottled with orange and brown. Their feathers are highly waterproofed by secretions from the uropygial gland. A key anatomical feature is the lamellae—comb-like structures along the edges of the bill used to strain food from water. Their webbed feet are bright orange, positioned slightly back on the body to facilitate powerful swimming, though this results in a characteristic waddle on land.",
+      "zh": "成年绿头鸭体长50-65厘米，翼展81-98厘米。雄鸟的喙呈黄绿色，尖端为黑色；雌鸟的喙则多为橙褐色并带有暗色斑点。其羽毛具有极佳的防水性，这得益于尾脂腺分泌的油脂。一个关键的解剖特征是喙边缘的锯齿状角质板（滤齿），用于从水中滤取食物。它们亮橙色的蹼足位于身体重心稍靠后的位置，这虽然有利于在水中强力划行，但也导致了其在陆地上行走时特有的摇摆步态。"
+    },
+    "ecology_and_behavior": {
+      "en": "Mallards are generalist omnivores, consuming a diet of gastropods, insects, crustaceans, worms, as well as seeds and plant matter. They are highly social, often forming large flocks known as 'sords'. During the breeding season, they engage in complex courtship displays. They are monogamous for a single season, though extra-pair copulations are common. Nesting typically occurs on the ground near water, hidden in dense vegetation. Mallards are also known for their high rate of hybridization with other duck species, which can sometimes pose a genetic threat to less common species.",
+      "zh": "绿头鸭是典型的杂食性动物，食物包括腹足类、昆虫、甲壳类、蠕虫以及植物种子和芽。它们具有高度的社会性，常结成大群活动。在繁殖季节，雄鸟会进行复杂的求偶表演。它们通常维持一季的单配偶制，但异配交配现象也较为普遍。巢穴通常建在靠近水边的地面上，隐藏在茂密的植被中。绿头鸭还以极高的杂交率著称，能与多种其他鸭类杂交，这在某些情况下会对稀有物种产生遗传干扰。"
+    },
+    "habitat_and_distribution": {
+      "en": "The Mallard has a vast Holarctic distribution, breeding across North America, Europe, and Asia. It has also been introduced to Australia, New Zealand, and parts of South America and Africa. They inhabit almost any wetland environment, including lakes, rivers, ponds, ephemeral wetlands, and even urban parks. Northern populations are migratory, flying south to ice-free waters during winter, while populations in temperate zones may remain resident year-round if food and open water are available.",
+      "zh": "绿头鸭拥有广阔的全北界分布范围，在北美、欧洲和亚洲广泛繁殖。它们还被引入到澳大利亚、新西兰以及南美和非洲的部分地区。它们几乎能栖息于任何湿地环境，包括湖泊、河流、池塘、季节性湿地甚至城市公园。北方种群具有迁徙性，冬季会飞往不结冰的水域；而温带地区的种群如果食物充足且水面不封冻，则可能成为留鸟。"
+    }
+  },
+  "habitat": {
+    "text_en": "Freshwater and brackish wetlands, marshes, and river basins across the Northern Hemisphere.",
+    "text_zh": "遍布北半球的淡水及半咸水湿地、沼泽和河流流域。",
+    "map_coordinates": [
+      48.8566,
+      2.3522
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          71.5,
+          -168
+        ],
+        [
+          72,
+          -140
+        ],
+        [
+          65,
+          -100
+        ],
+        [
+          55,
+          -60
+        ],
+        [
+          45,
+          -50
+        ],
+        [
+          30,
+          -75
+        ],
+        [
+          20,
+          -95
+        ],
+        [
+          15,
+          -105
+        ],
+        [
+          25,
+          -115
+        ],
+        [
+          40,
+          -125
+        ],
+        [
+          60,
+          -165
+        ],
+        [
+          71.5,
+          -168
+        ]
+      ],
+      [
+        [
+          72,
+          10
+        ],
+        [
+          75,
+          40
+        ],
+        [
+          72,
+          100
+        ],
+        [
+          70,
+          170
+        ],
+        [
+          55,
+          180
+        ],
+        [
+          35,
+          145
+        ],
+        [
+          22,
+          120
+        ],
+        [
+          18,
+          100
+        ],
+        [
+          25,
+          70
+        ],
+        [
+          30,
+          35
+        ],
+        [
+          32,
+          10
+        ],
+        [
+          45,
+          -10
+        ],
+        [
+          60,
+          -5
+        ],
+        [
+          72,
+          10
+        ]
+      ],
+      [
+        [
+          35,
+          -10
+        ],
+        [
+          37,
+          10
+        ],
+        [
+          32,
+          30
+        ],
+        [
+          28,
+          35
+        ],
+        [
+          25,
+          15
+        ],
+        [
+          28,
+          -5
+        ],
+        [
+          35,
+          -10
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/mallard.jpg"
+}

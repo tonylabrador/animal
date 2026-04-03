@@ -1,0 +1,120 @@
+{
+  "id": "mandarin-duck",
+  "name_zh": "鸳鸯",
+  "name_en": "Mandarin Duck",
+  "scientific_name": "Aix galericulata",
+  "ui_tags": [
+    "Bird",
+    "River",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Anseriformes",
+      "zh": "雁形目"
+    },
+    "family": {
+      "en": "Anatidae",
+      "zh": "鸭科"
+    },
+    "genus": {
+      "en": "Aix",
+      "zh": "林鸭属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "A striking East Asian perching duck celebrated in art and culture for the breathtakingly colorful plumage of the male.",
+    "zh": "一种原产于东亚的林栖鸭类，因雄鸟极其绚丽夺目的羽毛而在文化与艺术中备受赞誉。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The male boasts a stunning array of colors, characterized by an iridescent purple breast, distinctive orange 'sails' on the back, and striking facial markings. The female is significantly more cryptic, adorned in mottled grey-brown hues with a distinct white eye-ring.",
+      "zh": "雄鸟拥有一身令人惊叹的艳丽色彩，特征是闪烁的紫色胸部、背部独特的橙色“帆状羽”以及醒目的面部斑纹。而雌鸟则低调得多，身披灰褐色的斑驳羽毛，并带有一个明显的白色眼圈。"
+    },
+    "ecology_and_behavior": {
+      "en": "Unlike typical ducks, they are highly adapted to arboreal life, nesting in tree cavities close to lakes and swiftly taking flight maneuver through densely wooded areas. Newly hatched ducklings perform a daring leap to the ground from their high nests shortly after birth.",
+      "zh": "与典型的鸭类不同，它们高度适应树栖生活，通常在靠近湖泊的树洞中筑巢，并能在茂密的林地中轻巧地穿梭飞行。刚孵化的雏鸟在出生后不久就要从高高的巢穴中进行勇敢的“信仰之跃”下落到地面。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to forested wetland habitats in East Asia, encompassing eastern Russia, China, and Japan. Healthy introduced populations have also established themselves in parks across Europe, particularly Great Britain.",
+      "zh": "原产于东亚的森林湿地和水域，包括俄罗斯东部、中国和日本。此外，有些健康的引入种群也成功地在欧洲（特别是英国）的公园中扎根繁衍。"
+    }
+  },
+  "habitat": {
+    "text_en": "Wooded lakes and rivers",
+    "text_zh": "林地湖泊与河流",
+    "map_coordinates": [
+      38,
+      130
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          30,
+          110
+        ],
+        [
+          50,
+          110
+        ],
+        [
+          55,
+          130
+        ],
+        [
+          45,
+          140
+        ],
+        [
+          30,
+          125
+        ],
+        [
+          30,
+          110
+        ]
+      ],
+      [
+        [
+          50,
+          -5
+        ],
+        [
+          55,
+          -5
+        ],
+        [
+          55,
+          5
+        ],
+        [
+          50,
+          5
+        ],
+        [
+          50,
+          -5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/mandarin-duck.jpg"
+}
