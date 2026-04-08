@@ -4,3 +4,4 @@
 
 | # | 中文名 | English Name | Scientific Name | 状态 |
 |---|--------|-------------|-----------------|------|
+| 1 | 长背泥蜂 | Emerald cockroach wasp | Ampulex compressa | ⏳ Pending |
