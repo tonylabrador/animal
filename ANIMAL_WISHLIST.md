@@ -15,3 +15,4 @@
 | 9 | 吸蜜蜂鸟 | Bee hummingbird | Mellisuga helenae | ⏳ Pending |
 | 10 | 古巴翠鵙 | Cuban tody | Todus multicolor | ⏳ Pending |
 | 11 | 长尾缝叶莺 | Common tailorbird | Orthotomus sutorius | ⏳ Pending |
+| 12 | 三趾翠鸟 | Black-backed Kingfisher | Ceyx erithaca | ⏳ Pending |
