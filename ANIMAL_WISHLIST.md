@@ -12,3 +12,4 @@
 | 6 | 太平鸟 | Bohemian waxwing | Bombycilla garrulus | ⏳ Pending |
 | 7 | 大响蜜鴷 | Greater honeyguide | Indicator indicator | ⏳ Pending |
 | 8 | 噪八色鸫 | Noisy pitta | Pitta versicolor | ⏳ Pending |
+| 9 | 吸蜜蜂鸟 | Bee hummingbird | Mellisuga helenae | ⏳ Pending |
