@@ -17,3 +17,4 @@
 | 11 | 长尾缝叶莺 | Common tailorbird | Orthotomus sutorius | ⏳ Pending |
 | 12 | 三趾翠鸟 | Black-backed Kingfisher | Ceyx erithaca | ⏳ Pending |
 | 13 | 姬鸮 | Elf owl | Micrathene whitneyi | ⏳ Pending |
+| 14 | 欧亚鸲 | European robin | Erithacus rubecula | ⏳ Pending |
