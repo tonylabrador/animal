@@ -14,3 +14,4 @@
 | 8 | 噪八色鸫 | Noisy pitta | Pitta versicolor | ⏳ Pending |
 | 9 | 吸蜜蜂鸟 | Bee hummingbird | Mellisuga helenae | ⏳ Pending |
 | 10 | 古巴翠鵙 | Cuban tody | Todus multicolor | ⏳ Pending |
+| 11 | 长尾缝叶莺 | Common tailorbird | Orthotomus sutorius | ⏳ Pending |
