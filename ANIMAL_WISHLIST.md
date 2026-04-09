@@ -10,3 +10,4 @@
 | 4 | 普通楼燕 | Common swift | Apus apus | ⏳ Pending |
 | 5 | 河乌 | White-throated dipper | Cinclus cinclus | ⏳ Pending |
 | 6 | 太平鸟 | Bohemian waxwing | Bombycilla garrulus | ⏳ Pending |
+| 7 | 大响蜜鴷 | Greater honeyguide | Indicator indicator | ⏳ Pending |
