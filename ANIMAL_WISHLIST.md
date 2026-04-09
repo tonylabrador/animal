@@ -7,3 +7,4 @@
 | 1 | 长背泥蜂 | Emerald cockroach wasp | Ampulex compressa | ⏳ Pending |
 | 2 | 弱夜鹰 | Common poorwill | Phalaenoptilus nuttallii | ⏳ Pending |
 | 3 | 小蜂虎 | Little bee-eater | Merops pusillus | ⏳ Pending |
+| 4 | 普通楼燕 | Common swift | Apus apus | ⏳ Pending |
