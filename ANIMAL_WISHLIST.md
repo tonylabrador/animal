@@ -19,3 +19,4 @@
 | 13 | 姬鸮 | Elf owl | Micrathene whitneyi | ⏳ Pending |
 | 14 | 欧亚鸲 | European robin | Erithacus rubecula | ⏳ Pending |
 | 15 | 北长尾山雀 | Long-tailed Tit | Aegithalos caudatus | ⏳ Pending |
+| 16 | 麝雉 | Hoatzin | Opisthocomus hoazin | ⏳ Pending |
