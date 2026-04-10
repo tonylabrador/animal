@@ -21,3 +21,4 @@
 | 15 | 北长尾山雀 | Long-tailed Tit | Aegithalos caudatus | ⏳ Pending |
 | 16 | 麝雉 | Hoatzin | Opisthocomus hoazin | ⏳ Pending |
 | 17 | 豹海豹 | Leopard seal | Hydrurga leptonyx | ⏳ Pending |
+| 18 | 阿德利企鹅 | Adélie penguin | Pygoscelis adeliae | ⏳ Pending |
