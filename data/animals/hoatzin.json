@@ -1,0 +1,222 @@
+{
+  "id": "hoatzin",
+  "name_zh": "麝雉",
+  "name_en": "Hoatzin",
+  "scientific_name": "Opisthocomus hoazin",
+  "ui_tags": [
+    "Aves",
+    "Riparian Forest",
+    "Folivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Opisthocomiformes",
+      "zh": "麝雉目"
+    },
+    "family": {
+      "en": "Opisthocomidae",
+      "zh": "麝雉科"
+    },
+    "genus": {
+      "en": "Opisthocomus",
+      "zh": "麝雉属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The hoatzin, also known as the reptile bird, skunk bird, or Canje pheasant, is an enigmatic and highly specialized tropical bird endemic to the swamps, riparian forests, and mangroves of the Amazon and Orinoco basins in South America. It is phylogenetically isolated, representing the sole surviving member of the order Opisthocomiformes, a lineage that diverged from other birds approximately 64 million years ago. The hoatzin is globally renowned for two extraordinary evolutionary adaptations: it is the only known avian species to rely on foregut fermentation—utilizing a massively enlarged crop filled with symbiotic bacteria to break down toxic foliage, much like a mammalian ruminant—and its chicks possess two functional claws on each wing digit, a primitive trait reminiscent of the archaeopteryx, used for climbing through dense vegetation before fledging.",
+    "zh": "麝雉（学名：Opisthocomus hoazin），又称臭鸟或爬行动物鸟，是一种神秘且高度特化的热带鸟类，特产于南美洲亚马逊河与奥里诺科河流域的沼泽、河岸林及红树林中。它在系统发育上极为孤立，是麝雉目现存的唯一物种，该谱系在大约6400万年前便与其他鸟类分化。麝雉以两项非凡的演化适应闻名于世：首先，它是已知唯一依赖前肠发酵的鸟类，其极其膨大的嗉囊中充满了共生细菌，用于分解有毒的植物叶片，机制酷似反刍哺乳动物；其次，其雏鸟的每个翅膀上长有两个功能性指爪，这一让人联想到始祖鸟的原始特征，被雏鸟用于在羽翼丰满前在茂密的植被中攀爬。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The hoatzin is a pheasant-sized bird, measuring approximately 65 centimeters in length, characterized by a disproportionately small head, a long, thick neck, and a striking, spiky rufous crest. Its facial skin is bare and bright blue, contrasting sharply with its deep maroon eyes. The plumage is a complex mosaic: the upperparts are dark, sooty-brown heavily streaked with buff on the mantle and wing coverts, while the underparts are pale buff transitioning to a rich rufous-chestnut on the flanks, primary coverts, and crissum. The tail is long, broad, and bronze-green, terminating in a wide buff band. Anatomically, the hoatzin's most profound modification is its digestive tract. The crop is enormously hypertrophied and muscular, functioning as a fermentation chamber. To accommodate this massive organ, the sternum (breastbone) is severely reduced and deformed, drastically limiting the attachment area for flight muscles. Consequently, the hoatzin is a remarkably poor and clumsy flier, capable only of short, labored glides between adjacent trees. The chicks hatch with two distinct, articulated claws on the first and second digits of each wing, which are shed by the time they reach adulthood.",
+      "zh": "麝雉体型与雉鸡相当，体长约65厘米，其特征是头部比例偏小、颈部粗长，且头顶生有引人注目的刺状红棕色羽冠。其面部皮肤裸露呈亮蓝色，与深栗红色的眼睛形成鲜明对比。羽毛呈现复杂的镶嵌图案：上半身呈深烟褐色，背部和翼覆羽带有浓密的浅黄色纵纹；下半身呈浅黄色，向两胁、初级覆羽和尾下覆羽过渡为浓郁的红栗色。尾羽长而宽阔，呈古铜绿色，末端有一条宽阔的浅黄色条带。在解剖学上，麝雉最深刻的改变在于其消化道。它的嗉囊极度肥大且充满肌肉，充当发酵室。为了容纳这个巨大的器官，其胸骨（龙骨突）严重退化和变形，极大地限制了飞行肌肉的附着面积。因此，麝雉的飞行能力极弱且笨拙，只能在相邻树木之间进行短距离、吃力的滑翔。雏鸟孵化时，每个翅膀的第一和第二指上长有两个明显的、具关节的指爪，这些指爪在它们成年时会脱落。"
+    },
+    "ecology_and_behavior": {
+      "en": "Hoatzins are strictly folivorous, an extreme rarity among birds. Their diet consists almost entirely of the leaves of marsh and riparian plants, particularly those of the Araceae and Leguminosae families, supplemented occasionally by flowers and fruits. The foregut fermentation process is slow, taking up to 48 hours to digest a single meal, and produces a strong, musky, manure-like odor, earning them the moniker 'stinkbird'. This odor, combined with the toxicity of their diet, renders them unpalatable to most predators. They are highly gregarious and territorial, living in noisy flocks of up to 40 individuals. Breeding is cooperative; a dominant pair is often assisted by non-breeding helpers (usually offspring from previous years) in incubating the eggs and feeding the chicks with regurgitated, fermented leaf paste. When threatened by arboreal predators such as capuchin monkeys, tayras, or tree boas, the flightless chicks exhibit a remarkable defense mechanism: they drop directly from their overhanging nests into the water below, swim adeptly underwater to evade capture, and later use their wing claws and beak to laboriously climb back up the tree trunk to the nest.",
+      "zh": "麝雉是严格的食叶动物，这在鸟类中极为罕见。它们的饮食几乎完全由沼泽和河岸植物的叶子组成，特别是天南星科和豆科植物，偶尔辅以花朵和果实。前肠发酵过程非常缓慢，消化一顿饭需要长达48小时，并会产生一种强烈的、类似牛粪的麝香味，因此得名“臭鸟”。这种气味加上其食物的毒性，使得大多数捕食者对它们敬而远之。它们具有高度的群居性和领地意识，生活在多达40只个体的嘈杂群体中。繁殖采用合作模式；占主导地位的繁殖对通常会得到非繁殖帮手（通常是往年的后代）的协助，共同孵化卵并用反刍的发酵树叶糊喂养雏鸟。当受到卷尾猴、狐鼬或树蟒等树栖捕食者的威胁时，不会飞的雏鸟会展现出一种惊人的防御机制：它们会直接从悬垂的巢中跳入下方的水中，熟练地潜水以躲避捕捉，待危险解除后，再利用翅膀上的指爪和喙，吃力地沿着树干重新爬回巢中。"
+    },
+    "habitat_and_distribution": {
+      "en": "The hoatzin is strictly confined to the lowland tropical rainforests of the Amazon and Orinoco river basins, rarely found at elevations above 500 meters. Their microhabitat requirements are highly specific: they exclusively inhabit dense, tangled vegetation that directly overhangs slow-moving or stagnant water bodies, such as oxbow lakes (cochas), riparian edges, freshwater swamps, and coastal mangrove forests. This proximity to water is an absolute ecological necessity, providing both their specialized foliar diet and the critical aquatic escape route required by their vulnerable chicks. Their geographic range is vast but patchy, encompassing the river systems of Brazil, Peru, southeastern Colombia, eastern Ecuador, Venezuela, the Guianas, and northern Bolivia.",
+      "zh": "麝雉严格局限于亚马逊河和奥里诺科河流域的低地热带雨林中，极少出现在海拔500米以上的地区。它们对微生境的要求极为苛刻：专门栖息在直接悬垂于水流缓慢或停滞的水体（如牛轭湖、河岸边缘、淡水沼泽和沿海红树林）上方的茂密、纠缠的植被中。这种靠近水域的生境是一种绝对的生态必需，不仅为它们提供了特化的树叶食物来源，也为脆弱的雏鸟提供了至关重要的水上逃生路线。它们的地理分布范围广阔但呈斑块状，涵盖了巴西、秘鲁、哥伦比亚东南部、厄瓜多尔东部、委内瑞拉、圭亚那以及玻利维亚北部的河流系统。"
+    }
+  },
+  "habitat": {
+    "text_en": "Endemic to the Amazon and Orinoco basins, strictly inhabiting riparian forests, swamps, oxbow lakes, and mangroves with vegetation overhanging water.",
+    "text_zh": "特产于亚马逊河和奥里诺科河流域，严格栖息于植被悬垂于水面之上的河岸林、沼泽、牛轭湖和红树林中。",
+    "map_coordinates": [
+      -3.4653,
+      -62.2159
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          9.5,
+          -62.5
+        ],
+        [
+          8.8,
+          -60.5
+        ],
+        [
+          7.5,
+          -58.5
+        ],
+        [
+          6,
+          -57
+        ],
+        [
+          5.2,
+          -54.5
+        ],
+        [
+          4.5,
+          -52
+        ],
+        [
+          3,
+          -50.5
+        ],
+        [
+          1.5,
+          -49.5
+        ],
+        [
+          0,
+          -49
+        ],
+        [
+          -1.5,
+          -48.5
+        ],
+        [
+          -3,
+          -49.5
+        ],
+        [
+          -4.5,
+          -51
+        ],
+        [
+          -6,
+          -53
+        ],
+        [
+          -8,
+          -55
+        ],
+        [
+          -9.5,
+          -57.5
+        ],
+        [
+          -11,
+          -60
+        ],
+        [
+          -12.5,
+          -62.5
+        ],
+        [
+          -14,
+          -64
+        ],
+        [
+          -15.5,
+          -66
+        ],
+        [
+          -16.5,
+          -68
+        ],
+        [
+          -15,
+          -69.5
+        ],
+        [
+          -13.5,
+          -71
+        ],
+        [
+          -12,
+          -72.5
+        ],
+        [
+          -10,
+          -74
+        ],
+        [
+          -8,
+          -75.5
+        ],
+        [
+          -6,
+          -76.5
+        ],
+        [
+          -4,
+          -77
+        ],
+        [
+          -2,
+          -76.5
+        ],
+        [
+          0,
+          -75
+        ],
+        [
+          1.5,
+          -73.5
+        ],
+        [
+          3,
+          -72
+        ],
+        [
+          4.5,
+          -70
+        ],
+        [
+          6,
+          -68.5
+        ],
+        [
+          7.5,
+          -67
+        ],
+        [
+          8.5,
+          -65
+        ],
+        [
+          9.5,
+          -63.5
+        ],
+        [
+          9.5,
+          -62.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/hoatzin.jpg"
+}

@@ -141,3 +141,14 @@ FATAL JSON GENERATION ERROR: Gemini API error: 503
 
 ### [2026-04-03 02:06:53] Review Failed for: 鸳鸯
 FATAL JSON GENERATION ERROR: Gemini API error: 503
+
+### [2026-04-11 00:26:08] Review Failed for: 小蜂虎
+* The `image` field is null, indicating missing data.
+* The `global_distribution_polygons` array does not form a closed linear ring (the first coordinate `[16, -16.5]` and the last coordinate `[12, -16.5]` are not identical), which is a schema-breaking error for valid polygon geometry.
+
+### [2026-04-11 00:37:25] Review Failed for: 三趾翠鸟
+* The `image` field is set to `null` (missing image data).
+
+### [2026-04-11 00:41:36] Review Failed for: 麝雉
+- The `global_distribution_polygons` geometry is schema-breaking because the linear ring is not closed (the first coordinate `[9.5, -62.5]` does not match the last coordinate `[9.5, -63.5]`).
+- The `image` field is set to `null`, meaning the image data is missing.

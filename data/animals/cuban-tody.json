@@ -1,0 +1,200 @@
+{
+  "id": "cuban-tody",
+  "name_zh": "古巴翠鵙",
+  "name_en": "Cuban tody",
+  "scientific_name": "Todus multicolor",
+  "ui_tags": [
+    "Aves",
+    "Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Coraciiformes",
+      "zh": "佛法僧目"
+    },
+    "family": {
+      "en": "Todidae",
+      "zh": "翠鵙科"
+    },
+    "genus": {
+      "en": "Todus",
+      "zh": "翠鵙属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Cuban tody (Todus multicolor) is a diminutive, strikingly vibrant bird endemic to the Cuban archipelago. Characterized by its disproportionately large head, spatulate bill, and a dazzling plumage palette of iridescent greens, ruby reds, and pastel pinks, it is a quintessential representative of the West Indian endemic family Todidae. Despite its tiny stature, it is a voracious insectivore, playing a critical role in regulating arthropod populations within its localized ecosystems.",
+    "zh": "古巴翠鵙（Todus multicolor）是古巴群岛特有的一种体型娇小但色彩极为绚丽的鸟类。它以不成比例的大头部、抹刀状的喙以及由虹彩绿、红宝石色和柔和粉色组成的耀眼羽衣而闻名，是西印度群岛特有科——翠鵙科的典型代表。尽管体型微小，但它是一种贪婪的食虫动物，在其局部生态系统中对调节节肢动物种群起着至关重要的作用。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Measuring a mere 11 centimeters in length and weighing approximately 5 to 7 grams, the Cuban tody exhibits a brilliant emerald-green dorsum that provides excellent camouflage among foliage. Its underparts are predominantly grayish-white, sharply contrasting with a vivid crimson throat patch (gorget), bright pink flanks, and striking yellow lores. The bill is long, flattened, and bicolored—black above and red below—perfectly adapted for snapping up insects. Sub-auricular feathers often display a subtle azure blue tint.",
+      "zh": "古巴翠鵙体长仅约11厘米，重约5至7克，其背部呈现出明亮的翠绿色，在树叶间提供了极佳的伪装。其腹部主要为灰白色，与鲜艳的深红色喉斑、亮粉色的两胁以及醒目的黄色眼端形成强烈对比。它的喙长而扁平，呈双色——上黑下红，非常适合在飞行中捕捉昆虫。耳羽下方通常还带有一抹微妙的蔚蓝色调。"
+    },
+    "ecology_and_behavior": {
+      "en": "This species employs a 'sit-and-wait' foraging strategy, perching motionless on low branches before executing rapid, acrobatic sallies to snatch flying insects, spiders, and occasionally small lizards. They are highly territorial and vocal, frequently emitting a rapid, chattering 'tot-tot-tot' call. During the breeding season, both sexes participate in excavating narrow, tubular nest burrows in earthen banks, ravines, or decaying tree trunks, where the female lays 3 to 4 glossy white eggs.",
+      "zh": "该物种采用“静候伏击”的觅食策略，一动不动地栖息在低矮的树枝上，然后进行快速、杂技般的突击飞行，以捕捉飞行的昆虫、蜘蛛，偶尔也捕食小型蜥蜴。它们具有极强的领地意识且鸣叫频繁，经常发出急促的“tot-tot-tot”颤音。在繁殖季节，雌雄双方会共同在土堤、沟壑或腐朽的树干中挖掘狭窄的管状巢穴，雌鸟在其中产下3到4枚光滑的白卵。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to Cuba and the adjacent Isla de la Juventud, the Cuban tody is highly adaptable, inhabiting a wide spectrum of wooded environments. These include lowland dry forests, montane evergreen forests, coastal scrublands, riparian corridors, and anthropogenic habitats such as shade-grown coffee plantations. They generally prefer areas with dense understory vegetation and exposed earthen banks suitable for nesting.",
+      "zh": "古巴翠鵙是古巴主岛及邻近的青年岛（Isla de la Juventud）的特有种，具有极强的适应性，栖息于各种林地环境中。这些环境包括低地旱林、山地常绿林、沿海灌丛、河岸廊道以及如遮荫咖啡种植园等人类活动影响的栖息地。它们通常偏好具有茂密林下植被和适合筑巢的裸露土堤的区域。"
+    }
+  },
+  "habitat": {
+    "text_en": "Endemic to the Cuban archipelago, inhabiting dry and moist forests, coastal woodlands, and shade coffee plantations.",
+    "text_zh": "古巴群岛特有种，栖息于旱林、湿润林、沿海林地以及遮荫咖啡种植园中。",
+    "map_coordinates": [
+      21.5,
+      -79
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [
+        [
+          21.86,
+          -84.95
+        ],
+        [
+          22.35,
+          -84.3
+        ],
+        [
+          22.85,
+          -83.6
+        ],
+        [
+          23.15,
+          -82.38
+        ],
+        [
+          23.2,
+          -81.15
+        ],
+        [
+          22.85,
+          -80.2
+        ],
+        [
+          22.5,
+          -79.1
+        ],
+        [
+          22.3,
+          -78.2
+        ],
+        [
+          21.6,
+          -77.1
+        ],
+        [
+          21.15,
+          -76.1
+        ],
+        [
+          20.75,
+          -75.3
+        ],
+        [
+          20.25,
+          -74.15
+        ],
+        [
+          19.95,
+          -75.1
+        ],
+        [
+          19.9,
+          -76.2
+        ],
+        [
+          19.84,
+          -77.73
+        ],
+        [
+          20.5,
+          -77.5
+        ],
+        [
+          20.8,
+          -78.5
+        ],
+        [
+          21.5,
+          -79.5
+        ],
+        [
+          21.8,
+          -80.5
+        ],
+        [
+          22.1,
+          -81.5
+        ],
+        [
+          22,
+          -82.5
+        ],
+        [
+          21.8,
+          -83.5
+        ],
+        [
+          21.86,
+          -84.95
+        ]
+      ],
+      [
+        [
+          21.85,
+          -82.8
+        ],
+        [
+          21.9,
+          -82.6
+        ],
+        [
+          21.75,
+          -82.3
+        ],
+        [
+          21.6,
+          -82.4
+        ],
+        [
+          21.5,
+          -82.6
+        ],
+        [
+          21.55,
+          -82.9
+        ],
+        [
+          21.7,
+          -83.1
+        ],
+        [
+          21.85,
+          -82.8
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/cuban-tody.jpg"
+}

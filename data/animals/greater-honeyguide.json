@@ -1,0 +1,274 @@
+{
+  "id": "greater-honeyguide",
+  "name_zh": "大响蜜鴷",
+  "name_en": "Greater honeyguide",
+  "scientific_name": "Indicator indicator",
+  "ui_tags": [
+    "Aves",
+    "Savanna",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Piciformes",
+      "zh": "䴕形目"
+    },
+    "family": {
+      "en": "Indicatoridae",
+      "zh": "响蜜鴷科"
+    },
+    "genus": {
+      "en": "Indicator",
+      "zh": "响蜜鴷属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Greater Honeyguide (Indicator indicator) is a remarkable avian species renowned for its highly evolved mutualistic foraging relationship with humans, and historically, honey badgers. Endemic to Sub-Saharan Africa, this species possesses a unique physiological adaptation: cerophagy, the ability to digest beeswax, facilitated by symbiotic gut microbiota including Micrococcus cerolyticus. Beyond its mutualism, it is a virulent obligate brood parasite. Females lay their eggs in the subterranean or cavity nests of barbets, bee-eaters, and kingfishers. Upon hatching, the blind, featherless honeyguide chick utilizes a specialized, sharply hooked mandibular egg-tooth to systematically lacerate and kill its foster siblings, ensuring monopolization of host provisioning.",
+    "zh": "大响蜜鴷（Indicator indicator）是一种非凡的鸟类，以其与人类（以及历史上认为的蜜獾）之间高度进化的互利共生觅食关系而闻名。作为撒哈拉以南非洲的特有种，该物种拥有一种独特的生理适应能力：食蜡性（cerophagy），即在包括解蜡微球菌（Micrococcus cerolyticus）在内的肠道共生微生物的帮助下消化蜂蜡。除了互利共生外，它还是一种极其凶狠的专性巢寄生鸟类。雌鸟会将卵产在拟啄木鸟、食蜂鸟和翠鸟的地下或树洞巢穴中。孵化后，失明且无毛的响蜜鴷雏鸟会利用其喙部特化的、极其锋利的钩状“卵齿”，系统性地撕裂并杀死宿主的雏鸟，从而确保独占宿主的哺育资源。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Morphologically unassuming, the Greater Honeyguide exhibits sexual dimorphism; males feature a dark throat and white ear coverts, while females are predominantly drab olive-grey. Their skin is exceptionally thick, an evolutionary defense against the stings of Apis mellifera scutellata (African honey bees). The digestive tract is highly specialized, featuring a gall bladder that secretes unique bile salts and a hindgut harboring wax-degrading bacteria and yeasts. Nestlings possess a transient but lethal morphological weapon: a sharp, decurved hook on the upper and lower mandibles, which is shed after the host's biological offspring have been eliminated.",
+      "zh": "在形态上，大响蜜鴷显得其貌不扬，但具有两性异形特征；雄鸟具有深色的喉部和白色的耳羽，而雌鸟则主要呈暗淡的橄榄灰色。它们的皮肤异常坚厚，这是抵御非洲蜜蜂（Apis mellifera scutellata）蛰咬的进化防御机制。其消化道高度特化，胆囊能分泌独特的胆盐，后肠则寄宿着能降解蜂蜡的细菌和酵母菌。雏鸟拥有一种短暂却致命的形态武器：上下颌骨上长有锋利且向下弯曲的钩子，在成功清除宿主的亲生后代后，这些钩子便会脱落。"
+    },
+    "ecology_and_behavior": {
+      "en": "The species' most celebrated behavior is its active guiding of human honey-hunters to wild beehives. The bird initiates contact with a distinctive 'tjerr-tjerr' chatter, flitting from tree to tree to indicate the direction and distance of the hive. In return for its navigational services, the honeyguide consumes the wax combs and larvae left behind after the humans harvest the honey. Ecologically, it is an obligate brood parasite. Females monitor host nest excavation and puncture host eggs during oviposition. The incubation period is exceptionally short (12-18 days), allowing the honeyguide chick to hatch first and eliminate competition.",
+      "zh": "该物种最著名的行为是主动引导人类采蜜者寻找野生蜂巢。这种鸟会发出独特的“tjerr-tjerr”颤音来建立联系，并在树木间穿梭飞跃，以指示蜂巢的方向和距离。作为对其导航服务的回报，响蜜鴷会食用人类采蜜后遗留的蜂蜡巢脾和蜜蜂幼虫。在生态学上，它是一种专性巢寄生者。雌鸟会监视宿主挖掘巢穴的过程，并在产卵时刺破宿主的卵。其孵化期极短（12-18天），这使得响蜜鴷雏鸟能够率先破壳并消灭竞争对手。"
+    },
+    "habitat_and_distribution": {
+      "en": "Widely distributed across Sub-Saharan Africa, the Greater Honeyguide avoids the dense, closed-canopy equatorial rainforests of the Congo Basin and extreme arid deserts like the Sahara and Namib. It exhibits a strong preference for dry, open woodlands, broadleaf savannas (such as miombo and acacia woodlands), riparian fringes, and cultivated areas with scattered trees. Its distribution is closely tied to the availability of both suitable cavity-nesting host species and robust populations of wild honey bees.",
+      "zh": "大响蜜鴷广泛分布于撒哈拉以南非洲，但避开了刚果盆地茂密郁闭的赤道雨林以及撒哈拉和纳米布等极端干旱的沙漠地带。它强烈偏好干燥开阔的林地、阔叶稀树草原（如相思树林和广阔的miombo林）、河岸边缘以及散布着树木的农耕区。其分布范围与合适的洞巢宿主物种以及野生蜜蜂种群的丰富程度密切相关。"
+    }
+  },
+  "habitat": {
+    "text_en": "Open woodlands, savannas, and riparian forests across Sub-Saharan Africa, excluding dense rainforests and extreme deserts.",
+    "text_zh": "撒哈拉以南非洲的开阔林地、稀树草原和河岸林，避开茂密的雨林和极端干旱的沙漠。",
+    "map_coordinates": [
+      -10,
+      20
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          15.5,
+          -16.5
+        ],
+        [
+          14.8,
+          -12
+        ],
+        [
+          13.5,
+          -7.5
+        ],
+        [
+          12.2,
+          -3
+        ],
+        [
+          11.5,
+          2.5
+        ],
+        [
+          10.8,
+          6
+        ],
+        [
+          10,
+          10.5
+        ],
+        [
+          9.2,
+          14
+        ],
+        [
+          8.5,
+          18.5
+        ],
+        [
+          10,
+          22
+        ],
+        [
+          12.5,
+          28
+        ],
+        [
+          14,
+          33.5
+        ],
+        [
+          16,
+          38.5
+        ],
+        [
+          14.5,
+          41
+        ],
+        [
+          11,
+          45.5
+        ],
+        [
+          8,
+          48
+        ],
+        [
+          4.5,
+          46.5
+        ],
+        [
+          1,
+          42
+        ],
+        [
+          -3,
+          40
+        ],
+        [
+          -8,
+          39.5
+        ],
+        [
+          -13,
+          40.5
+        ],
+        [
+          -18,
+          37
+        ],
+        [
+          -23,
+          35.5
+        ],
+        [
+          -28,
+          32.5
+        ],
+        [
+          -32,
+          28
+        ],
+        [
+          -34.2,
+          23.5
+        ],
+        [
+          -33.5,
+          19
+        ],
+        [
+          -29,
+          17.5
+        ],
+        [
+          -24,
+          16
+        ],
+        [
+          -19,
+          14.5
+        ],
+        [
+          -14,
+          13
+        ],
+        [
+          -9,
+          13.5
+        ],
+        [
+          -6,
+          12.5
+        ],
+        [
+          -4.5,
+          15
+        ],
+        [
+          -6.5,
+          18.5
+        ],
+        [
+          -8,
+          23
+        ],
+        [
+          -5.5,
+          27.5
+        ],
+        [
+          -1,
+          29
+        ],
+        [
+          2.5,
+          29.5
+        ],
+        [
+          4,
+          25
+        ],
+        [
+          4.5,
+          20
+        ],
+        [
+          3.5,
+          16
+        ],
+        [
+          5,
+          11
+        ],
+        [
+          4.5,
+          6.5
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          4.5,
+          -4
+        ],
+        [
+          6,
+          -8.5
+        ],
+        [
+          8.5,
+          -13
+        ],
+        [
+          12,
+          -16.5
+        ],
+        [
+          15.5,
+          -16.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/greater-honeyguide.jpg"
+}

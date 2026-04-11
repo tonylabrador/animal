@@ -1,0 +1,268 @@
+{
+  "id": "noisy-pitta",
+  "name_zh": "噪八色鸫",
+  "name_en": "Noisy pitta",
+  "scientific_name": "Pitta versicolor",
+  "ui_tags": [
+    "Aves",
+    "Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Pittidae",
+      "zh": "八色鸫科"
+    },
+    "genus": {
+      "en": "Pitta",
+      "zh": "八色鸫属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Noisy Pitta (Pitta versicolor) is a strikingly colorful, predominantly terrestrial passerine endemic to the eastern seaboard of Australia and southern New Guinea. Characterized by its robust morphology, it possesses a stout bill adapted for malacophagy, elongated tarsi for cursorial locomotion through dense undergrowth, and a highly abbreviated tail. Its plumage is a vivid mosaic of emerald green, azure blue, jet black, and vibrant crimson, serving both as camouflage in the dappled light of the forest floor and as intraspecific signaling.",
+    "zh": "噪八色鸫是一种色彩斑斓、主要在地面活动的雀形目鸟类，特产于澳大利亚东海岸和新几内亚南部。它体型粗壮，拥有适应食螺习性的坚固喙部、适合在茂密林下植被中奔跑的修长跗跖以及极度退化的短尾。其羽毛呈现出翠绿、蔚蓝、乌黑与鲜红交织的生动马赛克图案，既能在森林地面的斑驳光影中提供伪装，又可用于种内视觉通讯。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Exhibits pronounced sexual monomorphism. The crown is a rich chestnut with a distinct black central stripe, while the lores, ear coverts, and nape are deep black. The mantle and back are a lustrous olive-green, contrasting sharply with iridescent turquoise lesser coverts and rump. The underparts are predominantly tawny-buff, terminating in a brilliant scarlet vent and undertail coverts. The primary remiges feature white patches conspicuous during its undulating flight. The robust, slightly decurved bill is specialized for fracturing the calcareous shells of terrestrial gastropods.",
+      "zh": "表现出明显的雌雄同型。头顶呈浓郁的栗色，中央具明显的黑色纵纹，而眼先、耳羽和颈背则呈深黑色。背部和翕部呈光泽的橄榄绿色，与闪烁着虹彩的绿松石色小覆羽和腰部形成鲜明对比。下体主要为黄褐色，至尾下覆羽和腹部末端过渡为耀眼的猩红色。初级飞羽带有白色斑块，在其波浪状飞行时尤为醒目。粗壮且微下弯的喙部经过特化，专门用于击碎陆生腹足纲动物的钙质外壳。"
+    },
+    "ecology_and_behavior": {
+      "en": "A diurnal, solitary forager of the leaf litter, the Noisy Pitta is renowned for its specialized diet of land snails, insects, and myriapods. It employs a unique behavioral adaptation: utilizing specific stones or hard roots as 'anvils' to repeatedly smash snail shells, leaving behind diagnostic middens of fragmented shells. Its vocalization is a highly resonant, bi-syllabic whistle often transcribed as 'walk-to-work,' which reverberates through the dense canopy during the breeding season. Populations exhibit partial altitudinal and latitudinal migration, with southern cohorts moving northward during the austral winter.",
+      "zh": "作为一种日行性、独居的落叶层觅食者，噪八色鸫以其专门捕食陆生蜗牛、昆虫和多足类动物的食性而闻名。它采用了一种独特的行为适应：利用特定的石头或坚硬的树根作为“铁砧”，反复敲击以击碎蜗牛壳，并在原地留下特征性的碎壳堆。其鸣叫声是一种极具穿透力的双音节哨音，常被拟音为“walk-to-work”，在繁殖季节会回荡在茂密的林冠中。其种群表现出部分的海拔和纬度迁徙性，南部种群在南半球冬季会向北移动。"
+    },
+    "habitat_and_distribution": {
+      "en": "Strictly associated with closed-canopy environments, its habitat encompasses tropical and subtropical rainforests, wet sclerophyll forests, monsoon thickets, and occasionally coastal mangroves. The distribution is strongly linear, tracking the Great Dividing Range along the eastern Australian coast from the Cape York Peninsula in Queensland south to the Hunter Region in New South Wales, extending across the Torres Strait into the Trans-Fly savanna and forest ecoregions of southern New Guinea.",
+      "zh": "严格依赖于郁闭林冠环境，其栖息地包括热带和亚热带雨林、湿润硬叶林、季风灌丛，偶尔也见于沿海红树林。其分布呈强烈的线状，沿着澳大利亚东海岸的大分水岭，从昆士兰州的约克角半岛向南延伸至新南威尔士州的猎人谷地区，并跨越托雷斯海峡，延伸至新几内亚南部的跨弗莱稀树草原和森林生态区。"
+    }
+  },
+  "habitat": {
+    "text_en": "Eastern coast of Australia and southern New Guinea, primarily in rainforests and wet sclerophyll forests.",
+    "text_zh": "澳大利亚东海岸及新几内亚南部，主要栖息于雨林和湿润硬叶林中。",
+    "map_coordinates": [
+      -20,
+      146
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -10.68,
+          142.53
+        ],
+        [
+          -12.25,
+          143.75
+        ],
+        [
+          -14.1,
+          143.6
+        ],
+        [
+          -15.45,
+          145.2
+        ],
+        [
+          -16.92,
+          145.77
+        ],
+        [
+          -18.5,
+          146.15
+        ],
+        [
+          -19.25,
+          146.8
+        ],
+        [
+          -20.4,
+          148.65
+        ],
+        [
+          -21.15,
+          149.2
+        ],
+        [
+          -22.5,
+          150.75
+        ],
+        [
+          -24.8,
+          152.35
+        ],
+        [
+          -26.5,
+          153.1
+        ],
+        [
+          -28.6,
+          153.6
+        ],
+        [
+          -30.3,
+          153.15
+        ],
+        [
+          -32.75,
+          152.15
+        ],
+        [
+          -34.45,
+          150.9
+        ],
+        [
+          -35.1,
+          150.6
+        ],
+        [
+          -34.8,
+          150.1
+        ],
+        [
+          -33.5,
+          150.3
+        ],
+        [
+          -31.2,
+          152
+        ],
+        [
+          -29.5,
+          152.4
+        ],
+        [
+          -27.8,
+          152.1
+        ],
+        [
+          -25.5,
+          151.2
+        ],
+        [
+          -23.1,
+          149.8
+        ],
+        [
+          -21.5,
+          148.2
+        ],
+        [
+          -19.8,
+          145.9
+        ],
+        [
+          -18.1,
+          144.8
+        ],
+        [
+          -16.5,
+          144.1
+        ],
+        [
+          -14.8,
+          142.9
+        ],
+        [
+          -13.1,
+          142.3
+        ],
+        [
+          -11.5,
+          142.1
+        ],
+        [
+          -10.68,
+          142.53
+        ]
+      ],
+      [
+        [
+          -8.5,
+          143.2
+        ],
+        [
+          -8.8,
+          143.8
+        ],
+        [
+          -9.1,
+          144.5
+        ],
+        [
+          -9.3,
+          145.2
+        ],
+        [
+          -9.5,
+          146.1
+        ],
+        [
+          -9.8,
+          146.8
+        ],
+        [
+          -10.1,
+          147.3
+        ],
+        [
+          -10.4,
+          146.9
+        ],
+        [
+          -10.2,
+          146.1
+        ],
+        [
+          -9.9,
+          145.3
+        ],
+        [
+          -9.6,
+          144.4
+        ],
+        [
+          -9.4,
+          143.6
+        ],
+        [
+          -9.1,
+          142.8
+        ],
+        [
+          -8.8,
+          142.1
+        ],
+        [
+          -8.5,
+          142.5
+        ],
+        [
+          -8.5,
+          143.2
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/noisy-pitta.jpg"
+}

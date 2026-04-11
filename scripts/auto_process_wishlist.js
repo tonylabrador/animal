@@ -24,10 +24,10 @@ I will provide you with an animal name (Chinese / English / Scientific).
 You MUST generate a perfectly formatted JSON file for this animal following the exact schema used in the Wild Explorer app.
 
 CRITICAL INSTRUCTIONS:
-1. 简介清楚详细 (Descriptions must be highly detailed, informative, and hardcore, both EN and ZH).
-2. 分布地图精确 (Map coordinates MUST precisely outline realistic terrains/coasts with many points).
-3. 分布地图不要大方框 (ABSOLUTELY NO lazy 4-point rectangular bounding boxes. Draw detailed polygons).
-4. ALL horizontal arrays for polygons: The global_distribution_polygons array should try to remain tight.
+1. 简介详尽细致深奥 (Descriptions MUST be extremely detailed, providing extensive facts, physical traits, and intricate ecological roles. Write as a hardcore encyclopedia, both EN and ZH).
+2. 极高精度分布地图 (Map coordinates MUST precisely outline realistic terrains, coasts, and distinct regional borders. Use AT LEAST 15-20 geographic coordinate points per polygon).
+3. 严禁敷衍的方框 (ABSOLUTELY NO lazy 4-point or 5-point rectangular bounding boxes. Draw completely organic, complex polygons that follow real geographical features strictly).
+4. ALL horizontal arrays for polygons: The global_distribution_polygons array coords should try to remain tight on a single line.
 5. TAXONOMY RULE: For all whales, dolphins, and even-toed ungulates, you MUST use the order "Cetartiodactyla" (鲸偶蹄目) instead of Cetacea or Artiodactyla.
 6. Return ONLY raw JSON text. No markdown formatting (\`\`\`json). No apologies.
 
@@ -73,7 +73,7 @@ Respond with STRICTLY "PASS" if the JSON is highly detailed and polygons look or
 If there are ANY issues, respond with a short bulleted list of the errors found. DO NOT fix the JSON, just list the errors. Return ONLY the bullet points.`;
 
 async function callGemini(systemPrompt, userText) {
-    const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key=${API_KEY}`, {
+    const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-pro-preview:generateContent?key=${API_KEY}`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -195,7 +195,7 @@ async function runAutoPipeline() {
                 logReviewIssue(animal.zh, `FATAL JSON GENERATION ERROR: ${err.message}`);
             }
             // Sleep to avoid rate limits
-            await new Promise(r => setTimeout(r, 2000));
+            await new Promise(r => setTimeout(r, 4000));
         }
 
         // 2. Run Update Scripts (List & Images)
@@ -253,8 +253,8 @@ async function runAutoPipeline() {
         if (newWishlist.length === 0) {
             break;
         } else {
-            console.log(`⏳ Waiting 5 seconds before next batch to cool off API...`);
-            await new Promise(r => setTimeout(r, 5000));
+            console.log(`⏳ Waiting 10 seconds before next batch to cool off API...`);
+            await new Promise(r => setTimeout(r, 10000));
         }
     }
 

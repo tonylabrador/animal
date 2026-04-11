@@ -1,0 +1,302 @@
+{
+  "id": "emerald-cockroach-wasp",
+  "name_zh": "长背泥蜂",
+  "name_en": "Emerald cockroach wasp",
+  "scientific_name": "Ampulex compressa",
+  "ui_tags": [
+    "Insecta",
+    "Tropical",
+    "Parasitoid"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Insecta",
+      "zh": "昆虫纲"
+    },
+    "order": {
+      "en": "Hymenoptera",
+      "zh": "膜翅目"
+    },
+    "family": {
+      "en": "Ampulicidae",
+      "zh": "长背泥蜂科"
+    },
+    "genus": {
+      "en": "Ampulex",
+      "zh": "长背泥蜂属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "The emerald cockroach wasp, or jewel wasp, is a solitary parasitoid wasp renowned for its extraordinary reproductive behavior, which involves the precise neurotoxic manipulation of a host cockroach. Exhibiting a striking metallic blue-green exoskeleton with contrasting crimson-hued femurs, this hymenopteran is a master of neurobiological warfare, capable of turning its prey into a compliant, living incubator for its offspring.",
+    "zh": "长背泥蜂（又称扁头泥蜂或宝石蜂）是一种独居的寄生性蜂类，以其非凡的繁殖行为而闻名，该行为涉及对宿主蟑螂进行极其精确的神经毒素操纵。这种膜翅目昆虫展现出引人注目的金属蓝绿色外骨骼和鲜红色的腿部股节，是自然界中名副其实的神经生物学战争大师，能够将其猎物变成顺从的、活体孵化器以繁育后代。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Females measure approximately 22 millimeters in length, possessing a robust, laterally compressed abdomen and a specialized stinger equipped with mechanosensory and chemosensory organs capable of navigating the internal anatomy of a cockroach's nervous system. The exoskeleton is highly sclerotized, reflecting structural coloration that produces an iridescent emerald sheen. Males are significantly smaller and lack the specialized venom apparatus required for host zombification.",
+      "zh": "雌蜂体长约22毫米，腹部粗壮且侧扁，拥有一根特化的毒针，该毒针配备了高度发达的机械和化学感觉器官，能够在蟑螂神经系统的内部解剖结构中精准导航。其外骨骼高度骨化，通过结构色反射出虹彩般的翠绿色光泽。雄蜂体型明显较小，且缺乏用于将宿主“僵尸化”的特化毒液器官。"
+    },
+    "ecology_and_behavior": {
+      "en": "The reproductive cycle is a marvel of behavioral manipulation. The female delivers two precise stings to a cockroach: the first into the prothoracic ganglion to induce transient paralysis of the front legs, and the second directly into the sub-esophageal ganglion of the brain. This venom cocktail blocks octopamine receptors, abolishing the host's escape reflex and inducing a hypokinetic state. The wasp then amputates the roach's antennae, drinks its hemolymph, and leads the 'zombified' host by its antennal stumps to a burrow. An egg is oviposited on the host's coxa; the hatching larva subsequently consumes the living roach from the inside out, selectively avoiding vital organs to keep the host alive until pupation.",
+      "zh": "其繁殖周期是行为操纵的奇迹。雌蜂会对蟑螂进行两次精准的蛰刺：第一针刺入前胸神经节以引起前腿短暂瘫痪，第二针则直接刺入大脑的食管下神经节。这种混合毒液阻断了章鱼胺受体，彻底消除了宿主的逃避反射并诱发运动机能减退的“僵尸”状态。随后，泥蜂会咬断蟑螂的触角，吸食其血淋巴，并牵引着这只“僵尸”宿主的触角残端进入洞穴。它将卵产在宿主的基节上；孵化出的幼虫随后从内到外活生生地吞食蟑螂，并有选择性地避开重要器官，以确保宿主在化蛹前保持存活。"
+    },
+    "habitat_and_distribution": {
+      "en": "Native to the tropical and subtropical regions of South Asia, Africa, and the Pacific Islands, this species thrives in warm, humid environments where its primary hosts, such as the American cockroach (Periplaneta americana), are abundant. They are often found in leaf litter, tree crevices, and increasingly in synanthropic environments where human habitation provides a steady supply of host insects.",
+      "zh": "该物种原产于南亚、非洲和太平洋岛屿的热带及亚热带地区，在温暖潮湿的环境中繁衍生息，因为这些地区盛产其主要宿主（如美洲大蠊）。它们通常出没于落叶层、树木裂缝中，并且越来越多地出现在人类居住的伴生环境中，因为人类活动为它们提供了源源不断的宿主昆虫。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical and subtropical forests, leaf litter, and synanthropic environments across South Asia, Southeast Asia, and parts of Africa.",
+    "text_zh": "遍布南亚、东南亚及非洲部分地区的热带和亚热带森林、落叶层以及人类伴生环境。",
+    "map_coordinates": [
+      15,
+      80
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          22,
+          70
+        ],
+        [
+          18,
+          73
+        ],
+        [
+          15,
+          74
+        ],
+        [
+          11,
+          76
+        ],
+        [
+          8,
+          77
+        ],
+        [
+          9,
+          80
+        ],
+        [
+          6,
+          80
+        ],
+        [
+          7,
+          81.5
+        ],
+        [
+          9.5,
+          80.5
+        ],
+        [
+          13,
+          80
+        ],
+        [
+          17,
+          83
+        ],
+        [
+          20,
+          86
+        ],
+        [
+          22,
+          90
+        ],
+        [
+          20,
+          93
+        ],
+        [
+          16,
+          94
+        ],
+        [
+          10,
+          98
+        ],
+        [
+          5,
+          100
+        ],
+        [
+          1.5,
+          103.5
+        ],
+        [
+          5,
+          96
+        ],
+        [
+          0,
+          100
+        ],
+        [
+          -5,
+          104
+        ],
+        [
+          -6,
+          106
+        ],
+        [
+          -8,
+          110
+        ],
+        [
+          -8.5,
+          114
+        ],
+        [
+          -3,
+          114
+        ],
+        [
+          0,
+          117
+        ],
+        [
+          5,
+          119
+        ],
+        [
+          7,
+          117
+        ],
+        [
+          2,
+          111
+        ],
+        [
+          10,
+          106
+        ],
+        [
+          14,
+          109
+        ],
+        [
+          18,
+          106
+        ],
+        [
+          15,
+          100
+        ],
+        [
+          25,
+          90
+        ],
+        [
+          27,
+          80
+        ],
+        [
+          25,
+          75
+        ],
+        [
+          22,
+          70
+        ]
+      ],
+      [
+        [
+          -12,
+          49
+        ],
+        [
+          -15,
+          50
+        ],
+        [
+          -20,
+          48
+        ],
+        [
+          -25,
+          45
+        ],
+        [
+          -22,
+          43
+        ],
+        [
+          -16,
+          45
+        ],
+        [
+          -12,
+          49
+        ]
+      ],
+      [
+        [
+          -20,
+          35
+        ],
+        [
+          -15,
+          40
+        ],
+        [
+          -10,
+          40
+        ],
+        [
+          -5,
+          39
+        ],
+        [
+          0,
+          41
+        ],
+        [
+          5,
+          46
+        ],
+        [
+          10,
+          51
+        ],
+        [
+          12,
+          43
+        ],
+        [
+          5,
+          38
+        ],
+        [
+          0,
+          35
+        ],
+        [
+          -10,
+          33
+        ],
+        [
+          -20,
+          35
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/emerald-cockroach-wasp.jpg"
+}

@@ -1,0 +1,210 @@
+{
+  "id": "little-bee-eater",
+  "name_zh": "小蜂虎",
+  "name_en": "Little bee-eater",
+  "scientific_name": "Merops pusillus",
+  "ui_tags": [
+    "Aves",
+    "Savanna",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Coraciiformes",
+      "zh": "佛法僧目"
+    },
+    "family": {
+      "en": "Meropidae",
+      "zh": "蜂虎科"
+    },
+    "genus": {
+      "en": "Merops",
+      "zh": "蜂虎属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The little bee-eater (Merops pusillus) is a diminutive, brilliantly colored near-passerine bird belonging to the family Meropidae. As the smallest African bee-eater, it measures a mere 15–17 centimeters in length. Its plumage is a striking mosaic of emerald green upperparts, a vibrant yellow throat, and a distinct black gorget that separates the throat from a rich rufous-chestnut upper breast, which seamlessly transitions into an ochre belly. A prominent black eye-stripe masks its face, enhancing its predatory gaze. Ecologically, it is a highly specialized aerial insectivore, demonstrating remarkable agility in capturing hymenopterans on the wing.",
+    "zh": "小蜂虎（学名：Merops pusillus）是蜂虎科中体型最小的非洲物种，体长仅15至17厘米，是一种色彩斑斓的近雀形目鸟类。其上半身覆盖着翠绿色的羽毛，喉部呈鲜艳的亮黄色，一条醒目的黑色领纹将喉部与栗红色的上胸部隔开，向下逐渐过渡为赭黄色的腹部。面部贯穿一条黑色的过眼纹，使其掠食者的凝视更显锐利。在生态学上，它是一种高度特化的空中食虫鸟类，展现出在飞行中捕获膜翅目昆虫的非凡敏捷性。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Morphologically adapted for aerial acrobatics, the little bee-eater possesses short, rounded wings and a streamlined, aerodynamic body. Its bill is long, slender, and decurved, perfectly engineered as a precision forceps for snatching venomous insects from the air. The retinas of its eyes feature twin foveae, granting exceptional binocular vision and depth perception crucial for tracking fast-moving prey against complex backgrounds. Unlike many of its congeners, it lacks the elongated central tail feathers, presenting a more squared-off tail profile.",
+      "zh": "小蜂虎在形态上为适应空中杂技般的飞行而高度演化，拥有短而圆的翅膀和流线型的空气动力学躯体。其喙部细长且向下弯曲，犹如精密的镊子，专为在空中精准捕捉有毒昆虫而设计。其视网膜具有双中央凹，赋予其卓越的双眼视觉和深度感知能力，这对于在复杂的背景下追踪高速移动的猎物至关重要。与许多同属物种不同，它缺乏细长的中央尾羽，尾部轮廓呈现出更为平齐的方形。"
+    },
+    "ecology_and_behavior": {
+      "en": "The species exhibits a highly specialized foraging strategy, hunting primarily from low perches (often less than a meter high) from which it launches rapid, darting sallies to intercept bees, wasps, and hornets. Upon capturing a venomous insect, it returns to its perch and executes a stereotyped 'bee-rubbing' behavior: it repeatedly smashes the insect's head against the branch to kill it, then vigorously rubs the abdomen to discharge the venom and extract the stinger before swallowing. Uniquely among bee-eaters, they are predominantly solitary nesters, excavating nesting tunnels in sandy banks or utilizing abandoned aardvark burrows.",
+      "zh": "该物种展现出高度特化的觅食策略，主要在低矮的栖枝（通常低于一米）上守候，随后发起快速的突击飞行，以拦截蜜蜂、黄蜂和马蜂。在捕获有毒昆虫后，它会返回栖枝并执行一种刻板的“擦蜂”行为：反复将昆虫的头部砸向树枝致其死亡，然后用力摩擦其腹部以排出毒液并拔除毒刺，最后才将其吞下。在蜂虎中极为独特的是，它们主要采取独居繁殖的方式，在沙质河岸挖掘筑巢隧道，或利用废弃的土豚洞穴。"
+    },
+    "habitat_and_distribution": {
+      "en": "Merops pusillus is ubiquitously distributed across Sub-Saharan Africa, occupying a vast expanse of habitats ranging from the Sahelian savannas to the southern African bushveld. It demonstrates a strong preference for open woodlands, grassy plains, and marshy edges, often remaining in close proximity to water sources where insect biomass is concentrated. It avoids dense primary rainforests and hyper-arid deserts, maintaining a resident or locally nomadic presence driven by seasonal rainfall and insect emergence.",
+      "zh": "小蜂虎广泛分布于撒哈拉以南非洲，占据了从萨赫勒稀树草原到南部非洲灌木丛的广阔栖息地。它对开阔的林地、长满草的平原和沼泽边缘表现出强烈的偏好，通常停留在昆虫生物量集中的水源附近。它避开茂密的原始雨林和极端干旱的沙漠，主要受季节性降雨和昆虫羽化的驱动，保持留鸟或局部游荡的生活状态。"
+    }
+  },
+  "habitat": {
+    "text_en": "Sub-Saharan Africa, inhabiting open woodlands, savannas, and marshlands.",
+    "text_zh": "撒哈拉以南非洲，栖息于开阔林地、稀树草原和沼泽地带。",
+    "map_coordinates": [
+      -5,
+      25
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          16,
+          -16.5
+        ],
+        [
+          15.5,
+          -10
+        ],
+        [
+          14.8,
+          -4
+        ],
+        [
+          13.5,
+          2.5
+        ],
+        [
+          14.2,
+          9
+        ],
+        [
+          13.8,
+          15.5
+        ],
+        [
+          14.5,
+          22
+        ],
+        [
+          15.2,
+          28.5
+        ],
+        [
+          16,
+          35
+        ],
+        [
+          15.5,
+          39.5
+        ],
+        [
+          11,
+          43
+        ],
+        [
+          8,
+          48
+        ],
+        [
+          2,
+          45.5
+        ],
+        [
+          -3,
+          40.5
+        ],
+        [
+          -8,
+          39.5
+        ],
+        [
+          -14,
+          40.5
+        ],
+        [
+          -20,
+          35
+        ],
+        [
+          -25,
+          33.5
+        ],
+        [
+          -29,
+          31.5
+        ],
+        [
+          -33,
+          27.5
+        ],
+        [
+          -34,
+          22
+        ],
+        [
+          -30,
+          18
+        ],
+        [
+          -25,
+          16
+        ],
+        [
+          -18,
+          12
+        ],
+        [
+          -12,
+          13.5
+        ],
+        [
+          -6,
+          12
+        ],
+        [
+          -1,
+          9
+        ],
+        [
+          4,
+          9.5
+        ],
+        [
+          6.5,
+          3.5
+        ],
+        [
+          5,
+          -2
+        ],
+        [
+          6,
+          -8
+        ],
+        [
+          8.5,
+          -13.5
+        ],
+        [
+          12,
+          -16.5
+        ],
+        [
+          16,
+          -16.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/little-bee-eater.jpg"
+}

@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **335** 种动物
+**统计**：共 **353** 种动物
 
 ---
 
@@ -224,6 +224,10 @@
 
 - 海象 / Walrus — *Odobenus rosmarus* `walrus`
 
+**海豹科**
+
+- 豹海豹 / Leopard seal — *Hydrurga leptonyx* `leopard-seal`
+
 **熊科**
 
 - 棕熊 / Brown Bear — *Ursus arctos* `brown-bear`
@@ -393,6 +397,10 @@
 
 ### 䴕形目
 
+**响蜜鴷科**
+
+- 大响蜜鴷 / Greater honeyguide — *Indicator indicator* `greater-honeyguide`
+
 **啄木鸟科**
 
 - 象牙喙啄木鸟 / Ivory-billed Woodpecker — *Campephilus principalis* `ivory-billed-woodpecker`
@@ -401,21 +409,37 @@
 
 **企鹅科**
 
+- 阿德利企鹅 / Adélie penguin — *Pygoscelis adeliae* `adelie-penguin`
 - 帝企鹅 / Emperor Penguin — *Aptenodytes forsteri* `emperor-penguin`
 - 王企鹅 / King Penguin — *Aptenodytes patagonicus* `king-penguin`
 
 ### 佛法僧目
 
+**翠鵙科**
+
+- 古巴翠鵙 / Cuban tody — *Todus multicolor* `cuban-tody`
+
 **翠鸟科**
 
+- 三趾翠鸟 / Black-backed Kingfisher — *Ceyx erithaca* `black-backed-kingfisher`
 - 普通翠鸟 / Common Kingfisher — *Alcedo atthis* `common-kingfisher`
 - 笑翠鸟 / Laughing Kookaburra — *Dacelo novaeguineae* `laughing-kookaburra`
+
+**蜂虎科**
+
+- 小蜂虎 / Little bee-eater — *Merops pusillus* `little-bee-eater`
 
 ### 几维目
 
 **几维科**
 
 - 小斑几维鸟 / Little spotted kiwi — *Apteryx owenii* `little-spotted-kiwi`
+
+### 夜鹰目
+
+**夜鹰科**
+
+- 弱夜鹰 / Common poorwill — *Phalaenoptilus nuttallii* `common-poorwill`
 
 ### 林鸱目
 
@@ -453,14 +477,26 @@
 
 - 须钟伞鸟 / Bearded Bellbird — *Procnias averano* `bearded-bellbird`
 
+**八色鸫科**
+
+- 噪八色鸫 / Noisy pitta — *Pitta versicolor* `noisy-pitta`
+
 **园丁鸟科**
 
 - 辉亭鸟 / Flame Bowerbird — *Sericulus ardens* `flame-bowerbird`
+
+**太平鸟科**
+
+- 太平鸟 / Bohemian waxwing — *Bombycilla garrulus* `bohemian-waxwing`
 
 **山雀科**
 
 - 煤山雀 / Coal Tit — *Periparus ater* `coal-tit`
 - 蓝山雀 / Eurasian Blue Tit — *Cyanistes caeruleus* `eurasian-blue-tit`
+
+**扇尾莺科**
+
+- 长尾缝叶莺 / Common tailorbird — *Orthotomus sutorius* `common-tailorbird`
 
 **拟鹂科**
 
@@ -479,6 +515,10 @@
 
 - 八哥 / Crested Myna — *Acridotheres cristatellus* `crested-myna`
 - 普通椋鸟 / European Starling — *Sturnus vulgaris* `european-starling`
+
+**河乌科**
+
+- 河乌 / White-throated dipper — *Cinclus cinclus* `white-throated-dipper`
 
 **燕科**
 
@@ -503,6 +543,10 @@
 - 北美红雀 / Northern Cardinal — *Cardinalis cardinalis* `northern-cardinal`
 - 夏唐纳雀 / Summer Tanager — *Piranga rubra* `summer-tanager`
 
+**长尾山雀科**
+
+- 北长尾山雀 / Long-tailed Tit — *Aegithalos caudatus* `long-tailed-tit`
+
 **鸦科**
 
 - 美洲乌鸦 / American Crow — *Corvus brachyrhynchos* `american-crow`
@@ -510,6 +554,10 @@
 - 渡鸦 / Common Raven — *Corvus corax* `common-raven`
 - 欧亚喜鹊 / Eurasian Magpie — *Pica pica* `eurasian-magpie`
 - 爪哇绿鹊 / Javan green magpie — *Cissa thalassina* `javan-green-magpie`
+
+**鹟科**
+
+- 欧亚鸲 / European robin — *Erithacus rubecula* `european-robin`
 
 **麻雀科**
 
@@ -535,10 +583,12 @@
 **蜂鸟科**
 
 - 安娜蜂鸟 / Anna's Hummingbird — *Calypte anna* `annas-hummingbird`
+- 吸蜜蜂鸟 / Bee hummingbird — *Mellisuga helenae* `bee-hummingbird`
 - 红喉蜂鸟 / Ruby-throated Hummingbird — *Archilochus colubris* `ruby-throated-hummingbird`
 
 **雨燕科**
 
+- 普通楼燕 / Common swift — *Apus apus* `common-swift`
 - 大暗雨燕 / Great dusky swift — *Cypseloides senex* `great-dusky-swift`
 
 ### 鲣鸟目
@@ -573,6 +623,7 @@
 
 **鸱鸮科**
 
+- 姬鸮 / Elf owl — *Micrathene whitneyi* `elf-owl`
 - 雪鸮 / Snowy Owl — *Bubo scandiacus* `snowy-owl`
 - 须角鸮 / Whiskered Screech Owl — *Megascops trichopsis* `whiskered-screech-owl`
 
@@ -674,6 +725,12 @@
 **鹳科**
 
 - 黑鹳 / Black Stork — *Ciconia nigra* `black-stork`
+
+### 麝雉目
+
+**麝雉科**
+
+- 麝雉 / Hoatzin — *Opisthocomus hoazin* `hoatzin`
 
 ---
 
@@ -867,6 +924,10 @@
 **蚁科**
 
 - 布氏游蚁 / Army Ant — *Eciton burchellii* `army-ant`
+
+**长背泥蜂科**
+
+- 长背泥蜂 / Emerald cockroach wasp — *Ampulex compressa* `emerald-cockroach-wasp`
 
 ### 蜚蠊目
 

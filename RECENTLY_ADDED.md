@@ -4,23 +4,23 @@
 
 | # | 中文名 | English Name | Scientific Name | Link |
 |---|--------|-------------|-----------------|------|
-| 1 | 野猪 | Wild Boar | Sus scrofa | [Link](https://wild-explorer.vercel.app/animal/wild-boar) |
-| 2 | 鸳鸯 | Mandarin Duck | Aix galericulata | [Link](https://wild-explorer.vercel.app/animal/mandarin-duck) |
-| 3 | 绿头鸭 | Mallard | Anas platyrhynchos | [Link](https://wild-explorer.vercel.app/animal/mallard) |
-| 4 | 鸿雁 | Swan Goose | Anser cygnoides | [Link](https://wild-explorer.vercel.app/animal/swan-goose) |
-| 5 | 金黄鹂 | Eurasian Golden Oriole | Oriolus oriolus | [Link](https://wild-explorer.vercel.app/animal/eurasian-golden-oriole) |
-| 6 | 美洲红鹮 | Scarlet Ibis | Eudocimus ruber | [Link](https://wild-explorer.vercel.app/animal/scarlet-ibis) |
-| 7 | 苍鹰 | Northern Goshawk | Accipiter gentilis | [Link](https://wild-explorer.vercel.app/animal/northern-goshawk) |
-| 8 | 胭脂鱼 | Chinese high fin banded shark | Myxocyprinus asiaticus | [Link](https://wild-explorer.vercel.app/animal/chinese-high-fin-banded-shark) |
-| 9 | 鲢 | Silver Carp | Hypophthalmichthys molitrix | [Link](https://wild-explorer.vercel.app/animal/silver-carp) |
-| 10 | 鳙鱼 | Bighead Carp | Hypophthalmichthys nobilis | [Link](https://wild-explorer.vercel.app/animal/bighead-carp) |
-| 11 | 辉亭鸟 | Flame Bowerbird | Sericulus ardens | [Link](https://wild-explorer.vercel.app/animal/flame-bowerbird) |
-| 12 | 鹃鵙 | Cuckoo roller | Leptosomus discolor | [Link](https://wild-explorer.vercel.app/animal/cuckoo-roller) |
-| 13 | 家蟋蟀 | House Cricket | Acheta domesticus | [Link](https://wild-explorer.vercel.app/animal/house-cricket) |
-| 14 | 北美真螽 | Common True Katydid | Pterophylla camellifolia | [Link](https://wild-explorer.vercel.app/animal/common-true-katydid) |
-| 15 | 东草地鹨 | Eastern meadowlark | Sturnella magna | [Link](https://wild-explorer.vercel.app/animal/eastern-meadowlark) |
-| 16 | 北美金翅雀 | American Goldfinch | Spinus tristis | [Link](https://wild-explorer.vercel.app/animal/american-goldfinch) |
-| 17 | 蓝脚鲣鸟 | Blue-footed booby | Sula nebouxi | [Link](https://wild-explorer.vercel.app/animal/blue-footed-booby) |
-| 18 | 壮丽细尾鹩莺 | Superb Fairy-wren | Malurus cyaneus | [Link](https://wild-explorer.vercel.app/animal/superb-fairy-wren) |
-| 19 | 斑马跳蛛 | Zebra jumping spider | Salticus scenicus | [Link](https://wild-explorer.vercel.app/animal/zebra-jumping-spider) |
-| 20 | 威氏极乐鸟 | Wilson's Bird-of-paradise | Cicinnurus respublica | [Link](https://wild-explorer.vercel.app/animal/wilsons-bird-of-paradise) |
+| 1 | 阿德利企鹅 | Adélie penguin | Pygoscelis adeliae | [Link](https://wild-explorer.vercel.app/animal/adelie-penguin) |
+| 2 | 豹海豹 | Leopard seal | Hydrurga leptonyx | [Link](https://wild-explorer.vercel.app/animal/leopard-seal) |
+| 3 | 麝雉 | Hoatzin | Opisthocomus hoazin | [Link](https://wild-explorer.vercel.app/animal/hoatzin) |
+| 4 | 北长尾山雀 | Long-tailed Tit | Aegithalos caudatus | [Link](https://wild-explorer.vercel.app/animal/long-tailed-tit) |
+| 5 | 欧亚鸲 | European robin | Erithacus rubecula | [Link](https://wild-explorer.vercel.app/animal/european-robin) |
+| 6 | 姬鸮 | Elf owl | Micrathene whitneyi | [Link](https://wild-explorer.vercel.app/animal/elf-owl) |
+| 7 | 三趾翠鸟 | Black-backed Kingfisher | Ceyx erithaca | [Link](https://wild-explorer.vercel.app/animal/black-backed-kingfisher) |
+| 8 | 长尾缝叶莺 | Common tailorbird | Orthotomus sutorius | [Link](https://wild-explorer.vercel.app/animal/common-tailorbird) |
+| 9 | 古巴翠鵙 | Cuban tody | Todus multicolor | [Link](https://wild-explorer.vercel.app/animal/cuban-tody) |
+| 10 | 吸蜜蜂鸟 | Bee hummingbird | Mellisuga helenae | [Link](https://wild-explorer.vercel.app/animal/bee-hummingbird) |
+| 11 | 噪八色鸫 | Noisy pitta | Pitta versicolor | [Link](https://wild-explorer.vercel.app/animal/noisy-pitta) |
+| 12 | 大响蜜鴷 | Greater honeyguide | Indicator indicator | [Link](https://wild-explorer.vercel.app/animal/greater-honeyguide) |
+| 13 | 太平鸟 | Bohemian waxwing | Bombycilla garrulus | [Link](https://wild-explorer.vercel.app/animal/bohemian-waxwing) |
+| 14 | 河乌 | White-throated dipper | Cinclus cinclus | [Link](https://wild-explorer.vercel.app/animal/white-throated-dipper) |
+| 15 | 普通楼燕 | Common swift | Apus apus | [Link](https://wild-explorer.vercel.app/animal/common-swift) |
+| 16 | 小蜂虎 | Little bee-eater | Merops pusillus | [Link](https://wild-explorer.vercel.app/animal/little-bee-eater) |
+| 17 | 弱夜鹰 | Common poorwill | Phalaenoptilus nuttallii | [Link](https://wild-explorer.vercel.app/animal/common-poorwill) |
+| 18 | 长背泥蜂 | Emerald cockroach wasp | Ampulex compressa | [Link](https://wild-explorer.vercel.app/animal/emerald-cockroach-wasp) |
+| 19 | 野猪 | Wild Boar | Sus scrofa | [Link](https://wild-explorer.vercel.app/animal/wild-boar) |
+| 20 | 鸳鸯 | Mandarin Duck | Aix galericulata | [Link](https://wild-explorer.vercel.app/animal/mandarin-duck) |

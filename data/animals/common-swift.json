@@ -1,0 +1,276 @@
+{
+  "id": "common-swift",
+  "name_zh": "普通楼燕",
+  "name_en": "Common swift",
+  "scientific_name": "Apus apus",
+  "ui_tags": [
+    "Aves",
+    "Aerial",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Apodiformes",
+      "zh": "雨燕目"
+    },
+    "family": {
+      "en": "Apodidae",
+      "zh": "雨燕科"
+    },
+    "genus": {
+      "en": "Apus",
+      "zh": "雨燕属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The common swift is a medium-sized aerial bird, superficially similar to the barn swallow but entirely unrelated, being part of the order Apodiformes. They are renowned for their extreme aerial lifestyle, capable of remaining airborne for up to ten months without landing, sleeping, eating, and mating on the wing. They have very short legs, used primarily for clinging to vertical surfaces, and long, swept-back wings that resemble a crescent or a boomerang, showcasing unparalleled aerodynamic efficiency.",
+    "zh": "普通楼燕是一种中型空中飞禽，外表虽与家燕相似，但两者并无亲缘关系，属于雨燕目。它们以极端的空中生活方式而闻名，能够连续在空中飞行长达十个月而不落地，甚至在飞行中完成睡眠、进食和交配。它们的腿极其短小，主要用于攀附垂直表面，而其狭长且向后弯曲的翅膀在飞行时宛如新月或回旋镖，展现出无与伦比的空气动力学效率。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Common Swift exhibits extreme morphological adaptations for an exclusively aerial existence. It possesses a highly streamlined, fusiform body covered in sooty-brown plumage, punctuated only by a distinct pale guttural patch. The wings are exceptionally long, narrow, and scythe-like, characterized by elongated primary feathers and reduced secondaries, maximizing lift-to-drag ratio for sustained, low-energy gliding and rapid, agile maneuvers. The feet are pamprodactyl, meaning all four toes are directed forward, an evolutionary trait that precludes perching on horizontal branches but perfectly facilitates clinging to vertical, rough surfaces such as cliff faces and masonry.",
+      "zh": "普通楼燕展现出为完全空中生活而演化的极端形态学适应。其身体呈高度流线型的纺锤状，全身覆盖着黑褐色的羽毛，仅喉部带有一块明显的浅色斑块。其双翼异常狭长，呈镰刀状，初级飞羽极度延长而次级飞羽退化，这种结构最大化了升阻比，使其能够进行持久、低能耗的滑翔以及快速、敏捷的空中机动。其足部为前趾足（四趾均朝前），这一进化特征使其无法在水平树枝上栖息，但却完美地适应了攀附于悬崖峭壁和建筑物外墙等垂直粗糙表面。"
+    },
+    "ecology_and_behavior": {
+      "en": "As an obligate aerial insectivore, Apus apus forages exclusively on the wing, harvesting 'aeroplankton'—a diverse array of airborne insects and spiders caught in thermal updrafts. Their ecological niche is defined by their unparalleled flight endurance; non-breeding individuals can remain continuously airborne for up to ten months, engaging in unihemispheric slow-wave sleep while gliding at high altitudes during the night. Socially, they are highly gregarious, famous for their crepuscular 'screaming parties' where flocks perform synchronized, high-speed flights around nesting colonies, communicating via piercing, high-frequency calls.",
+      "zh": "作为专性空中食虫动物，普通楼燕完全在飞行中觅食，捕食被热气流卷入空中的“大气浮游生物”——包括各种飞行昆虫和蜘蛛。它们的生态位由其无与伦比的飞行耐力所定义；非繁殖期的个体可以连续在空中飞行长达十个月，在夜间高空滑翔时进行单半球慢波睡眠。在社会行为上，它们具有高度群居性，以黄昏时分的“尖叫派对”而闻名，此时鸟群会在繁殖地周围进行同步的高速飞行，并通过刺耳的高频鸣叫进行交流。"
+    },
+    "habitat_and_distribution": {
+      "en": "The breeding range of the Common Swift encompasses the majority of the Palearctic ecozone, stretching from the Iberian Peninsula and the British Isles eastward to the Sino-Mongolian borders. Historically nesting in ancient forests with hollow trees and natural limestone cliffs, the species has become highly synanthropic, predominantly utilizing eaves, crevices, and roof spaces of human architecture. Following the breeding season, they undertake a massive trans-equatorial migration, navigating complex meteorological systems to winter in the equatorial and sub-equatorial savannas and tropical forests of Sub-Saharan Africa.",
+      "zh": "普通楼燕的繁殖区几乎涵盖了整个古北界生态区，从伊比利亚半岛和不列颠群岛向东一直延伸至中蒙边境。历史上，该物种主要在古老森林的树洞和天然石灰岩悬崖上筑巢，但如今已变得高度伴生于人类，主要利用人类建筑物的屋檐、缝隙和屋顶空间。繁殖期结束后，它们会进行大规模的跨赤道迁徙，穿越复杂的微气象系统，前往撒哈拉以南非洲的赤道及亚赤道稀树草原和热带森林越冬。"
+    }
+  },
+  "habitat": {
+    "text_en": "Breeds across the Palearctic region from the Iberian Peninsula to China, and migrates to Sub-Saharan Africa for the winter.",
+    "text_zh": "繁殖区横跨古北界，从伊比利亚半岛一直延伸至中国，冬季则进行长途迁徙，前往撒哈拉以南的非洲地区越冬。",
+    "map_coordinates": [
+      35,
+      20
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          53,
+          -8
+        ],
+        [
+          58,
+          -5
+        ],
+        [
+          60,
+          5
+        ],
+        [
+          65,
+          15
+        ],
+        [
+          68,
+          25
+        ],
+        [
+          65,
+          40
+        ],
+        [
+          60,
+          60
+        ],
+        [
+          58,
+          80
+        ],
+        [
+          55,
+          100
+        ],
+        [
+          52,
+          120
+        ],
+        [
+          45,
+          125
+        ],
+        [
+          40,
+          120
+        ],
+        [
+          35,
+          110
+        ],
+        [
+          30,
+          105
+        ],
+        [
+          35,
+          95
+        ],
+        [
+          40,
+          85
+        ],
+        [
+          35,
+          70
+        ],
+        [
+          30,
+          60
+        ],
+        [
+          35,
+          50
+        ],
+        [
+          30,
+          40
+        ],
+        [
+          32,
+          35
+        ],
+        [
+          35,
+          30
+        ],
+        [
+          32,
+          20
+        ],
+        [
+          35,
+          10
+        ],
+        [
+          36,
+          0
+        ],
+        [
+          36,
+          -5
+        ],
+        [
+          40,
+          -8
+        ],
+        [
+          45,
+          -2
+        ],
+        [
+          50,
+          0
+        ],
+        [
+          53,
+          -8
+        ]
+      ],
+      [
+        [
+          15,
+          -15
+        ],
+        [
+          10,
+          -10
+        ],
+        [
+          5,
+          -5
+        ],
+        [
+          5,
+          10
+        ],
+        [
+          10,
+          20
+        ],
+        [
+          15,
+          30
+        ],
+        [
+          10,
+          40
+        ],
+        [
+          5,
+          45
+        ],
+        [
+          0,
+          40
+        ],
+        [
+          -10,
+          35
+        ],
+        [
+          -20,
+          35
+        ],
+        [
+          -30,
+          30
+        ],
+        [
+          -34,
+          20
+        ],
+        [
+          -30,
+          15
+        ],
+        [
+          -20,
+          12
+        ],
+        [
+          -10,
+          10
+        ],
+        [
+          0,
+          8
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          10,
+          -10
+        ],
+        [
+          15,
+          -15
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/common-swift.jpg"
+}

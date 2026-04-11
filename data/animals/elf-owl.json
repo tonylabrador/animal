@@ -1,0 +1,244 @@
+{
+  "id": "elf-owl",
+  "name_zh": "姬鸮",
+  "name_en": "Elf owl",
+  "scientific_name": "Micrathene whitneyi",
+  "ui_tags": [
+    "Aves",
+    "Desert",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Strigiformes",
+      "zh": "鸮形目"
+    },
+    "family": {
+      "en": "Strigidae",
+      "zh": "鸱鸮科"
+    },
+    "genus": {
+      "en": "Micrathene",
+      "zh": "姬鸮属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Elf Owl (Micrathene whitneyi) is the world's smallest extant owl species, a diminutive yet formidable nocturnal insectivore endemic to the Nearctic and Neotropical realms. Weighing a mere 40 grams, this micro-strigid is characterized by its lack of ear tufts, striking pale yellow irises, and cryptic grayish-brown plumage mottled with rufous and white, providing exceptional camouflage against the bark of desert flora. Ecologically, it is a keystone avian predator of desert arthropods, exhibiting highly specialized foraging behaviors and a profound reliance on the cavities excavated by picids (woodpeckers) in giant saguaro cacti and riparian hardwoods for nesting and roosting.",
+    "zh": "姬鸮（Micrathene whitneyi）是世界上现存体型最小的鸮类，也是新北界和新热带界特有的微型夜行性食虫猛禽。这种微型鸱鸮体重仅约40克，其形态特征包括缺乏耳羽簇、醒目的淡黄色虹膜，以及布满红褐色与白色斑点的灰褐色隐蔽羽毛，使其在沙漠植物的树皮背景下具有极佳的伪装效果。在生态学上，它是沙漠节肢动物的关键鸟类捕食者，展现出高度特化的觅食行为，并在筑巢和栖息方面极度依赖啄木鸟在巨型柱形仙人掌及河岸硬木中挖掘的树洞。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Morphologically, Micrathene whitneyi measures approximately 12.5 to 14 centimeters in length with a wingspan of 27 centimeters. Its cranial osteology features a relatively large, rounded head devoid of plumicorns (ear tufts), housing disproportionately large orbits adapted for scotopic vision. The facial disk is indistinct, bordered by a faint dark line. The plumage is highly cryptic, predominantly grayish-brown with fine vermiculations and distinct white scapular spots that form a V-shape on the dorsum. The flight feathers are barred, and the rectrices are notably short, extending barely beyond the folded wings. The bill is horn-colored with a pale yellow tip, and the zygodactyl feet are sparsely feathered, equipped with needle-sharp talons optimized for grasping chitinous prey.",
+      "zh": "在形态学上，姬鸮的体长约为12.5至14厘米，翼展约27厘米。其颅骨骨骼学特征表现为相对较大且圆润的头部，缺乏耳羽簇（plumicorns），并容纳了适应暗视力（scotopic vision）的极大眼眶。面盘不明显，边缘有微弱的暗色线条。其羽毛具有高度隐蔽性，主要为灰褐色，带有细密的虫蠹纹，背部有明显的白色肩羽斑点呈V字形排列。飞羽具横斑，尾羽极短，几乎不超出折叠的翅膀。喙呈角质色，尖端淡黄；对趾足上的羽毛稀疏，配备有如针般锋利的爪，极其适合抓取几丁质外壳的猎物。"
+    },
+    "ecology_and_behavior": {
+      "en": "Strictly nocturnal, the Elf Owl emerges at dusk to forage, utilizing a sit-and-wait strategy from elevated perches to ambush flying insects or glean arthropods from foliage. Its diet is overwhelmingly insectivorous, comprising sphingid moths, crickets, beetles, and venomous scorpions (from which it meticulously removes the stinger before ingestion). Unlike many strigids, its flight is not entirely silent, as its wing loading and feather structure differ slightly from larger owls. It exhibits a fascinating anti-predator defense mechanism: when threatened or captured, it may feign death (thanatosis). Breeding is strictly cavity-dependent, utilizing abandoned nests of Gila Woodpeckers or Gilded Flickers in saguaros, sycamores, or oaks. It is highly migratory, with northern populations undertaking significant nocturnal flights to winter in the Balsas drainage of southern Mexico.",
+      "zh": "姬鸮是严格的夜行性鸟类，在黄昏时分外出觅食，利用高处栖枝采取“坐等”策略伏击飞行昆虫，或从树叶上啄食节肢动物。其食性几乎完全为食虫性，包括天蛾、蟋蟀、甲虫以及有毒的蝎子（在吞咽前会极其谨慎地去除毒刺）。与许多鸱鸮科鸟类不同，由于其翼载荷和羽毛结构与大型鸮类略有差异，它的飞行并非完全无声。它展现出一种迷人的反捕食者防御机制：当受到威胁或被捕获时，它可能会装死（假死现象）。繁殖严格依赖树洞，利用吉拉啄木鸟或黄扑翅鴷在柱形仙人掌、悬铃木或橡树中废弃的巢穴。它具有高度迁徙性，北部种群会进行长距离的夜间飞行，前往墨西哥南部的巴尔萨斯河流域越冬。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species is intrinsically tied to arid and semi-arid ecosystems, primarily the Sonoran and Chihuahuan Deserts, as well as adjacent riparian woodlands, oak-sycamore canyons, and thorn scrublands. Its breeding range encompasses the southwestern United States (southern Arizona, New Mexico, and the Trans-Pecos region of Texas) extending southward into the Baja California peninsula and the Pacific slope of northwestern Mexico. During the non-breeding season, migratory populations retreat to the dry deciduous forests and thorn scrub of central and southern Mexico, particularly in the states of Michoacán, Guerrero, and Puebla. The availability of mature, cavity-bearing vegetation is the primary limiting factor for its microhabitat selection.",
+      "zh": "该物种与干旱和半干旱生态系统有着内在的联系，主要栖息于索诺兰沙漠和奇瓦瓦沙漠，以及邻近的河岸林地、橡树-悬铃木峡谷和多刺灌丛。其繁殖范围涵盖美国西南部（亚利桑那州南部、新墨西哥州和得克萨斯州的跨佩科斯地区），向南延伸至下加利福尼亚半岛和墨西哥西北部的太平洋斜坡。在非繁殖季节，候鸟种群会退避至墨西哥中南部的干燥落叶林和多刺灌丛中，特别是在米却肯州、格雷罗州和普埃布拉州。拥有成熟且带有树洞的植被是其微生境选择的主要限制因素。"
+    }
+  },
+  "habitat": {
+    "text_en": "Arid deserts, particularly those dominated by saguaro cacti, as well as riparian woodlands, oak-sycamore canyons, and thorn scrublands across the southwestern United States and Mexico.",
+    "text_zh": "干旱沙漠（特别是以巨型柱形仙人掌为主的沙漠），以及分布于美国西南部和墨西哥的河岸林地、橡树-悬铃木峡谷和多刺灌丛。",
+    "map_coordinates": [
+      31.5,
+      -111.5
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          34,
+          -115
+        ],
+        [
+          34.8,
+          -113.5
+        ],
+        [
+          34.5,
+          -111
+        ],
+        [
+          33.8,
+          -109.5
+        ],
+        [
+          33.2,
+          -108
+        ],
+        [
+          32.5,
+          -106.5
+        ],
+        [
+          31.8,
+          -104.5
+        ],
+        [
+          30.5,
+          -103.2
+        ],
+        [
+          29,
+          -102.5
+        ],
+        [
+          27.5,
+          -101
+        ],
+        [
+          25,
+          -99.5
+        ],
+        [
+          22.5,
+          -98
+        ],
+        [
+          19.5,
+          -97
+        ],
+        [
+          17.5,
+          -96.5
+        ],
+        [
+          16.2,
+          -97.5
+        ],
+        [
+          16.8,
+          -99.8
+        ],
+        [
+          18.2,
+          -102.5
+        ],
+        [
+          19.8,
+          -105.5
+        ],
+        [
+          21.5,
+          -106.2
+        ],
+        [
+          23.8,
+          -107.5
+        ],
+        [
+          25.5,
+          -109
+        ],
+        [
+          27.8,
+          -110.8
+        ],
+        [
+          29.5,
+          -112.2
+        ],
+        [
+          31.2,
+          -113.5
+        ],
+        [
+          32.8,
+          -114.8
+        ],
+        [
+          34,
+          -115
+        ]
+      ],
+      [
+        [
+          27.8,
+          -113.2
+        ],
+        [
+          27,
+          -112.5
+        ],
+        [
+          26.2,
+          -111.8
+        ],
+        [
+          25.5,
+          -111.2
+        ],
+        [
+          24.8,
+          -110.5
+        ],
+        [
+          24,
+          -109.8
+        ],
+        [
+          23.2,
+          -109.4
+        ],
+        [
+          22.8,
+          -109.8
+        ],
+        [
+          23.5,
+          -110.2
+        ],
+        [
+          24.2,
+          -110.8
+        ],
+        [
+          24.8,
+          -111.5
+        ],
+        [
+          25.5,
+          -112.2
+        ],
+        [
+          26.2,
+          -112.8
+        ],
+        [
+          26.8,
+          -113.5
+        ],
+        [
+          27.5,
+          -114
+        ],
+        [
+          27.8,
+          -113.2
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/elf-owl.jpg"
+}

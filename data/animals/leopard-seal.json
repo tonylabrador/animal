@@ -1,0 +1,226 @@
+{
+  "id": "leopard-seal",
+  "name_zh": "豹海豹",
+  "name_en": "Leopard seal",
+  "scientific_name": "Hydrurga leptonyx",
+  "ui_tags": [
+    "Mammal",
+    "Marine",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Phocidae",
+      "zh": "海豹科"
+    },
+    "genus": {
+      "en": "Hydrurga",
+      "zh": "豹海豹属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The leopard seal (Hydrurga leptonyx) is a formidable apex predator of the Antarctic ecosystem, second only to the killer whale. Characterized by its distinctly reptilian head, massive jaws, and sinuous body, this solitary phocid is uniquely adapted to a dual-foraging lifestyle. While renowned for its spectacular ambush attacks on penguins and smaller seals along the pack ice edges, it paradoxically possesses highly specialized, trident-shaped post-canine teeth designed to sieve Antarctic krill from the water column. Its counter-shaded pelage, featuring a dark silver-grey dorsum transitioning to a paler, spotted ventrum, provides perfect camouflage in the pelagic zone.",
+    "zh": "豹海豹（Hydrurga leptonyx）是南极生态系统中令人敬畏的顶级掠食者，其生态地位仅次于虎鲸。这种独居的海豹科动物以其独特的爬行动物般的头部、巨大的下颚和蜿蜒的身躯而著称，并进化出了独特的双重觅食策略。尽管它以在浮冰边缘对企鹅和较小海豹进行惊心动魄的伏击而闻名，但矛盾的是，它也拥有高度特化的三叉戟状犬齿后牙，专门用于从水体中过滤南极磷虾。其反荫蔽的皮毛（背部呈深银灰色，向腹部过渡为带有斑点的浅色）在远洋带提供了完美的伪装。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Exhibiting pronounced reverse sexual dimorphism, female leopard seals are significantly larger than males, reaching lengths of up to 3.8 meters and weighing over 500 kilograms. The cranium is disproportionately large, housing a massive gape and complex dentition. The incisors and canines are robust and sharp for grasping large endothermic prey, while the lobed molars interlock to form a highly efficient sieve for krill. Unusually elongated foreflippers grant them unparalleled hydrodynamic agility, allowing for rapid acceleration and tight maneuvers necessary to outflank agile penguins.",
+      "zh": "豹海豹表现出明显的逆向两性异形，雌性体型显著大于雄性，体长可达3.8米，体重超过500公斤。其颅骨比例极大，拥有惊人的张口度和复杂的牙齿结构。门齿和犬齿粗壮锋利，用于抓捕大型恒温猎物；而分叶状的臼齿则相互交错，形成高效的磷虾过滤网。异常修长的前肢赋予了它们无与伦比的流体动力学敏捷性，使其能够实现快速加速和急转弯，这对于包抄极其灵活的企鹅至关重要。"
+    },
+    "ecology_and_behavior": {
+      "en": "Leopard seals are predominantly solitary and highly territorial, particularly during the austral summer. They are notorious for their complex, low-frequency underwater vocalizations—including haunting trills and rhythmic moans—used by males to advertise acoustic territories and attract mates. As opportunistic apex predators, their hunting strategies range from stealthy sub-ice ambushes to prolonged, exhaustive pursuits. They frequently exhibit 'playful' behavior with their prey, repeatedly tossing captured penguins against the water surface to flay the carcass before consumption.",
+      "zh": "豹海豹主要过着独居生活且具有强烈的领地意识，尤其是在南半球的夏季。它们以复杂、低频的水下发声（包括令人毛骨悚然的颤音和有节奏的呻吟）而臭名昭著，雄性以此来宣示声学领地并吸引配偶。作为机会主义的顶级掠食者，它们的狩猎策略从冰下隐蔽伏击到长时间的消耗性追逐不等。它们经常对猎物表现出“玩耍”行为，将捕获的企鹅反复摔打在水面上，以剥去猎物的皮毛后再进食。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species exhibits a circumpolar distribution, intrinsically tied to the seasonal dynamics of the Antarctic pack ice. They predominantly inhabit the outer fringes of the ice pack, utilizing ice floes for resting, molting, and parturition. During the austral winter, their range expands northward, with vagrant individuals frequently recorded on the shores of sub-Antarctic islands, southern Australia, New Zealand, South America, and South Africa. They thrive in the frigid, nutrient-rich waters of the Southern Ocean, navigating complex ice matrices with ease.",
+      "zh": "该物种呈环极地分布，其生存与南极浮冰的季节性动态密切相关。它们主要栖息在浮冰群的外缘，利用浮冰进行休息、换毛和分娩。在南半球的冬季，它们的活动范围向北扩展，经常有迷鸟个体被记录在亚南极岛屿、澳大利亚南部、新西兰、南美洲和南非的海岸上。它们在寒冷、富含营养的南大洋水域中繁衍生息，能够轻松穿梭于复杂的冰层矩阵之中。"
+    }
+  },
+  "habitat": {
+    "text_en": "Circumpolar Antarctic pack ice and surrounding Southern Ocean waters.",
+    "text_zh": "环南极洲浮冰带及周围的南大洋水域。",
+    "map_coordinates": [
+      -75,
+      0
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          -69.52,
+          2.15
+        ],
+        [
+          -68.81,
+          15.43
+        ],
+        [
+          -68.12,
+          28.91
+        ],
+        [
+          -67.34,
+          42.11
+        ],
+        [
+          -66.55,
+          55.82
+        ],
+        [
+          -65.91,
+          68.34
+        ],
+        [
+          -65.42,
+          82.15
+        ],
+        [
+          -64.88,
+          95.62
+        ],
+        [
+          -64.15,
+          108.33
+        ],
+        [
+          -64.72,
+          115.41
+        ],
+        [
+          -65.31,
+          125.88
+        ],
+        [
+          -65.95,
+          138.21
+        ],
+        [
+          -66.82,
+          150.45
+        ],
+        [
+          -68.15,
+          165.32
+        ],
+        [
+          -71.45,
+          175.81
+        ],
+        [
+          -74.22,
+          -178.55
+        ],
+        [
+          -76.15,
+          -165.42
+        ],
+        [
+          -75.33,
+          -152.18
+        ],
+        [
+          -74.81,
+          -140.55
+        ],
+        [
+          -73.92,
+          -128.34
+        ],
+        [
+          -73.15,
+          -115.62
+        ],
+        [
+          -72.44,
+          -105.21
+        ],
+        [
+          -71.85,
+          -95.44
+        ],
+        [
+          -72.51,
+          -85.12
+        ],
+        [
+          -70.34,
+          -75.22
+        ],
+        [
+          -68.15,
+          -65.41
+        ],
+        [
+          -65.22,
+          -61.15
+        ],
+        [
+          -63.45,
+          -58.32
+        ],
+        [
+          -62.18,
+          -56.45
+        ],
+        [
+          -63.88,
+          -53.12
+        ],
+        [
+          -65.45,
+          -50.88
+        ],
+        [
+          -68.12,
+          -45.34
+        ],
+        [
+          -71.55,
+          -40.12
+        ],
+        [
+          -74.22,
+          -35.45
+        ],
+        [
+          -75.81,
+          -25.33
+        ],
+        [
+          -73.45,
+          -15.22
+        ],
+        [
+          -71.12,
+          -5.18
+        ],
+        [
+          -69.52,
+          2.15
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/leopard-seal.jpg"
+}

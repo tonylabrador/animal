@@ -1,0 +1,194 @@
+{
+  "id": "adelie-penguin",
+  "name_zh": "阿德利企鹅",
+  "name_en": "Adélie penguin",
+  "scientific_name": "Pygoscelis adeliae",
+  "ui_tags": [
+    "Aves",
+    "Antarctic Coasts",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Sphenisciformes",
+      "zh": "企鹅目"
+    },
+    "family": {
+      "en": "Spheniscidae",
+      "zh": "企鹅科"
+    },
+    "genus": {
+      "en": "Pygoscelis",
+      "zh": "阿德利企鹅属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Adélie penguin (Pygoscelis adeliae) is a strictly Antarctic species, epitomizing the classic 'tuxedo' appearance with its solid black back and head contrasting sharply with a pristine white belly. Characterized by a distinctive white ring surrounding the eye and feathers obscuring the base of its stubby bill, this mid-sized spheniscid is an obligate associate of the Antarctic pack ice. They are formidable marine predators, relying heavily on the sympagic (ice-associated) food web, primarily targeting Antarctic krill (Euphausia superba) and Antarctic silverfish.",
+    "zh": "阿德利企鹅（Pygoscelis adeliae）是一种严格分布于南极的物种，其纯黑色的背部和头部与洁白的腹部形成鲜明对比，完美诠释了经典的“燕尾服”外观。作为一种中型企鹅，其最显著的形态特征是眼睛周围独特的白色眼圈，以及覆盖在短粗喙基部的羽毛。它们是南极浮冰区高度特化的专性伴生物种，也是强悍的海洋掠食者，高度依赖与冰层相关的食物网，主要捕食南极磷虾（Euphausia superba）和南极银鱼。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults typically measure 46 to 71 centimeters in length and weigh between 3.6 and 6.0 kilograms, exhibiting significant seasonal weight fluctuations. Their hydrodynamic, fusiform bodies are insulated by a dense layer of waterproof plumage and thick subcutaneous blubber. The wings have evolved into stiff, flat flippers optimized for subaqueous flight, allowing them to reach swimming speeds of up to 15 km/h. The striking white scleral ring and the downward-curving, partially feather-covered bill are key diagnostic features separating them from congenerics.",
+      "zh": "成鸟体长通常在46至71厘米之间，体重在3.6至6.0千克之间，并表现出显著的季节性体重波动。其符合流体力学的纺锤形身体被一层致密的防水羽毛和厚实的皮下脂肪所包裹，以提供极致的隔热效果。它们的翅膀已进化成坚硬、扁平的鳍状肢，专为水下“飞行”而优化，使其游泳速度可达15公里/小时。醒目的白色巩膜环以及向下弯曲且部分被羽毛覆盖的喙，是将其与同属其他物种区分开来的关键鉴别特征。"
+    },
+    "ecology_and_behavior": {
+      "en": "Highly gregarious, Adélie penguins congregate in massive, densely packed breeding colonies (rookeries) on ice-free coastal terrain during the austral summer. They construct rudimentary nests using accumulated pebbles, which are fiercely defended and frequently stolen from neighbors, highlighting a complex socio-behavioral dynamic. They are proficient divers, capable of descending to depths exceeding 150 meters to forage. Their ecological role is pivotal; as apex mesopredators, they regulate krill populations while serving as primary prey for leopard seals (Hydrurga leptonyx) and killer whales (Orcinus orca).",
+      "zh": "阿德利企鹅具有高度的群居性，在南半球的夏季，它们会聚集在无冰的海岸地形上，形成规模庞大且密集的繁殖群（企鹅群落）。它们利用收集来的鹅卵石筑造简陋的巢穴，这些卵石不仅受到严密保护，还经常被邻居偷窃，凸显了其复杂的社会行为动态。它们是熟练的潜水者，能够下潜至超过150米的深度进行觅食。它们的生态作用至关重要；作为顶级的次级掠食者，它们在控制磷虾种群数量的同时，也是豹海豹（Hydrurga leptonyx）和虎鲸（Orcinus orca）的主要猎物。"
+    },
+    "habitat_and_distribution": {
+      "en": "Exhibiting a circumpolar distribution, the Adélie penguin's range encompasses the entire coastline of the Antarctic continent and adjacent islands, including the South Shetland and South Orkney Islands. Their life cycle is intricately synchronized with the seasonal expansion and retreat of the Antarctic sea ice. During the winter, they inhabit the offshore pack ice, utilizing it as a platform for resting and accessing foraging grounds, before migrating hundreds of kilometers to terrestrial, ice-free rocky shores for the breeding season.",
+      "zh": "阿德利企鹅呈现出环极地分布的特征，其栖息范围涵盖了整个南极大陆的海岸线及邻近岛屿，包括南设得兰群岛和南奥克尼群岛。它们的生命周期与南极海冰的季节性扩张和消退错综复杂地同步。在冬季，它们栖息在近海的浮冰上，将其作为休息和前往觅食区的平台，然后在繁殖季迁徙数百公里，返回陆地上无冰的岩石海岸。"
+    }
+  },
+  "habitat": {
+    "text_en": "Circumpolar along the Antarctic coast and surrounding islands, heavily dependent on sea ice and ice-free rocky shores for breeding.",
+    "text_zh": "环绕南极海岸及周边岛屿分布，高度依赖海冰以及用于繁殖的无冰岩石海岸。",
+    "map_coordinates": [
+      -75,
+      0
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          -63.3,
+          -57
+        ],
+        [
+          -64.5,
+          -62
+        ],
+        [
+          -68,
+          -65
+        ],
+        [
+          -72,
+          -70
+        ],
+        [
+          -75,
+          -60
+        ],
+        [
+          -77,
+          -45
+        ],
+        [
+          -75,
+          -20
+        ],
+        [
+          -71,
+          -10
+        ],
+        [
+          -70,
+          0
+        ],
+        [
+          -69,
+          15
+        ],
+        [
+          -68,
+          35
+        ],
+        [
+          -66,
+          50
+        ],
+        [
+          -67,
+          65
+        ],
+        [
+          -68,
+          80
+        ],
+        [
+          -66,
+          95
+        ],
+        [
+          -65,
+          110
+        ],
+        [
+          -66,
+          130
+        ],
+        [
+          -67,
+          145
+        ],
+        [
+          -68,
+          160
+        ],
+        [
+          -71,
+          170
+        ],
+        [
+          -75,
+          165
+        ],
+        [
+          -77,
+          175
+        ],
+        [
+          -78,
+          -170
+        ],
+        [
+          -75,
+          -150
+        ],
+        [
+          -74,
+          -130
+        ],
+        [
+          -73,
+          -110
+        ],
+        [
+          -72,
+          -90
+        ],
+        [
+          -70,
+          -75
+        ],
+        [
+          -65,
+          -60
+        ],
+        [
+          -63.3,
+          -57
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/adelie-penguin.jpg"
+}
