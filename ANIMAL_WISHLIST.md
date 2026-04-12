@@ -5,3 +5,4 @@
 | # | 中文名 | English Name | Scientific Name | 状态 |
 |---|--------|-------------|-----------------|------|
 | 1 | 油鸱 | Oilbird | Steatornis caripensis | ⏳ Pending |
+| 2 | 安第斯神鹫 | Andean condor | Vultur gryphus | ⏳ Pending |
