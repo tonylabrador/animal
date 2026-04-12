@@ -7,3 +7,4 @@
 | 1 | 油鸱 | Oilbird | Steatornis caripensis | ⏳ Pending |
 | 2 | 安第斯神鹫 | Andean condor | Vultur gryphus | ⏳ Pending |
 | 3 | 胡兀鹫 | Bearded vulture | Gypaetus barbatus | ⏳ Pending |
+| 4 | 雉鸡 | Common Pheasant | Phasianus colchicus | ⏳ Pending |
