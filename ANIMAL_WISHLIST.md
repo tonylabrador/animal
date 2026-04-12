@@ -11,3 +11,4 @@
 | 5 | 棕尾虹雉 | Himalayan Monal | Lophophorus impejanus | ⏳ Pending |
 | 6 | 红腹角雉 | Temminck's Tragopan | Tragopan temminckii | ⏳ Pending |
 | 7 | 白腹锦鸡 | Lady Amherst's Pheasant | Chrysolophus amherstiae | ⏳ Pending |
+| 8 | 大眼斑雉 | Great Argus | Argusianus argus | ⏳ Pending |
