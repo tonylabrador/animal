@@ -8,3 +8,4 @@
 | 2 | 安第斯神鹫 | Andean condor | Vultur gryphus | ⏳ Pending |
 | 3 | 胡兀鹫 | Bearded vulture | Gypaetus barbatus | ⏳ Pending |
 | 4 | 雉鸡 | Common Pheasant | Phasianus colchicus | ⏳ Pending |
+| 5 | 棕尾虹雉 | Himalayan Monal | Lophophorus impejanus | ⏳ Pending |
