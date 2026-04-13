@@ -17,3 +17,4 @@
 | 11 | 北象海豹 | Northern elephant seal | Mirounga angustirostris | ⏳ Pending |
 | 12 | 美洲蛇鹈 | Anhinga | Anhinga anhinga | ⏳ Pending |
 | 13 | 凤尾绿咬鹃 | Resplendent quetzal | Pharomachrus mocinno | ⏳ Pending |
+| 14 | 大麻鳽 | Great bittern | Botaurus stellaris | ⏳ Pending |
