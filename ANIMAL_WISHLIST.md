@@ -14,3 +14,4 @@
 | 8 | 大眼斑雉 | Great Argus | Argusianus argus | ⏳ Pending |
 | 9 | 美洲黑熊 | American black bear | Ursus americanus | ⏳ Pending |
 | 10 | 岛屿灰狐 | Channel Island Fox | Urocyon littoralis | ⏳ Pending |
+| 11 | 北象海豹 | Northern elephant seal | Mirounga angustirostris | ⏳ Pending |
