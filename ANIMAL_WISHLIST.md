@@ -16,3 +16,4 @@
 | 10 | 岛屿灰狐 | Channel Island Fox | Urocyon littoralis | ⏳ Pending |
 | 11 | 北象海豹 | Northern elephant seal | Mirounga angustirostris | ⏳ Pending |
 | 12 | 美洲蛇鹈 | Anhinga | Anhinga anhinga | ⏳ Pending |
+| 13 | 凤尾绿咬鹃 | Resplendent quetzal | Pharomachrus mocinno | ⏳ Pending |
