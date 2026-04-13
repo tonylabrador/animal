@@ -19,3 +19,4 @@
 | 13 | 凤尾绿咬鹃 | Resplendent quetzal | Pharomachrus mocinno | ⏳ Pending |
 | 14 | 大麻鳽 | Great bittern | Botaurus stellaris | ⏳ Pending |
 | 15 | 维多利亚冠鸠 | Victoria Crowned Pigeon | Goura victoria | ⏳ Pending |
+| 16 | 王极乐鸟 | King bird-of-paradise | Cicinnurus regius | ⏳ Pending |
