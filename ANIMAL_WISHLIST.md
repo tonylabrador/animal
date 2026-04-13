@@ -13,3 +13,4 @@
 | 7 | 白腹锦鸡 | Lady Amherst's Pheasant | Chrysolophus amherstiae | ⏳ Pending |
 | 8 | 大眼斑雉 | Great Argus | Argusianus argus | ⏳ Pending |
 | 9 | 美洲黑熊 | American black bear | Ursus americanus | ⏳ Pending |
+| 10 | 岛屿灰狐 | Channel Island Fox | Urocyon littoralis | ⏳ Pending |
