@@ -18,3 +18,4 @@
 | 12 | 美洲蛇鹈 | Anhinga | Anhinga anhinga | ⏳ Pending |
 | 13 | 凤尾绿咬鹃 | Resplendent quetzal | Pharomachrus mocinno | ⏳ Pending |
 | 14 | 大麻鳽 | Great bittern | Botaurus stellaris | ⏳ Pending |
+| 15 | 维多利亚冠鸠 | Victoria Crowned Pigeon | Goura victoria | ⏳ Pending |
