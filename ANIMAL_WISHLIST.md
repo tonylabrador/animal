@@ -12,3 +12,4 @@
 | 6 | 红腹角雉 | Temminck's Tragopan | Tragopan temminckii | ⏳ Pending |
 | 7 | 白腹锦鸡 | Lady Amherst's Pheasant | Chrysolophus amherstiae | ⏳ Pending |
 | 8 | 大眼斑雉 | Great Argus | Argusianus argus | ⏳ Pending |
+| 9 | 美洲黑熊 | American black bear | Ursus americanus | ⏳ Pending |
