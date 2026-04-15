@@ -20,3 +20,4 @@
 | 14 | 大麻鳽 | Great bittern | Botaurus stellaris | ⏳ Pending |
 | 15 | 维多利亚冠鸠 | Victoria Crowned Pigeon | Goura victoria | ⏳ Pending |
 | 16 | 王极乐鸟 | King bird-of-paradise | Cicinnurus regius | ⏳ Pending |
+| 17 | 北美鹿鼠 | North American Deer Mouse | Peromyscus maniculatus | ⏳ Pending |
