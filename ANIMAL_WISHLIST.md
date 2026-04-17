@@ -5,3 +5,4 @@
 | # | 中文名 | English Name | Scientific Name | 状态 |
 |---|--------|-------------|-----------------|------|
 | 1 | 红腿叫鹤 | Red-legged seriema | Cariama cristata | ⏳ Pending |
+| 2 | 普通潜鸟 | Common loon | Gavia immer | ⏳ Pending |
