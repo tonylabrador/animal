@@ -263,6 +263,13 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
         </div>
       </header>
 
+      {/* ── Banner ── */}
+      <div className="bg-gradient-to-r from-amber-500 to-orange-500 text-white text-center py-2 px-4 shadow-sm font-bold text-sm sm:text-base tracking-wide flex items-center justify-center gap-2">
+        <span className="animate-pulse">✨</span>
+        <span>{lang === "en" ? "NEW ANIMALS ADDED! CHECK IT OUT!" : "新增动物上线！快来看看吧！"}</span>
+        <span className="animate-pulse">✨</span>
+      </div>
+
       {/* ── Hero ── */}
       <section className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-4 pb-6 lg:pt-12 lg:pb-12">
         <div className="flex flex-col lg:flex-row items-center lg:items-start justify-between gap-3 lg:gap-0">
