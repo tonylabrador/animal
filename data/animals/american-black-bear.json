@@ -1,0 +1,210 @@
+{
+  "id": "american-black-bear",
+  "name_zh": "美洲黑熊",
+  "name_en": "American black bear",
+  "scientific_name": "Ursus americanus",
+  "ui_tags": [
+    "Mammalia",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Ursidae",
+      "zh": "熊科"
+    },
+    "genus": {
+      "en": "Ursus",
+      "zh": "熊属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The American black bear (Ursus americanus) is a medium-sized, highly adaptable carnivoran endemic to North America. It is the continent's smallest and most widely distributed bear species. Exhibiting remarkable phenotypic plasticity, their pelage ranges from pitch black to cinnamon, blonde, and even the rare white (Kermode bear) or bluish-gray (Glacier bear). They possess a robust, heavily built body, a broad skull, and non-retractable claws optimized for arboreal locomotion and foraging. As apex opportunistic omnivores, their diet is highly seasonal, heavily relying on mast (acorns, hickory nuts), berries, insects, and occasionally ungulate neonates or carrion. They play a critical ecological role as seed dispersers and nutrient cyclers within forest ecosystems. During winter, they undergo a period of profound lethargy or hibernation, characterized by significant metabolic suppression without a drastic drop in core body temperature.",
+    "zh": "美洲黑熊（Ursus americanus）是北美洲特有的一种中型、高度适应性的食肉目动物，也是该大陆体型最小、分布最广的熊类。它们展现出显著的表型可塑性，其被毛颜色从深黑色到肉桂色、金黄色，甚至罕见的白色（柯莫德熊）或蓝灰色（冰川熊）不等。美洲黑熊拥有粗壮结实的躯干、宽阔的颅骨以及不可伸缩的利爪，这些解剖学特征极大地优化了它们的攀爬与觅食能力。作为顶级的机会主义杂食动物，它们的饮食具有高度的季节性，严重依赖坚果（如橡子、山核桃）、浆果、昆虫，偶尔也会捕食有蹄类幼崽或食腐。它们在森林生态系统中扮演着至关重要的种子散布者和营养循环者的生态角色。在冬季，它们会进入一种深度的冬眠状态，其特征是代谢率显著降低，但核心体温并不会出现剧烈下降。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Characterized by a plantigrade stance, the American black bear features a straight facial profile, relatively short, rounded ears, and a vestigial tail. Adult males typically weigh between 57–250 kg, while females are notably smaller at 41–170 kg, demonstrating significant sexual dimorphism. Their dentition is adapted for an omnivorous diet, with flattened molars for crushing vegetation and sharp canines for tearing flesh. The forelimbs are highly muscular, equipped with short, sharply curved claws (about 1.5 to 2 inches long) that provide exceptional grip for scaling trees, a critical defense mechanism and foraging strategy.",
+      "zh": "美洲黑熊以跖行步态为特征，面部轮廓笔直，耳朵相对较短且圆，尾巴退化。成年雄性体重通常在57至250公斤之间，而雌性明显较小，约为41至170公斤，表现出显著的雌雄二态性。它们的牙齿结构适应杂食性饮食，臼齿扁平用于碾碎植物，犬齿锋利用于撕裂肉类。前肢肌肉高度发达，配备有短而弯曲的利爪（约1.5至2英寸长），为攀爬树木提供了卓越的抓地力，这是它们关键的防御机制和觅食策略。"
+    },
+    "ecology_and_behavior": {
+      "en": "Primarily crepuscular and solitary, except during the mating season or when females are rearing cubs. They possess an extraordinary olfactory sense, capable of detecting food sources from miles away. Their spatial ecology involves large home ranges that vary inversely with habitat quality. Black bears are vital ecosystem engineers; their foraging behavior aerates the soil, and their consumption of vast quantities of fleshy fruits results in the widespread endozoochorous dispersal of seeds. Hibernation lasts 3-8 months depending on latitude, during which they recycle urea to preserve muscle mass, a physiological marvel currently studied for human medical applications.",
+      "zh": "除了交配季节或雌性抚育幼崽期间，美洲黑熊主要在晨昏活动且习惯独居。它们拥有非凡的嗅觉，能够探测到数英里外的食物来源。其空间生态学涉及广阔的活动范围，且范围大小与栖息地质量成反比。黑熊是至关重要的生态系统工程师；它们的觅食行为能使土壤通气，而大量消耗肉质果实则促成了种子的广泛体内传播。根据纬度的不同，冬眠期持续3至8个月，在此期间它们通过回收尿素来保持肌肉质量，这一生理奇迹目前正被用于人类医学应用的研究。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to North America, their range extends from northern Canada and Alaska south into Mexico, and from the Atlantic to the Pacific coasts. They are highly adaptable to various forested habitats, including temperate broadleaf and mixed forests, boreal taiga, and mountainous coniferous zones. They prefer areas with thick understory vegetation and abundant mast-producing trees, which provide both critical nutritional resources and secure denning sites.",
+      "zh": "作为北美洲的特有物种，它们的分布范围从加拿大北部和阿拉斯加向南延伸至墨西哥，从大西洋海岸一直到太平洋海岸。它们对各种森林栖息地具有极高的适应性，包括温带阔叶混交林、北方针叶林以及山区针叶林带。它们偏好拥有茂密林下植被和丰富坚果树种的区域，这些环境不仅提供了关键的营养资源，还提供了安全的筑巢越冬地点。"
+    }
+  },
+  "habitat": {
+    "text_en": "Widely distributed across North America, from the boreal forests of Canada and Alaska to the mountainous regions of the contiguous United States and northern Mexico.",
+    "text_zh": "广泛分布于北美洲，从加拿大和阿拉斯加的北方针叶林，一直延伸到美国本土的山区以及墨西哥北部。",
+    "map_coordinates": [
+      45,
+      -100
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          60.5,
+          -165.2
+        ],
+        [
+          64.8,
+          -162.1
+        ],
+        [
+          68.2,
+          -152.5
+        ],
+        [
+          69.1,
+          -141
+        ],
+        [
+          68.5,
+          -133.4
+        ],
+        [
+          65.2,
+          -121.8
+        ],
+        [
+          61,
+          -112.5
+        ],
+        [
+          58.4,
+          -96.2
+        ],
+        [
+          55.7,
+          -86.1
+        ],
+        [
+          52.3,
+          -81.4
+        ],
+        [
+          53.6,
+          -69.8
+        ],
+        [
+          50.2,
+          -59.5
+        ],
+        [
+          47.8,
+          -54.2
+        ],
+        [
+          44.5,
+          -67.3
+        ],
+        [
+          41.2,
+          -73.8
+        ],
+        [
+          38.5,
+          -78.4
+        ],
+        [
+          34.2,
+          -81.5
+        ],
+        [
+          29.8,
+          -82.1
+        ],
+        [
+          27.5,
+          -81
+        ],
+        [
+          29.2,
+          -84.5
+        ],
+        [
+          33.8,
+          -89.2
+        ],
+        [
+          31.5,
+          -94.6
+        ],
+        [
+          26.4,
+          -99.8
+        ],
+        [
+          21.2,
+          -104.5
+        ],
+        [
+          24.8,
+          -108.2
+        ],
+        [
+          29.5,
+          -113.6
+        ],
+        [
+          34.2,
+          -118.5
+        ],
+        [
+          39.8,
+          -123.8
+        ],
+        [
+          44.5,
+          -124.2
+        ],
+        [
+          49.8,
+          -125.5
+        ],
+        [
+          54.2,
+          -130.8
+        ],
+        [
+          59.5,
+          -139.5
+        ],
+        [
+          58.2,
+          -154.6
+        ],
+        [
+          60.5,
+          -165.2
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/american-black-bear.jpg"
+}

@@ -1,0 +1,346 @@
+{
+  "id": "anhinga",
+  "name_zh": "美洲蛇鹈",
+  "name_en": "Anhinga",
+  "scientific_name": "Anhinga anhinga",
+  "ui_tags": [
+    "Aves",
+    "Freshwater",
+    "Piscivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Suliformes",
+      "zh": "鲣鸟目"
+    },
+    "family": {
+      "en": "Anhingidae",
+      "zh": "蛇鹈科"
+    },
+    "genus": {
+      "en": "Anhinga",
+      "zh": "蛇鹈属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Anhinga, often referred to as the 'snakebird' or 'water turkey', is a highly specialized aquatic bird renowned for its unique foraging behavior and striking morphology. Lacking fully waterproof plumage due to an underdeveloped uropygial gland, it achieves neutral buoyancy, allowing it to silently stalk fish underwater with minimal hydrodynamic resistance. When swimming, its submerged body is hidden, and only its long, serpentine neck and head protrude above the surface, closely resembling a striking snake. This evolutionary trade-off requires the bird to spend significant time perched with wings outstretched to thermoregulate and dry its feathers.",
+    "zh": "美洲蛇鹈（常被称为“蛇鸟”或“水火鸡”）是一种高度特化的水生鸟类，以其独特的觅食行为和引人注目的形态特征而闻名。由于尾脂腺不发达，其羽毛缺乏完全的防水性，这使得它能够达到中性浮力，从而在水下以极低的水动力阻力悄无声息地潜行追踪鱼类。在水面游泳时，它的身体完全没入水中，只有细长呈蛇形的颈部和头部露出水面，宛如一条准备出击的毒蛇。这种进化上的权衡使得该鸟类必须花费大量时间栖息在树枝上，张开双翼进行体温调节并晾干羽毛。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Characterized by a slender, elongated body, the Anhinga possesses a dagger-like, serrated bill perfectly adapted for impaling slippery prey. Its cervical vertebrae are highly modified, featuring a specialized hinge mechanism at the 8th and 9th vertebrae that allows for a lightning-fast, spear-like forward thrust. The plumage is dense but wettable, which decreases buoyancy for efficient diving but necessitates prolonged periods of sunning. Broad, rounded wings enable powerful, thermal-riding flight, allowing them to soar to high altitudes.",
+      "zh": "美洲蛇鹈体型修长，拥有一张如匕首般锋利且带倒锯齿的喙，极度适应于刺穿湿滑的猎物。其颈椎经过高度特化，在第8和第9颈椎处具有特殊的铰链机制，使其能够像长矛一样以闪电般的速度向前突刺。其羽毛浓密但容易被水浸湿，这虽然降低了浮力以实现高效潜水，但也迫使它需要长时间在阳光下晾晒。宽大圆润的翅膀使其能够利用热气流进行强有力的翱翔，甚至能盘旋至极高的高空。"
+    },
+    "ecology_and_behavior": {
+      "en": "As a stealthy, ambush piscivore, the Anhinga hunts by slowly patrolling submerged vegetation. Upon spotting a fish, it impales it with a rapid thrust, surfaces, tosses the prey into the air, and swallows it head-first to avoid the scales and spines. It is a solitary hunter but often nests in loose colonies alongside herons, egrets, and ibises. Courtship involves elaborate aerial displays, soaring in circles, and intricate nest-building rituals where males present twigs and green leaves to females.",
+      "zh": "作为一种隐秘的伏击型食鱼动物，美洲蛇鹈通过在水下植被中缓慢巡视来捕猎。一旦发现鱼类，它会迅速将其刺穿，浮出水面后将猎物抛向空中，并从头部开始吞咽，以避免鱼鳞和鱼刺卡住喉咙。它通常单独狩猎，但经常与鹭类、白鹭和鹮类在松散的群落中共同筑巢。求偶过程包括复杂的空中盘旋展示，以及精细的筑巢仪式——雄鸟会向雌鸟展示树枝和绿叶以博取青睐。"
+    },
+    "habitat_and_distribution": {
+      "en": "The Anhinga is strictly tied to shallow, slow-moving, or stagnant freshwater and brackish ecosystems. Optimal habitats include cypress swamps, mangrove fringes, sluggish rivers, lakes, and heavily vegetated marshes. It requires emergent trees or snags for roosting, nesting, and sun-drying its plumage. Its range spans from the southeastern United States, through Mexico and Central America, down to the Amazon basin, the Pantanal, and northern Argentina.",
+      "zh": "美洲蛇鹈严格依赖于浅水、水流缓慢或静止的淡水及半咸水生态系统。最佳栖息地包括柏树沼泽、红树林边缘、流速缓慢的河流、湖泊以及植被茂密的沼泽地。它需要挺水树木或枯木来进行栖息、筑巢以及在阳光下晾晒羽毛。其分布范围从美国东南部延伸至墨西哥和中美洲，一直向南覆盖亚马逊盆地、潘塔纳尔湿地以及阿根廷北部。"
+    }
+  },
+  "habitat": {
+    "text_en": "Inhabits shallow freshwater lakes, slow-moving rivers, cypress swamps, and mangrove ecosystems across the Americas, requiring emergent vegetation for roosting and drying.",
+    "text_zh": "栖息于美洲各地的浅水淡水湖泊、流速缓慢的河流、柏树沼泽和红树林生态系统中，需要挺水植被用于栖息和晾晒羽毛。",
+    "map_coordinates": [
+      5,
+      -75
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          35,
+          -75.5
+        ],
+        [
+          32,
+          -80
+        ],
+        [
+          29.5,
+          -81
+        ],
+        [
+          25.5,
+          -80.2
+        ],
+        [
+          25,
+          -81
+        ],
+        [
+          29,
+          -83
+        ],
+        [
+          30.2,
+          -88
+        ],
+        [
+          28.5,
+          -96
+        ],
+        [
+          25,
+          -97.5
+        ],
+        [
+          22,
+          -97.8
+        ],
+        [
+          18.5,
+          -95
+        ],
+        [
+          21.5,
+          -87
+        ],
+        [
+          18,
+          -88
+        ],
+        [
+          15.5,
+          -83
+        ],
+        [
+          10,
+          -83
+        ],
+        [
+          8.5,
+          -78
+        ],
+        [
+          7.5,
+          -80
+        ],
+        [
+          10,
+          -85
+        ],
+        [
+          13.5,
+          -90
+        ],
+        [
+          16,
+          -95
+        ],
+        [
+          22,
+          -106
+        ],
+        [
+          25,
+          -107.5
+        ],
+        [
+          28,
+          -105
+        ],
+        [
+          30,
+          -98
+        ],
+        [
+          33,
+          -92
+        ],
+        [
+          35,
+          -85
+        ],
+        [
+          36,
+          -76
+        ],
+        [
+          35,
+          -75.5
+        ]
+      ],
+      [
+        [
+          11,
+          -74
+        ],
+        [
+          12,
+          -71
+        ],
+        [
+          10.5,
+          -62
+        ],
+        [
+          8,
+          -58
+        ],
+        [
+          4,
+          -51
+        ],
+        [
+          0,
+          -48
+        ],
+        [
+          -5,
+          -35
+        ],
+        [
+          -10,
+          -36
+        ],
+        [
+          -15,
+          -39
+        ],
+        [
+          -20,
+          -40
+        ],
+        [
+          -25,
+          -48
+        ],
+        [
+          -30,
+          -50
+        ],
+        [
+          -34.5,
+          -58
+        ],
+        [
+          -30,
+          -62
+        ],
+        [
+          -25,
+          -58
+        ],
+        [
+          -20,
+          -63
+        ],
+        [
+          -15,
+          -68
+        ],
+        [
+          -10,
+          -75
+        ],
+        [
+          -5,
+          -80
+        ],
+        [
+          0,
+          -80
+        ],
+        [
+          5,
+          -77
+        ],
+        [
+          8,
+          -77
+        ],
+        [
+          11,
+          -74
+        ]
+      ],
+      [
+        [
+          23,
+          -84
+        ],
+        [
+          23.2,
+          -81.5
+        ],
+        [
+          23.2,
+          -80
+        ],
+        [
+          22.5,
+          -78.5
+        ],
+        [
+          21.5,
+          -77
+        ],
+        [
+          20.5,
+          -75
+        ],
+        [
+          20,
+          -74
+        ],
+        [
+          19,
+          -70
+        ],
+        [
+          18,
+          -71
+        ],
+        [
+          18.5,
+          -74
+        ],
+        [
+          19.5,
+          -76
+        ],
+        [
+          20,
+          -77
+        ],
+        [
+          21,
+          -80
+        ],
+        [
+          21.5,
+          -82
+        ],
+        [
+          22,
+          -84.5
+        ],
+        [
+          23,
+          -84
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/anhinga.jpg"
+}

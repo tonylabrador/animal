@@ -1,0 +1,318 @@
+{
+  "id": "great-argus",
+  "name_zh": "大眼斑雉",
+  "name_en": "Great Argus",
+  "scientific_name": "Argusianus argus",
+  "ui_tags": [
+    "Aves",
+    "Rainforest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Galliformes",
+      "zh": "鸡形目"
+    },
+    "family": {
+      "en": "Phasianidae",
+      "zh": "雉科"
+    },
+    "genus": {
+      "en": "Argusianus",
+      "zh": "大眼斑雉属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The Great Argus (Argusianus argus) is a spectacular, large pheasant species native to Southeast Asia, renowned for the male's breathtaking courtship display. Unlike most birds where primary feathers are the longest, the male Great Argus possesses extraordinarily elongated secondary wing feathers adorned with intricate, iridescent ocelli (eyespots) that resemble a multitude of eyes, inspiring its namesake, the hundred-eyed giant Argus of Greek mythology. These elusive birds are masters of camouflage in the dense undergrowth, relying on their cryptic plumage when not engaged in their elaborate mating rituals.",
+    "zh": "大眼斑雉（Argusianus argus）是一种原产于东南亚的壮丽大型雉类，以雄鸟令人惊叹的求偶炫耀而闻名。与大多数初级飞羽最长的鸟类不同，雄性大眼斑雉拥有异常修长的次级飞羽，其上点缀着错综复杂、闪烁虹彩的眼状斑纹，宛如无数只眼睛，其名字正是源于希腊神话中百眼巨人阿耳戈斯。这些行踪隐秘的鸟类是茂密灌木丛中的伪装大师，在不进行复杂的交配仪式时，它们主要依靠保护色羽毛隐蔽自己。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Males can reach lengths of up to 2 meters, largely due to their massive central tail feathers and elongated secondary wing feathers. They feature a bare, bright blue head and neck, a black hair-like crest, and rufous-brown plumage. The secondary feathers are uniquely broad and long, decorated with perfect, three-dimensional-looking eyespots. Females are significantly smaller and cryptically colored in mottled brown, lacking the elaborate train and eyespots, which serves as vital camouflage during nesting and foraging.",
+      "zh": "雄鸟体长可达2米，这主要归功于其巨大的中央尾羽和修长的次级飞羽。它们拥有裸露的亮蓝色头部和颈部、黑色的毛发状羽冠以及红褐色的羽毛。次级飞羽异常宽长，装饰着完美的、极具立体感的眼斑。雌鸟体型明显较小，羽色为斑驳的棕色，缺乏华丽的长羽和眼斑，这为它们在筑巢和觅食时提供了至关重要的伪装。"
+    },
+    "ecology_and_behavior": {
+      "en": "Highly solitary and territorial, males clear a specific patch of forest floor, known as a 'lek', meticulously removing leaves and debris to create a pristine stage. To attract females, the male emits loud, piercing calls that resonate through the dense canopy. Upon a female's arrival, he performs a mesmerizing dance, bowing and fanning his wings into a massive, parabolic shield, vibrating the feathers to create a rustling sound while perfectly displaying the hypnotic eyespots. Their diet is omnivorous, foraging on the forest floor for fallen fruits, seeds, ants, slugs, and other invertebrates.",
+      "zh": "大眼斑雉具有高度的独居性和领地意识，雄鸟会在森林地面上清理出一块特定的区域作为“求偶场”，一丝不苟地清除树叶和杂物以打造完美的舞台。为了吸引雌鸟，雄鸟会发出响亮刺耳的鸣叫，在茂密的树冠中回荡。当雌鸟到来时，他会跳起迷人的舞蹈，鞠躬并将双翅展开成一个巨大的抛物线状盾牌，振动羽毛发出沙沙声，同时完美地展示出令人着迷的眼斑。它们的饮食属于杂食性，在森林地面上觅食落果、种子、蚂蚁、蛞蝓和其他无脊椎动物。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the Sundaland region, the Great Argus inhabits the primary lowland and lower montane tropical rainforests of the Malay Peninsula, Sumatra, and Borneo. They are highly sensitive to habitat degradation and logging, requiring dense, undisturbed canopy cover and open forest floors for their leks. Their populations are increasingly fragmented due to rapid deforestation and agricultural expansion in Southeast Asia.",
+      "zh": "大眼斑雉是巽他古陆地区的特有种，栖息在马来半岛、苏门答腊岛和婆罗洲的原始低地和低海拔山地热带雨林中。它们对栖息地退化和伐木高度敏感，需要茂密、未受破坏的树冠覆盖和开阔的森林地面来建立求偶场。由于东南亚地区快速的森林砍伐和农业扩张，它们的种群正日益碎片化。"
+    }
+  },
+  "habitat": {
+    "text_en": "Primary lowland and lower montane tropical rainforests of the Malay Peninsula, Sumatra, and Borneo.",
+    "text_zh": "马来半岛、苏门答腊岛和婆罗洲的原始低地及低海拔山地热带雨林。",
+    "map_coordinates": [
+      2,
+      108
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          6.5,
+          100.2
+        ],
+        [
+          6,
+          101.5
+        ],
+        [
+          5.5,
+          102.5
+        ],
+        [
+          5,
+          103.2
+        ],
+        [
+          4.2,
+          103.5
+        ],
+        [
+          3.5,
+          103.4
+        ],
+        [
+          2.8,
+          103.5
+        ],
+        [
+          2,
+          104
+        ],
+        [
+          1.4,
+          104.2
+        ],
+        [
+          1.3,
+          103.5
+        ],
+        [
+          1.6,
+          102.8
+        ],
+        [
+          2.2,
+          102
+        ],
+        [
+          2.8,
+          101.3
+        ],
+        [
+          3.5,
+          101
+        ],
+        [
+          4.2,
+          100.6
+        ],
+        [
+          5,
+          100.4
+        ],
+        [
+          5.8,
+          100.2
+        ],
+        [
+          6.5,
+          100.2
+        ]
+      ],
+      [
+        [
+          5.8,
+          95.3
+        ],
+        [
+          5,
+          96.2
+        ],
+        [
+          4.2,
+          97.5
+        ],
+        [
+          3,
+          98.8
+        ],
+        [
+          1.5,
+          100.2
+        ],
+        [
+          0,
+          101.5
+        ],
+        [
+          -1.5,
+          103
+        ],
+        [
+          -2.8,
+          104.2
+        ],
+        [
+          -4,
+          105.5
+        ],
+        [
+          -5.2,
+          105.8
+        ],
+        [
+          -5.8,
+          104.5
+        ],
+        [
+          -4.8,
+          103.2
+        ],
+        [
+          -3.5,
+          102
+        ],
+        [
+          -2,
+          100.8
+        ],
+        [
+          -0.5,
+          99.5
+        ],
+        [
+          1,
+          98.2
+        ],
+        [
+          2.5,
+          97
+        ],
+        [
+          4,
+          96
+        ],
+        [
+          5,
+          95.5
+        ],
+        [
+          5.8,
+          95.3
+        ]
+      ],
+      [
+        [
+          7,
+          116.8
+        ],
+        [
+          6,
+          117.5
+        ],
+        [
+          5.2,
+          118.8
+        ],
+        [
+          4.5,
+          118.5
+        ],
+        [
+          3,
+          118.8
+        ],
+        [
+          1.5,
+          119
+        ],
+        [
+          0,
+          118.2
+        ],
+        [
+          -1.5,
+          117
+        ],
+        [
+          -2.8,
+          116.2
+        ],
+        [
+          -3.5,
+          115
+        ],
+        [
+          -4.2,
+          114
+        ],
+        [
+          -3.8,
+          112.5
+        ],
+        [
+          -3,
+          111
+        ],
+        [
+          -2,
+          109.8
+        ],
+        [
+          -1,
+          109
+        ],
+        [
+          0,
+          109.2
+        ],
+        [
+          1.2,
+          109.5
+        ],
+        [
+          2.5,
+          111
+        ],
+        [
+          3.8,
+          113
+        ],
+        [
+          4.8,
+          114.5
+        ],
+        [
+          5.8,
+          115.8
+        ],
+        [
+          7,
+          116.8
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/great-argus.jpg"
+}

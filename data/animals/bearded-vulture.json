@@ -1,0 +1,318 @@
+{
+  "id": "bearded-vulture",
+  "name_zh": "胡兀鹫",
+  "name_en": "Bearded vulture",
+  "scientific_name": "Gypaetus barbatus",
+  "ui_tags": [
+    "Aves",
+    "Alpine",
+    "Osteophage"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Accipitriformes",
+      "zh": "鹰形目"
+    },
+    "family": {
+      "en": "Accipitridae",
+      "zh": "鹰科"
+    },
+    "genus": {
+      "en": "Gypaetus",
+      "zh": "胡兀鹫属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "The bearded vulture, also known as the lammergeier, is a magnificent bird of prey and the only known vertebrate whose diet consists almost exclusively of bone. Unlike typical vultures, it possesses a fully feathered head and neck, adorned with a distinctive bristly 'beard' beneath its beak. It is renowned for its unique behavior of dropping massive bones from tremendous heights to shatter them on rocks, allowing it to swallow the marrow-rich shards whole.",
+    "zh": "胡兀鹫（又称骨头鹰）是一种宏伟的猛禽，也是已知唯一几乎完全以骨头为食的脊椎动物。与典型的秃鹫不同，它的头部和颈部完全覆盖着羽毛，喙下长有独特的刚毛状“胡须”。它以一种独特的行为而闻名：将巨大的骨头从极高处抛下，使其在岩石上摔碎，从而能够整个吞下富含骨髓的骨头碎片。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Exhibiting a massive wingspan that can exceed 2.8 meters, the bearded vulture is characterized by its long, narrow wings and a distinctive wedge- or lozenge-shaped tail, which provides exceptional maneuverability in turbulent mountain winds. The adult's plumage is striking, featuring dark grey-black upperparts and contrasting rust-orange underparts. This vibrant orange hue is not genetically determined but is acquired through cosmetic coloration, as the bird deliberately bathes in iron-rich, ferruginous mud and water. Its piercing yellow eyes are surrounded by a vivid red sclerotic ring, adding to its formidable appearance. The highly specialized digestive system features extremely acidic gastric juices (pH ~1) capable of dissolving dense bone matter within 24 hours.",
+      "zh": "胡兀鹫的翼展可超过2.8米，其特征是狭长的翅膀和独特的楔形或菱形尾羽，这使其在湍急的山地气流中具有极佳的机动性。成鸟的羽毛十分醒目，上半身呈深灰黑色，下半身则是对比鲜明的铁锈橙色。这种鲜艳的橙色并非由基因决定，而是通过一种“化妆”行为获得的——它们会刻意在富含铁质的泥水中沐浴。其锐利的黄色眼睛被鲜红色的巩膜环包围，更增添了其威猛的外观。其高度特化的消化系统具有极酸的胃液（pH值约为1），能够在24小时内溶解致密的骨质。"
+    },
+    "ecology_and_behavior": {
+      "en": "As an obligate osteophage, bones comprise 85-90% of its diet. It fills a unique ecological niche as the ultimate scavenger, consuming the skeletal remains left behind by other predators and scavengers. When confronted with bones too large to swallow (up to 28 cm in length and 4 cm in diameter), the bearded vulture employs a learned technique: it carries the bone aloft and drops it onto specific rocky outcrops, known as ossuaries, to shatter it. This species is highly territorial and monogamous, often engaging in spectacular aerial courtship displays involving talon-grappling and spiraling descents. They breed on steep, inaccessible cliff ledges, laying one to two eggs, though usually only the first-hatched chick survives due to obligate siblicide.",
+      "zh": "作为一种专性食骨动物，骨头占其食物的85-90%。它作为终极食腐动物占据了独特的生态位，专门消耗其他捕食者和食腐动物留下的骨骼残骸。当遇到大到无法直接吞咽的骨头（长达28厘米，直径4厘米）时，胡兀鹫会采用一种后天习得的技巧：将骨头带到高空，然后将其扔到特定的岩石露头（称为“碎骨场”）上摔碎。该物种具有高度的领地意识且实行一夫一妻制，经常进行壮观的空中求偶表演，包括双爪互锁和螺旋下降。它们在陡峭、难以到达的悬崖壁架上繁殖，产下一到两枚卵，但由于专性同胞相残，通常只有先孵化出的雏鸟才能存活。"
+    },
+    "habitat_and_distribution": {
+      "en": "The bearded vulture is strictly adapted to high-altitude mountainous environments, typically residing at elevations between 1,000 and 4,500 meters, though they have been observed soaring above Mount Everest at 7,300 meters. Their habitat requires rugged cliffs for nesting, thermal updrafts for soaring, and expansive alpine pastures or steppes where wild ungulates or domesticated livestock are present. Their fragmented global distribution spans the Pyrenees, the Alps, the Caucasus, the Zagros Mountains, the Himalayas, the Tibetan Plateau, the Altai Mountains, and isolated populations in the Ethiopian Highlands and the Drakensberg of South Africa.",
+      "zh": "胡兀鹫严格适应高海拔山地环境，通常栖息在海拔1000至4500米之间，尽管曾有人观察到它们在7300米的珠穆朗玛峰上空翱翔。它们的栖息地需要崎岖的悬崖用于筑巢，热上升气流用于翱翔，以及广阔的高山牧场或草原，那里有野生有蹄类动物或家畜出没。它们在全球的分布呈碎片化，横跨比利牛斯山脉、阿尔卑斯山脉、高加索山脉、扎格罗斯山脉、喜马拉雅山脉、青藏高原、阿尔泰山脉，并在埃塞俄比亚高原和南非的德拉肯斯堡山脉有孤立的种群。"
+    }
+  },
+  "habitat": {
+    "text_en": "High-altitude mountain ranges, rugged cliffs, and alpine steppes across Eurasia and Africa.",
+    "text_zh": "横跨欧亚大陆和非洲的高海拔山脉、崎岖悬崖和高山草原。",
+    "map_coordinates": [
+      33.12,
+      85.34
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          35.12,
+          70.23
+        ],
+        [
+          37.45,
+          71.89
+        ],
+        [
+          39.67,
+          73.45
+        ],
+        [
+          41.89,
+          76.12
+        ],
+        [
+          43.21,
+          80.56
+        ],
+        [
+          44.56,
+          85.34
+        ],
+        [
+          47.89,
+          88.12
+        ],
+        [
+          49.23,
+          91.45
+        ],
+        [
+          48.12,
+          94.67
+        ],
+        [
+          45.34,
+          96.89
+        ],
+        [
+          41.23,
+          98.45
+        ],
+        [
+          38.56,
+          101.23
+        ],
+        [
+          35.67,
+          103.45
+        ],
+        [
+          31.89,
+          103.12
+        ],
+        [
+          28.45,
+          100.56
+        ],
+        [
+          27.12,
+          96.34
+        ],
+        [
+          27.45,
+          91.23
+        ],
+        [
+          28.12,
+          86.45
+        ],
+        [
+          29.56,
+          81.23
+        ],
+        [
+          31.45,
+          77.67
+        ],
+        [
+          33.12,
+          74.34
+        ],
+        [
+          35.12,
+          70.23
+        ]
+      ],
+      [
+        [
+          43.12,
+          -1.45
+        ],
+        [
+          42.89,
+          -0.23
+        ],
+        [
+          42.56,
+          1.12
+        ],
+        [
+          42.34,
+          2.45
+        ],
+        [
+          43.67,
+          4.56
+        ],
+        [
+          44.12,
+          6.34
+        ],
+        [
+          45.45,
+          6.89
+        ],
+        [
+          46.23,
+          7.45
+        ],
+        [
+          46.89,
+          9.12
+        ],
+        [
+          47.34,
+          11.45
+        ],
+        [
+          47.67,
+          13.23
+        ],
+        [
+          46.45,
+          14.12
+        ],
+        [
+          45.89,
+          12.34
+        ],
+        [
+          45.12,
+          10.45
+        ],
+        [
+          44.34,
+          8.12
+        ],
+        [
+          43.89,
+          5.67
+        ],
+        [
+          42.12,
+          3.45
+        ],
+        [
+          41.67,
+          1.23
+        ],
+        [
+          41.89,
+          -0.56
+        ],
+        [
+          42.45,
+          -1.89
+        ],
+        [
+          43.12,
+          -1.45
+        ]
+      ],
+      [
+        [
+          13.45,
+          38.12
+        ],
+        [
+          14.12,
+          39.45
+        ],
+        [
+          13.89,
+          40.23
+        ],
+        [
+          12.45,
+          39.89
+        ],
+        [
+          11.12,
+          39.67
+        ],
+        [
+          10.23,
+          39.89
+        ],
+        [
+          9.45,
+          40.12
+        ],
+        [
+          8.12,
+          39.45
+        ],
+        [
+          7.45,
+          38.67
+        ],
+        [
+          6.89,
+          38.12
+        ],
+        [
+          7.23,
+          37.45
+        ],
+        [
+          8.45,
+          36.89
+        ],
+        [
+          9.67,
+          36.45
+        ],
+        [
+          10.89,
+          36.12
+        ],
+        [
+          11.45,
+          36.89
+        ],
+        [
+          12.23,
+          37.45
+        ],
+        [
+          13.45,
+          38.12
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/bearded-vulture.jpg"
+}

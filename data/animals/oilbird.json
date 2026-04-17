@@ -1,0 +1,172 @@
+{
+  "id": "oilbird",
+  "name_zh": "油鸱",
+  "name_en": "Oilbird",
+  "scientific_name": "Steatornis caripensis",
+  "ui_tags": [
+    "Aves",
+    "Cave-dwelling",
+    "Frugivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Steatornithiformes",
+      "zh": "油鸱目"
+    },
+    "family": {
+      "en": "Steatornithidae",
+      "zh": "油鸱科"
+    },
+    "genus": {
+      "en": "Steatornis",
+      "zh": "油鸱属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Oilbird (Steatornis caripensis) is a remarkable, nocturnal, frugivorous avian species, representing the sole member of the family Steatornithidae and order Steatornithiformes. Uniquely adapted to a troglodytic lifestyle, it roosts and breeds in deep, dark cave systems across northern South America and the Andes. It is the only nocturnal flying fruit-eating bird in the world. To navigate the pitch-black subterranean environments, it employs a sophisticated form of echolocation, utilizing high-frequency clicks audible to the human ear, a trait exceedingly rare among avians. Historically, the nestlings, which accumulate massive fat reserves, were harvested and rendered for oil, giving the species its vernacular name.",
+    "zh": "油鸱（Steatornis caripensis）是一种非凡的夜行性食果鸟类，是油鸱科及油鸱目的唯一现存物种。它对穴居生活有着独特的适应性，栖息并繁殖于南美洲北部及安第斯山脉深邃黑暗的洞穴系统中。它是世界上唯一一种夜行性且具有飞行能力的食果鸟类。为了在伸手不见五指的地下环境中导航，油鸱采用了一种复杂的声呐回声定位系统，通过发出人类听觉范围内的的高频咔嗒声来探测障碍物，这一特征在鸟类中极为罕见。在历史上，由于其雏鸟在羽翼丰满前会囤积大量的脂肪，常被当地人捕捉并熬制成油脂，该物种的俗名便由此而来。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Morphologically, the Oilbird exhibits a robust, hawk-like hooked bill surrounded by long, stiff rictal bristles that aid in tactile foraging and navigation. It possesses large, highly adapted eyes with a high density of rod cells, maximizing light gathering in low-light conditions outside the caves. The plumage is predominantly rufous-brown, heavily cryptically patterned with white diamond-shaped spots edged in black. Its wings are exceptionally long and broad, spanning up to 91 cm, allowing for slow, highly maneuverable hovering flight necessary for plucking fruits from the canopy. The feet are small and syndactylous, adapted merely for clinging to vertical cave walls rather than perching.",
+      "zh": "在形态学上，油鸱长有类似鹰的粗壮钩状喙，喙周围环绕着长而坚硬的口须，有助于触觉觅食和导航。它拥有巨大且高度适应暗视力的眼睛，视网膜中含有极高密度的视杆细胞，从而在洞穴外的微光环境中最大化光线收集。其羽毛主要呈红褐色，布满了边缘呈黑色的白色菱形斑点，形成极佳的隐蔽色。油鸱的翼展极长且宽阔，可达91厘米，使其能够进行缓慢且高度灵活的悬停飞行，这对于从树冠上采摘果实至关重要。其足部短小且呈并趾状，仅适应于攀附在垂直的洞穴岩壁上，而不适合在树枝上栖息。"
+    },
+    "ecology_and_behavior": {
+      "en": "As a strictly frugivorous species, the Oilbird's diet consists almost exclusively of lipid-rich fruits from the Lauraceae (laurels), Arecaceae (palms), and Burseraceae (incense trees) families. It plays an indispensable ecological role as a primary seed disperser across neotropical montane and lowland forests, often transporting seeds over vast distances (up to 120 km in a single night) before regurgitating them intact. Highly gregarious, they form massive colonies within caves, where the cacophony of their echolocating clicks and harsh, guttural screeches creates an overwhelming acoustic environment. Breeding is synchronized with fruit availability, and the altricial chicks are fed regurgitated fruit pulp until they reach a weight up to 50% greater than the adults.",
+      "zh": "作为一种严格的食果动物，油鸱的饮食几乎完全由樟科、棕榈科和橄榄科富含脂质的果实组成。它在新热带山地和低地森林中扮演着不可或缺的初级种子散布者角色，通常在将种子完好无损地反刍出来之前，将其运输极远的距离（一夜之间可达120公里）。油鸱具有高度的群居性，在洞穴内形成庞大的群落，它们回声定位的咔嗒声和刺耳的喉音尖叫声交织在一起，营造出一种震耳欲聋的声学环境。其繁殖周期与果实的丰度同步，晚成性的雏鸟由成鸟喂食反刍的果肉，直到它们的体重达到甚至超过成鸟体重的150%。"
+    },
+    "habitat_and_distribution": {
+      "en": "The Oilbird is endemic to the Neotropics, with a distribution closely tracking the Andes mountains and adjacent coastal cordilleras. Its range extends from the island of Trinidad and the coastal mountains of Venezuela, southwards through the Andean ranges of Colombia, Ecuador, Peru, and into the Yungas of Bolivia. The species requires a dual habitat: deep, geologically stable cave systems or deep gorges for diurnal roosting and nesting, and adjacent mature tropical evergreen forests, premontane, and cloud forests for nocturnal foraging.",
+      "zh": "油鸱是新热带界的特有种，其分布范围紧密沿着安第斯山脉及邻近的海岸山脉。它的栖息地从特立尼达岛和委内瑞拉的海岸山脉延伸，向南穿过哥伦比亚、厄瓜多尔、秘鲁的安第斯山脉，一直延伸到玻利维亚的永加斯地区。该物种需要一种双重栖息地：用于日间栖息和筑巢的深邃、地质稳定的洞穴系统或深谷，以及用于夜间觅食的邻近成熟热带常绿阔叶林、山地前林和云雾林。"
+    }
+  },
+  "habitat": {
+    "text_en": "Caves and adjacent tropical forests in northern South America and the Andes.",
+    "text_zh": "南美洲北部及安第斯山脉的洞穴及邻近的热带森林。",
+    "map_coordinates": [
+      4.6,
+      -75.6
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          [
+            10.6,
+            -61.3
+          ],
+          [
+            10.7,
+            -62.3
+          ],
+          [
+            10.2,
+            -63.5
+          ],
+          [
+            10.4,
+            -66.9
+          ],
+          [
+            8.6,
+            -71.1
+          ],
+          [
+            7.1,
+            -73.1
+          ],
+          [
+            4.6,
+            -75.6
+          ],
+          [
+            1.2,
+            -76.8
+          ],
+          [
+            -1.5,
+            -78.2
+          ],
+          [
+            -4,
+            -79.3
+          ],
+          [
+            -6.5,
+            -77.8
+          ],
+          [
+            -10.5,
+            -75.2
+          ],
+          [
+            -13.5,
+            -72.1
+          ],
+          [
+            -16.2,
+            -67.8
+          ],
+          [
+            -17.8,
+            -63.6
+          ],
+          [
+            -15.5,
+            -66.5
+          ],
+          [
+            -12,
+            -71
+          ],
+          [
+            -8,
+            -74.5
+          ],
+          [
+            -2,
+            -77
+          ],
+          [
+            2.5,
+            -74
+          ],
+          [
+            6,
+            -71.5
+          ],
+          [
+            8.5,
+            -62.5
+          ],
+          [
+            10,
+            -61
+          ],
+          [
+            10.6,
+            -61.3
+          ]
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/oilbird.jpg"
+}

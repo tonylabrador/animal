@@ -1,0 +1,194 @@
+{
+  "id": "andean-condor",
+  "name_zh": "安第斯神鹫",
+  "name_en": "Andean condor",
+  "scientific_name": "Vultur gryphus",
+  "ui_tags": [
+    "Aves",
+    "Mountains",
+    "Scavenger"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Cathartiformes",
+      "zh": "美洲鹫目"
+    },
+    "family": {
+      "en": "Cathartidae",
+      "zh": "美洲鹫科"
+    },
+    "genus": {
+      "en": "Vultur",
+      "zh": "神鹫属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The Andean condor (Vultur gryphus) is a massive South American Cathartid vulture and the largest flying bird in the world by combined measurement of weight and wingspan. Inhabiting the rugged terrain of the Andes mountains and adjacent Pacific coasts, this apex scavenger plays a critical ecological role in disease control by disposing of carrion. Characterized by a striking bald head, a distinctive white collar, and profound sexual dimorphism where males possess a prominent fleshy caruncle, the condor is a master of soaring flight, utilizing thermal updrafts to traverse hundreds of kilometers daily with minimal energy expenditure.",
+    "zh": "安第斯神鹫（Vultur gryphus），又名康多兀鹫，是南美洲一种体型巨大的美洲鹫科鸟类，也是世界上体重与翼展综合尺寸最大的现存飞禽。它们栖息于安第斯山脉的崎岖高地及毗邻的太平洋海岸，作为顶级食腐动物，通过清除动物尸体在控制疾病传播方面发挥着至关重要的生态作用。其形态特征包括裸露的头部、醒目的白色颈环，以及显著的雌雄异形现象（雄性头部具有肉冠）。安第斯神鹫是滑翔飞行的大师，能够巧妙利用上升热气流，以极低的能量消耗每天巡航数百公里。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Exhibiting a wingspan that can exceed 3.3 meters (10 ft 10 in) and a weight of up to 15 kg (33 lbs), the Andean condor's anatomy is highly specialized for a scavenging lifestyle. Its plumage is predominantly black, contrasted by a basal collar of white feathers and, in males, large white bands across the wings. The head and neck are nearly featherless, an adaptation for hygiene when feeding on carcasses, and the skin color can flush in response to emotional state, serving as a visual communicator. Unlike most birds of prey, the male is larger than the female and bears a dark red caruncle (comb) on the crown. The beak is robust and sharply hooked, engineered to tear through tough mammalian hides.",
+      "zh": "安第斯神鹫的翼展可超过3.3米，体重高达15公斤，其解剖结构高度特化以适应食腐生活。其羽毛主要呈黑色，颈部基部有一圈白色羽领形成鲜明对比，雄性双翼还带有宽阔的白色条纹。头部和颈部几乎无羽毛，这是一种适应性特征，可防止在进食尸体时弄脏，且其皮肤颜色会随情绪状态发生变化，作为视觉交流的信号。与大多数猛禽不同，雄性体型大于雌性，且头顶长有暗红色的肉冠。其喙部粗壮且呈锐利的钩状，专为撕裂坚韧的哺乳动物皮肉而演化。"
+    },
+    "ecology_and_behavior": {
+      "en": "As an obligate scavenger, the Andean condor primarily feeds on large carcasses, such as llamas, alpacas, rheas, and domestic cattle. Along the coast, their diet supplements with marine mammal carcasses. They possess a complex social structure at feeding sites, governed by a strict dominance hierarchy based on age and sex, with adult males typically feeding first. Their reproductive rate is exceptionally low; females lay a single egg every two years, and the chick requires over a year of parental care. They are incredibly long-lived, with lifespans reaching up to 70 years in captivity, making their populations highly sensitive to anthropogenic mortality.",
+      "zh": "作为专性食腐动物，安第斯神鹫主要以大型动物尸体为食，如羊驼、美洲鸵和家牛。在沿海地区，它们的饮食会补充海洋哺乳动物的尸体。它们在进食场所展现出复杂的社会结构，受基于年龄和性别的严格等级制度支配，成年雄性通常优先进食。其繁殖率极低；雌性每两年仅产一枚卵，雏鸟需要一年以上的亲鸟抚育。它们的寿命极长，圈养状态下可达70年，这使得其种群对人类活动导致的死亡率极为敏感。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species is endemic to South America, distributed continuously along the Andes mountain range from Venezuela and Colombia in the north, through Ecuador, Peru, Bolivia, and Chile, down to Tierra del Fuego in Argentina. They favor high-altitude alpine regions up to 5,000 meters, characterized by open grasslands and alpine tundra, which facilitate the detection of carrion from the air. They also frequent coastal regions with strong sea breezes and desert cliffs that provide optimal nesting sites and reliable thermal updrafts.",
+      "zh": "该物种是南美洲的特有种，沿着安第斯山脉呈连续分布，北起委内瑞拉和哥伦比亚，途经厄瓜多尔、秘鲁、玻利维亚和智利，南至阿根廷的火地岛。它们偏好海拔高达5000米的高山地区，这些地区以开阔的草原和高山冻原为特征，便于从空中搜寻尸体。它们也经常出没于海风强劲的沿海地区和沙漠悬崖，这些地形为它们提供了理想的筑巢地点和可靠的上升热气流。"
+    }
+  },
+  "habitat": {
+    "text_en": "Endemic to the Andes mountains and adjacent Pacific coasts of South America, ranging from Colombia to Tierra del Fuego.",
+    "text_zh": "特产于南美洲安第斯山脉及毗邻的太平洋海岸，分布范围北起哥伦比亚，南至火地岛。",
+    "map_coordinates": [
+      -20,
+      -68
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          11,
+          -73.5
+        ],
+        [
+          8.5,
+          -71.5
+        ],
+        [
+          5,
+          -75.5
+        ],
+        [
+          0,
+          -78
+        ],
+        [
+          -5,
+          -79.5
+        ],
+        [
+          -10,
+          -78
+        ],
+        [
+          -14,
+          -75
+        ],
+        [
+          -18,
+          -70
+        ],
+        [
+          -22,
+          -68
+        ],
+        [
+          -28,
+          -69
+        ],
+        [
+          -32,
+          -70
+        ],
+        [
+          -38,
+          -71.5
+        ],
+        [
+          -45,
+          -72
+        ],
+        [
+          -50,
+          -73
+        ],
+        [
+          -54,
+          -70
+        ],
+        [
+          -55,
+          -67
+        ],
+        [
+          -52,
+          -69
+        ],
+        [
+          -48,
+          -70
+        ],
+        [
+          -42,
+          -70.5
+        ],
+        [
+          -35,
+          -69.5
+        ],
+        [
+          -28,
+          -67.5
+        ],
+        [
+          -22,
+          -65
+        ],
+        [
+          -18,
+          -64
+        ],
+        [
+          -14,
+          -69
+        ],
+        [
+          -10,
+          -75
+        ],
+        [
+          -5,
+          -77
+        ],
+        [
+          0,
+          -76
+        ],
+        [
+          5,
+          -73
+        ],
+        [
+          8.5,
+          -70
+        ],
+        [
+          11,
+          -73.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/andean-condor.jpg"
+}

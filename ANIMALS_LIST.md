@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **353** 种动物
+**统计**：共 **369** 种动物
 
 ---
 
@@ -227,9 +227,11 @@
 **海豹科**
 
 - 豹海豹 / Leopard seal — *Hydrurga leptonyx* `leopard-seal`
+- 北象海豹 / Northern elephant seal — *Mirounga angustirostris* `northern-elephant-seal`
 
 **熊科**
 
+- 美洲黑熊 / American black bear — *Ursus americanus* `american-black-bear`
 - 棕熊 / Brown Bear — *Ursus arctos* `brown-bear`
 - 大熊猫 / Giant Panda — *Ailuropoda melanoleuca* `giant-panda`
 - 北极熊 / Polar Bear — *Ursus maritimus* `polar-bear`
@@ -242,6 +244,7 @@
 - 北极狐 / Arctic Fox — *Vulpes lagopus* `arctic-fox`
 - 大耳狐 / Bat-eared Fox — *Otocyon megalotis* `bat-eared-fox`
 - 薮犬 / Bush Dog — *Speothos venaticus* `bush-dog`
+- 岛屿灰狐 / Channel Island Fox — *Urocyon littoralis* `channel-island-fox`
 - 郊狼 / Coyote — *Canis latrans* `coyote`
 - 达尔文狐 / Darwin's fox — *Lycalopex fulvipes* `darwins-fox`
 - 豺 / Dhole — *Cuon alpinus* `dhole`
@@ -435,6 +438,12 @@
 
 - 小斑几维鸟 / Little spotted kiwi — *Apteryx owenii* `little-spotted-kiwi`
 
+### 咬鹃目
+
+**咬鹃科**
+
+- 凤尾绿咬鹃 / Resplendent quetzal — *Pharomachrus mocinno* `resplendent-quetzal`
+
 ### 夜鹰目
 
 **夜鹰科**
@@ -446,6 +455,12 @@
 **林鸱科**
 
 - 北方林鸱 / Northern Potoo — *Nyctibius jamaicensis* `northern-potoo`
+
+### 油鸱目
+
+**油鸱科**
+
+- 油鸱 / Oilbird — *Steatornis caripensis* `oilbird`
 
 ### 犀鸟目
 
@@ -463,6 +478,7 @@
 
 **美洲鹫科**
 
+- 安第斯神鹫 / Andean condor — *Vultur gryphus* `andean-condor`
 - 红头美洲鹫 / Turkey Vulture — *Cathartes aura* `turkey-vulture`
 
 ### 隼形目
@@ -505,6 +521,7 @@
 **极乐鸟科**
 
 - 大天堂鸟 / Greater Bird-of-paradise — *Paradisaea apoda* `greater-bird-of-paradise`
+- 王极乐鸟 / King bird-of-paradise — *Cicinnurus regius* `king-bird-of-paradise`
 - 威氏极乐鸟 / Wilson's Bird-of-paradise — *Cicinnurus respublica* `wilsons-bird-of-paradise`
 
 **森莺科**
@@ -593,6 +610,10 @@
 
 ### 鲣鸟目
 
+**蛇鹈科**
+
+- 美洲蛇鹈 / Anhinga — *Anhinga anhinga* `anhinga`
+
 **鲣鸟科**
 
 - 蓝脚鲣鸟 / Blue-footed booby — *Sula nebouxi* `blue-footed-booby`
@@ -614,10 +635,15 @@
 **雉科**
 
 - 褐马鸡 / Brown Eared Pheasant — *Crossoptilon mantchuricum* `brown-eared-pheasant`
+- 雉鸡 / Common Pheasant — *Phasianus colchicus* `common-pheasant`
 - 红腹锦鸡 / Golden Pheasant — *Chrysolophus pictus* `golden-pheasant`
+- 大眼斑雉 / Great Argus — *Argusianus argus* `great-argus`
 - 灰山鹑 / Grey Partridge — *Perdix perdix* `grey-partridge`
+- 棕尾虹雉 / Himalayan Monal — *Lophophorus impejanus* `himalayan-monal`
 - 蓝孔雀 / Indian Peafowl — *Pavo cristatus* `indian-peafowl`
+- 白腹锦鸡 / Lady Amherst's Pheasant — *Chrysolophus amherstiae* `lady-amhersts-pheasant`
 - 原鸡 / Red Junglefowl — *Gallus gallus* `red-junglefowl`
+- 红腹角雉 / Temminck's Tragopan — *Tragopan temminckii* `temmincks-tragopan`
 
 ### 鸮形目
 
@@ -632,6 +658,12 @@
 **鸵鸟科**
 
 - 非洲鸵鸟 / Common Ostrich — *Struthio camelus* `common-ostrich`
+
+### 鸽形目
+
+**鸠鸽科**
+
+- 维多利亚冠鸠 / Victoria Crowned Pigeon — *Goura victoria* `victoria-crowned-pigeon`
 
 ### 鹃形目
 
@@ -657,6 +689,7 @@
 
 **鹭科**
 
+- 大麻鳽 / Great bittern — *Botaurus stellaris* `great-bittern`
 - 大蓝鹭 / Great Blue Heron — *Ardea herodias* `great-blue-heron`
 - 小白鹭 / Little Egret — *Egretta garzetta* `little-egret`
 
@@ -709,6 +742,7 @@
 **鹰科**
 
 - 白头海雕 / Bald Eagle — *Haliaeetus leucocephalus* `bald-eagle`
+- 胡兀鹫 / Bearded vulture — *Gypaetus barbatus* `bearded-vulture`
 - 角雕 / Harpy Eagle — *Harpia harpyja* `harpy-eagle`
 - 苍鹰 / Northern Goshawk — *Accipiter gentilis* `northern-goshawk`
 - 红尾鵟 / Red-tailed Hawk — *Buteo jamaicensis* `red-tailed-hawk`

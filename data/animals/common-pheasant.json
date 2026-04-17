@@ -1,0 +1,362 @@
+{
+  "id": "common-pheasant",
+  "name_zh": "雉鸡",
+  "name_en": "Common Pheasant",
+  "scientific_name": "Phasianus colchicus",
+  "ui_tags": [
+    "Aves",
+    "Terrestrial",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Galliformes",
+      "zh": "鸡形目"
+    },
+    "family": {
+      "en": "Phasianidae",
+      "zh": "雉科"
+    },
+    "genus": {
+      "en": "Phasianus",
+      "zh": "雉属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Common Pheasant (Phasianus colchicus) is a highly adaptable, sexually dimorphic gamebird native to the Palearctic realm, spanning from the Black Sea to the Korean Peninsula. Renowned for its remarkable ecological plasticity, it has been extensively introduced across Europe, North America, and Australasia, becoming one of the world's most widespread and recognizable avian species. Males exhibit spectacular iridescent plumage, prominent red facial wattles, and elongated, barred tail feathers, while females possess highly effective cryptic mottled brown coloration essential for ground nesting camouflage.",
+    "zh": "雉鸡（Phasianus colchicus），又名环颈雉，是一种原产于古北界（从黑海延伸至朝鲜半岛）的高度适应性且具有显著雌雄二型性的陆禽。由于其非凡的生态可塑性，该物种已被广泛引入欧洲、北美和澳大拉西亚，成为全球分布最广、最具辨识度的鸟类之一。雄鸟拥有壮丽的虹彩羽毛、醒目的红色面部肉垂以及修长且带有横斑的尾羽；而雌鸟则呈现出极具隐蔽性的斑驳褐色羽衣，这对于其在地面筑巢时的伪装至关重要。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Exhibiting extreme sexual dimorphism, the adult male pheasant measures 60-89 cm in length, with a long, sweeping tail accounting for nearly 50 cm. Its plumage is a complex mosaic of copper, gold, and iridescent greens and purples, often featuring a distinctive white neck ring (depending on the subspecies). The head is adorned with prominent red fleshy wattles and ear tufts. Males also possess sharp tarsal spurs used in intraspecific combat. Females are significantly smaller (50-63 cm) and lack the vibrant colors, instead displaying a cryptic pattern of pale brown, black, and grey mottling, which provides critical camouflage against terrestrial predators during incubation.",
+      "zh": "雉鸡展现出极端的雌雄二型性。成年雄鸟体长60至89厘米，其中修长飘逸的尾羽几乎占去50厘米。其羽衣是铜色、金色以及闪烁着虹彩的绿色和紫色的复杂马赛克，通常带有独特的白色颈环（取决于亚种）。头部装饰有醒目的红色肉质面颊和耳羽簇。雄鸟还长有锋利的跗跖距，用于种内格斗。雌鸟体型明显较小（50至63厘米），缺乏鲜艳的色彩，取而代之的是由浅褐色、黑色和灰色斑驳组成的隐蔽图案，这在孵化期间为其抵御陆生捕食者提供了关键的伪装。"
+    },
+    "ecology_and_behavior": {
+      "en": "Primarily a terrestrial species, the Common Pheasant is an opportunistic omnivore, foraging by scratching the ground for seeds, grains, berries, insects, and occasionally small vertebrates. They possess a polygynous mating system where dominant males establish and fiercely defend territories, attracting harems of several females. When threatened, they prefer to run into dense cover but can execute explosive, near-vertical take-offs, achieving flight speeds of up to 60 km/h, though they rarely sustain flight for long distances. Roosting typically occurs in trees to evade nocturnal mammalian predators.",
+      "zh": "作为一种主要在地面活动的物种，雉鸡是机会主义的杂食动物，通过在地面刨抓来觅食种子、谷物、浆果、昆虫，偶尔也捕食小型脊椎动物。它们实行一夫多妻的交配系统，占据主导地位的雄鸟会建立并激烈保卫领地，吸引由多只雌鸟组成的“后宫”。当受到威胁时，它们倾向于跑入茂密的灌木丛中隐蔽，但也能进行爆发性的近乎垂直的起飞，飞行速度可达60公里/小时，尽管它们很少进行长距离的持续飞行。为了躲避夜行性哺乳动物的捕食，它们通常在树上栖息。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species thrives in highly mosaic landscapes, demonstrating a strong preference for transitional zones such as woodland edges, agricultural fields, hedgerows, and wetlands. While its native range encompasses diverse Asian habitats from the steppes of the Caucasus to the temperate forests of China, its introduced populations have successfully colonized similar agro-ecosystems globally. They require a combination of dense understory for nesting and roosting, alongside open foraging grounds.",
+      "zh": "该物种在高度镶嵌的景观中繁衍生息，对林缘、农田、绿篱和湿地等过渡地带表现出强烈的偏好。虽然其原生地涵盖了从高加索草原到中国温带森林的多种亚洲生境，但其引入种群已成功在全球类似的农业生态系统中定殖。它们需要茂密的林下植被用于筑巢和栖息，同时还需要开阔的觅食场地。"
+    }
+  },
+  "habitat": {
+    "text_en": "Native to Asia and widely introduced globally, inhabiting woodland edges, agricultural lands, and scrublands.",
+    "text_zh": "原产于亚洲并在全球广泛引入，栖息于林缘、农田和灌木丛中。",
+    "map_coordinates": [
+      45,
+      80
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          50.2,
+          127.5
+        ],
+        [
+          48.5,
+          132.1
+        ],
+        [
+          46.3,
+          136.8
+        ],
+        [
+          43.1,
+          131.5
+        ],
+        [
+          39.8,
+          127.9
+        ],
+        [
+          35.2,
+          129.3
+        ],
+        [
+          34.1,
+          126.5
+        ],
+        [
+          31.8,
+          121.9
+        ],
+        [
+          28.5,
+          121.2
+        ],
+        [
+          25.4,
+          119.6
+        ],
+        [
+          22.8,
+          115.3
+        ],
+        [
+          22.1,
+          111.8
+        ],
+        [
+          23.5,
+          105.4
+        ],
+        [
+          25.8,
+          99.2
+        ],
+        [
+          28.4,
+          96.5
+        ],
+        [
+          32.1,
+          97.8
+        ],
+        [
+          36.5,
+          94.2
+        ],
+        [
+          40.2,
+          92.5
+        ],
+        [
+          43.8,
+          87.3
+        ],
+        [
+          46.5,
+          91.2
+        ],
+        [
+          48.1,
+          98.5
+        ],
+        [
+          49.5,
+          106.3
+        ],
+        [
+          51.2,
+          115.8
+        ],
+        [
+          51.8,
+          122.4
+        ],
+        [
+          50.2,
+          127.5
+        ]
+      ],
+      [
+        [
+          56.5,
+          -4.2
+        ],
+        [
+          53.1,
+          -2.5
+        ],
+        [
+          50.8,
+          -4.1
+        ],
+        [
+          48.2,
+          -3.5
+        ],
+        [
+          44.5,
+          -1.2
+        ],
+        [
+          43.2,
+          3.8
+        ],
+        [
+          44.8,
+          8.5
+        ],
+        [
+          42.1,
+          12.3
+        ],
+        [
+          40.5,
+          16.8
+        ],
+        [
+          41.2,
+          23.5
+        ],
+        [
+          40.8,
+          28.4
+        ],
+        [
+          41.5,
+          35.2
+        ],
+        [
+          40.2,
+          42.1
+        ],
+        [
+          42.8,
+          48.5
+        ],
+        [
+          46.5,
+          49.2
+        ],
+        [
+          50.1,
+          45.8
+        ],
+        [
+          53.5,
+          42.1
+        ],
+        [
+          56.2,
+          38.5
+        ],
+        [
+          58.4,
+          32.1
+        ],
+        [
+          59.5,
+          25.4
+        ],
+        [
+          60.2,
+          18.5
+        ],
+        [
+          58.1,
+          12.2
+        ],
+        [
+          55.4,
+          8.5
+        ],
+        [
+          56.5,
+          -4.2
+        ]
+      ],
+      [
+        [
+          48.5,
+          -122.8
+        ],
+        [
+          45.2,
+          -123.5
+        ],
+        [
+          41.8,
+          -121.2
+        ],
+        [
+          39.5,
+          -118.4
+        ],
+        [
+          38.2,
+          -112.5
+        ],
+        [
+          37.5,
+          -105.8
+        ],
+        [
+          38.8,
+          -98.2
+        ],
+        [
+          39.5,
+          -92.4
+        ],
+        [
+          40.2,
+          -85.6
+        ],
+        [
+          40.8,
+          -78.5
+        ],
+        [
+          42.5,
+          -72.1
+        ],
+        [
+          45.2,
+          -68.5
+        ],
+        [
+          47.8,
+          -70.2
+        ],
+        [
+          46.5,
+          -76.8
+        ],
+        [
+          48.2,
+          -82.5
+        ],
+        [
+          49.5,
+          -88.4
+        ],
+        [
+          51.2,
+          -95.6
+        ],
+        [
+          52.8,
+          -102.5
+        ],
+        [
+          53.5,
+          -110.2
+        ],
+        [
+          51.8,
+          -116.5
+        ],
+        [
+          49.5,
+          -120.2
+        ],
+        [
+          48.5,
+          -122.8
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/common-pheasant.jpg"
+}

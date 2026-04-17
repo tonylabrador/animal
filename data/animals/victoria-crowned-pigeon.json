@@ -1,0 +1,298 @@
+{
+  "id": "victoria-crowned-pigeon",
+  "name_zh": "维多利亚冠鸠",
+  "name_en": "Victoria Crowned Pigeon",
+  "scientific_name": "Goura victoria",
+  "ui_tags": [
+    "Aves",
+    "Forest",
+    "Frugivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Columbiformes",
+      "zh": "鸽形目"
+    },
+    "family": {
+      "en": "Columbidae",
+      "zh": "鸠鸽科"
+    },
+    "genus": {
+      "en": "Goura",
+      "zh": "冠鸠属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "The Victoria Crowned Pigeon (Goura victoria) is a magnificent, terrestrial bird and the largest surviving species of pigeon on Earth. Endemic to the lowland and swamp forests of northern New Guinea, this spectacular avian is instantly recognizable by its ornate, laterally compressed crest of lacy, white-tipped feathers that resemble a regal diadem. Exhibiting a striking bluish-grey plumage contrasted by a deep maroon breast and vivid red irises, it represents a pinnacle of columbid evolution. Ecologically, it plays a critical role as a seed disperser within its dense, humid forest habitat, foraging predominantly on fallen fruits, particularly figs.",
+    "zh": "维多利亚冠鸠（Goura victoria）是一种宏伟的陆生鸟类，也是地球上现存体型最大的鸽形目物种。这种壮观的鸟类是新几内亚北部低地和沼泽森林的特有种，其最显著的特征是头顶侧扁、呈蕾丝状且带有白色扇形羽尖的华丽冠羽，宛如一顶皇冠。它拥有醒目的蓝灰色羽毛，与深栗色的胸部和鲜红色的虹膜形成鲜明对比，代表了鸠鸽科演化的巅峰。在生态学上，它在其茂密潮湿的森林栖息地中扮演着至关重要的种子传播者角色，主要在林地底层觅食掉落的果实（尤其是无花果）。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Reaching lengths of up to 74 cm and weighing over 2.5 kg, the Victoria Crowned Pigeon exhibits robust, terrestrial adaptations. Its most defining feature is the spectacular crest of filoplumes, each ending in a distinct white, spatulate tip. The plumage is predominantly a rich, powdery blue-grey, with a striking purplish-maroon patch on the lower breast and belly. The wings feature a pale blue wing bar with dark edging. It possesses strong, purplish-red legs adapted for extensive walking, and large, expressive eyes with bright carmine-red irises surrounded by a dark mask.",
+      "zh": "维多利亚冠鸠体长可达74厘米，体重超过2.5公斤，展现出强健的陆生适应性。其最具标志性的特征是壮观的纤羽冠，每根羽毛末端都有明显的白色匙状羽尖。其羽衣主要呈浓郁的粉蓝灰色，下胸部和腹部有一块醒目的紫栗色斑块。翅膀上具有带深色边缘的浅蓝色翼纹。它拥有强壮的紫红色双腿，适合长时间行走；眼睛大而富有表现力，鲜红色的虹膜被深色面罩般的羽毛所环绕。"
+    },
+    "ecology_and_behavior": {
+      "en": "Highly gregarious, these pigeons typically forage in small flocks of 2 to 10 individuals on the forest floor. They are primarily frugivorous, showing a strong preference for fallen figs, but will opportunistically consume seeds and invertebrates. When threatened, they exhibit a startling defense mechanism, flying up into the canopy with a loud, explosive clapping of their wings. They are monogamous, with males performing elaborate bowing courtship displays. Both parents incubate the single egg and produce 'crop milk' to nourish the squab.",
+      "zh": "这种冠鸠具有高度的群居性，通常以2到10只的小群在森林底层觅食。它们主要以食果为主，对掉落的无花果表现出强烈的偏好，但也会伺机消耗种子和无脊椎动物。当受到威胁时，它们会展现出令人震惊的防御机制，伴随着巨大且爆发性的拍击翅膀声飞入树冠层。它们实行一夫一妻制，雄鸟会进行复杂的鞠躬求偶炫耀。双亲共同孵化单枚卵，并分泌“鸽乳”来哺育雏鸟。"
+    },
+    "habitat_and_distribution": {
+      "en": "Strictly endemic to the Australasian realm, the Victoria Crowned Pigeon is confined to the northern regions of New Guinea and the adjacent islands of Biak and Yapen. It predominantly inhabits undisturbed lowland rainforests, sago swamps, and alluvial forests, typically at elevations below 600 meters. The species requires dense canopy cover and a relatively open forest floor for optimal foraging.",
+      "zh": "维多利亚冠鸠严格特有于澳新界，仅分布于新几内亚北部地区以及邻近的比亚克岛（Biak）和亚彭岛（Yapen）。它主要栖息于未受破坏的低地雨林、西米沼泽和冲积森林中，通常在海拔600米以下。该物种需要茂密的树冠覆盖和相对开阔的森林底层，以实现最佳的觅食效率。"
+    }
+  },
+  "habitat": {
+    "text_en": "Lowland rainforests, sago swamps, and alluvial forests of northern New Guinea, Biak, and Yapen islands.",
+    "text_zh": "新几内亚北部、比亚克岛和亚彭岛的低地雨林、西米沼泽和冲积森林。",
+    "map_coordinates": [
+      -2.5,
+      138
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -0.85,
+          131.25
+        ],
+        [
+          -0.65,
+          132.1
+        ],
+        [
+          -0.75,
+          133.5
+        ],
+        [
+          -1.2,
+          134.8
+        ],
+        [
+          -1.65,
+          135.9
+        ],
+        [
+          -1.85,
+          137.2
+        ],
+        [
+          -1.7,
+          138.6
+        ],
+        [
+          -1.95,
+          139.8
+        ],
+        [
+          -2.4,
+          140.9
+        ],
+        [
+          -3.1,
+          142.2
+        ],
+        [
+          -3.45,
+          143.6
+        ],
+        [
+          -3.9,
+          144.9
+        ],
+        [
+          -4.6,
+          145.6
+        ],
+        [
+          -5.1,
+          144.7
+        ],
+        [
+          -4.4,
+          143.2
+        ],
+        [
+          -3.8,
+          141.6
+        ],
+        [
+          -3.3,
+          140.1
+        ],
+        [
+          -2.8,
+          138.7
+        ],
+        [
+          -2.3,
+          137.1
+        ],
+        [
+          -1.9,
+          135.2
+        ],
+        [
+          -1.4,
+          133.1
+        ],
+        [
+          -1.1,
+          131.6
+        ],
+        [
+          -0.85,
+          131.25
+        ]
+      ],
+      [
+        [
+          -0.75,
+          135.75
+        ],
+        [
+          -0.65,
+          135.85
+        ],
+        [
+          -0.6,
+          135.95
+        ],
+        [
+          -0.65,
+          136.05
+        ],
+        [
+          -0.7,
+          136.15
+        ],
+        [
+          -0.8,
+          136.25
+        ],
+        [
+          -0.9,
+          136.3
+        ],
+        [
+          -1,
+          136.25
+        ],
+        [
+          -1.1,
+          136.15
+        ],
+        [
+          -1.15,
+          136.05
+        ],
+        [
+          -1.1,
+          135.95
+        ],
+        [
+          -1,
+          135.85
+        ],
+        [
+          -0.9,
+          135.75
+        ],
+        [
+          -0.85,
+          135.7
+        ],
+        [
+          -0.8,
+          135.72
+        ],
+        [
+          -0.75,
+          135.75
+        ]
+      ],
+      [
+        [
+          -1.6,
+          135.5
+        ],
+        [
+          -1.55,
+          135.7
+        ],
+        [
+          -1.5,
+          135.9
+        ],
+        [
+          -1.55,
+          136.1
+        ],
+        [
+          -1.6,
+          136.3
+        ],
+        [
+          -1.65,
+          136.5
+        ],
+        [
+          -1.7,
+          136.7
+        ],
+        [
+          -1.75,
+          136.8
+        ],
+        [
+          -1.8,
+          136.7
+        ],
+        [
+          -1.85,
+          136.5
+        ],
+        [
+          -1.8,
+          136.3
+        ],
+        [
+          -1.75,
+          136.1
+        ],
+        [
+          -1.7,
+          135.9
+        ],
+        [
+          -1.65,
+          135.7
+        ],
+        [
+          -1.62,
+          135.55
+        ],
+        [
+          -1.6,
+          135.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/victoria-crowned-pigeon.jpg"
+}

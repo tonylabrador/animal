@@ -1,0 +1,234 @@
+{
+  "id": "northern-elephant-seal",
+  "name_zh": "北象海豹",
+  "name_en": "Northern elephant seal",
+  "scientific_name": "Mirounga angustirostris",
+  "ui_tags": [
+    "Mammalia",
+    "Marine",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Phocidae",
+      "zh": "海豹科"
+    },
+    "genus": {
+      "en": "Mirounga",
+      "zh": "象海豹属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Northern elephant seal (Mirounga angustirostris) is a colossal marine mammal belonging to the family Phocidae, renowned for its extreme sexual dimorphism and the extraordinary proboscis developed by mature males. Exhibiting one of the most remarkable recoveries in mammalian conservation history, this species rebounded from a genetic bottleneck of fewer than 100 individuals in the late 19th century to a thriving population today. They are pelagic predators that spend up to 80% of their lives in the open ocean, undertaking monumental biannual migrations across the North Pacific Ocean, diving to abyssal depths to forage on mesopelagic cephalopods and teleost fishes.",
+    "zh": "北象海豹（Mirounga angustirostris）是海豹科中体型庞大的海洋哺乳动物，以其极端的两性异形和成年雄性发育出的奇特长鼻而闻名于世。作为哺乳动物保护史上最显著的复苏案例之一，该物种从19世纪末不足100只的遗传瓶颈期成功反弹至如今的繁盛种群。它们是典型的远洋捕食者，生命中高达80%的时间都在开阔的海洋中度过，每年在北太平洋进行两次史诗般的迁徙，并潜入深海深渊捕食中层水域的头足类动物和硬骨鱼类。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Exhibiting profound sexual dimorphism, adult males can reach lengths of 4 to 5 meters and weigh up to 2,300 kilograms, whereas females are significantly smaller, typically measuring 2.5 to 3.6 meters and weighing between 400 and 900 kilograms. The defining morphological feature of the adult male is the large, inflatable proboscis, which serves dual functions: amplifying vocalizations during intense territorial disputes and reabsorbing moisture from exhalations during prolonged terrestrial fasting. Their fusiform bodies are insulated by a thick layer of blubber, and their large, spherical eyes are adapted with a high concentration of rod cells and a tapetum lucidum for exceptional vision in the aphotic zones of the ocean.",
+      "zh": "北象海豹表现出显著的两性异形，成年雄性体长可达4至5米，体重高达2300公斤；而雌性体型要小得多，通常体长在2.5至3.6米之间，体重在400至900公斤之间。成年雄性最具标志性的形态特征是其巨大且可膨胀的长鼻，该器官具有双重功能：在激烈的领地争夺战中放大吼叫声，以及在漫长的陆地禁食期间从呼出的气体中重新吸收水分。它们呈纺锤形的身体被厚厚的脂肪层包裹以保暖，其巨大且呈球形的眼睛富含视杆细胞并具有照膜，完全适应了海洋无光带的极佳视觉需求。"
+    },
+    "ecology_and_behavior": {
+      "en": "The species is characterized by a highly polygynous mating system where a single dominant alpha male may control a harem of up to 50 females, defending his territory through brutal, bloody combat. They are extreme divers, routinely descending to depths of 300 to 800 meters, with maximum recorded dives exceeding 1,500 meters, lasting up to two hours. This physiological marvel is facilitated by high blood volume, elevated myoglobin concentrations in muscle tissue, and the ability to collapse their lungs to prevent decompression sickness. Their diet consists primarily of vertically migrating mesopelagic squid, benthic elasmobranchs, and various deep-water teleosts.",
+      "zh": "该物种具有高度的一夫多妻制交配系统，一只占主导地位的阿尔法雄性可以控制多达50只雌性的后宫，并通过残酷血腥的战斗来保卫其领地。它们是极端的潜水者，通常下潜至300到800米的深度，最高记录的潜水深度超过1500米，持续时间长达两小时。这种生理奇迹得益于其极高的血容量、肌肉组织中升高的肌红蛋白浓度，以及能够使肺部塌陷以防止减压病的特殊能力。它们的饮食主要包括垂直迁移的中层水域鱿鱼、底栖板鳃亚纲动物以及各种深水硬骨鱼类。"
+    },
+    "habitat_and_distribution": {
+      "en": "Northern elephant seals exhibit a biphasic lifestyle, dividing their time between pelagic foraging in the eastern and central North Pacific Ocean and terrestrial breeding and molting on offshore islands and remote mainland beaches. Their primary breeding rookeries are concentrated along the coast of California, USA, and Baja California, Mexico, including prominent sites such as the Channel Islands, Año Nuevo State Park, and Piedras Blancas. During the foraging phase, males typically migrate northwards towards the Aleutian Islands and the Gulf of Alaska to feed on benthic prey, while females migrate further west into the pelagic zones of the North Pacific to forage in the deep scattering layer.",
+      "zh": "北象海豹呈现出双相的生活方式，它们的时间分配在北太平洋东部和中部的远洋觅食，以及在近海岛屿和偏远大陆海滩上的陆地繁殖和换毛之间。它们的主要繁殖地集中在美国加利福尼亚州和墨西哥下加利福尼亚州的海岸沿线，包括海峡群岛、阿诺努埃沃州立公园和皮德拉斯布兰卡斯等著名地点。在觅食阶段，雄性通常向北迁徙至阿留申群岛和阿拉斯加湾捕食底栖猎物，而雌性则向西迁徙至北太平洋的远洋区域，在深海散射层中觅食。"
+    }
+  },
+  "habitat": {
+    "text_en": "Eastern and central North Pacific Ocean, breeding primarily on the coasts and offshore islands of California and Baja California.",
+    "text_zh": "北太平洋东部和中部，主要在加利福尼亚州和下加利福尼亚州的海岸及近海岛屿上繁殖。",
+    "map_coordinates": [
+      35,
+      -125
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          27.52,
+          -114.5
+        ],
+        [
+          28.85,
+          -115.35
+        ],
+        [
+          30.12,
+          -115.85
+        ],
+        [
+          31.45,
+          -116.7
+        ],
+        [
+          32.8,
+          -117.45
+        ],
+        [
+          33.55,
+          -118.2
+        ],
+        [
+          34.05,
+          -119.5
+        ],
+        [
+          34.5,
+          -120.6
+        ],
+        [
+          35.65,
+          -121.3
+        ],
+        [
+          36.85,
+          -122.05
+        ],
+        [
+          37.2,
+          -122.45
+        ],
+        [
+          38.5,
+          -123.2
+        ],
+        [
+          40.1,
+          -124.3
+        ],
+        [
+          42.5,
+          -124.65
+        ],
+        [
+          44.8,
+          -124.25
+        ],
+        [
+          47.1,
+          -124.5
+        ],
+        [
+          49.5,
+          -126.8
+        ],
+        [
+          51.2,
+          -128.5
+        ],
+        [
+          53.5,
+          -132.2
+        ],
+        [
+          55.8,
+          -135.5
+        ],
+        [
+          58.2,
+          -138.8
+        ],
+        [
+          59.5,
+          -143.2
+        ],
+        [
+          59.8,
+          -148.5
+        ],
+        [
+          58.5,
+          -153.2
+        ],
+        [
+          56.2,
+          -158.5
+        ],
+        [
+          54.1,
+          -164.2
+        ],
+        [
+          52.5,
+          -169.8
+        ],
+        [
+          50.8,
+          -175.5
+        ],
+        [
+          48.2,
+          -178.2
+        ],
+        [
+          45.5,
+          -172.5
+        ],
+        [
+          43.8,
+          -165.2
+        ],
+        [
+          41.2,
+          -158.5
+        ],
+        [
+          39.5,
+          -152.2
+        ],
+        [
+          37.8,
+          -145.5
+        ],
+        [
+          35.2,
+          -138.8
+        ],
+        [
+          32.5,
+          -132.2
+        ],
+        [
+          30.8,
+          -126.5
+        ],
+        [
+          28.5,
+          -120.2
+        ],
+        [
+          27.2,
+          -116.5
+        ],
+        [
+          27.52,
+          -114.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/northern-elephant-seal.jpg"
+}
