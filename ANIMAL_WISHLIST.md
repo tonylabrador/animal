@@ -7,3 +7,4 @@
 | 1 | 红腿叫鹤 | Red-legged seriema | Cariama cristata | ⏳ Pending |
 | 2 | 普通潜鸟 | Common loon | Gavia immer | ⏳ Pending |
 | 3 | 普通鸬鹚 | Great cormorant | Phalacrocorax carbo | ⏳ Pending |
+| 4 | 纳马夸沙鸡 | Namaqua sandgrouse | Pterocles namaqua | ⏳ Pending |
