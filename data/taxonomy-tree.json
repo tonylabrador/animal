@@ -3,21 +3,21 @@
   "nameZh": "动物界",
   "level": "Kingdom",
   "levelZh": "界",
-  "count": 369,
+  "count": 370,
   "children": [
     {
       "name": "Chordata",
       "nameZh": "脊索动物门",
       "level": "Phylum",
       "levelZh": "门",
-      "count": 328,
+      "count": 329,
       "children": [
         {
           "name": "Mammalia",
           "nameZh": "哺乳纲",
           "level": "Class",
           "levelZh": "纲",
-          "count": 155,
+          "count": 156,
           "children": [
             {
               "name": "Carnivora",
@@ -2561,7 +2561,7 @@
               "nameZh": "啮齿目",
               "level": "Order",
               "levelZh": "目",
-              "count": 5,
+              "count": 6,
               "children": [
                 {
                   "name": "Sciuridae",
@@ -2685,6 +2685,35 @@
                           "animalId": "capybara",
                           "image": "/images/animals/capybara.jpg",
                           "scientificName": "Hydrochoerus hydrochaeris"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Cricetidae",
+                  "nameZh": "仓鼠科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 1,
+                  "children": [
+                    {
+                      "name": "Peromyscus",
+                      "nameZh": "白足鼠属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "North American Deer Mouse",
+                          "nameZh": "北美鹿鼠",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "north-american-deer-mouse",
+                          "image": "/images/animals/north-american-deer-mouse.jpg",
+                          "scientificName": "Peromyscus maniculatus"
                         }
                       ]
                     }

@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **369** 种动物
+**统计**：共 **370** 种动物
 
 ---
 
@@ -47,6 +47,10 @@
 - 红袋鼠 / Red Kangaroo — *Osphranter rufus* `red-kangaroo`
 
 ### 啮齿目
+
+**仓鼠科**
+
+- 北美鹿鼠 / North American Deer Mouse — *Peromyscus maniculatus* `north-american-deer-mouse`
 
 **松鼠科**
 
