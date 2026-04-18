@@ -18,3 +18,4 @@
 | 12 | 北美岸蛇 | Gopher Snake | Pituophis catenifer | ⏳ Pending |
 | 13 | 网纹蟒 | Reticulated python | Malayopython reticulatus | ⏳ Pending |
 | 14 | 美洲鳄 | American crocodile | Crocodylus acutus | ⏳ Pending |
+| 15 | 帝王蝎 | Emperor Scorpion | Pandinus imperator | ⏳ Pending |
