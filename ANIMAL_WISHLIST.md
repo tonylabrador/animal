@@ -23,3 +23,4 @@
 | 17 | 巴塔哥尼亚豚鼠 | Patagonian mara | Dolichotis patagonum | ⏳ Pending |
 | 18 | 毛冠鹿 | Tufted deer | Elaphodus cephalophus | ⏳ Pending |
 | 19 | 小懒猴 | Pygmy Slow Loris | Nycticebus pygmaeus | ⏳ Pending |
+| 20 | 黑岛长足海蛞蝓 | Leaf sheep | Costasiella kuroshimae | ⏳ Pending |
