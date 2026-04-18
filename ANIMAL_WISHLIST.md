@@ -25,3 +25,4 @@
 | 19 | 小懒猴 | Pygmy Slow Loris | Nycticebus pygmaeus | ⏳ Pending |
 | 20 | 黑岛长足海蛞蝓 | Leaf sheep | Costasiella kuroshimae | ⏳ Pending |
 | 21 | 艾氏琴鸟 | Albert's Lyrebird | Menura alberti | ⏳ Pending |
+| 22 | 长鼻猴 | Proboscis monkey | Nasalis larvatus | ⏳ Pending |
