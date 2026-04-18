@@ -17,3 +17,4 @@
 | 11 | 海鬣蜥 | Marine Iguana | Amblyrhynchus cristatus | ⏳ Pending |
 | 12 | 北美岸蛇 | Gopher Snake | Pituophis catenifer | ⏳ Pending |
 | 13 | 网纹蟒 | Reticulated python | Malayopython reticulatus | ⏳ Pending |
+| 14 | 美洲鳄 | American crocodile | Crocodylus acutus | ⏳ Pending |
