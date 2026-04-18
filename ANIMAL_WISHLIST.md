@@ -12,3 +12,4 @@
 | 6 | 棕榈鹿角珊瑚 | Elkhorn Coral | Acropora palmata | ⏳ Pending |
 | 7 | 鼬鲨 | Tiger shark | Galeocerdo cuvier | ⏳ Pending |
 | 8 | 迷宫脑珊瑚 | Grooved brain coral | Diploria labyrinthiformis | ⏳ Pending |
+| 9 | 巨型脑珊瑚 | Boulder brain coral | Colpophyllia natans | ⏳ Pending |
