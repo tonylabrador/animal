@@ -11,3 +11,4 @@
 | 5 | 铰口鲨 | Nurse shark | Ginglymostoma cirratum | ⏳ Pending |
 | 6 | 棕榈鹿角珊瑚 | Elkhorn Coral | Acropora palmata | ⏳ Pending |
 | 7 | 鼬鲨 | Tiger shark | Galeocerdo cuvier | ⏳ Pending |
+| 8 | 迷宫脑珊瑚 | Grooved brain coral | Diploria labyrinthiformis | ⏳ Pending |
