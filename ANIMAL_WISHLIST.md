@@ -16,3 +16,4 @@
 | 10 | 环足蠼螋 | Ring-legged earwig | Euborellia annulipes | ⏳ Pending |
 | 11 | 海鬣蜥 | Marine Iguana | Amblyrhynchus cristatus | ⏳ Pending |
 | 12 | 北美岸蛇 | Gopher Snake | Pituophis catenifer | ⏳ Pending |
+| 13 | 网纹蟒 | Reticulated python | Malayopython reticulatus | ⏳ Pending |
