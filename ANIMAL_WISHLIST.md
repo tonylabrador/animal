@@ -24,3 +24,4 @@
 | 18 | 毛冠鹿 | Tufted deer | Elaphodus cephalophus | ⏳ Pending |
 | 19 | 小懒猴 | Pygmy Slow Loris | Nycticebus pygmaeus | ⏳ Pending |
 | 20 | 黑岛长足海蛞蝓 | Leaf sheep | Costasiella kuroshimae | ⏳ Pending |
+| 21 | 艾氏琴鸟 | Albert's Lyrebird | Menura alberti | ⏳ Pending |
