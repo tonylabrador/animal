@@ -28,3 +28,4 @@
 | 22 | 长鼻猴 | Proboscis monkey | Nasalis larvatus | ⏳ Pending |
 | 23 | 南非丛猴 | Mohol Bushbaby | Galago moholi | ⏳ Pending |
 | 24 | 丹顶鹤 | Red-crowned crane | Grus japonensis | ⏳ Pending |
+| 25 | 非洲秃鹳 | Marabou stork | Leptoptilos crumenifer | ⏳ Pending |
