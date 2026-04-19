@@ -29,3 +29,4 @@
 | 23 | 南非丛猴 | Mohol Bushbaby | Galago moholi | ⏳ Pending |
 | 24 | 丹顶鹤 | Red-crowned crane | Grus japonensis | ⏳ Pending |
 | 25 | 非洲秃鹳 | Marabou stork | Leptoptilos crumenifer | ⏳ Pending |
+| 26 | 绿孔雀 | Green peafowl | Pavo muticus | ⏳ Pending |
