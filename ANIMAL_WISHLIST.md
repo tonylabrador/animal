@@ -31,3 +31,4 @@
 | 25 | 非洲秃鹳 | Marabou stork | Leptoptilos crumenifer | ⏳ Pending |
 | 26 | 绿孔雀 | Green peafowl | Pavo muticus | ⏳ Pending |
 | 27 | 卷羽鹈鹕 | Dalmatian pelican | Pelecanus crispus | ⏳ Pending |
+| 28 | 乌林鸮 | Great Gray Owl | Strix nebulosa | ⏳ Pending |
