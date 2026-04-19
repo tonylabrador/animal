@@ -27,3 +27,4 @@
 | 21 | 艾氏琴鸟 | Albert's Lyrebird | Menura alberti | ⏳ Pending |
 | 22 | 长鼻猴 | Proboscis monkey | Nasalis larvatus | ⏳ Pending |
 | 23 | 南非丛猴 | Mohol Bushbaby | Galago moholi | ⏳ Pending |
+| 24 | 丹顶鹤 | Red-crowned crane | Grus japonensis | ⏳ Pending |
