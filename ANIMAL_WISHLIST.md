@@ -32,3 +32,4 @@
 | 26 | 绿孔雀 | Green peafowl | Pavo muticus | ⏳ Pending |
 | 27 | 卷羽鹈鹕 | Dalmatian pelican | Pelecanus crispus | ⏳ Pending |
 | 28 | 乌林鸮 | Great Gray Owl | Strix nebulosa | ⏳ Pending |
+| 29 | 银鸥 | European herring gull | Larus argentatus | ⏳ Pending |
