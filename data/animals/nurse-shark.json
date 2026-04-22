@@ -1,0 +1,374 @@
+{
+  "id": "nurse-shark",
+  "name_zh": "铰口鲨",
+  "name_en": "Nurse shark",
+  "scientific_name": "Ginglymostoma cirratum",
+  "ui_tags": [
+    "Chondrichthyes",
+    "Coral Reefs",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "zh": "软骨鱼纲"
+    },
+    "order": {
+      "en": "Orectolobiformes",
+      "zh": "须鲨目"
+    },
+    "family": {
+      "en": "Ginglymostomatidae",
+      "zh": "铰口鲨科"
+    },
+    "genus": {
+      "en": "Ginglymostoma",
+      "zh": "铰口鲨属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The nurse shark (Ginglymostoma cirratum) is an obligate benthic elasmobranch renowned for its sedentary diurnal behavior and unique buccal pumping respiratory mechanism, which allows it to remain motionless on the seafloor without the need for ram ventilation. Characterized by a robust, cylindrical body, broad head, and distinctive nasal barbels, this species is a quintessential apex and meso-predator of tropical and subtropical shallow marine ecosystems. They play a critical ecological role in regulating populations of benthic invertebrates and small teleosts within coral reef and mangrove habitats.",
+    "zh": "铰口鲨（Ginglymostoma cirratum），常被称为护士鲨，是一种典型的底栖软骨鱼类，以其白天久坐不动的习性和独特的口腔抽吸呼吸机制而闻名，这使得它们无需像其他鲨鱼那样通过游动来进行撞击式换气即可在海底静止不动。该物种具有粗壮的圆柱形身体、宽阔的头部和独特的鼻须，是热带和亚热带浅海生态系统中典型的顶级和中级捕食者。它们在调节珊瑚礁和红树林栖息地内的底栖无脊椎动物和小型硬骨鱼类种群方面发挥着至关重要的生态作用。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Morphologically, the nurse shark exhibits a flattened, broad head with small eyes and prominent sensory barbels extending from the nares, utilized for chemosensory detection of benthic prey. The dentition is highly specialized, featuring rows of small, serrated, crushing teeth designed to decalcify hard-shelled invertebrates. It possesses two spineless dorsal fins of nearly equal size, positioned relatively far back on the body, and an elongated caudal fin lacking a distinct lower lobe, optimizing it for anguilliform locomotion in complex reef topographies. Their skin is exceptionally tough, covered in dense dermal denticles.",
+      "zh": "在形态学上，铰口鲨头部宽阔扁平，眼睛较小，鼻孔处延伸出显著的感觉须，用于对底栖猎物进行化学感觉探测。其牙齿高度特化，排列着成排细小、带锯齿的粉碎性牙齿，专为咬碎带硬壳的无脊椎动物而设计。它拥有两个大小几乎相等的无棘背鳍，位置相对靠后，以及一个缺乏明显下叶的细长尾鳍，这种结构优化了其在复杂礁石地形中的鳗形运动能力。它们的皮肤异常坚韧，覆盖着密集的盾鳞。"
+    },
+    "ecology_and_behavior": {
+      "en": "Exhibiting strong nocturnal foraging patterns, G. cirratum utilizes a powerful suction-feeding mechanism, generating immense negative pressure to extract gastropods, crustaceans, and teleosts from tight crevices. Diurnally, they display remarkable gregarious behavior, often aggregating in tightly packed resting groups of up to 40 individuals within specific caves or under reef ledges, demonstrating high site fidelity and complex social resting structures. They are ovoviviparous, with embryos sustained by a yolk sac rather than a placental connection.",
+      "zh": "铰口鲨表现出强烈的夜间觅食模式，利用强大的吸食机制产生巨大的负压，将腹足类、甲壳类和硬骨鱼类从狭窄的缝隙中吸出。在白天，它们表现出显著的群居行为，经常在特定的洞穴或礁石边缘下聚集成多达40条的紧密休息群体，展现出极高的栖息地忠诚度和复杂的社会性休息结构。它们是卵胎生动物，胚胎由卵黄囊提供营养，而非通过胎盘连接。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the shallow, nearshore waters of the tropical and subtropical Atlantic and Eastern Pacific oceans, this species predominantly inhabits coral reefs, mangrove channels, and seagrass meadows. They are typically found at depths ranging from 1 to 30 meters, often utilizing the complex structural complexity of these biomes for both diurnal refuge and nocturnal hunting grounds. Their distribution spans from Rhode Island down to Brazil in the Atlantic, and from Baja California to Peru in the Pacific.",
+      "zh": "该物种特产于热带和亚热带大西洋及东太平洋的浅海近岸水域，主要栖息于珊瑚礁、红树林水道和海草床中。它们通常出现在1至30米的水深范围内，经常利用这些生物群落复杂的结构作为白天的避难所和夜间的狩猎场。它们的分布范围在大西洋从罗德岛一直延伸到巴西，在太平洋则从下加利福尼亚延伸到秘鲁。"
+    }
+  },
+  "habitat": {
+    "text_en": "Shallow coastal waters, coral reefs, mangrove islands, and seagrass beds in the tropical and subtropical Atlantic and Eastern Pacific Oceans.",
+    "text_zh": "热带和亚热带大西洋及东太平洋的浅海沿岸水域、珊瑚礁、红树林岛屿和海草床。",
+    "map_coordinates": [
+      15,
+      -75
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          25.5,
+          -80.1
+        ],
+        [
+          27.8,
+          -82.5
+        ],
+        [
+          29.3,
+          -89
+        ],
+        [
+          26,
+          -97.1
+        ],
+        [
+          22.3,
+          -97.8
+        ],
+        [
+          19.5,
+          -90.5
+        ],
+        [
+          21.5,
+          -87.1
+        ],
+        [
+          17.5,
+          -88.2
+        ],
+        [
+          15,
+          -83.5
+        ],
+        [
+          9.3,
+          -79.8
+        ],
+        [
+          11.5,
+          -74
+        ],
+        [
+          12.5,
+          -71.5
+        ],
+        [
+          10.6,
+          -61.5
+        ],
+        [
+          8.5,
+          -59
+        ],
+        [
+          5,
+          -52
+        ],
+        [
+          -3.5,
+          -38.5
+        ],
+        [
+          -10,
+          -35.5
+        ],
+        [
+          -23,
+          -42
+        ],
+        [
+          -24.5,
+          -45
+        ],
+        [
+          -20,
+          -39
+        ],
+        [
+          -5,
+          -35
+        ],
+        [
+          10,
+          -55
+        ],
+        [
+          14,
+          -60.5
+        ],
+        [
+          18.5,
+          -65
+        ],
+        [
+          19,
+          -70
+        ],
+        [
+          22,
+          -75
+        ],
+        [
+          24.5,
+          -78
+        ],
+        [
+          26.5,
+          -77
+        ],
+        [
+          25.5,
+          -80.1
+        ]
+      ],
+      [
+        [
+          28.5,
+          -115.2
+        ],
+        [
+          24,
+          -111
+        ],
+        [
+          22.5,
+          -109.5
+        ],
+        [
+          25,
+          -108
+        ],
+        [
+          21.5,
+          -106
+        ],
+        [
+          18,
+          -103
+        ],
+        [
+          15.5,
+          -97
+        ],
+        [
+          13,
+          -90
+        ],
+        [
+          9.5,
+          -85
+        ],
+        [
+          7,
+          -82
+        ],
+        [
+          4.5,
+          -78.5
+        ],
+        [
+          1,
+          -80
+        ],
+        [
+          -3.5,
+          -81
+        ],
+        [
+          -8,
+          -79.5
+        ],
+        [
+          -12,
+          -77.5
+        ],
+        [
+          -14,
+          -76.5
+        ],
+        [
+          -10,
+          -79
+        ],
+        [
+          -4,
+          -82
+        ],
+        [
+          2,
+          -80.5
+        ],
+        [
+          6,
+          -83
+        ],
+        [
+          10,
+          -86.5
+        ],
+        [
+          14,
+          -92
+        ],
+        [
+          17,
+          -100
+        ],
+        [
+          20,
+          -106.5
+        ],
+        [
+          23,
+          -110
+        ],
+        [
+          28.5,
+          -115.2
+        ]
+      ],
+      [
+        [
+          15,
+          -17.5
+        ],
+        [
+          12,
+          -16.5
+        ],
+        [
+          9,
+          -13.5
+        ],
+        [
+          5,
+          -2
+        ],
+        [
+          4,
+          7
+        ],
+        [
+          1,
+          9
+        ],
+        [
+          -5,
+          11.5
+        ],
+        [
+          -10,
+          13
+        ],
+        [
+          -15,
+          11.5
+        ],
+        [
+          -10,
+          10
+        ],
+        [
+          -5,
+          9
+        ],
+        [
+          0,
+          7
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          -2
+        ],
+        [
+          8,
+          -14
+        ],
+        [
+          12,
+          -18
+        ],
+        [
+          16,
+          -24
+        ],
+        [
+          17,
+          -25
+        ],
+        [
+          15,
+          -17.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/nurse-shark.jpg"
+}

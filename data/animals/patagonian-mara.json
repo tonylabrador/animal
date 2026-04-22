@@ -1,0 +1,186 @@
+{
+  "id": "patagonian-mara",
+  "name_zh": "巴塔哥尼亚豚鼠",
+  "name_en": "Patagonian mara",
+  "scientific_name": "Dolichotis patagonum",
+  "ui_tags": [
+    "Mammal",
+    "Scrubland",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Rodentia",
+      "zh": "啮齿目"
+    },
+    "family": {
+      "en": "Caviidae",
+      "zh": "豚鼠科"
+    },
+    "genus": {
+      "en": "Dolichotis",
+      "zh": "长耳豚鼠属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "The Patagonian mara is a relatively large, highly specialized rodent endemic to the arid steppes of Argentina. Exhibiting striking convergent evolution with small ungulates, it possesses long, slender legs adapted for cursorial locomotion and a digitigrade stance, which is highly unusual for rodents. It is renowned for its unique social organization, characterized by strict lifelong monogamy combined with communal breeding in large, multi-family warrens.",
+    "zh": "巴塔哥尼亚豚鼠是一种体型较大且高度特化的啮齿动物，为阿根廷干旱草原的特有种。它展现出与小型有蹄类动物惊人的趋同进化特征，拥有适应奔跑的修长四肢和在啮齿类中极为罕见的趾行站立姿态。该物种以其独特的社会结构而闻名，其特点是严格的终生一夫一妻制与在大型多家庭公共洞穴中集体繁育后代相结合。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Patagonian mara exhibits striking convergent evolution with small ungulates, possessing elongated, slender limbs adapted for cursorial locomotion and a digitigrade stance. The forelimbs feature four digits equipped with sharp, hoof-like claws, while the hindlimbs have three. Its pelage is dense and agouti-colored, characterized by a grizzled grayish-brown dorsum, a distinct white patch on the rump which serves as a visual follow-me signal, and a rust-colored ventrum. The skull is robust with a prominent sagittal crest and hypsodont teeth adapted for processing abrasive vegetation.",
+      "zh": "巴塔哥尼亚豚鼠展现出与小型有蹄类动物惊人的趋同进化特征，拥有适应奔跑的修长四肢和趾行动物般的站立姿态。其前肢具四趾，配有锋利的蹄状爪，后肢具三趾。被毛浓密呈刺豚鼠色，背部为灰褐色，臀部具有明显的白色斑块（作为视觉跟随信号），腹部呈铁锈色。头骨粗壮，具有明显的矢状嵴和适应咀嚼粗糙植被的高冠齿。"
+    },
+    "ecology_and_behavior": {
+      "en": "This species is strictly diurnal and exhibits a highly unusual social system among mammals: strict lifelong monogamy coupled with communal breeding. Up to 29 pairs may share a single extensive warren (creche) to rear their young, which significantly reduces predation risk from pumas, foxes, and grisons. Despite sharing a den, pairs forage independently. They are primarily herbivorous, feeding heavily on grasses (such as Pappophorum), herbs, and the foliage of xerophytic shrubs.",
+      "zh": "该物种严格昼行，并展现出哺乳动物中极为罕见的社会系统：严格的终生一夫一妻制与公共繁育相结合。多达29对伴侣可能会共享一个庞大的地下洞穴（育幼所）来抚育后代，这极大地降低了美洲狮、狐狸和巢鼬等捕食者带来的风险。尽管共享洞穴，各对伴侣仍独立觅食。它们主要为植食性，大量取食禾本科植物（如冠毛草）、草本植物以及旱生灌木的枝叶。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to Argentina, the Patagonian mara's range extends from Catamarca Province in the north to Santa Cruz Province in the south. It is an obligate inhabitant of the Monte Desert and Patagonian Steppe ecoregions, strongly preferring arid and semi-arid landscapes dominated by creosote bush (Larrea spp.) and low, thorny scrub. They require open areas with sparse vegetation for early predator detection and suitable soil for excavating extensive burrow systems.",
+      "zh": "巴塔哥尼亚豚鼠是阿根廷的特有种，其分布范围北起卡塔马卡省，南至圣克鲁斯省。它们是蒙特沙漠和巴塔哥尼亚草原生态区的专性栖息者，极度偏好以杂酚油灌木（Larrea spp.）和低矮多刺灌丛为主的干旱及半干旱景观。它们需要植被稀疏的开阔地带以便及早发现捕食者，并需要适宜的土壤来挖掘庞大的地道系统。"
+    }
+  },
+  "habitat": {
+    "text_en": "Endemic to the arid and semi-arid scrub deserts and grasslands of central and southern Argentina, particularly the Patagonian steppe.",
+    "text_zh": "特产于阿根廷中南部的干旱和半干旱灌木沙漠及草原，尤其是广袤的巴塔哥尼亚荒漠地带。",
+    "map_coordinates": [
+      -43,
+      -67
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -34,
+          -63
+        ],
+        [
+          -38.5,
+          -60
+        ],
+        [
+          -39.5,
+          -62
+        ],
+        [
+          -40.8,
+          -63
+        ],
+        [
+          -41.5,
+          -65
+        ],
+        [
+          -42.5,
+          -63.8
+        ],
+        [
+          -43.3,
+          -65.3
+        ],
+        [
+          -45,
+          -65.6
+        ],
+        [
+          -46,
+          -67.6
+        ],
+        [
+          -47.8,
+          -65.9
+        ],
+        [
+          -49.3,
+          -67.7
+        ],
+        [
+          -50,
+          -68.4
+        ],
+        [
+          -50.5,
+          -72.3
+        ],
+        [
+          -48.5,
+          -71.5
+        ],
+        [
+          -46.5,
+          -71.8
+        ],
+        [
+          -44.5,
+          -71
+        ],
+        [
+          -42.5,
+          -71.5
+        ],
+        [
+          -40.5,
+          -71
+        ],
+        [
+          -38.5,
+          -70.5
+        ],
+        [
+          -36.5,
+          -69.8
+        ],
+        [
+          -34.5,
+          -69
+        ],
+        [
+          -32.5,
+          -68
+        ],
+        [
+          -30.5,
+          -67.5
+        ],
+        [
+          -28.5,
+          -66.5
+        ],
+        [
+          -29.5,
+          -65
+        ],
+        [
+          -31.5,
+          -64.5
+        ],
+        [
+          -33,
+          -64
+        ],
+        [
+          -34,
+          -63
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/patagonian-mara.jpg"
+}

@@ -1,0 +1,182 @@
+{
+  "id": "boulder-brain-coral",
+  "name_zh": "巨型脑珊瑚",
+  "name_en": "Boulder brain coral",
+  "scientific_name": "Colpophyllia natans",
+  "ui_tags": [
+    "Anthozoa",
+    "Coral Reef",
+    "Filter Feeder"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Cnidaria",
+      "zh": "刺胞动物门"
+    },
+    "class": {
+      "en": "Anthozoa",
+      "zh": "珊瑚纲"
+    },
+    "order": {
+      "en": "Scleractinia",
+      "zh": "石珊瑚目"
+    },
+    "family": {
+      "en": "Mussidae",
+      "zh": "缪斯珊瑚科"
+    },
+    "genus": {
+      "en": "Colpophyllia",
+      "zh": "槽脑珊瑚属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "Colpophyllia natans, commonly known as the boulder brain coral, is a massive, hermatypic (reef-building) stony coral characterized by its large, dome-shaped colonies that can exceed two meters in diameter. Its surface is a labyrinthine network of meandering ridges and deep valleys, which visually resemble the folds of a human brain. The valleys are typically green, brown, or tan, while the ridges exhibit contrasting colors. As a foundational species in the Caribbean and Gulf of Mexico, it provides critical structural complexity to coral reef ecosystems, supporting a vast array of marine biodiversity.",
+    "zh": "巨型脑珊瑚（学名：Colpophyllia natans）是一种体型巨大的造礁石珊瑚，以其直径可超过两米的巨大穹顶状群体而闻名。其表面布满了蜿蜒曲折的脊和深谷，形成迷宫般的网络，视觉上极像人类大脑的褶皱。其凹谷通常呈绿色、棕色或黄褐色，而隆起的脊则呈现出鲜明的对比色。作为加勒比海和墨西哥湾珊瑚礁生态系统的基石物种，它为底栖生物和游动海洋生物提供了至关重要的三维结构复杂性，支撑着庞大的海洋生物多样性。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The skeletal structure (corallum) is composed of dense calcium carbonate, secreted by thousands of individual polyps. A key diagnostic feature of C. natans is the presence of a distinct, narrow groove running along the apex of the ridges. The polyps themselves are housed within the valleys and possess tentacles armed with specialized stinging cells called nematocysts. These tentacles remain retracted during the day, giving the coral a smooth appearance, but extend at night to capture planktonic prey. The coral tissue also harbors symbiotic dinoflagellates (zooxanthellae) within its endodermal cells.",
+      "zh": "其骨骼结构（珊瑚骨）由成千上万个独立珊瑚虫分泌的致密碳酸钙组成。巨型脑珊瑚的一个关键解剖学鉴定特征是其隆起脊的顶部有一条明显而狭窄的中央凹槽。珊瑚虫本身栖息在凹谷中，其触手上长有被称为刺细胞的特化捕食结构。这些触手在白天保持收缩状态，使珊瑚表面看起来相对光滑；但在夜间会伸出以捕食浮游生物。珊瑚组织的内胚层细胞中还共生着大量的虫黄藻（甲藻）。"
+    },
+    "ecology_and_behavior": {
+      "en": "This species exhibits a dual-feeding strategy: it derives up to 90% of its metabolic energy from the photosynthetic byproducts of its symbiotic zooxanthellae, while supplementing its diet through nocturnal suspension feeding on zooplankton. C. natans is a broadcast spawner, releasing gametes into the water column in synchronized mass spawning events triggered by lunar cycles and water temperature. Ecologically, it is highly susceptible to environmental stressors, including coral bleaching induced by thermal anomalies and the devastating Stony Coral Tissue Loss Disease (SCTLD), which rapidly degrades its living tissue.",
+      "zh": "该物种表现出双重摄食策略：它通过共生虫黄藻的光合作用副产物获取高达90%的代谢能量，同时在夜间通过滤食浮游动物来补充营养。巨型脑珊瑚属于排卵型繁殖者，在受月相和水温触发的同步大规模产卵事件中，将精子和卵子释放到水体中。在生态学上，它对环境压力极度敏感，包括由异常高温引起的珊瑚白化，以及毁灭性的石珊瑚组织损失病（SCTLD），该疾病会迅速降解其活体组织。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the western Atlantic Ocean, C. natans is predominantly found throughout the Caribbean Sea, the Bahamas, the Florida Keys, and the Gulf of Mexico. It thrives in a variety of reef environments, including shallow lagoons, fore-reef slopes, and deeper mesophotic zones, typically at depths ranging from 1 to 50 meters. It prefers clear, sunlit waters with moderate to high wave action, which facilitates the removal of sediment from its massive, boulder-like surface.",
+      "zh": "巨型脑珊瑚是西大西洋的特有种，主要分布在整个加勒比海、巴哈马群岛、佛罗里达礁岛群以及墨西哥湾。它在各种珊瑚礁环境中都能繁衍生息，包括浅水潟湖、礁前斜坡以及较深的中光层区域，通常栖息于1至50米的水深范围内。它偏好清澈、阳光充足且具有中等到强烈波浪作用的水域，水流有助于清除沉积在其巨大圆石状表面的泥沙。"
+    }
+  },
+  "habitat": {
+    "text_en": "Shallow to mid-depth coral reefs, fore-reef slopes, and lagoons in the Caribbean and Gulf of Mexico.",
+    "text_zh": "加勒比海和墨西哥湾的浅水至中等深度珊瑚礁、礁前斜坡及潟湖。",
+    "map_coordinates": [
+      17,
+      -75
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          27.18,
+          -80.15
+        ],
+        [
+          25.65,
+          -80.08
+        ],
+        [
+          24.55,
+          -81.78
+        ],
+        [
+          23.15,
+          -82.35
+        ],
+        [
+          21.88,
+          -84.95
+        ],
+        [
+          21.25,
+          -86.75
+        ],
+        [
+          19.55,
+          -87.45
+        ],
+        [
+          17.25,
+          -88.15
+        ],
+        [
+          15.85,
+          -86.25
+        ],
+        [
+          14.95,
+          -83.15
+        ],
+        [
+          12.55,
+          -81.65
+        ],
+        [
+          9.35,
+          -78.85
+        ],
+        [
+          11.25,
+          -74.25
+        ],
+        [
+          12.45,
+          -70.15
+        ],
+        [
+          10.85,
+          -63.95
+        ],
+        [
+          11.35,
+          -60.55
+        ],
+        [
+          13.15,
+          -59.55
+        ],
+        [
+          15.45,
+          -61.25
+        ],
+        [
+          17.85,
+          -62.85
+        ],
+        [
+          18.45,
+          -65.95
+        ],
+        [
+          18.15,
+          -68.35
+        ],
+        [
+          19.85,
+          -71.65
+        ],
+        [
+          20.15,
+          -74.15
+        ],
+        [
+          22.35,
+          -73.85
+        ],
+        [
+          24.15,
+          -76.15
+        ],
+        [
+          26.45,
+          -76.85
+        ],
+        [
+          27.18,
+          -80.15
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/boulder-brain-coral.jpg"
+}

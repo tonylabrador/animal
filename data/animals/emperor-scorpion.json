@@ -1,0 +1,158 @@
+{
+  "id": "emperor-scorpion",
+  "name_zh": "帝王蝎",
+  "name_en": "Emperor Scorpion",
+  "scientific_name": "Pandinus imperator",
+  "ui_tags": [
+    "Arachnida",
+    "Rainforest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Arachnida",
+      "zh": "蛛形纲"
+    },
+    "order": {
+      "en": "Scorpiones",
+      "zh": "蝎目"
+    },
+    "family": {
+      "en": "Scorpionidae",
+      "zh": "蝎科"
+    },
+    "genus": {
+      "en": "Pandinus",
+      "zh": "巨蝎属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated (CITES App II)",
+    "zh": "未评估 (CITES附录II)"
+  },
+  "description": {
+    "en": "The Emperor Scorpion (Pandinus imperator) is one of the largest scorpion species in the world, renowned for its massive, heavily sclerotized pedipalps and striking glossy black carapace that fluoresces a brilliant cyan-green under ultraviolet light. Native to the dense tropical rainforests and humid savannas of West Africa, this formidable arachnid relies primarily on its immense physical strength rather than its mild venom to subdue prey. Unlike most solitary arachnids, P. imperator exhibits remarkable subsocial behaviors, often forming communal burrows where multiple individuals, including mothers and their offspring, coexist peacefully.",
+    "zh": "帝王蝎（Pandinus imperator）是世界上体型最大的蝎子之一，以其巨大且高度骨化的触肢（螯）和在紫外线照射下会发出耀眼蓝绿色荧光的乌黑发亮背甲而闻名。这种令人敬畏的蛛形纲动物原产于西非茂密的热带雨林和潮湿的稀树草原，主要依靠其惊人的物理力量而非微弱的毒液来制服猎物。与大多数独居的蛛形纲动物不同，帝王蝎表现出显著的亚社会性行为，经常形成公共洞穴，多个个体（包括母亲及其后代）在其中和平共处。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Reaching lengths of up to 20 centimeters and weighing over 30 grams, the Emperor Scorpion possesses a robust, dorsoventrally flattened body divided into the cephalothorax (prosoma) and abdomen (opisthosoma), terminating in a telson equipped with an aculeus (stinger). Its hypertrophied pedipalps are covered in sensory setae (trichobothria) that detect minute aerial and substrate vibrations. The ventral pectines, highly specialized chemo- and mechanosensory appendages, are crucial for navigating the forest floor and identifying mates.",
+      "zh": "帝王蝎体长可达20厘米，重超30克，拥有粗壮且背腹扁平的身体，分为头胸部（前体）和腹部（后体），末端是带有毒针的尾节。其极度肥大的触肢上布满了感觉刚毛（听毛），能够探测到空气和基质中极其微小的震动。腹部的栉状器是高度特化的化学和机械感觉附肢，对于在森林地表导航和识别配偶至关重要。"
+    },
+    "ecology_and_behavior": {
+      "en": "As a nocturnal apex micro-predator, P. imperator feeds on a diverse array of invertebrates, including insects, myriapods, and occasionally small terrestrial vertebrates. They are obligate burrowers, often excavating extensive subterranean galleries beneath leaf litter, fallen logs, or within abandoned termite mounds to escape diurnal heat and maintain osmotic balance. Maternal investment is exceptionally high; females carry their altricial scorplings on their dorsum for several weeks until their first ecdysis, ensuring high juvenile survivorship.",
+      "zh": "作为夜行性的微型顶级掠食者，帝王蝎捕食多种无脊椎动物，包括昆虫、多足类，偶尔也捕食小型陆生脊椎动物。它们是专性穴居动物，经常在落叶层、倒木下或废弃的白蚁丘内挖掘广阔的地下通道，以躲避白天的酷热并维持渗透压平衡。其母性投入极高；雌性会将晚熟的幼蝎背在背上长达数周，直到它们完成第一次蜕皮，从而确保幼体的高存活率。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the Guinean Forests of West Africa, their range spans from Senegal through Ghana to western Cameroon. They are strictly terrestrial and hygrophilous, requiring microhabitats with high relative humidity (70-80%) and stable temperatures to prevent desiccation. Deforestation and over-collection for the exotic pet trade have localized their populations, prompting their inclusion in CITES Appendix II.",
+      "zh": "帝王蝎是西非几内亚森林的特有种，其分布范围从塞内加尔穿过加纳一直延伸到喀麦隆西部。它们是严格的陆生和喜湿动物，需要相对湿度高（70-80%）且温度稳定的微生境以防止脱水。森林砍伐和异宠贸易的过度捕捉导致其种群变得局域化，促使其被列入CITES附录II。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical rainforests and humid savannas of West Africa, frequently inhabiting burrows and abandoned termite mounds.",
+    "text_zh": "西非的热带雨林和潮湿的稀树草原，经常栖息在洞穴和废弃的白蚁丘中。",
+    "map_coordinates": [
+      8,
+      -5
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          14.7,
+          -17.4
+        ],
+        [
+          13.3,
+          -16.7
+        ],
+        [
+          11.8,
+          -16.3
+        ],
+        [
+          9.5,
+          -13.7
+        ],
+        [
+          8.4,
+          -13.2
+        ],
+        [
+          6.3,
+          -10.8
+        ],
+        [
+          4.3,
+          -7.5
+        ],
+        [
+          4.8,
+          -2
+        ],
+        [
+          6.1,
+          1.2
+        ],
+        [
+          6.4,
+          3.4
+        ],
+        [
+          4,
+          7
+        ],
+        [
+          4,
+          9.2
+        ],
+        [
+          6,
+          10.5
+        ],
+        [
+          9,
+          8.5
+        ],
+        [
+          11.5,
+          4
+        ],
+        [
+          12.5,
+          -1
+        ],
+        [
+          11,
+          -4.5
+        ],
+        [
+          10.5,
+          -9
+        ],
+        [
+          13,
+          -12
+        ],
+        [
+          15,
+          -15
+        ],
+        [
+          14.7,
+          -17.4
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/emperor-scorpion.jpg"
+}

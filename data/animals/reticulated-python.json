@@ -1,0 +1,366 @@
+{
+  "id": "reticulated-python",
+  "name_zh": "网纹蟒",
+  "name_en": "Reticulated python",
+  "scientific_name": "Malayopython reticulatus",
+  "ui_tags": [
+    "Reptilia",
+    "Rainforest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Pythonidae",
+      "zh": "蟒科"
+    },
+    "genus": {
+      "en": "Malayopython",
+      "zh": "马来蟒属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The reticulated python (Malayopython reticulatus) is a species of python found in South and Southeast Asia. It is the world's longest snake and among the three heaviest snakes. Exhibiting a complex, geometric 'reticulated' color pattern, it is a formidable apex predator in its ecosystem. Despite its massive size, it is an exceptional swimmer and climber, seamlessly navigating both dense rainforest canopies and aquatic environments.",
+    "zh": "网纹蟒（Malayopython reticulatus）广泛分布于南亚和东南亚，是世界上最长的蛇类，也是现存最重的三种蛇之一。其体表覆盖着复杂且极具几何美感的“网状”斑纹，在生态系统中扮演着顶级捕食者的角色。尽管体型庞大，网纹蟒却拥有卓越的游泳和攀爬能力，能够游刃有余地穿梭于茂密的热带雨林林冠与复杂的水生环境之间。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Characterized by a robust, highly muscular cylindrical body, the reticulated python can exceed lengths of 6 meters (20 feet), with females exhibiting significant sexual dimorphism by growing much larger than males. Its dorsal scales are smooth and arranged in 69–79 rows at midbody. The skull is highly kinetic, equipped with nearly 100 backward-curving, aglyphous teeth designed to hook and secure struggling prey. Prominent heat-sensing pits are located on the rostral and upper labial scales, allowing the snake to detect the infrared radiation of endothermic prey in complete darkness.",
+      "zh": "网纹蟒拥有粗壮且肌肉高度发达的圆柱形躯干，体长可轻易超过6米，具有显著的雌雄二态性（雌性体型远大于雄性）。其背鳞平滑，中段鳞列数为69至79行。头骨具有极高的活动性，口腔内长有近百颗向后弯曲的无毒牙，专用于钩住并固定剧烈挣扎的猎物。吻鳞和上唇鳞处分布有发达的颊窝（热测位器），使其能够在完全黑暗的环境中精准探测恒温动物散发的红外辐射。"
+    },
+    "ecology_and_behavior": {
+      "en": "As a solitary, nocturnal ambush predator, it relies on camouflage to strike unsuspecting prey. Its diet is ontogenetically variable; juveniles consume rodents and birds, while massive adults are capable of preying on primates, wild boars, and occasionally deer. Prey is dispatched via constriction, a process that causes circulatory arrest and asphyxiation. Reproduction is oviparous, with females laying clutches of 15 to 80 eggs. The mother coils around the clutch, utilizing shivering thermogenesis—rapid muscle contractions—to maintain optimal incubation temperatures.",
+      "zh": "作为独居的夜行性伏击捕食者，网纹蟒极度依赖伪装来突袭毫无防备的猎物。其食性随个体发育而变化；幼体主要捕食啮齿类和鸟类，而巨大的成体则有能力捕食灵长类、野猪甚至鹿类。它通过绞杀（缠绕）来制服猎物，该过程会导致猎物血液循环骤停和窒息。网纹蟒为卵生，雌性每次产卵15至80枚，并会盘绕在卵块上，通过肌肉快速收缩产生热量（颤抖产热）来维持最佳的孵化温度。"
+    },
+    "habitat_and_distribution": {
+      "en": "Highly adaptable, the reticulated python inhabits a diverse array of environments across Southeast Asia, including primary and secondary tropical rainforests, woodlands, and grasslands. It is strongly associated with water, frequently found near rivers, streams, and lakes. Its range extends from the Nicobar Islands and Bangladesh through Myanmar, Thailand, and the Indo-Malayan archipelago, including Indonesia and the Philippines. It has also demonstrated remarkable urban adaptability, occasionally utilizing city sewer systems.",
+      "zh": "网纹蟒具有极强的环境适应能力，栖息于东南亚多种多样的生态环境中，包括原生和次生热带雨林、林地及草原。它对水域有强烈的依赖性，常出没于河流、溪流和湖泊附近。其分布范围从尼科巴群岛和孟加拉国延伸至缅甸、泰国以及包括印度尼西亚和菲律宾在内的印支-马来群岛。此外，它还展现出惊人的城市适应性，偶尔会利用城市的下水道系统作为栖息地。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical rainforests, woodlands, grasslands, and aquatic environments across South and Southeast Asia.",
+    "text_zh": "遍布南亚和东南亚的热带雨林、林地、草原及水生环境。",
+    "map_coordinates": [
+      0,
+      110
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          21.5,
+          92
+        ],
+        [
+          19,
+          93.5
+        ],
+        [
+          16.5,
+          94.2
+        ],
+        [
+          14,
+          98
+        ],
+        [
+          10,
+          98.5
+        ],
+        [
+          7.5,
+          99
+        ],
+        [
+          5,
+          100
+        ],
+        [
+          2,
+          102
+        ],
+        [
+          5.5,
+          95.3
+        ],
+        [
+          2,
+          97.5
+        ],
+        [
+          -1,
+          100
+        ],
+        [
+          -4.5,
+          102.5
+        ],
+        [
+          -6,
+          104.5
+        ],
+        [
+          -7.5,
+          106.5
+        ],
+        [
+          -8.5,
+          109
+        ],
+        [
+          -8.8,
+          114
+        ],
+        [
+          -8.5,
+          116.5
+        ],
+        [
+          -8.5,
+          119.5
+        ],
+        [
+          -8.5,
+          121.5
+        ],
+        [
+          -4,
+          115
+        ],
+        [
+          -1,
+          117
+        ],
+        [
+          1.5,
+          119
+        ],
+        [
+          4.5,
+          118.5
+        ],
+        [
+          7,
+          117
+        ],
+        [
+          7.5,
+          115
+        ],
+        [
+          5,
+          112
+        ],
+        [
+          2,
+          109.5
+        ],
+        [
+          1,
+          104.5
+        ],
+        [
+          8.5,
+          104.5
+        ],
+        [
+          10.5,
+          107.5
+        ],
+        [
+          13,
+          109.5
+        ],
+        [
+          16.5,
+          108
+        ],
+        [
+          20,
+          106.5
+        ],
+        [
+          22.5,
+          105
+        ],
+        [
+          22,
+          102
+        ],
+        [
+          25.5,
+          97.5
+        ],
+        [
+          24,
+          93.5
+        ],
+        [
+          21.5,
+          92
+        ]
+      ],
+      [
+        [
+          18.5,
+          120.5
+        ],
+        [
+          18.5,
+          122
+        ],
+        [
+          16,
+          122.5
+        ],
+        [
+          14,
+          124.5
+        ],
+        [
+          11.5,
+          125.5
+        ],
+        [
+          9,
+          126.5
+        ],
+        [
+          6.5,
+          126.5
+        ],
+        [
+          5.5,
+          125
+        ],
+        [
+          6,
+          123
+        ],
+        [
+          7.5,
+          122
+        ],
+        [
+          8,
+          117
+        ],
+        [
+          9.5,
+          118.5
+        ],
+        [
+          11,
+          119.5
+        ],
+        [
+          12.5,
+          120
+        ],
+        [
+          14,
+          120.5
+        ],
+        [
+          16,
+          119.5
+        ],
+        [
+          18.5,
+          120.5
+        ]
+      ],
+      [
+        [
+          1.5,
+          124.5
+        ],
+        [
+          1,
+          121.5
+        ],
+        [
+          -0.5,
+          119.5
+        ],
+        [
+          -2.5,
+          118.5
+        ],
+        [
+          -4.5,
+          119
+        ],
+        [
+          -5.5,
+          119.5
+        ],
+        [
+          -6,
+          120.5
+        ],
+        [
+          -4.5,
+          121.5
+        ],
+        [
+          -5,
+          122.5
+        ],
+        [
+          -5.5,
+          123.5
+        ],
+        [
+          -3.5,
+          126
+        ],
+        [
+          -3,
+          128.5
+        ],
+        [
+          -1,
+          128.5
+        ],
+        [
+          0.5,
+          128
+        ],
+        [
+          2,
+          128.5
+        ],
+        [
+          2.5,
+          126.5
+        ],
+        [
+          1.5,
+          124.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/reticulated-python.jpg"
+}

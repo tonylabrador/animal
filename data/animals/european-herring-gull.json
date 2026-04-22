@@ -1,0 +1,416 @@
+{
+  "id": "european-herring-gull",
+  "name_zh": "银鸥",
+  "name_en": "European herring gull",
+  "scientific_name": "Larus argentatus",
+  "ui_tags": [
+    "Aves",
+    "Coastal",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Charadriiformes",
+      "zh": "鸻形目"
+    },
+    "family": {
+      "en": "Laridae",
+      "zh": "鸥科"
+    },
+    "genus": {
+      "en": "Larus",
+      "zh": "鸥属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The European herring gull is a large, ubiquitous seabird characterized by its robust build, pale silver-grey mantle, pristine white underparts, and black primary feathers tipped with distinctive white spots known as 'mirrors'. It possesses a powerful, laterally compressed yellow bill featuring a prominent red gonydeal spot on the lower mandible, an evolutionary adaptation that triggers pecking responses from chicks to stimulate regurgitation. Highly adaptable and opportunistic, this species thrives in both natural coastal environments and anthropogenic urban landscapes, exhibiting complex social structures, an extensive vocal repertoire, and versatile foraging strategies ranging from pelagic plunging and kleptoparasitism to scavenging.",
+    "zh": "银鸥是一种体型庞大且分布广泛的海鸟，以其强健的体格、浅银灰色的背部、纯白的腹部，以及带有独特白斑（称为“翼镜”）的黑色初级飞羽而著称。它拥有一张强壮且侧扁的黄色喙，下颌处带有一个突出的红色下颌斑，这是一种进化适应，能引发雏鸟的啄击反应以刺激亲鸟反刍喂食。作为一种高度适应和机会主义的物种，银鸥在自然海岸环境和人类城市景观中均能繁衍生息，展现出复杂的社会结构、多样的鸣叫声，以及从远洋俯冲、窃食寄生到食腐的广泛觅食策略。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults exhibit a striking morphological contrast with a pale grey back and white head and body. The legs are typically pinkish, distinguishing them from closely related yellow-legged species. Juveniles undergo a complex four-year maturation process, transitioning from heavily mottled, cryptic brown plumage to adult coloration. Wingspan ranges from 120 to 155 cm, and weight varies from 700 to 1500 grams, with pronounced sexual dimorphism where males generally exhibit larger cranial and bill dimensions.",
+      "zh": "成鸟在形态上呈现出鲜明的对比，背部呈浅灰色，头部和身体为白色。腿部通常呈粉红色，这将其与亲缘关系密切的黄脚鸥区分开来。幼鸟经历复杂的四年成熟期，从布满斑驳保护色的棕色羽衣逐渐过渡到成鸟羽色。翼展范围在120至155厘米之间，体重在700至1500克不等，具有明显的两性异形，雄性通常具有更大的颅骨和喙部尺寸。"
+    },
+    "ecology_and_behavior": {
+      "en": "Exhibiting profound behavioral plasticity, Larus argentatus is a highly opportunistic omnivore. Its foraging repertoire includes intertidal benthic foraging, scavenging, and kleptoparasitism. They demonstrate advanced cognitive abilities, such as dropping bivalves onto hard substrates to fracture their shells. Breeding occurs in dense, noisy colonies where complex social hierarchies and territoriality are maintained through an elaborate array of ritualized postures and vocalizations, most notably the 'long call'.",
+      "zh": "银鸥展现出极高的行为可塑性，是一种高度机会主义的杂食动物。其觅食策略包括潮间带底栖觅食、食腐以及窃食寄生。它们表现出高级的认知能力，例如将双壳类软体动物从高空抛向坚硬的基质以击碎其外壳。繁殖在密集嘈杂的群落中进行，通过一系列复杂的仪式化姿态和鸣叫（最著名的是“长鸣”）来维持复杂的社会等级和领地意识。"
+    },
+    "habitat_and_distribution": {
+      "en": "Historically confined to rocky cliffs, dunes, and offshore islands along the palearctic coastlines, their ecological niche has expanded dramatically. They now extensively utilize anthropogenic environments, frequently nesting on urban rooftops and foraging in landfills. Their primary distribution encompasses the coastal margins of Northwestern Europe, including the British Isles, Scandinavia, and the Baltic Sea, with wintering populations extending southwards.",
+      "zh": "历史上，银鸥主要局限于古北界海岸线的岩石悬崖、沙丘和近海岛屿，但如今它们的生态位已急剧扩张。它们现在广泛利用人类环境，经常在城市屋顶筑巢并在垃圾填埋场觅食。其主要分布区涵盖欧洲西北部的海岸边缘，包括不列颠群岛、斯堪的纳维亚半岛和波罗的海，越冬种群则向南延伸。"
+    }
+  },
+  "habitat": {
+    "text_en": "Coastal regions of Northern and Western Europe, including the British Isles, Scandinavia, the Baltic Sea, and extending to the Iberian Peninsula during winter.",
+    "text_zh": "欧洲北部和西部的沿海地区，包括不列颠群岛、斯堪的纳维亚半岛、波罗的海，冬季分布可延伸至伊比利亚半岛。",
+    "map_coordinates": [
+      54,
+      2
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          58.6,
+          -3
+        ],
+        [
+          57.5,
+          -1.8
+        ],
+        [
+          56,
+          -2.5
+        ],
+        [
+          54.6,
+          -1.2
+        ],
+        [
+          53,
+          0.5
+        ],
+        [
+          51.5,
+          1
+        ],
+        [
+          51.1,
+          1.3
+        ],
+        [
+          50.7,
+          0
+        ],
+        [
+          50.6,
+          -1.3
+        ],
+        [
+          50.2,
+          -5
+        ],
+        [
+          50,
+          -5.7
+        ],
+        [
+          51.5,
+          -4
+        ],
+        [
+          52.3,
+          -4.1
+        ],
+        [
+          53.3,
+          -3.2
+        ],
+        [
+          54.5,
+          -3.6
+        ],
+        [
+          55,
+          -5
+        ],
+        [
+          54.6,
+          -5.9
+        ],
+        [
+          53.3,
+          -6.1
+        ],
+        [
+          52.2,
+          -6.3
+        ],
+        [
+          51.5,
+          -8
+        ],
+        [
+          51.5,
+          -10
+        ],
+        [
+          53,
+          -9.5
+        ],
+        [
+          54.2,
+          -10
+        ],
+        [
+          55.2,
+          -7.3
+        ],
+        [
+          55.3,
+          -5.7
+        ],
+        [
+          56.5,
+          -6
+        ],
+        [
+          57.5,
+          -5.8
+        ],
+        [
+          58.6,
+          -5
+        ],
+        [
+          58.6,
+          -3
+        ]
+      ],
+      [
+        [
+          71,
+          25
+        ],
+        [
+          68,
+          15
+        ],
+        [
+          64,
+          10
+        ],
+        [
+          60,
+          5
+        ],
+        [
+          58,
+          6
+        ],
+        [
+          59,
+          10
+        ],
+        [
+          57.5,
+          11.5
+        ],
+        [
+          56,
+          15
+        ],
+        [
+          59,
+          18
+        ],
+        [
+          60.5,
+          17.5
+        ],
+        [
+          63,
+          19
+        ],
+        [
+          65.5,
+          22
+        ],
+        [
+          65,
+          25
+        ],
+        [
+          60,
+          24
+        ],
+        [
+          59.5,
+          28
+        ],
+        [
+          59,
+          24
+        ],
+        [
+          57,
+          24
+        ],
+        [
+          55,
+          21
+        ],
+        [
+          54.5,
+          18
+        ],
+        [
+          54,
+          14
+        ],
+        [
+          54.2,
+          12
+        ],
+        [
+          53.5,
+          8
+        ],
+        [
+          53,
+          5
+        ],
+        [
+          52,
+          4
+        ],
+        [
+          51,
+          2.5
+        ],
+        [
+          49.5,
+          0
+        ],
+        [
+          48.5,
+          -2
+        ],
+        [
+          48,
+          -4.5
+        ],
+        [
+          47,
+          -2
+        ],
+        [
+          46,
+          -1
+        ],
+        [
+          44.5,
+          -1.2
+        ],
+        [
+          43.5,
+          -1.5
+        ],
+        [
+          43.5,
+          -3
+        ],
+        [
+          43.8,
+          -6
+        ],
+        [
+          43,
+          -9
+        ],
+        [
+          41,
+          -9
+        ],
+        [
+          38,
+          -9
+        ],
+        [
+          37,
+          -9
+        ],
+        [
+          37,
+          -10
+        ],
+        [
+          43,
+          -10
+        ],
+        [
+          44.5,
+          -8
+        ],
+        [
+          45,
+          -3
+        ],
+        [
+          47,
+          -3
+        ],
+        [
+          48,
+          -6
+        ],
+        [
+          49.5,
+          -2
+        ],
+        [
+          50.5,
+          0
+        ],
+        [
+          52,
+          2.5
+        ],
+        [
+          53.5,
+          4
+        ],
+        [
+          54.5,
+          7
+        ],
+        [
+          55.5,
+          8
+        ],
+        [
+          58,
+          4
+        ],
+        [
+          60,
+          3
+        ],
+        [
+          64,
+          8
+        ],
+        [
+          68,
+          13
+        ],
+        [
+          71.5,
+          24
+        ],
+        [
+          71,
+          25
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/european-herring-gull.jpg"
+}

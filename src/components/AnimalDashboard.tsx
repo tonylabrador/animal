@@ -2,7 +2,7 @@
 
 import { useState, useMemo, useEffect } from "react";
 import Link from "next/link";
-import { Globe, Search, X, MapPin, Tag, TreeDeciduous, ChevronRight, Shuffle, ArrowDownAZ, ArrowUp } from "lucide-react";
+import { Globe, Search, X, MapPin, Tag, TreeDeciduous, ChevronRight, Shuffle, ArrowDownAZ, ArrowUp, Clock } from "lucide-react";
 import { useLanguage } from "@/lib/LanguageContext";
 import type { Animal } from "@/types/animal";
 import WishlistSection from "@/components/WishlistSection";
@@ -122,14 +122,15 @@ interface AnimalDashboardProps {
 export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
   const { lang, toggleLang } = useLanguage();
   const [query, setQuery] = useState("");
-  const [sortSeed, setSortSeed] = useState(0); // 0 = default (alphabetical), >0 = random
+  const [sortMode, setSortMode] = useState<"newest" | "alpha" | "random">("newest");
+  const [randomSeed, setRandomSeed] = useState(0);
   const [displayCount, setDisplayCount] = useState(24);
   const [showTop, setShowTop] = useState(false);
 
   // Reset pagination when search or sort changes
   useEffect(() => {
     setDisplayCount(24);
-  }, [query, sortSeed]);
+  }, [query, sortMode, randomSeed]);
 
   // Back to Top visibility
   useEffect(() => {
@@ -169,10 +170,12 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
 
     // 2. Sorting
     result = [...result]; // Clone to prevent mutating props
-    if (sortSeed === 0) {
-      // Revert to alphabetical mapping (defaults to English names)
+    if (sortMode === "newest") {
+      // Do nothing, effectively keeping the original (newest-first) order from getAnimals
+    } else if (sortMode === "alpha") {
+      // Sort alphabetically (defaults to English names)
       result.sort((a, b) => a.name_en.localeCompare(b.name_en));
-    } else {
+    } else if (sortMode === "random") {
       // Randomly shuffle (Fisher-Yates) triggered by sortSeed change
       for (let i = result.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
@@ -181,7 +184,7 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
     }
 
     return result;
-  }, [animals, query, sortSeed]);
+  }, [animals, query, sortMode, randomSeed]);
 
   const visibleAnimals = filtered.slice(0, displayCount);
 
@@ -326,27 +329,38 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
       </section>
 
       {/* ── Sort & Filter Controls ── */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-4 flex items-center justify-start gap-3">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-4 flex items-center justify-start gap-3 flex-wrap">
         <button
-          onClick={() => setSortSeed(0)}
+          onClick={() => setSortMode("newest")}
           className={`flex items-center gap-2 px-4 py-2 rounded-xl font-bold text-sm transition-all duration-200 shadow-sm ${
-            sortSeed === 0
+            sortMode === "newest"
+              ? "bg-slate-800 text-white shadow-md"
+              : "bg-white text-slate-600 hover:bg-slate-50 border border-slate-200"
+          }`}
+        >
+          <Clock size={16} strokeWidth={2.5} />
+          {lang === "en" ? "Newest" : "最新添加"}
+        </button>
+        <button
+          onClick={() => setSortMode("alpha")}
+          className={`flex items-center gap-2 px-4 py-2 rounded-xl font-bold text-sm transition-all duration-200 shadow-sm ${
+            sortMode === "alpha"
               ? "bg-slate-800 text-white shadow-md"
               : "bg-white text-slate-600 hover:bg-slate-50 border border-slate-200"
           }`}
         >
           <ArrowDownAZ size={16} strokeWidth={2.5} />
-          {lang === "en" ? "A-Z" : "默认顺序"}
+          {lang === "en" ? "A-Z" : "按字母表"}
         </button>
         <button
-          onClick={() => setSortSeed(Date.now())} // Trigger a new random seed every click
+          onClick={() => { setSortMode("random"); setRandomSeed(Date.now()); }}
           className={`flex items-center gap-2 px-4 py-2 rounded-xl font-bold text-sm transition-all duration-200 shadow-sm ${
-            sortSeed > 0
+            sortMode === "random"
               ? "bg-amber-400 text-white shadow-md hover:bg-amber-500"
               : "bg-white text-amber-600 hover:bg-amber-50 border border-amber-200"
           }`}
         >
-          <Shuffle size={16} strokeWidth={2.5} className={sortSeed > 0 ? "animate-pulse" : ""} />
+          <Shuffle size={16} strokeWidth={2.5} className={sortMode === "random" ? "animate-pulse" : ""} />
           {lang === "en" ? "Randomize" : "随机打乱"}
         </button>
       </div>

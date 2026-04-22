@@ -1,0 +1,186 @@
+{
+  "id": "pygmy-slow-loris",
+  "name_zh": "小懒猴",
+  "name_en": "Pygmy Slow Loris",
+  "scientific_name": "Nycticebus pygmaeus",
+  "ui_tags": [
+    "Mammalia",
+    "Arboreal",
+    "Exudativore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Primates",
+      "zh": "灵长目"
+    },
+    "family": {
+      "en": "Lorisidae",
+      "zh": "懒猴科"
+    },
+    "genus": {
+      "en": "Nycticebus",
+      "zh": "懒猴属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The pygmy slow loris (Nycticebus pygmaeus) is a diminutive, nocturnal strepsirrhine primate endemic to the dense forests of Vietnam, Laos, eastern Cambodia, and the southernmost fringes of China. Renowned for its deliberate, stealthy locomotion and enormous, forward-facing eyes adapted for scotopic vision, this species possesses a highly specialized defense mechanism: a venomous bite. By combining saliva with the exudate from a brachial gland on its inner arm, it creates a potent toxin capable of inducing anaphylactic shock in predators and humans alike. It is heavily threatened by habitat destruction and the illegal wildlife trade.",
+    "zh": "小懒猴（Nycticebus pygmaeus）是一种体型微小的夜行性原猴亚目灵长类动物，特产于越南、老挝、柬埔寨东部以及中国最南端的茂密森林中。该物种以其缓慢隐蔽的运动方式和适应暗视力的巨大前视双眼而闻名，并拥有一种高度特化的防御机制：有毒的咬噬。通过将唾液与前肢内侧臂腺分泌的渗出物混合，它能产生一种强效毒素，足以使捕食者和人类产生过敏性休克。目前，由于栖息地破坏和非法野生动物贸易，该物种正面临严重的生存威胁。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Weighing merely 300 to 500 grams, the pygmy slow loris exhibits a robust, cylindrical body covered in dense, woolly pelage that ranges from rufous to dark brown, often featuring a distinct dorsal stripe. Its cranium is characterized by a short rostrum and massive orbits housing eyes equipped with a tapetum lucidum for enhanced nocturnal visual acuity. The postcranial anatomy is highly derived for arboreal life; it possesses a vestigial tail, a reduced second digit on the manus for a pincer-like grip, and specialized vascular bundles (retia mirabilia) in its limbs that prevent muscle fatigue during prolonged suspension.",
+      "zh": "小懒猴体重仅300至500克，躯干粗壮呈圆柱形，覆盖着浓密柔软的红褐色至深棕色被毛，背部通常有一条明显的深色条纹。其颅骨特征为吻部短小，巨大的眼眶内长有配备照膜的双眼，极大地增强了夜间视觉敏锐度。其颅后解剖结构高度适应树栖生活；尾巴退化，前肢第二指缩短以形成钳状抓握，四肢内具有特化的血管束（迷网），可防止长时间悬挂时肌肉疲劳。"
+    },
+    "ecology_and_behavior": {
+      "en": "As a nocturnal and predominantly solitary forager, the pygmy slow loris relies heavily on olfaction and stealth. Its diet is highly specialized, consisting primarily of tree exudates (gum and sap), supplemented by insects, arthropods, and occasional small vertebrates. It employs a unique gouging behavior using its toothcomb to stimulate sap flow. Remarkably, it is one of the few primate species known to enter a state of torpor—a multi-day hibernation-like state—during the colder, resource-scarce winter months to conserve energy.",
+      "zh": "作为一种夜行且主要独居的觅食者，小懒猴严重依赖嗅觉和隐蔽性。它的饮食高度特化，主要由树木渗出物（树胶和树液）组成，辅以昆虫、节肢动物和偶尔的小型脊椎动物。它利用齿梳进行独特的啃咬行为以刺激树液流出。引人注目的是，它是已知少数几种在寒冷、资源匮乏的冬季进入蛰伏状态（一种长达数天的类似冬眠的状态）以保存能量的灵长类动物之一。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the Indochinese Peninsula east of the Mekong River, this species inhabits a variety of forest types, including tropical dry forests, semi-evergreen forests, and mixed deciduous woodlands. It prefers habitats with abundant bamboo thickets and lianas, which facilitate its quadrupedal climbing and provide dense cover from diurnal predators.",
+      "zh": "该物种是湄公河以东中南半岛的特有种，栖息于多种森林类型中，包括热带旱林、半常绿林和落叶阔叶混交林。它偏好竹丛和藤本植物丰富的栖息地，这些植被有助于其进行四足攀爬，并为其躲避日行性捕食者提供茂密的掩护。"
+    }
+  },
+  "habitat": {
+    "text_en": "Endemic to the forests of Vietnam, Laos, eastern Cambodia, and southern Yunnan (China), strictly east of the Mekong River.",
+    "text_zh": "特产于越南、老挝、柬埔寨东部以及中国云南南部的森林中，严格分布于湄公河以东地区。",
+    "map_coordinates": [
+      16,
+      105.5
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          10.8,
+          106.6
+        ],
+        [
+          11.3,
+          107.5
+        ],
+        [
+          12.2,
+          109.1
+        ],
+        [
+          13.5,
+          109.2
+        ],
+        [
+          15.1,
+          108.8
+        ],
+        [
+          16.4,
+          107.8
+        ],
+        [
+          17.9,
+          106.4
+        ],
+        [
+          19.2,
+          105.7
+        ],
+        [
+          20.5,
+          106.2
+        ],
+        [
+          21.2,
+          107.5
+        ],
+        [
+          21.8,
+          108.1
+        ],
+        [
+          22.5,
+          107
+        ],
+        [
+          23.1,
+          105.5
+        ],
+        [
+          22.8,
+          104.2
+        ],
+        [
+          22.4,
+          103
+        ],
+        [
+          21.5,
+          102.2
+        ],
+        [
+          20.2,
+          101.4
+        ],
+        [
+          19.5,
+          101.8
+        ],
+        [
+          18.8,
+          102.5
+        ],
+        [
+          18,
+          103.8
+        ],
+        [
+          17.2,
+          104.8
+        ],
+        [
+          16.1,
+          105.5
+        ],
+        [
+          15,
+          105.8
+        ],
+        [
+          14.2,
+          106.2
+        ],
+        [
+          13.1,
+          106.4
+        ],
+        [
+          12.3,
+          106.8
+        ],
+        [
+          11.5,
+          106.9
+        ],
+        [
+          10.8,
+          106.6
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/pygmy-slow-loris.jpg"
+}

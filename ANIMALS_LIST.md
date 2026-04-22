@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **370** 种动物
+**统计**：共 **402** 种动物
 
 ---
 
@@ -65,6 +65,7 @@
 **豚鼠科**
 
 - 水豚 / Capybara — *Hydrochoerus hydrochaeris* `capybara`
+- 巴塔哥尼亚豚鼠 / Patagonian mara — *Dolichotis patagonum* `patagonian-mara`
 
 ### 奇蹄目
 
@@ -121,6 +122,10 @@
 
 ### 灵长目
 
+**丛猴科**
+
+- 南非丛猴 / Mohol Bushbaby — *Galago moholi* `mohol-bushbaby`
+
 **人科**
 
 - 婆罗洲猩猩 / Bornean Orangutan — *Pongo pygmaeus* `bornean-orangutan`
@@ -131,6 +136,10 @@
 **大狐猴科**
 
 - 佩氏跳狐猴 / Perrier's Sifaka — *Propithecus perrieri* `perriers-sifaka`
+
+**懒猴科**
+
+- 小懒猴 / Pygmy Slow Loris — *Nycticebus pygmaeus* `pygmy-slow-loris`
 
 **指猴科**
 
@@ -143,6 +152,7 @@
 **猴科**
 
 - 川金丝猴 / Golden Snub-nosed Monkey — *Rhinopithecus roxellana* `golden-snub-nosed-monkey`
+- 长鼻猴 / Proboscis monkey — *Nasalis larvatus* `proboscis-monkey`
 
 **蜘蛛猴科**
 
@@ -283,6 +293,7 @@
 - 薮猫 / Serval — *Leptailurus serval* `serval`
 - 雪豹 / Snow Leopard — *Panthera uncia* `snow-leopard`
 - 老虎 / Tiger — *Panthera tigris* `tiger`
+- 斑猫 / Wildcat — *Felis silvestris* `felis-silvestris`
 
 **獴科**
 
@@ -380,6 +391,7 @@
 - 驼鹿 / Moose — *Alces alces* `moose`
 - 驯鹿 / Reindeer — *Rangifer tarandus* `reindeer`
 - 梅花鹿 / Sika Deer — *Cervus nippon* `sika-deer`
+- 毛冠鹿 / Tufted deer — *Elaphodus cephalophus* `tufted-deer`
 - 獐 / Water Deer — *Hydropotes inermis* `water-deer`
 
 **麝科**
@@ -442,6 +454,12 @@
 
 - 小斑几维鸟 / Little spotted kiwi — *Apteryx owenii* `little-spotted-kiwi`
 
+### 叫鹤目
+
+**叫鹤科**
+
+- 红腿叫鹤 / Red-legged seriema — *Cariama cristata* `red-legged-seriema`
+
 ### 咬鹃目
 
 **咬鹃科**
@@ -460,11 +478,23 @@
 
 - 北方林鸱 / Northern Potoo — *Nyctibius jamaicensis* `northern-potoo`
 
+### 沙鸡目
+
+**沙鸡科**
+
+- 纳马夸沙鸡 / Namaqua sandgrouse — *Pterocles namaqua* `namaqua-sandgrouse`
+
 ### 油鸱目
 
 **油鸱科**
 
 - 油鸱 / Oilbird — *Steatornis caripensis* `oilbird`
+
+### 潜鸟目
+
+**潜鸟科**
+
+- 普通潜鸟 / Common Loon — *Gavia immer* `common-loon`
 
 ### 犀鸟目
 
@@ -500,6 +530,10 @@
 **八色鸫科**
 
 - 噪八色鸫 / Noisy pitta — *Pitta versicolor* `noisy-pitta`
+
+**啄花鸟科**
+
+- 四色啄花鸟 / Cebu flowerpecker — *Dicaeum quadricolor* `cebu-flowerpecker`
 
 **园丁鸟科**
 
@@ -550,6 +584,10 @@
 - 北美金翅雀 / American Goldfinch — *Spinus tristis* `american-goldfinch`
 - 家朱雀 / House Finch — *Haemorhous mexicanus* `house-finch`
 - 镰嘴管舌鸟 / I'iwi — *Drepanis coccinea* `iiwi`
+
+**琴鸟科**
+
+- 艾氏琴鸟 / Albert's Lyrebird — *Menura alberti* `alberts-lyrebird`
 
 **窜鸟科**
 
@@ -622,6 +660,10 @@
 
 - 蓝脚鲣鸟 / Blue-footed booby — *Sula nebouxi* `blue-footed-booby`
 
+**鸬鹚科**
+
+- 普通鸬鹚 / Great cormorant — *Phalacrocorax carbo* `great-cormorant`
+
 ### 鴷形目
 
 **啄木鸟科**
@@ -642,6 +684,7 @@
 - 雉鸡 / Common Pheasant — *Phasianus colchicus* `common-pheasant`
 - 红腹锦鸡 / Golden Pheasant — *Chrysolophus pictus* `golden-pheasant`
 - 大眼斑雉 / Great Argus — *Argusianus argus* `great-argus`
+- 绿孔雀 / Green peafowl — *Pavo muticus* `green-peafowl`
 - 灰山鹑 / Grey Partridge — *Perdix perdix* `grey-partridge`
 - 棕尾虹雉 / Himalayan Monal — *Lophophorus impejanus* `himalayan-monal`
 - 蓝孔雀 / Indian Peafowl — *Pavo cristatus* `indian-peafowl`
@@ -654,6 +697,7 @@
 **鸱鸮科**
 
 - 姬鸮 / Elf owl — *Micrathene whitneyi* `elf-owl`
+- 乌林鸮 / Great Gray Owl — *Strix nebulosa* `great-gray-owl`
 - 雪鸮 / Snowy Owl — *Bubo scandiacus* `snowy-owl`
 - 须角鸮 / Whiskered Screech Owl — *Megascops trichopsis* `whiskered-screech-owl`
 
@@ -662,6 +706,16 @@
 **鸵鸟科**
 
 - 非洲鸵鸟 / Common Ostrich — *Struthio camelus* `common-ostrich`
+
+### 鸻形目
+
+**海雀科**
+
+- 簇绒海鹦 / Tufted puffin — *Fratercula cirrhata* `tufted-puffin`
+
+**鸥科**
+
+- 银鸥 / European herring gull — *Larus argentatus* `european-herring-gull`
 
 ### 鸽形目
 
@@ -689,6 +743,7 @@
 
 **鹈鹕科**
 
+- 卷羽鹈鹕 / Dalmatian pelican — *Pelecanus crispus* `dalmatian-pelican`
 - 大白鹈鹕 / Great White Pelican — *Pelecanus onocrotalus* `great-white-pelican`
 
 **鹭科**
@@ -711,6 +766,7 @@
 **鹤科**
 
 - 灰鹤 / Common crane — *Grus grus* `common-crane`
+- 丹顶鹤 / Red-crowned crane — *Grus japonensis* `red-crowned-crane`
 - 沙丘鹤 / Sandhill crane — *Antigone canadensis* `sandhill-crane`
 - 美洲鹤 / Whooping Crane — *Grus americana* `whooping-crane`
 
@@ -763,6 +819,7 @@
 **鹳科**
 
 - 黑鹳 / Black Stork — *Ciconia nigra* `black-stork`
+- 非洲秃鹳 / Marabou stork — *Leptoptilos crumenifer* `marabou-stork`
 
 ### 麝雉目
 
@@ -788,6 +845,7 @@
 
 - 玉米蛇 / Corn Snake — *Pantherophis guttatus* `corn-snake`
 - 金花蛇 / Golden Tree Snake — *Chrysopelea ornata* `golden-tree-snake`
+- 北美岸蛇 / Gopher Snake — *Pituophis catenifer* `gopher-snake`
 - 天堂金花蛇 / Paradise tree snake — *Chrysopelea paradisi* `paradise-tree-snake`
 
 **澳虎科**
@@ -808,6 +866,14 @@
 
 - 森蚺 / Green Anaconda — *Eunectes murinus* `green-anaconda`
 
+**蝰科**
+
+- 东部菱背响尾蛇 / Eastern Diamondback Rattlesnake — *Crotalus adamanteus* `eastern-diamondback-rattlesnake`
+
+**蟒科**
+
+- 网纹蟒 / Reticulated python — *Malayopython reticulatus* `reticulated-python`
+
 **避役科**
 
 - 高冠变色龙 / Veiled Chameleon — *Chamaeleo calyptratus* `veiled-chameleon`
@@ -821,6 +887,7 @@
 - 中部鬃狮蜥 / Central Bearded dragon — *Pogona vitticeps* `central-bearded-dragon`
 - 绿鬣蜥 / Green Iguana — *Iguana iguana* `green-iguana`
 - 冠棘蜥 / Indochinese spiky lizard — *Acanthosaura coronata* `indochinese-spiky-lizard`
+- 海鬣蜥 / Marine Iguana — *Amblyrhynchus cristatus* `marine-iguana`
 
 ### 鳄目
 
@@ -831,6 +898,7 @@
 
 **鳄科**
 
+- 美洲鳄 / American crocodile — *Crocodylus acutus* `american-crocodile`
 - 尼罗鳄 / Nile Crocodile — *Crocodylus niloticus* `nile-crocodile`
 - 湾鳄 / Saltwater Crocodile — *Crocodylus porosus* `saltwater-crocodile`
 
@@ -983,6 +1051,12 @@
 
 - 兰花螳螂 / Orchid Mantis — *Hymenopus coronatus* `orchid-mantis`
 
+### 革翅目
+
+**姬螋科**
+
+- 环足蠼螋 / Ring-legged earwig — *Euborellia annulipes* `ring-legged-earwig`
+
 ### 鞘翅目
 
 **锹甲科**
@@ -1032,6 +1106,24 @@
 
 ---
 
+## 珊瑚纲
+
+### 石珊瑚目
+
+**缪斯珊瑚科**
+
+- 巨型脑珊瑚 / Boulder brain coral — *Colpophyllia natans* `boulder-brain-coral`
+
+**蜂巢珊瑚科**
+
+- 迷宫脑珊瑚 / Grooved brain coral — *Diploria labyrinthiformis* `grooved-brain-coral`
+
+**鹿角珊瑚科**
+
+- 棕榈鹿角珊瑚 / Elkhorn Coral — *Acropora palmata* `elkhorn-coral`
+
+---
+
 ## 立方水母纲
 
 ### 加勒比水母目
@@ -1059,6 +1151,12 @@
 **瓶螺科**
 
 - 巨型苹果螺 / Giant Apple Snail — *Pomacea maculata* `giant-apple-snail`
+
+### 囊舌目
+
+**长足海蛞蝓科**
+
+- 黑岛长足海蛞蝓 / Leaf sheep — *Costasiella kuroshimae* `costasiella-kuroshimae`
 
 ### 柄眼目
 
@@ -1090,6 +1188,12 @@
 **跳蛛科**
 
 - 斑马跳蛛 / Zebra jumping spider — *Salticus scenicus* `zebra-jumping-spider`
+
+### 蝎目
+
+**蝎科**
+
+- 帝王蝎 / Emperor Scorpion — *Pandinus imperator* `emperor-scorpion`
 
 ---
 
@@ -1135,7 +1239,15 @@
 
 - 无刺锤头鲨 / Great Hammerhead — *Sphyrna mokarran* `great-hammerhead`
 
+**鼬鲨科**
+
+- 鼬鲨 / Tiger shark — *Galeocerdo cuvier* `tiger-shark`
+
 ### 须鲨目
+
+**铰口鲨科**
+
+- 铰口鲨 / Nurse shark — *Ginglymostoma cirratum* `nurse-shark`
 
 **鲸鲨科**
 

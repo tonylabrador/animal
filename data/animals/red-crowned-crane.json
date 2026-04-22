@@ -1,0 +1,364 @@
+{
+  "id": "red-crowned-crane",
+  "name_zh": "丹顶鹤",
+  "name_en": "Red-crowned crane",
+  "scientific_name": "Grus japonensis",
+  "ui_tags": [
+    "Aves",
+    "Wetlands",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Gruiformes",
+      "zh": "鹤形目"
+    },
+    "family": {
+      "en": "Gruidae",
+      "zh": "鹤科"
+    },
+    "genus": {
+      "en": "Grus",
+      "zh": "鹤属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The Red-crowned crane, also known as the Manchurian crane or Japanese crane, is a large East Asian crane and among the rarest and most iconic avian species in the world. Deeply embedded in East Asian mythology as a symbol of luck, longevity, and fidelity, this majestic bird is characterized by its snow-white plumage, contrasting black secondary and tertiary flight feathers, and a highly distinctive patch of vascularized bare red skin on the crown. This crimson patch becomes intensely vibrant during the breeding season or when the bird is agitated. As an apex wetland species, it serves as a critical bioindicator for the health of palustrine and estuarine ecosystems across its migratory range.",
+    "zh": "丹顶鹤，又称仙鹤、满洲鹤，是东亚地区特有的大型涉禽，也是世界上最稀有且最具标志性的鸟类之一。在东亚神话与文化中，它被深深烙印为吉祥、长寿和忠贞的象征。这种雄伟的鸟类以其洁白如雪的羽毛、形成鲜明对比的黑色次级和三级飞羽，以及头顶极具特征的裸露微血管红色皮肤斑块而闻名。在繁殖季节或情绪激动时，这块深红色的斑块会变得异常鲜艳。作为湿地生态系统中的顶级物种，丹顶鹤是衡量其迁徙路线上沼泽与河口生态系统健康状况的关键生物指示剂。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adult Red-crowned cranes are imposing figures, standing 150 to 158 cm tall, weighing between 7 and 10.5 kg, and boasting an impressive wingspan of 220 to 250 cm. The striking red crown is devoid of feathers, consisting instead of papillose bare skin heavily supplied with blood vessels. The beak is olive-green to horn-colored, elongated, and sharply pointed, perfectly adapted for spearing elusive aquatic prey in shallow waters. The legs are slate-black, exceptionally long, and robust, facilitating efficient wading through deep marshes and dense reed beds. Sexual dimorphism is minimal, though males tend to be slightly larger than females.",
+      "zh": "成年丹顶鹤体型庞大，身高可达150至158厘米，体重在7至10.5公斤之间，并拥有220至250厘米的惊人翼展。其引人注目的红色头顶并非羽毛，而是布满微血管的乳头状裸露皮肤。喙呈橄榄绿至角质色，细长且尖锐，极其适合在浅水中刺穿难以捕捉的水生猎物。腿部呈板岩黑色，异常修长而强健，便于在深水沼泽和茂密的芦苇荡中高效涉水。该物种的雌雄二态性极小，尽管雄性通常比雌性略大。"
+    },
+    "ecology_and_behavior": {
+      "en": "Highly omnivorous and opportunistic, their diet encompasses aquatic invertebrates, insects, fish, amphibians, rodents, as well as reeds, grasses, and berries. They are globally renowned for their elaborate and highly synchronized courtship dances, which involve a complex sequence of bows, head bobs, spectacular leaps, and wing extensions, all accompanied by loud, resonant unison calls that can carry for miles. They form lifelong monogamous pair bonds and exhibit fierce territoriality during the breeding season, aggressively defending their nesting sites against predators and conspecifics alike.",
+      "zh": "丹顶鹤是高度杂食且具有机会主义倾向的觅食者，其饮食包括水生无脊椎动物、昆虫、鱼类、两栖类、啮齿类，以及芦苇、草籽和浆果。它们以极其复杂且高度同步的求偶舞蹈闻名于世，包括一系列鞠躬、点头、壮观的跳跃和展翅动作，并伴随着响亮、共鸣强烈且能传至数英里外的齐鸣。它们实行严格的终生一夫一妻制，在繁殖季节表现出强烈的领地意识，会极具攻击性地保卫筑巢地，抵御捕食者和同类入侵。"
+    },
+    "habitat_and_distribution": {
+      "en": "Red-crowned cranes breed in expansive, highly undisturbed wetlands, bogs, and marshes of the Amur River basin, eastern Mongolia, and Hokkaido, Japan. The mainland populations are highly migratory, undertaking arduous journeys to winter in coastal salt marshes, river deltas, and agricultural fields in eastern and central China (notably the Yancheng wetlands), as well as the Korean Peninsula's Demilitarized Zone (DMZ). Conversely, the Hokkaido population is largely non-migratory, sustained through harsh winters by artificial feeding programs.",
+      "zh": "丹顶鹤在黑龙江流域、蒙古东部和日本北海道广阔且未受破坏的湿地、泥炭沼泽和芦苇荡中繁殖。大陆种群具有高度的迁徙性，需经历艰苦的旅程，前往中国中东部（尤其是盐城湿地）的沿海盐沼、河口三角洲和农田，以及朝鲜半岛的非军事区（DMZ）越冬。相反，日本北海道的种群基本为留鸟，依靠人工投喂计划度过严酷的寒冬。"
+    }
+  },
+  "habitat": {
+    "text_en": "Breeds in deep freshwater marshes and bogs of Northeast Asia; winters in coastal salt marshes, rivers, and agricultural lands in China and the Korean Peninsula, with a resident population in Hokkaido, Japan.",
+    "text_zh": "在东北亚的深水淡水沼泽和泥炭地繁殖；冬季迁徙至中国和朝鲜半岛的沿海盐沼、河流及农田，在日本北海道有留鸟种群。",
+    "map_coordinates": [
+      43,
+      125
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          53.5,
+          120.5
+        ],
+        [
+          52.8,
+          122.1
+        ],
+        [
+          51.5,
+          124
+        ],
+        [
+          50.2,
+          125.5
+        ],
+        [
+          49.8,
+          127.2
+        ],
+        [
+          48.5,
+          129
+        ],
+        [
+          47.2,
+          130.5
+        ],
+        [
+          46.5,
+          132.8
+        ],
+        [
+          45,
+          133.5
+        ],
+        [
+          44.2,
+          131
+        ],
+        [
+          45.5,
+          128.5
+        ],
+        [
+          46.8,
+          126
+        ],
+        [
+          47.5,
+          124.2
+        ],
+        [
+          48.2,
+          122.5
+        ],
+        [
+          49.5,
+          120
+        ],
+        [
+          51,
+          118.5
+        ],
+        [
+          52.5,
+          119.2
+        ],
+        [
+          53.5,
+          120.5
+        ]
+      ],
+      [
+        [
+          44.3,
+          143.5
+        ],
+        [
+          44.1,
+          144
+        ],
+        [
+          44,
+          144.2
+        ],
+        [
+          43.9,
+          144.5
+        ],
+        [
+          43.8,
+          144.8
+        ],
+        [
+          43.6,
+          145
+        ],
+        [
+          43.5,
+          145.2
+        ],
+        [
+          43.3,
+          145.4
+        ],
+        [
+          43.2,
+          145.5
+        ],
+        [
+          43,
+          145.3
+        ],
+        [
+          42.9,
+          145
+        ],
+        [
+          42.8,
+          144.5
+        ],
+        [
+          42.9,
+          144
+        ],
+        [
+          43,
+          143.6
+        ],
+        [
+          43.2,
+          143.2
+        ],
+        [
+          43.5,
+          143
+        ],
+        [
+          43.8,
+          143.1
+        ],
+        [
+          44.1,
+          143.3
+        ],
+        [
+          44.3,
+          143.5
+        ]
+      ],
+      [
+        [
+          34.5,
+          119.8
+        ],
+        [
+          34.2,
+          120.2
+        ],
+        [
+          33.8,
+          120.5
+        ],
+        [
+          33.5,
+          120.8
+        ],
+        [
+          33.2,
+          120.9
+        ],
+        [
+          32.8,
+          121
+        ],
+        [
+          32.5,
+          120.8
+        ],
+        [
+          32.6,
+          120.5
+        ],
+        [
+          32.9,
+          120.2
+        ],
+        [
+          33.2,
+          120
+        ],
+        [
+          33.5,
+          119.8
+        ],
+        [
+          33.8,
+          119.6
+        ],
+        [
+          34.1,
+          119.5
+        ],
+        [
+          34.3,
+          119.6
+        ],
+        [
+          34.5,
+          119.8
+        ]
+      ],
+      [
+        [
+          38.4,
+          126.8
+        ],
+        [
+          38.35,
+          127
+        ],
+        [
+          38.3,
+          127.2
+        ],
+        [
+          38.25,
+          127.4
+        ],
+        [
+          38.2,
+          127.5
+        ],
+        [
+          38.15,
+          127.7
+        ],
+        [
+          38.1,
+          127.8
+        ],
+        [
+          38,
+          127.9
+        ],
+        [
+          37.9,
+          128
+        ],
+        [
+          37.85,
+          127.8
+        ],
+        [
+          37.8,
+          127.7
+        ],
+        [
+          37.8,
+          127.4
+        ],
+        [
+          37.85,
+          127.2
+        ],
+        [
+          37.9,
+          127.1
+        ],
+        [
+          38,
+          126.8
+        ],
+        [
+          38.1,
+          126.6
+        ],
+        [
+          38.2,
+          126.5
+        ],
+        [
+          38.3,
+          126.6
+        ],
+        [
+          38.4,
+          126.8
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/red-crowned-crane.jpg"
+}

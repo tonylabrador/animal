@@ -1,0 +1,424 @@
+{
+  "id": "tiger-shark",
+  "name_zh": "鼬鲨",
+  "name_en": "Tiger shark",
+  "scientific_name": "Galeocerdo cuvier",
+  "ui_tags": [
+    "Chondrichthyes",
+    "Marine",
+    "Apex Predator"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Chondrichthyes",
+      "zh": "软骨鱼纲"
+    },
+    "order": {
+      "en": "Carcharhiniformes",
+      "zh": "真鲨目"
+    },
+    "family": {
+      "en": "Galeocerdonidae",
+      "zh": "鼬鲨科"
+    },
+    "genus": {
+      "en": "Galeocerdo",
+      "zh": "鼬鲨属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "The tiger shark (Galeocerdo cuvier) is an apex marine predator and the sole extant member of the genus Galeocerdo. Renowned for its distinctive dark, vertical stripes—which are prominent in juveniles but fade with maturity—this formidable elasmobranch can exceed 5 meters in length. It is a highly adaptable, circumglobal species found in tropical and temperate waters. As a solitary, predominantly nocturnal hunter, the tiger shark possesses the most diverse diet of all sharks, earning it the moniker 'garbage can of the sea.' Its highly specialized, cockscomb-shaped teeth are heavily serrated and point outward, an evolutionary adaptation perfectly suited for shearing through the dense carapaces of sea turtles, marine mammal bones, and even anthropogenic debris.",
+    "zh": "鼬鲨（学名：Galeocerdo cuvier），又称虎鲨，是海洋中的顶级掠食者，也是鼬鲨属现存的唯一物种。这种令人生畏的软骨鱼类体长可超过5米，以其独特的深色垂直条纹而闻名——这些条纹在幼体中尤为明显，但会随着成熟而逐渐褪色。鼬鲨是一种高度适应环境的环球分布物种，广泛栖息于热带和温带海域。作为一种独居且主要在夜间活动的猎手，鼬鲨拥有所有鲨鱼中最具多样性的食谱，甚至因吞食人造垃圾而被称为‘海中垃圾桶’。其高度特化的鸡冠状牙齿边缘布满粗糙的锯齿且向外侧倾斜，这种进化适应使其能够轻易咬碎海龟坚硬的甲壳、海洋哺乳动物的骨骼甚至各种坚硬的异物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The tiger shark exhibits a robust, fusiform body with a blunt, wedge-shaped snout. Its sensory biology is extraordinarily advanced, featuring highly sensitive ampullae of Lorenzini for electroreception and a tapetum lucidum for enhanced nocturnal vision. The most defining anatomical feature is its dentition: the teeth are identical in both jaws, characterized by a deep notch, coarse serrations, and a sideways-pointing tip, allowing for a sawing action. It possesses a heterocercal caudal fin with a long upper lobe, providing bursts of speed, while its countershaded coloration—bluish-green to dark gray dorsally and yellowish-white ventrally—offers excellent camouflage in the pelagic zone.",
+      "zh": "鼬鲨拥有粗壮的纺锤形躯体和钝而呈楔形的吻部。其感觉生物学极为发达，配备了用于电感受的高灵敏度劳伦氏壶腹（Ampullae of Lorenzini）以及用于增强夜视能力的明毯（Tapetum lucidum）。最具标志性的解剖学特征是其牙齿：上下颌牙齿形态一致，具有极深的缺刻、粗糙的锯齿和侧斜的齿尖，能够产生类似电锯的切割效果。它拥有歪形尾鳍，上叶较长，能提供爆发性的游动速度；而其背部呈蓝绿色至深灰色、腹部呈黄白色的反荫蔽（Countershading）体色，则在远洋带中提供了极佳的伪装效果。"
+    },
+    "ecology_and_behavior": {
+      "en": "Operating as a solitary, nomadic apex predator, the tiger shark undertakes massive transoceanic migrations, often guided by seasonal temperature changes and prey availability. It is a nocturnal feeder with an unparalleled, opportunistic diet that includes teleost fishes, elasmobranchs, marine mammals, sea birds, sea snakes, and cephalopods. It plays a critical ecological role in regulating populations of large marine herbivores, such as dugongs and green sea turtles, thereby maintaining the health of seagrass meadows. Despite its fearsome reputation, it exhibits complex behaviors, including site fidelity to specific foraging grounds and intricate social hierarchies when congregating around large carcasses.",
+      "zh": "作为一种独居且四处游荡的顶级掠食者，鼬鲨会进行大规模的跨洋迁徙，通常受季节性温度变化和猎物丰度的引导。它是一种夜行性觅食者，具有无与伦比的机会主义食谱，包括硬骨鱼、软骨鱼、海洋哺乳动物、海鸟、海蛇和头足类动物。它在调节儒艮和绿海龟等大型海洋食草动物的种群数量方面发挥着至关重要的生态作用，从而维持了海草床的健康。尽管名声可畏，但它展现出复杂的行为模式，包括对特定觅食地的地点忠诚度，以及在聚集于大型动物尸体周围时表现出的复杂社会等级制度。"
+    },
+    "habitat_and_distribution": {
+      "en": "The tiger shark is a circumglobal species, predominantly inhabiting tropical, subtropical, and warm-temperate oceans. It exhibits a remarkable tolerance for diverse marine environments, ranging from shallow coastal waters, coral reefs, estuaries, and harbors to the open pelagic zone up to depths of 900 meters. It frequently patrols turbid coastal areas where nutrient runoff attracts abundant prey. Significant populations are found in the Gulf of Mexico, the Caribbean Sea, the Indo-Pacific region, and along the coasts of Australia and South Africa.",
+      "zh": "鼬鲨是一种环球分布的物种，主要栖息于热带、亚热带和暖温带海洋。它对多样化的海洋环境表现出惊人的耐受力，其活动范围从浅海沿岸水域、珊瑚礁、河口和港口，一直延伸至深达900米的开阔远洋带。它经常在浑浊的沿海区域巡逻，那里的营养物质径流吸引了丰富的猎物。在墨西哥湾、加勒比海、印度-太平洋地区以及澳大利亚和南非沿海均发现了大量的鼬鲨种群。"
+    }
+  },
+  "habitat": {
+    "text_en": "Circumglobal in tropical and warm-temperate oceans, favoring coastal areas, coral reefs, and pelagic zones.",
+    "text_zh": "环球分布于热带和暖温带海洋，偏好沿海地区、珊瑚礁和远洋带。",
+    "map_coordinates": [
+      0,
+      0
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          41,
+          -71
+        ],
+        [
+          38.5,
+          -74.2
+        ],
+        [
+          35.1,
+          -75.3
+        ],
+        [
+          30.2,
+          -81.1
+        ],
+        [
+          27.5,
+          -82.4
+        ],
+        [
+          29,
+          -89
+        ],
+        [
+          26.5,
+          -97
+        ],
+        [
+          22.1,
+          -97.5
+        ],
+        [
+          19,
+          -95
+        ],
+        [
+          15.2,
+          -88
+        ],
+        [
+          10.5,
+          -83
+        ],
+        [
+          9,
+          -79
+        ],
+        [
+          12,
+          -71
+        ],
+        [
+          10.5,
+          -61
+        ],
+        [
+          5,
+          -52
+        ],
+        [
+          0,
+          -48
+        ],
+        [
+          -5,
+          -35
+        ],
+        [
+          -15,
+          -38
+        ],
+        [
+          -23,
+          -42
+        ],
+        [
+          -30,
+          -49
+        ],
+        [
+          -34,
+          -53
+        ],
+        [
+          -30,
+          -45
+        ],
+        [
+          -20,
+          -35
+        ],
+        [
+          -10,
+          -30
+        ],
+        [
+          0,
+          -40
+        ],
+        [
+          10,
+          -55
+        ],
+        [
+          20,
+          -65
+        ],
+        [
+          25,
+          -75
+        ],
+        [
+          30,
+          -75
+        ],
+        [
+          35,
+          -70
+        ],
+        [
+          41,
+          -71
+        ]
+      ],
+      [
+        [
+          25,
+          55
+        ],
+        [
+          15,
+          50
+        ],
+        [
+          5,
+          48
+        ],
+        [
+          -5,
+          40
+        ],
+        [
+          -15,
+          42
+        ],
+        [
+          -25,
+          35
+        ],
+        [
+          -34,
+          20
+        ],
+        [
+          -35,
+          25
+        ],
+        [
+          -30,
+          40
+        ],
+        [
+          -20,
+          55
+        ],
+        [
+          -10,
+          70
+        ],
+        [
+          0,
+          85
+        ],
+        [
+          10,
+          95
+        ],
+        [
+          20,
+          90
+        ],
+        [
+          25,
+          85
+        ],
+        [
+          22,
+          70
+        ],
+        [
+          15,
+          65
+        ],
+        [
+          25,
+          55
+        ]
+      ],
+      [
+        [
+          20,
+          110
+        ],
+        [
+          10,
+          105
+        ],
+        [
+          0,
+          115
+        ],
+        [
+          -10,
+          125
+        ],
+        [
+          -20,
+          115
+        ],
+        [
+          -30,
+          113
+        ],
+        [
+          -35,
+          118
+        ],
+        [
+          -35,
+          130
+        ],
+        [
+          -40,
+          145
+        ],
+        [
+          -35,
+          155
+        ],
+        [
+          -25,
+          155
+        ],
+        [
+          -15,
+          145
+        ],
+        [
+          -5,
+          155
+        ],
+        [
+          5,
+          165
+        ],
+        [
+          15,
+          155
+        ],
+        [
+          25,
+          145
+        ],
+        [
+          35,
+          140
+        ],
+        [
+          30,
+          130
+        ],
+        [
+          20,
+          120
+        ],
+        [
+          20,
+          110
+        ]
+      ],
+      [
+        [
+          35,
+          -10
+        ],
+        [
+          25,
+          -15
+        ],
+        [
+          15,
+          -20
+        ],
+        [
+          5,
+          -15
+        ],
+        [
+          0,
+          -5
+        ],
+        [
+          -10,
+          5
+        ],
+        [
+          -20,
+          10
+        ],
+        [
+          -30,
+          15
+        ],
+        [
+          -35,
+          20
+        ],
+        [
+          -30,
+          10
+        ],
+        [
+          -20,
+          0
+        ],
+        [
+          -10,
+          -10
+        ],
+        [
+          0,
+          -20
+        ],
+        [
+          10,
+          -25
+        ],
+        [
+          20,
+          -25
+        ],
+        [
+          30,
+          -20
+        ],
+        [
+          35,
+          -10
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/tiger-shark.jpg"
+}

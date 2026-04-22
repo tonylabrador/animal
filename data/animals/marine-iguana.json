@@ -1,0 +1,372 @@
+{
+  "id": "marine-iguana",
+  "name_zh": "海鬣蜥",
+  "name_en": "Marine Iguana",
+  "scientific_name": "Amblyrhynchus cristatus",
+  "ui_tags": [
+    "Reptilia",
+    "Coastal",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Iguanidae",
+      "zh": "鬣蜥科"
+    },
+    "genus": {
+      "en": "Amblyrhynchus",
+      "zh": "海鬣蜥属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The marine iguana (Amblyrhynchus cristatus) is an extraordinary marine reptile endemic to the Galápagos Islands, representing the only extant lizard species that forages in the ocean. Evolving from terrestrial ancestors, this remarkable squamate has developed profound physiological and morphological adaptations to exploit the rich marine algal pastures of the cold, nutrient-dense Humboldt Current. They exhibit a unique evolutionary trait: the ability to shrink their body length by up to 20% during El Niño-induced famine events, reabsorbing bone matter to survive, and subsequently regrowing when conditions improve.",
+    "zh": "海鬣蜥（Amblyrhynchus cristatus）是加拉帕戈斯群岛特有的非凡海洋爬行动物，也是现存唯一能在海洋中觅食的蜥蜴物种。这种引人注目的有鳞目动物从陆生祖先演化而来，发展出了深刻的生理和形态适应能力，以利用寒冷且富含营养的秘鲁寒流所孕育的丰富海洋藻场。它们展现出一种独特的进化特征：在厄尔尼诺现象引发的饥荒期间，它们能够将体长缩短高达20%，通过吸收骨骼物质来维持生存，并在环境改善后重新生长。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Morphologically tailored for a thalassic existence, the marine iguana features a laterally compressed tail that functions as a powerful propulsive organ, enabling efficient anguilliform locomotion underwater. Its robust, razor-sharp claws are specifically adapted to anchor the animal against violent oceanic surges while clinging to submerged basaltic rocks. The snout is distinctively blunt and shortened, allowing the iguana's tricuspid teeth to graze macroalgae closely from rocky substrates. To combat the massive influx of sodium from their marine diet, they possess highly specialized cranial exocrine salt glands that forcefully expel concentrated brine through their nares, often leaving a characteristic white crust on their heads. Their dark, melanistic epidermal pigmentation facilitates rapid thermal absorption during post-dive basking.",
+      "zh": "海鬣蜥的形态完全为海洋生活而定制，其侧扁的尾巴作为强大的推进器官，使其能在水下进行高效的鳗游式运动。其粗壮且极其锋利的爪子经过专门适应，能够在汹涌的海浪中将身体牢牢固定在水下的玄武岩上。其吻部独特地呈钝角且缩短，使得海鬣蜥的三尖齿能够紧贴岩石基底啃食大型海藻。为了应对海洋饮食带来的大量钠摄入，它们拥有高度特化的颅部外分泌盐腺，能通过鼻孔强力排出高浓度的盐水，常在其头部留下特征性的白色盐壳。它们深色的黑化表皮色素沉着有助于在潜水后的日光浴中快速吸收热量。"
+    },
+    "ecology_and_behavior": {
+      "en": "As ectotherms operating in cold oceanic waters, marine iguanas face severe thermoregulatory challenges. They must elevate their core body temperature to approximately 36°C via solar basking before initiating foraging dives, which can last up to an hour and reach depths of 30 meters. During submergence, they exhibit pronounced bradycardia, reducing their heart rate by half to conserve oxygen. Their diet consists almost exclusively of red and green intertidal and subtidal macroalgae. Socially, they form dense aggregations on rocky shores to conserve heat. During the breeding season, males become highly territorial, developing striking aposematic coloration—ranging from teal to crimson depending on the subspecies—and engage in intense head-bobbing displays and physical combat to secure optimal lekking territories.",
+      "zh": "作为在寒冷海水中活动的变温动物，海鬣蜥面临着严峻的体温调节挑战。在开始觅食潜水之前，它们必须通过日光浴将核心体温提升至约36°C，其潜水时间可长达一小时，深度可达30米。在潜水期间，它们表现出明显的心动过缓，将心率降低一半以节省氧气。它们的饮食几乎完全由潮间带和潮下带的红藻和绿藻组成。在社会行为上，它们在岩石海岸上形成密集的聚集体以保持热量。在繁殖季节，雄性变得极具领地意识，根据亚种的不同，会展现出从蓝绿色到深红色的醒目警戒色，并进行激烈的点头展示和物理搏斗，以确保最佳的求偶场领地。"
+    },
+    "habitat_and_distribution": {
+      "en": "Strictly endemic to the Galápagos Archipelago, marine iguanas inhabit the rugged, volcanic coastlines across almost all islands in the chain. They are predominantly found in the intertidal zones, rocky shores, and mangrove beaches, rarely venturing more than a few dozen meters inland. Their distribution is heavily dictated by the presence of shallow reefs and the cold, upwelling marine currents that sustain their algal food source.",
+      "zh": "海鬣蜥严格特产于加拉帕戈斯群岛，栖息在该群岛几乎所有岛屿的崎岖火山海岸线上。它们主要分布在潮间带、岩石海岸和红树林海滩，极少深入内陆几十米以上。它们的分布在很大程度上取决于浅礁的存在以及维持其藻类食物来源的寒冷上升洋流。"
+    }
+  },
+  "habitat": {
+    "text_en": "Endemic to the rocky coastlines and intertidal zones of the Galápagos Islands, Ecuador.",
+    "text_zh": "特产于厄瓜多尔加拉帕戈斯群岛的岩石海岸线和潮间带。",
+    "map_coordinates": [
+      -0.6,
+      -90.5
+    ],
+    "map_zoom_level": 7,
+    "global_distribution_polygons": [
+      [
+        [
+          -0.18,
+          -91.4
+        ],
+        [
+          -0.05,
+          -91.45
+        ],
+        [
+          0.1,
+          -91.4
+        ],
+        [
+          0.2,
+          -91.35
+        ],
+        [
+          0.25,
+          -91.25
+        ],
+        [
+          0.15,
+          -91.15
+        ],
+        [
+          0.05,
+          -91.1
+        ],
+        [
+          -0.1,
+          -91.05
+        ],
+        [
+          -0.2,
+          -91
+        ],
+        [
+          -0.3,
+          -90.95
+        ],
+        [
+          -0.4,
+          -90.95
+        ],
+        [
+          -0.5,
+          -90.98
+        ],
+        [
+          -0.6,
+          -91
+        ],
+        [
+          -0.7,
+          -91.05
+        ],
+        [
+          -0.8,
+          -91.1
+        ],
+        [
+          -0.9,
+          -91.15
+        ],
+        [
+          -1,
+          -91.2
+        ],
+        [
+          -0.95,
+          -91.3
+        ],
+        [
+          -0.85,
+          -91.4
+        ],
+        [
+          -0.75,
+          -91.45
+        ],
+        [
+          -0.65,
+          -91.5
+        ],
+        [
+          -0.55,
+          -91.45
+        ],
+        [
+          -0.45,
+          -91.4
+        ],
+        [
+          -0.35,
+          -91.35
+        ],
+        [
+          -0.25,
+          -91.38
+        ],
+        [
+          -0.18,
+          -91.4
+        ]
+      ],
+      [
+        [
+          -0.25,
+          -91.65
+        ],
+        [
+          -0.2,
+          -91.6
+        ],
+        [
+          -0.15,
+          -91.55
+        ],
+        [
+          -0.18,
+          -91.5
+        ],
+        [
+          -0.25,
+          -91.45
+        ],
+        [
+          -0.3,
+          -91.45
+        ],
+        [
+          -0.35,
+          -91.48
+        ],
+        [
+          -0.4,
+          -91.5
+        ],
+        [
+          -0.45,
+          -91.55
+        ],
+        [
+          -0.48,
+          -91.6
+        ],
+        [
+          -0.45,
+          -91.65
+        ],
+        [
+          -0.4,
+          -91.68
+        ],
+        [
+          -0.35,
+          -91.7
+        ],
+        [
+          -0.3,
+          -91.68
+        ],
+        [
+          -0.25,
+          -91.65
+        ]
+      ],
+      [
+        [
+          -0.42,
+          -90.35
+        ],
+        [
+          -0.35,
+          -90.3
+        ],
+        [
+          -0.32,
+          -90.25
+        ],
+        [
+          -0.33,
+          -90.18
+        ],
+        [
+          -0.38,
+          -90.12
+        ],
+        [
+          -0.45,
+          -90.1
+        ],
+        [
+          -0.52,
+          -90.12
+        ],
+        [
+          -0.6,
+          -90.15
+        ],
+        [
+          -0.68,
+          -90.18
+        ],
+        [
+          -0.75,
+          -90.25
+        ],
+        [
+          -0.76,
+          -90.32
+        ],
+        [
+          -0.72,
+          -90.38
+        ],
+        [
+          -0.65,
+          -90.42
+        ],
+        [
+          -0.55,
+          -90.4
+        ],
+        [
+          -0.48,
+          -90.38
+        ],
+        [
+          -0.42,
+          -90.35
+        ]
+      ],
+      [
+        [
+          -0.73,
+          -89.58
+        ],
+        [
+          -0.7,
+          -89.52
+        ],
+        [
+          -0.71,
+          -89.46
+        ],
+        [
+          -0.75,
+          -89.4
+        ],
+        [
+          -0.78,
+          -89.32
+        ],
+        [
+          -0.82,
+          -89.26
+        ],
+        [
+          -0.86,
+          -89.24
+        ],
+        [
+          -0.89,
+          -89.28
+        ],
+        [
+          -0.91,
+          -89.35
+        ],
+        [
+          -0.92,
+          -89.42
+        ],
+        [
+          -0.89,
+          -89.48
+        ],
+        [
+          -0.86,
+          -89.53
+        ],
+        [
+          -0.83,
+          -89.58
+        ],
+        [
+          -0.79,
+          -89.61
+        ],
+        [
+          -0.76,
+          -89.6
+        ],
+        [
+          -0.73,
+          -89.58
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/marine-iguana.jpg"
+}

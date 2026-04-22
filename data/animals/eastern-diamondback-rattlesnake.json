@@ -1,0 +1,231 @@
+{
+  "id": "eastern-diamondback-rattlesnake",
+  "name_zh": "东部菱背响尾蛇",
+  "name_en": "Eastern Diamondback Rattlesnake",
+  "scientific_name": "Crotalus adamanteus",
+  "ui_tags": [
+    "Reptile",
+    "Terrestrial",
+    "Venomous",
+    "Ambush Predator"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Viperidae",
+      "zh": "蝰科"
+    },
+    "genus": {
+      "en": "Crotalus",
+      "zh": "响尾蛇属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Eastern Diamondback Rattlesnake (Crotalus adamanteus) is the largest venomous snake in the Americas and arguably the heaviest known species of rattlesnake. Endemic to the southeastern United States, this formidable pit viper is an apex micro-predator of the longleaf pine ecosystem. Characterized by its striking dorsal pattern of dark, yellow-bordered diamonds, it possesses highly potent hemotoxic venom and exceptionally long fangs. Despite its fearsome reputation, it is a secretive and highly specialized ambush hunter that plays a critical role in regulating small mammal populations.",
+    "zh": "东部菱背响尾蛇（Crotalus adamanteus）是美洲体型最大的毒蛇，也是已知最重的响尾蛇物种。作为美国东南部的特有种，这种令人敬畏的蝮亚科爬行动物是长叶松生态系统中的顶级微型捕食者。它以背部醒目的、带有黄色边缘的深色菱形斑纹而闻名，拥有极具破坏性的血液毒素和异常修长的毒牙。尽管声名可畏，但它实际上是一种隐秘且高度专业化的伏击猎手，在调节小型哺乳动物种群数量方面发挥着至关重要的生态作用。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults typically range from 1.5 to 1.8 meters in length, with exceptional specimens exceeding 2.4 meters and weighing over 5 kilograms. The robust, heavy-bodied frame is covered in heavily keeled scales, providing a rough texture. The dorsal pattern consists of 24 to 35 dark brown to black diamonds, outlined by a row of cream or yellow scales, set against a brownish or grayish background. The broad, spade-shaped head houses heat-sensing loreal pits located between the eye and nostril, enabling the detection of endothermic prey in total darkness. Its solenoglyphous dentition features hinged, hollow fangs that can reach up to 27 millimeters in length, connected to large venom glands. The tail terminates in a keratinous rattle, formed by loosely interlocking segments that produce a high-frequency buzzing sound when vibrated at 50-60 times per second.",
+      "zh": "成体长度通常在1.5至1.8米之间，极少数个体可超过2.4米，体重超过5公斤。其粗壮厚实的躯体覆盖着强烈的起棱鳞片，质感粗糙。背部图案由24至35个深棕色至黑色的菱形斑块组成，边缘镶嵌着一圈奶油色或黄色的鳞片，底色多为棕色或灰色。宽阔的铲状头部在眼睛和鼻孔之间长有热感应颊窝，使其能够在完全黑暗的环境中探测到恒温猎物。它具有管牙类（solenoglyphous）牙齿结构，中空且可折叠的毒牙长度可达27毫米，并与巨大的毒腺相连。尾部末端是由角质素构成的响环，由松散互锁的节段组成，当以每秒50-60次的频率振动时，会发出高频的嗡嗡声。"
+    },
+    "ecology_and_behavior": {
+      "en": "Crotalus adamanteus is a solitary, terrestrial ambush predator. It exhibits extreme patience, often remaining coiled and motionless in a camouflaged position for up to a week waiting for prey, primarily marsh rabbits, cottontails, and various rodents. Upon striking, it injects a massive yield of hemotoxic venom containing metalloproteinases and serine proteases, which induce extensive tissue necrosis, coagulopathy, and cardiovascular collapse in the prey. The snake then tracks the envenomated animal using its vomeronasal organ (Jacobson's organ). During the winter months, they exhibit brumation behaviors, frequently utilizing the deep burrows of gopher tortoises (Gopherus polyphemus) or decaying stump holes as hibernacula, demonstrating a complex commensal relationship within their habitat.",
+      "zh": "东部菱背响尾蛇是一种独居的陆生伏击捕食者。它表现出极高的耐心，通常在伪装状态下盘绕静止长达一周，等待主要猎物（如沼泽兔、棉尾兔和各种啮齿动物）的出现。在发动攻击时，它会注入大量含有金属蛋白酶和丝氨酸蛋白酶的血液毒素，导致猎物出现广泛的组织坏死、凝血障碍和心血管衰竭。随后，蛇会利用其犁鼻器（雅各布森器官）追踪中毒的动物。在冬季，它们会进入冬眠状态，经常利用地鼠陆龟（Gopherus polyphemus）的深洞或腐烂的树桩洞作为越冬场所，这展示了其栖息地内复杂的共生关系。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species is strictly endemic to the Lower Coastal Plain of the southeastern United States. Its historical range extends from eastern North Carolina, south along the coast to the Florida Keys, and west to southeastern Louisiana. It is intrinsically tied to the longleaf pine (Pinus palustris) savannas, pine flatwoods, wiregrass communities, and coastal scrub habitats. These ecosystems are characterized by well-drained sandy soils and frequent, low-intensity wildfires, which maintain the open canopy and dense herbaceous understory required by the snake for thermoregulation and hunting. Habitat fragmentation and fire suppression have led to significant population declines across its range.",
+      "zh": "该物种严格特有于美国东南部的下海岸平原。其历史分布范围从北卡罗来纳州东部向南沿海岸延伸至佛罗里达礁岛群，向西至路易斯安那州东南部。它与长叶松（Pinus palustris）稀树草原、松树平林、须芒草群落和沿海灌木丛栖息地有着内在的联系。这些生态系统的特征是排水良好的沙质土壤和频繁的低强度野火，这维持了蛇类进行体温调节和狩猎所需的开阔树冠和茂密的草本林下植被。栖息地破碎化和火灾抑制导致其分布范围内的种群数量显著下降。"
+    }
+  },
+  "habitat": {
+    "text_en": "Endemic to the southeastern United States, primarily inhabiting longleaf pine savannas, pine flatwoods, and coastal scrublands across the Lower Coastal Plain.",
+    "text_zh": "特有于美国东南部，主要栖息于下海岸平原的长叶松稀树草原、松树平林和沿海灌木丛中。",
+    "map_coordinates": [
+      30,
+      -82
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          35.2,
+          -76.6
+        ],
+        [
+          34.7,
+          -77.2
+        ],
+        [
+          34.2,
+          -77.9
+        ],
+        [
+          33.8,
+          -78.6
+        ],
+        [
+          33.2,
+          -79.3
+        ],
+        [
+          32.7,
+          -79.9
+        ],
+        [
+          32.1,
+          -80.8
+        ],
+        [
+          31.4,
+          -81.3
+        ],
+        [
+          30.7,
+          -81.5
+        ],
+        [
+          29.9,
+          -81.3
+        ],
+        [
+          28.8,
+          -80.7
+        ],
+        [
+          27.5,
+          -80.3
+        ],
+        [
+          26.2,
+          -80.1
+        ],
+        [
+          25.3,
+          -80.4
+        ],
+        [
+          25.1,
+          -81.1
+        ],
+        [
+          25.8,
+          -81.6
+        ],
+        [
+          26.7,
+          -82.2
+        ],
+        [
+          27.8,
+          -82.8
+        ],
+        [
+          28.9,
+          -82.7
+        ],
+        [
+          29.7,
+          -83.5
+        ],
+        [
+          29.8,
+          -84.4
+        ],
+        [
+          30.2,
+          -85.6
+        ],
+        [
+          30.4,
+          -86.8
+        ],
+        [
+          30.3,
+          -88.1
+        ],
+        [
+          30.2,
+          -89.3
+        ],
+        [
+          30.4,
+          -90.1
+        ],
+        [
+          30.8,
+          -90.2
+        ],
+        [
+          31.2,
+          -89.5
+        ],
+        [
+          31.6,
+          -88.4
+        ],
+        [
+          32.1,
+          -87.2
+        ],
+        [
+          32.5,
+          -86.1
+        ],
+        [
+          32.8,
+          -84.9
+        ],
+        [
+          33.2,
+          -83.6
+        ],
+        [
+          33.7,
+          -82.2
+        ],
+        [
+          34.1,
+          -80.8
+        ],
+        [
+          34.6,
+          -79.4
+        ],
+        [
+          35.1,
+          -78.1
+        ],
+        [
+          35.4,
+          -77.3
+        ],
+        [
+          35.2,
+          -76.6
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/eastern-diamondback-rattlesnake.jpg"
+}

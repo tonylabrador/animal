@@ -1,0 +1,162 @@
+{
+  "id": "costasiella-kuroshimae",
+  "name_zh": "黑岛长足海蛞蝓",
+  "name_en": "Leaf sheep",
+  "scientific_name": "Costasiella kuroshimae",
+  "ui_tags": [
+    "Gastropoda",
+    "Marine",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Mollusca",
+      "zh": "软体动物门"
+    },
+    "class": {
+      "en": "Gastropoda",
+      "zh": "腹足纲"
+    },
+    "order": {
+      "en": "Sacoglossa",
+      "zh": "囊舌目"
+    },
+    "family": {
+      "en": "Costasiellidae",
+      "zh": "长足海蛞蝓科"
+    },
+    "genus": {
+      "en": "Costasiella",
+      "zh": "长足海蛞蝓属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "Costasiella kuroshimae, colloquially known as the 'leaf sheep,' is a diminutive species of sacoglossan sea slug renowned for its remarkable ability to perform kleptoplasty. Measuring a mere 5 to 10 millimeters in length, this fascinating marine gastropod exhibits a striking resemblance to a cartoonish sheep, characterized by its closely set eyes and prominent, ear-like rhinophores. Its dorsal surface is densely covered in cerata—leaf-like appendages that house functional chloroplasts sequestered from its algal diet, allowing the slug to supplement its nutrition through photosynthesis.",
+    "zh": "黑岛长足海蛞蝓（学名：Costasiella kuroshimae），俗称“绵羊海蛞蝓”，是一种体型微小的囊舌目海蛞蝓，以其非凡的盗食质体（kleptoplasty）能力而闻名。这种迷人的海洋腹足动物体长仅5至10毫米，因其紧密排列的双眼和突出的耳状嗅角，外观酷似卡通绵羊。其背部密布着叶片状的露鳃（cerata），这些附肢中储存着从藻类食物中分离出来的具功能性叶绿体，使这种海蛞蝓能够通过光合作用来补充营养。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The anatomy of C. kuroshimae is highly specialized for its unique lifestyle. The body is translucent, but the cerata appear vibrant green due to the dense accumulation of chloroplasts. These cerata are arranged in multiple rows along the dorsum and contain branches of the digestive gland. The head features two prominent, dark-tipped rhinophores with fine sensory hairs, which detect chemical cues in the water. Its eyes are situated unusually close together in the center of the head, enhancing its distinct 'sheep-like' visage. The radula is uniseriate and adapted specifically for piercing the cell walls of siphonous green algae to suck out the cellular contents.",
+      "zh": "黑岛长足海蛞蝓的解剖结构高度特化，以适应其独特的生活方式。其身体呈半透明状，但由于叶绿体的密集积累，背部的露鳃呈现出鲜艳的绿色。这些露鳃沿背部呈多排排列，内部包含消化腺的分支。头部具有两个突出的、尖端呈深色的嗅角，上面长有细微的感觉毛，用于探测水中的化学信号。它的双眼异常紧密地排列在头部中央，进一步强化了其独特的“绵羊”面貌。其齿舌呈单列状，专门适应于刺穿管状绿藻的细胞壁以吸食细胞内容物。"
+    },
+    "ecology_and_behavior": {
+      "en": "As a highly specialized herbivore, C. kuroshimae feeds almost exclusively on the green algae genus Avrainvillea. Through a process known as kleptoplasty, it extracts chloroplasts from the algae and incorporates them intact into the cells of its own digestive gland within the cerata. These 'stolen' chloroplasts remain photosynthetically active for up to several months, providing the sea slug with essential carbohydrates and lipids synthesized from sunlight and carbon dioxide. This remarkable adaptation allows the animal to survive prolonged periods of starvation, effectively functioning as a solar-powered animal.",
+      "zh": "作为一种高度特化的植食性动物，黑岛长足海蛞蝓几乎完全以海扇藻属（Avrainvillea）绿藻为食。通过一种被称为“盗食质体”的过程，它从藻类中提取叶绿体，并将其完整地整合到自身露鳃内消化腺的细胞中。这些“偷来”的叶绿体能保持光合作用活性长达数月之久，利用阳光和二氧化碳合成必需的碳水化合物和脂质，为海蛞蝓提供能量。这种非凡的适应能力使该动物能够在长时间的饥饿状态下存活，实际上发挥着“太阳能动物”的功能。"
+    },
+    "habitat_and_distribution": {
+      "en": "C. kuroshimae is endemic to the tropical and subtropical waters of the Indo-Pacific region. It was first discovered off the coast of Kuroshima Island in Japan, but its range extends through the Coral Triangle, encompassing the Philippines, Indonesia, Papua New Guinea, and northern Australia, reaching as far west as Singapore and the Andaman Sea. It predominantly inhabits shallow coral reefs and sandy substrates at depths ranging from 1 to 15 meters, specifically in areas with abundant growth of its host algae, Avrainvillea.",
+      "zh": "黑岛长足海蛞蝓是印度-太平洋热带和亚热带海域的特有种。它最初在日本黑岛海岸被发现，但其分布范围延伸至整个珊瑚礁三角区，包括菲律宾、印度尼西亚、巴布亚新几内亚和澳大利亚北部，向西可达新加坡和安达曼海。它主要栖息在深度为1至15米的浅水珊瑚礁和沙质基底中，特别是其寄主藻类（海扇藻）生长茂盛的区域。"
+    }
+  },
+  "habitat": {
+    "text_en": "Shallow tropical coral reefs and sandy substrates in the Indo-Pacific, closely associated with Avrainvillea algae.",
+    "text_zh": "印度-太平洋地区的浅水热带珊瑚礁和沙质基底，与海扇藻密切相关。",
+    "map_coordinates": [
+      10,
+      125
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          24.2,
+          124
+        ],
+        [
+          21.9,
+          120.8
+        ],
+        [
+          18.5,
+          119.3
+        ],
+        [
+          10.5,
+          118.9
+        ],
+        [
+          7.2,
+          116.8
+        ],
+        [
+          4.5,
+          103.5
+        ],
+        [
+          1.2,
+          104
+        ],
+        [
+          -3.5,
+          100.2
+        ],
+        [
+          -8.5,
+          106
+        ],
+        [
+          -9,
+          115.5
+        ],
+        [
+          -10.5,
+          123.5
+        ],
+        [
+          -12,
+          130
+        ],
+        [
+          -10.5,
+          142
+        ],
+        [
+          -14.5,
+          145.5
+        ],
+        [
+          -10,
+          148
+        ],
+        [
+          -8,
+          157
+        ],
+        [
+          -3,
+          142
+        ],
+        [
+          1.5,
+          128.5
+        ],
+        [
+          7.5,
+          134.5
+        ],
+        [
+          13.5,
+          144.8
+        ],
+        [
+          26.5,
+          128
+        ],
+        [
+          24.2,
+          124
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/costasiella-kuroshimae.jpg"
+}

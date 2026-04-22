@@ -1,0 +1,428 @@
+{
+  "id": "elkhorn-coral",
+  "name_zh": "棕榈鹿角珊瑚",
+  "name_en": "Elkhorn Coral",
+  "scientific_name": "Acropora palmata",
+  "ui_tags": [
+    "Anthozoa",
+    "Shallow Reef",
+    "Symbiotic"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Cnidaria",
+      "zh": "刺胞动物门"
+    },
+    "class": {
+      "en": "Anthozoa",
+      "zh": "珊瑚纲"
+    },
+    "order": {
+      "en": "Scleractinia",
+      "zh": "石珊瑚目"
+    },
+    "family": {
+      "en": "Acroporidae",
+      "zh": "鹿角珊瑚科"
+    },
+    "genus": {
+      "en": "Acropora",
+      "zh": "鹿角珊瑚属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
+  },
+  "description": {
+    "en": "Acropora palmata, commonly known as the Elkhorn Coral, is a critically endangered, prominent reef-building (hermatypic) coral endemic to the Caribbean Sea and the western Atlantic Ocean. Characterized by its massive, complex, antler-like branches, this species is a foundational architect of shallow reef ecosystems, providing unparalleled three-dimensional structural complexity that dissipates wave energy and creates critical microhabitats for a myriad of marine organisms. Historically dominating the reef crests at depths of 1 to 5 meters, its populations have suffered catastrophic declines of up to 95% since the 1980s due to white band disease, thermal stress-induced bleaching, and ocean acidification.",
+    "zh": "棕榈鹿角珊瑚（学名：Acropora palmata）是一种极度濒危的造礁（赫马体）珊瑚，为加勒比海和西大西洋的特有种。该物种以其巨大、复杂且形似麋鹿角的树枝状结构而闻名，是浅水珊瑚礁生态系统的基础建筑师。它提供了无与伦比的三维结构复杂性，不仅能有效消散海浪能量，还为无数海洋生物创造了关键的微栖息地。历史上，它们曾主导着1至5米深的珊瑚礁冠，但自20世纪80年代以来，由于白带病、热应激导致的珊瑚白化以及海洋酸化，其种群数量经历了高达95%的灾难性衰退。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Elkhorn Coral exhibits a robust, branching morphology with thick, flattened branches that can span over two meters in diameter and a trunk base up to 40 centimeters thick. Its skeleton is composed of aragonite (calcium carbonate) secreted by thousands of individual polyps. These polyps house symbiotic photosynthetic dinoflagellates (zooxanthellae) within their endodermal tissues, which provide up to 90% of the coral's nutritional requirements. The polyps also possess specialized stinging cells called nematocysts to capture zooplankton at night. Its exceptional growth rate, reaching 5 to 10 centimeters per year, allows it to rapidly colonize high-energy wave zones.",
+      "zh": "棕榈鹿角珊瑚呈现出粗壮的分枝形态，其扁平且厚实的分枝直径可达两米以上，主干基部厚度可达40厘米。其骨骼由成千上万个独立珊瑚虫分泌的文石（碳酸钙）构成。这些珊瑚虫的内胚层组织中寄生着共生的光合甲藻（虫黄藻），为珊瑚提供高达90%的营养需求。珊瑚虫还拥有被称为刺细胞的特殊结构，用于在夜间捕食浮游动物。其惊人的生长速度（每年可达5至10厘米）使其能够迅速在强波浪能区域定殖。"
+    },
+    "ecology_and_behavior": {
+      "en": "As a keystone species, A. palmata dictates the ecological dynamics of the Caribbean reef crest. It reproduces both asexually through fragmentation—where broken branches reattach to the substrate to form new colonies—and sexually via synchronous broadcast spawning. This spectacular spawning event occurs annually, typically a few days after the full moon in August, releasing millions of gamete bundles into the water column to maximize fertilization success and genetic diversity. The dense thickets formed by this coral serve as essential nurseries and foraging grounds for ecologically and commercially important species, including the Caribbean spiny lobster and various parrotfishes.",
+      "zh": "作为一种关键物种，棕榈鹿角珊瑚主导着加勒比海珊瑚礁冠的生态动态。它既能通过断枝进行无性繁殖（断裂的树枝重新附着在基质上形成新的群体），也能通过同步排卵进行有性繁殖。这种壮观的排卵事件每年发生一次，通常在八月满月后的几天内，将数以百万计的配子束释放到水体中，以最大化受精成功率和遗传多样性。该珊瑚形成的密集灌木丛是加勒比刺龙虾和各种鹦嘴鱼等具有重要生态和商业价值的物种不可或缺的育苗场和觅食地。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the tropical western Atlantic, the Elkhorn Coral is primarily distributed throughout the Caribbean Sea, the Bahamas, the Florida Keys, and the Gulf of Mexico. It is an obligate shallow-water species, thriving in high-energy environments such as reef crests and upper fore-reefs at depths ranging from 1 to 5 meters, though it can occasionally be found down to 20 meters. It requires clear, sunlit, and well-circulated waters with temperatures between 26°C and 30°C to support the photosynthetic activity of its symbiotic zooxanthellae.",
+      "zh": "棕榈鹿角珊瑚是热带西大西洋的特有种，主要分布在整个加勒比海、巴哈马群岛、佛罗里达礁岛群和墨西哥湾。它是一种专性浅水物种，在1至5米深的珊瑚礁冠和上部前礁等高能环境中繁衍生息，尽管偶尔也能在深达20米的地方发现。它需要清澈、阳光充足且水流循环良好的水域，水温需维持在26°C至30°C之间，以支持其共生虫黄藻的光合作用。"
+    }
+  },
+  "habitat": {
+    "text_en": "Shallow reef crests and upper fore-reefs of the Caribbean Sea, Florida Keys, Bahamas, and Mesoamerican Barrier Reef.",
+    "text_zh": "加勒比海、佛罗里达礁岛群、巴哈马群岛和中美洲堡礁的浅水珊瑚礁冠和上部前礁。",
+    "map_coordinates": [
+      17.5,
+      -75
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          25.7,
+          -80.1
+        ],
+        [
+          25.3,
+          -80.3
+        ],
+        [
+          24.9,
+          -80.6
+        ],
+        [
+          24.5,
+          -81
+        ],
+        [
+          24.4,
+          -81.5
+        ],
+        [
+          24.5,
+          -81.8
+        ],
+        [
+          24.7,
+          -81.9
+        ],
+        [
+          25,
+          -81.5
+        ],
+        [
+          25.5,
+          -80.8
+        ],
+        [
+          26,
+          -80.1
+        ],
+        [
+          26.5,
+          -79
+        ],
+        [
+          26.8,
+          -78.5
+        ],
+        [
+          27.2,
+          -78
+        ],
+        [
+          26.5,
+          -77.3
+        ],
+        [
+          25.8,
+          -77
+        ],
+        [
+          25,
+          -77.5
+        ],
+        [
+          24.2,
+          -77.8
+        ],
+        [
+          23.5,
+          -78.2
+        ],
+        [
+          24,
+          -79
+        ],
+        [
+          24.8,
+          -79.5
+        ],
+        [
+          25.7,
+          -80.1
+        ]
+      ],
+      [
+        [
+          21.5,
+          -86.8
+        ],
+        [
+          21,
+          -86.7
+        ],
+        [
+          20.5,
+          -86.9
+        ],
+        [
+          19.8,
+          -87.4
+        ],
+        [
+          19.2,
+          -87.5
+        ],
+        [
+          18.5,
+          -87.8
+        ],
+        [
+          17.9,
+          -88
+        ],
+        [
+          17.2,
+          -88.1
+        ],
+        [
+          16.5,
+          -88.2
+        ],
+        [
+          15.8,
+          -88.3
+        ],
+        [
+          15.9,
+          -87.8
+        ],
+        [
+          16.2,
+          -87
+        ],
+        [
+          16.4,
+          -86.5
+        ],
+        [
+          16.5,
+          -86
+        ],
+        [
+          16.8,
+          -86.2
+        ],
+        [
+          17,
+          -86.8
+        ],
+        [
+          17.5,
+          -87.5
+        ],
+        [
+          18.2,
+          -87.2
+        ],
+        [
+          19,
+          -87
+        ],
+        [
+          20,
+          -86.5
+        ],
+        [
+          21,
+          -86.3
+        ],
+        [
+          21.5,
+          -86.8
+        ]
+      ],
+      [
+        [
+          22,
+          -84.5
+        ],
+        [
+          23,
+          -82
+        ],
+        [
+          23.2,
+          -80
+        ],
+        [
+          22.5,
+          -78
+        ],
+        [
+          21,
+          -75
+        ],
+        [
+          20,
+          -74
+        ],
+        [
+          19.8,
+          -72
+        ],
+        [
+          19.5,
+          -70
+        ],
+        [
+          19,
+          -68.5
+        ],
+        [
+          18.5,
+          -68
+        ],
+        [
+          18.5,
+          -67
+        ],
+        [
+          18.5,
+          -66
+        ],
+        [
+          18,
+          -65.5
+        ],
+        [
+          17.8,
+          -66.5
+        ],
+        [
+          17.9,
+          -67.5
+        ],
+        [
+          18,
+          -68.5
+        ],
+        [
+          18.2,
+          -70
+        ],
+        [
+          18.3,
+          -72
+        ],
+        [
+          18.5,
+          -74
+        ],
+        [
+          17.8,
+          -76.5
+        ],
+        [
+          18,
+          -77.5
+        ],
+        [
+          18.5,
+          -78.5
+        ],
+        [
+          19.5,
+          -80
+        ],
+        [
+          20.5,
+          -82
+        ],
+        [
+          21.5,
+          -84
+        ],
+        [
+          22,
+          -84.5
+        ]
+      ],
+      [
+        [
+          18,
+          -63
+        ],
+        [
+          17.5,
+          -62.5
+        ],
+        [
+          16.8,
+          -62
+        ],
+        [
+          16,
+          -61.5
+        ],
+        [
+          15,
+          -61
+        ],
+        [
+          14,
+          -60.8
+        ],
+        [
+          13,
+          -60.5
+        ],
+        [
+          12,
+          -61
+        ],
+        [
+          11.5,
+          -61.5
+        ],
+        [
+          11,
+          -62
+        ],
+        [
+          11.5,
+          -62.5
+        ],
+        [
+          12.5,
+          -62
+        ],
+        [
+          13.5,
+          -61.5
+        ],
+        [
+          14.5,
+          -61.8
+        ],
+        [
+          15.5,
+          -62.2
+        ],
+        [
+          16.5,
+          -62.8
+        ],
+        [
+          17.5,
+          -63.5
+        ],
+        [
+          18,
+          -63
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/elkhorn-coral.jpg"
+}

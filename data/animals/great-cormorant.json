@@ -1,0 +1,368 @@
+{
+  "id": "great-cormorant",
+  "name_zh": "普通鸬鹚",
+  "name_en": "Great cormorant",
+  "scientific_name": "Phalacrocorax carbo",
+  "ui_tags": [
+    "Aves",
+    "Wetlands",
+    "Piscivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Suliformes",
+      "zh": "鲣鸟目"
+    },
+    "family": {
+      "en": "Phalacrocoracidae",
+      "zh": "鸬鹚科"
+    },
+    "genus": {
+      "en": "Phalacrocorax",
+      "zh": "鸬鹚属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Great Cormorant (Phalacrocorax carbo) is a massive, highly adaptable seabird and freshwater piscivore characterized by its iridescent black plumage, distinctive yellow gular pouch, and formidable hooked bill. Renowned for its exceptional diving capabilities, this avian predator lacks the highly developed uropygial gland typical of most waterbirds, resulting in partially wettable plumage that reduces buoyancy for deeper, more efficient underwater pursuit of benthic and pelagic fish.",
+    "zh": "普通鸬鹚（Phalacrocorax carbo）是一种体型庞大、适应力极强的海鸟及淡水食鱼鸟类，以其闪烁着金属光泽的黑色羽毛、醒目的黄色喉囊和令人生畏的钩状喙而著称。作为卓越的潜水捕食者，这种鸟类缺乏大多数水鸟所具有的高度发达的尾脂腺，导致其羽毛具有部分可湿性，从而有效降低了浮力，使其能够更深、更高效地在水下追击底栖和远洋鱼类。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Exhibiting pronounced sexual dimorphism in size but not plumage, the Great Cormorant measures 70-102 cm in length with a wingspan of 121-160 cm. Its plumage is predominantly coal-black with a bluish or greenish iridescence. During the breeding season, adults develop striking white patches on the thighs and a hoary white head and neck. The bill is robust, grayish, and sharply hooked at the culmen, perfectly adapted for gripping slippery prey. Its totipalmate feet, where all four toes are connected by a web, provide immense propulsion underwater. The skeletal structure is relatively dense, and the coracoid bones are highly modified to support powerful swimming muscles.",
+      "zh": "普通鸬鹚在体型上表现出明显的两性异形，但在羽色上则不然。其体长在70至102厘米之间，翼展可达121至160厘米。羽毛主要呈煤黑色，并带有蓝色或绿色的金属光泽。在繁殖季节，成鸟的大腿上会长出醒目的白斑，头颈部也会出现灰白色的饰羽。其喙部粗壮呈灰色，上嘴峰末端带有锐利的倒钩，非常适合紧紧咬住湿滑的猎物。它的全蹼足（四个脚趾均由蹼相连）在水下能提供巨大的推进力。其骨骼结构相对致密，乌喙骨经过高度特化，以支撑强大的游泳肌肉。"
+    },
+    "ecology_and_behavior": {
+      "en": "A highly gregarious species, it roosts and breeds in massive colonies, often sharing nesting sites with herons and egrets. It is a pursuit-diver, utilizing visual acuity to hunt a wide array of fish species, typically diving to depths of 5-10 meters, though capable of reaching 30 meters. After foraging, it exhibits a characteristic wing-drying posture, standing with wings outstretched to thermoregulate and dry its partially wettable feathers. This species plays a crucial role as an apex predator in aquatic food webs, regulating fish populations and facilitating nutrient transfer from aquatic to terrestrial ecosystems via guano deposition.",
+      "zh": "作为一种高度群居的物种，普通鸬鹚在庞大的群落中栖息和繁殖，经常与鹭类共享筑巢地。它是一种追击型潜水鸟，利用敏锐的视觉捕食各种鱼类，通常潜水深度为5至10米，但最深可达30米。觅食后，它会展现出标志性的晾翅姿势，张开双翼站立以调节体温并晾干其部分可湿的羽毛。该物种作为水生食物网中的顶级捕食者发挥着至关重要的作用，不仅调节鱼类种群数量，还通过排泄鸟粪促进营养物质从水生生态系统向陆地生态系统的转移。"
+    },
+    "habitat_and_distribution": {
+      "en": "Exhibiting a cosmopolitan distribution, the Great Cormorant inhabits an extraordinarily diverse range of aquatic environments, from sheltered coastal estuaries, mangrove swamps, and rocky shorelines to inland freshwater lakes, expansive river deltas, and artificial reservoirs. It requires elevated structures such as cliffs, mature trees, or man-made pylons for nesting and roosting, situated in close proximity to productive fishing grounds.",
+      "zh": "普通鸬鹚呈现出世界性的分布格局，栖息于极其多样的水生环境中，从隐蔽的沿海河口、红树林沼泽和岩石海岸，到内陆淡水湖泊、广阔的河流三角洲以及人工水库。它需要悬崖、成熟树木或人造塔架等高耸结构来进行筑巢和栖息，且这些地点通常紧邻高产的捕鱼区。"
+    }
+  },
+  "habitat": {
+    "text_en": "Cosmopolitan across the Old World and eastern North America, inhabiting coastal areas, estuaries, lakes, and rivers.",
+    "text_zh": "广泛分布于旧大陆和北美洲东部，栖息于沿海地区、河口、湖泊和河流。",
+    "map_coordinates": [
+      45,
+      30
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          55,
+          -5
+        ],
+        [
+          58,
+          -3
+        ],
+        [
+          60,
+          5
+        ],
+        [
+          65,
+          15
+        ],
+        [
+          68,
+          30
+        ],
+        [
+          60,
+          60
+        ],
+        [
+          55,
+          90
+        ],
+        [
+          50,
+          120
+        ],
+        [
+          45,
+          140
+        ],
+        [
+          35,
+          140
+        ],
+        [
+          25,
+          120
+        ],
+        [
+          20,
+          110
+        ],
+        [
+          10,
+          105
+        ],
+        [
+          15,
+          90
+        ],
+        [
+          10,
+          75
+        ],
+        [
+          25,
+          60
+        ],
+        [
+          35,
+          35
+        ],
+        [
+          30,
+          30
+        ],
+        [
+          35,
+          -5
+        ],
+        [
+          45,
+          -5
+        ],
+        [
+          50,
+          -5
+        ],
+        [
+          55,
+          -5
+        ]
+      ],
+      [
+        [
+          15,
+          -15
+        ],
+        [
+          15,
+          0
+        ],
+        [
+          15,
+          15
+        ],
+        [
+          15,
+          35
+        ],
+        [
+          10,
+          50
+        ],
+        [
+          0,
+          40
+        ],
+        [
+          -10,
+          40
+        ],
+        [
+          -20,
+          35
+        ],
+        [
+          -30,
+          30
+        ],
+        [
+          -35,
+          20
+        ],
+        [
+          -30,
+          15
+        ],
+        [
+          -20,
+          10
+        ],
+        [
+          -10,
+          10
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          5,
+          -5
+        ],
+        [
+          10,
+          -15
+        ],
+        [
+          15,
+          -15
+        ]
+      ],
+      [
+        [
+          -15,
+          125
+        ],
+        [
+          -12,
+          135
+        ],
+        [
+          -15,
+          145
+        ],
+        [
+          -20,
+          150
+        ],
+        [
+          -30,
+          155
+        ],
+        [
+          -35,
+          170
+        ],
+        [
+          -40,
+          175
+        ],
+        [
+          -45,
+          170
+        ],
+        [
+          -45,
+          165
+        ],
+        [
+          -40,
+          145
+        ],
+        [
+          -35,
+          135
+        ],
+        [
+          -35,
+          120
+        ],
+        [
+          -25,
+          115
+        ],
+        [
+          -20,
+          115
+        ],
+        [
+          -15,
+          125
+        ]
+      ],
+      [
+        [
+          50,
+          -55
+        ],
+        [
+          52,
+          -55
+        ],
+        [
+          52,
+          -60
+        ],
+        [
+          48,
+          -65
+        ],
+        [
+          45,
+          -65
+        ],
+        [
+          42,
+          -70
+        ],
+        [
+          40,
+          -75
+        ],
+        [
+          35,
+          -75
+        ],
+        [
+          30,
+          -80
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          25,
+          -82
+        ],
+        [
+          30,
+          -82
+        ],
+        [
+          35,
+          -80
+        ],
+        [
+          40,
+          -80
+        ],
+        [
+          45,
+          -75
+        ],
+        [
+          48,
+          -70
+        ],
+        [
+          50,
+          -60
+        ],
+        [
+          50,
+          -55
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/great-cormorant.jpg"
+}

@@ -1,0 +1,170 @@
+{
+  "id": "gopher-snake",
+  "name_zh": "北美岸蛇",
+  "name_en": "Gopher Snake",
+  "scientific_name": "Pituophis catenifer",
+  "ui_tags": [
+    "Reptilia",
+    "Terrestrial",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Colubridae",
+      "zh": "游蛇科"
+    },
+    "genus": {
+      "en": "Pituophis",
+      "zh": "松蛇属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "Pituophis catenifer, commonly known as the Gopher Snake, is a large, non-venomous colubrid endemic to North America. Renowned for its remarkable Batesian mimicry of rattlesnakes, it exhibits a defensive display involving tail vibration, hissing, and head flattening. As a powerful constrictor, it plays a critical ecological role in regulating populations of small mammals, particularly rodents, making it highly beneficial to agricultural ecosystems.",
+    "zh": "北美岸蛇（学名：Pituophis catenifer），常被称为地鼠蛇或牛蛇，是北美洲特有的一种大型无毒游蛇。它以对响尾蛇惊人的贝氏拟态而闻名，在受到威胁时会剧烈摇动尾部、发出嘶嘶声并将头部压扁呈三角形。作为一种强壮的绞杀型蛇类，它在控制小型哺乳动物（尤其是啮齿类）种群数量方面发挥着至关重要的生态作用，对农业生态系统极为有益。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Morphologically robust, the Gopher Snake can reach lengths of up to 2.5 meters. It possesses heavily keeled dorsal scales that provide a rough texture, aiding in terrestrial and arboreal locomotion. The dorsal pattern typically consists of dark brown, black, or reddish blotches superimposed on a yellowish or pale brown ground color. A distinct dark stripe often runs across the head and through the eyes. Uniquely, it features a well-developed epiglottal keel, which vibrates when air is forcefully expelled, producing a loud, raspy hiss that closely mimics a rattlesnake's rattle.",
+      "zh": "北美岸蛇体型粗壮，体长可达2.5米。其背部鳞片具有明显的起棱，质感粗糙，有助于在地面和树上攀爬。背部图案通常由深棕色、黑色或红色的斑块组成，底色多为淡黄色或浅棕色。头部通常有一条穿过眼睛的明显深色条纹。独特的是，它拥有发达的会厌软骨突起，当用力呼气时，该结构会剧烈震动，发出响亮且沙哑的嘶嘶声，极度逼真地模仿了响尾蛇的警告声。"
+    },
+    "ecology_and_behavior": {
+      "en": "Primarily diurnal, though shifting to crepuscular or nocturnal activity during extreme summer heat, this species is an active forager. It utilizes constriction to subdue its prey, which predominantly includes pocket gophers, voles, mice, birds, and occasionally eggs. When confronted by a predator, it employs a complex defensive suite: coiling into a strike posture, flattening its head to appear viper-like, and vibrating its tail in dry vegetation to simulate a rattle. Despite this aggressive display, it is non-venomous and generally avoids biting unless severely provoked.",
+      "zh": "主要为昼行性，但在夏季极端高温时会转为晨昏或夜间活动。作为一种积极的捕食者，它利用身体的缠绕和绞杀来制服猎物，主要包括囊鼠、田鼠、小鼠、鸟类，偶尔也吃鸟卵。当面临捕食者威胁时，它会展现出一套复杂的防御机制：盘绕成攻击姿态，将头部压扁以伪装成蝰蛇的三角形头部，并在干燥的植被中快速震动尾巴以模拟响尾蛇的声响。尽管表现得极具攻击性，但它实际上是无毒的，除非受到严重挑衅，否则通常会避免咬人。"
+    },
+    "habitat_and_distribution": {
+      "en": "Exhibiting extraordinary ecological plasticity, Pituophis catenifer occupies a vast array of habitats across western North America, ranging from the Pacific coast to the Great Plains, and from southern Canada down to central Mexico. It thrives in deserts, shortgrass prairies, chaparral, coniferous forests, and agricultural fields. It frequently utilizes subterranean burrows excavated by rodents for thermoregulation, brumation, and nesting.",
+      "zh": "北美岸蛇展现出非凡的生态可塑性，栖息于北美西部极其广泛的生境中，分布范围从太平洋海岸延伸至大平原，从加拿大南部一直向南延伸至墨西哥中部。它们在沙漠、短草草原、灌木丛、针叶林以及农田中都能繁衍生息。它们经常利用啮齿动物挖掘的地下洞穴进行体温调节、冬眠和筑巢。"
+    }
+  },
+  "habitat": {
+    "text_en": "Widely distributed across western North America, inhabiting deserts, prairies, woodlands, and agricultural areas.",
+    "text_zh": "广泛分布于北美洲西部，栖息于沙漠、草原、林地及农业区域。",
+    "map_coordinates": [
+      38,
+      -110
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          50.5,
+          -121
+        ],
+        [
+          51,
+          -114
+        ],
+        [
+          50.5,
+          -108
+        ],
+        [
+          48,
+          -104
+        ],
+        [
+          44,
+          -100
+        ],
+        [
+          40,
+          -97
+        ],
+        [
+          35,
+          -98
+        ],
+        [
+          30,
+          -99
+        ],
+        [
+          26,
+          -98
+        ],
+        [
+          23,
+          -99
+        ],
+        [
+          20,
+          -103
+        ],
+        [
+          22,
+          -106
+        ],
+        [
+          25,
+          -108
+        ],
+        [
+          28,
+          -111
+        ],
+        [
+          23,
+          -110
+        ],
+        [
+          27,
+          -114
+        ],
+        [
+          31,
+          -116
+        ],
+        [
+          34,
+          -119
+        ],
+        [
+          36,
+          -121.5
+        ],
+        [
+          39,
+          -123.7
+        ],
+        [
+          43,
+          -124.3
+        ],
+        [
+          47,
+          -124.1
+        ],
+        [
+          49,
+          -123
+        ],
+        [
+          50.5,
+          -121
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/gopher-snake.jpg"
+}

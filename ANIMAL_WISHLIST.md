@@ -4,35 +4,3 @@
 
 | # | 中文名 | English Name | Scientific Name | 状态 |
 |---|--------|-------------|-----------------|------|
-| 1 | 红腿叫鹤 | Red-legged seriema | Cariama cristata | ⏳ Pending |
-| 2 | 普通潜鸟 | Common loon | Gavia immer | ⏳ Pending |
-| 3 | 普通鸬鹚 | Great cormorant | Phalacrocorax carbo | ⏳ Pending |
-| 4 | 纳马夸沙鸡 | Namaqua sandgrouse | Pterocles namaqua | ⏳ Pending |
-| 5 | 铰口鲨 | Nurse shark | Ginglymostoma cirratum | ⏳ Pending |
-| 6 | 棕榈鹿角珊瑚 | Elkhorn Coral | Acropora palmata | ⏳ Pending |
-| 7 | 鼬鲨 | Tiger shark | Galeocerdo cuvier | ⏳ Pending |
-| 8 | 迷宫脑珊瑚 | Grooved brain coral | Diploria labyrinthiformis | ⏳ Pending |
-| 9 | 巨型脑珊瑚 | Boulder brain coral | Colpophyllia natans | ⏳ Pending |
-| 10 | 环足蠼螋 | Ring-legged earwig | Euborellia annulipes | ⏳ Pending |
-| 11 | 海鬣蜥 | Marine Iguana | Amblyrhynchus cristatus | ⏳ Pending |
-| 12 | 北美岸蛇 | Gopher Snake | Pituophis catenifer | ⏳ Pending |
-| 13 | 网纹蟒 | Reticulated python | Malayopython reticulatus | ⏳ Pending |
-| 14 | 美洲鳄 | American crocodile | Crocodylus acutus | ⏳ Pending |
-| 15 | 帝王蝎 | Emperor Scorpion | Pandinus imperator | ⏳ Pending |
-| 16 | 四色啄花鸟 | Cebu flowerpecker | Dicaeum quadricolor | ⏳ Pending |
-| 17 | 巴塔哥尼亚豚鼠 | Patagonian mara | Dolichotis patagonum | ⏳ Pending |
-| 18 | 毛冠鹿 | Tufted deer | Elaphodus cephalophus | ⏳ Pending |
-| 19 | 小懒猴 | Pygmy Slow Loris | Nycticebus pygmaeus | ⏳ Pending |
-| 20 | 黑岛长足海蛞蝓 | Leaf sheep | Costasiella kuroshimae | ⏳ Pending |
-| 21 | 艾氏琴鸟 | Albert's Lyrebird | Menura alberti | ⏳ Pending |
-| 22 | 长鼻猴 | Proboscis monkey | Nasalis larvatus | ⏳ Pending |
-| 23 | 南非丛猴 | Mohol Bushbaby | Galago moholi | ⏳ Pending |
-| 24 | 丹顶鹤 | Red-crowned crane | Grus japonensis | ⏳ Pending |
-| 25 | 非洲秃鹳 | Marabou stork | Leptoptilos crumenifer | ⏳ Pending |
-| 26 | 绿孔雀 | Green peafowl | Pavo muticus | ⏳ Pending |
-| 27 | 卷羽鹈鹕 | Dalmatian pelican | Pelecanus crispus | ⏳ Pending |
-| 28 | 乌林鸮 | Great Gray Owl | Strix nebulosa | ⏳ Pending |
-| 29 | 银鸥 | European herring gull | Larus argentatus | ⏳ Pending |
-| 30 | 簇绒海鹦 | Tufted puffin | Fratercula cirrhata | ⏳ Pending |
-| 31 | 斑猫 | Wildcat | Felis silvestris | ⏳ Pending |
-| 32 | 东部菱背响尾蛇 | Eastern Diamondback Rattlesnake | Crotalus adamanteus | ⏳ Pending |

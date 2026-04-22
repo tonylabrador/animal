@@ -1,0 +1,146 @@
+{
+  "id": "tufted-deer",
+  "name_zh": "毛冠鹿",
+  "name_en": "Tufted deer",
+  "scientific_name": "Elaphodus cephalophus",
+  "ui_tags": [
+    "Mammalia",
+    "Montane Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Cetartiodactyla",
+      "zh": "鲸偶蹄目"
+    },
+    "family": {
+      "en": "Cervidae",
+      "zh": "鹿科"
+    },
+    "genus": {
+      "en": "Elaphodus",
+      "zh": "毛冠鹿属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "The tufted deer (Elaphodus cephalophus) is a small, elusive cervid characterized by a prominent tuft of dark hair on its forehead and striking, fang-like upper canines in males. Endemic to the high-altitude montane forests of central and southern China, as well as northern Myanmar, this primitive deer species represents a fascinating evolutionary bridge between tusked muntjacs and antlered true deer.",
+    "zh": "毛冠鹿（Elaphodus cephalophus）是一种体型娇小且行踪隐秘的鹿科动物，其最显著的特征是额头上长有一簇醒目的黑色长毛，以及雄性口中伸出的如獠牙般锋利的上犬齿。作为中国中南部及缅甸北部高海拔山地森林的特有物种，这种原始的鹿类在演化生物学上代表了长牙的麂类与长角的真鹿之间一个引人入胜的过渡阶段。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Morphologically distinct, the tufted deer exhibits a deep chocolate-brown to dark grey pelage, providing excellent camouflage in dense undergrowth. Males possess minuscule, unbranched antlers often completely concealed by the eponymous frontal hair tuft, which can grow up to 17 centimeters long. Compensating for the lack of formidable cranial weaponry, males have evolved elongated, saber-like upper canines protruding up to 2.5 centimeters past the lower lip, utilized primarily in fierce intraspecific combat for mating rights.",
+      "zh": "在形态学上，毛冠鹿具有深巧克力色至暗灰色的被毛，这为它们在茂密的林下植被中提供了极佳的伪装。雄性拥有微小且不分叉的角，这些角通常被额头上长达17厘米的标志性毛冠完全遮蔽。为了弥补头部防御武器的不足，雄性演化出了细长如军刀般的上犬齿，可突出下唇达2.5厘米，主要用于在争夺交配权的激烈种内格斗中作为致命武器。"
+    },
+    "ecology_and_behavior": {
+      "en": "Primarily crepuscular and solitary, Elaphodus cephalophus navigates the dense bamboo thickets and evergreen broadleaf forests with remarkable stealth. They are highly territorial, marking their domain with secretions from well-developed preorbital glands. When alarmed, they emit a sharp, dog-like bark before fleeing with a characteristic bounding gait, displaying the white underside of their tail as a visual warning. Their diet is strictly herbivorous, comprising a diverse array of broadleaf foliage, tender twigs, seasonal fruits, and occasionally grasses.",
+      "zh": "毛冠鹿主要在晨昏活动且生性独居，能以极高的隐蔽性穿梭于茂密的竹林和常绿阔叶林中。它们具有强烈的领地意识，会利用发达的眶前腺分泌物来标记领地边界。当受到惊吓时，它们会发出类似犬吠的尖锐警告声，随后以特有的跳跃步态逃离，并在奔跑时翘起尾巴露出白色的尾下部作为视觉警报。其食性为严格的草食性，摄食种类繁多的阔叶、嫩枝、季节性浆果以及少量的禾本科植物。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species is intrinsically tied to high-altitude, damp montane environments, typically ranging from 1,500 to 4,500 meters above sea level. Their geographic stronghold encompasses the rugged terrains of the Hengduan Mountains, the Qinling Mountains, and the eastern edge of the Tibetan Plateau, spanning across Chinese provinces such as Sichuan, Yunnan, Guizhou, and Shaanxi, with marginal populations extending into the remote mountainous borders of northern Myanmar.",
+      "zh": "该物种与高海拔潮湿的山地环境密切相关，通常栖息于海拔1500至4500米之间。其地理分布核心区涵盖了横断山区、秦岭山脉以及青藏高原东缘的崎岖地带，横跨中国四川、云南、贵州和陕西等省份，并有边缘种群延伸至缅甸北部偏远的山境边界。"
+    }
+  },
+  "habitat": {
+    "text_en": "High-altitude damp montane forests and bamboo thickets in central/southern China and northern Myanmar.",
+    "text_zh": "中国中南部及缅甸北部的高海拔潮湿山地森林与竹林地带。",
+    "map_coordinates": [
+      30,
+      103
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          34.2,
+          107.5
+        ],
+        [
+          33.8,
+          109.2
+        ],
+        [
+          32.1,
+          110.5
+        ],
+        [
+          30.5,
+          110.2
+        ],
+        [
+          28.8,
+          109.8
+        ],
+        [
+          26.5,
+          108.5
+        ],
+        [
+          25.2,
+          106.2
+        ],
+        [
+          23.8,
+          104.5
+        ],
+        [
+          22.6,
+          101.2
+        ],
+        [
+          23.5,
+          99.5
+        ],
+        [
+          25.8,
+          97.8
+        ],
+        [
+          27.5,
+          98.2
+        ],
+        [
+          29.2,
+          97.5
+        ],
+        [
+          31,
+          98.8
+        ],
+        [
+          32.5,
+          100.5
+        ],
+        [
+          33.6,
+          103.2
+        ],
+        [
+          34.2,
+          105.5
+        ],
+        [
+          34.2,
+          107.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/tufted-deer.jpg"
+}

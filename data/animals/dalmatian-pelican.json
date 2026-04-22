@@ -1,0 +1,310 @@
+{
+  "id": "dalmatian-pelican",
+  "name_zh": "卷羽鹈鹕",
+  "name_en": "Dalmatian pelican",
+  "scientific_name": "Pelecanus crispus",
+  "ui_tags": [
+    "Aves",
+    "Wetlands",
+    "Piscivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Pelecaniformes",
+      "zh": "鹈形目"
+    },
+    "family": {
+      "en": "Pelecanidae",
+      "zh": "鹈鹕科"
+    },
+    "genus": {
+      "en": "Pelecanus",
+      "zh": "鹈鹕属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "The Dalmatian pelican (Pelecanus crispus) is a massive member of the pelican family, distinguished as the largest freshwater bird in the world. Characterized by its elegant silvery-white plumage, distinctive curly nape feathers, and a colossal bill featuring a vibrant orange-red gular pouch during the breeding season, this avian giant commands wetland ecosystems. Unlike the great white pelican, it possesses grey legs and lacks the stark black flight feathers visible at rest. It plays a crucial apex predatory role in aquatic food webs, regulating fish populations across its fragmented Eurasian range.",
+    "zh": "卷羽鹈鹕（Pelecanus crispus）是鹈鹕科中体型最庞大的成员，被誉为世界上最大的淡水鸟类。这种巨型水鸟以其优雅的银白色羽毛、独特的卷曲冠羽以及在繁殖期呈现鲜艳橘红色的巨大喉囊而闻名，在湿地生态系统中占据着统治地位。与白鹈鹕不同，它的腿呈灰色，且在静止时看不到明显的黑色飞羽。作为水生食物网中的顶级捕食者，它在调节其支离破碎的欧亚分布区内的鱼类种群方面发挥着至关重要的作用。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Exhibiting extreme sexual dimorphism in size but not plumage, males can weigh up to 15 kg with a wingspan approaching 3.5 meters, rivaling the wandering albatross. The skeletal structure is highly pneumatized to reduce weight for soaring. Its most prominent feature is the highly distensible mandibular pouch, used as a dip-net for foraging rather than for storing food. The maxilla is tipped with a sharp nail for gripping slippery prey. During the breeding season, the normally pale yellow pouch flushes a deep, vascularized reddish-orange, and the nape feathers curl dramatically, giving the species its common name.",
+      "zh": "卷羽鹈鹕在体型上表现出极端的两性异形（雄性远大于雌性），但羽色相同。雄性体重可达15公斤，翼展接近3.5米，足以与漂泊信天翁媲美。其骨骼结构高度气腔化，以减轻滑翔时的重量。最显著的解剖学特征是高度可扩张的下颌喉囊，该结构被用作捞捕猎物的“抄网”而非储存食物的容器。上颌末端具锐利的钩端，用于紧抓湿滑的猎物。在繁殖季节，原本淡黄色的喉囊会因血管充血而变成深橘红色，颈背的羽毛也会显著卷曲，这也是其得名“卷羽”的原因。"
+    },
+    "ecology_and_behavior": {
+      "en": "Highly gregarious, Dalmatian pelicans often engage in cooperative foraging, forming horseshoe-shaped flotillas to drive schooling fish into shallow waters where they can be easily scooped up. Their diet consists almost exclusively of fish, such as carp, mullet, and rudd, consuming up to 1.2 kg daily. They are powerful soarers, utilizing thermal updrafts to migrate in V-formation. Breeding occurs in colonies on floating islands of reeds or isolated coastal lagoons, where they construct large, messy nests from vegetation and guano. They are highly sensitive to human disturbance during incubation.",
+      "zh": "卷羽鹈鹕具有高度的群居性，经常进行合作觅食，它们在水面上排成马蹄形阵列，将鱼群驱赶到浅水区以便轻松捞食。其饮食几乎完全由鱼类组成，如鲤鱼、鲻鱼和红眼鱼，每天消耗量可达1.2公斤。它们是强健的滑翔者，利用热气流以V字队形进行迁徙。繁殖通常在芦苇形成的浮岛或孤立的沿海潟湖上的群落中进行，它们用植被和排泄物筑成巨大而杂乱的巢穴。在孵化期间，它们对人类的干扰极为敏感。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species relies heavily on pristine, fish-rich freshwater lakes, river deltas, estuaries, and coastal lagoons. Its distribution is highly fragmented, spanning from the Balkans and the Mediterranean basin, across the Black and Caspian Seas, through Central Asia, to the Indian subcontinent and East Asia. Key strongholds include the Danube Delta in Romania, the Volga Delta in Russia, and Lake Mikri Prespa in Greece. Eastern populations migrate to wintering grounds in the Yangtze River basin and coastal southeastern China, though these populations are critically endangered due to habitat loss.",
+      "zh": "该物种高度依赖原始且鱼类丰富的淡水湖泊、河流三角洲、河口和沿海潟湖。其分布极其破碎化，从巴尔干半岛和地中海盆地，横跨黑海和里海，穿过中亚，一直延伸到印度次大陆和东亚。关键的栖息地包括罗马尼亚的多瑙河三角洲、俄罗斯的伏尔加河三角洲以及希腊的米克里普雷斯帕湖。东部种群会迁徙至中国长江流域和东南沿海越冬，但由于栖息地丧失，这些东部种群正面临极度濒危的境地。"
+    }
+  },
+  "habitat": {
+    "text_en": "Inhabits shallow freshwater lakes, river deltas, estuaries, and coastal lagoons across Eurasia, requiring abundant fish populations and undisturbed reed beds for nesting.",
+    "text_zh": "栖息于欧亚大陆的浅水淡水湖泊、河流三角洲、河口和沿海潟湖，需要丰富的鱼类资源和未受干扰的芦苇荡以供筑巢。",
+    "map_coordinates": [
+      40,
+      75
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          45.2,
+          28.8
+        ],
+        [
+          46.5,
+          32.2
+        ],
+        [
+          47.1,
+          38.3
+        ],
+        [
+          46.3,
+          48
+        ],
+        [
+          47.5,
+          52.1
+        ],
+        [
+          46.8,
+          60.5
+        ],
+        [
+          48.2,
+          65.3
+        ],
+        [
+          47.9,
+          70.1
+        ],
+        [
+          45.5,
+          75.2
+        ],
+        [
+          42.3,
+          78.1
+        ],
+        [
+          39.5,
+          73.2
+        ],
+        [
+          37.8,
+          68.5
+        ],
+        [
+          36.2,
+          61.1
+        ],
+        [
+          36.8,
+          54.2
+        ],
+        [
+          38.5,
+          48.1
+        ],
+        [
+          39.2,
+          40.5
+        ],
+        [
+          38.1,
+          34.2
+        ],
+        [
+          40.5,
+          26.3
+        ],
+        [
+          42.1,
+          22.5
+        ],
+        [
+          44.5,
+          25.1
+        ],
+        [
+          45.2,
+          28.8
+        ]
+      ],
+      [
+        [
+          31.5,
+          74.2
+        ],
+        [
+          29.8,
+          76.5
+        ],
+        [
+          28.2,
+          79.1
+        ],
+        [
+          26.5,
+          82.3
+        ],
+        [
+          25.1,
+          85.5
+        ],
+        [
+          23.8,
+          88.2
+        ],
+        [
+          21.5,
+          86.5
+        ],
+        [
+          20.2,
+          84.1
+        ],
+        [
+          19.5,
+          80.2
+        ],
+        [
+          20.8,
+          76.5
+        ],
+        [
+          22.1,
+          73.2
+        ],
+        [
+          23.5,
+          69.5
+        ],
+        [
+          24.8,
+          67.2
+        ],
+        [
+          26.5,
+          67.8
+        ],
+        [
+          28.1,
+          69.2
+        ],
+        [
+          29.5,
+          70.5
+        ],
+        [
+          30.8,
+          72.1
+        ],
+        [
+          31.5,
+          74.2
+        ]
+      ],
+      [
+        [
+          48.5,
+          117.2
+        ],
+        [
+          46.2,
+          120.5
+        ],
+        [
+          43.1,
+          122.8
+        ],
+        [
+          40.5,
+          121.5
+        ],
+        [
+          38.2,
+          118.5
+        ],
+        [
+          35.5,
+          119.8
+        ],
+        [
+          33.2,
+          120.5
+        ],
+        [
+          31.5,
+          121.8
+        ],
+        [
+          29.5,
+          122.1
+        ],
+        [
+          27.8,
+          120.5
+        ],
+        [
+          26.2,
+          119.2
+        ],
+        [
+          28.5,
+          116.5
+        ],
+        [
+          29.8,
+          113.2
+        ],
+        [
+          32.1,
+          114.5
+        ],
+        [
+          35.5,
+          112.8
+        ],
+        [
+          38.2,
+          110.5
+        ],
+        [
+          41.5,
+          112.2
+        ],
+        [
+          44.8,
+          114.5
+        ],
+        [
+          48.5,
+          117.2
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/dalmatian-pelican.jpg"
+}

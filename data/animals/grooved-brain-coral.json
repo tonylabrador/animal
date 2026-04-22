@@ -1,0 +1,364 @@
+{
+  "id": "grooved-brain-coral",
+  "name_zh": "迷宫脑珊瑚",
+  "name_en": "Grooved brain coral",
+  "scientific_name": "Diploria labyrinthiformis",
+  "ui_tags": [
+    "Anthozoa",
+    "Coral Reef",
+    "Filter Feeder"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Cnidaria",
+      "zh": "刺胞动物门"
+    },
+    "class": {
+      "en": "Anthozoa",
+      "zh": "珊瑚纲"
+    },
+    "order": {
+      "en": "Scleractinia",
+      "zh": "石珊瑚目"
+    },
+    "family": {
+      "en": "Faviidae",
+      "zh": "蜂巢珊瑚科"
+    },
+    "genus": {
+      "en": "Diploria",
+      "zh": "双星珊瑚属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "Diploria labyrinthiformis, commonly known as the grooved brain coral, is a massive, reef-building scleractinian coral characterized by its intricate, maze-like morphology. The colony forms hemispherical or boulder-like structures that can exceed two meters in diameter. Its surface is defined by deep, broad valleys (ambulacra) separated by distinct, narrow ridges, creating a highly complex topographical network that maximizes surface area for its symbiotic zooxanthellae. As a foundational species in the Caribbean and Western Atlantic, it plays a critical role in coastal protection and provides essential microhabitats for a myriad of reef-dwelling organisms.",
+    "zh": "迷宫脑珊瑚（Diploria labyrinthiformis）是一种体型巨大的造礁石珊瑚，以其错综复杂的迷宫状形态而闻名。该群体形成半球形或巨石状结构，直径可超过两米。其表面的显著特征是深而宽的谷（步带）被明显且狭窄的脊隔开，形成了高度复杂的地形网络，从而为其共生的虫黄藻最大化了表面积。作为加勒比海和西大西洋的基石物种，它在海岸防护中发挥着至关重要的作用，并为无数珊瑚礁栖息生物提供了重要的微生境。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The skeletal architecture of D. labyrinthiformis is composed of dense aragonite (calcium carbonate). The corallites are meandroid, meaning the polyps are arranged in continuous linear series within the valleys. A unique diagnostic feature of this species is the presence of a distinct groove running along the top of the ridges (collines). The polyps possess tentacles armed with specialized stinging cells (nematocysts) used for prey capture and defense. The living tissue layer is remarkably thin, overlaying the massive skeletal base, and exhibits colors ranging from yellow-brown to grayish-green, dictated by the density and clade of the resident Symbiodinium.",
+      "zh": "迷宫脑珊瑚的骨骼结构由致密的文石（碳酸钙）组成。其珊瑚虫呈曲折状（meandroid）排列，即水螅体在谷内呈连续的线性系列分布。该物种的一个独特诊断特征是脊（collines）顶部存在一条明显的凹槽。水螅体拥有配备特化刺细胞（刺丝囊）的触手，用于捕获猎物和防御。活体组织层异常薄，覆盖在巨大的骨骼基部之上，其颜色从黄褐色到灰绿色不等，这取决于其体内共生虫黄藻（Symbiodinium）的密度和进化支。"
+    },
+    "ecology_and_behavior": {
+      "en": "This species exhibits a dual-feeding strategy. During the day, it relies heavily on the photosynthetic byproducts (glycerol, glucose, and amino acids) translocated by its endosymbiotic dinoflagellates. At night, the polyps extend their tentacles to actively filter-feed on zooplankton. D. labyrinthiformis is a slow-growing species, adding only 3-4 millimeters of skeletal extension per year. It is a broadcast spawner, releasing buoyant gamete bundles into the water column during synchronized mass spawning events triggered by lunar cycles and water temperature. It is also highly competitive, utilizing extracoelomic mesenterial filaments to digest encroaching spatial competitors.",
+      "zh": "该物种表现出双重摄食策略。在白天，它严重依赖其内共生甲藻（虫黄藻）易位过来的光合作用副产物（甘油、葡萄糖和氨基酸）。在夜间，水螅体会伸出触手，主动滤食浮游动物。迷宫脑珊瑚生长缓慢，每年仅增加3-4毫米的骨骼延伸。它是一种排卵型繁殖者，在由月相周期和水温触发的同步大规模产卵事件中，将具有浮力的配子束释放到水体中。它还具有极强的竞争性，会利用体腔外的肠系膜丝消化侵占其生存空间的竞争对手。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the tropical Western Atlantic, the grooved brain coral is widely distributed across the Caribbean Sea, the Gulf of Mexico, the Bahamas, and Bermuda. It thrives in a variety of reef environments, including fore-reefs, back-reefs, and lagoons, typically at depths ranging from 1 to 30 meters. It demonstrates a high tolerance for wave action and moderate sedimentation, allowing it to dominate high-energy reef crests as well as more sheltered habitats.",
+      "zh": "迷宫脑珊瑚是热带西大西洋的特有种，广泛分布于加勒比海、墨西哥湾、巴哈马群岛和百慕大群岛。它在各种珊瑚礁环境中繁衍生息，包括前礁、后礁和潟湖，通常栖息深度在1至30米之间。它对波浪作用和中度沉积物表现出很高的耐受性，使其能够主导高能量的珊瑚礁脊以及更受庇护的栖息地。"
+    }
+  },
+  "habitat": {
+    "text_en": "Tropical Western Atlantic coral reefs, including the Caribbean Sea, Gulf of Mexico, Bahamas, and Bermuda, at depths of 1-30 meters.",
+    "text_zh": "热带西大西洋珊瑚礁，包括加勒比海、墨西哥湾、巴哈马群岛和百慕大群岛，水深1-30米。",
+    "map_coordinates": [
+      21.5,
+      -75
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          27.5,
+          -80
+        ],
+        [
+          26,
+          -80
+        ],
+        [
+          25,
+          -80.5
+        ],
+        [
+          24.5,
+          -81.5
+        ],
+        [
+          24,
+          -82
+        ],
+        [
+          23.5,
+          -80
+        ],
+        [
+          23,
+          -78
+        ],
+        [
+          22,
+          -76
+        ],
+        [
+          20,
+          -74
+        ],
+        [
+          19,
+          -73
+        ],
+        [
+          18.5,
+          -71
+        ],
+        [
+          18,
+          -68
+        ],
+        [
+          18.5,
+          -66
+        ],
+        [
+          19.5,
+          -68
+        ],
+        [
+          20.5,
+          -71
+        ],
+        [
+          21.5,
+          -73
+        ],
+        [
+          23,
+          -75
+        ],
+        [
+          24.5,
+          -77
+        ],
+        [
+          26.5,
+          -78.5
+        ],
+        [
+          27.5,
+          -79.5
+        ],
+        [
+          27.5,
+          -80
+        ]
+      ],
+      [
+        [
+          21.5,
+          -87
+        ],
+        [
+          20.5,
+          -87
+        ],
+        [
+          19.5,
+          -87.5
+        ],
+        [
+          18.5,
+          -87.8
+        ],
+        [
+          17.5,
+          -88
+        ],
+        [
+          16.5,
+          -88.2
+        ],
+        [
+          15.8,
+          -88.5
+        ],
+        [
+          15.8,
+          -87.5
+        ],
+        [
+          16.2,
+          -86.5
+        ],
+        [
+          16.5,
+          -85.5
+        ],
+        [
+          17,
+          -86.5
+        ],
+        [
+          17.5,
+          -87.2
+        ],
+        [
+          18.5,
+          -87
+        ],
+        [
+          19.5,
+          -86.5
+        ],
+        [
+          20.5,
+          -86.5
+        ],
+        [
+          21.5,
+          -86.5
+        ],
+        [
+          21.5,
+          -87
+        ]
+      ],
+      [
+        [
+          18.5,
+          -64.5
+        ],
+        [
+          17.5,
+          -62.5
+        ],
+        [
+          16.5,
+          -61.5
+        ],
+        [
+          15.5,
+          -61
+        ],
+        [
+          14.5,
+          -60.8
+        ],
+        [
+          13.5,
+          -60.8
+        ],
+        [
+          12.5,
+          -61.2
+        ],
+        [
+          11.5,
+          -60.5
+        ],
+        [
+          10.5,
+          -61
+        ],
+        [
+          11,
+          -62
+        ],
+        [
+          12,
+          -62
+        ],
+        [
+          13,
+          -61.5
+        ],
+        [
+          14,
+          -61.5
+        ],
+        [
+          15,
+          -61.8
+        ],
+        [
+          16,
+          -62
+        ],
+        [
+          17,
+          -63
+        ],
+        [
+          18,
+          -65
+        ],
+        [
+          18.5,
+          -64.5
+        ]
+      ],
+      [
+        [
+          32.45,
+          -65
+        ],
+        [
+          32.4,
+          -64.95
+        ],
+        [
+          32.35,
+          -64.9
+        ],
+        [
+          32.3,
+          -64.85
+        ],
+        [
+          32.25,
+          -64.8
+        ],
+        [
+          32.2,
+          -64.75
+        ],
+        [
+          32.2,
+          -64.7
+        ],
+        [
+          32.25,
+          -64.65
+        ],
+        [
+          32.3,
+          -64.65
+        ],
+        [
+          32.35,
+          -64.7
+        ],
+        [
+          32.4,
+          -64.75
+        ],
+        [
+          32.45,
+          -64.8
+        ],
+        [
+          32.5,
+          -64.85
+        ],
+        [
+          32.5,
+          -64.9
+        ],
+        [
+          32.45,
+          -65
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/grooved-brain-coral.jpg"
+}

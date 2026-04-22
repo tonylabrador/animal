@@ -1,0 +1,428 @@
+{
+  "id": "american-crocodile",
+  "name_zh": "美洲鳄",
+  "name_en": "American crocodile",
+  "scientific_name": "Crocodylus acutus",
+  "ui_tags": [
+    "Reptile",
+    "Coastal/Mangrove",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Crocodilia",
+      "zh": "鳄目"
+    },
+    "family": {
+      "en": "Crocodylidae",
+      "zh": "鳄科"
+    },
+    "genus": {
+      "en": "Crocodylus",
+      "zh": "鳄属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The American crocodile (Crocodylus acutus) is a highly adaptable, apex neotropical crocodilian distinguished by its pronounced V-shaped snout and remarkable osmoregulatory capabilities. Unlike the American alligator, this species possesses specialized lingual salt glands that allow it to thrive in hypersaline environments such as mangrove estuaries, coastal lagoons, and offshore cays. Reaching lengths of up to 6.1 meters in exceptional cases, it exhibits a pale grayish-green dorsum with dark banding, providing optimal camouflage in murky, brackish waters. As a keystone predator, it regulates prey populations and maintains the ecological balance of complex coastal wetlands across the Americas.",
+    "zh": "美洲鳄（Crocodylus acutus）是一种高度适应新热带环境的顶级掠食性鳄类，以其明显的V型吻部和卓越的渗透压调节能力而著称。与美洲短吻鳄不同，该物种舌下拥有特化的盐腺，使其能够在红树林河口、沿海潟湖和近海珊瑚礁等高盐度环境中繁衍生息。在极端情况下，其体长可达6.1米，背部呈浅灰绿色并伴有深色条纹，在浑浊的半咸水中提供了绝佳的伪装。作为基石捕食者，美洲鳄通过调节猎物种群数量，维持着美洲各地复杂沿海湿地生态系统的平衡。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Characterized by a narrow, acutely tapered rostrum, the American crocodile displays the classic crocodilid trait where the fourth mandibular tooth remains visible when the jaws are closed. Its integument is heavily armored with dorsal osteoderms, though less symmetrically arranged than in other species. The presence of functional salt glands beneath the tongue facilitates the excretion of excess sodium, a critical adaptation for marine and brackish habitats. Its powerful, laterally compressed tail propels it with explosive speed, while sensory pits along the jawline detect minute hydrostatic pressure changes caused by prey movement.",
+      "zh": "美洲鳄的特征是其狭窄且急剧收缩的吻部，并展现出经典的鳄科特征：闭颌时下颌第四齿清晰可见。其体表覆盖着厚重的背部皮内成骨（骨板），尽管排列不如其他物种对称。舌下功能性盐腺的存在促进了多余钠的排泄，这是其适应海洋和半咸水栖息地的关键进化。其强壮且侧扁的尾巴能提供爆发性的推进力，而沿着颌骨边缘的感觉窝则能探测到由猎物移动引起的微小静水压力变化。"
+    },
+    "ecology_and_behavior": {
+      "en": "As a predominantly nocturnal ambush predator, C. acutus exhibits a diverse ontogenetic dietary shift, progressing from aquatic invertebrates and small fish in its juvenile stage to larger teleosts, turtles, birds, and occasionally terrestrial mammals as an adult. It is an ectotherm that relies on precise behavioral thermoregulation, frequently observed basking on muddy banks with its jaws agape to facilitate evaporative cooling. Reproduction involves complex courtship displays, followed by the construction of hole or mound nests. Sex determination is strictly temperature-dependent, with incubation temperatures dictating the sex ratio of the hatchlings.",
+      "zh": "作为一种主要在夜间活动的伏击型捕食者，美洲鳄表现出明显的个体发育食性转变：幼年期主要捕食水生无脊椎动物和小型鱼类，成年后则捕食大型真骨鱼类、龟类、鸟类，偶尔也捕食陆生哺乳动物。作为变温动物，它依赖精确的行为体温调节，常被观察到在泥岸上张嘴晒太阳以促进蒸发散热。其繁殖过程包括复杂的求偶炫耀，随后在沙地或泥土中挖掘洞穴或筑巢。性别决定严格依赖于温度，孵化温度直接决定了幼鳄的性别比例。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species boasts the most extensive distribution of any New World crocodilian, spanning the Atlantic and Pacific coasts of southern Mexico, Central America, and northern South America, extending as far south as Peru and Venezuela. It also maintains significant insular populations across the Greater Antilles, including Cuba, Jamaica, and Hispaniola, alongside a northernmost remnant population in the estuarine networks of southern Florida. It exhibits a strong preference for coastal habitats, particularly mangrove swamps, river mouths, and salt pans, though it occasionally ventures into freshwater reservoirs and inland river systems.",
+      "zh": "该物种是新大陆鳄类中分布最广的，横跨墨西哥南部、中美洲和南美洲北部（最南至秘鲁和委内瑞拉）的大西洋和太平洋海岸。它在大安的列斯群岛（包括古巴、牙买加和伊斯帕尼奥拉岛）也拥有重要的岛屿种群，并在佛罗里达州南部的河口水网中保留了最北端的种群。它对沿海栖息地表现出强烈的偏好，尤其是红树林沼泽、河口和盐田，尽管有时也会进入淡水水库和内陆河流系统。"
+    }
+  },
+  "habitat": {
+    "text_en": "Coastal regions, mangrove swamps, estuaries, and river mouths across the Neotropics, from southern Florida and Mexico down to Peru and Venezuela, including the Greater Antilles.",
+    "text_zh": "新热带地区的沿海区域、红树林沼泽、河口和入海口，分布范围从佛罗里达州南部和墨西哥一直延伸到秘鲁和委内瑞拉，包括大安的列斯群岛。",
+    "map_coordinates": [
+      15,
+      -80
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          26,
+          -81.8
+        ],
+        [
+          25.8,
+          -81.7
+        ],
+        [
+          25.5,
+          -81.2
+        ],
+        [
+          25.2,
+          -81
+        ],
+        [
+          25.1,
+          -80.9
+        ],
+        [
+          24.8,
+          -81
+        ],
+        [
+          24.5,
+          -81.8
+        ],
+        [
+          24.9,
+          -80.6
+        ],
+        [
+          25.2,
+          -80.4
+        ],
+        [
+          25.6,
+          -80.3
+        ],
+        [
+          26,
+          -80.1
+        ],
+        [
+          26.2,
+          -80.1
+        ],
+        [
+          26.2,
+          -80.4
+        ],
+        [
+          25.8,
+          -80.6
+        ],
+        [
+          25.5,
+          -80.8
+        ],
+        [
+          26,
+          -81.4
+        ],
+        [
+          26,
+          -81.8
+        ]
+      ],
+      [
+        [
+          22,
+          -84
+        ],
+        [
+          23,
+          -82
+        ],
+        [
+          23.2,
+          -80
+        ],
+        [
+          22.5,
+          -78
+        ],
+        [
+          21,
+          -76
+        ],
+        [
+          20,
+          -74
+        ],
+        [
+          19.8,
+          -75
+        ],
+        [
+          19.9,
+          -77
+        ],
+        [
+          20.5,
+          -78
+        ],
+        [
+          21,
+          -79
+        ],
+        [
+          21.5,
+          -81
+        ],
+        [
+          22,
+          -82.5
+        ],
+        [
+          21.8,
+          -84
+        ],
+        [
+          22,
+          -84
+        ]
+      ],
+      [
+        [
+          24,
+          -107.5
+        ],
+        [
+          21,
+          -106
+        ],
+        [
+          18,
+          -103
+        ],
+        [
+          15.5,
+          -97
+        ],
+        [
+          14,
+          -93
+        ],
+        [
+          12,
+          -87
+        ],
+        [
+          9,
+          -84
+        ],
+        [
+          7,
+          -81
+        ],
+        [
+          5,
+          -78
+        ],
+        [
+          1,
+          -80
+        ],
+        [
+          -3,
+          -81.5
+        ],
+        [
+          -6,
+          -81.5
+        ],
+        [
+          -6,
+          -80.5
+        ],
+        [
+          -3,
+          -80
+        ],
+        [
+          1,
+          -78.5
+        ],
+        [
+          5,
+          -76.5
+        ],
+        [
+          7,
+          -79.5
+        ],
+        [
+          9,
+          -82.5
+        ],
+        [
+          12,
+          -85.5
+        ],
+        [
+          14,
+          -91.5
+        ],
+        [
+          15.5,
+          -95.5
+        ],
+        [
+          18,
+          -101.5
+        ],
+        [
+          21,
+          -104.5
+        ],
+        [
+          24,
+          -106
+        ],
+        [
+          24,
+          -107.5
+        ]
+      ],
+      [
+        [
+          24,
+          -97
+        ],
+        [
+          21,
+          -97
+        ],
+        [
+          19,
+          -95
+        ],
+        [
+          19,
+          -91
+        ],
+        [
+          21.5,
+          -90
+        ],
+        [
+          21.5,
+          -87
+        ],
+        [
+          18,
+          -87.5
+        ],
+        [
+          15,
+          -83
+        ],
+        [
+          12,
+          -83
+        ],
+        [
+          9,
+          -80
+        ],
+        [
+          9.5,
+          -78
+        ],
+        [
+          11.5,
+          -74
+        ],
+        [
+          12.5,
+          -71
+        ],
+        [
+          11,
+          -68
+        ],
+        [
+          10.5,
+          -62
+        ],
+        [
+          10,
+          -62
+        ],
+        [
+          10.5,
+          -68
+        ],
+        [
+          11.5,
+          -71
+        ],
+        [
+          10.5,
+          -74
+        ],
+        [
+          8.5,
+          -78
+        ],
+        [
+          8,
+          -80
+        ],
+        [
+          11,
+          -84
+        ],
+        [
+          14,
+          -84
+        ],
+        [
+          17,
+          -88.5
+        ],
+        [
+          20.5,
+          -88
+        ],
+        [
+          20.5,
+          -90
+        ],
+        [
+          18,
+          -91
+        ],
+        [
+          18,
+          -95
+        ],
+        [
+          20,
+          -98
+        ],
+        [
+          24,
+          -98
+        ],
+        [
+          24,
+          -97
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/american-crocodile.jpg"
+}

@@ -1,0 +1,166 @@
+{
+  "id": "proboscis-monkey",
+  "name_zh": "长鼻猴",
+  "name_en": "Proboscis monkey",
+  "scientific_name": "Nasalis larvatus",
+  "ui_tags": [
+    "Mammalia",
+    "Mangrove Forest",
+    "Folivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Primates",
+      "zh": "灵长目"
+    },
+    "family": {
+      "en": "Cercopithecidae",
+      "zh": "猴科"
+    },
+    "genus": {
+      "en": "Nasalis",
+      "zh": "长鼻猴属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The proboscis monkey (Nasalis larvatus) is an arboreal Old World monkey endemic to the Southeast Asian island of Borneo. Characterized by extreme sexual dimorphism, the male possesses a pendulous, fleshy nose that can exceed 10 centimeters in length, serving as an echo chamber to amplify vocalizations and attract mates. They are uniquely adapted to their riparian and mangrove habitats, possessing webbed digits that make them prolific swimmers capable of outpacing aquatic predators. Their specialized sacculated stomachs are filled with symbiotic bacteria to ferment and digest unripened fruits and tough leaves, a diet that gives them their characteristic pot-bellied appearance.",
+    "zh": "长鼻猴（Nasalis larvatus）是东南亚婆罗洲特有的树栖旧大陆猴。该物种具有极端的两性异形特征，雄性长有下垂的肉质大鼻子，长度可超过10厘米，作为共鸣腔来放大叫声并吸引配偶。它们对河岸和红树林栖息地有着独特的适应能力，脚趾间具蹼，是出色的游泳者，甚至能游得比一些水生捕食者还快。它们拥有特殊的囊状胃，内含共生细菌，用于发酵和消化未成熟的果实与坚硬的树叶，这种特殊的食性也造就了它们标志性的“大肚腩”外观。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Males weigh up to 24 kg with a prominent, bulbous nose, while females are significantly smaller (up to 12 kg) with sharper, upturned noses. Both sexes exhibit a reddish-brown pelage on the back and shoulders, transitioning to pale gray or yellowish on the ventral side and limbs. They possess a complex, multi-chambered stomach similar to ruminants, which neutralizes toxins found in certain leaves and facilitates foregut fermentation. Webbing between their second and third toes enhances their swimming efficiency in flooded environments.",
+      "zh": "雄性体重可达24公斤，长有突出的球状大鼻；而雌性体型明显较小（最高12公斤），鼻子较尖且上翘。两性的背部和肩部均呈现红棕色毛发，腹部和四肢则过渡为浅灰色或淡黄色。它们拥有类似反刍动物的复杂多室胃，能够中和某些树叶中的毒素并促进前肠发酵。第二和第三脚趾之间的蹼大大提高了它们在水淹环境中的游泳效率。"
+    },
+    "ecology_and_behavior": {
+      "en": "Highly social, they form harem groups consisting of one dominant adult male, multiple adult females, and their offspring. All-male bachelor groups also exist. They are diurnal and predominantly folivorous and frugivorous, strictly avoiding ripe fruits as the rapid fermentation of sugars can cause fatal bloat. They are known to leap from high branches directly into rivers with a loud belly flop, and their vocal repertoire includes honks, roars, and snarls used for group cohesion and predator warning.",
+      "zh": "长鼻猴具有高度的社会性，形成由一只占主导地位的成年雄性、多只成年雌性及其后代组成的“后宫”群体，同时也存在全雄性的单身汉群体。它们是昼行性动物，主要以树叶和未成熟果实为食，严格避免食用成熟水果，因为糖分的快速发酵会导致致命的胃胀气。它们常从高高的树枝上直接跃入河中，发出巨大的落水声；其发声系统包括用于群体凝聚和捕食者警告的雁鸣声、吼叫声和低吼声。"
+    },
+    "habitat_and_distribution": {
+      "en": "Strictly endemic to the island of Borneo, distributed across Brunei, Indonesia (Kalimantan), and Malaysia (Sabah and Sarawak). They are obligate inhabitants of coastal areas and riverine ecosystems, specifically favoring mangrove forests, peat swamps, and lowland dipterocarp forests near fresh or brackish water. They rarely venture far from waterways, utilizing the dense canopy for foraging and sleeping to avoid terrestrial predators like the Sunda clouded leopard.",
+      "zh": "严格特产于婆罗洲岛，分布在文莱、印度尼西亚（加里曼丹）和马来西亚（沙巴和砂拉越）。它们是沿海地区和河岸生态系统的专性栖息者，特别偏好淡水或微咸水附近的红树林、泥炭沼泽和低地龙脑香林。它们极少远离水域，利用茂密的树冠进行觅食和睡眠，以躲避巽他云豹等陆生捕食者。"
+    }
+  },
+  "habitat": {
+    "text_en": "Endemic to the coastal mangroves, peat swamps, and riverine forests of Borneo.",
+    "text_zh": "特产于婆罗洲的沿海红树林、泥炭沼泽及河岸森林。",
+    "map_coordinates": [
+      1.5,
+      114
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          7.03,
+          116.75
+        ],
+        [
+          6.62,
+          117.68
+        ],
+        [
+          5.44,
+          119.22
+        ],
+        [
+          4.26,
+          117.89
+        ],
+        [
+          3.33,
+          117.58
+        ],
+        [
+          2.15,
+          118.01
+        ],
+        [
+          1.14,
+          118.98
+        ],
+        [
+          -0.35,
+          117.52
+        ],
+        [
+          -1.23,
+          116.85
+        ],
+        [
+          -3.21,
+          116.22
+        ],
+        [
+          -4.12,
+          114.65
+        ],
+        [
+          -3.35,
+          112.88
+        ],
+        [
+          -2.56,
+          111.15
+        ],
+        [
+          -1.45,
+          109.95
+        ],
+        [
+          -0.22,
+          109.12
+        ],
+        [
+          1.34,
+          108.95
+        ],
+        [
+          2.05,
+          109.65
+        ],
+        [
+          3.12,
+          113.05
+        ],
+        [
+          4.55,
+          114.12
+        ],
+        [
+          4.95,
+          114.95
+        ],
+        [
+          5.85,
+          115.55
+        ],
+        [
+          6.55,
+          116.25
+        ],
+        [
+          7.03,
+          116.75
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/proboscis-monkey.jpg"
+}

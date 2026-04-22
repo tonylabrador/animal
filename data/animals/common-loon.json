@@ -1,0 +1,343 @@
+{
+  "id": "common-loon",
+  "name_zh": "普通潜鸟",
+  "name_en": "Common Loon",
+  "scientific_name": "Gavia immer",
+  "ui_tags": [
+    "Aves",
+    "Aquatic",
+    "Piscivore",
+    "Migratory"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Gaviiformes",
+      "zh": "潜鸟目"
+    },
+    "family": {
+      "en": "Gaviidae",
+      "zh": "潜鸟科"
+    },
+    "genus": {
+      "en": "Gavia",
+      "zh": "潜鸟属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Common Loon (Gavia immer), also known as the Great Northern Diver, is a large, iconic aquatic bird renowned for its haunting, echoing vocalizations and exceptional diving prowess. Morphologically adapted for a predominantly submerged existence, its dense bones reduce buoyancy, allowing it to plunge to depths exceeding 60 meters in pursuit of piscine prey. During the breeding season, adults exhibit a striking checkerboard plumage of iridescent black and white, complemented by a velvety black head and piercing crimson irises that facilitate underwater vision by filtering out specific light wavelengths.",
+    "zh": "普通潜鸟（Gavia immer），又称大北潜鸟，是一种体型庞大且极具标志性的水生鸟类，以其空灵回荡的鸣叫声和卓越的潜水能力而闻名。为了适应以水下为主的生存状态，其骨骼密度极高以降低浮力，使其能够潜入超过60米的深水区追捕鱼类猎物。在繁殖季节，成鸟会展现出引人注目的黑白相间棋盘状羽毛，配以天鹅绒般的黑色头部和锐利的深红色虹膜——这种特殊的眼睛结构能够过滤特定波长的光线，从而优化水下视觉。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Anatomically, Gavia immer is a marvel of hydrodynamic engineering. Its legs are situated extremely far back on its torpedo-shaped torso, maximizing propulsion efficiency underwater but rendering it highly clumsy and virtually incapable of walking on land. The bill is stout, straight, and dagger-like, perfectly evolved for impaling and grasping slippery fish. Unlike most flying birds, loons possess solid, marrow-free bones that add necessary ballast for deep diving. Their wings are relatively short, resulting in a high wing loading that necessitates a frantic, running takeoff across the water surface spanning up to 400 meters before achieving flight.",
+      "zh": "在解剖学上，普通潜鸟是流体力学工程的奇迹。它的双腿位于鱼雷状躯干的极后方，这种结构最大化了水下推进的效率，但也导致其在陆地上极其笨拙，几乎无法行走。其喙部粗壮、笔直且呈匕首状，完美进化以刺穿和紧抓湿滑的鱼类。与大多数飞禽不同，潜鸟拥有坚实且无骨髓的骨骼，为深潜提供了必要的配重。它们的翅膀相对较短，导致翼载荷极高，这要求它们在起飞前必须在水面上进行长达400米的疯狂助跑才能升空。"
+    },
+    "ecology_and_behavior": {
+      "en": "As apex avian predators in their aquatic ecosystems, Common Loons are strictly carnivorous, feeding primarily on yellow perch, sunfish, and minnows, supplemented by crustaceans and aquatic insects. They are fiercely territorial during the breeding season, utilizing a complex repertoire of vocalizations—including the wail, tremolo, yodel, and hoot—to establish boundaries and communicate with mates. The yodel is exclusive to males and is unique to each individual. Loons are monogamous, often returning to the same pristine, undisturbed freshwater lakes year after year to construct their nests directly on the shoreline, ensuring immediate water access.",
+      "zh": "作为水生生态系统中的顶级鸟类捕食者，普通潜鸟是严格的肉食性动物，主要以黄鲈、太阳鱼和鲦鱼为食，辅以甲壳类和水生昆虫。在繁殖季节，它们具有强烈的领地意识，利用包括哀鸣、颤音、约德尔唱法和鸣笛在内的复杂发声系统来确立边界并与配偶交流。其中约德尔唱法是雄性独有的，且每只个体的声音都独一无二。潜鸟实行一夫一妻制，通常年复一年地返回同一个原始、未受破坏的淡水湖泊，直接在海岸线上筑巢，以确保能立即入水。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species exhibits a Holarctic distribution, breeding primarily across the boreal and hemiboreal lakes of North America, from Alaska through Canada to the northern tier of the United States, as well as in Greenland and Iceland. They require crystal-clear lakes with abundant fish populations and convoluted shorelines for nesting concealment. During the autumn migration, they transition to marine environments, wintering along the Pacific and Atlantic coasts of North America, and the northwestern coastlines of Europe, where they adopt a more subdued, greyish-brown non-breeding plumage.",
+      "zh": "该物种呈现全北区分布，主要在北美洲的寒带和半寒带湖泊中繁殖，范围从阿拉斯加穿过加拿大一直延伸到美国北部边缘，以及格陵兰岛和冰岛。它们需要鱼类资源丰富、水质清澈且海岸线曲折的湖泊来隐蔽筑巢。在秋季迁徙期间，它们会转移到海洋环境，在北美洲的太平洋和大西洋沿岸以及欧洲西北部海岸线越冬，此时它们会换上更为低调的灰褐色非繁殖期羽毛。"
+    }
+  },
+  "habitat": {
+    "text_en": "Breeds on clear freshwater lakes in North America, Greenland, and Iceland; winters along coastal marine waters of North America and northwestern Europe.",
+    "text_zh": "在北美洲、格陵兰岛和冰岛清澈的淡水湖泊中繁殖；在北美洲和欧洲西北部的沿海海域越冬。",
+    "map_coordinates": [
+      55,
+      -95
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          60.12,
+          -165.45
+        ],
+        [
+          64.56,
+          -164.21
+        ],
+        [
+          68.92,
+          -160.15
+        ],
+        [
+          71.23,
+          -155.89
+        ],
+        [
+          70.45,
+          -140.34
+        ],
+        [
+          69.12,
+          -125.67
+        ],
+        [
+          67.89,
+          -110.45
+        ],
+        [
+          65.34,
+          -95.23
+        ],
+        [
+          63.45,
+          -85.12
+        ],
+        [
+          61.23,
+          -75.45
+        ],
+        [
+          58.67,
+          -65.89
+        ],
+        [
+          52.34,
+          -55.67
+        ],
+        [
+          47.89,
+          -52.34
+        ],
+        [
+          43.45,
+          -60.12
+        ],
+        [
+          38.9,
+          -70.45
+        ],
+        [
+          34.56,
+          -76.78
+        ],
+        [
+          29.12,
+          -81.23
+        ],
+        [
+          28.45,
+          -89.56
+        ],
+        [
+          26.78,
+          -97.12
+        ],
+        [
+          35.67,
+          -90.45
+        ],
+        [
+          42.34,
+          -85.67
+        ],
+        [
+          46.78,
+          -95.12
+        ],
+        [
+          48.9,
+          -105.45
+        ],
+        [
+          49.12,
+          -115.67
+        ],
+        [
+          40.45,
+          -120.34
+        ],
+        [
+          32.12,
+          -117.89
+        ],
+        [
+          34.56,
+          -120.45
+        ],
+        [
+          40.12,
+          -124.56
+        ],
+        [
+          45.67,
+          -124.12
+        ],
+        [
+          50.45,
+          -127.89
+        ],
+        [
+          55.12,
+          -131.45
+        ],
+        [
+          59.67,
+          -139.12
+        ],
+        [
+          58.45,
+          -153.67
+        ],
+        [
+          60.12,
+          -165.45
+        ]
+      ],
+      [
+        [
+          59.87,
+          -44.32
+        ],
+        [
+          63.45,
+          -51.23
+        ],
+        [
+          68.9,
+          -54.56
+        ],
+        [
+          73.12,
+          -58.9
+        ],
+        [
+          77.45,
+          -65.12
+        ],
+        [
+          80.12,
+          -50.45
+        ],
+        [
+          78.56,
+          -30.12
+        ],
+        [
+          74.23,
+          -18.45
+        ],
+        [
+          70.12,
+          -20.56
+        ],
+        [
+          67.89,
+          -13.45
+        ],
+        [
+          66.12,
+          -10.23
+        ],
+        [
+          64.34,
+          -12.45
+        ],
+        [
+          63.12,
+          -20.56
+        ],
+        [
+          60.45,
+          -35.67
+        ],
+        [
+          59.87,
+          -44.32
+        ]
+      ],
+      [
+        [
+          62.12,
+          -7.45
+        ],
+        [
+          64.56,
+          2.34
+        ],
+        [
+          68.12,
+          12.45
+        ],
+        [
+          65.45,
+          15.67
+        ],
+        [
+          60.12,
+          10.23
+        ],
+        [
+          56.78,
+          8.45
+        ],
+        [
+          53.12,
+          4.56
+        ],
+        [
+          49.45,
+          -2.12
+        ],
+        [
+          47.12,
+          -4.56
+        ],
+        [
+          45.67,
+          -1.23
+        ],
+        [
+          43.12,
+          -4.56
+        ],
+        [
+          44.56,
+          -8.9
+        ],
+        [
+          48.12,
+          -6.78
+        ],
+        [
+          51.45,
+          -10.12
+        ],
+        [
+          55.67,
+          -9.45
+        ],
+        [
+          58.9,
+          -8.12
+        ],
+        [
+          62.12,
+          -7.45
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/common-loon.jpg"
+}

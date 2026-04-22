@@ -1,0 +1,240 @@
+{
+  "id": "felis-silvestris",
+  "name_zh": "斑猫",
+  "name_en": "Wildcat",
+  "scientific_name": "Felis silvestris",
+  "ui_tags": [
+    "Mammalia",
+    "Forest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Felidae",
+      "zh": "猫科"
+    },
+    "genus": {
+      "en": "Felis",
+      "zh": "猫属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The wildcat (Felis silvestris) is a small, elusive, and highly adaptable predator native to Europe, the Caucasus, and parts of Asia. Characterized by its robust physique, thick pelage, and a distinctive bushy tail with a blunt, black tip, it represents the untamed ancestor of the domestic cat, though it maintains a strictly solitary and fiercely independent nature. Despite its wide historical range, modern populations are highly fragmented due to habitat loss and extensive introgressive hybridization with feral domestic cats, posing a severe threat to its genetic integrity.",
+    "zh": "斑猫（Felis silvestris），又称欧洲野猫，是一种体型小巧、行踪隐秘且适应力极强的掠食者，原产于欧洲、高加索地区及亚洲部分地区。它以粗壮的体格、浓密的皮毛以及带有黑色钝尖的蓬松尾巴为特征，是家猫未被驯化的近亲，但始终保持着严格独居和极度独立的野性本能。尽管其历史分布广泛，但由于栖息地丧失以及与流浪家猫之间广泛的基因渗入杂交，现代种群已高度碎片化，这对其基因完整性构成了严重威胁。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Morphologically distinct from domestic felines, the wildcat possesses a broader skull, a larger cranial volume, and a more robust jaw structure adapted for crushing the bones of small vertebrates. Its pelage is typically grayish-brown with faint, dark transverse stripes, providing exceptional camouflage in woodland understories. The tail is a key diagnostic feature: it is cylindrical, thick, and marked with distinct black rings, ending abruptly in a blunt black tip, unlike the tapered tail of domestic cats. Intestinal length is also notably shorter, reflecting a strictly carnivorous diet.",
+      "zh": "在形态学上与家猫有显著区别，斑猫拥有更宽的头骨、更大的脑容量以及更为粗壮的下颌结构，专门适应于咬碎小型脊椎动物的骨骼。其被毛通常呈灰褐色，带有隐约的深色横向条纹，在林地底层提供了极佳的伪装。尾巴是关键的鉴定特征：呈圆柱形且粗壮，带有明显的黑色环纹，末端骤然收缩为一个黑色的钝尖，这与家猫逐渐变细的尾巴截然不同。此外，其肠道长度也明显较短，反映了其严格的肉食性饮食习惯。"
+    },
+    "ecology_and_behavior": {
+      "en": "As a strictly solitary and territorial carnivore, the wildcat exhibits crepuscular and nocturnal hunting patterns. It is an obligate hypercarnivore, relying heavily on an ambush-and-pounce strategy to capture microtine rodents, lagomorphs, and ground-dwelling birds. Intraspecific communication relies heavily on olfactory cues, including urine spraying, feces deposition, and glandular secretions on prominent landmarks. Females maintain exclusive territories, while male territories are larger and may overlap with those of several females, particularly during the late winter breeding season.",
+      "zh": "作为一种严格独居且具有强烈领地意识的食肉动物，斑猫表现出晨昏和夜间活动的狩猎模式。它是专性超食肉动物，高度依赖伏击和猛扑策略来捕获田鼠、兔形目动物和地栖鸟类。种内交流严重依赖嗅觉信号，包括喷洒尿液、排泄粪便以及在显眼的地标上留下腺体分泌物。雌性拥有排他性的领地，而雄性的领地更大，并且可能与几只雌性的领地重叠，特别是在冬末的繁殖季节。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species exhibits a strong preference for broadleaf and mixed forests, mature woodlands, and undisturbed riparian zones, strictly avoiding areas with deep winter snow (exceeding 20 cm) or intense agricultural development. Its distribution is highly fragmented across the Iberian Peninsula, the Scottish Highlands, Eastern Europe, and the Caucasus. They utilize hollow trees, rock crevices, or abandoned badger setts for denning and rearing kittens.",
+      "zh": "该物种对阔叶林、混交林、成熟林地和未受破坏的河岸带表现出强烈的偏好，严格避开冬季积雪过深（超过20厘米）或农业开发密集的地区。其分布高度碎片化，主要散布于伊比利亚半岛、苏格兰高地、东欧以及高加索地区。它们通常利用中空的树干、岩石缝隙或废弃的獾洞作为巢穴来繁育幼崽。"
+    }
+  },
+  "habitat": {
+    "text_en": "Broadleaf and mixed forests, mature woodlands, and undisturbed riparian zones across Europe and the Caucasus.",
+    "text_zh": "遍布欧洲和高加索地区的阔叶林、混交林、成熟林地以及未受破坏的河岸带。",
+    "map_coordinates": [
+      48,
+      14
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          [
+            43,
+            -8
+          ],
+          [
+            37,
+            -8.5
+          ],
+          [
+            36.5,
+            -4
+          ],
+          [
+            39,
+            -0.5
+          ],
+          [
+            42.5,
+            1.5
+          ],
+          [
+            43.5,
+            5
+          ],
+          [
+            44,
+            8
+          ],
+          [
+            39,
+            16
+          ],
+          [
+            45.5,
+            12.5
+          ],
+          [
+            42,
+            19
+          ],
+          [
+            38,
+            22
+          ],
+          [
+            43,
+            27.5
+          ],
+          [
+            45,
+            29
+          ],
+          [
+            49,
+            24
+          ],
+          [
+            50,
+            20
+          ],
+          [
+            51,
+            10
+          ],
+          [
+            49,
+            6
+          ],
+          [
+            48,
+            -2
+          ],
+          [
+            44,
+            -1
+          ],
+          [
+            43,
+            -8
+          ]
+        ],
+        [
+          [
+            56.5,
+            -5.5
+          ],
+          [
+            56,
+            -4.5
+          ],
+          [
+            56.5,
+            -3.5
+          ],
+          [
+            57,
+            -3
+          ],
+          [
+            57.5,
+            -2.5
+          ],
+          [
+            58,
+            -3.5
+          ],
+          [
+            58.5,
+            -4
+          ],
+          [
+            58.5,
+            -5
+          ],
+          [
+            58,
+            -5.5
+          ],
+          [
+            57.5,
+            -6
+          ],
+          [
+            57,
+            -6
+          ],
+          [
+            56.5,
+            -5.5
+          ]
+        ],
+        [
+          [
+            43,
+            40
+          ],
+          [
+            41,
+            42
+          ],
+          [
+            40,
+            45
+          ],
+          [
+            41,
+            48
+          ],
+          [
+            42,
+            47
+          ],
+          [
+            43,
+            45
+          ],
+          [
+            44,
+            43
+          ],
+          [
+            43,
+            40
+          ]
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/felis-silvestris.jpg"
+}

@@ -1,0 +1,318 @@
+{
+  "id": "tufted-puffin",
+  "name_zh": "簇绒海鹦",
+  "name_en": "Tufted puffin",
+  "scientific_name": "Fratercula cirrhata",
+  "ui_tags": [
+    "Aves",
+    "Marine",
+    "Piscivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Charadriiformes",
+      "zh": "鸻形目"
+    },
+    "family": {
+      "en": "Alcidae",
+      "zh": "海雀科"
+    },
+    "genus": {
+      "en": "Fratercula",
+      "zh": "海鹦属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The tufted puffin (Fratercula cirrhata) is a robust, pelagic seabird of the family Alcidae, instantly recognizable during the breeding season by its striking, laterally compressed bill—vividly colored in red and yellowish-green—and the sweeping, golden-yellow cirrhi (feather tufts) that cascade from behind its eyes. Measuring up to 40 cm in length and weighing nearly a kilogram, it is the largest of the puffin species. Its plumage is predominantly sooty black, contrasting sharply with a stark white facial patch that appears in summer. Adapted for a life predominantly spent on the open ocean, it possesses dense, waterproof plumage and powerful, short wings that function as flippers for deep underwater pursuit of prey.",
+    "zh": "簇绒海鹦（Fratercula cirrhata）是海雀科中一种体型粗壮的远洋海鸟。在繁殖季节，它们极具辨识度，拥有醒目的、侧扁的红黄绿三色喙，以及从眼后垂下的飘逸金黄色簇羽（即“簇绒”）。其体长可达40厘米，重近1千克，是体型最大的海鹦。它的羽毛主要呈煤黑色，与夏季出现的纯白面部斑块形成鲜明对比。为了适应广阔的远洋生活，簇绒海鹦进化出了致密防水的羽衣和强健短小的翅膀，这些翅膀在水下可作为鳍肢使用，使其能够潜入深水追捕猎物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Characterized by a stout, torpedo-shaped body optimized for hydrodynamic efficiency. The skeletal structure is dense, reducing buoyancy to facilitate deep diving. The bill, composed of several horny plates, is shed after the breeding season, rendering the winter bill significantly smaller and duller. The tongue and upper palate are equipped with specialized backward-facing denticles, allowing the bird to securely hold multiple small fish simultaneously while continuing to forage. The legs are set far back on the body, providing excellent propulsion underwater but resulting in a clumsy, upright gait on land.",
+      "zh": "簇绒海鹦拥有粗壮的鱼雷状躯体，极大地优化了流体力学效率。其骨骼结构致密，通过降低浮力来促进深潜。其标志性的喙由多块角质板组成，在繁殖季结束后会脱落，使得冬季的喙变得更小且暗淡。它们的舌头和上颚长有特殊的向后倒刺，使这种鸟类能够在继续觅食的同时，牢牢地同时夹住多条小鱼。其双腿位置极为靠后，这在水下提供了卓越的推进力，但也导致它们在陆地上行走时姿态笨拙且直立。"
+    },
+    "ecology_and_behavior": {
+      "en": "Highly gregarious during the breeding season, they form massive colonies on precipitous coastal cliffs and offshore islands. They are monogamous and exhibit strong site fidelity, excavating deep burrows (up to 2 meters) in grassy slopes using their robust bills and sharp claws. Their diet consists primarily of small schooling fish such as sand lance, capelin, and juvenile pollock, supplemented by cephalopods and euphausiids. They are pursuit-divers, capable of reaching depths exceeding 60 meters, utilizing their wings for propulsion and webbed feet for steering.",
+      "zh": "在繁殖季节，它们表现出高度的群居性，在陡峭的海岸悬崖和近海岛屿上形成庞大的繁殖群。它们实行一夫一妻制，并表现出强烈的繁殖地忠诚度，会利用强壮的喙和锋利的爪子在草坡上挖掘深达2米的洞穴。其饮食主要由沙鳗、毛鳞鱼和狭鳕幼鱼等小型群游鱼类组成，并辅以头足类和磷虾。作为追击型潜水者，它们能够潜入超过60米的深处，利用翅膀进行推进，并用蹼足来控制方向。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the North Pacific Ocean. Their breeding range extends from the coastal regions of Hokkaido, Japan, through the Kuril Islands, the Kamchatka Peninsula, across the Aleutian arc, and down the western coast of North America to central California. During the non-breeding winter months, they are highly pelagic, dispersing widely across the central North Pacific, often remaining hundreds of kilometers from the nearest landmass.",
+      "zh": "簇绒海鹦是北太平洋的特有物种。它们的繁殖范围从日本北海道的沿海地区开始，穿过千岛群岛、堪察加半岛，横跨阿留申群岛弧，一直延伸到北美西海岸至加利福尼亚州中部。在非繁殖期的冬季，它们具有高度的远洋性，广泛分散在北太平洋中部，通常停留在距离最近陆地数百公里外的开阔大洋上。"
+    }
+  },
+  "habitat": {
+    "text_en": "North Pacific coastal cliffs for breeding, and open pelagic waters during winter.",
+    "text_zh": "繁殖期栖息于北太平洋沿岸悬崖，冬季则游荡于开阔的远洋水域。",
+    "map_coordinates": [
+      53,
+      -165
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          61,
+          163.5
+        ],
+        [
+          59.2,
+          162.1
+        ],
+        [
+          57.5,
+          156.8
+        ],
+        [
+          55.8,
+          155.5
+        ],
+        [
+          53.2,
+          158.4
+        ],
+        [
+          51.1,
+          156.7
+        ],
+        [
+          49.5,
+          154.8
+        ],
+        [
+          47.2,
+          152.3
+        ],
+        [
+          45.5,
+          149.6
+        ],
+        [
+          43.8,
+          146.9
+        ],
+        [
+          42.1,
+          143.5
+        ],
+        [
+          41.5,
+          141.8
+        ],
+        [
+          43.2,
+          145.2
+        ],
+        [
+          45.1,
+          148.7
+        ],
+        [
+          47.8,
+          153.1
+        ],
+        [
+          50.4,
+          156.5
+        ],
+        [
+          52.6,
+          159.2
+        ],
+        [
+          55.1,
+          162.8
+        ],
+        [
+          57.4,
+          164.5
+        ],
+        [
+          59.8,
+          165.2
+        ],
+        [
+          61.5,
+          164.8
+        ]
+      ],
+      [
+        [
+          59.5,
+          -151.2
+        ],
+        [
+          58.2,
+          -153.5
+        ],
+        [
+          57.1,
+          -155.8
+        ],
+        [
+          55.4,
+          -160.1
+        ],
+        [
+          54.2,
+          -164.5
+        ],
+        [
+          53.1,
+          -168.2
+        ],
+        [
+          52.4,
+          -172.5
+        ],
+        [
+          51.8,
+          -176.8
+        ],
+        [
+          52.5,
+          -179.5
+        ],
+        [
+          54.5,
+          -178.5
+        ],
+        [
+          55.2,
+          -174.2
+        ],
+        [
+          56.1,
+          -169.5
+        ],
+        [
+          57.4,
+          -164.8
+        ],
+        [
+          58.5,
+          -160.2
+        ],
+        [
+          59.8,
+          -156.5
+        ],
+        [
+          60.5,
+          -153.1
+        ],
+        [
+          60.2,
+          -150.5
+        ]
+      ],
+      [
+        [
+          59.1,
+          -140.5
+        ],
+        [
+          57.8,
+          -136.2
+        ],
+        [
+          55.5,
+          -133.1
+        ],
+        [
+          53.2,
+          -131.5
+        ],
+        [
+          51.4,
+          -128.8
+        ],
+        [
+          49.5,
+          -126.4
+        ],
+        [
+          47.2,
+          -124.5
+        ],
+        [
+          45.1,
+          -124.1
+        ],
+        [
+          42.8,
+          -124.3
+        ],
+        [
+          40.5,
+          -124.2
+        ],
+        [
+          38.2,
+          -123.1
+        ],
+        [
+          36.5,
+          -122
+        ],
+        [
+          34.8,
+          -120.8
+        ],
+        [
+          36.1,
+          -123.5
+        ],
+        [
+          38.5,
+          -125.8
+        ],
+        [
+          41.2,
+          -127.4
+        ],
+        [
+          44.5,
+          -128.2
+        ],
+        [
+          48.1,
+          -130.5
+        ],
+        [
+          51.5,
+          -133.2
+        ],
+        [
+          54.8,
+          -136.5
+        ],
+        [
+          57.2,
+          -140.1
+        ],
+        [
+          58.8,
+          -142.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/tufted-puffin.jpg"
+}
