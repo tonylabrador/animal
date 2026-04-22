@@ -35,3 +35,4 @@
 | 29 | 银鸥 | European herring gull | Larus argentatus | ⏳ Pending |
 | 30 | 簇绒海鹦 | Tufted puffin | Fratercula cirrhata | ⏳ Pending |
 | 31 | 斑猫 | Wildcat | Felis silvestris | ⏳ Pending |
+| 32 | 东部菱背响尾蛇 | Eastern Diamondback Rattlesnake | Crotalus adamanteus | ⏳ Pending |
