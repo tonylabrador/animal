@@ -11,3 +11,4 @@
 | 5 | 红尾蚺 | Boa constrictor | Boa constrictor | ⏳ Pending |
 | 6 | 缅甸蟒 | Burmese python | Python bivittatus | ⏳ Pending |
 | 7 | 亚河豚 | Amazon River Dolphin | Inia geoffrensis | ⏳ Pending |
+| 8 | 暗色斑纹海豚 | Dusky dolphin | Lagenorhynchus obscurus | ⏳ Pending |
