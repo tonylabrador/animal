@@ -17,3 +17,4 @@
 | 11 | 伪虎鲸 | False killer whale | Pseudorca crassidens | ⏳ Pending |
 | 12 | 康氏矮海豚 | Commerson's dolphin | Cephalorhynchus commersonii | ⏳ Pending |
 | 13 | 赫氏矮海豚 | Hector's dolphin | Cephalorhynchus hectori | ⏳ Pending |
+| 14 | 长吻飞旋海豚 | Spinner Dolphin | Stenella longirostris | ⏳ Pending |
