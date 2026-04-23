@@ -21,3 +21,4 @@
 | 15 | 密斑刺鲀 | Spot-fin porcupinefish | Diodon hystrix | ⏳ Pending |
 | 16 | 电鳗 | Electric eel | Electrophorus electricus | ⏳ Pending |
 | 17 | 欧洲鮟鱇 | European anglerfish | Lophius piscatorius | ⏳ Pending |
+| 18 | 夏威夷短尾乌贼 | Hawaiian Bobtail Squid | Euprymna scolopes | ⏳ Pending |
