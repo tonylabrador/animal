@@ -12,3 +12,4 @@
 | 6 | 缅甸蟒 | Burmese python | Python bivittatus | ⏳ Pending |
 | 7 | 亚河豚 | Amazon River Dolphin | Inia geoffrensis | ⏳ Pending |
 | 8 | 暗色斑纹海豚 | Dusky dolphin | Lagenorhynchus obscurus | ⏳ Pending |
+| 9 | 褐鹈鹕 | Brown pelican | Pelecanus occidentalis | ⏳ Pending |
