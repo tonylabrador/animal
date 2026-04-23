@@ -16,3 +16,4 @@
 | 10 | 大西洋斑海豚 | Atlantic spotted dolphin | Stenella frontalis | ⏳ Pending |
 | 11 | 伪虎鲸 | False killer whale | Pseudorca crassidens | ⏳ Pending |
 | 12 | 康氏矮海豚 | Commerson's dolphin | Cephalorhynchus commersonii | ⏳ Pending |
+| 13 | 赫氏矮海豚 | Hector's dolphin | Cephalorhynchus hectori | ⏳ Pending |
