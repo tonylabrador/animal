@@ -9,3 +9,4 @@
 | 3 | 岛丛鸦 | Island scrub jay | Aphelocoma insularis | ⏳ Pending |
 | 4 | 玻利维亚森蚺 | Bolivian Anaconda | Eunectes beniensis | ⏳ Pending |
 | 5 | 红尾蚺 | Boa constrictor | Boa constrictor | ⏳ Pending |
+| 6 | 缅甸蟒 | Burmese python | Python bivittatus | ⏳ Pending |
