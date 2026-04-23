@@ -14,3 +14,4 @@
 | 8 | 暗色斑纹海豚 | Dusky dolphin | Lagenorhynchus obscurus | ⏳ Pending |
 | 9 | 褐鹈鹕 | Brown pelican | Pelecanus occidentalis | ⏳ Pending |
 | 10 | 大西洋斑海豚 | Atlantic spotted dolphin | Stenella frontalis | ⏳ Pending |
+| 11 | 伪虎鲸 | False killer whale | Pseudorca crassidens | ⏳ Pending |
