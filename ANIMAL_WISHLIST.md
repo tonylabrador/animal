@@ -5,3 +5,4 @@
 | # | 中文名 | English Name | Scientific Name | 状态 |
 |---|--------|-------------|-----------------|------|
 | 1 | 蜜袋鼯 | Sugar glider | Petaurus breviceps | ⏳ Pending |
+| 2 | 啄羊鹦鹉 | Kea | Nestor notabilis | ⏳ Pending |
