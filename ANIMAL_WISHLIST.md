@@ -13,3 +13,4 @@
 | 7 | 亚河豚 | Amazon River Dolphin | Inia geoffrensis | ⏳ Pending |
 | 8 | 暗色斑纹海豚 | Dusky dolphin | Lagenorhynchus obscurus | ⏳ Pending |
 | 9 | 褐鹈鹕 | Brown pelican | Pelecanus occidentalis | ⏳ Pending |
+| 10 | 大西洋斑海豚 | Atlantic spotted dolphin | Stenella frontalis | ⏳ Pending |
