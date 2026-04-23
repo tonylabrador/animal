@@ -7,3 +7,4 @@
 | 1 | 蜜袋鼯 | Sugar glider | Petaurus breviceps | ⏳ Pending |
 | 2 | 啄羊鹦鹉 | Kea | Nestor notabilis | ⏳ Pending |
 | 3 | 岛丛鸦 | Island scrub jay | Aphelocoma insularis | ⏳ Pending |
+| 4 | 玻利维亚森蚺 | Bolivian Anaconda | Eunectes beniensis | ⏳ Pending |
