@@ -1,0 +1,204 @@
+{
+  "id": "hawaiian-bobtail-squid",
+  "name_zh": "夏威夷短尾乌贼",
+  "name_en": "Hawaiian Bobtail Squid",
+  "scientific_name": "Euprymna scolopes",
+  "ui_tags": [
+    "Cephalopod",
+    "Bioluminescent",
+    "Nocturnal"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Mollusca",
+      "zh": "软体动物门"
+    },
+    "class": {
+      "en": "Cephalopoda",
+      "zh": "头足纲"
+    },
+    "order": {
+      "en": "Sepiolida",
+      "zh": "耳乌贼目"
+    },
+    "family": {
+      "en": "Sepiolidae",
+      "zh": "耳乌贼科"
+    },
+    "genus": {
+      "en": "Euprymna",
+      "zh": "四盘耳乌贼属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估"
+  },
+  "description": {
+    "en": "The Hawaiian bobtail squid (Euprymna scolopes) is a diminutive, nocturnal cephalopod endemic to the shallow coastal waters of the Hawaiian archipelago. Renowned for its obligate mutualistic symbiosis with the bioluminescent bacterium Vibrio fischeri, this species serves as a premier model organism in chronobiology and host-microbe interactions. Measuring a mere 30 millimeters in mantle length, it utilizes a highly specialized, bilobed light organ situated within its mantle cavity to perform counter-illumination, effectively camouflaging its silhouette against downwelling moonlight and starlight to evade benthic and pelagic predators.",
+    "zh": "夏威夷短尾乌贼（Euprymna scolopes）是一种体型娇小、夜行性的头足类动物，特产于夏威夷群岛的浅海沿岸水域。该物种因与发光细菌（Vibrio fischeri）之间存在专性互利共生关系而闻名，是时间生物学和宿主-微生物相互作用研究领域的顶级模式生物。其外套膜长度仅约30毫米，通过位于外套腔内高度特化的双叶发光器进行“反照明”（counter-illumination），巧妙地将自身轮廓与向下照射的月光和星光融为一体，从而完美躲避底栖和远洋捕食者的追踪。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Morphologically, E. scolopes lacks a gladius (internal shell) and features a rounded, dome-like mantle with prominent, paddle-shaped lateral fins. Its most extraordinary anatomical adaptation is the complex light organ, which includes a bacterial crypt, a reflective layer of iridophores to direct light ventrally, a diverticulum that acts as an ink sac to control light intensity, and a specialized lens tissue derived from the animal's mesoderm to diffuse the bacterial luminescence. The arms are equipped with specialized suckers, which in males are sexually dimorphic, featuring enlarged suckers on the second pair of arms for copulation.",
+      "zh": "在形态学上，夏威夷短尾乌贼缺乏内壳（角质颚），具有圆顶状的外套膜和显著的桨状侧鳍。其最非凡的解剖学适应是复杂的发光器复合体，该复合体包括细菌隐窝、用于将光线向腹侧引导的虹彩细胞反射层、充当墨囊以调节光强度的憩室，以及由中胚层衍生而来、用于漫射细菌发光的特化晶状体组织。其腕足配备有特化的吸盘，雄性表现出明显的两性异形，第二对腕足上具有用于交配的膨大吸盘。"
+    },
+    "ecology_and_behavior": {
+      "en": "As a strictly nocturnal benthic predator, E. scolopes emerges at dusk to forage on mysid shrimp and small crustaceans. During diurnal hours, it exhibits a stereotypic burying behavior, utilizing its arms to cover its dorsal surface with sand grains, leaving only its eyes exposed. The symbiotic relationship is governed by a strict circadian rhythm: at dawn, the squid expels approximately 95% of its V. fischeri symbionts into the water column to prevent bacterial overpopulation and toxicity, allowing the remaining population to exponentially replicate throughout the day to reach optimal luminescence capacity by nightfall.",
+      "zh": "作为严格的夜行性底栖捕食者，夏威夷短尾乌贼在黄昏时分出现，捕食糠虾和小型甲壳类动物。在白天，它表现出刻板的掩埋行为，利用腕足将沙粒覆盖在背部，仅露出眼睛。其共生关系受严格的昼夜节律调控：在黎明时分，乌贼会将约95%的费氏弧菌共生体排出到水体中，以防止细菌过度繁殖和产生毒性，并允许剩余的细菌种群在白天呈指数级复制，以便在夜幕降临时达到最佳的发光能力。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the Hawaiian Islands, including the Northwestern Hawaiian Islands up to Midway Atoll. It predominantly inhabits shallow, warm coastal waters, specifically favoring sandy substrates adjacent to coral reef ecosystems and seagrass beds at depths ranging from 2 to 40 meters. The precise grain size of the benthic sand is critical for its diurnal burying behavior.",
+      "zh": "该物种是夏威夷群岛的特有种，分布范围延伸至西北夏威夷群岛的中途岛。它主要栖息于浅层温暖的沿海水域，特别偏好深度在2至40米之间、毗邻珊瑚礁生态系统和海草床的沙质基底。底栖沙粒的精确粒度对其白天的掩埋行为至关重要。"
+    }
+  },
+  "habitat": {
+    "text_en": "Endemic to the shallow coastal waters and sandy substrates of the Hawaiian archipelago.",
+    "text_zh": "特产于夏威夷群岛的浅海沿岸水域及沙质基底。",
+    "map_coordinates": [
+      21,
+      -157.5
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [
+        [
+          22.4,
+          -159.85
+        ],
+        [
+          22.1,
+          -158.4
+        ],
+        [
+          21.85,
+          -157.9
+        ],
+        [
+          21.4,
+          -156.9
+        ],
+        [
+          21.25,
+          -156.1
+        ],
+        [
+          20.4,
+          -155.1
+        ],
+        [
+          19.9,
+          -154.85
+        ],
+        [
+          19.3,
+          -154.95
+        ],
+        [
+          18.9,
+          -155.65
+        ],
+        [
+          19.15,
+          -156.15
+        ],
+        [
+          19.85,
+          -156.25
+        ],
+        [
+          20.45,
+          -156.85
+        ],
+        [
+          20.65,
+          -157.45
+        ],
+        [
+          21.15,
+          -158.35
+        ],
+        [
+          21.65,
+          -159.85
+        ],
+        [
+          21.75,
+          -160.35
+        ],
+        [
+          22.05,
+          -160.45
+        ],
+        [
+          22.3,
+          -160.15
+        ],
+        [
+          22.4,
+          -159.85
+        ]
+      ],
+      [
+        [
+          28.5,
+          -178.5
+        ],
+        [
+          28.6,
+          -178
+        ],
+        [
+          28.4,
+          -177.5
+        ],
+        [
+          28.1,
+          -177
+        ],
+        [
+          27.8,
+          -176.5
+        ],
+        [
+          27.5,
+          -176
+        ],
+        [
+          27.2,
+          -176.2
+        ],
+        [
+          27.4,
+          -176.8
+        ],
+        [
+          27.7,
+          -177.4
+        ],
+        [
+          28,
+          -177.9
+        ],
+        [
+          28.2,
+          -178.4
+        ],
+        [
+          28.4,
+          -178.6
+        ],
+        [
+          28.5,
+          -178.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/hawaiian-bobtail-squid.jpg"
+}

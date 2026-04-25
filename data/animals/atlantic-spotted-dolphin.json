@@ -1,0 +1,296 @@
+{
+  "id": "atlantic-spotted-dolphin",
+  "name_zh": "大西洋斑海豚",
+  "name_en": "Atlantic spotted dolphin",
+  "scientific_name": "Stenella frontalis",
+  "ui_tags": [
+    "Mammalia",
+    "Marine",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Cetartiodactyla",
+      "zh": "鲸偶蹄目"
+    },
+    "family": {
+      "en": "Delphinidae",
+      "zh": "海豚科"
+    },
+    "genus": {
+      "en": "Stenella",
+      "zh": "原海豚属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Atlantic spotted dolphin (Stenella frontalis) is a highly gregarious and acrobatic marine mammal endemic to the warm temperate, subtropical, and tropical waters of the Atlantic Ocean. Renowned for its striking ontogenetic coloration, individuals are born with a uniform gray pattern that progressively develops intricate, contrasting spots as they mature, culminating in a heavily mottled appearance in older adults. They play a crucial apex and meso-predatory role in pelagic and neritic ecosystems.",
+    "zh": "大西洋斑海豚（Stenella frontalis）是一种高度群居且擅长杂技的海洋哺乳动物，特产于大西洋的暖温带、亚热带和热带海域。它们以其引人注目的个体发育体色变化而闻名：幼体出生时呈均匀的灰色，随着年龄的增长，体表会逐渐发育出复杂且对比鲜明的斑点，直至成年期形成密集的斑驳图案。它们在远洋和浅海生态系统中扮演着至关重要的顶级和中级捕食者角色。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Exhibiting pronounced ontogenetic variation, calves are born unspotted with a purplish-gray dorsum and white ventrum. As they transition through juvenile, subadult, and adult stages, dark spots emerge ventrally and light spots dorsally, eventually fusing into a complex mottled pattern. They possess a moderately robust, fusiform body, a distinct, moderately long beak, and a tall, falcate dorsal fin. Adults typically measure 1.5 to 2.3 meters in length and weigh between 90 and 140 kilograms. Their dentition consists of 30 to 42 pairs of small, conical teeth in each jaw, perfectly adapted for grasping slippery prey.",
+      "zh": "表现出显著的个体发育变异，幼豚出生时无斑点，背部呈紫灰色，腹部呈白色。随着它们经历幼年、亚成年和成年阶段，腹部会出现深色斑点，背部出现浅色斑点，最终融合为复杂的斑驳图案。它们拥有适度粗壮的纺锤形躯干、明显且中等长度的吻突，以及高耸的镰刀状背鳍。成年个体体长通常在1.5至2.3米之间，体重在90至140千克之间。它们的牙齿结构为上下颌各30至42对圆锥形小齿，非常适合捕捉湿滑的猎物。"
+    },
+    "ecology_and_behavior": {
+      "en": "Highly social and cognitively advanced, Stenella frontalis forms fluid, dynamic pods ranging from 5 to 50 individuals, though aggregations of several hundred can occur in nutrient-rich foraging grounds. They are exceptionally acrobatic, frequently engaging in breaching, tail-slapping, and bow-riding alongside vessels or larger cetaceans. Their diet is diverse, comprising epipelagic and mesopelagic teleost fish, cephalopods, and benthic invertebrates. They utilize sophisticated echolocation clicks for navigation and prey detection, alongside a complex repertoire of frequency-modulated whistles for intra-pod communication and social cohesion.",
+      "zh": "大西洋斑海豚具有高度的社会性和发达的认知能力，通常形成5到50只不等的流动性动态群体，但在营养丰富的觅食地也可能聚集数百只个体。它们极具杂技天赋，经常进行跃身击浪、尾鳍拍水，并喜欢在船只或大型鲸类旁乘浪前行。其饮食结构多样，包括上层和中层远洋硬骨鱼类、头足类动物以及底栖无脊椎动物。它们利用复杂的回声定位咔哒声进行导航和探测猎物，并使用一系列复杂的调频口哨声进行群体内的交流和维持社会凝聚力。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic exclusively to the Atlantic Ocean, their distribution spans warm temperate, subtropical, and tropical waters from approximately 50°N to 25°S. In the western Atlantic, they are abundant along the southeastern United States, the Gulf of Mexico, the Caribbean Sea, and south to the Brazilian coast. In the eastern Atlantic, their range extends from the Azores and Canary Islands down to the Gulf of Guinea and the western coast of Africa. They exhibit a preference for the continental shelf edge and upper slope, though pelagic populations are also well-documented in the Gulf Stream.",
+      "zh": "它们是完全特产于大西洋的物种，分布范围横跨大约北纬50度至南纬25度之间的暖温带、亚热带和热带水域。在西大西洋，它们广泛分布于美国东南部沿海、墨西哥湾、加勒比海，向南延伸至巴西海岸。在东大西洋，其分布范围从亚速尔群岛和加那利群岛一直延伸到几内亚湾和非洲西海岸。它们表现出对大陆架边缘和上层陆坡的偏好，尽管在墨西哥湾流中也有充分记录的远洋种群。"
+    }
+  },
+  "habitat": {
+    "text_en": "Endemic to the Atlantic Ocean, inhabiting warm temperate, subtropical, and tropical waters, favoring continental shelves and the Gulf Stream.",
+    "text_zh": "特产于大西洋，栖息于暖温带、亚热带和热带水域，偏好大陆架边缘和墨西哥湾流。",
+    "map_coordinates": [
+      20,
+      -40
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          41.5,
+          -68
+        ],
+        [
+          39,
+          -72.5
+        ],
+        [
+          35.2,
+          -74.8
+        ],
+        [
+          31.5,
+          -79
+        ],
+        [
+          27.8,
+          -79.8
+        ],
+        [
+          25.1,
+          -81.5
+        ],
+        [
+          28.5,
+          -84
+        ],
+        [
+          29.2,
+          -88.5
+        ],
+        [
+          27,
+          -95
+        ],
+        [
+          22.5,
+          -97.2
+        ],
+        [
+          19.8,
+          -95.5
+        ],
+        [
+          21.5,
+          -89
+        ],
+        [
+          18.5,
+          -87.2
+        ],
+        [
+          15.2,
+          -82.5
+        ],
+        [
+          10.5,
+          -80.2
+        ],
+        [
+          11.8,
+          -74.5
+        ],
+        [
+          11.2,
+          -62.5
+        ],
+        [
+          8.5,
+          -58.2
+        ],
+        [
+          4.2,
+          -50.5
+        ],
+        [
+          -2.5,
+          -42.8
+        ],
+        [
+          -10.5,
+          -35.2
+        ],
+        [
+          -20.5,
+          -39.5
+        ],
+        [
+          -25.5,
+          -45.2
+        ],
+        [
+          -25,
+          -35
+        ],
+        [
+          -15,
+          -30
+        ],
+        [
+          0,
+          -35
+        ],
+        [
+          15,
+          -45
+        ],
+        [
+          25,
+          -55
+        ],
+        [
+          35,
+          -60
+        ],
+        [
+          41,
+          -65
+        ],
+        [
+          41.5,
+          -68
+        ]
+      ],
+      [
+        [
+          42,
+          -30
+        ],
+        [
+          38.5,
+          -24.5
+        ],
+        [
+          35.2,
+          -14.8
+        ],
+        [
+          30.5,
+          -11.5
+        ],
+        [
+          25.2,
+          -14.8
+        ],
+        [
+          20.5,
+          -17.2
+        ],
+        [
+          15,
+          -17.5
+        ],
+        [
+          10.2,
+          -15.2
+        ],
+        [
+          5.5,
+          -10.5
+        ],
+        [
+          4.2,
+          -5.2
+        ],
+        [
+          0.5,
+          8.5
+        ],
+        [
+          -5.2,
+          11.2
+        ],
+        [
+          -10.5,
+          13.5
+        ],
+        [
+          -15.2,
+          11.5
+        ],
+        [
+          -20.5,
+          10.2
+        ],
+        [
+          -25.5,
+          12.5
+        ],
+        [
+          -25,
+          0
+        ],
+        [
+          -15,
+          -5
+        ],
+        [
+          0,
+          -10
+        ],
+        [
+          10,
+          -25
+        ],
+        [
+          20,
+          -30
+        ],
+        [
+          30,
+          -35
+        ],
+        [
+          40,
+          -35
+        ],
+        [
+          42,
+          -30
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/atlantic-spotted-dolphin.jpg"
+}

@@ -1,0 +1,186 @@
+{
+  "id": "electric-eel",
+  "name_zh": "电鳗",
+  "name_en": "Electric eel",
+  "scientific_name": "Electrophorus electricus",
+  "ui_tags": [
+    "Actinopterygii",
+    "Freshwater",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "辐鳍鱼纲"
+    },
+    "order": {
+      "en": "Gymnotiformes",
+      "zh": "电鳗目"
+    },
+    "family": {
+      "en": "Gymnotidae",
+      "zh": "裸背电鳗科"
+    },
+    "genus": {
+      "en": "Electrophorus",
+      "zh": "电鳗属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The electric eel (Electrophorus electricus) is a legendary neotropical freshwater teleost, renowned not as a true eel, but as a knifefish possessing the most powerful bioelectrogenic capabilities in the animal kingdom. Capable of discharging up to 860 volts, it utilizes specialized electrocytes to navigate, communicate, and incapacitate prey in the murky, hypoxic waters of the Amazon and Orinoco basins.",
+    "zh": "电鳗（Electrophorus electricus）是新热带界淡水硬骨鱼中的传奇物种。它并非真正的鳗鱼，而属于裸背电鳗目，拥有动物界中最强大的生物发电能力。电鳗能够释放高达860伏特的电压，依靠特化的发电细胞在亚马逊和奥里诺科河流域浑浊缺氧的水域中进行导航、交流并击晕猎物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Morphologically, the electric eel exhibits an elongated, cylindrical, scaleless body that can exceed 2.5 meters in length. Its anatomy is dominated by three distinct pairs of abdominal electric organs—the Main organ, Hunter's organ, and Sach's organ—which comprise up to 80% of its body mass. These organs consist of thousands of stacked, modified muscle cells called electrocytes, functioning like biological batteries in series. Furthermore, it is an obligate air-breather, possessing a highly vascularized oral cavity that extracts oxygen directly from the atmosphere, an essential adaptation for surviving in stagnant, oxygen-depleted environments.",
+      "zh": "在形态学上，电鳗呈现出细长、圆柱形且无鳞的身体，体长可超过2.5米。其解剖结构的绝对核心是三对独特的腹部发电器官——主发电器（Main organ）、亨特氏发电器（Hunter's organ）和萨奇氏发电器（Sach's organ），这些器官占据了其高达80%的体重。这些器官由数以千计堆叠的特化肌肉细胞（电板细胞）组成，其运作原理宛如串联的生物电池。此外，电鳗是专性呼吸空气的鱼类，拥有高度血管化的口腔，能直接从大气中提取氧气，这是其在停滞、缺氧环境中生存的关键适应性特征。"
+    },
+    "ecology_and_behavior": {
+      "en": "As an apex nocturnal predator, E. electricus employs a sophisticated dual-voltage system. It emits continuous low-voltage pulses (10V) from Sach's organ for active electrolocation, detecting perturbations in the surrounding electric field caused by prey or obstacles. Upon locating a target, it unleashes a devastating high-voltage volley from the Main and Hunter's organs, inducing rapid muscle exhaustion and tetanus in fish, amphibians, or small mammals. During the dry season, males construct elaborate foam nests using their saliva to protect the developing embryos, demonstrating complex parental investment.",
+      "zh": "作为夜行性顶级掠食者，电鳗运用了一套极其复杂的双电压系统。它通过萨奇氏发电器持续发出低压脉冲（约10伏特）进行主动电定位，感知由猎物或障碍物引起的周围电场扰动。一旦锁定目标，它会从主发电器和亨特氏发电器释放毁灭性的高压齐射，导致鱼类、两栖动物或小型哺乳动物迅速肌肉耗竭并陷入强直性痉挛。在旱季，雄性电鳗会利用唾液筑起精致的泡沫巢穴来保护发育中的胚胎，展现出复杂的亲代投资行为。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the northern regions of South America, specifically the Guiana Shield and the broader Orinoco and Amazon river basins. It exhibits a strong preference for slow-moving, heavily shaded, and muddy bottomed habitats such as floodplains, swamps, coastal creeks, and terra firme streams. The extreme hypoxia of these waters excludes many competing predatory fish, allowing the air-breathing electric eel to dominate this ecological niche.",
+      "zh": "电鳗是南美洲北部地区的特有物种，主要分布于圭亚那地盾以及更广阔的奥里诺科河与亚马逊河流域。它极度偏好水流缓慢、荫蔽度高且底部泥泞的栖息地，如洪泛区、沼泽、沿海溪流和旱地河流。这些水域极端的缺氧条件排除了许多潜在的竞争性掠食鱼类，使得能够呼吸空气的电鳗得以长期主宰这一生态位。"
+    }
+  },
+  "habitat": {
+    "text_en": "Murky, slow-moving freshwaters, swamps, and creeks of the Amazon and Orinoco river basins in South America.",
+    "text_zh": "南美洲亚马逊河与奥里诺科河流域浑浊、水流缓慢的淡水水域、沼泽及溪流。",
+    "map_coordinates": [
+      3,
+      -60
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          8.6,
+          -60.3
+        ],
+        [
+          8.1,
+          -62.5
+        ],
+        [
+          7.8,
+          -64.2
+        ],
+        [
+          7.2,
+          -65.8
+        ],
+        [
+          6.1,
+          -67.4
+        ],
+        [
+          5.3,
+          -67.8
+        ],
+        [
+          4.1,
+          -68.2
+        ],
+        [
+          2.8,
+          -69.1
+        ],
+        [
+          1.5,
+          -69.5
+        ],
+        [
+          0.2,
+          -68.8
+        ],
+        [
+          -1.1,
+          -67.2
+        ],
+        [
+          -2.3,
+          -65.5
+        ],
+        [
+          -3.1,
+          -63.8
+        ],
+        [
+          -3.8,
+          -61.2
+        ],
+        [
+          -4.2,
+          -59.5
+        ],
+        [
+          -3.9,
+          -57.1
+        ],
+        [
+          -3.1,
+          -55.2
+        ],
+        [
+          -2.2,
+          -53.4
+        ],
+        [
+          -1,
+          -51.8
+        ],
+        [
+          0.5,
+          -50.5
+        ],
+        [
+          2.1,
+          -51.2
+        ],
+        [
+          3.5,
+          -51.9
+        ],
+        [
+          4.8,
+          -52.8
+        ],
+        [
+          5.7,
+          -54.1
+        ],
+        [
+          6.2,
+          -56.3
+        ],
+        [
+          7.1,
+          -58.2
+        ],
+        [
+          8.2,
+          -59.6
+        ],
+        [
+          8.6,
+          -60.3
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/electric-eel.jpg"
+}

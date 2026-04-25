@@ -1,0 +1,362 @@
+{
+  "id": "spot-fin-porcupinefish",
+  "name_zh": "密斑刺鲀",
+  "name_en": "Spot-fin porcupinefish",
+  "scientific_name": "Diodon hystrix",
+  "ui_tags": [
+    "Actinopterygii",
+    "Coral Reefs",
+    "Durophagous"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "辐鳍鱼纲"
+    },
+    "order": {
+      "en": "Tetraodontiformes",
+      "zh": "鲀形目"
+    },
+    "family": {
+      "en": "Diodontidae",
+      "zh": "刺鲀科"
+    },
+    "genus": {
+      "en": "Diodon",
+      "zh": "刺鲀属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "Diodon hystrix, commonly known as the spot-fin porcupinefish, is a circumtropical marine teleost belonging to the family Diodontidae. Renowned for its extraordinary morphological adaptations, this species possesses a highly specialized defense mechanism: the ability to rapidly inflate its highly elastic stomach with water or air, transforming into an unswallowable, spherical shape. Concurrently, elongated, modified scales lie flat against the body when relaxed but erect perpendicularly upon inflation, creating a formidable, spiky armor. The species is characterized by a pale grey to brownish dorsum fading to a white venter, densely peppered with small black spots that extend onto the fins, distinguishing it from closely related congeners. It possesses a robust, beak-like dental plate formed by fused teeth, perfectly adapted for crushing the hard exoskeletons of its durophagous diet.",
+    "zh": "密斑刺鲀（学名：Diodon hystrix）是一种广泛分布于全球热带及亚热带海域的硬骨鱼类，隶属于鲀形目刺鲀科。该物种以其非凡的形态适应性而闻名，拥有高度特化的防御机制：当面临捕食者威胁时，它能通过迅速吞咽海水或空气使极具弹性的胃部膨胀，瞬间化身为一个难以被吞咽的球体。与此同时，其体表由鳞片特化而成的长刺在平时紧贴体表，但在身体膨胀时会垂直竖起，形成一层坚不可摧的棘刺装甲。其体色通常背部呈浅灰色至棕色，腹部渐白，全身及各鳍上密布细小的黑色斑点（这也是其区别于同属其他物种的重要特征）。密斑刺鲀拥有由牙齿愈合而成的坚固鸟喙状齿板，完美适应了其以坚硬外壳底栖无脊椎动物为食的食壳性（durophagous）食性。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The osteological and integumentary anatomy of Diodon hystrix is highly derived. It lacks pelvic fins and a typical hydrodynamic fusiform shape, relying instead on the undulation of its broad pectoral, dorsal, and anal fins for locomotion (diodontiform swimming). The integument is embedded with long, sharp spines that are modified scales, each supported by a subdermal basal root. The jaw structure features a single fused tooth plate in both the upper and lower jaws, lacking a median suture, which provides immense crushing power. The stomach is highly plicated and lacks secretory glands in the expandable region, serving primarily as an inflation chamber.",
+      "zh": "密斑刺鲀的骨骼与珠被解剖结构高度特化。它缺乏腹鳍以及典型的流线型纺锤状体型，主要依靠宽大的胸鳍、背鳍和臀鳍的波动进行游动（刺鲀式游动）。其皮肤内嵌有由鳞片演化而来的长而锋利的棘刺，每根棘刺均由皮下的基底根部支撑。颌部结构特征为上下颌各有一块无中央骨缝的愈合齿板，能提供巨大的咬合与粉碎力。其胃部具有高度褶皱，且在可膨胀区域缺乏分泌腺，主要作为膨胀腔使用。"
+    },
+    "ecology_and_behavior": {
+      "en": "Primarily nocturnal and solitary, Diodon hystrix exhibits cryptic behavior during diurnal hours, often sheltering within the crevices of coral reefs, rocky outcroppings, or submerged caves. As dusk approaches, it emerges to forage in benthic zones, utilizing its powerful jaws to crush the tests of sea urchins, the shells of gastropods, and the carapaces of brachyuran crabs. It plays a crucial ecological role in regulating populations of bioeroding invertebrates on coral reefs. While adult mortality is low due to their formidable spiky defense and potential tetrodotoxin accumulation in internal organs, juveniles are pelagic and vulnerable to predation by large pelagic fishes.",
+      "zh": "密斑刺鲀主要为夜行性且独居，在白天表现出隐蔽行为，常躲藏在珊瑚礁缝隙、岩石突出物或水下洞穴中。随着黄昏降临，它会游出并在底栖带觅食，利用强有力的颌部粉碎海胆的壳体、腹足类动物的贝壳以及短尾下目螃蟹的甲壳。它在控制珊瑚礁上生物侵蚀性无脊椎动物种群方面发挥着至关重要的生态作用。尽管成体由于其强大的棘刺防御和内脏中潜在的河鲀毒素积累而死亡率较低，但幼体营远洋生活，容易受到大型远洋鱼类的捕食。"
+    },
+    "habitat_and_distribution": {
+      "en": "This species boasts a circumglobal distribution across tropical and subtropical oceans, including the Atlantic, Indian, and Pacific Oceans. It is predominantly associated with coral and rocky reef ecosystems, lagoons, and seaward reefs, typically inhabiting depths ranging from 2 to 50 meters. Pelagic juveniles are often found associating with floating Sargassum weed, which facilitates their widespread oceanic dispersal before they settle into benthic reef habitats as adults.",
+      "zh": "该物种在全球热带和亚热带海洋中呈环球分布，包括大西洋、印度洋和太平洋。它主要栖息于珊瑚礁和岩礁生态系统、潟湖以及向海礁坡，通常生活在2至50米的深度范围内。营远洋生活的幼鱼常被发现与漂浮的马尾藻群落共生，这有助于它们在成年定居底栖礁石生境之前进行广泛的海洋扩散。"
+    }
+  },
+  "habitat": {
+    "text_en": "Circumtropical marine environments, primarily coral reefs, rocky reefs, and lagoons at depths of 2 to 50 meters.",
+    "text_zh": "环球热带海洋环境，主要栖息于深度为2至50米的珊瑚礁、岩礁及潟湖中。",
+    "map_coordinates": [
+      0,
+      120
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          -15.5,
+          40.2
+        ],
+        [
+          -25.3,
+          35.1
+        ],
+        [
+          -32.8,
+          28.5
+        ],
+        [
+          -35.1,
+          45.6
+        ],
+        [
+          -30.2,
+          70.4
+        ],
+        [
+          -28.5,
+          100.2
+        ],
+        [
+          -34.6,
+          115.3
+        ],
+        [
+          -40.2,
+          145.8
+        ],
+        [
+          -35.5,
+          160.2
+        ],
+        [
+          -25.4,
+          -175.3
+        ],
+        [
+          -15.2,
+          -150.4
+        ],
+        [
+          -5.1,
+          -120.5
+        ],
+        [
+          15.3,
+          -105.2
+        ],
+        [
+          25.6,
+          -112.4
+        ],
+        [
+          30.2,
+          -115.8
+        ],
+        [
+          22.4,
+          -105.6
+        ],
+        [
+          10.5,
+          -85.4
+        ],
+        [
+          -5.2,
+          -81.2
+        ],
+        [
+          -20.4,
+          -75.6
+        ],
+        [
+          -30.5,
+          -71.8
+        ],
+        [
+          -35.2,
+          -85.4
+        ],
+        [
+          -30.1,
+          -120.5
+        ],
+        [
+          -20.4,
+          170.5
+        ],
+        [
+          10.2,
+          150.4
+        ],
+        [
+          30.5,
+          140.2
+        ],
+        [
+          35.6,
+          135.4
+        ],
+        [
+          25.4,
+          120.5
+        ],
+        [
+          15.2,
+          110.4
+        ],
+        [
+          5.1,
+          95.2
+        ],
+        [
+          10.4,
+          75.6
+        ],
+        [
+          15.5,
+          55.4
+        ],
+        [
+          5.2,
+          48.5
+        ],
+        [
+          -5.4,
+          42.1
+        ],
+        [
+          -15.5,
+          40.2
+        ]
+      ],
+      [
+        [
+          35.2,
+          -75.4
+        ],
+        [
+          30.5,
+          -80.2
+        ],
+        [
+          28.4,
+          -90.5
+        ],
+        [
+          22.1,
+          -95.6
+        ],
+        [
+          15.4,
+          -85.2
+        ],
+        [
+          10.2,
+          -80.4
+        ],
+        [
+          5.1,
+          -75.6
+        ],
+        [
+          0.5,
+          -50.2
+        ],
+        [
+          -10.4,
+          -35.6
+        ],
+        [
+          -20.5,
+          -40.2
+        ],
+        [
+          -30.2,
+          -48.5
+        ],
+        [
+          -25.4,
+          -35.2
+        ],
+        [
+          -15.2,
+          -30.4
+        ],
+        [
+          -5.1,
+          -40.5
+        ],
+        [
+          5.2,
+          -55.6
+        ],
+        [
+          15.4,
+          -65.2
+        ],
+        [
+          20.5,
+          -70.4
+        ],
+        [
+          25.6,
+          -75.2
+        ],
+        [
+          30.2,
+          -70.5
+        ],
+        [
+          35.2,
+          -75.4
+        ]
+      ],
+      [
+        [
+          15.2,
+          -17.5
+        ],
+        [
+          10.4,
+          -15.2
+        ],
+        [
+          5.1,
+          -10.4
+        ],
+        [
+          0.5,
+          -5.2
+        ],
+        [
+          -5.4,
+          10.5
+        ],
+        [
+          -10.2,
+          12.4
+        ],
+        [
+          -15.5,
+          10.2
+        ],
+        [
+          -20.4,
+          5.1
+        ],
+        [
+          -25.2,
+          0.5
+        ],
+        [
+          -20.5,
+          -5.4
+        ],
+        [
+          -15.2,
+          -10.2
+        ],
+        [
+          -10.4,
+          -15.5
+        ],
+        [
+          -5.1,
+          -20.4
+        ],
+        [
+          0.5,
+          -25.2
+        ],
+        [
+          5.4,
+          -22.4
+        ],
+        [
+          10.2,
+          -20.5
+        ],
+        [
+          15.2,
+          -17.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/spot-fin-porcupinefish.jpg"
+}

@@ -1,0 +1,262 @@
+{
+  "id": "european-anglerfish",
+  "name_zh": "欧洲鮟鱇",
+  "name_en": "European anglerfish",
+  "scientific_name": "Lophius piscatorius",
+  "ui_tags": [
+    "Ray-finned Fish",
+    "Benthic Marine",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "辐鳍鱼纲"
+    },
+    "order": {
+      "en": "Lophiiformes",
+      "zh": "鮟鱇目"
+    },
+    "family": {
+      "en": "Lophiidae",
+      "zh": "鮟鱇科"
+    },
+    "genus": {
+      "en": "Lophius",
+      "zh": "鮟鱇属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The European anglerfish (Lophius piscatorius), commonly known as the monkfish, is a highly specialized benthic ambush predator renowned for its extreme morphological adaptations to a demersal lifestyle. Characterized by a dorsoventrally flattened body and an exceptionally large, broad head that constitutes nearly half of its total length, this species utilizes a modified first dorsal fin spine (illicium) tipped with a fleshy, bioluminescence-lacking appendage (esca) to lure unsuspecting prey. Its cryptic coloration and fringed dermal flaps allow it to seamlessly blend into sandy and muddy substrates across the Eastern Atlantic and Mediterranean.",
+    "zh": "欧洲鮟鱇（学名：Lophius piscatorius），常被称为海怪鱼或和尚鱼，是一种高度特化的底栖伏击捕食者，以其对底层海洋生活的极端形态适应而闻名。该物种的特征是身体呈背腹扁平状，头部异常宽大，几乎占总体长的一半。它利用特化的第一背鳍棘（吻触手）及其末端缺乏生物发光特性的肉质附属物（拟饵）来引诱毫无防备的猎物。其隐蔽的体色和边缘的真皮皮瓣使其能够完美地融入东大西洋和地中海的沙质和泥质基底中。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Lophius piscatorius exhibits a grotesque yet evolutionarily masterful anatomy. The head is massive, broad, and depressed, featuring a cavernous, crescent-shaped mouth armed with multiple rows of long, sharp, inward-pointing, and depressible teeth designed to prevent prey escape. The skin is entirely scaleless, loose, and adorned with leaf-like dermal lappets along the lower jaw and lateral margins, effectively disrupting its silhouette against the seafloor. The dorsal fin is divided; the anterior portion consists of isolated spines on the head, the foremost being the illicium. The branchial apertures are restricted to small openings located just behind the pectoral fin bases.",
+      "zh": "欧洲鮟鱇展现出一种怪异却在进化上堪称杰作的解剖结构。其头部巨大、宽阔且扁平，拥有一张新月形的深邃大口，口中长有多排长而锋利、向内倾斜且可倒伏的牙齿，专为防止猎物逃脱而设计。其皮肤完全无鳞、松弛，并在下颌和体侧边缘点缀着叶状的真皮皮瓣（皮须），有效地破坏了它在海底的轮廓。背鳍分为两部分；前部由头部孤立的鳍棘组成，最前端的即为吻触手（illicium）。鳃孔退化为位于胸鳍基部后方的狭小开口。"
+    },
+    "ecology_and_behavior": {
+      "en": "As a quintessential ambush predator, the European anglerfish spends the majority of its time partially buried in sediment, remaining entirely motionless. It employs aggressive mimicry, twitching its esca to simulate the erratic movements of a small distressed organism. When a target approaches, the anglerfish rapidly expands its buccal cavity, creating a powerful localized vacuum that engulfs the prey in milliseconds. Its highly distensible stomach allows it to consume prey nearly as large as itself, including gadoids, flatfishes, cephalopods, and occasionally diving seabirds. They are solitary and exhibit a unique reproductive strategy involving the release of massive, buoyant, gelatinous egg ribbons that can reach up to 10 meters in length.",
+      "zh": "作为典型的伏击捕食者，欧洲鮟鱇将大部分时间半埋在沉积物中，保持完全静止。它采用攻击性拟态，抽动拟饵以模拟受惊小生物的无规律运动。当目标靠近时，鮟鱇鱼会迅速扩张其口腔，产生强大的局部真空，在毫秒内将猎物吞噬。其高度可扩张的胃使其能够吞食几乎与自身一样大的猎物，包括鳕鱼、比目鱼、头足类动物，甚至偶尔捕食潜水的海鸟。它们是独居动物，并展现出独特的繁殖策略，会释放出巨大、具有浮力的胶状卵带，长度可达10米。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the Eastern Atlantic Ocean, its range extends from the Barents Sea, Iceland, and the Norwegian coast southward to the Strait of Gibraltar, encompassing the entire Mediterranean Sea and the Black Sea. It is a demersal species inhabiting a wide bathymetric range, typically found on sandy, muddy, or gravelly substrates from shallow coastal waters down to depths exceeding 1,000 meters along the continental shelf and upper slope.",
+      "zh": "欧洲鮟鱇特产于东大西洋，其分布范围从巴伦支海、冰岛和挪威海岸向南延伸至直布罗陀海峡，涵盖整个地中海和黑海。它是一种底栖物种，栖息的深度范围极广，通常出现在从浅海沿岸到大陆架及上层大陆坡深度超过1000米的沙质、泥质或砾石基底上。"
+    }
+  },
+  "habitat": {
+    "text_en": "Eastern Atlantic Ocean, Mediterranean Sea, and Black Sea on continental shelves and slopes.",
+    "text_zh": "东大西洋、地中海及黑海的大陆架和大陆坡。",
+    "map_coordinates": [
+      50,
+      -10
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          72.5,
+          25
+        ],
+        [
+          70,
+          15
+        ],
+        [
+          65,
+          5
+        ],
+        [
+          60,
+          -5
+        ],
+        [
+          64,
+          -10
+        ],
+        [
+          66,
+          -15
+        ],
+        [
+          66.5,
+          -22
+        ],
+        [
+          63.5,
+          -25
+        ],
+        [
+          62,
+          -15
+        ],
+        [
+          58,
+          -12
+        ],
+        [
+          52,
+          -15
+        ],
+        [
+          48,
+          -12
+        ],
+        [
+          43,
+          -11
+        ],
+        [
+          36,
+          -9
+        ],
+        [
+          35,
+          -6
+        ],
+        [
+          36,
+          -2
+        ],
+        [
+          38,
+          4
+        ],
+        [
+          42,
+          8
+        ],
+        [
+          40,
+          14
+        ],
+        [
+          38,
+          18
+        ],
+        [
+          34,
+          20
+        ],
+        [
+          32,
+          28
+        ],
+        [
+          34,
+          34
+        ],
+        [
+          36,
+          36
+        ],
+        [
+          39,
+          26
+        ],
+        [
+          40,
+          26
+        ],
+        [
+          41,
+          29
+        ],
+        [
+          42,
+          38
+        ],
+        [
+          44,
+          40
+        ],
+        [
+          46,
+          32
+        ],
+        [
+          41,
+          28
+        ],
+        [
+          40,
+          24
+        ],
+        [
+          41,
+          18
+        ],
+        [
+          45,
+          13
+        ],
+        [
+          43,
+          4
+        ],
+        [
+          38,
+          -1
+        ],
+        [
+          36.5,
+          -5
+        ],
+        [
+          37,
+          -8
+        ],
+        [
+          44,
+          -8
+        ],
+        [
+          47,
+          -4
+        ],
+        [
+          50,
+          -5
+        ],
+        [
+          54,
+          -2
+        ],
+        [
+          58,
+          2
+        ],
+        [
+          62,
+          6
+        ],
+        [
+          68,
+          14
+        ],
+        [
+          71,
+          26
+        ],
+        [
+          72.5,
+          25
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/european-anglerfish.jpg"
+}

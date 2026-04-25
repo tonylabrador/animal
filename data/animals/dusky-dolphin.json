@@ -1,0 +1,298 @@
+{
+  "id": "dusky-dolphin",
+  "name_zh": "暗色斑纹海豚",
+  "name_en": "Dusky dolphin",
+  "scientific_name": "Lagenorhynchus obscurus",
+  "ui_tags": [
+    "Mammalia",
+    "Marine",
+    "Piscivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Cetartiodactyla",
+      "zh": "鲸偶蹄目"
+    },
+    "family": {
+      "en": "Delphinidae",
+      "zh": "海豚科"
+    },
+    "genus": {
+      "en": "Lagenorhynchus",
+      "zh": "斑纹海豚属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The dusky dolphin (Lagenorhynchus obscurus) is a highly gregarious and acrobatic cetacean endemic to the cool temperate and subantarctic waters of the Southern Hemisphere. Renowned for its spectacular aerial displays, this species exhibits a striking countershaded pelage characterized by a dark dorsal cape, a pale grey thoracic patch, and distinctive bifurcated white blazes along its flanks. Ecologically, it serves as a crucial apex and meso-predator, orchestrating complex, cooperative foraging strategies to corral schooling fish and cephalopods.",
+    "zh": "暗色斑纹海豚（Lagenorhynchus obscurus）是一种高度群居且极具杂技天赋的鲸类，特产于南半球的凉温带及亚南极海域。该物种以其壮观的空中跃水动作而闻名，体表呈现出引人注目的反荫蔽体色特征：深色的背部披风、浅灰色的胸部斑块，以及侧腹部独特的双叉状白色条纹。在生态学上，它作为关键的顶级及中级捕食者，通过精心策划的复杂合作觅食策略来围捕集群鱼类和头足类动物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Measuring between 1.6 to 2.1 meters in length and weighing up to 100 kg, the dusky dolphin possesses a robust, fusiform body with a short, dark beak that blends smoothly into a sloping melon. The dorsal fin is falcate and distinctively two-toned—dark on the leading edge and pale grey on the trailing edge. Its intricate pigmentation pattern includes a dark grey to black dorsal surface, a white ventral surface, and complex lateral flank patches that aid in intraspecific communication and predator confusion during high-speed maneuvers.",
+      "zh": "暗色斑纹海豚体长在1.6至2.1米之间，体重可达100公斤，拥有粗壮的纺锤形躯体。其短而深色的吻部与倾斜的额隆平滑过渡。背鳍呈镰刀状，具有鲜明的双色特征——前缘深色，后缘浅灰。其复杂的色素沉着模式包括深灰至黑色的背部、白色的腹部，以及复杂的侧腹斑块，这些斑块在高速机动时有助于种内交流并迷惑捕食者。"
+    },
+    "ecology_and_behavior": {
+      "en": "Exhibiting remarkable fission-fusion social dynamics, dusky dolphins form pods ranging from a few individuals to mega-pods of over a thousand during periods of high prey abundance. They are celebrated for their aerial acrobatics, including somersaults, tail-slaps, and high-speed porpoising, which function in social bonding and prey herding. Their diet primarily consists of schooling teleosts like anchovies, as well as mesopelagic lanternfish and squid, which they hunt using highly coordinated, synchronized diving and corralling techniques.",
+      "zh": "暗色斑纹海豚展现出非凡的分裂-融合社会动态，其群体规模从几只个体到猎物丰富期超过千只的超级大群不等。它们以空中杂技而闻名，包括空翻、拍尾和高速海豚跃，这些动作在社会联系和驱赶猎物中发挥作用。它们的饮食主要包括鳀鱼等集群硬骨鱼类，以及中层水域的灯笼鱼和鱿鱼，它们通过高度协调、同步的潜水和围捕技术进行狩猎。"
+    },
+    "habitat_and_distribution": {
+      "en": "This species exhibits a circumglobal but discontinuous distribution in the Southern Hemisphere, primarily associated with continental shelves and boundary currents. Major populations are concentrated along the coasts of South America (the Humboldt and Patagonian currents), southwestern Africa (the Benguela current), and New Zealand. They typically inhabit waters with sea surface temperatures between 10°C and 18°C, migrating diurnally between shallow coastal waters for resting and deeper offshore canyons for foraging.",
+      "zh": "该物种在南半球呈现出环球但间断的分布，主要与大陆架和边界洋流相关。主要种群集中在南美洲海岸（秘鲁寒流和巴塔哥尼亚洋流）、非洲西南部（本格拉寒流）以及新西兰。它们通常栖息在海表面温度介于10°C至18°C之间的水域，在用于休息的浅海沿岸水域和用于觅食的深海近海峡谷之间进行昼夜垂直迁徙。"
+    }
+  },
+  "habitat": {
+    "text_en": "Cool temperate and subantarctic coastal and pelagic waters of the Southern Hemisphere, notably around South America, southwestern Africa, and New Zealand.",
+    "text_zh": "南半球的凉温带及亚南极沿海和远洋水域，主要分布在南美洲、非洲西南部和新西兰周边。",
+    "map_coordinates": [
+      -42.4,
+      173.7
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -8,
+          -80
+        ],
+        [
+          -12,
+          -78
+        ],
+        [
+          -18,
+          -72
+        ],
+        [
+          -25,
+          -71.5
+        ],
+        [
+          -35,
+          -73
+        ],
+        [
+          -45,
+          -75
+        ],
+        [
+          -55,
+          -72
+        ],
+        [
+          -56,
+          -67
+        ],
+        [
+          -54,
+          -64
+        ],
+        [
+          -50,
+          -67
+        ],
+        [
+          -45,
+          -64
+        ],
+        [
+          -40,
+          -61
+        ],
+        [
+          -35,
+          -56
+        ],
+        [
+          -38,
+          -53
+        ],
+        [
+          -48,
+          -58
+        ],
+        [
+          -58,
+          -60
+        ],
+        [
+          -60,
+          -70
+        ],
+        [
+          -50,
+          -80
+        ],
+        [
+          -30,
+          -78
+        ],
+        [
+          -15,
+          -82
+        ],
+        [
+          -8,
+          -80
+        ]
+      ],
+      [
+        [
+          -18,
+          11
+        ],
+        [
+          -22,
+          13
+        ],
+        [
+          -28,
+          15
+        ],
+        [
+          -32,
+          17
+        ],
+        [
+          -35,
+          19
+        ],
+        [
+          -35.5,
+          22
+        ],
+        [
+          -34,
+          26
+        ],
+        [
+          -36,
+          27
+        ],
+        [
+          -38,
+          23
+        ],
+        [
+          -38,
+          18
+        ],
+        [
+          -35,
+          14
+        ],
+        [
+          -30,
+          12
+        ],
+        [
+          -25,
+          10
+        ],
+        [
+          -20,
+          9
+        ],
+        [
+          -18,
+          11
+        ]
+      ],
+      [
+        [
+          -35.5,
+          174.5
+        ],
+        [
+          -37.2,
+          176.8
+        ],
+        [
+          -38.5,
+          178.3
+        ],
+        [
+          -40.1,
+          177
+        ],
+        [
+          -41.5,
+          175.5
+        ],
+        [
+          -42.8,
+          174.2
+        ],
+        [
+          -44,
+          172.5
+        ],
+        [
+          -45.5,
+          171
+        ],
+        [
+          -47,
+          168.5
+        ],
+        [
+          -48.2,
+          166.5
+        ],
+        [
+          -46.5,
+          165.8
+        ],
+        [
+          -44.8,
+          167.2
+        ],
+        [
+          -43.5,
+          169
+        ],
+        [
+          -41.8,
+          171.2
+        ],
+        [
+          -40.5,
+          172.8
+        ],
+        [
+          -39.2,
+          174
+        ],
+        [
+          -37.8,
+          174.5
+        ],
+        [
+          -36.5,
+          173.8
+        ],
+        [
+          -35.5,
+          174.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/dusky-dolphin.jpg"
+}

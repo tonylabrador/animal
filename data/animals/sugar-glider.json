@@ -1,0 +1,334 @@
+{
+  "id": "sugar-glider",
+  "name_zh": "蜜袋鼯",
+  "name_en": "Sugar glider",
+  "scientific_name": "Petaurus breviceps",
+  "ui_tags": [
+    "Mammal",
+    "Arboreal",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Diprotodontia",
+      "zh": "双门齿目"
+    },
+    "family": {
+      "en": "Petauridae",
+      "zh": "鼯袋鼠科"
+    },
+    "genus": {
+      "en": "Petaurus",
+      "zh": "袋鼯属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The sugar glider (Petaurus breviceps) is a diminutive, arboreal, nocturnal gliding possum endemic to the diverse forest ecosystems of mainland Australia, New Guinea, and certain Indonesian islands. Characterized by a striking pelage—typically pearl grey with a prominent black dorsal stripe—and a specialized gliding membrane known as the patagium, this marsupial is an evolutionary marvel of aerial locomotion. The patagium extends from the fifth finger of the forelimb to the first toe of the hindlimb, enabling controlled glides of up to 50 meters. As a highly social obligate sap-feeder and insectivore, it plays a crucial ecological role in pollination and insect population regulation within its native eucalyptus woodlands.",
+    "zh": "蜜袋鼯（Petaurus breviceps）是一种体型娇小、树栖且夜行的滑翔有袋类动物，特产于澳大利亚大陆、新几内亚及部分印尼岛屿的多样化森林生态系统中。这种有袋动物以其引人注目的毛皮（通常为珍珠灰，背部有一条明显的黑色条纹）和被称为“飞膜”（patagium）的特化滑翔膜而闻名，是空中运动的进化奇迹。飞膜从前肢的第五指延伸至后肢的第一趾，使其能够进行长达50米的受控滑翔。作为一种高度群居的专性树液食者和食虫动物，它在其原生的桉树林中扮演着授粉和调节昆虫种群的关键生态角色。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Morphologically, the sugar glider exhibits profound adaptations for its arboreal and gliding lifestyle. Adults typically weigh between 115 and 140 grams, with a body length of 12 to 15 cm and a prehensile tail of equal or greater length that acts as a rudder during flight. The patagium is a thin, furred membrane that deploys aerodynamically when the limbs are outstretched. They possess large, protuberant, forward-facing eyes adapted for scotopic (low-light) vision, facilitating precise depth perception necessary for landing. Furthermore, they exhibit syndactyly in the second and third digits of the hind feet, forming a specialized grooming comb. Males possess prominent frontal and sternal scent glands used for territorial marking and establishing social hierarchies, while females feature a well-developed, anteriorly opening marsupium containing four teats.",
+      "zh": "在形态学上，蜜袋鼯展现出对其树栖和滑翔生活方式的深刻适应。成年个体体重通常在115至140克之间，体长12至15厘米，拥有一条等长或更长的具缠绕性的尾巴，在飞行中起方向舵的作用。飞膜是一层长满毛的薄膜，当四肢伸展时能符合空气动力学地展开。它们拥有巨大、突出且向前的眼睛，适应于暗视（低光）视觉，有助于实现着陆所需的精确深度感知。此外，它们后足的第二和第三趾呈现并趾现象，形成了一个专门的梳理梳。雄性拥有突出的额腺和胸腺，用于领地标记和建立社会等级，而雌性则具有一个发育良好、向前开口的育儿袋，内含四个乳头。"
+    },
+    "ecology_and_behavior": {
+      "en": "Sugar gliders are highly gregarious, forming complex, matriarchal or co-dominant colonies of up to seven adults and their current offspring, sharing a communal spherical nest constructed of interwoven eucalyptus leaves. They communicate via a sophisticated repertoire of vocalizations, including barks, hisses, and a distinctive 'crabbing' sound when agitated. Their omnivorous diet is highly seasonal; during spring and summer, they are predominantly insectivorous, preying on moths, beetles, and spiders. In winter, when arthropod prey is scarce, they transition to an exudativorous diet, utilizing specialized procumbent lower incisors to gouge the bark of Eucalyptus and Acacia trees to extract sap, gum, and kino. To survive periods of extreme cold or food scarcity, they can enter daily torpor, significantly reducing their metabolic rate and body temperature.",
+      "zh": "蜜袋鼯具有高度的群居性，形成复杂、母系或共显性的群体，最多可包含七只成年个体及其当前的后代，共同居住在由交织的桉树叶构成的球形公共巢穴中。它们通过复杂的发声系统进行交流，包括吠叫、嘶嘶声以及在烦躁时发出的独特的“嘎嘎”声。它们的杂食性饮食具有高度的季节性；在春夏两季，它们主要以昆虫为食，捕食飞蛾、甲虫和蜘蛛。在冬季，当节肢动物猎物稀少时，它们会转变为食树液性饮食，利用特化的前倾下门齿凿开桉树和金合欢树的树皮，以提取树液、树胶和树脂。为了在极度寒冷或食物短缺的时期生存，它们可以进入每日的蛰伏状态，显著降低其代谢率和体温。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species demonstrates remarkable ecological plasticity, occupying a broad spectrum of habitats ranging from the dense, wet sclerophyll forests and rainforest margins of coastal regions to the dry, open eucalyptus woodlands of the interior. Their primary habitat requirement is a sufficient density of mature, hollow-bearing trees for nesting and a diverse understory of Acacia and Banksia species to ensure a continuous supply of exudates and nectar. Geographically, their distribution encompasses the northern and eastern seaboards of Australia—from the Kimberley region in Western Australia, across the Top End, and down the eastern coast to Tasmania (where they were introduced)—as well as the entirety of the island of New Guinea and the Bismarck Archipelago.",
+      "zh": "该物种表现出显著的生态可塑性，占据了广泛的栖息地类型，从沿海地区茂密潮湿的硬叶林和雨林边缘，到内陆干燥开阔的桉树林。它们主要的栖息地需求是具有足够密度的成熟且带有树洞的树木以供筑巢，以及多样化的金合欢和班克木属植物下层植被，以确保树液和花蜜的持续供应。在地理分布上，它们的范围涵盖了澳大利亚的北部和东部海岸线——从西澳大利亚的金伯利地区，横跨顶端地带，沿着东海岸一直延伸到塔斯马尼亚（作为引入种）——以及整个新几内亚岛和俾斯麦群岛。"
+    }
+  },
+  "habitat": {
+    "text_en": "Endemic to the eastern and northern coasts of mainland Australia, Tasmania, New Guinea, and several adjacent islands, thriving in eucalyptus and acacia woodlands.",
+    "text_zh": "特产于澳大利亚大陆的东部和北部海岸、塔斯马尼亚、新几内亚及几个邻近岛屿，在桉树和金合欢林地中繁衍生息。",
+    "map_coordinates": [
+      -15,
+      140
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -10.7,
+          142.5
+        ],
+        [
+          -15,
+          145.2
+        ],
+        [
+          -19,
+          146.5
+        ],
+        [
+          -23,
+          150.8
+        ],
+        [
+          -28,
+          153.5
+        ],
+        [
+          -34,
+          151
+        ],
+        [
+          -37.5,
+          149.8
+        ],
+        [
+          -38,
+          145
+        ],
+        [
+          -37.8,
+          141
+        ],
+        [
+          -35,
+          138.5
+        ],
+        [
+          -32,
+          141
+        ],
+        [
+          -28,
+          145
+        ],
+        [
+          -23,
+          144
+        ],
+        [
+          -19,
+          141
+        ],
+        [
+          -17.5,
+          139
+        ],
+        [
+          -15.5,
+          136.5
+        ],
+        [
+          -12,
+          136.8
+        ],
+        [
+          -11.5,
+          132
+        ],
+        [
+          -13,
+          130
+        ],
+        [
+          -15,
+          129
+        ],
+        [
+          -14,
+          126
+        ],
+        [
+          -16.5,
+          123.5
+        ],
+        [
+          -18,
+          122
+        ],
+        [
+          -18.5,
+          126
+        ],
+        [
+          -16.5,
+          130
+        ],
+        [
+          -17,
+          134
+        ],
+        [
+          -19,
+          138
+        ],
+        [
+          -18,
+          141
+        ],
+        [
+          -14,
+          143
+        ],
+        [
+          -10.7,
+          142.5
+        ]
+      ],
+      [
+        [
+          -0.8,
+          131
+        ],
+        [
+          -0.5,
+          132.5
+        ],
+        [
+          -1.5,
+          134
+        ],
+        [
+          -2.5,
+          134.5
+        ],
+        [
+          -2,
+          137
+        ],
+        [
+          -2.5,
+          140
+        ],
+        [
+          -3.5,
+          143
+        ],
+        [
+          -4.5,
+          145.5
+        ],
+        [
+          -5.5,
+          146.5
+        ],
+        [
+          -6,
+          147.5
+        ],
+        [
+          -6.5,
+          148
+        ],
+        [
+          -8.5,
+          148.5
+        ],
+        [
+          -10,
+          149.5
+        ],
+        [
+          -10.5,
+          150.5
+        ],
+        [
+          -10.8,
+          150
+        ],
+        [
+          -10,
+          148
+        ],
+        [
+          -8.5,
+          146
+        ],
+        [
+          -8,
+          143
+        ],
+        [
+          -8.5,
+          141
+        ],
+        [
+          -7.5,
+          139
+        ],
+        [
+          -6,
+          138
+        ],
+        [
+          -5,
+          136
+        ],
+        [
+          -4,
+          134
+        ],
+        [
+          -3.5,
+          132.5
+        ],
+        [
+          -3,
+          132
+        ],
+        [
+          -0.8,
+          131
+        ]
+      ],
+      [
+        [
+          -40.8,
+          145
+        ],
+        [
+          -40.8,
+          148
+        ],
+        [
+          -42,
+          148.2
+        ],
+        [
+          -43,
+          147.8
+        ],
+        [
+          -43.5,
+          146.5
+        ],
+        [
+          -43,
+          145.5
+        ],
+        [
+          -42,
+          145
+        ],
+        [
+          -40.8,
+          145
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/sugar-glider.jpg"
+}

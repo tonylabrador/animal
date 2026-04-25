@@ -1,0 +1,326 @@
+{
+  "id": "false-killer-whale",
+  "name_zh": "伪虎鲸",
+  "name_en": "False killer whale",
+  "scientific_name": "Pseudorca crassidens",
+  "ui_tags": [
+    "Mammalia",
+    "Pelagic",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Cetartiodactyla",
+      "zh": "鲸偶蹄目"
+    },
+    "family": {
+      "en": "Delphinidae",
+      "zh": "海豚科"
+    },
+    "genus": {
+      "en": "Pseudorca",
+      "zh": "伪虎鲸属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
+  },
+  "description": {
+    "en": "The false killer whale is a large, highly social oceanic dolphin characterized by its slender, elongated body, entirely black or dark gray coloration, and a distinctively tapered head lacking a prominent beak. Known for their complex social structures, they form strong, long-lasting bonds and frequently engage in mass strandings, a tragic testament to their cohesive pod dynamics. As apex predators, they exhibit remarkable cooperative hunting strategies, preying primarily on large pelagic fish and cephalopods, and are notorious for depredating longline fisheries.",
+    "zh": "伪虎鲸是一种体型庞大且高度社会化的远洋海豚，其特征是修长流线型的身躯、通体纯黑或深灰色的体色，以及缺乏明显吻突的锥形头部。它们以极其复杂的社会结构而闻名，群体成员之间会建立深厚且持久的纽带，这种紧密的群体动力学也导致了它们频繁发生令人惋惜的集体搁浅事件。作为海洋食物链顶端的掠食者，伪虎鲸展现出非凡的协同狩猎策略，主要捕食大型远洋鱼类和头足类动物，并因经常掠夺延绳钓渔业的渔获物而备受关注。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Males can reach lengths of up to 6 meters and weigh over 2,000 kilograms, while females are slightly smaller. The species possesses a characteristic 'S'-shaped flipper, a tall, falcate dorsal fin located near the midpoint of the back, and a rounded melon that overhangs the lower jaw. Their dentition consists of 8 to 11 pairs of large, conical teeth in both the upper and lower jaws, adapted for grasping large, struggling prey. The skull is robust, with a short, broad rostrum and significant cranial asymmetry associated with their advanced echolocation capabilities.",
+      "zh": "雄性伪虎鲸体长可达6米，体重超过2000公斤，雌性体型略小。该物种拥有标志性的“S”形胸鳍，背部中央附近长有高耸的镰刀状背鳍，以及一个突出于下颌的圆形额隆。它们的上下颌各生有8至11对巨大且呈圆锥形的牙齿，非常适合紧咬巨大且剧烈挣扎的猎物。其头骨粗壮，吻部短而宽，并具有与高级回声定位能力相关的显著颅骨不对称性。"
+    },
+    "ecology_and_behavior": {
+      "en": "Highly gregarious, Pseudorca crassidens typically travels in pods of 10 to 60 individuals, though super-pods of hundreds have been documented. They are highly vocal, utilizing a diverse repertoire of clicks, whistles, and pulsed calls for both echolocation and intricate intra-pod communication. They frequently share food among pod members, a rare trait among cetaceans. Their ecological role as apex predators regulates populations of mahi-mahi, tunas, and large squids. They are also known to interact, sometimes aggressively, with other cetacean species, occasionally preying on smaller dolphins.",
+      "zh": "伪虎鲸具有高度的群居性，通常以10到60只的群体活动，但也曾记录到数百只组成的超级群体。它们发声频繁，利用各种咔嗒声、哨声和脉冲声进行回声定位和复杂的群体内部交流。它们经常在群体成员之间分享食物，这在鲸类中是极为罕见的特征。作为顶级掠食者，它们的生态作用是调节鲯鳅、金枪鱼和大型鱿鱼的种群数量。它们还已知会与其他鲸类物种发生互动（有时是攻击性的），偶尔会捕食体型较小的海豚。"
+    },
+    "habitat_and_distribution": {
+      "en": "This species is globally distributed across all tropical, subtropical, and warm temperate oceans, generally preferring deep, offshore waters, though they occasionally approach coastal areas near oceanic islands or steep continental shelves. They are highly nomadic, with movements largely dictated by the availability of their pelagic prey rather than seasonal migrations. Their expansive range includes the Pacific, Atlantic, and Indian Oceans, spanning from latitudes 50°N to 50°S.",
+      "zh": "该物种广泛分布于全球所有热带、亚热带和暖温带海洋中，通常偏好深海和远洋水域，尽管它们偶尔也会靠近大洋岛屿或陡峭大陆架的沿海地区。它们具有高度的游牧性，其移动路线主要取决于远洋猎物的丰富程度，而非季节性迁徙。其广阔的分布范围涵盖太平洋、大西洋和印度洋，跨越北纬50度至南纬50度之间的海域。"
+    }
+  },
+  "habitat": {
+    "text_en": "Global tropical to warm temperate oceans, primarily deep offshore waters.",
+    "text_zh": "全球热带至暖温带海洋，主要栖息于深海远洋水域。",
+    "map_coordinates": [
+      0,
+      160
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          40.5,
+          142.1
+        ],
+        [
+          45.2,
+          155.3
+        ],
+        [
+          46.8,
+          170.5
+        ],
+        [
+          45.1,
+          -150.2
+        ],
+        [
+          40.3,
+          -125.4
+        ],
+        [
+          32.1,
+          -118.5
+        ],
+        [
+          20.4,
+          -106.2
+        ],
+        [
+          5.1,
+          -88.3
+        ],
+        [
+          -10.5,
+          -79.1
+        ],
+        [
+          -25.4,
+          -72.8
+        ],
+        [
+          -40.2,
+          -75.4
+        ],
+        [
+          -48.5,
+          -85.2
+        ],
+        [
+          -49.1,
+          -110.5
+        ],
+        [
+          -48.2,
+          -140.6
+        ],
+        [
+          -45.5,
+          175.2
+        ],
+        [
+          -38.1,
+          165.4
+        ],
+        [
+          -25.2,
+          155.1
+        ],
+        [
+          -10.3,
+          148.2
+        ],
+        [
+          0.5,
+          135.4
+        ],
+        [
+          12.2,
+          126.5
+        ],
+        [
+          22.4,
+          122.1
+        ],
+        [
+          30.5,
+          130.2
+        ],
+        [
+          35.6,
+          138.4
+        ],
+        [
+          40.5,
+          142.1
+        ]
+      ],
+      [
+        [
+          45.2,
+          -55.1
+        ],
+        [
+          40.5,
+          -40.2
+        ],
+        [
+          42.1,
+          -20.5
+        ],
+        [
+          35.4,
+          -10.2
+        ],
+        [
+          20.5,
+          -18.4
+        ],
+        [
+          5.2,
+          -10.1
+        ],
+        [
+          -10.4,
+          5.2
+        ],
+        [
+          -25.5,
+          12.4
+        ],
+        [
+          -40.2,
+          18.5
+        ],
+        [
+          -48.5,
+          10.2
+        ],
+        [
+          -49.2,
+          -15.5
+        ],
+        [
+          -45.1,
+          -40.2
+        ],
+        [
+          -35.4,
+          -50.5
+        ],
+        [
+          -20.2,
+          -38.4
+        ],
+        [
+          -5.1,
+          -32.1
+        ],
+        [
+          10.5,
+          -55.2
+        ],
+        [
+          20.4,
+          -65.3
+        ],
+        [
+          30.2,
+          -75.4
+        ],
+        [
+          38.5,
+          -70.2
+        ],
+        [
+          45.2,
+          -55.1
+        ]
+      ],
+      [
+        [
+          20.5,
+          60.2
+        ],
+        [
+          15.4,
+          70.5
+        ],
+        [
+          10.2,
+          85.4
+        ],
+        [
+          5.1,
+          95.2
+        ],
+        [
+          -5.5,
+          105.4
+        ],
+        [
+          -15.2,
+          112.5
+        ],
+        [
+          -25.4,
+          110.2
+        ],
+        [
+          -35.5,
+          115.4
+        ],
+        [
+          -45.2,
+          110.5
+        ],
+        [
+          -48.5,
+          90.2
+        ],
+        [
+          -49.1,
+          70.5
+        ],
+        [
+          -45.2,
+          50.4
+        ],
+        [
+          -35.5,
+          35.2
+        ],
+        [
+          -25.4,
+          38.5
+        ],
+        [
+          -10.2,
+          45.4
+        ],
+        [
+          0.5,
+          50.2
+        ],
+        [
+          10.4,
+          55.5
+        ],
+        [
+          20.5,
+          60.2
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/false-killer-whale.jpg"
+}

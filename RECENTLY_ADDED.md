@@ -4,23 +4,23 @@
 
 | # | 中文名 | English Name | Scientific Name | Link |
 |---|--------|-------------|-----------------|------|
-| 1 | 毛冠鹿 | Tufted deer | Elaphodus cephalophus | [Link](https://wild-explorer.vercel.app/animal/tufted-deer) |
-| 2 | 巴塔哥尼亚豚鼠 | Patagonian mara | Dolichotis patagonum | [Link](https://wild-explorer.vercel.app/animal/patagonian-mara) |
-| 3 | 东部菱背响尾蛇 | Eastern Diamondback Rattlesnake | Crotalus adamanteus | [Link](https://wild-explorer.vercel.app/animal/eastern-diamondback-rattlesnake) |
-| 4 | 斑猫 | Wildcat | Felis silvestris | [Link](https://wild-explorer.vercel.app/animal/felis-silvestris) |
-| 5 | 簇绒海鹦 | Tufted puffin | Fratercula cirrhata | [Link](https://wild-explorer.vercel.app/animal/tufted-puffin) |
-| 6 | 银鸥 | European herring gull | Larus argentatus | [Link](https://wild-explorer.vercel.app/animal/european-herring-gull) |
-| 7 | 乌林鸮 | Great Gray Owl | Strix nebulosa | [Link](https://wild-explorer.vercel.app/animal/great-gray-owl) |
-| 8 | 卷羽鹈鹕 | Dalmatian pelican | Pelecanus crispus | [Link](https://wild-explorer.vercel.app/animal/dalmatian-pelican) |
-| 9 | 绿孔雀 | Green peafowl | Pavo muticus | [Link](https://wild-explorer.vercel.app/animal/green-peafowl) |
-| 10 | 非洲秃鹳 | Marabou stork | Leptoptilos crumenifer | [Link](https://wild-explorer.vercel.app/animal/marabou-stork) |
-| 11 | 丹顶鹤 | Red-crowned crane | Grus japonensis | [Link](https://wild-explorer.vercel.app/animal/red-crowned-crane) |
-| 12 | 南非丛猴 | Mohol Bushbaby | Galago moholi | [Link](https://wild-explorer.vercel.app/animal/mohol-bushbaby) |
-| 13 | 长鼻猴 | Proboscis monkey | Nasalis larvatus | [Link](https://wild-explorer.vercel.app/animal/proboscis-monkey) |
-| 14 | 艾氏琴鸟 | Albert's Lyrebird | Menura alberti | [Link](https://wild-explorer.vercel.app/animal/alberts-lyrebird) |
-| 15 | 黑岛长足海蛞蝓 | Leaf sheep | Costasiella kuroshimae | [Link](https://wild-explorer.vercel.app/animal/costasiella-kuroshimae) |
-| 16 | 小懒猴 | Pygmy Slow Loris | Nycticebus pygmaeus | [Link](https://wild-explorer.vercel.app/animal/pygmy-slow-loris) |
-| 17 | 四色啄花鸟 | Cebu flowerpecker | Dicaeum quadricolor | [Link](https://wild-explorer.vercel.app/animal/cebu-flowerpecker) |
-| 18 | 帝王蝎 | Emperor Scorpion | Pandinus imperator | [Link](https://wild-explorer.vercel.app/animal/emperor-scorpion) |
-| 19 | 美洲鳄 | American crocodile | Crocodylus acutus | [Link](https://wild-explorer.vercel.app/animal/american-crocodile) |
-| 20 | 网纹蟒 | Reticulated python | Malayopython reticulatus | [Link](https://wild-explorer.vercel.app/animal/reticulated-python) |
+| 1 | 夏威夷短尾乌贼 | Hawaiian Bobtail Squid | Euprymna scolopes | [Link](https://wild-explorer.vercel.app/animal/hawaiian-bobtail-squid) |
+| 2 | 欧洲鮟鱇 | European anglerfish | Lophius piscatorius | [Link](https://wild-explorer.vercel.app/animal/european-anglerfish) |
+| 3 | 电鳗 | Electric eel | Electrophorus electricus | [Link](https://wild-explorer.vercel.app/animal/electric-eel) |
+| 4 | 密斑刺鲀 | Spot-fin porcupinefish | Diodon hystrix | [Link](https://wild-explorer.vercel.app/animal/spot-fin-porcupinefish) |
+| 5 | 长吻飞旋海豚 | Spinner Dolphin | Stenella longirostris | [Link](https://wild-explorer.vercel.app/animal/spinner-dolphin) |
+| 6 | 赫氏矮海豚 | Hector's dolphin | Cephalorhynchus hectori | [Link](https://wild-explorer.vercel.app/animal/hectors-dolphin) |
+| 7 | 康氏矮海豚 | Commerson's dolphin | Cephalorhynchus commersonii | [Link](https://wild-explorer.vercel.app/animal/commersons-dolphin) |
+| 8 | 伪虎鲸 | False killer whale | Pseudorca crassidens | [Link](https://wild-explorer.vercel.app/animal/false-killer-whale) |
+| 9 | 大西洋斑海豚 | Atlantic spotted dolphin | Stenella frontalis | [Link](https://wild-explorer.vercel.app/animal/atlantic-spotted-dolphin) |
+| 10 | 褐鹈鹕 | Brown pelican | Pelecanus occidentalis | [Link](https://wild-explorer.vercel.app/animal/brown-pelican) |
+| 11 | 暗色斑纹海豚 | Dusky dolphin | Lagenorhynchus obscurus | [Link](https://wild-explorer.vercel.app/animal/dusky-dolphin) |
+| 12 | 亚河豚 | Amazon River Dolphin | Inia geoffrensis | [Link](https://wild-explorer.vercel.app/animal/amazon-river-dolphin) |
+| 13 | 缅甸蟒 | Burmese python | Python bivittatus | [Link](https://wild-explorer.vercel.app/animal/burmese-python) |
+| 14 | 红尾蚺 | Boa constrictor | Boa constrictor | [Link](https://wild-explorer.vercel.app/animal/boa-constrictor) |
+| 15 | 玻利维亚森蚺 | Bolivian Anaconda | Eunectes beniensis | [Link](https://wild-explorer.vercel.app/animal/bolivian-anaconda) |
+| 16 | 岛丛鸦 | Island scrub jay | Aphelocoma insularis | [Link](https://wild-explorer.vercel.app/animal/island-scrub-jay) |
+| 17 | 啄羊鹦鹉 | Kea | Nestor notabilis | [Link](https://wild-explorer.vercel.app/animal/kea) |
+| 18 | 蜜袋鼯 | Sugar glider | Petaurus breviceps | [Link](https://wild-explorer.vercel.app/animal/sugar-glider) |
+| 19 | 毛冠鹿 | Tufted deer | Elaphodus cephalophus | [Link](https://wild-explorer.vercel.app/animal/tufted-deer) |
+| 20 | 巴塔哥尼亚豚鼠 | Patagonian mara | Dolichotis patagonum | [Link](https://wild-explorer.vercel.app/animal/patagonian-mara) |

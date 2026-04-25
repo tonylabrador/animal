@@ -1,0 +1,210 @@
+{
+  "id": "hectors-dolphin",
+  "name_zh": "赫氏矮海豚",
+  "name_en": "Hector's dolphin",
+  "scientific_name": "Cephalorhynchus hectori",
+  "ui_tags": [
+    "Mammal",
+    "Coastal Waters",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Cetartiodactyla",
+      "zh": "鲸偶蹄目"
+    },
+    "family": {
+      "en": "Delphinidae",
+      "zh": "海豚科"
+    },
+    "genus": {
+      "en": "Cephalorhynchus",
+      "zh": "矮海豚属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "Hector's dolphin (Cephalorhynchus hectori) is the smallest and rarest marine dolphin in the world, strictly endemic to the coastal waters of New Zealand. Characterized by a distinctive, rounded black dorsal fin resembling a 'Mickey Mouse' ear, a blunt rostrum, and a complex tri-tone coloration of pale grey, black, and white. They are a flagship species for marine conservation, facing severe existential threats from anthropogenic activities, particularly entanglement in commercial and recreational gillnets, which has precipitated a drastic population bottleneck.",
+    "zh": "赫氏矮海豚（Cephalorhynchus hectori）是全球体型最小且最罕见的海豚之一，为新西兰近海水域的特有种。其最显著的形态特征是背部那面呈圆形、形似“米老鼠耳朵”的黑色背鳍，以及缺乏明显突出的吻部。其体表呈现由浅灰、纯黑与亮白交织的复杂三色斑纹。作为海洋保护的旗舰物种，它们正面临着极其严峻的生存威胁，尤其是商业与休闲刺网捕捞造成的副渔获物纠缠，已导致该物种陷入严重的种群瓶颈。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults rarely exceed 1.5 meters in length and 50 kilograms in mass, exhibiting slight sexual dimorphism where females are marginally larger. The cranium lacks a pronounced beak, housing 26 to 32 pairs of small, conical teeth per jaw, optimized for grasping small, slippery prey. The post-cranial skeleton is adapted for high maneuverability in turbulent, shallow waters. Their integumentary pattern features a black facial mask extending to the flippers, a pale grey dorsal cape, and a white ventral patch that extends laterally, which plays a crucial role in intraspecific visual communication.",
+      "zh": "成年个体体长极少超过1.5米，体重约50公斤，表现出轻微的雌雄二型性（雌性略大于雄性）。其颅骨缺乏明显突出的吻部，上下颌各生有26至32对细小的圆锥状牙齿，极度适应于捕捉湿滑的小型猎物。颅后骨骼结构高度特化，使其能在湍急的浅水区保持极高的机动性。其体表图案包括延伸至胸鳍的黑色面罩、浅灰色的背部披风以及向两侧延伸的白色腹部斑块，这种复杂的体色在种内视觉交流中发挥着关键作用。"
+    },
+    "ecology_and_behavior": {
+      "en": "Unlike many delphinids, Hector's dolphins do not produce whistles; instead, they rely exclusively on narrow-band, high-frequency (NBHF) echolocation clicks centered around 125 kHz for both navigation and acoustic communication. This acoustic adaptation is hypothesized to be an evolutionary countermeasure against predation by killer whales. They exhibit a fission-fusion social structure, typically forming small, fluid pods of 2 to 8 individuals. Their foraging ecology is predominantly benthic and demersal, targeting species such as red cod, arrow squid, and sprat within the neritic zone.",
+      "zh": "与许多海豚科动物不同，赫氏矮海豚不会发出哨声；相反，它们完全依赖中心频率约为125 kHz的窄带高频（NBHF）回声定位咔哒声进行导航和声学通讯。这种声学特化被认为是逃避虎鲸捕食的进化对策。它们表现出裂变-聚变（fission-fusion）的社会结构，通常形成2至8只个体的流动性小群体。其觅食生态主要集中在底栖和远洋底层，在浅海带专门捕食红鳕鱼、箭鱿鱼和黍鲱等物种。"
+    },
+    "habitat_and_distribution": {
+      "en": "Strictly confined to the shallow, turbid coastal waters of New Zealand, primarily around the South Island, with a critically endangered subspecies (Maui's dolphin, C. h. maui) restricted to the west coast of the North Island. They exhibit strong site fidelity and are rarely observed in waters deeper than 100 meters or further than 15 nautical miles from the shore. This extreme coastal endemism makes their spatial distribution highly fragmented and exceptionally vulnerable to localized anthropogenic disturbances, coastal development, and habitat degradation.",
+      "zh": "严格局限于新西兰浑浊的浅海沿岸水域，主要分布在南岛周围；其极度濒危的亚种（毛伊海豚，C. h. maui）则仅存于北岛西海岸。它们表现出极强的栖息地忠诚度，极少出现在深度超过100米或距离海岸超过15海里的水域。这种极端的沿海特有性导致其空间分布高度碎片化，使其对局部的人类干扰、海岸开发和栖息地退化异常敏感。"
+    }
+  },
+  "habitat": {
+    "text_en": "Endemic to the shallow coastal waters of New Zealand, primarily distributed around the South Island, typically found in depths of less than 100 meters.",
+    "text_zh": "新西兰浅海沿岸水域的特有种，主要分布在南岛周围，通常栖息于水深不足100米的海域。",
+    "map_coordinates": [
+      -43.5,
+      170.5
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -40.3,
+          172.5
+        ],
+        [
+          -40.6,
+          171.5
+        ],
+        [
+          -41.5,
+          170.8
+        ],
+        [
+          -42.5,
+          169.8
+        ],
+        [
+          -43.5,
+          168.5
+        ],
+        [
+          -44.5,
+          167
+        ],
+        [
+          -45.5,
+          165.8
+        ],
+        [
+          -46.5,
+          165.8
+        ],
+        [
+          -47.5,
+          167
+        ],
+        [
+          -47.5,
+          168.5
+        ],
+        [
+          -46.8,
+          170
+        ],
+        [
+          -45.8,
+          171.2
+        ],
+        [
+          -44.5,
+          172.2
+        ],
+        [
+          -43.8,
+          173.8
+        ],
+        [
+          -42.8,
+          174.5
+        ],
+        [
+          -41.5,
+          174.8
+        ],
+        [
+          -40.5,
+          174.5
+        ],
+        [
+          -40.8,
+          174
+        ],
+        [
+          -41.8,
+          174
+        ],
+        [
+          -42.8,
+          173.5
+        ],
+        [
+          -43.8,
+          172.8
+        ],
+        [
+          -44.5,
+          171.5
+        ],
+        [
+          -45.8,
+          170.5
+        ],
+        [
+          -46.5,
+          169.5
+        ],
+        [
+          -46.8,
+          168
+        ],
+        [
+          -46.5,
+          167
+        ],
+        [
+          -45.5,
+          166.5
+        ],
+        [
+          -44.5,
+          167.8
+        ],
+        [
+          -43.5,
+          169.2
+        ],
+        [
+          -42.5,
+          170.5
+        ],
+        [
+          -41.5,
+          171.5
+        ],
+        [
+          -40.8,
+          172.2
+        ],
+        [
+          -40.5,
+          172.8
+        ],
+        [
+          -40.3,
+          172.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/hectors-dolphin.jpg"
+}

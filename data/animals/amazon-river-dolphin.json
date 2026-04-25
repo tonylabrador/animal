@@ -1,0 +1,276 @@
+{
+  "id": "amazon-river-dolphin",
+  "name_zh": "亚河豚",
+  "name_en": "Amazon River Dolphin",
+  "scientific_name": "Inia geoffrensis",
+  "ui_tags": [
+    "Mammal",
+    "Freshwater",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Cetartiodactyla",
+      "zh": "鲸偶蹄目"
+    },
+    "family": {
+      "en": "Iniidae",
+      "zh": "亚河豚科"
+    },
+    "genus": {
+      "en": "Inia",
+      "zh": "亚河豚属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The Amazon river dolphin, also known as the boto or pink river dolphin, is an exclusively freshwater cetacean endemic to the complex river systems of South America. Renowned for its striking pink pigmentation, which intensifies with age and physical exertion, this apex aquatic predator exhibits profound evolutionary adaptations to its turbid, labyrinthine habitat. Unlike marine dolphins, its cervical vertebrae are unfused, granting it unparalleled cervical mobility to navigate through the submerged root systems of flooded forests.",
+    "zh": "亚河豚，又称粉红河豚或波多（Boto），是一种仅存在于南美洲复杂水系中的淡水鲸类。它以其引人注目的粉红色体表而闻名，这种色素沉着会随着年龄增长和体力消耗而加深。作为水生顶级掠食者，亚河豚对其浑浊且错综复杂的栖息地展现出了深刻的进化适应。与海洋海豚不同，它的颈椎未融合，赋予了其无与伦比的颈部灵活性，使其能够在被淹没的森林的树根系统中穿梭自如。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Characterized by a pronounced, bulbous melon used for sophisticated echolocation, the boto possesses a long, tubular rostrum lined with stiff vibrissae that aid in tactile foraging in benthic mud. Its dentition is uniquely heterodont among cetaceans, featuring conical anterior teeth for grasping slippery prey and robust, molariform posterior teeth for crushing the carapaces of turtles and crabs. The dorsal fin is reduced to a low, elongated ridge, minimizing entanglement in dense aquatic vegetation, while its exceptionally broad, paddle-like pectoral flippers provide extraordinary maneuverability in shallow, obstructed waters.",
+      "zh": "亚河豚的解剖学特征包括用于复杂回声定位的明显球状额隆，以及长而呈管状的吻部，吻部边缘长有坚硬的触须，有助于在底栖泥沼中进行触觉觅食。在鲸类中，它的牙齿具有独特的异型齿特征，前部为圆锥形牙齿用于抓住湿滑的猎物，后部为粗壮的臼齿状牙齿用于咬碎海龟和螃蟹的甲壳。其背鳍退化为低矮而细长的脊状突起，最大限度地减少了在茂密水生植被中的缠绕，而其异常宽大、呈桨状的胸鳍则在水浅且充满障碍物的水域中提供了非凡的机动性。"
+    },
+    "ecology_and_behavior": {
+      "en": "Botos are predominantly solitary or found in small, loose aggregations, exhibiting highly complex cognitive behaviors and a remarkable degree of playfulness. They are opportunistic apex predators with a highly diverse diet comprising over 50 species of teleost fish, including piranhas, as well as freshwater crustaceans. During the annual inundation of the Amazon basin, they migrate laterally into the flooded várzea and igapó forests, utilizing their advanced biosonar to hunt among submerged tree trunks. They are known to interact with local human populations and are steeped in indigenous Amazonian mythology.",
+      "zh": "亚河豚主要独居或以松散的小群体形式存在，展现出高度复杂的认知行为和显著的嬉戏天性。它们是机会主义的顶级掠食者，饮食结构极其多样化，包括食人鱼在内的50多种硬骨鱼类以及淡水甲壳类动物。在亚马逊盆地一年一度的泛滥期，它们会横向迁徙到被淹没的洪泛森林（várzea和igapó）中，利用其先进的生物声纳在淹没的树干间狩猎。已知它们会与当地人类群体互动，并在亚马逊原住民的神话中占据着深厚的地位。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the Amazon, Orinoco, and upper Madeira river basins across Brazil, Peru, Bolivia, Colombia, Ecuador, and Venezuela. Their habitat ranges from main river channels to smaller tributaries, lakes, and seasonally flooded forests. The distribution is heavily influenced by seasonal water level fluctuations, which dictate their movement patterns and prey availability.",
+      "zh": "特有于巴西、秘鲁、玻利维亚、哥伦比亚、厄瓜多尔和委内瑞拉的亚马逊河、奥里诺科河及马代拉河上游流域。它们的栖息地范围从主要河道到较小的支流、湖泊以及季节性泛滥的森林。其分布受季节性水位波动的严重影响，这些波动决定了它们的活动模式和猎物的可获得性。"
+    }
+  },
+  "habitat": {
+    "text_en": "Endemic to the turbid waters of the Amazon and Orinoco river basins, including main channels, tributaries, lakes, and seasonally flooded forests (várzea and igapó).",
+    "text_zh": "特有于亚马逊河和奥里诺科河流域的浑浊水域，包括主要河道、支流、湖泊以及季节性泛滥的森林（várzea和igapó）。",
+    "map_coordinates": [
+      -3.1,
+      -60
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -1.45,
+          -48.48
+        ],
+        [
+          -1.8,
+          -50.5
+        ],
+        [
+          -2.2,
+          -52.8
+        ],
+        [
+          -2.6,
+          -54.5
+        ],
+        [
+          -3.1,
+          -56.2
+        ],
+        [
+          -3.15,
+          -58.5
+        ],
+        [
+          -3.1,
+          -60
+        ],
+        [
+          -3.4,
+          -62.5
+        ],
+        [
+          -3.8,
+          -65
+        ],
+        [
+          -4.2,
+          -67.5
+        ],
+        [
+          -4.3,
+          -70.2
+        ],
+        [
+          -3.8,
+          -71.5
+        ],
+        [
+          -3.7,
+          -73.2
+        ],
+        [
+          -4.5,
+          -74.5
+        ],
+        [
+          -5.8,
+          -75.2
+        ],
+        [
+          -7.5,
+          -74.8
+        ],
+        [
+          -9.2,
+          -74.1
+        ],
+        [
+          -10.5,
+          -73
+        ],
+        [
+          -12.2,
+          -71.5
+        ],
+        [
+          -13.5,
+          -69
+        ],
+        [
+          -14.2,
+          -66.5
+        ],
+        [
+          -13,
+          -65.2
+        ],
+        [
+          -11.5,
+          -64.8
+        ],
+        [
+          -9.8,
+          -63.5
+        ],
+        [
+          -8.5,
+          -62
+        ],
+        [
+          -7.2,
+          -60.5
+        ],
+        [
+          -6.5,
+          -58.2
+        ],
+        [
+          -5.8,
+          -56
+        ],
+        [
+          -4.5,
+          -54.2
+        ],
+        [
+          -3.2,
+          -52
+        ],
+        [
+          -2.1,
+          -50
+        ],
+        [
+          -1.45,
+          -48.48
+        ]
+      ],
+      [
+        [
+          8.6,
+          -60.4
+        ],
+        [
+          8.2,
+          -61.5
+        ],
+        [
+          8,
+          -62.8
+        ],
+        [
+          7.8,
+          -64.2
+        ],
+        [
+          7.2,
+          -65.5
+        ],
+        [
+          6.5,
+          -66.8
+        ],
+        [
+          5.8,
+          -67.5
+        ],
+        [
+          4.5,
+          -68.2
+        ],
+        [
+          3.2,
+          -67.8
+        ],
+        [
+          2.5,
+          -67
+        ],
+        [
+          2.2,
+          -66.2
+        ],
+        [
+          2.8,
+          -65.5
+        ],
+        [
+          3.5,
+          -64.8
+        ],
+        [
+          4.8,
+          -64
+        ],
+        [
+          6.2,
+          -63.2
+        ],
+        [
+          7.5,
+          -62
+        ],
+        [
+          8.2,
+          -61
+        ],
+        [
+          8.6,
+          -60.4
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/amazon-river-dolphin.jpg"
+}

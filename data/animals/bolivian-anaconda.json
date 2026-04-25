@@ -1,0 +1,150 @@
+{
+  "id": "bolivian-anaconda",
+  "name_zh": "玻利维亚森蚺",
+  "name_en": "Bolivian Anaconda",
+  "scientific_name": "Eunectes beniensis",
+  "ui_tags": [
+    "Reptile",
+    "Swamp",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Boidae",
+      "zh": "蚺科"
+    },
+    "genus": {
+      "en": "Eunectes",
+      "zh": "森蚺属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Bolivian Anaconda (Eunectes beniensis) is a massive, non-venomous aquatic boa endemic to the flooded savannas and pristine river systems of the Bolivian Amazon. Initially recognized as a distinct species in 2002 by Lutz Dirksen, it exhibits morphological characteristics intermediate between the Green Anaconda (E. murinus) and the Yellow Anaconda (E. notaeus). As an apex ambush predator, it plays a critical role in regulating populations of medium-to-large vertebrates within its highly localized Neotropical ecosystem.",
+    "zh": "玻利维亚森蚺（Eunectes beniensis）是一种体型庞大的无毒水生蚺蛇，为玻利维亚亚马逊泛滥平原与原始水系的特有种。该物种于2002年由卢茨·迪尔克森（Lutz Dirksen）首次确认为独立物种，其形态特征介于绿森蚺（E. murinus）与黄森蚺（E. notaeus）之间。作为顶级的伏击捕食者，它在其高度局限的新热带生态系统中扮演着调节中大型脊椎动物种群数量的至关重要的角色。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Exhibiting profound sexual dimorphism, females significantly outgrow males, reaching lengths of up to 4 meters (13 feet) and possessing immense girth. The dorsal integument features a base coloration ranging from olive-green to brownish-yellow, overlaid with a complex matrix of dark, irregular dorsal blotches and lateral spots that provide exceptional cryptic camouflage in turbid waters. Cranial morphology is highly specialized for an aquatic lifestyle, with orbits and nares positioned dorsally to allow respiration and visual monitoring while the massive body remains entirely submerged.",
+      "zh": "玻利维亚森蚺表现出显著的雌雄二型性，雌性体型远超雄性，体长可达4米（13英尺），且躯干极为粗壮。其背部皮肤底色呈橄榄绿至棕黄色，覆盖着由深色不规则背斑和侧斑组成的复杂矩阵，在浑浊的水体中提供了极佳的隐蔽伪装。其颅骨形态高度适应水生生活，眼眶和鼻孔位于头部背侧，使其能够在庞大身躯完全潜入水下的同时进行呼吸和视觉监控。"
+    },
+    "ecology_and_behavior": {
+      "en": "A solitary and highly aquatic constrictor, E. beniensis relies on stealth and explosive kinetic strikes to capture prey. Its diet encompasses a wide phylogenetic spectrum, including capybaras, caimans, wading birds, and various teleost fishes. Utilizing the buoyancy of water to support its massive bulk, it remains motionless for extended periods. Upon striking, it employs multiple coils to induce circulatory arrest and asphyxiation in its prey. Reproduction is viviparous, with females giving birth to live young after a prolonged gestation period, during which they may fast entirely.",
+      "zh": "作为一种独居且高度水生的缢缩类蛇，玻利维亚森蚺依赖隐蔽性和爆发性的动能出击来捕获猎物。其食谱涵盖广泛的系统发育谱系，包括水豚、凯门鳄、涉禽以及各种真骨鱼类。它利用水的浮力来支撑其庞大的身躯，能长时间保持静止不动。在发动攻击时，它会用身体多重缠绕猎物，导致其血液循环骤停和窒息。繁殖方式为卵胎生，雌性在漫长的妊娠期后产下幼蛇，在此期间它们可能会完全禁食。"
+    },
+    "habitat_and_distribution": {
+      "en": "Strictly endemic to the Plurinational State of Bolivia, its geographic range is tightly constrained to the Beni savanna (Llanos de Moxos) and adjacent aquatic habitats in the Pando and Santa Cruz departments. It thrives in seasonally flooded wetlands, slow-moving muddy rivers, oxbow lakes, and anoxic swamps, where dense riparian vegetation and floating macrophytes offer optimal ambush sites and thermoregulatory microhabitats.",
+      "zh": "严格特有于玻利维亚多民族国，其地理分布被紧紧限制在贝尼稀树草原（Llanos de Moxos）及潘多省和圣克鲁斯省的邻近水生栖息地。它繁衍生息于季节性泛滥的湿地、水流缓慢的泥泞河流、牛轭湖和缺氧的沼泽中，那里茂密的河岸植被和漂浮的大型水生植物为其提供了最佳的伏击地点和体温调节微生境。"
+    }
+  },
+  "habitat": {
+    "text_en": "Endemic to the Beni savanna and surrounding flooded plains of the Bolivian Amazon.",
+    "text_zh": "特有于玻利维亚亚马逊的贝尼稀树草原及周边泛滥平原。",
+    "map_coordinates": [
+      -14,
+      -65
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -10.8,
+          -66.2
+        ],
+        [
+          -11.5,
+          -65.1
+        ],
+        [
+          -12.2,
+          -64.3
+        ],
+        [
+          -13.1,
+          -63.2
+        ],
+        [
+          -14.5,
+          -62.4
+        ],
+        [
+          -15.8,
+          -62.1
+        ],
+        [
+          -16.9,
+          -62.6
+        ],
+        [
+          -17.6,
+          -63.4
+        ],
+        [
+          -17.8,
+          -64.2
+        ],
+        [
+          -17.2,
+          -65.1
+        ],
+        [
+          -16.5,
+          -66
+        ],
+        [
+          -15.7,
+          -66.8
+        ],
+        [
+          -14.9,
+          -67.3
+        ],
+        [
+          -14,
+          -67.6
+        ],
+        [
+          -13.2,
+          -67.8
+        ],
+        [
+          -12.4,
+          -67.5
+        ],
+        [
+          -11.6,
+          -67.1
+        ],
+        [
+          -11,
+          -66.7
+        ],
+        [
+          -10.8,
+          -66.2
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/bolivian-anaconda.jpg"
+}

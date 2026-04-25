@@ -1,0 +1,162 @@
+{
+  "id": "kea",
+  "name_zh": "啄羊鹦鹉",
+  "name_en": "Kea",
+  "scientific_name": "Nestor notabilis",
+  "ui_tags": [
+    "Aves",
+    "Alpine",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Psittaciformes",
+      "zh": "鹦形目"
+    },
+    "family": {
+      "en": "Nestoridae",
+      "zh": "啄羊鹦鹉科"
+    },
+    "genus": {
+      "en": "Nestor",
+      "zh": "啄羊鹦鹉属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The Kea (Nestor notabilis) is a large, highly intelligent, and notoriously inquisitive parrot endemic to the alpine and forested environments of New Zealand's South Island. Renowned as the world's only true alpine parrot, it possesses a remarkable cognitive capacity rivaling that of some primates, allowing it to thrive in harsh, resource-scarce montane ecosystems.",
+    "zh": "啄羊鹦鹉（Nestor notabilis）是一种体型庞大、智商极高且以极度好奇闻名的鹦鹉，为新西兰南岛高山与森林环境的特有种。作为世界上唯一真正的高山鹦鹉，它拥有可与某些灵长类动物相媲美的非凡认知能力，使其能够在资源匮乏、气候恶劣的高山生态系统中繁衍生息。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Measuring approximately 48 centimeters in length and weighing up to 1 kilogram, the Kea exhibits predominantly olive-green plumage that provides excellent camouflage among alpine flora. This cryptic exterior conceals brilliant, iridescent orange feathers beneath the wings, which are flashed during flight or aggressive displays. Its most formidable anatomical feature is the elongated, deeply curved, grey-brown upper mandible, adapted for excavating grubs, tearing carrion, and manipulating complex objects. Zygodactyl feet equipped with sharp claws facilitate exceptional climbing agility on sheer rock faces and arboreal canopies.",
+      "zh": "体长约48厘米，重达1公斤，啄羊鹦鹉的羽毛主要呈橄榄绿色，在极地植物群中提供了极佳的伪装。这种隐蔽的外表掩盖了其翼下绚丽的亮橙色羽毛，这些羽毛在飞行或威吓展示时会瞬间显露。其最强大的解剖学特征是细长且深深弯曲的灰褐色上喙，专为挖掘幼虫、撕裂腐肉和操作复杂物体而演化。配备锋利爪子的对趾足使其在陡峭的岩壁和树冠上具备卓越的攀爬敏捷性。"
+    },
+    "ecology_and_behavior": {
+      "en": "Keas are highly social, omnivorous opportunists with a diet encompassing roots, berries, nectar, insects, and carrion. Historically infamous for occasionally attacking live sheep to consume their nutrient-rich fat, this behavior highlights their extreme adaptability. They exhibit sophisticated play behaviors, tool use, and cooperative problem-solving skills. Flocks are characterized by a strict dominance hierarchy and complex vocalizations. Their insatiable curiosity often leads to destructive interactions with human property, such as dismantling vehicular rubber seals and camping equipment.",
+      "zh": "啄羊鹦鹉是高度社会化的杂食性机会主义者，饮食包括树根、浆果、花蜜、昆虫和腐肉。历史上，它们因偶尔袭击活羊以摄取富含营养的脂肪而臭名昭著，这一行为凸显了它们极端的适应能力。它们表现出复杂的玩耍行为、工具使用和合作解决问题的能力。鸟群具有严格的等级制度和复杂的发声交流系统。它们永无止境的好奇心经常导致对人类财产的破坏性互动，例如拆解汽车橡胶密封条和露营设备。"
+    },
+    "habitat_and_distribution": {
+      "en": "Strictly endemic to the South Island of New Zealand, the Kea inhabits a diverse altitudinal range from lowland coastal podocarp forests to high-altitude Nothofagus (beech) forests and severe alpine scrublands up to 2,400 meters. They are most frequently encountered in the Southern Alps, where they nest in subterranean burrows beneath tree roots or within rock crevices to protect their offspring from extreme weather and introduced mammalian predators.",
+      "zh": "啄羊鹦鹉严格特产于新西兰南岛，栖息于海拔跨度极大的区域，从低海拔的沿海罗汉松森林到高海拔的南水青冈（山毛榉）森林，以及高达2400米的严酷高山灌木丛。它们最常出没于南阿尔卑斯山脉，在那里它们会在树根下或岩石缝隙中的地下洞穴中筑巢，以保护后代免受极端天气和外来哺乳动物捕食者的侵害。"
+    }
+  },
+  "habitat": {
+    "text_en": "Endemic to the Southern Alps and western coastal forests of New Zealand's South Island.",
+    "text_zh": "特产于新西兰南岛的南阿尔卑斯山脉及西海岸森林地区。",
+    "map_coordinates": [
+      -43.5,
+      170.5
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [
+        [
+          -40.8,
+          172.6
+        ],
+        [
+          -41.2,
+          172.1
+        ],
+        [
+          -41.8,
+          171.6
+        ],
+        [
+          -42.4,
+          171.2
+        ],
+        [
+          -43,
+          170.7
+        ],
+        [
+          -43.5,
+          170.1
+        ],
+        [
+          -44,
+          169.5
+        ],
+        [
+          -44.5,
+          168
+        ],
+        [
+          -45,
+          167.5
+        ],
+        [
+          -45.5,
+          166.8
+        ],
+        [
+          -46,
+          166.6
+        ],
+        [
+          -46.2,
+          167.2
+        ],
+        [
+          -45.8,
+          168
+        ],
+        [
+          -45.3,
+          168.7
+        ],
+        [
+          -44.8,
+          169.5
+        ],
+        [
+          -44,
+          170.2
+        ],
+        [
+          -43.5,
+          171
+        ],
+        [
+          -42.8,
+          171.8
+        ],
+        [
+          -42,
+          172.5
+        ],
+        [
+          -41.5,
+          173
+        ],
+        [
+          -41,
+          172.8
+        ],
+        [
+          -40.8,
+          172.6
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/kea.jpg"
+}

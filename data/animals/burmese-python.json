@@ -1,0 +1,264 @@
+{
+  "id": "burmese-python",
+  "name_zh": "缅甸蟒",
+  "name_en": "Burmese python",
+  "scientific_name": "Python bivittatus",
+  "ui_tags": [
+    "Reptilia",
+    "Tropical Rainforest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Pythonidae",
+      "zh": "蟒科"
+    },
+    "genus": {
+      "en": "Python",
+      "zh": "蟒属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The Burmese python (Python bivittatus) is one of the largest species of snakes in the world, renowned for its massive girth, intricate geometric patterning, and formidable constricting capabilities. Native to the tropical and subtropical regions of Southeast Asia, this apex predator exhibits a remarkable degree of phenotypic plasticity and ecological adaptability. Characterized by dark brown blotches bordered in black down its back against a lighter tan or yellowish background, it possesses a highly specialized cranial kinesis that allows it to consume prey significantly larger than its head. While naturally vulnerable in its native range due to habitat degradation and the illegal wildlife trade, it has paradoxically established a highly destructive invasive population in the Florida Everglades, fundamentally altering the local trophic dynamics.",
+    "zh": "缅甸蟒（Python bivittatus）是世界上体型最大的蛇类之一，以其粗壮的身躯、复杂的几何斑纹和强大的绞杀能力而闻名。作为原产于东南亚热带和亚热带地区的顶级掠食者，该物种展现出惊人的表型可塑性和生态适应力。其背部布满镶有黑边的深棕色不规则斑块，底色多为浅黄或棕褐色；其高度特化的头骨动力学结构使其能够吞咽比自身头部大得多的猎物。尽管在其原生地因栖息地丧失和非法野生动物贸易而面临易危的生存困境，但它却在美国佛罗里达州大沼泽地建立了极具破坏性的入侵种群，从根本上改变了当地的营养级动态。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Morphologically, Python bivittatus is a robust, heavy-bodied constrictor capable of exceeding 5 meters in length and weighing over 70 kilograms. It features a prehensile tail adapted for arboreal locomotion in its juvenile stage, transitioning to a primarily terrestrial and semi-aquatic lifestyle as it matures. The skull is highly kinetic, with loosely articulated jaw bones connected by elastic ligaments, enabling the ingestion of massive prey. Thermoreceptive labial pits located along the upper lip allow the python to detect minute infrared radiation emitted by endothermic prey, facilitating precise strikes in complete darkness. Its dentition consists of rows of sharp, backward-pointing teeth designed to grip and pull prey into its coils.",
+      "zh": "在形态学上，缅甸蟒是一种体型粗壮的绞杀类蛇，体长可超过5米，体重可达70公斤以上。其幼年时期具有适应树栖运动的缠绕性尾部，随着成熟逐渐转变为以陆栖和半水栖为主的生活方式。其头骨具有高度的动力学特性，下颌骨通过富有弹性的韧带松散连接，能够吞噬巨大的猎物。位于上唇的唇窝是高度灵敏的热感受器，使缅甸蟒能够探测到恒温动物发出的微弱红外辐射，从而在完全黑暗的环境中进行精准打击。其牙齿呈多排向后弯曲的倒钩状，专为咬住并将其拖入绞杀线圈而设计。"
+    },
+    "ecology_and_behavior": {
+      "en": "As a solitary, ambush predator, the Burmese python relies on stealth and camouflage rather than active pursuit. It is an exceptional swimmer, capable of remaining submerged for up to 30 minutes, utilizing aquatic environments for both thermoregulation and ambushing terrestrial mammals coming to drink. The constriction mechanism does not merely suffocate prey; rather, the immense pressure rapidly induces cardiac arrest by halting blood flow. During cooler months, they may undergo brumation, retreating to hollow logs or burrows. Females exhibit maternal care by incubating their eggs, utilizing muscular thermogenesis (shivering) to raise the ambient temperature of the clutch, a rare trait among squamates.",
+      "zh": "作为一种独居的伏击型掠食者，缅甸蟒依赖隐蔽和伪装而非主动追击。它是出色的游泳者，能在水下潜伏长达30分钟，利用水生环境进行体温调节，并伏击前来饮水的陆生哺乳动物。其绞杀机制并非仅仅导致猎物窒息，而是通过巨大的压力阻断血液循环，迅速引发猎物心脏骤停。在寒冷的月份，它们可能会进入休眠状态，退缩到中空的树干或洞穴中。雌性缅甸蟒表现出罕见的护卵行为，通过肌肉收缩产热（颤栗）来提高卵窝的环境温度，这在有鳞目动物中极为罕见。"
+    },
+    "habitat_and_distribution": {
+      "en": "The native distribution of P. bivittatus encompasses a vast expanse of Southeast Asia, including eastern India, Nepal, Myanmar, Thailand, Laos, Cambodia, Vietnam, southern China, and parts of Indonesia (Java, Sumbawa, Bali). It exhibits a strong preference for habitats in close proximity to permanent water sources, such as marshes, swamps, river valleys, and tropical rainforests. However, it is highly adaptable and can be found in grasslands and rocky foothills. In the United States, an invasive population has proliferated in the Florida Everglades, exploiting the subtropical wetlands and causing catastrophic declines in native mammalian populations.",
+      "zh": "缅甸蟒的原生分布范围涵盖了广阔的东南亚地区，包括印度东部、尼泊尔、缅甸、泰国、老挝、柬埔寨、越南、中国南部以及印度尼西亚的部分地区（爪哇、松巴哇、巴厘岛）。它强烈偏好靠近永久性水源的栖息地，如沼泽、湿地、河谷和热带雨林。然而，它具有极强的适应性，也能在草原和多岩石的山麓地带生存。在美国，一个入侵种群在佛罗里达州大沼泽地迅速繁衍，利用亚热带湿地环境大肆捕食，导致当地原生哺乳动物种群数量出现灾难性的下降。"
+    }
+  },
+  "habitat": {
+    "text_en": "Native to tropical and subtropical Southeast Asia, favoring marshes, swamps, and rainforests near permanent water. Also established as a highly invasive species in the Florida Everglades.",
+    "text_zh": "原产于东南亚热带和亚热带地区，偏好靠近永久性水源的沼泽、湿地和热带雨林。同时在美国佛罗里达州大沼泽地作为高度入侵物种定殖。",
+    "map_coordinates": [
+      15,
+      105
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          25.5,
+          98
+        ],
+        [
+          23.5,
+          94.5
+        ],
+        [
+          21,
+          92.2
+        ],
+        [
+          19.5,
+          93.5
+        ],
+        [
+          17,
+          94.2
+        ],
+        [
+          15.8,
+          97.6
+        ],
+        [
+          13.5,
+          98.2
+        ],
+        [
+          10.5,
+          99
+        ],
+        [
+          8.5,
+          98.3
+        ],
+        [
+          7,
+          99.5
+        ],
+        [
+          6.2,
+          100.2
+        ],
+        [
+          7.5,
+          101
+        ],
+        [
+          9.5,
+          100
+        ],
+        [
+          12.5,
+          100
+        ],
+        [
+          12,
+          102.5
+        ],
+        [
+          10.5,
+          103.8
+        ],
+        [
+          8.5,
+          104.8
+        ],
+        [
+          10,
+          106.5
+        ],
+        [
+          11.5,
+          109
+        ],
+        [
+          13.5,
+          109.2
+        ],
+        [
+          16.5,
+          107.8
+        ],
+        [
+          19.5,
+          105.8
+        ],
+        [
+          21,
+          107.5
+        ],
+        [
+          22,
+          109.5
+        ],
+        [
+          23,
+          112.5
+        ],
+        [
+          24.5,
+          113
+        ],
+        [
+          25.5,
+          110.5
+        ],
+        [
+          25,
+          106
+        ],
+        [
+          26.5,
+          103.5
+        ],
+        [
+          26,
+          100
+        ],
+        [
+          25.5,
+          98
+        ]
+      ],
+      [
+        [
+          26.7,
+          -81.2
+        ],
+        [
+          26.4,
+          -81.4
+        ],
+        [
+          26,
+          -81.6
+        ],
+        [
+          25.8,
+          -81.4
+        ],
+        [
+          25.5,
+          -81.2
+        ],
+        [
+          25.2,
+          -81
+        ],
+        [
+          25.1,
+          -80.8
+        ],
+        [
+          25.3,
+          -80.5
+        ],
+        [
+          25.5,
+          -80.4
+        ],
+        [
+          25.8,
+          -80.3
+        ],
+        [
+          26.1,
+          -80.2
+        ],
+        [
+          26.4,
+          -80.3
+        ],
+        [
+          26.6,
+          -80.5
+        ],
+        [
+          26.8,
+          -80.7
+        ],
+        [
+          26.9,
+          -81
+        ],
+        [
+          26.7,
+          -81.2
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/burmese-python.jpg"
+}

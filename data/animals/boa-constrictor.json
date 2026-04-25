@@ -1,0 +1,260 @@
+{
+  "id": "boa-constrictor",
+  "name_zh": "红尾蚺",
+  "name_en": "Boa constrictor",
+  "scientific_name": "Boa constrictor",
+  "ui_tags": [
+    "Reptilia",
+    "Tropical Rainforest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Boidae",
+      "zh": "蚺科"
+    },
+    "genus": {
+      "en": "Boa",
+      "zh": "蚺属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The Boa constrictor is a massive, heavy-bodied species of non-venomous snake endemic to the Neotropics, spanning from northern Mexico through Central America and deep into South America. Renowned for its distinctive saddle-like dorsal pattern and striking reddish-brown tail, it is an apex ambush predator that relies on immense muscular power and constriction to subdue its prey, playing a critical role in regulating local vertebrate populations.",
+    "zh": "红尾蚺是一种体型庞大、躯干粗壮的无毒蛇类，特产于新热带界，其分布范围从墨西哥北部穿过中美洲，一直深入南美洲腹地。它以其背部独特的马鞍状斑纹和醒目的红棕色尾部而闻名，作为顶级的伏击捕食者，它依靠巨大的肌肉力量和缠绕窒息机制来制服猎物，在调节当地脊椎动物种群数量方面发挥着至关重要的生态作用。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Exhibiting pronounced sexual dimorphism, females generally surpass males in both length and girth, often reaching lengths of up to 3 to 4 meters. The cranial structure features highly kinetic jaws equipped with aglyphous, recurved teeth designed to grip struggling prey securely. Their integument displays a complex cryptic coloration consisting of a tan or pale brown ground color overlaid with dark brown or black saddle-shaped markings that become more pronounced and reddish towards the posterior, providing excellent camouflage in dappled forest light. They possess vestigial pelvic spurs, evolutionary remnants of hind limbs, which are more prominent in males and utilized to stimulate females during courtship.",
+      "zh": "红尾蚺表现出明显的两性异形，雌性在体长和粗壮度上通常超过雄性，体长往往可达3至4米。其颅骨结构具有高度动态的颌骨，配备有无沟的、向后弯曲的牙齿，专为死死咬住挣扎的猎物而设计。它们的体表呈现出复杂的隐蔽色，由浅棕色或黄褐色的底色与深棕色或黑色的马鞍状斑纹交织而成，这些斑纹在靠近尾部时变得更加明显且呈现红棕色，在斑驳的森林光影中提供了极佳的伪装。它们拥有退化的骨盆距（后肢的进化残迹），这在雄性中更为明显，并在求偶期间用于刺激雌性。"
+    },
+    "ecology_and_behavior": {
+      "en": "As a predominantly solitary and nocturnal or crepuscular predator, the Boa constrictor employs a highly efficient sit-and-wait ambush strategy. Its diet is ontogenetically variable; juveniles primarily consume small lizards, amphibians, and birds, while adults graduate to larger mammalian prey such as rodents, monkeys, and wild pigs. Prey is dispatched via constriction, a sophisticated process that disrupts the circulatory system, inducing rapid ischemia and cardiac arrest rather than simple asphyxiation. They are highly adaptable, exhibiting both terrestrial and arboreal locomotion, utilizing their strongly prehensile tails for stabilization in the canopy.",
+      "zh": "作为一种主要独居且在夜间或晨昏活动的捕食者，红尾蚺采用高效的“坐等”式伏击策略。其饮食具有显著的个体发育差异；幼体主要捕食小型蜥蜴、两栖动物和鸟类，而成年个体则转向更大的哺乳动物猎物，如啮齿类、猴子和野猪。猎物通过缠绕被杀死，这是一个复杂的过程，会破坏猎物的循环系统，引发快速缺血和心脏骤停，而不仅仅是简单的窒息。它们具有极高的适应性，表现出陆栖和树栖双重运动模式，利用其具有强大抓握能力的尾巴在树冠中保持稳定。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species boasts an extensive neotropical distribution, occupying a diverse array of ecosystems including primary tropical rainforests, tropical dry forests, savannas, and semi-arid scrublands. They demonstrate a strong ecological preference for edge habitats and ecotones proximate to water sources, such as riverbanks and streams, which facilitate both thermoregulation and abundant ambush opportunities. Their ability to thrive in varied microhabitats underscores their evolutionary success across the Americas.",
+      "zh": "该物种拥有广泛的新热带区分布，占据了多种多样的生态系统，包括原生热带雨林、热带旱林、稀树草原和半干旱灌木丛。它们在生态学上表现出对边缘生境和靠近水源的交错带（如河岸和溪流）的强烈偏好，这不仅有助于它们进行体温调节，还提供了丰富的伏击机会。它们在各种微生境中繁衍生息的能力突显了其在美洲大陆的进化成功。"
+    }
+  },
+  "habitat": {
+    "text_en": "Neotropical forests, savannas, and semi-arid scrublands from northern Mexico down to Argentina.",
+    "text_zh": "从墨西哥北部一直延伸到阿根廷的新热带森林、稀树草原和半干旱灌木丛。",
+    "map_coordinates": [
+      -10,
+      -60
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          11,
+          -74
+        ],
+        [
+          12,
+          -71
+        ],
+        [
+          10.5,
+          -66
+        ],
+        [
+          10,
+          -62
+        ],
+        [
+          8.5,
+          -59
+        ],
+        [
+          6,
+          -55
+        ],
+        [
+          2,
+          -50
+        ],
+        [
+          -1,
+          -46
+        ],
+        [
+          -5,
+          -36
+        ],
+        [
+          -10,
+          -36
+        ],
+        [
+          -15,
+          -39
+        ],
+        [
+          -20,
+          -40
+        ],
+        [
+          -23,
+          -43
+        ],
+        [
+          -27,
+          -48
+        ],
+        [
+          -30,
+          -51
+        ],
+        [
+          -33,
+          -58
+        ],
+        [
+          -30,
+          -62
+        ],
+        [
+          -25,
+          -65
+        ],
+        [
+          -20,
+          -63
+        ],
+        [
+          -15,
+          -68
+        ],
+        [
+          -10,
+          -75
+        ],
+        [
+          -5,
+          -78
+        ],
+        [
+          0,
+          -78
+        ],
+        [
+          5,
+          -76
+        ],
+        [
+          8,
+          -76
+        ],
+        [
+          11,
+          -74
+        ]
+      ],
+      [
+        [
+          8,
+          -77
+        ],
+        [
+          9,
+          -80
+        ],
+        [
+          10,
+          -84
+        ],
+        [
+          12,
+          -86
+        ],
+        [
+          14,
+          -88
+        ],
+        [
+          16,
+          -93
+        ],
+        [
+          18,
+          -95
+        ],
+        [
+          20,
+          -97
+        ],
+        [
+          22,
+          -98
+        ],
+        [
+          25,
+          -98
+        ],
+        [
+          28,
+          -100
+        ],
+        [
+          30,
+          -105
+        ],
+        [
+          28,
+          -108
+        ],
+        [
+          25,
+          -106
+        ],
+        [
+          22,
+          -105
+        ],
+        [
+          19,
+          -104
+        ],
+        [
+          16,
+          -98
+        ],
+        [
+          14,
+          -92
+        ],
+        [
+          10,
+          -84
+        ],
+        [
+          8,
+          -77
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/boa-constrictor.jpg"
+}

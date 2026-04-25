@@ -1,0 +1,174 @@
+{
+  "id": "island-scrub-jay",
+  "name_zh": "岛丛鸦",
+  "name_en": "Island scrub jay",
+  "scientific_name": "Aphelocoma insularis",
+  "ui_tags": [
+    "Aves",
+    "Chaparral",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Corvidae",
+      "zh": "鸦科"
+    },
+    "genus": {
+      "en": "Aphelocoma",
+      "zh": "丛鸦属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "The Island scrub jay (Aphelocoma insularis) is a striking, highly localized corvid endemic exclusively to Santa Cruz Island off the coast of Southern California. Distinguished from its mainland relatives by its significantly larger size, more robust morphology, and deeper, more vibrant ultramarine plumage, this avian species represents a classic example of island gigantism. It serves as a keystone species within its micro-ecosystem, acting as the primary disperser of oak acorns and thereby actively shaping the island's chaparral and woodland botanical architecture.",
+    "zh": "岛丛鸦（Aphelocoma insularis）是一种引人注目且分布极其局限的鸦科鸟类，仅特产于美国南加州海岸外的圣克鲁斯岛。作为岛屿巨型化的经典案例，它与大陆近亲相比体型显著更大，形态更为粗壮，且头部、翅膀和尾部呈现出更深邃、更鲜艳的群青色羽衣。该物种在其微型生态系统中扮演着关键种的角色，作为橡树坚果的主要传播者，它积极地塑造着岛上的灌木丛和林地植物群落结构。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Morphologically, A. insularis exhibits a pronounced heavy-set build, weighing approximately 25% more than the California scrub jay (A. californica). It features a remarkably stout, elongated black bill specifically adapted for the mechanical stress of excavating and cracking thick-shelled endemic acorns. The plumage is characterized by a rich, deep cobalt-blue hood, wings, and tail, contrasting with a dark brownish-gray mantle and a pale grayish-white underbelly accented by a faint blue breast band.",
+      "zh": "在形态学上，岛丛鸦表现出明显的粗壮体型，其体重比加州丛鸦（A. californica）重约25%。它具有一个异常粗壮且细长的黑色喙，专门适应于挖掘和咬碎厚壳特有橡子时的机械应力。其羽衣的特征是头部、翅膀和尾部呈现浓郁深邃的钴蓝色，与深褐灰色的背部以及带有淡淡蓝色胸带的灰白色腹部形成鲜明对比。"
+    },
+    "ecology_and_behavior": {
+      "en": "Exhibiting high site fidelity and strict territoriality, this non-migratory passerine forms socially monogamous pairs that defend year-round territories. Its foraging ecology is heavily centered around the harvesting and subterranean caching of acorns from island scrub oaks (Quercus pacifica). This scatter-hoarding behavior not only ensures a stable winter food cache but also facilitates critical seedling recruitment for the island's oak woodlands. Their diet is supplemented with insects, spiders, small reptiles, and occasionally the eggs of other passerines.",
+      "zh": "这种非候鸟雀形目鸟类表现出极高的栖息地忠诚度和严格的领地意识，它们形成社会性的一夫一妻制配偶，全年保卫其领地。其觅食生态严重依赖于采收和在地下贮藏岛屿灌木橡树（Quercus pacifica）的坚果。这种分散贮藏行为不仅确保了稳定的冬季食物储备，还为岛屿橡树林的幼苗繁育提供了关键的促进作用。它们的饮食还辅以昆虫、蜘蛛、小型爬行动物，偶尔也会掠食其他雀形目鸟类的卵。"
+    },
+    "habitat_and_distribution": {
+      "en": "The species is strictly endemic to the 250-square-kilometer Santa Cruz Island, the largest of the Channel Islands of California. It is predominantly associated with dense chaparral, oak woodlands, and stands of Bishop pine (Pinus muricata). The geographic isolation of the island has prevented genetic introgression with mainland populations, rendering its highly restricted range both a unique evolutionary crucible and a significant conservation vulnerability.",
+      "zh": "该物种严格特产于面积为250平方公里的圣克鲁斯岛，这是加州海峡群岛中最大的岛屿。它主要栖息于茂密的查帕拉尔灌木丛、橡树林以及主教松（Pinus muricata）林中。岛屿的地理隔离阻止了其与大陆种群的基因渗入，使其极其狭窄的分布范围既是一个独特的进化熔炉，也是一个重大的保护脆弱点。"
+    }
+  },
+  "habitat": {
+    "text_en": "Endemic exclusively to the chaparral and oak woodlands of Santa Cruz Island, California.",
+    "text_zh": "仅特产于美国加利福尼亚州圣克鲁斯岛的灌木丛和橡树林中。",
+    "map_coordinates": [
+      34.0167,
+      -119.7167
+    ],
+    "map_zoom_level": 11,
+    "global_distribution_polygons": [
+      [
+        [
+          34.062,
+          -119.925
+        ],
+        [
+          34.071,
+          -119.901
+        ],
+        [
+          34.075,
+          -119.872
+        ],
+        [
+          34.068,
+          -119.841
+        ],
+        [
+          34.055,
+          -119.795
+        ],
+        [
+          34.048,
+          -119.752
+        ],
+        [
+          34.031,
+          -119.711
+        ],
+        [
+          34.022,
+          -119.685
+        ],
+        [
+          34.028,
+          -119.642
+        ],
+        [
+          34.041,
+          -119.595
+        ],
+        [
+          34.052,
+          -119.558
+        ],
+        [
+          34.045,
+          -119.531
+        ],
+        [
+          34.032,
+          -119.518
+        ],
+        [
+          34.015,
+          -119.535
+        ],
+        [
+          33.998,
+          -119.562
+        ],
+        [
+          33.985,
+          -119.601
+        ],
+        [
+          33.978,
+          -119.655
+        ],
+        [
+          33.972,
+          -119.712
+        ],
+        [
+          33.975,
+          -119.765
+        ],
+        [
+          33.982,
+          -119.815
+        ],
+        [
+          33.991,
+          -119.862
+        ],
+        [
+          34.005,
+          -119.895
+        ],
+        [
+          34.025,
+          -119.915
+        ],
+        [
+          34.045,
+          -119.928
+        ],
+        [
+          34.062,
+          -119.925
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/island-scrub-jay.jpg"
+}

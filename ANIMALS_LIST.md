@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **402** 种动物
+**统计**：共 **420** 种动物
 
 ---
 
@@ -45,6 +45,10 @@
 
 - 短尾矮袋鼠 / Quokka — *Setonix brachyurus* `quokka`
 - 红袋鼠 / Red Kangaroo — *Osphranter rufus* `red-kangaroo`
+
+**鼯袋鼠科**
+
+- 蜜袋鼯 / Sugar glider — *Petaurus breviceps* `sugar-glider`
 
 ### 啮齿目
 
@@ -328,6 +332,10 @@
 - 白鲸 / Beluga Whale — *Delphinapterus leucas* `beluga-whale`
 - 独角鲸 / Narwhal — *Monodon monoceros* `narwhal`
 
+**亚河豚科**
+
+- 亚河豚 / Amazon River Dolphin — *Inia geoffrensis* `amazon-river-dolphin`
+
 **叉角羚科**
 
 - 叉角羚 / Pronghorn — *Antilocapra americana* `pronghorn`
@@ -338,10 +346,16 @@
 
 **海豚科**
 
+- 大西洋斑海豚 / Atlantic spotted dolphin — *Stenella frontalis* `atlantic-spotted-dolphin`
 - 中华白海豚 / Chinese White Dolphin — *Sousa chinensis* `chinese-white-dolphin`
+- 康氏矮海豚 / Commerson's dolphin — *Cephalorhynchus commersonii* `commersons-dolphin`
 - 宽吻海豚 / Common Bottlenose Dolphin — *Tursiops truncatus* `common-bottlenose-dolphin`
+- 暗色斑纹海豚 / Dusky dolphin — *Lagenorhynchus obscurus* `dusky-dolphin`
+- 伪虎鲸 / False killer whale — *Pseudorca crassidens* `false-killer-whale`
+- 赫氏矮海豚 / Hector's dolphin — *Cephalorhynchus hectori* `hectors-dolphin`
 - 伊河海豚 / Irrawaddy dolphin — *Orcaella brevirostris* `irrawaddy-dolphin`
 - 虎鲸 / Orca — *Orcinus orca* `orca`
+- 长吻飞旋海豚 / Spinner Dolphin — *Stenella longirostris* `spinner-dolphin`
 
 **牛科**
 
@@ -612,6 +626,7 @@
 - 加州灌丛鸦 / California Scrub-Jay — *Aphelocoma californica* `california-scrub-jay`
 - 渡鸦 / Common Raven — *Corvus corax* `common-raven`
 - 欧亚喜鹊 / Eurasian Magpie — *Pica pica* `eurasian-magpie`
+- 岛丛鸦 / Island scrub jay — *Aphelocoma insularis* `island-scrub-jay`
 - 爪哇绿鹊 / Javan green magpie — *Cissa thalassina* `javan-green-magpie`
 
 **鹟科**
@@ -743,6 +758,7 @@
 
 **鹈鹕科**
 
+- 褐鹈鹕 / Brown pelican — *Pelecanus occidentalis* `brown-pelican`
 - 卷羽鹈鹕 / Dalmatian pelican — *Pelecanus crispus* `dalmatian-pelican`
 - 大白鹈鹕 / Great White Pelican — *Pelecanus onocrotalus* `great-white-pelican`
 
@@ -782,6 +798,10 @@
 **凤头鹦鹉科**
 
 - 玄凤鹦鹉 / Cockatiel — *Nymphicus hollandicus* `cockatiel`
+
+**啄羊鹦鹉科**
+
+- 啄羊鹦鹉 / Kea — *Nestor notabilis* `kea`
 
 **鸮鹦鹉科**
 
@@ -864,6 +884,8 @@
 
 **蚺科**
 
+- 红尾蚺 / Boa constrictor — *Boa constrictor* `boa-constrictor`
+- 玻利维亚森蚺 / Bolivian Anaconda — *Eunectes beniensis* `bolivian-anaconda`
 - 森蚺 / Green Anaconda — *Eunectes murinus* `green-anaconda`
 
 **蝰科**
@@ -872,6 +894,7 @@
 
 **蟒科**
 
+- 缅甸蟒 / Burmese python — *Python bivittatus* `burmese-python`
 - 网纹蟒 / Reticulated python — *Malayopython reticulatus* `reticulated-python`
 
 **避役科**
@@ -980,6 +1003,12 @@
 **肠蛸科**
 
 - 北太平洋巨型章鱼 / Giant Pacific Octopus — *Enteroctopus dofleini* `giant-pacific-octopus`
+
+### 耳乌贼目
+
+**耳乌贼科**
+
+- 夏威夷短尾乌贼 / Hawaiian Bobtail Squid — *Euprymna scolopes* `hawaiian-bobtail-squid`
 
 ### 鹦鹉螺目
 
@@ -1286,17 +1315,31 @@
 - 海马 / Common Seahorse — *Hippocampus kuda* `common-seahorse`
 - 叶海龙 / Leafy Seadragon — *Phycodurus eques* `leafy-seadragon`
 
+### 电鳗目
+
+**裸背电鳗科**
+
+- 电鳗 / Electric eel — *Electrophorus electricus* `electric-eel`
+
 ### 鮟鱇目
 
 **躄鱼科**
 
 - 条纹躄鱼 / Striated Frogfish — *Antennarius striatus* `striated-frogfish`
 
+**鮟鱇科**
+
+- 欧洲鮟鱇 / European anglerfish — *Lophius piscatorius* `european-anglerfish`
+
 **黑角鮟鱇科**
 
 - 黑角鮟鱇 / Humpback Anglerfish — *Melanocetus johnsonii* `humpback-anglerfish`
 
 ### 鲀形目
+
+**刺鲀科**
+
+- 密斑刺鲀 / Spot-fin porcupinefish — *Diodon hystrix* `spot-fin-porcupinefish`
 
 **四齿鲀科**
 

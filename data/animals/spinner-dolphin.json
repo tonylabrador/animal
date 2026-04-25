@@ -1,0 +1,302 @@
+{
+  "id": "spinner-dolphin",
+  "name_zh": "长吻飞旋海豚",
+  "name_en": "Spinner Dolphin",
+  "scientific_name": "Stenella longirostris",
+  "ui_tags": [
+    "Mammalia",
+    "Pelagic",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Cetartiodactyla",
+      "zh": "鲸偶蹄目"
+    },
+    "family": {
+      "en": "Delphinidae",
+      "zh": "海豚科"
+    },
+    "genus": {
+      "en": "Stenella",
+      "zh": "原海豚属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危"
+  },
+  "description": {
+    "en": "The spinner dolphin (Stenella longirostris) is a small, highly gregarious pelagic cetacean renowned for its spectacular aerial acrobatics, specifically its ability to rotate longitudinally multiple times during a single leap. Exhibiting a pantropical distribution, this species is characterized by a remarkably slender, hydrodynamic morphology and an elongated rostrum. It plays a critical role in the mesopelagic food web, undertaking extensive diel vertical and horizontal migrations to forage on vertically migrating scattering layers.",
+    "zh": "长吻飞旋海豚（Stenella longirostris）是一种高度群居的小型远洋鲸类，以其令人叹为观止的空中杂技而闻名，尤其是在单次跃水过程中能够沿纵轴旋转数次。该物种呈泛热带分布，具有极其纤细、符合流体力学的形态和细长的吻部。它在中层水域食物网中扮演着至关重要的角色，通过进行大规模的昼夜垂直和水平迁徙，捕食垂直迁徙的深海散射层生物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Stenella longirostris exhibits significant geographic variation, with four recognized subspecies displaying distinct morphological traits. Generally, they possess a tripartite color pattern: a dark grey dorsal cape, lighter grey flanks, and a pale or white ventral surface. The rostrum is exceptionally long and slender, housing 45 to 65 pairs of sharp, conical teeth in both the upper and lower jaws, optimized for grasping slippery cephalopods and teleost fishes. Adult body length ranges from 1.3 to 2.35 meters, with a mass of 23 to 79 kilograms. The dorsal fin exhibits pronounced sexual dimorphism in certain populations, particularly the eastern spinner dolphin (S. l. orientalis), where adult males develop a forward-canted dorsal fin and a pronounced post-anal ventral keel.",
+      "zh": "长吻飞旋海豚表现出显著的地理变异，已确认的四个亚种展现出截然不同的形态特征。通常，它们具有三色涂装：深灰色的背部披风、浅灰色的侧腹以及苍白或白色的腹面。其吻部异常细长，上下颌各长有45至65对锋利的圆锥形牙齿，非常适合抓取湿滑的头足类和硬骨鱼类。成年体长在1.3至2.35米之间，体重为23至79公斤。在某些种群中，背鳍表现出明显的两性异形，特别是东太平洋飞旋海豚（S. l. orientalis），成年雄性会发育出向前倾斜的背鳍和明显的肛后腹侧龙骨突起。"
+    },
+    "ecology_and_behavior": {
+      "en": "This species exhibits a highly structured, fission-fusion social system, often forming mega-pods numbering in the thousands, frequently associating with pantropical spotted dolphins and yellowfin tuna. Their eponymous spinning behavior—achieving up to seven revolutions per leap—is hypothesized to serve multiple functions, including acoustic communication, dislodging ectoparasites (such as remoras), and maintaining pod cohesion. They are nocturnal predators, resting in shallow, sheltered bays or atolls during the day to avoid pelagic predators like large sharks and killer whales, and moving offshore at dusk to forage on the mesopelagic boundary community, diving to depths of up to 300 meters to hunt myctophids and enoploteuthid squids.",
+      "zh": "该物种表现出高度结构化的裂变-聚变社会系统，经常形成数以千计的超级群，并常与泛热带斑海豚和黄鳍金枪鱼结伴。其标志性的旋转行为——每次跃水最多可达七圈——被认为具有多种功能，包括声学交流、清除体表寄生虫（如䲟鱼）以及维持群体凝聚力。它们是夜行性捕食者，白天在水浅且受保护的海湾或环礁中休息，以躲避大型鲨鱼和虎鲸等远洋捕食者；黄昏时分则游向近海，捕食中层边界群落，潜水深度可达300米，以猎食灯笼鱼和武装鱿科头足类。"
+    },
+    "habitat_and_distribution": {
+      "en": "Stenella longirostris is a pantropical species, inhabiting tropical, subtropical, and occasionally warm temperate waters of the Atlantic, Pacific, and Indian Oceans, typically between 40°N and 40°S latitudes. They exhibit a strong preference for warm water masses (above 20°C). While primarily a pelagic species inhabiting deep oceanic waters, certain insular populations, such as those around the Hawaiian Islands, French Polynesia, and the Maldives, display a rigid diurnal habitat shift, relying heavily on shallow coastal bays with sandy bottoms for daytime rest and socialization before transiting to deep-water drop-offs for nocturnal foraging.",
+      "zh": "长吻飞旋海豚是一种泛热带物种，栖息于大西洋、太平洋和印度洋的热带、亚热带以及偶尔的暖温带水域，通常位于北纬40°至南纬40°之间。它们对温暖水团（20°C以上）表现出强烈的偏好。虽然主要是一种栖息于深海的远洋物种，但某些岛屿种群（如夏威夷群岛、法属波利尼西亚和马尔代夫周围的种群）表现出严格的昼夜栖息地转换，白天严重依赖具有沙质底部的浅海湾进行休息和社交，夜间则转移到深水陡坡进行觅食。"
+    }
+  },
+  "habitat": {
+    "text_en": "Pantropical oceans, favoring warm pelagic waters and insular coastal bays.",
+    "text_zh": "泛热带海洋，偏好温暖的远洋水域及岛屿近海海湾。",
+    "map_coordinates": [
+      20,
+      -156
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          25,
+          -160
+        ],
+        [
+          25.5,
+          -140.2
+        ],
+        [
+          22.1,
+          -110.5
+        ],
+        [
+          25,
+          -105
+        ],
+        [
+          20.3,
+          -90.1
+        ],
+        [
+          10.5,
+          -85.2
+        ],
+        [
+          0,
+          -80.5
+        ],
+        [
+          -10.2,
+          -80.1
+        ],
+        [
+          -20.5,
+          -90.3
+        ],
+        [
+          -25.1,
+          -110
+        ],
+        [
+          -25.5,
+          -140.5
+        ],
+        [
+          -20,
+          -160.2
+        ],
+        [
+          -10.5,
+          -170
+        ],
+        [
+          0,
+          -175.5
+        ],
+        [
+          10.2,
+          -170.1
+        ],
+        [
+          20.5,
+          -165
+        ],
+        [
+          25,
+          -160
+        ]
+      ],
+      [
+        [
+          20,
+          60.5
+        ],
+        [
+          20.5,
+          70.1
+        ],
+        [
+          10.2,
+          75.5
+        ],
+        [
+          5,
+          80
+        ],
+        [
+          15.5,
+          90.2
+        ],
+        [
+          10.1,
+          100.5
+        ],
+        [
+          20,
+          120
+        ],
+        [
+          30.5,
+          130.2
+        ],
+        [
+          30,
+          140.5
+        ],
+        [
+          20.2,
+          150
+        ],
+        [
+          0,
+          150.5
+        ],
+        [
+          -10.5,
+          140.1
+        ],
+        [
+          -20,
+          120.5
+        ],
+        [
+          -25.5,
+          100
+        ],
+        [
+          -30.1,
+          80.5
+        ],
+        [
+          -30.5,
+          60
+        ],
+        [
+          -20.2,
+          50.5
+        ],
+        [
+          -10,
+          45
+        ],
+        [
+          0.5,
+          50.1
+        ],
+        [
+          10,
+          55.5
+        ],
+        [
+          20,
+          60.5
+        ]
+      ],
+      [
+        [
+          30,
+          -75.5
+        ],
+        [
+          30.5,
+          -60
+        ],
+        [
+          20.1,
+          -40.5
+        ],
+        [
+          15.5,
+          -20
+        ],
+        [
+          5,
+          -15.5
+        ],
+        [
+          -5.5,
+          -10
+        ],
+        [
+          -15,
+          -10.5
+        ],
+        [
+          -25.5,
+          -20
+        ],
+        [
+          -30.1,
+          -30.5
+        ],
+        [
+          -30.5,
+          -40
+        ],
+        [
+          -20,
+          -45.5
+        ],
+        [
+          -10.5,
+          -35
+        ],
+        [
+          0,
+          -40.5
+        ],
+        [
+          10.1,
+          -50
+        ],
+        [
+          15.5,
+          -60.5
+        ],
+        [
+          20,
+          -70
+        ],
+        [
+          25.5,
+          -80.5
+        ],
+        [
+          30,
+          -75.5
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/spinner-dolphin.jpg"
+}
