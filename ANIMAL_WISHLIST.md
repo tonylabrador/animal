@@ -7,3 +7,4 @@
 | 1 | 吞噬鳗 | Pelican eel | Eurypharynx pelecanoides | ⏳ Pending |
 | 2 | 德克萨斯角蜥 | Texas Horned Lizard | Phrynosoma cornutum | ⏳ Pending |
 | 3 | 鳄蜥 | Chinese Crocodile Lizard | Shinisaurus crocodilurus | ⏳ Pending |
+| 4 | 细纹斑马 | Grevy's Zebra | Equus grevyi | ⏳ Pending |
