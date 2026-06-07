@@ -98,12 +98,12 @@ async function appendToWishlistAsync(zh: string, en: string, scientific: string)
   }
 }
 
-// ── Gemini AI: resolve any input → { zh, en, scientific } ────────────────────
-async function resolveWithGemini(
+// ── DeepSeek AI: resolve any input → { zh, en, scientific } ──────────────────
+async function resolveWithDeepSeek(
   input: string
 ): Promise<{ status: string; detected_lang?: "en" | "zh"; zh: string; en: string; scientific: string; clarification?: string }> {
-  const apiKey = process.env.GEMINI_API_KEY;
-  if (!apiKey) throw new Error("GEMINI_API_KEY not set");
+  const apiKey = process.env.DEEPSEEK_API_KEY;
+  if (!apiKey) throw new Error("DEEPSEEK_API_KEY not set");
 
   const prompt = `You are an expert wildlife taxonomist following strict IUCN Red List standards. The user wants to add an animal to a wishlist.
 Input: "${input}"
@@ -129,19 +129,25 @@ Respond ONLY with raw JSON (no markdown):
 }`;
 
   const res = await fetch(
-    `https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key=${apiKey}`,
+    "https://api.deepseek.com/chat/completions",
     {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers: { 
+        "Content-Type": "application/json",
+        "Authorization": `Bearer ${apiKey}`
+      },
       body: JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }],
-        generationConfig: { temperature: 0.1 },
+        model: "deepseek-v4-pro",
+        messages: [
+          { role: "user", content: prompt }
+        ],
+        temperature: 0.1,
       }),
     }
   );
-  if (!res.ok) throw new Error(`Gemini API error: ${res.status}`);
+  if (!res.ok) throw new Error(`DeepSeek API error: ${res.status}`);
   const data = await res.json();
-  const text: string = data.candidates?.[0]?.content?.parts?.[0]?.text ?? "{}";
+  const text: string = data.choices?.[0]?.message?.content ?? "{}";
   // Strip markdown fences if present
   const clean = text.replace(/```json\n?/g, "").replace(/```\n?/g, "").trim();
   return JSON.parse(clean);
@@ -177,7 +183,7 @@ export async function POST(req: Request) {
 
   let resolved;
   try {
-    resolved = await resolveWithGemini(input.trim());
+    resolved = await resolveWithDeepSeek(input.trim());
   } catch (e) {
     console.error(e);
     return NextResponse.json({ error: "AI service unavailable" }, { status: 500 });

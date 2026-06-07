@@ -13,9 +13,9 @@ const RECENT_PATH = path.join(__dirname, '..', 'RECENTLY_ADDED.md');
 const ANIMALS_DIR = path.join(__dirname, '..', 'data', 'animals');
 const REVIEW_LOG_PATH = path.join(__dirname, '..', 'REVIEW_MESSAGES.md');
 
-const API_KEY = process.env.GEMINI_API_KEY;
+const API_KEY = process.env.DEEPSEEK_API_KEY;
 if (!API_KEY) {
-    console.error("❌ 致命错误：找不到 GEMINI_API_KEY，请检查 .env.local 文件。");
+    console.error("❌ 致命错误：找不到 DEEPSEEK_API_KEY，请检查 .env.local 文件。");
     process.exit(1);
 }
 
@@ -72,20 +72,27 @@ Review the following JSON data representing an animal. Look critically for the f
 Respond with STRICTLY "PASS" if the JSON is highly detailed and polygons look organic and complex.
 If there are ANY issues, respond with a short bulleted list of the errors found. DO NOT fix the JSON, just list the errors. Return ONLY the bullet points.`;
 
-async function callGemini(systemPrompt, userText) {
-    const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-pro-preview:generateContent?key=${API_KEY}`, {
+async function callDeepSeek(systemPrompt, userText) {
+    const res = await fetch("https://api.deepseek.com/chat/completions", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: { 
+            "Content-Type": "application/json",
+            "Authorization": `Bearer ${API_KEY}`
+        },
         body: JSON.stringify({
-            contents: [{ parts: [{ text: `${systemPrompt}\n\nTask Data:\n${userText}` }] }],
-            generationConfig: { temperature: 0.2 }
+            model: "deepseek-v4-pro",
+            messages: [
+                { role: "system", content: systemPrompt },
+                { role: "user", content: `Task Data:\n${userText}` }
+            ],
+            temperature: 0.2
         })
     });
     if (!res.ok) {
-        throw new Error(`Gemini API error: ${res.status}`);
+        throw new Error(`DeepSeek API error: ${res.status}`);
     }
     const data = await res.json();
-    let text = data.candidates?.[0]?.content?.parts?.[0]?.text || "";
+    let text = data.choices?.[0]?.message?.content || "";
     return text.replace(/```json\n?/gi, "").replace(/```\n?/g, "").trim();
 }
 
@@ -181,7 +188,7 @@ async function runAutoPipeline() {
             console.log(`   ⚙️ Generating JSON for: ${animal.zh} (${animal.en})`);
             try {
                 const animalStr = `${animal.zh} | ${animal.en} | ${animal.scientific}`;
-                const jsonStr = await callGemini(GENERATE_PROMPT, animalStr);
+                const jsonStr = await callDeepSeek(GENERATE_PROMPT, animalStr);
                 const parsed = JSON.parse(jsonStr);
                 
                 if (!parsed.id) throw new Error("Generated JSON missing 'id' field");
@@ -218,7 +225,7 @@ async function runAutoPipeline() {
         for (const animal of successfullyGenerated) {
             try {
                 const jsonContent = JSON.stringify(animal);
-                const reviewResult = await callGemini(REVIEW_PROMPT, jsonContent);
+                const reviewResult = await callDeepSeek(REVIEW_PROMPT, jsonContent);
                 
                 if (reviewResult.replace(/\s/g, '').toUpperCase() === "PASS") {
                     console.log(`      ✅ ${animal.name_zh}: PASS`);

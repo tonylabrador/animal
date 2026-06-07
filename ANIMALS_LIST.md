@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **420** 种动物
+**统计**：共 **424** 种动物
 
 ---
 
@@ -84,6 +84,7 @@
 
 **马科**
 
+- 细纹斑马 / Grevy's Zebra — *Equus grevyi* `grevys-zebra`
 - 马 / Horse — *Equus caballus* `horse`
 - 平原斑马 / Plains Zebra — *Equus quagga* `plains-zebra`
 - 野马 / Wild Horse — *Equus ferus* `wild-horse`
@@ -897,6 +898,10 @@
 - 缅甸蟒 / Burmese python — *Python bivittatus* `burmese-python`
 - 网纹蟒 / Reticulated python — *Malayopython reticulatus* `reticulated-python`
 
+**角蜥科**
+
+- 德克萨斯角蜥 / Texas Horned Lizard — *Phrynosoma cornutum* `texas-horned-lizard`
+
 **避役科**
 
 - 高冠变色龙 / Veiled Chameleon — *Chamaeleo calyptratus* `veiled-chameleon`
@@ -911,6 +916,10 @@
 - 绿鬣蜥 / Green Iguana — *Iguana iguana* `green-iguana`
 - 冠棘蜥 / Indochinese spiky lizard — *Acanthosaura coronata* `indochinese-spiky-lizard`
 - 海鬣蜥 / Marine Iguana — *Amblyrhynchus cristatus* `marine-iguana`
+
+**鳄蜥科**
+
+- 鳄蜥 / Chinese Crocodile Lizard — *Shinisaurus crocodilurus* `chinese-crocodile-lizard`
 
 ### 鳄目
 
@@ -1301,6 +1310,12 @@
 ---
 
 ## 辐鳍鱼纲
+
+### 囊鳃鳗目
+
+**宽咽鱼科**
+
+- 吞噬鳗 / Pelican eel — *Eurypharynx pelecanoides* `pelican-eel`
 
 ### 月鱼目
 

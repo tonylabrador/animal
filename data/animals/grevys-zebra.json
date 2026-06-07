@@ -1,0 +1,396 @@
+{
+  "id": "grevys-zebra",
+  "name_zh": "细纹斑马",
+  "name_en": "Grevy's Zebra",
+  "scientific_name": "Equus grevyi",
+  "ui_tags": [
+    "Mammalia",
+    "Grassland",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Perissodactyla",
+      "zh": "奇蹄目"
+    },
+    "family": {
+      "en": "Equidae",
+      "zh": "马科"
+    },
+    "genus": {
+      "en": "Equus",
+      "zh": "马属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
+  },
+  "description": {
+    "en": "The Grevy's zebra (Equus grevyi), also known as the imperial zebra, is the largest living wild equid and the most threatened species of zebra. It is distinguished by its narrow, closely spaced vertical stripes, large rounded ears, and a white belly. Adults stand 1.4–1.6 m at the shoulder, measure 2.5–3.0 m in body length, and weigh 350–450 kg. Unlike plains zebras, Grevy's zebras have a mule-like appearance with a longer neck and a more robust skull. Their stripes extend all the way down to the hooves, and the pattern is unique to each individual, serving as a form of camouflage against predators and as a social identifier. The species is primarily found in semi-arid grasslands and scrublands of northern Kenya and southern Ethiopia, with small relict populations in Somalia and Sudan. Grevy's zebras are highly adapted to arid environments, capable of going up to five days without water. They are grazers, feeding mainly on grasses, but also browse on leaves and bark during dry seasons. Socially, they have a loose, non-territorial system; stallions establish large territories with abundant resources to attract mares, but bonds are temporary. The species faces severe threats from habitat loss, competition with livestock, poaching for their striking skins, and drought exacerbated by climate change. Current wild population estimates range from 2,000 to 2,500 individuals, a dramatic decline from 15,000 in the 1970s. Conservation efforts include community-based grazing management, anti-poaching patrols, and the establishment of protected areas such as the Samburu and Laikipia regions in Kenya.",
+    "zh": "细纹斑马（学名：Equus grevyi），又称帝斑马，是现存最大的野生奇蹄目动物，也是三种斑马中受威胁最严重的一种。其显著特征包括狭窄且紧密排列的垂直条纹、大而圆的耳朵以及白色的腹部。成年个体肩高1.4–1.6米，体长2.5–3.0米，体重350–450公斤。与平原斑马不同，细纹斑马具有类似骡子的外观，颈部更长，头骨更粗壮。它们的条纹一直延伸到蹄部，每只个体的条纹图案独一无二，既可作为伪装以躲避捕食者，也可作为社会识别的标志。该物种主要分布于肯尼亚北部和埃塞俄比亚南部的半干旱草原和灌丛地带，在索马里和苏丹也有少量残存种群。细纹斑马高度适应干旱环境，可长达五天不饮水。它们以草类为主食，但在旱季也会啃食树叶和树皮。社会结构松散且非领土性；公马会建立资源丰富的大型领地以吸引母马，但彼此间的联系是暂时的。该物种面临栖息地丧失、与家畜竞争、因皮毛美丽而遭盗猎以及气候变化加剧干旱等严重威胁。目前野生种群数量估计在2000至2500头之间，相较于1970年代的15000头已急剧下降。保护措施包括社区为基础的放牧管理、反盗猎巡逻以及在肯尼亚桑布鲁和莱基皮亚等地区建立保护区。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Grevy's zebras have a robust, horse-like body with a distinctive black-and-white striped coat. The stripes are narrow, typically 2–3 cm wide, and run vertically from the mane to the belly, with the belly being white. The mane is erect and striped, extending from the poll to the withers. The ears are large, rounded, and highly mobile, aiding in thermoregulation and communication. The muzzle is dark, and the tail is tufted with black hair. The legs are long and slender, ending in single-hoofed feet adapted for fast running over hard ground. The dental formula is 3/3 incisors, 1/1 canines, 3-4/3 molars, totaling 36–40 teeth, with high-crowned molars for grinding tough grasses. The skull is elongated with a large nasal cavity, allowing for efficient respiration during prolonged exertion. The skin beneath the stripes is dark, and the white areas are actually unpigmented. The species exhibits slight sexual dimorphism, with males being slightly larger and having more robust necks.",
+      "zh": "细纹斑马拥有强壮的马形身体，披着独特的黑白条纹皮毛。条纹狭窄，通常宽2–3厘米，从鬃毛垂直延伸至腹部，腹部为白色。鬃毛直立且带有条纹，从头顶延伸至肩部。耳朵大而圆，活动灵活，有助于体温调节和沟通。口鼻部为深色，尾巴末端有黑色毛簇。腿长而纤细，末端为单蹄，适应在硬地面上快速奔跑。齿式为门齿3/3、犬齿1/1、前臼齿3-4/3、臼齿3/3，总计36–40颗牙齿，高冠臼齿用于研磨粗糙的草类。头骨细长，鼻腔大，便于长时间奔跑时高效呼吸。条纹下的皮肤为深色，白色区域实际上是无色素的。该物种存在轻微的性别二态性，雄性体型稍大，颈部更粗壮。"
+    },
+    "ecology_and_behavior": {
+      "en": "Grevy's zebras are primarily diurnal, with peak activity in the early morning and late afternoon. They are highly social but have a fluid social structure. Stallions establish large territories (2–10 km²) that contain key resources like water and grazing, and they mark boundaries with dung piles and urine. Mares form small, unstable groups of 2–6 individuals with their offspring, moving between territories. Bachelor herds of young males also exist. Communication includes vocalizations like snorts, whinnies, and high-pitched barks, as well as visual signals such as ear positioning and tail movements. They are grazers, with grasses making up over 80% of their diet, but they also consume forbs and browse during dry periods. They are highly water-dependent but can survive up to five days without drinking by utilizing moisture from food. Predators include lions, spotted hyenas, and African wild dogs, with foals being most vulnerable. Grevy's zebras have a strong flight response and can run at speeds up to 65 km/h. They are known to form mixed-species herds with other ungulates like oryx and gazelles for increased vigilance. Reproduction is non-seasonal, with a gestation period of 390 days, one of the longest among equids. Foals are precocial, standing within 20 minutes and walking within an hour. Weaning occurs at 6–8 months, and sexual maturity is reached at 3–4 years. Lifespan in the wild is 12–15 years, up to 25 in captivity.",
+      "zh": "细纹斑马主要在白天活动，清晨和傍晚最为活跃。它们高度社会化，但社会结构松散。公马建立大型领地（2–10平方公里），包含水源和草场等关键资源，并用粪堆和尿液标记边界。母马与其后代形成2–6只的不稳定小群，在不同领地间移动。也存在年轻雄性组成的单身汉群。交流方式包括喷鼻声、嘶鸣和高音吠叫等发声，以及耳朵位置和尾巴动作等视觉信号。它们以草类为主食，草类占饮食的80%以上，但在干旱期也会食用杂草和树叶。它们高度依赖水源，但可通过食物中的水分存活长达五天不饮水。天敌包括狮子、斑鬣狗和非洲野犬，幼驹最易受攻击。细纹斑马具有强烈的逃跑反应，奔跑速度可达65公里/小时。它们常与其他有蹄类动物如剑羚和瞪羚形成混合群，以提高警惕性。繁殖无季节性，妊娠期390天，是马科中最长的之一。幼驹早熟，20分钟内站立，一小时内行走。断奶在6–8个月，性成熟在3–4岁。野外寿命12–15年，圈养可达25年。"
+    },
+    "habitat_and_distribution": {
+      "en": "Grevy's zebras are endemic to the Horn of Africa, primarily inhabiting semi-arid grasslands, savannas, and scrublands in northern Kenya and southern Ethiopia. Their historical range extended from Somalia, Djibouti, and Eritrea into Sudan, but they have been extirpated from most of these areas. Currently, the core population is in Kenya's Laikipia Plateau, Samburu, and Meru regions, with smaller populations in Ethiopia's Omo River Valley and the Awash National Park. They prefer flat or gently undulating terrain with short grasses and scattered acacia bushes, often near permanent water sources. They avoid dense forests and steep mountainous areas. The species is adapted to arid conditions with annual rainfall of 200–400 mm, but they require access to water every 2–3 days during dry seasons. Their distribution is fragmented due to human encroachment, livestock grazing, and agricultural expansion. Conservation areas like the Grevy's Zebra Sanctuary in Kenya and the Yabelo Wildlife Sanctuary in Ethiopia provide critical habitat. The total range is estimated at less than 15,000 km², a 90% reduction from historical levels.",
+      "zh": "细纹斑马是非洲之角的特有物种，主要栖息于肯尼亚北部和埃塞俄比亚南部的半干旱草原、稀树草原和灌丛地带。其历史分布范围曾从索马里、吉布提和厄立特里亚延伸至苏丹，但现已从大部分地区消失。目前，核心种群位于肯尼亚的莱基皮亚高原、桑布鲁和梅鲁地区，埃塞俄比亚的奥莫河谷和阿瓦什国家公园也有较小种群。它们偏好平坦或微起伏的地形，有短草和散生金合欢灌木，通常靠近永久水源。它们避开茂密森林和陡峭山区。该物种适应年降雨量200–400毫米的干旱条件，但在旱季每2–3天需饮水一次。由于人类侵占、家畜放牧和农业扩张，其分布已碎片化。肯尼亚的细纹斑马保护区和埃塞俄比亚的亚贝洛野生动物保护区等保护区域提供了关键栖息地。总分布范围估计不足15,000平方公里，较历史水平减少了90%。"
+    }
+  },
+  "habitat": {
+    "text_en": "Semi-arid grasslands and scrublands of northern Kenya and southern Ethiopia, with small populations in Somalia and Sudan. Prefers flat terrain with short grasses and acacia bushes near water sources.",
+    "text_zh": "肯尼亚北部和埃塞俄比亚南部的半干旱草原和灌丛地带，索马里和苏丹有少量种群。偏好平坦地形，有短草和金合欢灌木，靠近水源。",
+    "map_coordinates": [
+      1.5,
+      37.5
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          4.5,
+          36
+        ],
+        [
+          4.2,
+          36.5
+        ],
+        [
+          3.8,
+          37
+        ],
+        [
+          3.5,
+          37.5
+        ],
+        [
+          3,
+          38
+        ],
+        [
+          2.5,
+          38.5
+        ],
+        [
+          2,
+          39
+        ],
+        [
+          1.5,
+          39.5
+        ],
+        [
+          1,
+          40
+        ],
+        [
+          0.5,
+          40.5
+        ],
+        [
+          0,
+          41
+        ],
+        [
+          -0.5,
+          40.5
+        ],
+        [
+          -1,
+          40
+        ],
+        [
+          -1.5,
+          39.5
+        ],
+        [
+          -2,
+          39
+        ],
+        [
+          -2.5,
+          38.5
+        ],
+        [
+          -3,
+          38
+        ],
+        [
+          -3.5,
+          37.5
+        ],
+        [
+          -3.8,
+          37
+        ],
+        [
+          -4,
+          36.5
+        ],
+        [
+          -4.2,
+          36
+        ],
+        [
+          -4,
+          35.5
+        ],
+        [
+          -3.5,
+          35
+        ],
+        [
+          -3,
+          34.5
+        ],
+        [
+          -2.5,
+          34
+        ],
+        [
+          -2,
+          33.5
+        ],
+        [
+          -1.5,
+          33
+        ],
+        [
+          -1,
+          33.5
+        ],
+        [
+          -0.5,
+          34
+        ],
+        [
+          0,
+          34.5
+        ],
+        [
+          0.5,
+          35
+        ],
+        [
+          1,
+          35.5
+        ],
+        [
+          1.5,
+          36
+        ],
+        [
+          2,
+          36.5
+        ],
+        [
+          2.5,
+          37
+        ],
+        [
+          3,
+          37.5
+        ],
+        [
+          3.5,
+          37
+        ],
+        [
+          4,
+          36.5
+        ],
+        [
+          4.5,
+          36
+        ]
+      ],
+      [
+        [
+          9,
+          38
+        ],
+        [
+          8.5,
+          38.5
+        ],
+        [
+          8,
+          39
+        ],
+        [
+          7.5,
+          39.5
+        ],
+        [
+          7,
+          40
+        ],
+        [
+          6.5,
+          40.5
+        ],
+        [
+          6,
+          41
+        ],
+        [
+          5.5,
+          41.5
+        ],
+        [
+          5,
+          42
+        ],
+        [
+          4.5,
+          42.5
+        ],
+        [
+          4,
+          43
+        ],
+        [
+          3.5,
+          42.5
+        ],
+        [
+          3,
+          42
+        ],
+        [
+          2.5,
+          41.5
+        ],
+        [
+          2,
+          41
+        ],
+        [
+          1.5,
+          40.5
+        ],
+        [
+          1,
+          40
+        ],
+        [
+          0.5,
+          39.5
+        ],
+        [
+          0,
+          39
+        ],
+        [
+          -0.5,
+          38.5
+        ],
+        [
+          -1,
+          38
+        ],
+        [
+          -0.5,
+          37.5
+        ],
+        [
+          0,
+          37
+        ],
+        [
+          0.5,
+          36.5
+        ],
+        [
+          1,
+          36
+        ],
+        [
+          1.5,
+          35.5
+        ],
+        [
+          2,
+          35
+        ],
+        [
+          2.5,
+          35.5
+        ],
+        [
+          3,
+          36
+        ],
+        [
+          3.5,
+          36.5
+        ],
+        [
+          4,
+          37
+        ],
+        [
+          4.5,
+          37.5
+        ],
+        [
+          5,
+          38
+        ],
+        [
+          5.5,
+          38.5
+        ],
+        [
+          6,
+          39
+        ],
+        [
+          6.5,
+          39.5
+        ],
+        [
+          7,
+          40
+        ],
+        [
+          7.5,
+          39.5
+        ],
+        [
+          8,
+          39
+        ],
+        [
+          8.5,
+          38.5
+        ],
+        [
+          9,
+          38
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/grevys-zebra.jpg"
+}

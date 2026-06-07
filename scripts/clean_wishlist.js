@@ -1,7 +1,8 @@
 const fs = require('fs');
+const path = require('path');
 
-const wishlistPath = 'c:\\tony\\animal\\ANIMAL_WISHLIST.md';
-const animalsListPath = 'c:\\tony\\animal\\ANIMALS_LIST.md';
+const wishlistPath = path.join(__dirname, '..', 'ANIMAL_WISHLIST.md');
+const animalsListPath = path.join(__dirname, '..', 'ANIMALS_LIST.md');
 
 const wishlist = fs.readFileSync(wishlistPath, 'utf8');
 const animalsList = fs.readFileSync(animalsListPath, 'utf8');
