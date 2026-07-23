@@ -1,0 +1,376 @@
+{
+  "id": "chinese-cobra",
+  "name_zh": "中华眼镜蛇",
+  "name_en": "Chinese Cobra",
+  "scientific_name": "Naja atra",
+  "ui_tags": [
+    "Reptile",
+    "Terrestrial",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Elapidae",
+      "zh": "眼镜蛇科"
+    },
+    "genus": {
+      "en": "Naja",
+      "zh": "眼镜蛇属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
+  },
+  "description": {
+    "en": "Naja atra, commonly known as the Chinese cobra or monocled cobra, is a highly venomous elapid snake endemic to southern China and northern Indochina. Distinguished by the iconic O-shaped or U-shaped monocellate marking on its hood, this medium-sized serpent typically reaches lengths of 1.2 to 1.5 meters, with exceptional individuals recording up to 2 meters. Its coloration is extraordinarily variable, presenting a complex polymorphic spectrum from jet black, dark brown, to yellowish-grey, providing cryptic camouflage against substrates ranging from mudflats to forest leaf litter. A master of defensive bluffing, when menaced it rears up the anterior third of its body, distends its elongated cervical ribs to form a broad, flattened hood, and expels a deep, resonant, and menacing hiss. The venom apparatus is proteroglyphous, featuring short, fixed front fangs of 4-5 mm that deliver a potent cocktail predominantly composed of postsynaptic neurotoxins (alpha-cobrotoxins), cardiotoxins, and phospholipase A2, effectively causing flaccid paralysis and subsequent respiratory failure in prey while eliciting severe local dermonecrosis in envenomated tissue. As an active crepuscular forager, its diet encompasses a wide range of vertebrates including rodents, frogs, toads, small birds, and notably other snakes, positioning it as a crucial biological agent for agricultural pest control and a stabilizer of the trophic pyramid. Despite its fearsome reputation, Naja atra faces severe population pressures from anthropogenic habitat fragmentation, relentless collection for traditional Chinese medicine and illicit bushmeat markets, and retaliatory killings, leading to its current IUCN Red List classification as Vulnerable.",
+    "zh": "中华眼镜蛇（Naja atra），俗称舟山眼镜蛇、饭铲头、吹风蛇，是一种中国华南地区、台湾岛及越南北部独有的剧毒眼镜蛇科毒蛇。它拥有标志性的颈背部“单眼斑”或O形、U形眼镜状斑纹，受惊扰时前身昂起，颈部肋骨扩张膨扁呈扁平状，发出低沉且极具穿透力的“呼呼”威吓声。体型中等，成体体长通常在1.2至1.5米之间，少数个体可达2米。体色呈现极高的多态性，从最具隐蔽性的乌黑色、深褐色到与环境高度融合的浅黄灰色均有分布，具有极强的地域性环境适应性。毒器为前沟牙类型，毒牙短而固定，长约4-5毫米，毒液以强烈的突触后神经毒素（α-眼镜蛇毒素）、心脏毒素及磷脂酶A2为致命组合，能迅速阻断神经肌肉传导，导致猎物呼吸肌麻痹衰竭而死，且常伴随严重的咬伤局部皮肤与肌肉深度溃烂。作为一种活跃的黄昏型掠食者，它主要以鼠类、蛙类、蟾蜍、小型鸟类及其它蛇类为食，是制约田间鼠患、稳固食物链层级的关键生态平衡器。尽管拥有令人生畏的毒性，由于农业生产导致的栖息地破碎化、为传统中药及野味市场进行的疯狂盗捕以及大量的人为报复性杀害，其野生种群数量急剧下降，目前已被世界自然保护联盟（IUCN）评估为易危物种（VU），生存前景亟需严密保育干预。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Chinese cobra exhibits a robust, cylindrical build with smooth, slightly iridescent dorsal scales arranged in 19-21 rows at the midbody. The head is moderately elliptical, slightly distinct from the neck, and features medium-sized eyes with round pupils perfectly adapted for crepuscular and diurnal light conditions. The integumentary elasticity facilitates the most conspicuous morphological trait: the iconic hood, formed by elongated anterior cervical ribs articulating with the vertebrae and overlaid by loose skin that spreads laterally under myological control. The hood's dorsal monocle marking is typically a distinct O-shape or horseshoe, though partial connections and complete absence occur in melanistic or axanthic variants. The venom delivery system is proteroglyphous, with short, fixed, grooved fangs that do not retract, ensuring precise subdermal envenomation. Subcaudal scales are paired, optimizing traction during lateral undulation and low-level arboreal ascents.",
+      "zh": "中华眼镜蛇拥有具备高度环境适应性的粗壮圆筒形躯体，体表覆盖光滑且带有微弱虹彩光泽的背鳞，体背中段鳞列数目稳定在19至21行。头部呈适中的椭圆形，与颈部稍有界限分离，眼中等大小并具有圆形瞳孔，完美适应于黄昏与日间交替活动的光线变化。其皮肤拥有极高延展性，受惊时在肌肉的精密控制下，连接椎骨的前部延长颈肋骨迅速外张，支撑起覆盖其上的松软皮肤，形成横向极度膨胀变扁的标志性颈褶（即“眼镜蛇”名称的起源）。颈褶背面的单眼黑褐色斑纹多呈典型的O形或马蹄形，但在黑化或白化突变个体中存在连接断裂或完全缺失的情况。毒液输送系统为典型的前沟牙（Proteroglyphous）结构，毒牙短小无法向内折叠，具备闭合的沟槽导管，确保在咬合瞬间完成高效的皮下毒液注入。尾下鳞成对排列，这极大优化了其在蜿蜒运动与低矮灌丛攀爬时的抓地摩擦力与侧向稳定性。"
+    },
+    "ecology_and_behavior": {
+      "en": "Naja atra is predominantly a terrestrial ectotherm, though an exceptionally competent swimmer and occasional crannies-arboreal forager. Its activity budget is seasonally partitioned: strictly crepuscular and nocturnal during the sweltering subtropical summer to avoid thermal stress, yet actively basking under the morning sun during spring and autumn for physiological thermoregulation. When confronted by a predator or perceived threat, it initiates a sophisticated multi-stage defensive display: elevating the anterior third of the body, flattening the hood laterally, emitting a sustained resonant hiss, and executing rapid feint strikes with a closed mouth to deter rather than waste venom. The diet is notably ophiophagous, regularly consuming pit vipers like Protobothrops mucrosquamatus alongside standard rodent and amphibian prey, with feeding frequencies of 5-7 days based on metabolic demands. A complex social behavior is observed during winter, where dozens of individuals congregate in subterranean rodent burrows or deep rock crevices for communal brumation from late November to March, conserving moisture and heat.",
+      "zh": "中华眼镜蛇虽属于经典的地栖型外温动物，但亦是敏捷的游泳能手，偶尔能在低矮的枝丫间攀爬觅食。其活动周期随季节变化产生明显的生态位划分：在湿热的亚热带夏季，为躲避正午高温，呈现严格的晨昏性及夜行性节律；而在凉爽的春秋季，它们变为主动晒阳的日行性，以提升核心体温满足生理代谢。面对天敌或威胁时，它演绎一套层层递进的级联恐吓行为：前身立起，颈部横向膨扁，发出持续而响亮的喷气嘶声，在剧烈吞吐信子的同时做出快速的闭口佯攻假动作，目的是利用威吓逼退天敌，绝不轻易浪费宝贵的毒液储备。它在食性上展现出显著的食蛇性，常捕食矛头蝮等其它毒蛇，配合常规的鼠类和蛙类摄入，根据代谢需求维持5至7天的高频次掠食周期。秋冬环境降温期间，它展现出复杂的群居行为，常数十条集群蜷缩于废弃鼠洞或崖壁深处的石缝中，开启从十一月末至次年三月的群居性深冬眠，以此最大限度减少热量与水分散失。"
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the Oriental zoogeographic realm, Naja atra ranges from the Yangtze River basin in southern China down through the entire coastal and inland montane regions of Guangdong, Guangxi, Hainan, and Fujian, extending east to Taiwan’s lowlands and west to the montane moats of Yunnan. Marginal populations cling to heavily urbanized enclaves in Hong Kong and Macau. Beyond Chinese territories, its distribution fragments into the Red River Delta and Black River valleys of northern Vietnam, with isolated highland populations in northern Laos. It demonstrates remarkable altitudinal plasticity, occupying niches from sea-level estuarine plains to upland riparian corridors at elevations approaching 1,000 meters. Favored microhabitats encompass moist agricultural ecotones—specifically rice paddies, sugar cane fields, and lotus ponds—as well as monsoon broadleaf forest fringes, dense shrublands, tall grasslands, and the immediate margins of permanent streams and bogs, where humidity and prey availability are maximized.",
+      "zh": "中华眼镜蛇是东洋界动物地理区的特有物种。其核心分布圈以中国长江流域中下游以南为起点，大范围覆盖了广东、广西、海南、福建的沿海平原及内陆丘陵山地，向东延伸至台湾全岛的低海拔区域，向西则沿云贵高原边缘的山脉沟壑。在高度城镇化的香港与澳门，仍残存有极度隐秘的边缘种群。境外分布则随地理地形支离破碎，主要集中在越南北部富饶的红河三角洲、黑水河流域，并孤岛状分布在老挝北部的高地。栖息地展现出显著的海拔塑性，从海平面的河口冲击平原到近千米海拔的低山丘陵溪谷皆可构筑巢穴。最适宜的小栖地主要涵盖了水量丰沛的农业生产交错带——如稻田埂、甘蔗地、莲藕池塘等——以及季风常绿阔叶林边缘、密集的灌草丛、高草地和终年不断流的溪流与沼泽地岸带，这些地点提供了极高的相对湿度与丰富的猎物密度。"
+    }
+  },
+  "habitat": {
+    "text_en": "Ranging from the Yangtze River basin southward across southern China (Guangdong, Guangxi, Hainan, Fujian), Taiwan, and extending into the Red River Delta and northern Laos. Frequents lowland plains, agricultural wetlands, shrublands, and forest edges.",
+    "text_zh": "自长江流域以南覆盖华南全境（广东、广西、海南、福建）、台湾岛，并延伸至越南北部红河三角洲及老挝北部。常见于低地平原、农耕湿地、灌丛及林地边缘。",
+    "map_coordinates": [
+      23.5,
+      113.5
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          28.8,
+          116.5
+        ],
+        [
+          28.5,
+          118
+        ],
+        [
+          27.8,
+          120.2
+        ],
+        [
+          27,
+          120.8
+        ],
+        [
+          26,
+          121
+        ],
+        [
+          24.5,
+          121.5
+        ],
+        [
+          23.5,
+          121
+        ],
+        [
+          22.5,
+          120.5
+        ],
+        [
+          21.6,
+          110.5
+        ],
+        [
+          21.2,
+          109.5
+        ],
+        [
+          21.3,
+          108
+        ],
+        [
+          21.8,
+          107
+        ],
+        [
+          22.5,
+          106.5
+        ],
+        [
+          23,
+          105.5
+        ],
+        [
+          23.8,
+          104.5
+        ],
+        [
+          24.2,
+          105.5
+        ],
+        [
+          25,
+          106.5
+        ],
+        [
+          26,
+          107.5
+        ],
+        [
+          26.8,
+          108.5
+        ],
+        [
+          27.5,
+          110.5
+        ],
+        [
+          28.2,
+          113
+        ],
+        [
+          28.5,
+          115
+        ]
+      ],
+      [
+        [
+          25.3,
+          121.5
+        ],
+        [
+          25.1,
+          121.7
+        ],
+        [
+          24.8,
+          121.9
+        ],
+        [
+          24.5,
+          121.6
+        ],
+        [
+          24.2,
+          121.8
+        ],
+        [
+          23.9,
+          121.5
+        ],
+        [
+          23.5,
+          121.4
+        ],
+        [
+          23,
+          121.3
+        ],
+        [
+          22.6,
+          121
+        ],
+        [
+          22.1,
+          120.8
+        ],
+        [
+          21.9,
+          120.6
+        ],
+        [
+          22.1,
+          120.4
+        ],
+        [
+          22.5,
+          120.2
+        ],
+        [
+          23,
+          120.1
+        ],
+        [
+          23.5,
+          120.1
+        ],
+        [
+          24,
+          120.3
+        ],
+        [
+          24.5,
+          120.5
+        ],
+        [
+          25,
+          120.7
+        ],
+        [
+          25.4,
+          121
+        ]
+      ],
+      [
+        [
+          19.9,
+          109.5
+        ],
+        [
+          19.8,
+          109.8
+        ],
+        [
+          19.6,
+          110.1
+        ],
+        [
+          19.4,
+          110.5
+        ],
+        [
+          19.1,
+          110.8
+        ],
+        [
+          18.8,
+          110.6
+        ],
+        [
+          18.5,
+          110.3
+        ],
+        [
+          18.2,
+          110
+        ],
+        [
+          18.1,
+          109.7
+        ],
+        [
+          18.2,
+          109.4
+        ],
+        [
+          18.4,
+          109.1
+        ],
+        [
+          18.7,
+          108.8
+        ],
+        [
+          19.1,
+          108.7
+        ],
+        [
+          19.5,
+          108.8
+        ],
+        [
+          19.8,
+          109
+        ]
+      ],
+      [
+        [
+          21.5,
+          108
+        ],
+        [
+          21.2,
+          107.8
+        ],
+        [
+          20.8,
+          107
+        ],
+        [
+          20.4,
+          106.5
+        ],
+        [
+          20,
+          105.8
+        ],
+        [
+          19.6,
+          105.2
+        ],
+        [
+          19.4,
+          104.5
+        ],
+        [
+          19.6,
+          104
+        ],
+        [
+          20,
+          103.6
+        ],
+        [
+          20.5,
+          103.2
+        ],
+        [
+          21,
+          103
+        ],
+        [
+          21.5,
+          103.4
+        ],
+        [
+          22,
+          104
+        ],
+        [
+          22.3,
+          104.8
+        ],
+        [
+          22.5,
+          105.5
+        ],
+        [
+          22.3,
+          106.2
+        ],
+        [
+          21.8,
+          107
+        ],
+        [
+          21.7,
+          107.8
+        ]
+      ]
+    ]
+  },
+  "image": "/images/animals/chinese-cobra.jpg"
+}

@@ -3,14 +3,14 @@
   "nameZh": "动物界",
   "level": "Kingdom",
   "levelZh": "界",
-  "count": 424,
+  "count": 425,
   "children": [
     {
       "name": "Chordata",
       "nameZh": "脊索动物门",
       "level": "Phylum",
       "levelZh": "门",
-      "count": 376,
+      "count": 377,
       "children": [
         {
           "name": "Mammalia",
@@ -7387,14 +7387,14 @@
           "nameZh": "爬行纲",
           "level": "Class",
           "levelZh": "纲",
-          "count": 35,
+          "count": 36,
           "children": [
             {
               "name": "Squamata",
               "nameZh": "有鳞目",
               "level": "Order",
               "levelZh": "目",
-              "count": 25,
+              "count": 26,
               "children": [
                 {
                   "name": "Colubridae",
@@ -7610,7 +7610,7 @@
                   "nameZh": "眼镜蛇科",
                   "level": "Family",
                   "levelZh": "科",
-                  "count": 2,
+                  "count": 3,
                   "children": [
                     {
                       "name": "Hydrophis",
@@ -7629,6 +7629,26 @@
                           "animalId": "yellow-bellied-sea-snake",
                           "image": "/images/animals/yellow-bellied-sea-snake.jpg",
                           "scientificName": "Hydrophis platurus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Naja",
+                      "nameZh": "眼镜蛇属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Chinese Cobra",
+                          "nameZh": "中华眼镜蛇",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "chinese-cobra",
+                          "image": "/images/animals/chinese-cobra.jpg",
+                          "scientificName": "Naja atra"
                         }
                       ]
                     },

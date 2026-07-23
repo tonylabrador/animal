@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **424** 种动物
+**统计**：共 **425** 种动物
 
 ---
 
@@ -875,6 +875,7 @@
 
 **眼镜蛇科**
 
+- 中华眼镜蛇 / Chinese Cobra — *Naja atra* `chinese-cobra`
 - 眼镜王蛇 / King Cobra — *Ophiophagus hannah* `king-cobra`
 - 黄腹海蛇 / Yellow-bellied Sea Snake — *Hydrophis platurus* `yellow-bellied-sea-snake`
 
