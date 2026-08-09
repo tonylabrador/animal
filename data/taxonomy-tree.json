@@ -3,21 +3,21 @@
   "nameZh": "动物界",
   "level": "Kingdom",
   "levelZh": "界",
-  "count": 425,
+  "count": 426,
   "children": [
     {
       "name": "Chordata",
       "nameZh": "脊索动物门",
       "level": "Phylum",
       "levelZh": "门",
-      "count": 377,
+      "count": 378,
       "children": [
         {
           "name": "Mammalia",
           "nameZh": "哺乳纲",
           "level": "Class",
           "levelZh": "纲",
-          "count": 171,
+          "count": 172,
           "children": [
             {
               "name": "Carnivora",
@@ -2193,7 +2193,7 @@
               "nameZh": "灵长目",
               "level": "Order",
               "levelZh": "目",
-              "count": 12,
+              "count": 13,
               "children": [
                 {
                   "name": "Hominidae",
@@ -2334,6 +2334,55 @@
                   ]
                 },
                 {
+                  "name": "Lemuridae",
+                  "nameZh": "狐猴科",
+                  "level": "Family",
+                  "levelZh": "科",
+                  "count": 2,
+                  "children": [
+                    {
+                      "name": "Lemur",
+                      "nameZh": "狐猴属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Ring-tailed Lemur",
+                          "nameZh": "环尾狐猴",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "ring-tailed-lemur",
+                          "image": "/images/animals/ring-tailed-lemur.jpg",
+                          "scientificName": "Lemur catta"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Varecia",
+                      "nameZh": "领狐猴属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
+                        {
+                          "name": "Red Ruffed Lemur",
+                          "nameZh": "红领狐猴",
+                          "level": "Species",
+                          "levelZh": "种",
+                          "count": 1,
+                          "children": [],
+                          "animalId": "red-ruffed-lemur",
+                          "image": "/images/animals/red-ruffed-lemur.jpg",
+                          "scientificName": "Varecia rubra"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
                   "name": "Atelidae",
                   "nameZh": "蜘蛛猴科",
                   "level": "Family",
@@ -2444,35 +2493,6 @@
                           "animalId": "perriers-sifaka",
                           "image": "/images/animals/perriers-sifaka.jpg",
                           "scientificName": "Propithecus perrieri"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Lemuridae",
-                  "nameZh": "狐猴科",
-                  "level": "Family",
-                  "levelZh": "科",
-                  "count": 1,
-                  "children": [
-                    {
-                      "name": "Lemur",
-                      "nameZh": "狐猴属",
-                      "level": "Genus",
-                      "levelZh": "属",
-                      "count": 1,
-                      "children": [
-                        {
-                          "name": "Ring-tailed Lemur",
-                          "nameZh": "环尾狐猴",
-                          "level": "Species",
-                          "levelZh": "种",
-                          "count": 1,
-                          "children": [],
-                          "animalId": "ring-tailed-lemur",
-                          "image": "/images/animals/ring-tailed-lemur.jpg",
-                          "scientificName": "Lemur catta"
                         }
                       ]
                     }

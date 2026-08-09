@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **425** 种动物
+**统计**：共 **426** 种动物
 
 ---
 
@@ -152,6 +152,7 @@
 
 **狐猴科**
 
+- 红领狐猴 / Red Ruffed Lemur — *Varecia rubra* `red-ruffed-lemur`
 - 环尾狐猴 / Ring-tailed Lemur — *Lemur catta* `ring-tailed-lemur`
 
 **猴科**
