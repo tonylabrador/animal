@@ -4,7 +4,7 @@
   "name_en": "Anhinga",
   "scientific_name": "Anhinga anhinga",
   "ui_tags": [
-    "Aves",
+    "Bird",
     "Freshwater",
     "Piscivore"
   ],
@@ -342,5 +342,11 @@
       ]
     ]
   },
-  "image": "/images/animals/anhinga.jpg"
+  "image": "/images/animals/anhinga.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

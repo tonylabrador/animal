@@ -4,8 +4,8 @@
   "name_en": "Common Pheasant",
   "scientific_name": "Phasianus colchicus",
   "ui_tags": [
-    "Aves",
-    "Terrestrial",
+    "Bird",
+    "Grassland",
     "Omnivore"
   ],
   "taxonomy": {
@@ -358,5 +358,11 @@
       ]
     ]
   },
-  "image": "/images/animals/common-pheasant.jpg"
+  "image": "/images/animals/common-pheasant.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

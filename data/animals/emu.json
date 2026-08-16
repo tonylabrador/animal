@@ -65,52 +65,13 @@
       133
     ],
     "map_zoom_level": 4,
-    "global_distribution_polygons": [
-      [
-        [
-          -15,
-          120
-        ],
-        [
-          -15,
-          145
-        ],
-        [
-          -38,
-          145
-        ],
-        [
-          -38,
-          120
-        ],
-        [
-          -15,
-          120
-        ]
-      ],
-      [
-        [
-          -21,
-          114
-        ],
-        [
-          -21,
-          120
-        ],
-        [
-          -34,
-          120
-        ],
-        [
-          -34,
-          114
-        ],
-        [
-          -21,
-          114
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/emu.jpg"
+  "image": "/images/animals/emu.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

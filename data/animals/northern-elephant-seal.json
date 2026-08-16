@@ -4,8 +4,8 @@
   "name_en": "Northern elephant seal",
   "scientific_name": "Mirounga angustirostris",
   "ui_tags": [
-    "Mammalia",
-    "Marine",
+    "Mammal",
+    "Ocean",
     "Carnivore"
   ],
   "taxonomy": {
@@ -230,5 +230,11 @@
       ]
     ]
   },
-  "image": "/images/animals/northern-elephant-seal.jpg"
+  "image": "/images/animals/northern-elephant-seal.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -5,7 +5,7 @@
   "scientific_name": "Pelecanus onocrotalus",
   "ui_tags": [
     "Bird",
-    "River",
+    "Freshwater",
     "Carnivore"
   ],
   "taxonomy": {
@@ -65,74 +65,13 @@
       30
     ],
     "map_zoom_level": 3,
-    "global_distribution_polygons": [
-      [
-        [
-          45,
-          25
-        ],
-        [
-          45,
-          30
-        ],
-        [
-          42,
-          30
-        ],
-        [
-          42,
-          25
-        ],
-        [
-          45,
-          25
-        ]
-      ],
-      [
-        [
-          15,
-          -15
-        ],
-        [
-          15,
-          50
-        ],
-        [
-          -30,
-          50
-        ],
-        [
-          -30,
-          -15
-        ],
-        [
-          15,
-          -15
-        ]
-      ],
-      [
-        [
-          40,
-          60
-        ],
-        [
-          40,
-          70
-        ],
-        [
-          35,
-          70
-        ],
-        [
-          35,
-          60
-        ],
-        [
-          40,
-          60
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/great-white-pelican.jpg"
+  "image": "/images/animals/great-white-pelican.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

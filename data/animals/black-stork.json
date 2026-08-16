@@ -4,8 +4,8 @@
   "name_en": "Black Stork",
   "scientific_name": "Ciconia nigra",
   "ui_tags": [
-    "Aves",
-    "Wetlands",
+    "Bird",
+    "Wetland",
     "Carnivore"
   ],
   "taxonomy": {
@@ -195,30 +195,14 @@
           28.5,
           65.5
         ]
-      ],
-      [
-        [
-          35.5,
-          110.5
-        ],
-        [
-          42.5,
-          110.5
-        ],
-        [
-          42.5,
-          125.5
-        ],
-        [
-          35.5,
-          125.5
-        ],
-        [
-          35.5,
-          110.5
-        ]
       ]
     ]
   },
-  "image": "/images/animals/black-stork.jpg"
+  "image": "/images/animals/black-stork.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

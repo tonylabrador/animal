@@ -65,52 +65,13 @@
       11
     ],
     "map_zoom_level": 5,
-    "global_distribution_polygons": [
-      [
-        [
-          15,
-          10.5
-        ],
-        [
-          17.5,
-          10.5
-        ],
-        [
-          17.5,
-          12
-        ],
-        [
-          15,
-          12
-        ],
-        [
-          15,
-          10.5
-        ]
-      ],
-      [
-        [
-          16,
-          15
-        ],
-        [
-          18,
-          15
-        ],
-        [
-          18,
-          17
-        ],
-        [
-          16,
-          17
-        ],
-        [
-          16,
-          15
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/addax.jpg"
+  "image": "/images/animals/addax.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

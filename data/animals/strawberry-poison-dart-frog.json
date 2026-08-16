@@ -5,7 +5,7 @@
   "scientific_name": "Oophaga pumilio",
   "ui_tags": [
     "Amphibian",
-    "Rainforest",
+    "Forest",
     "Insectivore"
   ],
   "taxonomy": {
@@ -66,8 +66,35 @@
     ],
     "map_zoom_level": 6,
     "global_distribution_polygons": [
-      [[15, -88], [15, -83], [8, -78], [8, -83], [15, -88]]
+      [
+        [
+          15,
+          -88
+        ],
+        [
+          15,
+          -83
+        ],
+        [
+          8,
+          -78
+        ],
+        [
+          8,
+          -83
+        ],
+        [
+          15,
+          -88
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/strawberry-poison-dart-frog.jpg"
+  "image": "/images/animals/strawberry-poison-dart-frog.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

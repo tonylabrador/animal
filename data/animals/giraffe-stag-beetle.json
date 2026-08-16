@@ -2,10 +2,10 @@
   "id": "giraffe-stag-beetle",
   "name_zh": "长颈鹿锯锹甲",
   "name_en": "Giraffe Stag Beetle",
-  "scientific_name": "Prosopocoilus giraffa",
+  "scientific_name": "Prosopocoilus girafa",
   "ui_tags": [
     "Insect",
-    "Rainforest",
+    "Forest",
     "Herbivore"
   ],
   "taxonomy": {
@@ -150,5 +150,15 @@
       ]
     ]
   },
-  "image": "/images/animals/giraffe-stag-beetle.jpg"
+  "image": "/images/animals/giraffe-stag-beetle.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone",
+      "checked_at": "2026-08-16"
+    },
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

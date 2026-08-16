@@ -4,8 +4,8 @@
   "name_en": "Adélie penguin",
   "scientific_name": "Pygoscelis adeliae",
   "ui_tags": [
-    "Aves",
-    "Antarctic Coasts",
+    "Bird",
+    "Coastal",
     "Carnivore"
   ],
   "taxonomy": {
@@ -190,5 +190,11 @@
       ]
     ]
   },
-  "image": "/images/animals/adelie-penguin.jpg"
+  "image": "/images/animals/adelie-penguin.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -4,8 +4,8 @@
   "name_en": "European robin",
   "scientific_name": "Erithacus rubecula",
   "ui_tags": [
-    "Aves",
-    "Woodland",
+    "Bird",
+    "Forest",
     "Insectivore"
   ],
   "taxonomy": {
@@ -222,5 +222,11 @@
       ]
     ]
   },
-  "image": "/images/animals/european-robin.jpg"
+  "image": "/images/animals/european-robin.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

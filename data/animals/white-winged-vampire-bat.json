@@ -2,10 +2,10 @@
   "id": "white-winged-vampire-bat",
   "name_zh": "白翼吸血蝠",
   "name_en": "White-winged vampire bat",
-  "scientific_name": "Diaemus youngi",
+  "scientific_name": "Diaemus youngii",
   "ui_tags": [
     "Mammal",
-    "Neotropical",
+    "Forest",
     "Sanguivore"
   ],
   "taxonomy": {
@@ -114,5 +114,15 @@
       ]
     ]
   },
-  "image": "/images/animals/white-winged-vampire-bat.jpg"
+  "image": "/images/animals/white-winged-vampire-bat.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone",
+      "checked_at": "2026-08-16"
+    },
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

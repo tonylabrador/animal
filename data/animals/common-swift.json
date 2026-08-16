@@ -4,8 +4,8 @@
   "name_en": "Common swift",
   "scientific_name": "Apus apus",
   "ui_tags": [
-    "Aves",
-    "Aerial",
+    "Bird",
+    "Global",
     "Insectivore"
   ],
   "taxonomy": {
@@ -272,5 +272,11 @@
       ]
     ]
   },
-  "image": "/images/animals/common-swift.jpg"
+  "image": "/images/animals/common-swift.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

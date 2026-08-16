@@ -65,30 +65,13 @@
       -115
     ],
     "map_zoom_level": 5,
-    "global_distribution_polygons": [
-      [
-        [
-          43,
-          -122
-        ],
-        [
-          43,
-          -100
-        ],
-        [
-          23,
-          -100
-        ],
-        [
-          23,
-          -122
-        ],
-        [
-          43,
-          -122
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/kit-fox.jpg"
+  "image": "/images/animals/kit-fox.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

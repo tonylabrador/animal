@@ -4,9 +4,9 @@
   "name_en": "Common crane",
   "scientific_name": "Grus grus",
   "ui_tags": [
-    "鸟纲",
-    "湿地",
-    "杂食性"
+    "Bird",
+    "Wetland",
+    "Omnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -122,6 +122,10 @@
         [
           68,
           10
+        ],
+        [
+          70.5,
+          15
         ]
       ],
       [
@@ -160,6 +164,10 @@
         [
           42,
           -8
+        ],
+        [
+          45.2,
+          -5.5
         ]
       ],
       [
@@ -186,6 +194,10 @@
         [
           32.2,
           -8.5
+        ],
+        [
+          36.5,
+          -10.2
         ]
       ],
       [
@@ -228,6 +240,10 @@
         [
           34,
           50
+        ],
+        [
+          32.5,
+          34
         ]
       ],
       [
@@ -258,9 +274,19 @@
         [
           35,
           105
+        ],
+        [
+          40.5,
+          115
         ]
       ]
     ]
   },
-  "image": "/images/animals/common-crane.jpg"
+  "image": "/images/animals/common-crane.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

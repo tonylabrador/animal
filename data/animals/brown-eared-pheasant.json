@@ -65,9 +65,13 @@
       112
     ],
     "map_zoom_level": 7,
-    "global_distribution_polygons": [
-      [[37, 111], [39.5, 111], [39.5, 115], [37, 115], [37, 111]]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/brown-eared-pheasant.jpg"
+  "image": "/images/animals/brown-eared-pheasant.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

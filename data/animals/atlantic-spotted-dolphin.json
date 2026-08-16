@@ -4,8 +4,8 @@
   "name_en": "Atlantic spotted dolphin",
   "scientific_name": "Stenella frontalis",
   "ui_tags": [
-    "Mammalia",
-    "Marine",
+    "Mammal",
+    "Ocean",
     "Carnivore"
   ],
   "taxonomy": {
@@ -292,5 +292,11 @@
       ]
     ]
   },
-  "image": "/images/animals/atlantic-spotted-dolphin.jpg"
+  "image": "/images/animals/atlantic-spotted-dolphin.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

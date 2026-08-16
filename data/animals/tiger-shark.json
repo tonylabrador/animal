@@ -4,9 +4,9 @@
   "name_en": "Tiger shark",
   "scientific_name": "Galeocerdo cuvier",
   "ui_tags": [
-    "Chondrichthyes",
-    "Marine",
-    "Apex Predator"
+    "Fish",
+    "Ocean",
+    "Carnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -420,5 +420,11 @@
       ]
     ]
   },
-  "image": "/images/animals/tiger-shark.jpg"
+  "image": "/images/animals/tiger-shark.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

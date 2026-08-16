@@ -4,7 +4,7 @@
   "name_en": "Red swamp crayfish",
   "scientific_name": "Procambarus clarkii",
   "ui_tags": [
-    "Malacostraca",
+    "Crustacean",
     "Freshwater",
     "Omnivore"
   ],
@@ -202,5 +202,11 @@
       ]
     ]
   },
-  "image": "/images/animals/red-swamp-crayfish.jpg"
+  "image": "/images/animals/red-swamp-crayfish.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

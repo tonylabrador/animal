@@ -4,8 +4,8 @@
   "name_en": "Black Swallowtail",
   "scientific_name": "Papilio polyxenes",
   "ui_tags": [
-    "Insecta",
-    "Terrestrial",
+    "Insect",
+    "Grassland",
     "Herbivore"
   ],
   "taxonomy": {
@@ -200,5 +200,11 @@
       ]
     ]
   },
-  "image": "/images/animals/black-swallowtail.jpg"
+  "image": "/images/animals/black-swallowtail.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

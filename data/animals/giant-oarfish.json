@@ -65,52 +65,13 @@
       140
     ],
     "map_zoom_level": 3,
-    "global_distribution_polygons": [
-      [
-        [
-          45,
-          -170
-        ],
-        [
-          45,
-          -60
-        ],
-        [
-          -45,
-          -60
-        ],
-        [
-          -45,
-          -170
-        ],
-        [
-          45,
-          -170
-        ]
-      ],
-      [
-        [
-          45,
-          120
-        ],
-        [
-          45,
-          180
-        ],
-        [
-          -45,
-          180
-        ],
-        [
-          -45,
-          120
-        ],
-        [
-          45,
-          120
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/giant-oarfish.jpg"
+  "image": "/images/animals/giant-oarfish.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

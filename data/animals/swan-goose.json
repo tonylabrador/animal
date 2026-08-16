@@ -35,9 +35,9 @@
     }
   },
   "conservation_status": {
-    "code": "VU",
-    "en": "Vulnerable",
-    "zh": "易危"
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
   },
   "description": {
     "en": "The swan goose is a large, elegant waterbird known as the wild ancestor of the domesticated Chinese goose, characterized by its long neck and bicolored bill.",
@@ -124,5 +124,16 @@
       ]
     ]
   },
-  "image": "/images/animals/swan-goose.jpg"
+  "image": "/images/animals/swan-goose.jpg",
+  "sources": {
+    "conservation": {
+      "authority": "IUCN Red List",
+      "release": "2026-1",
+      "checked_at": "2026-08-16"
+    },
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -35,9 +35,9 @@
     }
   },
   "conservation_status": {
-    "code": "CR",
-    "en": "Critically Endangered",
-    "zh": "极危"
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
   },
   "description": {
     "en": "A steppe antelope known for its oversized, flexible snout that looks like a mini-trunk.",
@@ -65,28 +65,18 @@
       67
     ],
     "map_zoom_level": 4,
-    "global_distribution_polygons": [
-      [
-        [
-          46,
-          45,
-          51,
-          48
-        ],
-        [
-          44,
-          55,
-          49,
-          60
-        ],
-        [
-          46,
-          92,
-          48,
-          93
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/saiga-antelope.jpg"
+  "image": "/images/animals/saiga-antelope.jpg",
+  "sources": {
+    "conservation": {
+      "authority": "IUCN Red List",
+      "release": "2026-1",
+      "checked_at": "2026-08-16"
+    },
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

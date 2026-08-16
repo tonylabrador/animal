@@ -5,7 +5,7 @@
   "scientific_name": "Harpia harpyja",
   "ui_tags": [
     "Bird",
-    "Rainforest",
+    "Forest",
     "Carnivore"
   ],
   "taxonomy": {
@@ -66,8 +66,47 @@
     ],
     "map_zoom_level": 4,
     "global_distribution_polygons": [
-      [[20, -95], [15, -85], [10, -75], [5, -50], [-25, -45], [-30, -60], [-10, -80], [20, -95]]
+      [
+        [
+          20,
+          -95
+        ],
+        [
+          15,
+          -85
+        ],
+        [
+          10,
+          -75
+        ],
+        [
+          5,
+          -50
+        ],
+        [
+          -25,
+          -45
+        ],
+        [
+          -30,
+          -60
+        ],
+        [
+          -10,
+          -80
+        ],
+        [
+          20,
+          -95
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/harpy-eagle.jpg"
+  "image": "/images/animals/harpy-eagle.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

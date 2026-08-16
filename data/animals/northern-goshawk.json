@@ -4,9 +4,9 @@
   "name_en": "Northern Goshawk",
   "scientific_name": "Accipiter gentilis",
   "ui_tags": [
-    "鸟纲",
-    "森林",
-    "肉食性"
+    "Bird",
+    "Forest",
+    "Carnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -198,5 +198,11 @@
       ]
     ]
   },
-  "image": "/images/animals/northern-goshawk.jpg"
+  "image": "/images/animals/northern-goshawk.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

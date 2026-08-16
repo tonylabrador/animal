@@ -5,7 +5,7 @@
   "scientific_name": "Propithecus perrieri",
   "ui_tags": [
     "Mammal",
-    "Rainforest",
+    "Forest",
     "Herbivore"
   ],
   "taxonomy": {
@@ -94,5 +94,11 @@
       ]
     ]
   },
-  "image": "/images/animals/perriers-sifaka.jpg"
+  "image": "/images/animals/perriers-sifaka.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

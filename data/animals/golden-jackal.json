@@ -66,8 +66,55 @@
     ],
     "map_zoom_level": 3,
     "global_distribution_polygons": [
-      [[45, 15], [50, 30], [45, 50], [30, 80], [10, 80], [10, 70], [25, 50], [25, 30], [40, 15], [45, 15]]
+      [
+        [
+          45,
+          15
+        ],
+        [
+          50,
+          30
+        ],
+        [
+          45,
+          50
+        ],
+        [
+          30,
+          80
+        ],
+        [
+          10,
+          80
+        ],
+        [
+          10,
+          70
+        ],
+        [
+          25,
+          50
+        ],
+        [
+          25,
+          30
+        ],
+        [
+          40,
+          15
+        ],
+        [
+          45,
+          15
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/golden-jackal.jpg"
+  "image": "/images/animals/golden-jackal.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

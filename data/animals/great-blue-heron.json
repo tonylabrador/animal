@@ -5,7 +5,7 @@
   "scientific_name": "Ardea herodias",
   "ui_tags": [
     "Bird",
-    "River",
+    "Freshwater",
     "Carnivore"
   ],
   "taxonomy": {
@@ -65,30 +65,13 @@
       -95
     ],
     "map_zoom_level": 3,
-    "global_distribution_polygons": [
-      [
-        [
-          8,
-          -130
-        ],
-        [
-          60,
-          -130
-        ],
-        [
-          60,
-          -60
-        ],
-        [
-          8,
-          -60
-        ],
-        [
-          8,
-          -130
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/great-blue-heron.jpg"
+  "image": "/images/animals/great-blue-heron.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

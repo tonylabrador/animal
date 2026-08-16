@@ -5,7 +5,7 @@
   "scientific_name": "Eunectes beniensis",
   "ui_tags": [
     "Reptile",
-    "Swamp",
+    "Wetland",
     "Carnivore"
   ],
   "taxonomy": {
@@ -146,5 +146,11 @@
       ]
     ]
   },
-  "image": "/images/animals/bolivian-anaconda.jpg"
+  "image": "/images/animals/bolivian-anaconda.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

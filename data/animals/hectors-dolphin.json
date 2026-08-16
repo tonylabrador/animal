@@ -5,7 +5,7 @@
   "scientific_name": "Cephalorhynchus hectori",
   "ui_tags": [
     "Mammal",
-    "Coastal Waters",
+    "Coastal",
     "Carnivore"
   ],
   "taxonomy": {
@@ -206,5 +206,11 @@
       ]
     ]
   },
-  "image": "/images/animals/hectors-dolphin.jpg"
+  "image": "/images/animals/hectors-dolphin.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

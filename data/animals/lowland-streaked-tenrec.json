@@ -65,9 +65,13 @@
       49
     ],
     "map_zoom_level": 7,
-    "global_distribution_polygons": [
-      [[-12, 48], [-18, 48], [-18, 50.5], [-12, 50.5], [-12, 48]]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/lowland-streaked-tenrec.jpg"
+  "image": "/images/animals/lowland-streaked-tenrec.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

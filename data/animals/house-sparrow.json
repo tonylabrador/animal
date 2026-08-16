@@ -5,7 +5,7 @@
   "scientific_name": "Passer domesticus",
   "ui_tags": [
     "Bird",
-    "Global",
+    "Urban",
     "Omnivore"
   ],
   "taxonomy": {
@@ -68,28 +68,6 @@
     "global_distribution_polygons": [
       [
         [
-          35,
-          -125
-        ],
-        [
-          60,
-          -125
-        ],
-        [
-          60,
-          -60
-        ],
-        [
-          35,
-          -60
-        ],
-        [
-          35,
-          -125
-        ]
-      ],
-      [
-        [
           -10,
           -75
         ],
@@ -135,30 +113,14 @@
           35,
           -10
         ]
-      ],
-      [
-        [
-          -15,
-          115
-        ],
-        [
-          -40,
-          115
-        ],
-        [
-          -40,
-          155
-        ],
-        [
-          -15,
-          155
-        ],
-        [
-          -15,
-          115
-        ]
       ]
     ]
   },
-  "image": "/images/animals/house-sparrow.jpg"
+  "image": "/images/animals/house-sparrow.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

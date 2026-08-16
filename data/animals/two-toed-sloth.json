@@ -5,7 +5,7 @@
   "scientific_name": "Choloepus didactylus",
   "ui_tags": [
     "Mammal",
-    "Rainforest",
+    "Forest",
     "Herbivore"
   ],
   "taxonomy": {
@@ -194,5 +194,11 @@
       ]
     ]
   },
-  "image": "/images/animals/two-toed-sloth.jpg"
+  "image": "/images/animals/two-toed-sloth.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

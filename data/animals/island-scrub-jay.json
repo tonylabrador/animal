@@ -4,8 +4,8 @@
   "name_en": "Island scrub jay",
   "scientific_name": "Aphelocoma insularis",
   "ui_tags": [
-    "Aves",
-    "Chaparral",
+    "Bird",
+    "Grassland",
     "Omnivore"
   ],
   "taxonomy": {
@@ -170,5 +170,11 @@
       ]
     ]
   },
-  "image": "/images/animals/island-scrub-jay.jpg"
+  "image": "/images/animals/island-scrub-jay.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

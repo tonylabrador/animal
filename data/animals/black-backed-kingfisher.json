@@ -4,8 +4,8 @@
   "name_en": "Black-backed Kingfisher",
   "scientific_name": "Ceyx erithaca",
   "ui_tags": [
-    "Aves",
-    "Tropical Forest",
+    "Bird",
+    "Forest",
     "Insectivore"
   ],
   "taxonomy": {
@@ -35,9 +35,9 @@
     }
   },
   "conservation_status": {
-    "code": "LC",
-    "en": "Least Concern",
-    "zh": "无危"
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
   },
   "description": {
     "en": "The Black-backed Kingfisher (Ceyx erithaca), also known as the Oriental dwarf kingfisher, is a diminutive, jewel-like avian predator endemic to the dense, shaded understories of the Indomalayan realm. Measuring a mere 13-14 centimeters in length, this species is characterized by its dazzling, kaleidoscopic plumage, featuring a brilliant rufous-orange crown, a dark blue to blackish mantle, and striking magenta-washed underparts. Unlike typical kingfishers, it possesses a syndactyl foot structure with only three forward-facing toes, an evolutionary adaptation for perching on slender twigs. It is a solitary, highly territorial insectivore that darts through the forest undergrowth with bullet-like precision.",
@@ -292,5 +292,16 @@
       ]
     ]
   },
-  "image": "/images/animals/black-backed-kingfisher.jpg"
+  "image": "/images/animals/black-backed-kingfisher.jpg",
+  "sources": {
+    "conservation": {
+      "authority": "IUCN Red List",
+      "release": "2026-1",
+      "checked_at": "2026-08-16"
+    },
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

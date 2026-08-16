@@ -4,7 +4,7 @@
   "name_en": "Noisy pitta",
   "scientific_name": "Pitta versicolor",
   "ui_tags": [
-    "Aves",
+    "Bird",
     "Forest",
     "Insectivore"
   ],
@@ -264,5 +264,11 @@
       ]
     ]
   },
-  "image": "/images/animals/noisy-pitta.jpg"
+  "image": "/images/animals/noisy-pitta.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

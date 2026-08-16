@@ -4,9 +4,9 @@
   "name_en": "American Goldfinch",
   "scientific_name": "Spinus tristis",
   "ui_tags": [
-    "鸟纲",
-    "开阔林地",
-    "食草性"
+    "Bird",
+    "Forest",
+    "Herbivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -196,5 +196,11 @@
       ]
     ]
   },
-  "image": "/images/animals/american-goldfinch.jpg"
+  "image": "/images/animals/american-goldfinch.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -4,7 +4,7 @@
   "name_en": "Immortal Jellyfish",
   "scientific_name": "Turritopsis dohrnii",
   "ui_tags": [
-    "Invertebrate",
+    "Cnidarian",
     "Ocean",
     "Carnivore"
   ],
@@ -66,10 +66,95 @@
     ],
     "map_zoom_level": 3,
     "global_distribution_polygons": [
-      [[36, -5], [43, 5], [44, 15], [38, 20], [32, 15], [35, 0], [36, -5]],
-      [[30, 130], [35, 135], [40, 140], [35, 142], [30, 135], [30, 130]],
-      [[15, -85], [25, -80], [25, -75], [18, -65], [10, -75], [15, -85]]
+      [
+        [
+          36,
+          -5
+        ],
+        [
+          43,
+          5
+        ],
+        [
+          44,
+          15
+        ],
+        [
+          38,
+          20
+        ],
+        [
+          32,
+          15
+        ],
+        [
+          35,
+          0
+        ],
+        [
+          36,
+          -5
+        ]
+      ],
+      [
+        [
+          30,
+          130
+        ],
+        [
+          35,
+          135
+        ],
+        [
+          40,
+          140
+        ],
+        [
+          35,
+          142
+        ],
+        [
+          30,
+          135
+        ],
+        [
+          30,
+          130
+        ]
+      ],
+      [
+        [
+          15,
+          -85
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          25,
+          -75
+        ],
+        [
+          18,
+          -65
+        ],
+        [
+          10,
+          -75
+        ],
+        [
+          15,
+          -85
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/immortal-jellyfish.jpg"
+  "image": "/images/animals/immortal-jellyfish.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

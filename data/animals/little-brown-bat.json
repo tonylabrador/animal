@@ -5,7 +5,7 @@
   "scientific_name": "Myotis lucifugus",
   "ui_tags": [
     "Mammal",
-    "Global",
+    "Forest",
     "Insectivore"
   ],
   "taxonomy": {
@@ -98,5 +98,11 @@
       ]
     ]
   },
-  "image": "/images/animals/little-brown-bat.jpg"
+  "image": "/images/animals/little-brown-bat.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

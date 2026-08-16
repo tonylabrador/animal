@@ -4,9 +4,9 @@
   "name_en": "Cuckoo roller",
   "scientific_name": "Leptosomus discolor",
   "ui_tags": [
-    "鸟纲",
-    "森林",
-    "肉食性"
+    "Bird",
+    "Forest",
+    "Carnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -224,5 +224,11 @@
       ]
     ]
   },
-  "image": "/images/animals/cuckoo-roller.jpg"
+  "image": "/images/animals/cuckoo-roller.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

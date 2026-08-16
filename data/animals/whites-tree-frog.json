@@ -4,8 +4,8 @@
   "name_en": "White's Tree Frog",
   "scientific_name": "Ranoidea caerulea",
   "ui_tags": [
-    "Amphibia",
-    "Tropical",
+    "Amphibian",
+    "Forest",
     "Insectivore"
   ],
   "taxonomy": {
@@ -232,5 +232,11 @@
       ]
     ]
   },
-  "image": "/images/animals/whites-tree-frog.jpg"
+  "image": "/images/animals/whites-tree-frog.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

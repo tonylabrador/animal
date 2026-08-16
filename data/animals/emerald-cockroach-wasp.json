@@ -4,8 +4,8 @@
   "name_en": "Emerald cockroach wasp",
   "scientific_name": "Ampulex compressa",
   "ui_tags": [
-    "Insecta",
-    "Tropical",
+    "Insect",
+    "Forest",
     "Parasitoid"
   ],
   "taxonomy": {
@@ -298,5 +298,11 @@
       ]
     ]
   },
-  "image": "/images/animals/emerald-cockroach-wasp.jpg"
+  "image": "/images/animals/emerald-cockroach-wasp.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

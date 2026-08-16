@@ -2,41 +2,23 @@
 
 import { useState, useMemo, useEffect } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { Globe, Search, X, MapPin, Tag, TreeDeciduous, ChevronRight, Shuffle, ArrowDownAZ, ArrowUp, Clock } from "lucide-react";
 import { useLanguage } from "@/lib/LanguageContext";
 import type { Animal } from "@/types/animal";
 import WishlistSection from "@/components/WishlistSection";
 import MessageBoard from "@/components/MessageBoard";
+import { getTagColor } from "@/lib/animalPresentation";
 
 type Language = "en" | "zh";
-
-const TAG_COLORS: Record<string, string> = {
-  Mammal:      "bg-amber-100 text-amber-700",
-  Grassland:   "bg-lime-100 text-lime-700",
-  Forest:      "bg-emerald-100 text-emerald-700",
-  Mountains:   "bg-sky-100 text-sky-700",
-  Ocean:       "bg-blue-100 text-blue-700",
-  River:       "bg-cyan-100 text-cyan-700",
-  Desert:      "bg-orange-100 text-orange-700",
-  Herbivore:   "bg-green-100 text-green-700",
-  Carnivore:   "bg-red-100 text-red-700",
-  Omnivore:    "bg-purple-100 text-purple-700",
-  Insectivore: "bg-pink-100 text-pink-700",
-  Marsupial:   "bg-rose-100 text-rose-700",
-};
-
-const DEFAULT_TAG_COLOR = "bg-slate-100 text-slate-600";
-
-function getTagColor(tag: string): string {
-  return TAG_COLORS[tag] ?? DEFAULT_TAG_COLOR;
-}
 
 interface AnimalCardProps {
   animal: Animal;
   lang: Language;
+  eager?: boolean;
 }
 
-function AnimalCard({ animal, lang }: AnimalCardProps) {
+function AnimalCard({ animal, lang, eager = false }: AnimalCardProps) {
   const [imgError, setImgError] = useState(false);
 
   const primaryName = lang === "en" ? animal.name_en : animal.name_zh;
@@ -52,10 +34,12 @@ function AnimalCard({ animal, lang }: AnimalCardProps) {
       {/* Image */}
       <div className="relative w-full h-52 overflow-hidden bg-slate-100">
         {imageUrl ? (
-          /* eslint-disable-next-line @next/next/no-img-element */
-          <img
+          <Image
             src={imageUrl}
             alt={animal.name_en}
+            fill
+            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+            loading={eager ? "eager" : "lazy"}
             className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
             onError={() => setImgError(true)}
           />
@@ -127,10 +111,16 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
   const [displayCount, setDisplayCount] = useState(24);
   const [showTop, setShowTop] = useState(false);
 
-  // Reset pagination when search or sort changes
-  useEffect(() => {
+  const updateQuery = (value: string) => {
+    setQuery(value);
     setDisplayCount(24);
-  }, [query, sortMode, randomSeed]);
+  };
+
+  const updateSort = (mode: "newest" | "alpha" | "random") => {
+    setSortMode(mode);
+    if (mode === "random") setRandomSeed(Date.now());
+    setDisplayCount(24);
+  };
 
   // Back to Top visibility
   useEffect(() => {
@@ -176,9 +166,14 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
       // Sort alphabetically (defaults to English names)
       result.sort((a, b) => a.name_en.localeCompare(b.name_en));
     } else if (sortMode === "random") {
-      // Randomly shuffle (Fisher-Yates) triggered by sortSeed change
+      // Deterministic Fisher-Yates: stable during a render, refreshed by randomSeed.
+      let seed = randomSeed || 1;
+      const nextRandom = () => {
+        seed = (seed * 1664525 + 1013904223) >>> 0;
+        return seed / 4294967296;
+      };
       for (let i = result.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
+        const j = Math.floor(nextRandom() * (i + 1));
         [result[i], result[j]] = [result[j], result[i]];
       }
     }
@@ -217,12 +212,12 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
               type="text"
               placeholder={lang === "en" ? "Search animals…" : "搜索动物…"}
               value={query}
-              onChange={(e) => setQuery(e.target.value)}
+              onChange={(e) => updateQuery(e.target.value)}
               className="w-full pl-9 pr-8 py-2 text-sm bg-slate-100 rounded-xl border border-transparent focus:border-amber-300 focus:bg-white focus:ring-2 focus:ring-amber-100 outline-none transition-all"
             />
             {query && (
               <button
-                onClick={() => setQuery("")}
+                onClick={() => updateQuery("")}
                 className="absolute right-2.5 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600"
               >
                 <X size={14} />
@@ -252,12 +247,12 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
             type="text"
             placeholder={lang === "en" ? "Search animals…" : "搜索动物…"}
             value={query}
-            onChange={(e) => setQuery(e.target.value)}
+            onChange={(e) => updateQuery(e.target.value)}
             className="w-full pl-9 pr-8 py-2 text-sm bg-slate-100 rounded-xl border border-transparent focus:border-amber-300 focus:bg-white focus:ring-2 focus:ring-amber-100 outline-none transition-all"
           />
           {query && (
             <button
-              onClick={() => setQuery("")}
+              onClick={() => updateQuery("")}
               className="absolute right-7 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600"
             >
               <X size={14} />
@@ -331,7 +326,7 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
       {/* ── Sort & Filter Controls ── */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-4 flex items-center justify-start gap-3 flex-wrap">
         <button
-          onClick={() => setSortMode("newest")}
+          onClick={() => updateSort("newest")}
           className={`flex items-center gap-2 px-4 py-2 rounded-xl font-bold text-sm transition-all duration-200 shadow-sm ${
             sortMode === "newest"
               ? "bg-slate-800 text-white shadow-md"
@@ -342,7 +337,7 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
           {lang === "en" ? "Newest" : "最新添加"}
         </button>
         <button
-          onClick={() => setSortMode("alpha")}
+          onClick={() => updateSort("alpha")}
           className={`flex items-center gap-2 px-4 py-2 rounded-xl font-bold text-sm transition-all duration-200 shadow-sm ${
             sortMode === "alpha"
               ? "bg-slate-800 text-white shadow-md"
@@ -353,7 +348,7 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
           {lang === "en" ? "A-Z" : "按字母表"}
         </button>
         <button
-          onClick={() => { setSortMode("random"); setRandomSeed(Date.now()); }}
+          onClick={() => updateSort("random")}
           className={`flex items-center gap-2 px-4 py-2 rounded-xl font-bold text-sm transition-all duration-200 shadow-sm ${
             sortMode === "random"
               ? "bg-amber-400 text-white shadow-md hover:bg-amber-500"
@@ -379,8 +374,8 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
         ) : (
           <>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-              {visibleAnimals.map((animal) => (
-                <AnimalCard key={animal.id} animal={animal} lang={lang} />
+              {visibleAnimals.map((animal, index) => (
+                <AnimalCard key={animal.id} animal={animal} lang={lang} eager={index < 6} />
               ))}
             </div>
 

@@ -5,7 +5,7 @@
   "scientific_name": "Tripedalia cystophora",
   "ui_tags": [
     "Cnidarian",
-    "Mangrove",
+    "Wetland",
     "Carnivore"
   ],
   "taxonomy": {
@@ -94,28 +94,6 @@
       ],
       [
         [
-          18,
-          -67.2
-        ],
-        [
-          18.5,
-          -67.2
-        ],
-        [
-          18.5,
-          -65.5
-        ],
-        [
-          18,
-          -65.5
-        ],
-        [
-          18,
-          -67.2
-        ]
-      ],
-      [
-        [
           15.2,
           -88.5
         ],
@@ -168,5 +146,11 @@
       ]
     ]
   },
-  "image": "/images/animals/mangrove-box-jellyfish.jpg"
+  "image": "/images/animals/mangrove-box-jellyfish.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

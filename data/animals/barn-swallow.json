@@ -5,7 +5,7 @@
   "scientific_name": "Hirundo rustica",
   "ui_tags": [
     "Bird",
-    "Global",
+    "Farm",
     "Insectivore"
   ],
   "taxonomy": {
@@ -144,5 +144,11 @@
       ]
     ]
   },
-  "image": "/images/animals/barn-swallow.jpg"
+  "image": "/images/animals/barn-swallow.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

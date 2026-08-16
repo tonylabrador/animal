@@ -65,30 +65,13 @@
       100.2
     ],
     "map_zoom_level": 8,
-    "global_distribution_polygons": [
-      [
-        [
-          36.3,
-          99.5
-        ],
-        [
-          37.3,
-          99.5
-        ],
-        [
-          37.3,
-          101
-        ],
-        [
-          36.3,
-          101
-        ],
-        [
-          36.3,
-          99.5
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/przewalskis-gazelle.jpg"
+  "image": "/images/animals/przewalskis-gazelle.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

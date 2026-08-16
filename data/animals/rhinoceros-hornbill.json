@@ -5,7 +5,7 @@
   "scientific_name": "Buceros rhinoceros",
   "ui_tags": [
     "Bird",
-    "Rainforest",
+    "Forest",
     "Omnivore"
   ],
   "taxonomy": {
@@ -66,8 +66,55 @@
     ],
     "map_zoom_level": 5,
     "global_distribution_polygons": [
-      [[7, 97], [7, 102], [2, 105], [-5, 106], [-9, 115], [-4, 118], [6, 118], [7, 110], [0, 100], [7, 97]]
+      [
+        [
+          7,
+          97
+        ],
+        [
+          7,
+          102
+        ],
+        [
+          2,
+          105
+        ],
+        [
+          -5,
+          106
+        ],
+        [
+          -9,
+          115
+        ],
+        [
+          -4,
+          118
+        ],
+        [
+          6,
+          118
+        ],
+        [
+          7,
+          110
+        ],
+        [
+          0,
+          100
+        ],
+        [
+          7,
+          97
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/rhinoceros-hornbill.jpg"
+  "image": "/images/animals/rhinoceros-hornbill.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

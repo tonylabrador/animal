@@ -5,7 +5,7 @@
   "scientific_name": "Hippopotamus amphibius",
   "ui_tags": [
     "Mammal",
-    "River",
+    "Freshwater",
     "Herbivore"
   ],
   "taxonomy": {
@@ -110,5 +110,11 @@
       ]
     ]
   },
-  "image": "/images/animals/hippopotamus.jpg"
+  "image": "/images/animals/hippopotamus.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

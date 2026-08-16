@@ -4,9 +4,9 @@
   "name_en": "American Red Squirrel",
   "scientific_name": "Tamiasciurus hudsonicus",
   "ui_tags": [
-    "哺乳纲",
-    "森林",
-    "植食性"
+    "Mammal",
+    "Forest",
+    "Herbivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -220,5 +220,11 @@
       ]
     ]
   },
-  "image": "/images/animals/american-red-squirrel.jpg"
+  "image": "/images/animals/american-red-squirrel.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

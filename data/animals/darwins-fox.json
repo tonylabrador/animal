@@ -4,7 +4,7 @@
   "name_en": "Darwin's fox",
   "scientific_name": "Lycalopex fulvipes",
   "ui_tags": [
-    "Mammalia",
+    "Mammal",
     "Forest",
     "Omnivore"
   ],
@@ -166,5 +166,11 @@
       ]
     ]
   },
-  "image": "/images/animals/darwins-fox.jpg"
+  "image": "/images/animals/darwins-fox.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

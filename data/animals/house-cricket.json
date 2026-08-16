@@ -4,8 +4,8 @@
   "name_en": "House Cricket",
   "scientific_name": "Acheta domesticus",
   "ui_tags": [
-    "Insecta",
-    "Terrestrial",
+    "Insect",
+    "Urban",
     "Omnivore"
   ],
   "taxonomy": {
@@ -232,5 +232,11 @@
       ]
     ]
   },
-  "image": "/images/animals/house-cricket.jpg"
+  "image": "/images/animals/house-cricket.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

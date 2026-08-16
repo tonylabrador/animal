@@ -1,277 +1,153 @@
 /**
- * 自动巡航跑批清空许愿池脚本 (Deterministic Wishlist Auto-Processor)
- * Usage: node scripts/auto_process_wishlist.js
+ * Safe wishlist workflow.
+ *
+ * Prepare the next batch as a validated draft:
+ *   node scripts/auto_process_wishlist.js
+ *
+ * After import and image approval, finalize exact published IDs:
+ *   node scripts/auto_process_wishlist.js --finalize arctic-fox,red-panda
  */
+require("dotenv").config({ path: ".env.local" });
+const fs = require("fs");
+const path = require("path");
+const { execFileSync } = require("child_process");
+const { validateAnimal } = require("./lib/animal-schema");
 
-require('dotenv').config({ path: '.env.local' });
-const fs = require('fs');
-const path = require('path');
-const { execSync } = require('child_process');
+const ROOT = path.join(__dirname, "..");
+const WISHLIST_PATH = path.join(ROOT, "ANIMAL_WISHLIST.md");
+const RECENT_PATH = path.join(ROOT, "RECENTLY_ADDED.md");
+const DRAFT_PATH = path.join(ROOT, "_draft_animals.json");
+const ANIMALS_DIR = path.join(ROOT, "data", "animals");
+const MANIFEST_PATH = path.join(ROOT, "data", "image-attribution.json");
+const BATCH_SIZE = 5;
 
-const WISHLIST_PATH = path.join(__dirname, '..', 'ANIMAL_WISHLIST.md');
-const RECENT_PATH = path.join(__dirname, '..', 'RECENTLY_ADDED.md');
-const ANIMALS_DIR = path.join(__dirname, '..', 'data', 'animals');
-const REVIEW_LOG_PATH = path.join(__dirname, '..', 'REVIEW_MESSAGES.md');
+const GENERATE_PROMPT = `You create fact-checked bilingual species records for Wild Explorer, a children's wildlife encyclopedia.
+Return exactly one raw JSON object, with no Markdown.
 
-const API_KEY = process.env.DEEPSEEK_API_KEY;
-if (!API_KEY) {
-    console.error("❌ 致命错误：找不到 DEEPSEEK_API_KEY，请检查 .env.local 文件。");
-    process.exit(1);
-}
+Rules:
+- The requested scientific name is authoritative. Never silently substitute a fuzzy search result.
+- Use species-level binomial nomenclature. Domestic forms may use an explicitly supplied accepted binomial.
+- ui_tags must contain exactly [Class, Habitat, Diet].
+- Class: Mammal, Bird, Reptile, Amphibian, Fish, Insect, Arachnid, Crustacean, Mollusk, Cnidarian, Invertebrate.
+- Habitat: Forest, Grassland, Savanna, Desert, Mountains, Ocean, Freshwater, Wetland, Tundra, Coastal, Coral Reef, Urban, Farm, Cave, Island, Global.
+- Diet: Carnivore, Herbivore, Omnivore, Insectivore, Frugivore, Piscivore, Scavenger, Filter Feeder, Nectarivore, Sanguivore, Detritivore, Parasitoid, Fungivore.
+- IUCN code must be EX, EW, CR, EN, VU, NT, LC, DD, or NE, with the canonical English and Chinese label.
+- All map coordinates are [latitude, longitude]. A polygon must be a closed non-rectangular ring of verified range coordinates. When no trustworthy range geometry is available, use []. Never invent a bounding box.
+- Write clear, accurate text for a 9-year-old reader: concise overview plus 2-3 sentences per encyclopedia section.
+- image must be null.
+- Include sources.taxonomy and sources.conservation with authority, source URL when known, and checked_at.
 
-const GENERATE_PROMPT = `You are a strict biological taxonomy JSON generation engine.
-I will provide you with an animal name (Chinese / English / Scientific).
-You MUST generate a perfectly formatted JSON file for this animal following the exact schema used in the Wild Explorer app.
+Schema:
+{"id":"kebab-case","name_zh":"...","name_en":"...","scientific_name":"Genus species","ui_tags":["Class","Habitat","Diet"],"taxonomy":{"kingdom":{"en":"Animalia","zh":"动物界"},"phylum":{"en":"...","zh":"..."},"class":{"en":"...","zh":"..."},"order":{"en":"...","zh":"..."},"family":{"en":"...","zh":"..."},"genus":{"en":"...","zh":"..."}},"conservation_status":{"code":"...","en":"...","zh":"..."},"description":{"en":"...","zh":"..."},"encyclopedia":{"anatomy":{"en":"...","zh":"..."},"ecology_and_behavior":{"en":"...","zh":"..."},"habitat_and_distribution":{"en":"...","zh":"..."}},"habitat":{"text_en":"...","text_zh":"...","map_coordinates":[0,0],"map_zoom_level":4,"global_distribution_polygons":[]},"image":null,"sources":{"taxonomy":{"authority":"...","url":"...","checked_at":"YYYY-MM-DD"},"conservation":{"authority":"IUCN Red List","url":"...","checked_at":"YYYY-MM-DD"}}}`;
 
-CRITICAL INSTRUCTIONS:
-1. 简介详尽细致深奥 (Descriptions MUST be extremely detailed, providing extensive facts, physical traits, and intricate ecological roles. Write as a hardcore encyclopedia, both EN and ZH).
-2. 极高精度分布地图 (Map coordinates MUST precisely outline realistic terrains, coasts, and distinct regional borders. Use AT LEAST 15-20 geographic coordinate points per polygon).
-3. 严禁敷衍的方框 (ABSOLUTELY NO lazy 4-point or 5-point rectangular bounding boxes. Draw completely organic, complex polygons that follow real geographical features strictly).
-4. ALL horizontal arrays for polygons: The global_distribution_polygons array coords should try to remain tight on a single line.
-5. TAXONOMY RULE: For all whales, dolphins, and even-toed ungulates, you MUST use the order "Cetartiodactyla" (鲸偶蹄目) instead of Cetacea or Artiodactyla.
-6. Return ONLY raw JSON text. No markdown formatting (\`\`\`json). No apologies.
-
-Required JSON Schema:
-{
-  "id": "kebab-case-name",
-  "name_zh": "...",
-  "name_en": "...",
-  "scientific_name": "...",
-  "ui_tags": ["Class", "Habitat", "Diet"],
-  "taxonomy": {
-    "kingdom": { "en": "...", "zh": "..." },
-    "phylum": { "en": "...", "zh": "..." },
-    "class": { "en": "...", "zh": "..." },
-    "order": { "en": "...", "zh": "..." },
-    "family": { "en": "...", "zh": "..." },
-    "genus": { "en": "...", "zh": "..." }
-  },
-  "conservation_status": { "code": "...", "en": "...", "zh": "..." },
-  "description": { "en": "...", "zh": "..." },
-  "encyclopedia": {
-    "anatomy": { "en": "...", "zh": "..." },
-    "ecology_and_behavior": { "en": "...", "zh": "..." },
-    "habitat_and_distribution": { "en": "...", "zh": "..." }
-  },
-  "habitat": {
-    "text_en": "...",
-    "text_zh": "...",
-    "map_coordinates": [lat, lng],
-    "map_zoom_level": 4,
-    "global_distribution_polygons": [[[lat, lng], [lat, lng], ...]]
-  },
-  "image": null
-}`;
-
-const REVIEW_PROMPT = `You are an INDEPENDENT AI REVIEWER for a wildlife application database.
-Review the following JSON data representing an animal. Look critically for the following errors:
-1. 'global_distribution_polygons' simply being a lazy 4-point/5-point square or rectangle box. (It must be a complex, high-precision shape).
-2. Descriptions ("description", "encyclopedia") being too brief, generic, or not strictly bilingual.
-3. Missing fields or schema-breaking errors.
-
-Respond with STRICTLY "PASS" if the JSON is highly detailed and polygons look organic and complex.
-If there are ANY issues, respond with a short bulleted list of the errors found. DO NOT fix the JSON, just list the errors. Return ONLY the bullet points.`;
-
-async function callDeepSeek(systemPrompt, userText) {
-    const res = await fetch("https://api.deepseek.com/chat/completions", {
-        method: "POST",
-        headers: { 
-            "Content-Type": "application/json",
-            "Authorization": `Bearer ${API_KEY}`
-        },
-        body: JSON.stringify({
-            model: "deepseek-v4-pro",
-            messages: [
-                { role: "system", content: systemPrompt },
-                { role: "user", content: `Task Data:\n${userText}` }
-            ],
-            temperature: 0.2
-        })
-    });
-    if (!res.ok) {
-        throw new Error(`DeepSeek API error: ${res.status}`);
-    }
-    const data = await res.json();
-    let text = data.choices?.[0]?.message?.content || "";
-    return text.replace(/```json\n?/gi, "").replace(/```\n?/g, "").trim();
+function parseArgs() {
+  const index = process.argv.indexOf("--finalize");
+  return { finalize: index >= 0 ? (process.argv[index + 1] || "").split(",").filter(Boolean) : [] };
 }
 
 function parseWishlist() {
-    if (!fs.existsSync(WISHLIST_PATH)) return [];
-    const content = fs.readFileSync(WISHLIST_PATH, "utf-8");
-    const lines = content.split("\n");
-    const entries = [];
-    let inTable = false;
-    for (const line of lines) {
-        if (!inTable && line.includes("|---")) {
-            inTable = true;
-            continue;
-        }
-        if (inTable && line.trim().startsWith("|")) {
-            const cols = line.split("|").map(col => col.trim()).filter(Boolean);
-            if (cols.length >= 4 && cols[1] !== "—" && cols[1] !== "中文名") {
-                entries.push({ originalLine: line, zh: cols[1], en: cols[2], scientific: cols[3] });
-            }
-        }
+  const content = fs.readFileSync(WISHLIST_PATH, "utf8");
+  const entries = [];
+  for (const line of content.split("\n")) {
+    if (!line.trim().startsWith("|") || line.includes("|---") || line.includes("中文名")) continue;
+    const columns = line.split("|").slice(1, -1).map((column) => column.trim());
+    if (columns.length < 4 || columns[1] === "—") continue;
+    entries.push({ line, zh: columns[1], en: columns[2], scientific: columns[3] });
+  }
+  return { content, entries };
+}
+
+async function callGenerator(entry) {
+  const apiKey = process.env.DEEPSEEK_API_KEY;
+  if (!apiKey) throw new Error("DEEPSEEK_API_KEY is missing from .env.local");
+  const response = await fetch("https://api.deepseek.com/chat/completions", {
+    method: "POST",
+    headers: { "Content-Type": "application/json", Authorization: `Bearer ${apiKey}` },
+    body: JSON.stringify({
+      model: process.env.DEEPSEEK_MODEL || "deepseek-chat",
+      messages: [
+        { role: "system", content: GENERATE_PROMPT },
+        { role: "user", content: `${entry.zh} | ${entry.en} | ${entry.scientific}` },
+      ],
+      temperature: 0.1,
+      response_format: { type: "json_object" },
+    }),
+  });
+  if (!response.ok) throw new Error(`DeepSeek HTTP ${response.status}`);
+  const data = await response.json();
+  return JSON.parse(data.choices?.[0]?.message?.content || "");
+}
+
+function writeAtomic(filePath, content) {
+  const temporary = `${filePath}.tmp`;
+  fs.writeFileSync(temporary, content, "utf8");
+  fs.renameSync(temporary, filePath);
+}
+
+async function prepareDraft() {
+  const existingDraft = JSON.parse(fs.readFileSync(DRAFT_PATH, "utf8"));
+  if (!Array.isArray(existingDraft) || existingDraft.length > 0) {
+    throw new Error("Draft is not empty. Import, archive, or clear it deliberately before preparing another batch.");
+  }
+  const { entries } = parseWishlist();
+  const batch = entries.slice(0, BATCH_SIZE);
+  if (batch.length === 0) {
+    console.log("✅ No pending wishlist entries.");
+    return;
+  }
+
+  const generated = [];
+  for (const entry of batch) {
+    console.log(`Generating draft: ${entry.zh} / ${entry.en}`);
+    const animal = await callGenerator(entry);
+    if (entry.scientific !== "—" && animal.scientific_name.toLowerCase() !== entry.scientific.toLowerCase()) {
+      throw new Error(`${entry.en}: generator changed scientific name from ${entry.scientific} to ${animal.scientific_name}`);
     }
-    return entries;
+    const result = validateAnimal(animal);
+    if (result.errors.length > 0) throw new Error(`${entry.en}: ${result.errors.join("; ")}`);
+    generated.push(animal);
+  }
+  writeAtomic(DRAFT_PATH, `${JSON.stringify(generated, null, 2)}\n`);
+  console.log(`✅ Prepared ${generated.length} validated draft records. Wishlist was not modified.`);
+  console.log("Review the draft, then run: node import_animals.js --dry-run");
 }
 
-function updateWishlistContent(remainingEntries) {
-    const header = `# 🌟 Animal Wishlist (许愿池)\n\n> 通过「许愿池分类学拦截网关」验证的待添加物种清单。\n\n| # | 中文名 | English Name | Scientific Name | 状态 |\n|---|--------|-------------|-----------------|------|\n`;
-    let body = remainingEntries.map((e, index) => `| ${index + 1} | ${e.zh} | ${e.en} | ${e.scientific} | ⏳ Pending |`).join("\n");
-    if (body.length > 0) body += "\n";
-    fs.writeFileSync(WISHLIST_PATH, header + body, "utf-8");
-}
-
-function updateRecentlyAdded(newAnimals) {
-    if (!fs.existsSync(RECENT_PATH)) return;
-    const content = fs.readFileSync(RECENT_PATH, "utf-8");
-    const lines = content.split("\n");
-    const existing = [];
-    let inTable = false;
-    for (const line of lines) {
-        if (!inTable && line.includes("|---")) {
-            inTable = true;
-            continue;
-        }
-        if (inTable && line.trim().startsWith("|")) {
-            const cols = line.split("|").map(col => col.trim()).filter(Boolean);
-            if (cols.length >= 4 && cols[1] !== "—" && cols[1] !== "中文名") {
-                const link = cols[4] || "";
-                existing.push({ zh: cols[1], en: cols[2], scientific: cols[3], link });
-            }
-        }
+function finalize(ids) {
+  if (ids.length === 0) throw new Error("--finalize requires a comma-separated list of exact animal IDs");
+  const manifest = JSON.parse(fs.readFileSync(MANIFEST_PATH, "utf8"));
+  const animals = [];
+  for (const id of ids) {
+    const filePath = path.join(ANIMALS_DIR, `${id}.json`);
+    if (!fs.existsSync(filePath)) throw new Error(`${id}: published JSON does not exist`);
+    const animal = JSON.parse(fs.readFileSync(filePath, "utf8"));
+    const result = validateAnimal(animal, { fileName: `${id}.json` });
+    if (result.errors.length > 0) throw new Error(`${id}: ${result.errors.join("; ")}`);
+    if (manifest[id]?.review_status !== "human-approved" || manifest[id]?.license_status !== "verified") {
+      throw new Error(`${id}: image has not passed licensed human approval`);
     }
+    animals.push(animal);
+  }
 
-    const formattedNew = newAnimals.map(a => ({
-        zh: a.name_zh,
-        en: a.name_en,
-        scientific: a.scientific_name,
-        link: `[Link](https://wild-explorer.vercel.app/animal/${a.id})`
-    }));
+  execFileSync(process.execPath, [path.join(ROOT, "validate_animals.js")], { stdio: "inherit", cwd: ROOT });
+  execFileSync(process.execPath, [path.join(ROOT, "update_animals_list.js")], { stdio: "inherit", cwd: ROOT });
+  execFileSync(process.execPath, [path.join(ROOT, "build_taxonomy_tree.js")], { stdio: "inherit", cwd: ROOT });
 
-    const combined = [...formattedNew.reverse(), ...existing].slice(0, 20); // Keep only latest 20
-    const header = `# ✅ Recently Added Animals\n\n> Latest additions successfully parsed by the AI pipeline.\n\n| # | 中文名 | English Name | Scientific Name | Link |\n|---|--------|-------------|-----------------|------|\n`;
-    const body = combined.map((e, index) => `| ${index + 1} | ${e.zh} | ${e.en} | ${e.scientific} | ${e.link} |`).join("\n");
-    fs.writeFileSync(RECENT_PATH, header + body + "\n", "utf-8");
+  const { content, entries } = parseWishlist();
+  const removeKeys = new Set(animals.flatMap((animal) => [animal.name_en.toLowerCase(), animal.scientific_name.toLowerCase()]));
+  const linesToRemove = new Set(entries
+    .filter((entry) => removeKeys.has(entry.en.toLowerCase()) || removeKeys.has(entry.scientific.toLowerCase()))
+    .map((entry) => entry.line));
+  const nextWishlist = content.split("\n").filter((line) => !linesToRemove.has(line)).join("\n");
+  writeAtomic(WISHLIST_PATH, nextWishlist);
+
+  const recentContent = fs.existsSync(RECENT_PATH) ? fs.readFileSync(RECENT_PATH, "utf8") : "";
+  const rows = animals.map((animal) => `| - | ${animal.name_zh} | ${animal.name_en} | ${animal.scientific_name} | [Link](https://wild-explorer.vercel.app/animal/${animal.id}) |`).join("\n");
+  writeAtomic(RECENT_PATH, `${recentContent.trimEnd()}\n${rows}\n`);
+  console.log(`✅ Finalized ${ids.length} approved animals and removed only their exact wishlist rows.`);
 }
 
-function logReviewIssue(animalName, issueText) {
-    if (!fs.existsSync(REVIEW_LOG_PATH)) {
-        fs.writeFileSync(REVIEW_LOG_PATH, "# 🚨 Independent AI Review Issues\n\n", "utf-8");
-    }
-    const timestamp = new Date().toISOString().replace("T", " ").split(".")[0];
-    const logEntry = `\n### [${timestamp}] Review Failed for: ${animalName}\n${issueText}\n`;
-    fs.appendFileSync(REVIEW_LOG_PATH, logEntry, "utf-8");
-    console.warn(`⚠️ Review Issue logged for ${animalName}`);
-}
-
-const BATCH_SIZE = 5;
-
-async function runAutoPipeline() {
-    console.log("🚀 Starting Automatic Wishlist Processing Pipeline...");
-    
-    while (true) {
-        let wishlist = parseWishlist();
-        if (wishlist.length === 0) {
-            console.log("✅ Wishlist is completely empty! Pipeline finished.");
-            break;
-        }
-
-        const batch = wishlist.slice(0, BATCH_SIZE);
-        console.log(`\n📦 Processing batch of ${batch.length} animals...`);
-        const successfullyGenerated = [];
-
-        // 1. Generation Step
-        for (const animal of batch) {
-            console.log(`   ⚙️ Generating JSON for: ${animal.zh} (${animal.en})`);
-            try {
-                const animalStr = `${animal.zh} | ${animal.en} | ${animal.scientific}`;
-                const jsonStr = await callDeepSeek(GENERATE_PROMPT, animalStr);
-                const parsed = JSON.parse(jsonStr);
-                
-                if (!parsed.id) throw new Error("Generated JSON missing 'id' field");
-
-                const filePath = path.join(ANIMALS_DIR, `${parsed.id}.json`);
-                fs.writeFileSync(filePath, JSON.stringify(parsed, null, 2), "utf-8");
-                successfullyGenerated.push(parsed);
-
-            } catch (err) {
-                console.error(`   ❌ Failed to generate JSON for ${animal.zh}:`, err.message);
-                logReviewIssue(animal.zh, `FATAL JSON GENERATION ERROR: ${err.message}`);
-            }
-            // Sleep to avoid rate limits
-            await new Promise(r => setTimeout(r, 4000));
-        }
-
-        // 2. Run Update Scripts (List & Images)
-        console.log(`   🔄 Running underlying update scripts...`);
-        try {
-            console.log("      - Downloading missing images...");
-            execSync('node download_images.js', { stdio: 'inherit', cwd: path.join(__dirname, '..') });
-            console.log("      - Updating animals list mappings...");
-            execSync('node update_animals_list.js', { stdio: 'inherit', cwd: path.join(__dirname, '..') });
-            console.log("      - Building taxonomy tree...");
-            execSync('node build_taxonomy_tree.js', { stdio: 'inherit', cwd: path.join(__dirname, '..') });
-            // Clean wishlist directly to avoid conflicts, though we will prune it ourselves below
-            execSync('node scripts/clean_wishlist.js', { stdio: 'inherit', cwd: path.join(__dirname, '..') });
-        } catch(e) {
-            console.error("   ❌ Error during script execution:", e.message);
-        }
-
-        // 3. Independent Review Step
-        console.log(`   🧐 Independent AI Review Agent checking output...`);
-        for (const animal of successfullyGenerated) {
-            try {
-                const jsonContent = JSON.stringify(animal);
-                const reviewResult = await callDeepSeek(REVIEW_PROMPT, jsonContent);
-                
-                if (reviewResult.replace(/\s/g, '').toUpperCase() === "PASS") {
-                    console.log(`      ✅ ${animal.name_zh}: PASS`);
-                } else {
-                    console.log(`      ⚠️ ${animal.name_zh}: FAILED REVIEW (check REVIEW_MESSAGES.md)`);
-                    logReviewIssue(animal.name_zh, reviewResult);
-                }
-            } catch(e) {
-                console.error(`      ❌ Review failed to execute for ${animal.name_zh}`);
-            }
-            await new Promise(r => setTimeout(r, 1000));
-        }
-
-        // 4. Update Wishlist & Recently Added (Pruning the batch)
-        console.log(`   📝 Updating Markdown indices...`);
-        // We re-parse just in case clean_wishlist stripped more duplicates
-        let currentWishlist = parseWishlist();
-        const generatedNamesRegex = successfullyGenerated.map(a => new RegExp(`${a.name_en}|${a.name_zh}`, 'i'));
-        
-        // Remove from wishlist
-        let newWishlist = currentWishlist.filter(w => !generatedNamesRegex.some(rx => rx.test(w.en) || rx.test(w.zh)));
-        
-        // Ensure we at least manually pop the batch items in case regex fails
-        const originalBatchEnKeys = batch.map(b => b.en);
-        newWishlist = newWishlist.filter(w => !originalBatchEnKeys.includes(w.en));
-
-        updateWishlistContent(newWishlist);
-        updateRecentlyAdded(successfullyGenerated);
-
-        console.log(`Batch complete. Remaining in wishlist: ${newWishlist.length}`);
-        
-        if (newWishlist.length === 0) {
-            break;
-        } else {
-            console.log(`⏳ Waiting 10 seconds before next batch to cool off API...`);
-            await new Promise(r => setTimeout(r, 10000));
-        }
-    }
-
-    // Attempt final list sync to be safe
-    try {
-        execSync('node update_animals_list.js', { stdio: 'ignore', cwd: path.join(__dirname, '..') });
-        execSync('node build_taxonomy_tree.js', { stdio: 'ignore', cwd: path.join(__dirname, '..') });
-    } catch(e) {}
-    
-    console.log("🎉 ALL DONE!");
-}
-
-runAutoPipeline();
+const args = parseArgs();
+Promise.resolve(args.finalize.length > 0 ? finalize(args.finalize) : prepareDraft()).catch((error) => {
+  console.error(`❌ ${error.message}`);
+  process.exit(1);
+});

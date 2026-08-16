@@ -4,7 +4,7 @@
   "name_en": "Fossa",
   "scientific_name": "Cryptoprocta ferox",
   "ui_tags": [
-    "Mammalia",
+    "Mammal",
     "Forest",
     "Carnivore"
   ],
@@ -192,5 +192,11 @@
       ]
     ]
   },
-  "image": "/images/animals/fossa.jpg"
+  "image": "/images/animals/fossa.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

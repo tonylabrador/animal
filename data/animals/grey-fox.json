@@ -66,8 +66,43 @@
     ],
     "map_zoom_level": 4,
     "global_distribution_polygons": [
-      [[45, -125], [45, -70], [25, -80], [5, -75], [5, -85], [30, -115], [45, -125]]
+      [
+        [
+          45,
+          -125
+        ],
+        [
+          45,
+          -70
+        ],
+        [
+          25,
+          -80
+        ],
+        [
+          5,
+          -75
+        ],
+        [
+          5,
+          -85
+        ],
+        [
+          30,
+          -115
+        ],
+        [
+          45,
+          -125
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/grey-fox.jpg"
+  "image": "/images/animals/grey-fox.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

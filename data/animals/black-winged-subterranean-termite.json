@@ -4,9 +4,9 @@
   "name_en": "Black-winged Subterranean Termite",
   "scientific_name": "Odontotermes formosanus",
   "ui_tags": [
-    "Insecta",
-    "Subterranean",
-    "Fungivorous"
+    "Insect",
+    "Cave",
+    "Fungivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -284,5 +284,11 @@
       ]
     ]
   },
-  "image": "/images/animals/black-winged-subterranean-termite.jpg"
+  "image": "/images/animals/black-winged-subterranean-termite.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

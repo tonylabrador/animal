@@ -65,74 +65,13 @@
       -107
     ],
     "map_zoom_level": 5,
-    "global_distribution_polygons": [
-      [
-        [
-          44,
-          -107
-        ],
-        [
-          44,
-          -105
-        ],
-        [
-          43,
-          -105
-        ],
-        [
-          43,
-          -107
-        ],
-        [
-          44,
-          -107
-        ]
-      ],
-      [
-        [
-          40,
-          -105
-        ],
-        [
-          40,
-          -103
-        ],
-        [
-          38,
-          -103
-        ],
-        [
-          38,
-          -105
-        ],
-        [
-          40,
-          -105
-        ]
-      ],
-      [
-        [
-          45,
-          -100
-        ],
-        [
-          45,
-          -98
-        ],
-        [
-          43,
-          -98
-        ],
-        [
-          43,
-          -100
-        ],
-        [
-          45,
-          -100
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/black-footed-ferret.jpg"
+  "image": "/images/animals/black-footed-ferret.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

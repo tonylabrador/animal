@@ -4,7 +4,7 @@
   "name_en": "Andean condor",
   "scientific_name": "Vultur gryphus",
   "ui_tags": [
-    "Aves",
+    "Bird",
     "Mountains",
     "Scavenger"
   ],
@@ -190,5 +190,11 @@
       ]
     ]
   },
-  "image": "/images/animals/andean-condor.jpg"
+  "image": "/images/animals/andean-condor.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

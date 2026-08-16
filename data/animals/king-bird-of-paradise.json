@@ -4,8 +4,8 @@
   "name_en": "King bird-of-paradise",
   "scientific_name": "Cicinnurus regius",
   "ui_tags": [
-    "Aves",
-    "Rainforest",
+    "Bird",
+    "Forest",
     "Frugivore"
   ],
   "taxonomy": {
@@ -256,5 +256,11 @@
       ]
     ]
   },
-  "image": "/images/animals/king-bird-of-paradise.jpg"
+  "image": "/images/animals/king-bird-of-paradise.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

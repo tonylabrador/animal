@@ -65,74 +65,13 @@
       115.5
     ],
     "map_zoom_level": 7,
-    "global_distribution_polygons": [
-      [
-        [
-          -31.9,
-          115.4
-        ],
-        [
-          -31.9,
-          115.6
-        ],
-        [
-          -32.1,
-          115.6
-        ],
-        [
-          -32.1,
-          115.4
-        ],
-        [
-          -31.9,
-          115.4
-        ]
-      ],
-      [
-        [
-          -34.8,
-          117.8
-        ],
-        [
-          -34.8,
-          118.5
-        ],
-        [
-          -35.2,
-          118.5
-        ],
-        [
-          -35.2,
-          117.8
-        ],
-        [
-          -34.8,
-          117.8
-        ]
-      ],
-      [
-        [
-          -34.5,
-          115.8
-        ],
-        [
-          -34.5,
-          116.5
-        ],
-        [
-          -35,
-          116.5
-        ],
-        [
-          -35,
-          115.8
-        ],
-        [
-          -34.5,
-          115.8
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/quokka.jpg"
+  "image": "/images/animals/quokka.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

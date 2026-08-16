@@ -4,7 +4,7 @@
   "name_en": "Grooved brain coral",
   "scientific_name": "Diploria labyrinthiformis",
   "ui_tags": [
-    "Anthozoa",
+    "Cnidarian",
     "Coral Reef",
     "Filter Feeder"
   ],
@@ -35,9 +35,9 @@
     }
   },
   "conservation_status": {
-    "code": "LC",
-    "en": "Least Concern",
-    "zh": "无危"
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危"
   },
   "description": {
     "en": "Diploria labyrinthiformis, commonly known as the grooved brain coral, is a massive, reef-building scleractinian coral characterized by its intricate, maze-like morphology. The colony forms hemispherical or boulder-like structures that can exceed two meters in diameter. Its surface is defined by deep, broad valleys (ambulacra) separated by distinct, narrow ridges, creating a highly complex topographical network that maximizes surface area for its symbiotic zooxanthellae. As a foundational species in the Caribbean and Western Atlantic, it plays a critical role in coastal protection and provides essential microhabitats for a myriad of reef-dwelling organisms.",
@@ -360,5 +360,16 @@
       ]
     ]
   },
-  "image": "/images/animals/grooved-brain-coral.jpg"
+  "image": "/images/animals/grooved-brain-coral.jpg",
+  "sources": {
+    "conservation": {
+      "authority": "IUCN Red List",
+      "release": "2026-1",
+      "checked_at": "2026-08-16"
+    },
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

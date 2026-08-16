@@ -5,7 +5,7 @@
   "scientific_name": "Casuarius casuarius",
   "ui_tags": [
     "Bird",
-    "Rainforest",
+    "Forest",
     "Omnivore"
   ],
   "taxonomy": {
@@ -66,8 +66,43 @@
     ],
     "map_zoom_level": 4,
     "global_distribution_polygons": [
-      [[-1, 130], [-1, 140], [-10, 150], [-20, 147], [-18, 140], [-10, 130], [-1, 130]]
+      [
+        [
+          -1,
+          130
+        ],
+        [
+          -1,
+          140
+        ],
+        [
+          -10,
+          150
+        ],
+        [
+          -20,
+          147
+        ],
+        [
+          -18,
+          140
+        ],
+        [
+          -10,
+          130
+        ],
+        [
+          -1,
+          130
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/southern-cassowary.jpg"
+  "image": "/images/animals/southern-cassowary.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

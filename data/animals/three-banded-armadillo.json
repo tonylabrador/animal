@@ -5,7 +5,7 @@
   "scientific_name": "Tolypeutes tricinctus",
   "ui_tags": [
     "Mammal",
-    "Dry Scrubland",
+    "Grassland",
     "Insectivore"
   ],
   "taxonomy": {
@@ -142,5 +142,11 @@
       ]
     ]
   },
-  "image": "/images/animals/three-banded-armadillo.jpg"
+  "image": "/images/animals/three-banded-armadillo.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

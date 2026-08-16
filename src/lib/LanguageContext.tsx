@@ -24,13 +24,14 @@ export function LanguageProvider({ children }: { children: React.ReactNode }) {
 
   // On mount, read from localStorage
   useEffect(() => {
-    try {
-      const saved = localStorage.getItem(STORAGE_KEY) as Language | null;
-      if (saved === "en" || saved === "zh") {
-        setLangState(saved);
-      }
-    } catch {}
-    setHydrated(true);
+    const timer = window.setTimeout(() => {
+      try {
+        const saved = localStorage.getItem(STORAGE_KEY) as Language | null;
+        if (saved === "en" || saved === "zh") setLangState(saved);
+      } catch {}
+      setHydrated(true);
+    }, 0);
+    return () => window.clearTimeout(timer);
   }, []);
 
   const setLang = useCallback((newLang: Language) => {

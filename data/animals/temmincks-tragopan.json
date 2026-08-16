@@ -4,8 +4,8 @@
   "name_en": "Temminck's Tragopan",
   "scientific_name": "Tragopan temminckii",
   "ui_tags": [
-    "Aves",
-    "Montane Forest",
+    "Bird",
+    "Forest",
     "Omnivore"
   ],
   "taxonomy": {
@@ -162,5 +162,11 @@
       ]
     ]
   },
-  "image": "/images/animals/temmincks-tragopan.jpg"
+  "image": "/images/animals/temmincks-tragopan.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

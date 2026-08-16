@@ -4,9 +4,9 @@
   "name_en": "Mallard",
   "scientific_name": "Anas platyrhynchos",
   "ui_tags": [
-    "鸟纲",
-    "湿地",
-    "杂食性"
+    "Bird",
+    "Wetland",
+    "Omnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -206,5 +206,11 @@
       ]
     ]
   },
-  "image": "/images/animals/mallard.jpg"
+  "image": "/images/animals/mallard.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

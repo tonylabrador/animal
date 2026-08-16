@@ -5,7 +5,7 @@
   "scientific_name": "Cyclopes didactylus",
   "ui_tags": [
     "Mammal",
-    "Rainforest",
+    "Forest",
     "Insectivore"
   ],
   "taxonomy": {
@@ -272,5 +272,11 @@
       ]
     ]
   },
-  "image": "/images/animals/silky-anteater.jpg"
+  "image": "/images/animals/silky-anteater.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

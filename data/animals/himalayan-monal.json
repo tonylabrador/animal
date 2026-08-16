@@ -4,8 +4,8 @@
   "name_en": "Himalayan Monal",
   "scientific_name": "Lophophorus impejanus",
   "ui_tags": [
-    "Aves",
-    "Montane Forest",
+    "Bird",
+    "Forest",
     "Omnivore"
   ],
   "taxonomy": {
@@ -166,5 +166,11 @@
       ]
     ]
   },
-  "image": "/images/animals/himalayan-monal.jpg"
+  "image": "/images/animals/himalayan-monal.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

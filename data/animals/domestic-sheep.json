@@ -139,52 +139,14 @@
           60,
           -5
         ]
-      ],
-      [
-        [
-          -10,
-          115
-        ],
-        [
-          -10,
-          150
-        ],
-        [
-          -40,
-          150
-        ],
-        [
-          -40,
-          115
-        ],
-        [
-          -10,
-          115
-        ]
-      ],
-      [
-        [
-          -35,
-          165
-        ],
-        [
-          -35,
-          180
-        ],
-        [
-          -45,
-          180
-        ],
-        [
-          -45,
-          165
-        ],
-        [
-          -35,
-          165
-        ]
       ]
     ]
   },
-  "image": "/images/animals/domestic-sheep.jpg"
+  "image": "/images/animals/domestic-sheep.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -66,8 +66,35 @@
     ],
     "map_zoom_level": 6,
     "global_distribution_polygons": [
-      [[-12, 49], [-15, 51], [-25, 47], [-25, 44], [-12, 49]]
+      [
+        [
+          -12,
+          49
+        ],
+        [
+          -15,
+          51
+        ],
+        [
+          -25,
+          47
+        ],
+        [
+          -25,
+          44
+        ],
+        [
+          -12,
+          49
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/aye-aye.jpg"
+  "image": "/images/animals/aye-aye.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

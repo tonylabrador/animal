@@ -4,9 +4,9 @@
   "name_en": "Aardvark",
   "scientific_name": "Orycteropus afer",
   "ui_tags": [
-    "哺乳纲",
-    "稀树草原",
-    "食虫性"
+    "Mammal",
+    "Savanna",
+    "Insectivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -154,6 +154,10 @@
         [
           14.5,
           -17.5
+        ],
+        [
+          15.5,
+          -16.5
         ]
       ],
       [
@@ -200,5 +204,11 @@
       ]
     ]
   },
-  "image": "/images/animals/aardvark.jpg"
+  "image": "/images/animals/aardvark.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

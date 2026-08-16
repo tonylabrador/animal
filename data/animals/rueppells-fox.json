@@ -65,74 +65,13 @@
       30
     ],
     "map_zoom_level": 4,
-    "global_distribution_polygons": [
-      [
-        [
-          35,
-          -10
-        ],
-        [
-          35,
-          15
-        ],
-        [
-          15,
-          15
-        ],
-        [
-          15,
-          -10
-        ],
-        [
-          35,
-          -10
-        ]
-      ],
-      [
-        [
-          32,
-          35
-        ],
-        [
-          32,
-          60
-        ],
-        [
-          15,
-          60
-        ],
-        [
-          15,
-          35
-        ],
-        [
-          32,
-          35
-        ]
-      ],
-      [
-        [
-          35,
-          60
-        ],
-        [
-          35,
-          75
-        ],
-        [
-          25,
-          75
-        ],
-        [
-          25,
-          60
-        ],
-        [
-          35,
-          60
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/rueppells-fox.jpg"
+  "image": "/images/animals/rueppells-fox.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

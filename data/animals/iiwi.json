@@ -4,9 +4,9 @@
   "name_en": "I'iwi",
   "scientific_name": "Drepanis coccinea",
   "ui_tags": [
-    "鸟纲",
-    "森林",
-    "食蜜性"
+    "Bird",
+    "Forest",
+    "Nectarivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -158,5 +158,11 @@
       ]
     ]
   },
-  "image": "/images/animals/iiwi.jpg"
+  "image": "/images/animals/iiwi.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

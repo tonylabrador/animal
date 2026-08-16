@@ -4,8 +4,8 @@
   "name_en": "Commerson's dolphin",
   "scientific_name": "Cephalorhynchus commersonii",
   "ui_tags": [
-    "Mammalia",
-    "Coastal Waters",
+    "Mammal",
+    "Coastal",
     "Carnivore"
   ],
   "taxonomy": {
@@ -256,5 +256,11 @@
       ]
     ]
   },
-  "image": "/images/animals/commersons-dolphin.jpg"
+  "image": "/images/animals/commersons-dolphin.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

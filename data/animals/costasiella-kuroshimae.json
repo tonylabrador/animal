@@ -4,8 +4,8 @@
   "name_en": "Leaf sheep",
   "scientific_name": "Costasiella kuroshimae",
   "ui_tags": [
-    "Gastropoda",
-    "Marine",
+    "Mollusk",
+    "Ocean",
     "Herbivore"
   ],
   "taxonomy": {
@@ -158,5 +158,11 @@
       ]
     ]
   },
-  "image": "/images/animals/costasiella-kuroshimae.jpg"
+  "image": "/images/animals/costasiella-kuroshimae.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

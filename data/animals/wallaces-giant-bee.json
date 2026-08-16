@@ -4,9 +4,9 @@
   "name_en": "Wallace's Giant Bee",
   "scientific_name": "Megachile pluto",
   "ui_tags": [
-    "昆虫纲",
-    "热带雨林",
-    "植食性"
+    "Insect",
+    "Forest",
+    "Herbivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -166,5 +166,11 @@
       ]
     ]
   },
-  "image": "/images/animals/wallaces-giant-bee.jpg"
+  "image": "/images/animals/wallaces-giant-bee.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -5,9 +5,8 @@
   "scientific_name": "Crotalus adamanteus",
   "ui_tags": [
     "Reptile",
-    "Terrestrial",
-    "Venomous",
-    "Ambush Predator"
+    "Savanna",
+    "Carnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -227,5 +226,11 @@
       ]
     ]
   },
-  "image": "/images/animals/eastern-diamondback-rattlesnake.jpg"
+  "image": "/images/animals/eastern-diamondback-rattlesnake.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

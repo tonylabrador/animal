@@ -65,30 +65,13 @@
       140
     ],
     "map_zoom_level": 4,
-    "global_distribution_polygons": [
-      [
-        [
-          -20,
-          135
-        ],
-        [
-          -20,
-          150
-        ],
-        [
-          -35,
-          150
-        ],
-        [
-          -35,
-          135
-        ],
-        [
-          -20,
-          135
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/central-bearded-dragon.jpg"
+  "image": "/images/animals/central-bearded-dragon.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

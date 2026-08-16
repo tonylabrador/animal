@@ -4,9 +4,9 @@
   "name_en": "Red Lionfish",
   "scientific_name": "Pterois volitans",
   "ui_tags": [
-    "辐鳍鱼纲",
-    "珊瑚礁",
-    "肉食性"
+    "Fish",
+    "Coral Reef",
+    "Carnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -248,5 +248,11 @@
       ]
     ]
   },
-  "image": "/images/animals/red-lionfish.jpg"
+  "image": "/images/animals/red-lionfish.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

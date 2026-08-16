@@ -66,8 +66,47 @@
     ],
     "map_zoom_level": 4,
     "global_distribution_polygons": [
-      [[10, -15], [10, 30], [5, 35], [-10, 30], [-10, 10], [5, 8], [5, -15], [10, -15]]
+      [
+        [
+          10,
+          -15
+        ],
+        [
+          10,
+          30
+        ],
+        [
+          5,
+          35
+        ],
+        [
+          -10,
+          30
+        ],
+        [
+          -10,
+          10
+        ],
+        [
+          5,
+          8
+        ],
+        [
+          5,
+          -15
+        ],
+        [
+          10,
+          -15
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/chimpanzee.jpg"
+  "image": "/images/animals/chimpanzee.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

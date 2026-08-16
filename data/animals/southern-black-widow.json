@@ -4,7 +4,7 @@
   "name_en": "Southern Black Widow",
   "scientific_name": "Latrodectus mactans",
   "ui_tags": [
-    "Arthropod",
+    "Arachnid",
     "Forest",
     "Carnivore"
   ],
@@ -98,5 +98,11 @@
       ]
     ]
   },
-  "image": "/images/animals/southern-black-widow.jpg"
+  "image": "/images/animals/southern-black-widow.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

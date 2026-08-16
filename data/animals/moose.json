@@ -858,5 +858,11 @@
       ]
     ]
   },
-  "image": "/images/animals/moose.jpg"
+  "image": "/images/animals/moose.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

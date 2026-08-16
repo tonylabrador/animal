@@ -4,8 +4,8 @@
   "name_en": "Paradise tree snake",
   "scientific_name": "Chrysopelea paradisi",
   "ui_tags": [
-    "Reptilia",
-    "Rainforest",
+    "Reptile",
+    "Forest",
     "Carnivore"
   ],
   "taxonomy": {
@@ -210,5 +210,11 @@
       ]
     ]
   },
-  "image": "/images/animals/paradise-tree-snake.jpg"
+  "image": "/images/animals/paradise-tree-snake.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

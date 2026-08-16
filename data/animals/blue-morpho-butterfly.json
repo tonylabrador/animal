@@ -5,7 +5,7 @@
   "scientific_name": "Morpho menelaus",
   "ui_tags": [
     "Insect",
-    "Rainforest",
+    "Forest",
     "Frugivore"
   ],
   "taxonomy": {
@@ -222,5 +222,11 @@
       ]
     ]
   },
-  "image": "/images/animals/blue-morpho-butterfly.jpg"
+  "image": "/images/animals/blue-morpho-butterfly.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

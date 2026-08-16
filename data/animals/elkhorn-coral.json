@@ -4,9 +4,9 @@
   "name_en": "Elkhorn Coral",
   "scientific_name": "Acropora palmata",
   "ui_tags": [
-    "Anthozoa",
-    "Shallow Reef",
-    "Symbiotic"
+    "Cnidarian",
+    "Coral Reef",
+    "Omnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -424,5 +424,11 @@
       ]
     ]
   },
-  "image": "/images/animals/elkhorn-coral.jpg"
+  "image": "/images/animals/elkhorn-coral.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -132,5 +132,11 @@
       ]
     ]
   },
-  "image": "/images/animals/reindeer.jpg"
+  "image": "/images/animals/reindeer.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

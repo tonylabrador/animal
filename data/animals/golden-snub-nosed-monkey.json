@@ -66,8 +66,35 @@
     ],
     "map_zoom_level": 6,
     "global_distribution_polygons": [
-      [[31, 102], [33, 102], [33.5, 104], [31.5, 104.5], [31, 102]]
+      [
+        [
+          31,
+          102
+        ],
+        [
+          33,
+          102
+        ],
+        [
+          33.5,
+          104
+        ],
+        [
+          31.5,
+          104.5
+        ],
+        [
+          31,
+          102
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/golden-snub-nosed-monkey.jpg"
+  "image": "/images/animals/golden-snub-nosed-monkey.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

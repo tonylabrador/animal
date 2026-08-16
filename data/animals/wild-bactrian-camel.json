@@ -35,9 +35,9 @@
     }
   },
   "conservation_status": {
-    "code": "CR",
-    "en": "Critically Endangered",
-    "zh": "极危"
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危"
   },
   "description": {
     "en": "The wild Bactrian camel is a rare, hardy survivor of the Gobi Desert and is genetically distinct from domesticated camels.",
@@ -65,52 +65,18 @@
       92
     ],
     "map_zoom_level": 5,
-    "global_distribution_polygons": [
-      [
-        [
-          39,
-          88
-        ],
-        [
-          42,
-          88
-        ],
-        [
-          42,
-          95
-        ],
-        [
-          39,
-          95
-        ],
-        [
-          39,
-          88
-        ]
-      ],
-      [
-        [
-          43,
-          95
-        ],
-        [
-          46,
-          95
-        ],
-        [
-          46,
-          105
-        ],
-        [
-          43,
-          105
-        ],
-        [
-          43,
-          95
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/wild-bactrian-camel.jpg"
+  "image": "/images/animals/wild-bactrian-camel.jpg",
+  "sources": {
+    "conservation": {
+      "authority": "IUCN Red List",
+      "release": "2026-1",
+      "checked_at": "2026-08-16"
+    },
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

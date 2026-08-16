@@ -4,8 +4,8 @@
   "name_en": "Wilson's Bird-of-paradise",
   "scientific_name": "Cicinnurus respublica",
   "ui_tags": [
-    "Aves",
-    "Rainforest",
+    "Bird",
+    "Forest",
     "Omnivore"
   ],
   "taxonomy": {
@@ -164,5 +164,11 @@
       ]
     ]
   },
-  "image": "/images/animals/wilsons-bird-of-paradise.jpg"
+  "image": "/images/animals/wilsons-bird-of-paradise.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

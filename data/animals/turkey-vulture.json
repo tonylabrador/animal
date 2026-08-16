@@ -5,7 +5,7 @@
   "scientific_name": "Cathartes aura",
   "ui_tags": [
     "Bird",
-    "Global",
+    "Grassland",
     "Scavenger"
   ],
   "taxonomy": {
@@ -122,5 +122,11 @@
       ]
     ]
   },
-  "image": "/images/animals/turkey-vulture.jpg"
+  "image": "/images/animals/turkey-vulture.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

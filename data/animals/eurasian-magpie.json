@@ -4,7 +4,7 @@
   "name_en": "Eurasian Magpie",
   "scientific_name": "Pica pica",
   "ui_tags": [
-    "Aves",
+    "Bird",
     "Forest",
     "Omnivore"
   ],
@@ -240,5 +240,11 @@
       ]
     ]
   },
-  "image": "/images/animals/eurasian-magpie.jpg"
+  "image": "/images/animals/eurasian-magpie.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

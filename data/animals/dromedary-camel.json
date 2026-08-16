@@ -87,30 +87,14 @@
           15,
           -15
         ]
-      ],
-      [
-        [
-          -30,
-          120
-        ],
-        [
-          -20,
-          120
-        ],
-        [
-          -20,
-          145
-        ],
-        [
-          -30,
-          145
-        ],
-        [
-          -30,
-          120
-        ]
       ]
     ]
   },
-  "image": "/images/animals/dromedary-camel.jpg"
+  "image": "/images/animals/dromedary-camel.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

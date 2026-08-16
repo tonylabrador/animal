@@ -4,7 +4,7 @@
   "name_en": "Red squirrel",
   "scientific_name": "Sciurus vulgaris",
   "ui_tags": [
-    "Mammalia",
+    "Mammal",
     "Forest",
     "Herbivore"
   ],
@@ -246,5 +246,11 @@
       ]
     ]
   },
-  "image": "/images/animals/red-squirrel.jpg"
+  "image": "/images/animals/red-squirrel.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

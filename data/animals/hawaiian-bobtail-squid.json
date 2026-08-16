@@ -4,9 +4,9 @@
   "name_en": "Hawaiian Bobtail Squid",
   "scientific_name": "Euprymna scolopes",
   "ui_tags": [
-    "Cephalopod",
-    "Bioluminescent",
-    "Nocturnal"
+    "Mollusk",
+    "Coastal",
+    "Carnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -200,5 +200,11 @@
       ]
     ]
   },
-  "image": "/images/animals/hawaiian-bobtail-squid.jpg"
+  "image": "/images/animals/hawaiian-bobtail-squid.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -4,8 +4,8 @@
   "name_en": "Albert's Lyrebird",
   "scientific_name": "Menura alberti",
   "ui_tags": [
-    "Aves",
-    "Rainforest",
+    "Bird",
+    "Forest",
     "Insectivore"
   ],
   "taxonomy": {
@@ -174,5 +174,11 @@
       ]
     ]
   },
-  "image": "/images/animals/alberts-lyrebird.jpg"
+  "image": "/images/animals/alberts-lyrebird.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

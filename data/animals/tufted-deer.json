@@ -4,8 +4,8 @@
   "name_en": "Tufted deer",
   "scientific_name": "Elaphodus cephalophus",
   "ui_tags": [
-    "Mammalia",
-    "Montane Forest",
+    "Mammal",
+    "Forest",
     "Herbivore"
   ],
   "taxonomy": {
@@ -142,5 +142,11 @@
       ]
     ]
   },
-  "image": "/images/animals/tufted-deer.jpg"
+  "image": "/images/animals/tufted-deer.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

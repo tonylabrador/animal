@@ -4,8 +4,8 @@
   "name_en": "Emperor Scorpion",
   "scientific_name": "Pandinus imperator",
   "ui_tags": [
-    "Arachnida",
-    "Rainforest",
+    "Arachnid",
+    "Forest",
     "Carnivore"
   ],
   "taxonomy": {
@@ -36,8 +36,8 @@
   },
   "conservation_status": {
     "code": "NE",
-    "en": "Not Evaluated (CITES App II)",
-    "zh": "未评估 (CITES附录II)"
+    "en": "Not Evaluated",
+    "zh": "未评估"
   },
   "description": {
     "en": "The Emperor Scorpion (Pandinus imperator) is one of the largest scorpion species in the world, renowned for its massive, heavily sclerotized pedipalps and striking glossy black carapace that fluoresces a brilliant cyan-green under ultraviolet light. Native to the dense tropical rainforests and humid savannas of West Africa, this formidable arachnid relies primarily on its immense physical strength rather than its mild venom to subdue prey. Unlike most solitary arachnids, P. imperator exhibits remarkable subsocial behaviors, often forming communal burrows where multiple individuals, including mothers and their offspring, coexist peacefully.",
@@ -154,5 +154,16 @@
       ]
     ]
   },
-  "image": "/images/animals/emperor-scorpion.jpg"
+  "image": "/images/animals/emperor-scorpion.jpg",
+  "legal_status": {
+    "code": "CITES-II",
+    "en": "CITES Appendix II",
+    "zh": "《濒危野生动植物种国际贸易公约》附录 II"
+  },
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

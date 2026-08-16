@@ -65,9 +65,13 @@
       119
     ],
     "map_zoom_level": 7,
-    "global_distribution_polygons": [
-      [[30.5, 118.5], [31.5, 118.5], [31.5, 120], [30.5, 120], [30.5, 118.5]]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/chinese-alligator.jpg"
+  "image": "/images/animals/chinese-alligator.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -4,7 +4,7 @@
   "name_en": "Giant Pacific Octopus",
   "scientific_name": "Enteroctopus dofleini",
   "ui_tags": [
-    "Invertebrate",
+    "Mollusk",
     "Ocean",
     "Carnivore"
   ],
@@ -66,8 +66,47 @@
     ],
     "map_zoom_level": 3,
     "global_distribution_polygons": [
-      [[30, -115], [45, -125], [60, -145], [65, -170], [60, 160], [45, 140], [30, 130], [30, -115]]
+      [
+        [
+          30,
+          -115
+        ],
+        [
+          45,
+          -125
+        ],
+        [
+          60,
+          -145
+        ],
+        [
+          65,
+          -170
+        ],
+        [
+          60,
+          160
+        ],
+        [
+          45,
+          140
+        ],
+        [
+          30,
+          130
+        ],
+        [
+          30,
+          -115
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/giant-pacific-octopus.jpg"
+  "image": "/images/animals/giant-pacific-octopus.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

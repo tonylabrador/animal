@@ -66,8 +66,47 @@
     ],
     "map_zoom_level": 6,
     "global_distribution_polygons": [
-      [[33.5, 103.5], [34, 105], [33, 106], [31, 104.5], [29, 102.5], [29.5, 101.5], [31.5, 102.5], [33.5, 103.5]]
+      [
+        [
+          33.5,
+          103.5
+        ],
+        [
+          34,
+          105
+        ],
+        [
+          33,
+          106
+        ],
+        [
+          31,
+          104.5
+        ],
+        [
+          29,
+          102.5
+        ],
+        [
+          29.5,
+          101.5
+        ],
+        [
+          31.5,
+          102.5
+        ],
+        [
+          33.5,
+          103.5
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/giant-panda.jpg"
+  "image": "/images/animals/giant-panda.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

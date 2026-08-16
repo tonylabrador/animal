@@ -4,9 +4,9 @@
   "name_en": "Flame Bowerbird",
   "scientific_name": "Sericulus ardens",
   "ui_tags": [
-    "鸟纲",
-    "热带雨林",
-    "食果性"
+    "Bird",
+    "Forest",
+    "Frugivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -154,5 +154,11 @@
       ]
     ]
   },
-  "image": "/images/animals/flame-bowerbird.jpg"
+  "image": "/images/animals/flame-bowerbird.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

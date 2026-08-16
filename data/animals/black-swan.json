@@ -4,9 +4,9 @@
   "name_en": "Black Swan",
   "scientific_name": "Cygnus atratus",
   "ui_tags": [
-    "鸟纲",
-    "湿地",
-    "草食性"
+    "Bird",
+    "Wetland",
+    "Herbivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -252,5 +252,11 @@
       ]
     ]
   },
-  "image": "/images/animals/black-swan.jpg"
+  "image": "/images/animals/black-swan.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

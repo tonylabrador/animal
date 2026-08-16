@@ -4,9 +4,9 @@
   "name_en": "Mute Swan",
   "scientific_name": "Cygnus olor",
   "ui_tags": [
-    "鸟纲",
-    "湿地",
-    "植食性"
+    "Bird",
+    "Wetland",
+    "Herbivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -230,5 +230,11 @@
       ]
     ]
   },
-  "image": "/images/animals/mute-swan.jpg"
+  "image": "/images/animals/mute-swan.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

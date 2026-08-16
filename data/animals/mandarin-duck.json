@@ -5,7 +5,7 @@
   "scientific_name": "Aix galericulata",
   "ui_tags": [
     "Bird",
-    "River",
+    "Freshwater",
     "Omnivore"
   ],
   "taxonomy": {
@@ -91,30 +91,14 @@
           30,
           110
         ]
-      ],
-      [
-        [
-          50,
-          -5
-        ],
-        [
-          55,
-          -5
-        ],
-        [
-          55,
-          5
-        ],
-        [
-          50,
-          5
-        ],
-        [
-          50,
-          -5
-        ]
       ]
     ]
   },
-  "image": "/images/animals/mandarin-duck.jpg"
+  "image": "/images/animals/mandarin-duck.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

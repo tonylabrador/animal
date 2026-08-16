@@ -102,5 +102,11 @@
       ]
     ]
   },
-  "image": "/images/animals/llama.jpg"
+  "image": "/images/animals/llama.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

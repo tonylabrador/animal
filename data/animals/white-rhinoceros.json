@@ -66,9 +66,39 @@
     ],
     "map_zoom_level": 5,
     "global_distribution_polygons": [
-      [[-15, 15], [-15, 35], [-25, 40], [-35, 30], [-30, 15], [-15, 15]],
-      [[5, 30], [5, 35], [0, 35], [0, 30], [5, 30]]
+      [
+        [
+          -15,
+          15
+        ],
+        [
+          -15,
+          35
+        ],
+        [
+          -25,
+          40
+        ],
+        [
+          -35,
+          30
+        ],
+        [
+          -30,
+          15
+        ],
+        [
+          -15,
+          15
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/white-rhinoceros.jpg"
+  "image": "/images/animals/white-rhinoceros.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

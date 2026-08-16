@@ -4,8 +4,8 @@
   "name_en": "Green peafowl",
   "scientific_name": "Pavo muticus",
   "ui_tags": [
-    "Aves",
-    "Tropical Forest",
+    "Bird",
+    "Forest",
     "Omnivore"
   ],
   "taxonomy": {
@@ -146,6 +146,10 @@
         [
           24,
           97
+        ],
+        [
+          24.5,
+          97.5
         ]
       ],
       [
@@ -216,6 +220,10 @@
         [
           14.8,
           105
+        ],
+        [
+          15.5,
+          105.5
         ]
       ],
       [
@@ -258,9 +266,19 @@
         [
           -8,
           113.4
+        ],
+        [
+          -7.8,
+          113.8
         ]
       ]
     ]
   },
-  "image": "/images/animals/green-peafowl.jpg"
+  "image": "/images/animals/green-peafowl.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

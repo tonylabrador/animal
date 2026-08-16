@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 import {
   ArrowLeft,
   Globe,
@@ -20,33 +21,11 @@ import {
 import { useLanguage } from "@/lib/LanguageContext";
 import AnimalMap from "./AnimalMap";
 import type { Animal } from "@/types/animal";
+import { getTagColor, IUCN_COLORS } from "@/lib/animalPresentation";
 
 type Language = "en" | "zh";
 type TopView = "info" | "map";
 type InfoTab = "anatomy" | "ecology" | "habitat";
-
-const TAG_COLORS: Record<string, string> = {
-  Mammal:      "bg-amber-100 text-amber-700",
-  Grassland:   "bg-lime-100 text-lime-700",
-  Forest:      "bg-emerald-100 text-emerald-700",
-  Mountains:   "bg-sky-100 text-sky-700",
-  Ocean:       "bg-blue-100 text-blue-700",
-  River:       "bg-cyan-100 text-cyan-700",
-  Desert:      "bg-orange-100 text-orange-700",
-  Herbivore:   "bg-green-100 text-green-700",
-  Carnivore:   "bg-red-100 text-red-700",
-  Omnivore:    "bg-purple-100 text-purple-700",
-  Insectivore: "bg-pink-100 text-pink-700",
-  Marsupial:   "bg-rose-100 text-rose-700",
-};
-
-const IUCN_COLORS: Record<string, string> = {
-  LC: "bg-green-100 text-green-700 border-green-200",
-  NT: "bg-lime-100 text-lime-700 border-lime-200",
-  VU: "bg-amber-100 text-amber-700 border-amber-200",
-  EN: "bg-orange-100 text-orange-700 border-orange-200",
-  CR: "bg-red-100 text-red-700 border-red-200",
-};
 
 const INFO_TABS: {
   key: InfoTab;
@@ -192,18 +171,20 @@ export default function AnimalDetail({ animal }: { animal: Animal }) {
             {animal.image && !imgError ? (
               <>
                 {/* Layer 1: Blurred Background Ambient Fill */}
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
+                <Image
                   src={animal.image}
                   alt=""
+                  fill
+                  sizes="(max-width: 1024px) 100vw, 800px"
                   className="absolute inset-0 w-full h-full object-cover blur-2xl opacity-50 scale-110 pointer-events-none"
                 />
                 
                 {/* Layer 2: Main Image (Ensures 100% visibility) */}
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
+                <Image
                   src={animal.image}
                   alt={animal.name_en}
+                  fill
+                  sizes="(max-width: 1024px) 100vw, 800px"
                   className="relative z-10 w-full h-full object-contain"
                   onError={() => setImgError(true)}
                 />
@@ -214,6 +195,17 @@ export default function AnimalDetail({ animal }: { animal: Animal }) {
               </div>
             )}
             <div className="absolute inset-0 z-20 bg-gradient-to-t from-black/55 via-black/10 to-transparent" />
+            {animal.image_attribution?.source_url && animal.image_attribution.attribution && (
+              <a
+                href={animal.image_attribution.source_url}
+                target="_blank"
+                rel="noreferrer"
+                className="absolute right-3 top-3 z-30 max-w-[70%] truncate rounded-full bg-black/55 px-3 py-1 text-[10px] text-white/90 backdrop-blur-sm hover:bg-black/70"
+                title={`${animal.image_attribution.attribution} · ${animal.image_attribution.license_code || "license unknown"}`}
+              >
+                Photo: {animal.image_attribution.attribution} · {animal.image_attribution.license_code?.toUpperCase()}
+              </a>
+            )}
             <div className="absolute bottom-0 left-0 right-0 z-30 p-5 sm:p-7">
               <h1 className="text-2xl sm:text-4xl font-extrabold text-white drop-shadow-lg leading-tight" lang={lang}>
                 {primaryName}
@@ -292,7 +284,7 @@ export default function AnimalDetail({ animal }: { animal: Animal }) {
               {animal.ui_tags.map((tag) => (
                 <span
                   key={tag}
-                  className={`inline-flex items-center gap-1 text-xs font-semibold px-3 py-1.5 rounded-full ${TAG_COLORS[tag] ?? "bg-slate-100 text-slate-600"}`}
+                  className={`inline-flex items-center gap-1 text-xs font-semibold px-3 py-1.5 rounded-full ${getTagColor(tag)}`}
                 >
                   <Tag size={10} strokeWidth={2.5} />
                   {tag}

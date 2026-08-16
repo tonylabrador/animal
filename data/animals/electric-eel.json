@@ -4,7 +4,7 @@
   "name_en": "Electric eel",
   "scientific_name": "Electrophorus electricus",
   "ui_tags": [
-    "Actinopterygii",
+    "Fish",
     "Freshwater",
     "Carnivore"
   ],
@@ -182,5 +182,11 @@
       ]
     ]
   },
-  "image": "/images/animals/electric-eel.jpg"
+  "image": "/images/animals/electric-eel.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -65,9 +65,13 @@
       139
     ],
     "map_zoom_level": 3,
-    "global_distribution_polygons": [
-      [[20,120, 40,120], [10,-95, 35,-95], [-50,140, -25,140]]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/goblin-shark.jpg"
+  "image": "/images/animals/goblin-shark.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

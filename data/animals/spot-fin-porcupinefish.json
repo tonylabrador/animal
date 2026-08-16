@@ -4,9 +4,9 @@
   "name_en": "Spot-fin porcupinefish",
   "scientific_name": "Diodon hystrix",
   "ui_tags": [
-    "Actinopterygii",
-    "Coral Reefs",
-    "Durophagous"
+    "Fish",
+    "Coral Reef",
+    "Carnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -358,5 +358,11 @@
       ]
     ]
   },
-  "image": "/images/animals/spot-fin-porcupinefish.jpg"
+  "image": "/images/animals/spot-fin-porcupinefish.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

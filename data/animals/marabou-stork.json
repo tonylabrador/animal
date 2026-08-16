@@ -4,7 +4,7 @@
   "name_en": "Marabou stork",
   "scientific_name": "Leptoptilos crumenifer",
   "ui_tags": [
-    "Aves",
+    "Bird",
     "Savanna",
     "Scavenger"
   ],
@@ -206,5 +206,11 @@
       ]
     ]
   },
-  "image": "/images/animals/marabou-stork.jpg"
+  "image": "/images/animals/marabou-stork.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

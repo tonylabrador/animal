@@ -4,8 +4,8 @@
   "name_en": "Bohemian waxwing",
   "scientific_name": "Bombycilla garrulus",
   "ui_tags": [
-    "Aves",
-    "Boreal Forests",
+    "Bird",
+    "Forest",
     "Frugivore"
   ],
   "taxonomy": {
@@ -272,5 +272,11 @@
       ]
     ]
   },
-  "image": "/images/animals/bohemian-waxwing.jpg"
+  "image": "/images/animals/bohemian-waxwing.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

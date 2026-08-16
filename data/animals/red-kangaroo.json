@@ -5,7 +5,7 @@
   "scientific_name": "Osphranter rufus",
   "ui_tags": [
     "Mammal",
-    "Outback",
+    "Grassland",
     "Herbivore"
   ],
   "taxonomy": {
@@ -66,8 +66,43 @@
     ],
     "map_zoom_level": 4,
     "global_distribution_polygons": [
-      [[-15, 115], [-15, 145], [-20, 150], [-35, 145], [-35, 135], [-30, 115], [-15, 115]]
+      [
+        [
+          -15,
+          115
+        ],
+        [
+          -15,
+          145
+        ],
+        [
+          -20,
+          150
+        ],
+        [
+          -35,
+          145
+        ],
+        [
+          -35,
+          135
+        ],
+        [
+          -30,
+          115
+        ],
+        [
+          -15,
+          115
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/red-kangaroo.jpg"
+  "image": "/images/animals/red-kangaroo.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

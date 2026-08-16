@@ -124,28 +124,6 @@
       ],
       [
         [
-          60,
-          -25
-        ],
-        [
-          67,
-          -25
-        ],
-        [
-          67,
-          -12
-        ],
-        [
-          60,
-          -12
-        ],
-        [
-          60,
-          -25
-        ]
-      ],
-      [
-        [
           65,
           10
         ],
@@ -206,5 +184,11 @@
       ]
     ]
   },
-  "image": "/images/animals/arctic-fox.jpg"
+  "image": "/images/animals/arctic-fox.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

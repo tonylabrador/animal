@@ -4,9 +4,9 @@
   "name_en": "Coal Tit",
   "scientific_name": "Periparus ater",
   "ui_tags": [
-    "鸟纲",
-    "森林",
-    "食虫性"
+    "Bird",
+    "Forest",
+    "Insectivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -236,5 +236,11 @@
       ]
     ]
   },
-  "image": "/images/animals/coal-tit.jpg"
+  "image": "/images/animals/coal-tit.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

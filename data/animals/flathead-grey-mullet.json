@@ -65,52 +65,13 @@
       120
     ],
     "map_zoom_level": 5,
-    "global_distribution_polygons": [
-      [
-        [
-          40,
-          -100
-        ],
-        [
-          40,
-          -70
-        ],
-        [
-          -40,
-          -70
-        ],
-        [
-          -40,
-          -100
-        ],
-        [
-          40,
-          -100
-        ]
-      ],
-      [
-        [
-          40,
-          110
-        ],
-        [
-          40,
-          150
-        ],
-        [
-          -40,
-          150
-        ],
-        [
-          -40,
-          110
-        ],
-        [
-          40,
-          110
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/flathead-grey-mullet.jpg"
+  "image": "/images/animals/flathead-grey-mullet.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

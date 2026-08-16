@@ -4,8 +4,8 @@
   "name_en": "Great Gray Owl",
   "scientific_name": "Strix nebulosa",
   "ui_tags": [
-    "Aves",
-    "Boreal Forest",
+    "Bird",
+    "Forest",
     "Carnivore"
   ],
   "taxonomy": {
@@ -316,5 +316,11 @@
       ]
     ]
   },
-  "image": "/images/animals/great-gray-owl.jpg"
+  "image": "/images/animals/great-gray-owl.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

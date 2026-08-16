@@ -4,9 +4,9 @@
   "name_en": "Kakapo",
   "scientific_name": "Strigops habroptila",
   "ui_tags": [
-    "鸟纲",
-    "海岛",
-    "植食性"
+    "Bird",
+    "Island",
+    "Herbivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -166,5 +166,11 @@
       ]
     ]
   },
-  "image": "/images/animals/kakapo.jpg"
+  "image": "/images/animals/kakapo.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

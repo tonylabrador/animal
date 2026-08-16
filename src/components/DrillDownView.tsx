@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import {
   ChevronRight,
   Crown,
@@ -87,10 +88,11 @@ function SpeciesCard({
     >
       <div className="relative w-full h-40 overflow-hidden bg-slate-100">
         {node.image && !imgErr ? (
-          /* eslint-disable-next-line @next/next/no-img-element */
-          <img
+          <Image
             src={node.image}
             alt={node.name}
+            fill
+            sizes="(max-width: 640px) 100vw, 25vw"
             className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
             onError={() => setImgErr(true)}
           />
@@ -152,13 +154,15 @@ function GroupCard({
             previews.length === 3 ? "grid-cols-3" : "grid-cols-2 grid-rows-2"
           } gap-px`}>
             {previews.map((src, i) => (
-              /* eslint-disable-next-line @next/next/no-img-element */
-              <img
-                key={i}
+              <div key={i} className="relative min-h-0 min-w-0">
+              <Image
                 src={src}
                 alt=""
+                fill
+                sizes="(max-width: 640px) 50vw, 15vw"
                 className="w-full h-full object-cover"
               />
+              </div>
             ))}
           </div>
         ) : (

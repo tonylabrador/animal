@@ -2,10 +2,10 @@
   "id": "blue-footed-booby",
   "name_zh": "蓝脚鲣鸟",
   "name_en": "Blue-footed booby",
-  "scientific_name": "Sula nebouxi",
+  "scientific_name": "Sula nebouxii",
   "ui_tags": [
-    "Aves",
-    "Marine",
+    "Bird",
+    "Ocean",
     "Carnivore"
   ],
   "taxonomy": {
@@ -258,5 +258,15 @@
       ]
     ]
   },
-  "image": "/images/animals/blue-footed-booby.jpg"
+  "image": "/images/animals/blue-footed-booby.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone",
+      "checked_at": "2026-08-16"
+    },
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

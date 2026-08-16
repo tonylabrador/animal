@@ -4,9 +4,9 @@
   "name_en": "Pelican eel",
   "scientific_name": "Eurypharynx pelecanoides",
   "ui_tags": [
-    "Actinopterygii",
-    "深海",
-    "肉食性"
+    "Fish",
+    "Ocean",
+    "Carnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -274,6 +274,10 @@
         [
           60,
           -40
+        ],
+        [
+          65,
+          -30
         ]
       ],
       [
@@ -484,6 +488,10 @@
         [
           60,
           40
+        ],
+        [
+          65,
+          30
         ]
       ],
       [
@@ -582,6 +590,10 @@
         [
           25,
           -125
+        ],
+        [
+          30,
+          -120
         ]
       ],
       [
@@ -680,9 +692,19 @@
         [
           25,
           125
+        ],
+        [
+          30,
+          120
         ]
       ]
     ]
   },
-  "image": "/images/animals/pelican-eel.jpg"
+  "image": "/images/animals/pelican-eel.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

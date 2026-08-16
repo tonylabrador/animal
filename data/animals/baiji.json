@@ -5,7 +5,7 @@
   "scientific_name": "Lipotes vexillifer",
   "ui_tags": [
     "Mammal",
-    "River",
+    "Freshwater",
     "Carnivore"
   ],
   "taxonomy": {
@@ -36,8 +36,10 @@
   },
   "conservation_status": {
     "code": "CR",
-    "en": "Critically Endangered (Possibly Extinct)",
-    "zh": "极危（可能已灭绝）"
+    "en": "Critically Endangered",
+    "zh": "极危",
+    "note_en": "Possibly extinct; retained in CR pending formal IUCN reassessment.",
+    "note_zh": "可能已经灭绝；在 IUCN 正式重新评估前仍保留为极危。"
   },
   "description": {
     "en": "Revered as the 'Goddess of the Yangtze,' this deeply tragic, almost-blind river dolphin was driven to entirely functional extinction by massive industrialization.",
@@ -138,5 +140,11 @@
       ]
     ]
   },
-  "image": "/images/animals/baiji.jpg"
+  "image": "/images/animals/baiji.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

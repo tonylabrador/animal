@@ -4,7 +4,7 @@
   "name_en": "Brown Widow",
   "scientific_name": "Latrodectus geometricus",
   "ui_tags": [
-    "Arthropod",
+    "Arachnid",
     "Forest",
     "Carnivore"
   ],
@@ -66,28 +66,6 @@
     ],
     "map_zoom_level": 2,
     "global_distribution_polygons": [
-      [
-        [
-          -35,
-          15
-        ],
-        [
-          -20,
-          15
-        ],
-        [
-          -20,
-          35
-        ],
-        [
-          -35,
-          35
-        ],
-        [
-          -35,
-          15
-        ]
-      ],
       [
         [
           -40,
@@ -188,5 +166,11 @@
       ]
     ]
   },
-  "image": "/images/animals/brown-widow.jpg"
+  "image": "/images/animals/brown-widow.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

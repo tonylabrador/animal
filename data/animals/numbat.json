@@ -4,8 +4,8 @@
   "name_en": "Numbat",
   "scientific_name": "Myrmecobius fasciatus",
   "ui_tags": [
-    "Mammalia",
-    "Woodland",
+    "Mammal",
+    "Forest",
     "Insectivore"
   ],
   "taxonomy": {
@@ -204,5 +204,11 @@
       ]
     ]
   },
-  "image": "/images/animals/numbat.jpg"
+  "image": "/images/animals/numbat.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

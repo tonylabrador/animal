@@ -4,7 +4,7 @@
   "name_en": "Mohol Bushbaby",
   "scientific_name": "Galago moholi",
   "ui_tags": [
-    "Mammalia",
+    "Mammal",
     "Savanna",
     "Omnivore"
   ],
@@ -158,5 +158,11 @@
       ]
     ]
   },
-  "image": "/images/animals/mohol-bushbaby.jpg"
+  "image": "/images/animals/mohol-bushbaby.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

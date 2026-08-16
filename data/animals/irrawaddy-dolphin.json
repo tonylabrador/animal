@@ -4,7 +4,7 @@
   "name_en": "Irrawaddy dolphin",
   "scientific_name": "Orcaella brevirostris",
   "ui_tags": [
-    "Mammalia",
+    "Mammal",
     "Coastal",
     "Carnivore"
   ],
@@ -316,5 +316,11 @@
       ]
     ]
   },
-  "image": "/images/animals/irrawaddy-dolphin.jpg"
+  "image": "/images/animals/irrawaddy-dolphin.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

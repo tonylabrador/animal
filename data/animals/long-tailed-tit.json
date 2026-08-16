@@ -4,7 +4,7 @@
   "name_en": "Long-tailed Tit",
   "scientific_name": "Aegithalos caudatus",
   "ui_tags": [
-    "Aves",
+    "Bird",
     "Forest",
     "Insectivore"
   ],
@@ -214,5 +214,11 @@
       ]
     ]
   },
-  "image": "/images/animals/long-tailed-tit.jpg"
+  "image": "/images/animals/long-tailed-tit.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

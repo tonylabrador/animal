@@ -4,9 +4,9 @@
   "name_en": "Common Field Grasshopper",
   "scientific_name": "Chorthippus brunneus",
   "ui_tags": [
-    "昆虫纲",
-    "草地",
-    "植食性"
+    "Insect",
+    "Grassland",
+    "Herbivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -156,5 +156,11 @@
       ]
     ]
   },
-  "image": "/images/animals/common-field-grasshopper.jpg"
+  "image": "/images/animals/common-field-grasshopper.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

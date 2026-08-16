@@ -5,7 +5,7 @@
   "scientific_name": "Dolichotis patagonum",
   "ui_tags": [
     "Mammal",
-    "Scrubland",
+    "Grassland",
     "Herbivore"
   ],
   "taxonomy": {
@@ -182,5 +182,11 @@
       ]
     ]
   },
-  "image": "/images/animals/patagonian-mara.jpg"
+  "image": "/images/animals/patagonian-mara.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

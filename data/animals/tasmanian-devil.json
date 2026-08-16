@@ -66,8 +66,39 @@
     ],
     "map_zoom_level": 6,
     "global_distribution_polygons": [
-      [[-40.7, 144.6], [-40.8, 148.3], [-43.5, 148], [-43.6, 146.5], [-42.8, 144.5], [-40.7, 144.6]]
+      [
+        [
+          -40.7,
+          144.6
+        ],
+        [
+          -40.8,
+          148.3
+        ],
+        [
+          -43.5,
+          148
+        ],
+        [
+          -43.6,
+          146.5
+        ],
+        [
+          -42.8,
+          144.5
+        ],
+        [
+          -40.7,
+          144.6
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/tasmanian-devil.jpg"
+  "image": "/images/animals/tasmanian-devil.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

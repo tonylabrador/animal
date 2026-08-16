@@ -5,7 +5,7 @@
   "scientific_name": "Dryobates pubescens",
   "ui_tags": [
     "Bird",
-    "Woodland",
+    "Forest",
     "Omnivore"
   ],
   "taxonomy": {
@@ -94,5 +94,11 @@
       ]
     ]
   },
-  "image": "/images/animals/downy-woodpecker.jpg"
+  "image": "/images/animals/downy-woodpecker.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

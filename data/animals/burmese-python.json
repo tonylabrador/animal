@@ -4,8 +4,8 @@
   "name_en": "Burmese python",
   "scientific_name": "Python bivittatus",
   "ui_tags": [
-    "Reptilia",
-    "Tropical Rainforest",
+    "Reptile",
+    "Forest",
     "Carnivore"
   ],
   "taxonomy": {
@@ -260,5 +260,11 @@
       ]
     ]
   },
-  "image": "/images/animals/burmese-python.jpg"
+  "image": "/images/animals/burmese-python.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

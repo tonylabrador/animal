@@ -65,30 +65,13 @@
       0
     ],
     "map_zoom_level": 2,
-    "global_distribution_polygons": [
-      [
-        [
-          -40,
-          -180
-        ],
-        [
-          40,
-          -180
-        ],
-        [
-          40,
-          180
-        ],
-        [
-          -40,
-          180
-        ],
-        [
-          -40,
-          -180
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/portuguese-man-o-war.jpg"
+  "image": "/images/animals/portuguese-man-o-war.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

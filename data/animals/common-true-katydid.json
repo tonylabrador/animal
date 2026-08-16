@@ -4,7 +4,7 @@
   "name_en": "Common True Katydid",
   "scientific_name": "Pterophylla camellifolia",
   "ui_tags": [
-    "Insecta",
+    "Insect",
     "Forest",
     "Herbivore"
   ],
@@ -146,5 +146,11 @@
       ]
     ]
   },
-  "image": "/images/animals/common-true-katydid.jpg"
+  "image": "/images/animals/common-true-katydid.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -8,8 +8,8 @@ This is a non-commercial, distraction-free personal project. It categorizes and 
 
 ## Features / 特点
 
-* **Bilingual Learning (纯正双语)**
-  所有动物词条均提供地道的中英对照科普。
+* **Bilingual Learning (双语学习)**
+  所有动物词条均提供中英对照科普。
   Every animal entry features side-by-side English and Chinese descriptions.
 * **Distraction-Free UI (极简无打扰)**
   排版克制，没有花哨的动效和引导弹窗，专注文字内容与自然影像。
@@ -17,22 +17,23 @@ This is a non-commercial, distraction-free personal project. It categorizes and 
 * **Family-Friendly (适合亲子共读)**
   科普语言平实自然，是一份非常适合家庭共读的“笔记”。
   The tone is educational but highly accessible, forming a basic nature journal for younger audiences.
-* **Scientific Taxonomy (分类严谨)**
+* **Scientific Taxonomy (科学分类)**
   包含从界(Kingdom)到属(Genus)的科学分类信息。
-  Accurate biological classification.
+  Structured biological classification from kingdom to genus.
 
 ---
 
 ## Local Development / 常用命令
 
-* **添加动物 / Add an Animal**
-  将 JSON 数组粘贴到 `_draft_animals.json` 并执行:
-  `node import_animals.js`
-* **下载照片 / Fetch Images**
-  为缺少图片的动物抓取照片:
-  `node download_images.js`
-* **更新目录 / Update Index**
-  基于最新数据刷新 `ANIMALS_LIST.md`:
-  `node update_animals_list.js`
+* **校验草稿 / Validate Draft**
+  `node validate_animals.js --draft`
+* **安全导入 / Safe Import**
+  `node import_animals.js --dry-run`，确认后执行 `node import_animals.js`
+* **准备图片候选 / Prepare Image Candidates**
+  `node download_images.js --ids <animal-id>`
+* **人工批准图片 / Approve Image**
+  `node download_images.js --approve <animal-id>:1`
+* **全库 QC / Full QC**
+  `npm run qc`
 
-(详细工作流请见 [docs/ADD_ANIMAL_WORKFLOW.md](docs/ADD_ANIMAL_WORKFLOW.md))
+(详细工作流请见 [docs/ADD_ANIMAL_WORKFLOW.md](docs/ADD_ANIMAL_WORKFLOW.md)，当前审核范围与遗留项请见 [docs/QC_REPORT_2026-08-16.md](docs/QC_REPORT_2026-08-16.md)。)

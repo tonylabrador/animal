@@ -16,6 +16,8 @@ dist/
 
 # Debug / IDE
 npm-debug.log*
+.image-review/
+.import-backups/
 .DS_Store
 *.log
 .idea

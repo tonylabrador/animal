@@ -5,7 +5,7 @@
   "scientific_name": "Equus ferus",
   "ui_tags": [
     "Mammal",
-    "Steppe",
+    "Grassland",
     "Herbivore"
   ],
   "taxonomy": {
@@ -65,52 +65,13 @@
       93
     ],
     "map_zoom_level": 5,
-    "global_distribution_polygons": [
-      [
-        [
-          44,
-          90
-        ],
-        [
-          48,
-          90
-        ],
-        [
-          48,
-          98
-        ],
-        [
-          44,
-          98
-        ],
-        [
-          44,
-          90
-        ]
-      ],
-      [
-        [
-          45,
-          85
-        ],
-        [
-          47,
-          85
-        ],
-        [
-          47,
-          88
-        ],
-        [
-          45,
-          88
-        ],
-        [
-          45,
-          85
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/wild-horse.jpg"
+  "image": "/images/animals/wild-horse.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

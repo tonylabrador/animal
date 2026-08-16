@@ -6,8 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "process-all": "node scripts/auto_process_wishlist.js"
+    "lint": "eslint .",
+    "validate:data": "node validate_animals.js",
+    "qc": "npm run validate:data && npm run lint && npm run build",
+    "process-wishlist": "node scripts/auto_process_wishlist.js"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",

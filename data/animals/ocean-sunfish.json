@@ -65,30 +65,13 @@
       -40
     ],
     "map_zoom_level": 2,
-    "global_distribution_polygons": [
-      [
-        [
-          55,
-          -180
-        ],
-        [
-          55,
-          180
-        ],
-        [
-          -55,
-          180
-        ],
-        [
-          -55,
-          -180
-        ],
-        [
-          55,
-          -180
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/ocean-sunfish.jpg"
+  "image": "/images/animals/ocean-sunfish.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

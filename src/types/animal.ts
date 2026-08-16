@@ -20,9 +20,11 @@ export interface Animal {
   };
 
   conservation_status: {
-    code: "LC" | "NT" | "VU" | "EN" | "CR";
+    code: "EX" | "EW" | "CR" | "EN" | "VU" | "NT" | "LC" | "DD" | "NE";
     en: string;
     zh: string;
+    note_en?: string;
+    note_zh?: string;
   };
 
   description: BilingualText;
@@ -42,4 +44,26 @@ export interface Animal {
   };
 
   image?: string | null;
+
+  image_attribution?: {
+    source: string;
+    source_url: string | null;
+    attribution: string | null;
+    license_code: string | null;
+    review_status: string;
+  };
+
+  sources?: Record<string, {
+    authority?: string;
+    url?: string;
+    release?: string;
+    status?: string;
+    checked_at: string;
+  }>;
+
+  legal_status?: {
+    code: string;
+    en: string;
+    zh: string;
+  };
 }

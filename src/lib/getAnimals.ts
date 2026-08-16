@@ -5,10 +5,19 @@ import type { Animal } from "@/types/animal";
 const ANIMALS_DIR = path.join(process.cwd(), "data", "animals");
 
 const RECENTLY_ADDED_FILE = path.join(process.cwd(), "RECENTLY_ADDED.md");
+const IMAGE_ATTRIBUTION_FILE = path.join(process.cwd(), "data", "image-attribution.json");
+
+type ImageAttribution = NonNullable<Animal["image_attribution"]>;
+
+function getImageAttributions(): Record<string, ImageAttribution> {
+  if (!fs.existsSync(IMAGE_ATTRIBUTION_FILE)) return {};
+  return JSON.parse(fs.readFileSync(IMAGE_ATTRIBUTION_FILE, "utf8"));
+}
 
 /** 读取 data/animals/ 下所有 .json 文件，返回 Animal 数组（若某文件为数组则取首项） */
 export function getAnimals(): Animal[] {
   const files = fs.readdirSync(ANIMALS_DIR).filter((f) => f.endsWith(".json"));
+  const imageAttributions = getImageAttributions();
   
   // 从 RECENTLY_ADDED.md 解析最近添加的前列排名（应对 Vercel 部署时文件时间戳被打乱的问题）
   const recentIds = new Map<string, number>();
@@ -28,10 +37,14 @@ export function getAnimals(): Animal[] {
     const filePath = path.join(ANIMALS_DIR, file);
     const raw = fs.readFileSync(filePath, "utf-8");
     const parsed = JSON.parse(raw);
-    const animal = Array.isArray(parsed) ? parsed[0] : parsed;
+    const rawAnimal = Array.isArray(parsed) ? parsed[0] : parsed;
+    const animal = {
+      ...rawAnimal,
+      image_attribution: imageAttributions[rawAnimal.id],
+    } as Animal;
     const stat = fs.statSync(filePath);
     return { 
-      animal: animal as Animal, 
+      animal,
       time: stat.birthtimeMs || stat.mtimeMs,
       recentRank: recentIds.has((animal as Animal).id) ? recentIds.get((animal as Animal).id)! : Infinity
     };
@@ -56,5 +69,8 @@ export function getAnimalById(id: string): Animal | undefined {
   if (!fs.existsSync(filePath)) return undefined;
   const parsed = JSON.parse(fs.readFileSync(filePath, "utf-8"));
   const animal = Array.isArray(parsed) ? parsed[0] : parsed;
-  return animal as Animal;
+  return {
+    ...animal,
+    image_attribution: getImageAttributions()[animal.id],
+  } as Animal;
 }

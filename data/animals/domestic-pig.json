@@ -142,5 +142,15 @@
       ]
     ]
   },
-  "image": "/images/animals/domestic-pig.jpg"
+  "image": "/images/animals/domestic-pig.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone",
+      "checked_at": "2026-08-16"
+    },
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

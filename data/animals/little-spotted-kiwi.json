@@ -65,52 +65,13 @@
       174.9
     ],
     "map_zoom_level": 7,
-    "global_distribution_polygons": [
-      [
-        [
-          -40.8,
-          174.8
-        ],
-        [
-          -40.8,
-          175
-        ],
-        [
-          -41,
-          175
-        ],
-        [
-          -41,
-          174.8
-        ],
-        [
-          -40.8,
-          174.8
-        ]
-      ],
-      [
-        [
-          -36.5,
-          174.8
-        ],
-        [
-          -36.5,
-          175
-        ],
-        [
-          -36.7,
-          175
-        ],
-        [
-          -36.7,
-          174.8
-        ],
-        [
-          -36.5,
-          174.8
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/little-spotted-kiwi.jpg"
+  "image": "/images/animals/little-spotted-kiwi.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }
