@@ -5,7 +5,7 @@
   "scientific_name": "Rhacophorus nigropalmatus",
   "ui_tags": [
     "Amphibian",
-    "Rainforest",
+    "Forest",
     "Carnivore"
   ],
   "taxonomy": {
@@ -152,5 +152,11 @@
       ]
     ]
   },
-  "image": "/images/animals/wallaces-flying-frog.jpg"
+  "image": "/images/animals/wallaces-flying-frog.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

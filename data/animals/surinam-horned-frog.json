@@ -5,7 +5,7 @@
   "scientific_name": "Ceratophrys cornuta",
   "ui_tags": [
     "Amphibian",
-    "Rainforest",
+    "Forest",
     "Carnivore"
   ],
   "taxonomy": {
@@ -122,5 +122,11 @@
       ]
     ]
   },
-  "image": "/images/animals/surinam-horned-frog.jpg"
+  "image": "/images/animals/surinam-horned-frog.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

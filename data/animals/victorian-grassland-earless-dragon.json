@@ -4,7 +4,7 @@
   "name_en": "Victorian grassland earless dragon",
   "scientific_name": "Tympanocryptis pinguicolla",
   "ui_tags": [
-    "Reptilia",
+    "Reptile",
     "Grassland",
     "Insectivore"
   ],
@@ -144,5 +144,11 @@
       ]
     ]
   },
-  "image": "/images/animals/victorian-grassland-earless-dragon.jpg"
+  "image": "/images/animals/victorian-grassland-earless-dragon.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

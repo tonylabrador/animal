@@ -4,7 +4,7 @@
   "name_en": "Goliath Birdeater",
   "scientific_name": "Theraphosa blondi",
   "ui_tags": [
-    "Arthropod",
+    "Arachnid",
     "Forest",
     "Carnivore"
   ],
@@ -106,5 +106,11 @@
       ]
     ]
   },
-  "image": "/images/animals/goliath-birdeater.jpg"
+  "image": "/images/animals/goliath-birdeater.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

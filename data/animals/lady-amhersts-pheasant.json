@@ -4,7 +4,7 @@
   "name_en": "Lady Amherst's Pheasant",
   "scientific_name": "Chrysolophus amherstiae",
   "ui_tags": [
-    "Aves",
+    "Bird",
     "Forest",
     "Omnivore"
   ],
@@ -150,5 +150,11 @@
       ]
     ]
   },
-  "image": "/images/animals/lady-amhersts-pheasant.jpg"
+  "image": "/images/animals/lady-amhersts-pheasant.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

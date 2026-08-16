@@ -5,7 +5,7 @@
   "scientific_name": "Ursus maritimus",
   "ui_tags": [
     "Mammal",
-    "Arctic",
+    "Tundra",
     "Carnivore"
   ],
   "taxonomy": {
@@ -66,8 +66,59 @@
     ],
     "map_zoom_level": 3,
     "global_distribution_polygons": [
-      [[75, -160], [80, -120], [82, -80], [85, -20], [80, 20], [78, 60], [75, 100], [72, 150], [70, 180], [70, -170], [75, -160]]
+      [
+        [
+          75,
+          -160
+        ],
+        [
+          80,
+          -120
+        ],
+        [
+          82,
+          -80
+        ],
+        [
+          85,
+          -20
+        ],
+        [
+          80,
+          20
+        ],
+        [
+          78,
+          60
+        ],
+        [
+          75,
+          100
+        ],
+        [
+          72,
+          150
+        ],
+        [
+          70,
+          180
+        ],
+        [
+          70,
+          -170
+        ],
+        [
+          75,
+          -160
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/polar-bear.jpg"
+  "image": "/images/animals/polar-bear.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -66,8 +66,55 @@
     ],
     "map_zoom_level": 4,
     "global_distribution_polygons": [
-      [[45, 80], [45, 90], [40, 100], [30, 100], [28, 90], [28, 80], [32, 75], [40, 70], [45, 75], [45, 80]]
+      [
+        [
+          45,
+          80
+        ],
+        [
+          45,
+          90
+        ],
+        [
+          40,
+          100
+        ],
+        [
+          30,
+          100
+        ],
+        [
+          28,
+          90
+        ],
+        [
+          28,
+          80
+        ],
+        [
+          32,
+          75
+        ],
+        [
+          40,
+          70
+        ],
+        [
+          45,
+          75
+        ],
+        [
+          45,
+          80
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/snow-leopard.jpg"
+  "image": "/images/animals/snow-leopard.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

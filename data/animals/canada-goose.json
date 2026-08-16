@@ -5,7 +5,7 @@
   "scientific_name": "Branta canadensis",
   "ui_tags": [
     "Bird",
-    "River",
+    "Freshwater",
     "Herbivore"
   ],
   "taxonomy": {
@@ -130,5 +130,11 @@
       ]
     ]
   },
-  "image": "/images/animals/canada-goose.jpg"
+  "image": "/images/animals/canada-goose.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

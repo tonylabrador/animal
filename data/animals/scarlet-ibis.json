@@ -4,9 +4,9 @@
   "name_en": "Scarlet Ibis",
   "scientific_name": "Eudocimus ruber",
   "ui_tags": [
-    "鸟纲",
-    "湿地",
-    "肉食性"
+    "Bird",
+    "Wetland",
+    "Carnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -258,5 +258,11 @@
       ]
     ]
   },
-  "image": "/images/animals/scarlet-ibis.jpg"
+  "image": "/images/animals/scarlet-ibis.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

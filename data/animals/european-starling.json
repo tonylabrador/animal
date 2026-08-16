@@ -179,52 +179,14 @@
           -40,
           110
         ]
-      ],
-      [
-        [
-          -40,
-          -75
-        ],
-        [
-          -20,
-          -75
-        ],
-        [
-          -20,
-          -45
-        ],
-        [
-          -40,
-          -45
-        ],
-        [
-          -40,
-          -75
-        ]
-      ],
-      [
-        [
-          -35,
-          15
-        ],
-        [
-          -25,
-          15
-        ],
-        [
-          -25,
-          30
-        ],
-        [
-          -35,
-          30
-        ],
-        [
-          -35,
-          15
-        ]
       ]
     ]
   },
-  "image": "/images/animals/european-starling.jpg"
+  "image": "/images/animals/european-starling.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

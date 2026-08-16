@@ -4,9 +4,9 @@
   "name_en": "Bearded vulture",
   "scientific_name": "Gypaetus barbatus",
   "ui_tags": [
-    "Aves",
-    "Alpine",
-    "Osteophage"
+    "Bird",
+    "Mountains",
+    "Carnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -314,5 +314,11 @@
       ]
     ]
   },
-  "image": "/images/animals/bearded-vulture.jpg"
+  "image": "/images/animals/bearded-vulture.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

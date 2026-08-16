@@ -4,8 +4,8 @@
   "name_en": "Dusky dolphin",
   "scientific_name": "Lagenorhynchus obscurus",
   "ui_tags": [
-    "Mammalia",
-    "Marine",
+    "Mammal",
+    "Ocean",
     "Piscivore"
   ],
   "taxonomy": {
@@ -294,5 +294,11 @@
       ]
     ]
   },
-  "image": "/images/animals/dusky-dolphin.jpg"
+  "image": "/images/animals/dusky-dolphin.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

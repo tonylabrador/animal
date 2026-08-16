@@ -5,7 +5,7 @@
   "scientific_name": "Priodontes maximus",
   "ui_tags": [
     "Mammal",
-    "Forest & Grassland",
+    "Forest",
     "Insectivore"
   ],
   "taxonomy": {
@@ -198,5 +198,11 @@
       ]
     ]
   },
-  "image": "/images/animals/giant-armadillo.jpg"
+  "image": "/images/animals/giant-armadillo.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

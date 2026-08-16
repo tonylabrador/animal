@@ -4,7 +4,7 @@
   "name_en": "Chinese Crocodile Lizard",
   "scientific_name": "Shinisaurus crocodilurus",
   "ui_tags": [
-    "Reptilia",
+    "Reptile",
     "Freshwater",
     "Carnivore"
   ],
@@ -244,5 +244,11 @@
       ]
     ]
   },
-  "image": "/images/animals/chinese-crocodile-lizard.jpg"
+  "image": "/images/animals/chinese-crocodile-lizard.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -5,7 +5,7 @@
   "scientific_name": "Corvus brachyrhynchos",
   "ui_tags": [
     "Bird",
-    "North America",
+    "Urban",
     "Omnivore"
   ],
   "taxonomy": {
@@ -90,5 +90,11 @@
       ]
     ]
   },
-  "image": "/images/animals/american-crow.jpg"
+  "image": "/images/animals/american-crow.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -4,8 +4,8 @@
   "name_en": "Saola",
   "scientific_name": "Pseudoryx nghetinhensis",
   "ui_tags": [
-    "Mammalia",
-    "Rainforest",
+    "Mammal",
+    "Forest",
     "Herbivore"
   ],
   "taxonomy": {
@@ -178,5 +178,11 @@
       ]
     ]
   },
-  "image": "/images/animals/saola.jpg"
+  "image": "/images/animals/saola.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

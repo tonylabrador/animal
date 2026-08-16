@@ -5,7 +5,7 @@
   "scientific_name": "Varecia rubra",
   "ui_tags": [
     "Mammal",
-    "Rainforest",
+    "Forest",
     "Frugivore"
   ],
   "taxonomy": {
@@ -242,5 +242,11 @@
       ]
     ]
   },
-  "image": "/images/animals/red-ruffed-lemur.jpg"
+  "image": "/images/animals/red-ruffed-lemur.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -4,8 +4,8 @@
   "name_en": "Boa constrictor",
   "scientific_name": "Boa constrictor",
   "ui_tags": [
-    "Reptilia",
-    "Tropical Rainforest",
+    "Reptile",
+    "Forest",
     "Carnivore"
   ],
   "taxonomy": {
@@ -256,5 +256,11 @@
       ]
     ]
   },
-  "image": "/images/animals/boa-constrictor.jpg"
+  "image": "/images/animals/boa-constrictor.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

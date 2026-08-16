@@ -65,9 +65,13 @@
       105
     ],
     "map_zoom_level": 5,
-    "global_distribution_polygons": [
-      [[25, 100], [35, 100], [35, 115], [25, 115], [25, 100]]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/golden-pheasant.jpg"
+  "image": "/images/animals/golden-pheasant.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

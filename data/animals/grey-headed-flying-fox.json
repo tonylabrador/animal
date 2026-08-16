@@ -5,7 +5,7 @@
   "scientific_name": "Pteropus poliocephalus",
   "ui_tags": [
     "Mammal",
-    "Australia",
+    "Forest",
     "Frugivore"
   ],
   "taxonomy": {
@@ -110,5 +110,11 @@
       ]
     ]
   },
-  "image": "/images/animals/grey-headed-flying-fox.jpg"
+  "image": "/images/animals/grey-headed-flying-fox.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

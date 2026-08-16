@@ -4,9 +4,9 @@
   "name_en": "Black Carp",
   "scientific_name": "Mylopharyngodon piceus",
   "ui_tags": [
-    "辐鳍鱼纲",
-    "淡水",
-    "肉食性"
+    "Fish",
+    "Freshwater",
+    "Carnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -286,5 +286,11 @@
       ]
     ]
   },
-  "image": "/images/animals/black-carp.jpg"
+  "image": "/images/animals/black-carp.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "philippine-flying-lemur",
   "name_zh": "斑鼯猴",
-  "name_en": "Flying Lemur",
+  "name_en": "Philippine Flying Lemur",
   "scientific_name": "Cynocephalus volans",
   "ui_tags": [
     "Mammal",
@@ -66,8 +66,35 @@
     ],
     "map_zoom_level": 5,
     "global_distribution_polygons": [
-      [[18, 119], [18, 123], [5, 127], [5, 117], [18, 119]]
+      [
+        [
+          18,
+          119
+        ],
+        [
+          18,
+          123
+        ],
+        [
+          5,
+          127
+        ],
+        [
+          5,
+          117
+        ],
+        [
+          18,
+          119
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/philippine-flying-lemur.jpg"
+  "image": "/images/animals/philippine-flying-lemur.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -4,10 +4,9 @@
   "name_en": "Yellow-bellied Sea Snake",
   "scientific_name": "Hydrophis platurus",
   "ui_tags": [
-    "爬行纲",
-    "海洋生物",
-    "肉食性",
-    "剧毒"
+    "Reptile",
+    "Ocean",
+    "Carnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -189,5 +188,11 @@
       ]
     ]
   },
-  "image": "/images/animals/yellow-bellied-sea-snake.jpg"
+  "image": "/images/animals/yellow-bellied-sea-snake.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

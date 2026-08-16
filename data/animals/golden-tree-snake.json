@@ -4,9 +4,9 @@
   "name_en": "Golden Tree Snake",
   "scientific_name": "Chrysopelea ornata",
   "ui_tags": [
-    "爬行纲",
-    "热带雨林",
-    "肉食性"
+    "Reptile",
+    "Forest",
+    "Carnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -300,5 +300,11 @@
       ]
     ]
   },
-  "image": "/images/animals/golden-tree-snake.jpg"
+  "image": "/images/animals/golden-tree-snake.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

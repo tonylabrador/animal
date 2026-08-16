@@ -4,7 +4,7 @@
   "name_en": "Blue Crab",
   "scientific_name": "Callinectes sapidus",
   "ui_tags": [
-    "Arthropod",
+    "Crustacean",
     "Ocean",
     "Omnivore"
   ],
@@ -146,5 +146,11 @@
       ]
     ]
   },
-  "image": "/images/animals/blue-crab.jpg"
+  "image": "/images/animals/blue-crab.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

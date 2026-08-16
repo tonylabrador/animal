@@ -5,7 +5,7 @@
   "scientific_name": "Crocodylus acutus",
   "ui_tags": [
     "Reptile",
-    "Coastal/Mangrove",
+    "Wetland",
     "Carnivore"
   ],
   "taxonomy": {
@@ -424,5 +424,11 @@
       ]
     ]
   },
-  "image": "/images/animals/american-crocodile.jpg"
+  "image": "/images/animals/american-crocodile.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

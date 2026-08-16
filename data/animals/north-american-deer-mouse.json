@@ -4,8 +4,8 @@
   "name_en": "North American Deer Mouse",
   "scientific_name": "Peromyscus maniculatus",
   "ui_tags": [
-    "Mammalia",
-    "Terrestrial",
+    "Mammal",
+    "Grassland",
     "Omnivore"
   ],
   "taxonomy": {
@@ -206,5 +206,11 @@
       ]
     ]
   },
-  "image": "/images/animals/north-american-deer-mouse.jpg"
+  "image": "/images/animals/north-american-deer-mouse.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -4,9 +4,9 @@
   "name_en": "Northern river terrapin",
   "scientific_name": "Batagur baska",
   "ui_tags": [
-    "Reptilia",
-    "Estuarine",
-    "Herbivorous"
+    "Reptile",
+    "Wetland",
+    "Herbivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -176,5 +176,11 @@
       ]
     ]
   },
-  "image": "/images/animals/northern-river-terrapin.jpg"
+  "image": "/images/animals/northern-river-terrapin.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -66,8 +66,55 @@
     ],
     "map_zoom_level": 3,
     "global_distribution_polygons": [
-      [[15, -15], [18, 10], [15, 35], [5, 45], [-10, 35], [-30, 30], [-30, 15], [-15, 10], [5, 10], [15, -15]]
+      [
+        [
+          15,
+          -15
+        ],
+        [
+          18,
+          10
+        ],
+        [
+          15,
+          35
+        ],
+        [
+          5,
+          45
+        ],
+        [
+          -10,
+          35
+        ],
+        [
+          -30,
+          30
+        ],
+        [
+          -30,
+          15
+        ],
+        [
+          -15,
+          10
+        ],
+        [
+          5,
+          10
+        ],
+        [
+          15,
+          -15
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/common-ostrich.jpg"
+  "image": "/images/animals/common-ostrich.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

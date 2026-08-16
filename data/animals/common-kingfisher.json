@@ -5,7 +5,7 @@
   "scientific_name": "Alcedo atthis",
   "ui_tags": [
     "Bird",
-    "River",
+    "Freshwater",
     "Carnivore"
   ],
   "taxonomy": {
@@ -136,28 +136,6 @@
       ],
       [
         [
-          -7,
-          105
-        ],
-        [
-          5,
-          105
-        ],
-        [
-          5,
-          120
-        ],
-        [
-          -7,
-          120
-        ],
-        [
-          -7,
-          105
-        ]
-      ],
-      [
-        [
           30,
           -10
         ],
@@ -180,5 +158,11 @@
       ]
     ]
   },
-  "image": "/images/animals/common-kingfisher.jpg"
+  "image": "/images/animals/common-kingfisher.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

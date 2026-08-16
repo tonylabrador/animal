@@ -4,7 +4,7 @@
   "name_en": "Grevy's Zebra",
   "scientific_name": "Equus grevyi",
   "ui_tags": [
-    "Mammalia",
+    "Mammal",
     "Grassland",
     "Herbivore"
   ],
@@ -392,5 +392,11 @@
       ]
     ]
   },
-  "image": "/images/animals/grevys-zebra.jpg"
+  "image": "/images/animals/grevys-zebra.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -4,7 +4,7 @@
   "name_en": "Nevada dampwood termite",
   "scientific_name": "Zootermopsis nevadensis",
   "ui_tags": [
-    "Insecta",
+    "Insect",
     "Forest",
     "Detritivore"
   ],
@@ -142,5 +142,11 @@
       ]
     ]
   },
-  "image": "/images/animals/nevada-dampwood-termite.jpg"
+  "image": "/images/animals/nevada-dampwood-termite.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

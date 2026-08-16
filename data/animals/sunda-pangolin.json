@@ -66,8 +66,47 @@
     ],
     "map_zoom_level": 4,
     "global_distribution_polygons": [
-      [[20, 95], [20, 105], [10, 110], [5, 119], [-8, 115], [-8, 105], [5, 95], [20, 95]]
+      [
+        [
+          20,
+          95
+        ],
+        [
+          20,
+          105
+        ],
+        [
+          10,
+          110
+        ],
+        [
+          5,
+          119
+        ],
+        [
+          -8,
+          115
+        ],
+        [
+          -8,
+          105
+        ],
+        [
+          5,
+          95
+        ],
+        [
+          20,
+          95
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/sunda-pangolin.jpg"
+  "image": "/images/animals/sunda-pangolin.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

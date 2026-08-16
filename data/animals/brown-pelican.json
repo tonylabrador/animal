@@ -4,10 +4,9 @@
   "name_en": "Brown pelican",
   "scientific_name": "Pelecanus occidentalis",
   "ui_tags": [
-    "Aves",
+    "Bird",
     "Coastal",
-    "Piscivore",
-    "Plunge-diver"
+    "Piscivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -419,5 +418,11 @@
       ]
     ]
   },
-  "image": "/images/animals/brown-pelican.jpg"
+  "image": "/images/animals/brown-pelican.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

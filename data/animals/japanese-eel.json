@@ -4,9 +4,9 @@
   "name_en": "Japanese Eel",
   "scientific_name": "Anguilla japonica",
   "ui_tags": [
-    "辐鳍鱼纲",
-    "江河洄游",
-    "肉食性"
+    "Fish",
+    "Freshwater",
+    "Carnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -66,28 +66,6 @@
     ],
     "map_zoom_level": 4,
     "global_distribution_polygons": [
-      [
-        [
-          14,
-          141.5
-        ],
-        [
-          16.5,
-          141.5
-        ],
-        [
-          16.5,
-          143.5
-        ],
-        [
-          14,
-          143.5
-        ],
-        [
-          14,
-          141.5
-        ]
-      ],
       [
         [
           18.2,
@@ -196,5 +174,11 @@
       ]
     ]
   },
-  "image": "/images/animals/japanese-eel.jpg"
+  "image": "/images/animals/japanese-eel.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

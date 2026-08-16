@@ -5,7 +5,7 @@
   "scientific_name": "Tapirus terrestris",
   "ui_tags": [
     "Mammal",
-    "Rainforest",
+    "Forest",
     "Herbivore"
   ],
   "taxonomy": {
@@ -126,5 +126,11 @@
       ]
     ]
   },
-  "image": "/images/animals/south-american-tapir.jpg"
+  "image": "/images/animals/south-american-tapir.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

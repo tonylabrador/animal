@@ -4,9 +4,9 @@
   "name_en": "Proboscis monkey",
   "scientific_name": "Nasalis larvatus",
   "ui_tags": [
-    "Mammalia",
-    "Mangrove Forest",
-    "Folivore"
+    "Mammal",
+    "Wetland",
+    "Herbivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -162,5 +162,11 @@
       ]
     ]
   },
-  "image": "/images/animals/proboscis-monkey.jpg"
+  "image": "/images/animals/proboscis-monkey.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

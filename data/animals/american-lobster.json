@@ -4,9 +4,9 @@
   "name_en": "American lobster",
   "scientific_name": "Homarus americanus",
   "ui_tags": [
-    "软甲纲",
-    "海洋生物",
-    "肉食性"
+    "Crustacean",
+    "Ocean",
+    "Carnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -206,5 +206,11 @@
       ]
     ]
   },
-  "image": "/images/animals/american-lobster.jpg"
+  "image": "/images/animals/american-lobster.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

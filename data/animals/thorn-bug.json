@@ -4,14 +4,14 @@
   "name_en": "Thorn Bug",
   "scientific_name": "Umbonia crassicornis",
   "ui_tags": [
-    "昆虫纲",
-    "热带雨林",
-    "植食性"
+    "Insect",
+    "Forest",
+    "Herbivore"
   ],
   "taxonomy": {
     "kingdom": {
       "en": "Animalia",
-      "zh": "界"
+      "zh": "动物界"
     },
     "phylum": {
       "en": "Arthropoda",
@@ -180,5 +180,11 @@
       ]
     ]
   },
-  "image": "/images/animals/thorn-bug.jpg"
+  "image": "/images/animals/thorn-bug.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

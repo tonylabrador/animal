@@ -168,7 +168,7 @@
 
 **鼯猴科**
 
-- 斑鼯猴 / Flying Lemur — *Cynocephalus volans* `philippine-flying-lemur`
+- 斑鼯猴 / Philippine Flying Lemur — *Cynocephalus volans* `philippine-flying-lemur`
 
 ### 管齿目
 
@@ -181,12 +181,12 @@
 **叶口蝠科**
 
 - 吸血蝠 / Common Vampire Bat — *Desmodus rotundus* `common-vampire-bat`
-- 白翼吸血蝠 / White-winged vampire bat — *Diaemus youngi* `white-winged-vampire-bat`
+- 白翼吸血蝠 / White-winged vampire bat — *Diaemus youngii* `white-winged-vampire-bat`
 
 **狐蝠科**
 
 - 灰头狐蝠 / Grey-headed Flying Fox — *Pteropus poliocephalus* `grey-headed-flying-fox`
-- 印度狐蝠 / Indian Flying Fox — *Pteropus giganteus* `indian-flying-fox`
+- 印度狐蝠 / Indian Flying Fox — *Pteropus medius* `indian-flying-fox`
 - 马来大狐蝠 / Large Flying Fox — *Pteropus vampyrus* `large-flying-fox`
 
 **蝙蝠科**
@@ -418,7 +418,7 @@
 
 - 港湾鼠海豚 / Harbor Porpoise — *Phocoena phocoena* `harbor-porpoise`
 - 小头鼠海豚 / Vaquita — *Phocoena sinus* `vaquita`
-- 长江江豚 / Yangtze finless porpoise — *Neophocaena asiaeorientalis asiaeorientalis* `yangtze-finless-porpoise`
+- 长江江豚 / Yangtze finless porpoise — *Neophocaena asiaeorientalis* `yangtze-finless-porpoise`
 
 ### 鳞甲目
 
@@ -675,7 +675,7 @@
 
 **鲣鸟科**
 
-- 蓝脚鲣鸟 / Blue-footed booby — *Sula nebouxi* `blue-footed-booby`
+- 蓝脚鲣鸟 / Blue-footed booby — *Sula nebouxii* `blue-footed-booby`
 
 **鸬鹚科**
 
@@ -1101,7 +1101,7 @@
 
 **锹甲科**
 
-- 长颈鹿锯锹甲 / Giraffe Stag Beetle — *Prosopocoilus giraffa* `giraffe-stag-beetle`
+- 长颈鹿锯锹甲 / Giraffe Stag Beetle — *Prosopocoilus girafa* `giraffe-stag-beetle`
 
 ### 鳞翅目
 

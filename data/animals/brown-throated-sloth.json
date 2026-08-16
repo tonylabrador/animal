@@ -5,7 +5,7 @@
   "scientific_name": "Bradypus variegatus",
   "ui_tags": [
     "Mammal",
-    "Rainforest",
+    "Forest",
     "Herbivore"
   ],
   "taxonomy": {
@@ -66,8 +66,47 @@
     ],
     "map_zoom_level": 3,
     "global_distribution_polygons": [
-      [[15, -85], [10, -70], [5, -55], [-10, -40], [-25, -45], [-30, -60], [-10, -80], [15, -85]]
+      [
+        [
+          15,
+          -85
+        ],
+        [
+          10,
+          -70
+        ],
+        [
+          5,
+          -55
+        ],
+        [
+          -10,
+          -40
+        ],
+        [
+          -25,
+          -45
+        ],
+        [
+          -30,
+          -60
+        ],
+        [
+          -10,
+          -80
+        ],
+        [
+          15,
+          -85
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/brown-throated-sloth.jpg"
+  "image": "/images/animals/brown-throated-sloth.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

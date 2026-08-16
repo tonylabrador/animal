@@ -65,52 +65,13 @@
       -45
     ],
     "map_zoom_level": 3,
-    "global_distribution_polygons": [
-      [
-        [
-          40,
-          -80
-        ],
-        [
-          40,
-          -20
-        ],
-        [
-          -40,
-          -20
-        ],
-        [
-          -40,
-          -80
-        ],
-        [
-          40,
-          -80
-        ]
-      ],
-      [
-        [
-          30,
-          140
-        ],
-        [
-          30,
-          -120
-        ],
-        [
-          -30,
-          -120
-        ],
-        [
-          -30,
-          140
-        ],
-        [
-          30,
-          140
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/humpback-anglerfish.jpg"
+  "image": "/images/animals/humpback-anglerfish.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

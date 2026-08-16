@@ -4,8 +4,8 @@
   "name_en": "Dalmatian pelican",
   "scientific_name": "Pelecanus crispus",
   "ui_tags": [
-    "Aves",
-    "Wetlands",
+    "Bird",
+    "Wetland",
     "Piscivore"
   ],
   "taxonomy": {
@@ -306,5 +306,11 @@
       ]
     ]
   },
-  "image": "/images/animals/dalmatian-pelican.jpg"
+  "image": "/images/animals/dalmatian-pelican.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -4,8 +4,8 @@
   "name_en": "Tufted puffin",
   "scientific_name": "Fratercula cirrhata",
   "ui_tags": [
-    "Aves",
-    "Marine",
+    "Bird",
+    "Ocean",
     "Piscivore"
   ],
   "taxonomy": {
@@ -150,6 +150,10 @@
         [
           61.5,
           164.8
+        ],
+        [
+          61,
+          163.5
         ]
       ],
       [
@@ -220,6 +224,10 @@
         [
           60.2,
           -150.5
+        ],
+        [
+          59.5,
+          -151.2
         ]
       ],
       [
@@ -310,9 +318,19 @@
         [
           58.8,
           -142.5
+        ],
+        [
+          59.1,
+          -140.5
         ]
       ]
     ]
   },
-  "image": "/images/animals/tufted-puffin.jpg"
+  "image": "/images/animals/tufted-puffin.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

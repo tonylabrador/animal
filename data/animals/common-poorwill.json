@@ -4,8 +4,8 @@
   "name_en": "Common poorwill",
   "scientific_name": "Phalaenoptilus nuttallii",
   "ui_tags": [
-    "Aves",
-    "Arid Shrubland",
+    "Bird",
+    "Desert",
     "Insectivore"
   ],
   "taxonomy": {
@@ -162,5 +162,11 @@
       ]
     ]
   },
-  "image": "/images/animals/common-poorwill.jpg"
+  "image": "/images/animals/common-poorwill.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

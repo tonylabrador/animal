@@ -4,8 +4,8 @@
   "name_en": "Golden-rumped Elephant Shrew",
   "scientific_name": "Rhynchocyon chrysopygus",
   "ui_tags": [
-    "Mammalia",
-    "Coastal Forest",
+    "Mammal",
+    "Coastal",
     "Insectivore"
   ],
   "taxonomy": {
@@ -162,5 +162,11 @@
       ]
     ]
   },
-  "image": "/images/animals/golden-rumped-elephant-shrew.jpg"
+  "image": "/images/animals/golden-rumped-elephant-shrew.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

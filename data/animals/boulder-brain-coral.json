@@ -4,7 +4,7 @@
   "name_en": "Boulder brain coral",
   "scientific_name": "Colpophyllia natans",
   "ui_tags": [
-    "Anthozoa",
+    "Cnidarian",
     "Coral Reef",
     "Filter Feeder"
   ],
@@ -35,9 +35,9 @@
     }
   },
   "conservation_status": {
-    "code": "LC",
-    "en": "Least Concern",
-    "zh": "无危"
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
   },
   "description": {
     "en": "Colpophyllia natans, commonly known as the boulder brain coral, is a massive, hermatypic (reef-building) stony coral characterized by its large, dome-shaped colonies that can exceed two meters in diameter. Its surface is a labyrinthine network of meandering ridges and deep valleys, which visually resemble the folds of a human brain. The valleys are typically green, brown, or tan, while the ridges exhibit contrasting colors. As a foundational species in the Caribbean and Gulf of Mexico, it provides critical structural complexity to coral reef ecosystems, supporting a vast array of marine biodiversity.",
@@ -178,5 +178,16 @@
       ]
     ]
   },
-  "image": "/images/animals/boulder-brain-coral.jpg"
+  "image": "/images/animals/boulder-brain-coral.jpg",
+  "sources": {
+    "conservation": {
+      "authority": "IUCN Red List",
+      "release": "2026-1",
+      "checked_at": "2026-08-16"
+    },
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

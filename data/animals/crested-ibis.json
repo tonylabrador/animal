@@ -65,9 +65,13 @@
       107.5
     ],
     "map_zoom_level": 7,
-    "global_distribution_polygons": [
-      [[33, 107], [34, 107], [34, 108.5], [33, 108.5], [33, 107]]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/crested-ibis.jpg"
+  "image": "/images/animals/crested-ibis.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

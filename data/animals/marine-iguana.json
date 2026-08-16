@@ -4,7 +4,7 @@
   "name_en": "Marine Iguana",
   "scientific_name": "Amblyrhynchus cristatus",
   "ui_tags": [
-    "Reptilia",
+    "Reptile",
     "Coastal",
     "Herbivore"
   ],
@@ -368,5 +368,11 @@
       ]
     ]
   },
-  "image": "/images/animals/marine-iguana.jpg"
+  "image": "/images/animals/marine-iguana.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

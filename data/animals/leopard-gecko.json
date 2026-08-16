@@ -4,9 +4,9 @@
   "name_en": "Leopard gecko",
   "scientific_name": "Eublepharis macularius",
   "ui_tags": [
-    "爬行纲",
-    "荒漠",
-    "食虫性"
+    "Reptile",
+    "Desert",
+    "Insectivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -164,5 +164,11 @@
       ]
     ]
   },
-  "image": "/images/animals/leopard-gecko.jpg"
+  "image": "/images/animals/leopard-gecko.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

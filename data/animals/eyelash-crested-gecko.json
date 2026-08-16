@@ -4,9 +4,9 @@
   "name_en": "Eyelash Crested Gecko",
   "scientific_name": "Correlophus ciliatus",
   "ui_tags": [
-    "爬行纲",
-    "热带雨林",
-    "杂食性"
+    "Reptile",
+    "Forest",
+    "Omnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -154,5 +154,11 @@
       ]
     ]
   },
-  "image": "/images/animals/eyelash-crested-gecko.jpg"
+  "image": "/images/animals/eyelash-crested-gecko.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

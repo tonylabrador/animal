@@ -4,8 +4,8 @@
   "name_en": "Great cormorant",
   "scientific_name": "Phalacrocorax carbo",
   "ui_tags": [
-    "Aves",
-    "Wetlands",
+    "Bird",
+    "Wetland",
     "Piscivore"
   ],
   "taxonomy": {
@@ -364,5 +364,11 @@
       ]
     ]
   },
-  "image": "/images/animals/great-cormorant.jpg"
+  "image": "/images/animals/great-cormorant.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

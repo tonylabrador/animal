@@ -4,7 +4,7 @@
   "name_en": "Peacock Mantis Shrimp",
   "scientific_name": "Odontodactylus scyllarus",
   "ui_tags": [
-    "Invertebrate",
+    "Crustacean",
     "Ocean",
     "Carnivore"
   ],
@@ -65,9 +65,13 @@
       145
     ],
     "map_zoom_level": 5,
-    "global_distribution_polygons": [
-      [[30,32, 30,43], [35,120, 35,145]]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/peacock-mantis-shrimp.jpg"
+  "image": "/images/animals/peacock-mantis-shrimp.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

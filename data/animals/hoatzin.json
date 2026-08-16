@@ -4,9 +4,9 @@
   "name_en": "Hoatzin",
   "scientific_name": "Opisthocomus hoazin",
   "ui_tags": [
-    "Aves",
-    "Riparian Forest",
-    "Folivore"
+    "Bird",
+    "Freshwater",
+    "Herbivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -218,5 +218,11 @@
       ]
     ]
   },
-  "image": "/images/animals/hoatzin.jpg"
+  "image": "/images/animals/hoatzin.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

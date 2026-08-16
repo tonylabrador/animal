@@ -4,8 +4,8 @@
   "name_en": "Chinese Cave Gecko",
   "scientific_name": "Goniurosaurus luii",
   "ui_tags": [
-    "Reptilia",
-    "Karst",
+    "Reptile",
+    "Mountains",
     "Insectivore"
   ],
   "taxonomy": {
@@ -134,5 +134,11 @@
       ]
     ]
   },
-  "image": "/images/animals/chinese-cave-gecko.jpg"
+  "image": "/images/animals/chinese-cave-gecko.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

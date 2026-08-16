@@ -35,6 +35,20 @@ export default function WishlistSection({ lang, compact = false }: WishlistSecti
   const [loadingRecentlyAdded, setLoadingRecentlyAdded] = useState(false);
   const [isOpen, setIsOpen] = useState(false);
 
+  // ── Load wish list ──────────────────────────────────────────────────────────
+  const fetchList = useCallback(async () => {
+    setLoadingList(true);
+    try {
+      const res = await fetch("/api/wishlist");
+      const data = await res.json();
+      setEntries(data as WishlistEntry[]);
+    } catch {
+      setEntries([]);
+    } finally {
+      setLoadingList(false);
+    }
+  }, []);
+
   // ── Submit handler ──────────────────────────────────────────────────────────
   const handleSubmit = useCallback(async () => {
     if (!input.trim()) return;
@@ -49,7 +63,6 @@ export default function WishlistSection({ lang, compact = false }: WishlistSecti
       if (data.status === "VALID") {
         setSubmitState({ type: "success", zh: data.zh, en: data.en, scientific: data.scientific });
         setInput("");
-        // Refresh list if open
         if (showList) fetchList();
       } else if (data.status === "NEEDS_CLARIFICATION" || data.status === "INVALID") {
         setSubmitState({ type: "clarification", message: data.clarification });
@@ -59,21 +72,7 @@ export default function WishlistSection({ lang, compact = false }: WishlistSecti
     } catch {
       setSubmitState({ type: "error", message: "网络错误，请稍后再试" });
     }
-  }, [input, showList]);
-
-  // ── Load wish list ──────────────────────────────────────────────────────────
-  const fetchList = useCallback(async () => {
-    setLoadingList(true);
-    try {
-      const res = await fetch("/api/wishlist");
-      const data = await res.json();
-      setEntries(data as WishlistEntry[]);
-    } catch {
-      setEntries([]);
-    } finally {
-      setLoadingList(false);
-    }
-  }, []);
+  }, [fetchList, input, showList]);
 
   const toggleList = () => {
     if (!showList) fetchList();

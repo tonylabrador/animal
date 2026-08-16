@@ -4,9 +4,9 @@
   "name_en": "Upland Buzzard",
   "scientific_name": "Buteo hemilasius",
   "ui_tags": [
-    "鸟纲",
-    "草原",
-    "肉食性"
+    "Bird",
+    "Grassland",
+    "Carnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -166,5 +166,11 @@
       ]
     ]
   },
-  "image": "/images/animals/upland-buzzard.jpg"
+  "image": "/images/animals/upland-buzzard.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

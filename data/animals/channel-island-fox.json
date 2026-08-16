@@ -4,8 +4,8 @@
   "name_en": "Channel Island Fox",
   "scientific_name": "Urocyon littoralis",
   "ui_tags": [
-    "Mammalia",
-    "Island Endemic",
+    "Mammal",
+    "Island",
     "Omnivore"
   ],
   "taxonomy": {
@@ -540,5 +540,11 @@
       ]
     ]
   },
-  "image": "/images/animals/channel-island-fox.jpg"
+  "image": "/images/animals/channel-island-fox.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

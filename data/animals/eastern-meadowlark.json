@@ -4,9 +4,9 @@
   "name_en": "Eastern meadowlark",
   "scientific_name": "Sturnella magna",
   "ui_tags": [
-    "鸟纲",
-    "草原",
-    "食虫性"
+    "Bird",
+    "Grassland",
+    "Insectivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -208,5 +208,11 @@
       ]
     ]
   },
-  "image": "/images/animals/eastern-meadowlark.jpg"
+  "image": "/images/animals/eastern-meadowlark.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

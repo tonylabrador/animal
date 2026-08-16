@@ -4,9 +4,9 @@
   "name_en": "Superb Fairy-wren",
   "scientific_name": "Malurus cyaneus",
   "ui_tags": [
-    "鸟纲",
-    "灌木丛",
-    "食虫性"
+    "Bird",
+    "Grassland",
+    "Insectivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -238,5 +238,11 @@
       ]
     ]
   },
-  "image": "/images/animals/superb-fairy-wren.jpg"
+  "image": "/images/animals/superb-fairy-wren.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

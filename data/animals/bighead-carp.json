@@ -4,9 +4,9 @@
   "name_en": "Bighead Carp",
   "scientific_name": "Hypophthalmichthys nobilis",
   "ui_tags": [
-    "辐鳍鱼纲",
-    "淡水",
-    "滤食性"
+    "Fish",
+    "Freshwater",
+    "Filter Feeder"
   ],
   "taxonomy": {
     "kingdom": {
@@ -244,5 +244,11 @@
       ]
     ]
   },
-  "image": "/images/animals/bighead-carp.jpg"
+  "image": "/images/animals/bighead-carp.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

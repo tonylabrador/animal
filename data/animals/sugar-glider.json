@@ -5,7 +5,7 @@
   "scientific_name": "Petaurus breviceps",
   "ui_tags": [
     "Mammal",
-    "Arboreal",
+    "Forest",
     "Omnivore"
   ],
   "taxonomy": {
@@ -330,5 +330,11 @@
       ]
     ]
   },
-  "image": "/images/animals/sugar-glider.jpg"
+  "image": "/images/animals/sugar-glider.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

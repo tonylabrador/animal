@@ -2,10 +2,10 @@
   "id": "indian-flying-fox",
   "name_zh": "印度狐蝠",
   "name_en": "Indian Flying Fox",
-  "scientific_name": "Pteropus giganteus",
+  "scientific_name": "Pteropus medius",
   "ui_tags": [
     "Mammal",
-    "Asia",
+    "Forest",
     "Frugivore"
   ],
   "taxonomy": {
@@ -35,9 +35,9 @@
     }
   },
   "conservation_status": {
-    "code": "LC",
-    "en": "Least Concern",
-    "zh": "无危"
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
   },
   "description": {
     "en": "One of the largest bats in the world, carrying a wingspan of up to 1.5 meters, it acts as a crucial nocturnal pollinator across the Indian subcontinent.",
@@ -94,5 +94,20 @@
       ]
     ]
   },
-  "image": "/images/animals/indian-flying-fox.jpg"
+  "image": "/images/animals/indian-flying-fox.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Mammal Diversity Database",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List",
+      "release": "2026-1",
+      "checked_at": "2026-08-16"
+    },
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

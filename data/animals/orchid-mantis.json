@@ -5,7 +5,7 @@
   "scientific_name": "Hymenopus coronatus",
   "ui_tags": [
     "Insect",
-    "Rainforest",
+    "Forest",
     "Carnivore"
   ],
   "taxonomy": {
@@ -138,5 +138,11 @@
       ]
     ]
   },
-  "image": "/images/animals/orchid-mantis.jpg"
+  "image": "/images/animals/orchid-mantis.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -4,9 +4,9 @@
   "name_en": "Javan green magpie",
   "scientific_name": "Cissa thalassina",
   "ui_tags": [
-    "鸟纲",
-    "热带山地森林",
-    "肉食性"
+    "Bird",
+    "Forest",
+    "Carnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -148,5 +148,11 @@
       ]
     ]
   },
-  "image": "/images/animals/javan-green-magpie.jpg"
+  "image": "/images/animals/javan-green-magpie.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

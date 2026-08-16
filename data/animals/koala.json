@@ -35,9 +35,9 @@
     }
   },
   "conservation_status": {
-    "code": "EN",
-    "en": "Endangered",
-    "zh": "濒危"
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
   },
   "description": {
     "en": "The koala is an arboreal herbivorous marsupial native to Australia, subsisting almost entirely on a diet of eucalyptus leaves.",
@@ -66,8 +66,60 @@
     ],
     "map_zoom_level": 5,
     "global_distribution_polygons": [
-      [[-15, 143], [-18, 146], [-25, 153], [-35, 150], [-38, 145], [-38, 140], [-33, 138], [-28, 145], [-20, 140], [-15, 143]]
+      [
+        [
+          -15,
+          143
+        ],
+        [
+          -18,
+          146
+        ],
+        [
+          -25,
+          153
+        ],
+        [
+          -35,
+          150
+        ],
+        [
+          -38,
+          145
+        ],
+        [
+          -38,
+          140
+        ],
+        [
+          -33,
+          138
+        ],
+        [
+          -28,
+          145
+        ],
+        [
+          -20,
+          140
+        ],
+        [
+          -15,
+          143
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/koala.jpg"
+  "image": "/images/animals/koala.jpg",
+  "sources": {
+    "conservation": {
+      "authority": "IUCN Red List",
+      "release": "2026-1",
+      "checked_at": "2026-08-16"
+    },
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

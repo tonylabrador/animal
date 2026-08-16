@@ -65,30 +65,13 @@
       -83
     ],
     "map_zoom_level": 4,
-    "global_distribution_polygons": [
-      [
-        [
-          25,
-          -95
-        ],
-        [
-          40,
-          -95
-        ],
-        [
-          40,
-          -75
-        ],
-        [
-          25,
-          -75
-        ],
-        [
-          25,
-          -95
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/corn-snake.jpg"
+  "image": "/images/animals/corn-snake.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -66,8 +66,55 @@
     ],
     "map_zoom_level": 5,
     "global_distribution_polygons": [
-      [[-34, 19], [-28, 16], [-23, 15], [-19, 18], [-20, 22], [-22, 26], [-26, 28], [-30, 26], [-33, 25], [-34, 19]]
+      [
+        [
+          -34,
+          19
+        ],
+        [
+          -28,
+          16
+        ],
+        [
+          -23,
+          15
+        ],
+        [
+          -19,
+          18
+        ],
+        [
+          -20,
+          22
+        ],
+        [
+          -22,
+          26
+        ],
+        [
+          -26,
+          28
+        ],
+        [
+          -30,
+          26
+        ],
+        [
+          -33,
+          25
+        ],
+        [
+          -34,
+          19
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/black-footed-cat.jpg"
+  "image": "/images/animals/black-footed-cat.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

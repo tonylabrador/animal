@@ -4,9 +4,9 @@
   "name_en": "Namaqua sandgrouse",
   "scientific_name": "Pterocles namaqua",
   "ui_tags": [
-    "Aves",
-    "Arid Plains",
-    "Granivore"
+    "Bird",
+    "Desert",
+    "Herbivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -182,5 +182,11 @@
       ]
     ]
   },
-  "image": "/images/animals/namaqua-sandgrouse.jpg"
+  "image": "/images/animals/namaqua-sandgrouse.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

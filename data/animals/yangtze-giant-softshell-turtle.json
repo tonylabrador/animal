@@ -4,7 +4,7 @@
   "name_en": "Yangtze giant softshell turtle",
   "scientific_name": "Rafetus swinhoei",
   "ui_tags": [
-    "Reptilia",
+    "Reptile",
     "Freshwater",
     "Carnivore"
   ],
@@ -194,5 +194,11 @@
       ]
     ]
   },
-  "image": "/images/animals/yangtze-giant-softshell-turtle.jpg"
+  "image": "/images/animals/yangtze-giant-softshell-turtle.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

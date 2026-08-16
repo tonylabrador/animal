@@ -4,9 +4,9 @@
   "name_en": "Chinese high fin banded shark",
   "scientific_name": "Myxocyprinus asiaticus",
   "ui_tags": [
-    "辐鳍鱼纲",
-    "淡水",
-    "杂食性"
+    "Fish",
+    "Freshwater",
+    "Omnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -35,9 +35,9 @@
     }
   },
   "conservation_status": {
-    "code": "EN",
-    "en": "Endangered",
-    "zh": "濒危"
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
   },
   "description": {
     "en": "The Chinese high fin banded shark (Myxocyprinus asiaticus) is a primitive freshwater fish endemic to the Yangtze River basin. Despite its common name, it is not a shark but a member of the Catostomidae family, being the only extant species of this family in Asia. It is renowned for its dramatic ontogenetic morphological transformation; juveniles possess a remarkably high, triangular dorsal fin and three bold, dark vertical bands on a silver-grey body. As they reach maturity, their body elongates, the dorsal fin becomes proportionally smaller, and their coloration shifts to a uniform dusky red or thick brown. This species is a potamodromous migrant, traveling long distances within the river system to reach spawning grounds in the upper reaches.",
@@ -166,9 +166,24 @@
         [
           26.2,
           101.5
+        ],
+        [
+          26.5,
+          100.5
         ]
       ]
     ]
   },
-  "image": "/images/animals/chinese-high-fin-banded-shark.jpg"
+  "image": "/images/animals/chinese-high-fin-banded-shark.jpg",
+  "sources": {
+    "conservation": {
+      "authority": "IUCN Red List",
+      "release": "2026-1",
+      "checked_at": "2026-08-16"
+    },
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -33,6 +33,19 @@ function pruneTree(node: TaxonomyNode, maxDepth: number, currentDepth = 0): Taxo
   };
 }
 
+function findNodeInTree(
+  node: TaxonomyNode,
+  name: string,
+  level: string
+): TaxonomyNode | null {
+  if (node.name === name && node.level === level) return node;
+  for (const child of node.children) {
+    const found = findNodeInTree(child, name, level);
+    if (found) return found;
+  }
+  return null;
+}
+
 /* ── Component ────────────────────────────────────────────────────── */
 
 export default function TreeView({
@@ -43,19 +56,6 @@ export default function TreeView({
   lang: "en" | "zh";
 }) {
   // Restore from sessionStorage if available
-  function findNodeInTree(
-    node: TaxonomyNode,
-    name: string,
-    level: string
-  ): TaxonomyNode | null {
-    if (node.name === name && node.level === level) return node;
-    for (const child of node.children) {
-      const found = findNodeInTree(child, name, level);
-      if (found) return found;
-    }
-    return null;
-  }
-
   function getInitialState(): { root: TaxonomyNode; crumbs: TaxonomyNode[] } {
     if (typeof window !== "undefined") {
       try {
@@ -370,5 +370,4 @@ export default function TreeView({
     </div>
   );
 }
-
 

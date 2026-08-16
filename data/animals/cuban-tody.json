@@ -4,7 +4,7 @@
   "name_en": "Cuban tody",
   "scientific_name": "Todus multicolor",
   "ui_tags": [
-    "Aves",
+    "Bird",
     "Forest",
     "Insectivore"
   ],
@@ -196,5 +196,11 @@
       ]
     ]
   },
-  "image": "/images/animals/cuban-tody.jpg"
+  "image": "/images/animals/cuban-tody.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

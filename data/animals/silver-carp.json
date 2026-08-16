@@ -4,9 +4,9 @@
   "name_en": "Silver Carp",
   "scientific_name": "Hypophthalmichthys molitrix",
   "ui_tags": [
-    "辐鳍鱼纲",
-    "淡水",
-    "滤食性"
+    "Fish",
+    "Freshwater",
+    "Filter Feeder"
   ],
   "taxonomy": {
     "kingdom": {
@@ -238,5 +238,11 @@
       ]
     ]
   },
-  "image": "/images/animals/silver-carp.jpg"
+  "image": "/images/animals/silver-carp.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

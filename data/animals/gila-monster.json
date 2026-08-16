@@ -65,9 +65,13 @@
       -112
     ],
     "map_zoom_level": 5,
-    "global_distribution_polygons": [
-      [[37, -115], [37, -109], [25, -109], [25, -115], [37, -115]]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/gila-monster.jpg"
+  "image": "/images/animals/gila-monster.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

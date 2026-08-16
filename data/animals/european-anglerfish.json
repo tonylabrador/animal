@@ -4,8 +4,8 @@
   "name_en": "European anglerfish",
   "scientific_name": "Lophius piscatorius",
   "ui_tags": [
-    "Ray-finned Fish",
-    "Benthic Marine",
+    "Fish",
+    "Ocean",
     "Carnivore"
   ],
   "taxonomy": {
@@ -258,5 +258,11 @@
       ]
     ]
   },
-  "image": "/images/animals/european-anglerfish.jpg"
+  "image": "/images/animals/european-anglerfish.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

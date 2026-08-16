@@ -2,10 +2,10 @@
   "id": "yangtze-finless-porpoise",
   "name_zh": "长江江豚",
   "name_en": "Yangtze finless porpoise",
-  "scientific_name": "Neophocaena asiaeorientalis asiaeorientalis",
+  "scientific_name": "Neophocaena asiaeorientalis",
   "ui_tags": [
-    "Mammalia",
-    "Coastal/River",
+    "Mammal",
+    "Freshwater",
     "Carnivore"
   ],
   "taxonomy": {
@@ -146,5 +146,15 @@
       ]
     ]
   },
-  "image": "/images/animals/yangtze-finless-porpoise.jpg"
+  "image": "/images/animals/yangtze-finless-porpoise.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone",
+      "checked_at": "2026-08-16"
+    },
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

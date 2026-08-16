@@ -4,9 +4,9 @@
   "name_en": "Sandhill crane",
   "scientific_name": "Antigone canadensis",
   "ui_tags": [
-    "鸟纲",
-    "湿地",
-    "杂食性"
+    "Bird",
+    "Wetland",
+    "Omnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -110,6 +110,10 @@
         [
           65,
           -160
+        ],
+        [
+          71.5,
+          -165
         ]
       ],
       [
@@ -136,6 +140,10 @@
         [
           28,
           -84
+        ],
+        [
+          30,
+          -85
         ]
       ],
       [
@@ -170,6 +178,10 @@
         [
           35,
           -105
+        ],
+        [
+          35,
+          -120
         ]
       ],
       [
@@ -196,6 +208,10 @@
         [
           65,
           165
+        ],
+        [
+          70,
+          170
         ]
       ],
       [
@@ -214,9 +230,19 @@
         [
           22,
           -84
+        ],
+        [
+          23,
+          -83
         ]
       ]
     ]
   },
-  "image": "/images/animals/sandhill-crane.jpg"
+  "image": "/images/animals/sandhill-crane.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

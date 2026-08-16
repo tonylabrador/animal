@@ -5,7 +5,7 @@
   "scientific_name": "Mustela putorius",
   "ui_tags": [
     "Mammal",
-    "Woodland",
+    "Forest",
     "Carnivore"
   ],
   "taxonomy": {
@@ -102,5 +102,11 @@
       ]
     ]
   },
-  "image": "/images/animals/european-polecat.jpg"
+  "image": "/images/animals/european-polecat.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

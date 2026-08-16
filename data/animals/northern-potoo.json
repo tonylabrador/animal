@@ -65,30 +65,13 @@
       -90
     ],
     "map_zoom_level": 4,
-    "global_distribution_polygons": [
-      [
-        [
-          10,
-          -95
-        ],
-        [
-          25,
-          -95
-        ],
-        [
-          25,
-          -75
-        ],
-        [
-          10,
-          -75
-        ],
-        [
-          10,
-          -95
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/northern-potoo.jpg"
+  "image": "/images/animals/northern-potoo.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

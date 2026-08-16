@@ -66,8 +66,35 @@
     ],
     "map_zoom_level": 5,
     "global_distribution_polygons": [
-      [[5, 8], [5, 18], [-5, 15], [-5, 8], [5, 8]]
+      [
+        [
+          5,
+          8
+        ],
+        [
+          5,
+          18
+        ],
+        [
+          -5,
+          15
+        ],
+        [
+          -5,
+          8
+        ],
+        [
+          5,
+          8
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/western-gorilla.jpg"
+  "image": "/images/animals/western-gorilla.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

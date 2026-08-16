@@ -4,9 +4,9 @@
   "name_en": "Stresemann's Bristlefront",
   "scientific_name": "Merulaxis stresemanni",
   "ui_tags": [
-    "鸟纲",
-    "热带雨林",
-    "食虫性"
+    "Bird",
+    "Forest",
+    "Insectivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -118,5 +118,11 @@
       ]
     ]
   },
-  "image": "/images/animals/stresemanns-bristlefront.jpg"
+  "image": "/images/animals/stresemanns-bristlefront.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

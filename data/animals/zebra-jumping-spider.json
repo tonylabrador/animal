@@ -4,9 +4,9 @@
   "name_en": "Zebra jumping spider",
   "scientific_name": "Salticus scenicus",
   "ui_tags": [
-    "蛛形纲",
-    "陆生",
-    "肉食性"
+    "Arachnid",
+    "Grassland",
+    "Carnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -114,6 +114,10 @@
         [
           45.2,
           -124.5
+        ],
+        [
+          48.5,
+          -124.8
         ]
       ],
       [
@@ -200,5 +204,11 @@
       ]
     ]
   },
-  "image": "/images/animals/zebra-jumping-spider.jpg"
+  "image": "/images/animals/zebra-jumping-spider.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

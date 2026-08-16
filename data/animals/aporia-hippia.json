@@ -4,8 +4,8 @@
   "name_en": "Crataegus Pierid",
   "scientific_name": "Aporia hippia",
   "ui_tags": [
-    "Insecta",
-    "Mountainous",
+    "Insect",
+    "Mountains",
     "Herbivore"
   ],
   "taxonomy": {
@@ -190,5 +190,11 @@
       ]
     ]
   },
-  "image": "/images/animals/aporia-hippia.jpg"
+  "image": "/images/animals/aporia-hippia.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

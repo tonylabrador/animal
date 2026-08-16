@@ -4,8 +4,8 @@
   "name_en": "Chinese Sturgeon",
   "scientific_name": "Acipenser sinensis",
   "ui_tags": [
-    "Actinopterygii",
-    "Anadromous",
+    "Fish",
+    "Freshwater",
     "Carnivore"
   ],
   "taxonomy": {
@@ -208,5 +208,11 @@
       ]
     ]
   },
-  "image": "/images/animals/chinese-sturgeon.jpg"
+  "image": "/images/animals/chinese-sturgeon.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

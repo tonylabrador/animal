@@ -5,7 +5,7 @@
   "scientific_name": "Ramphastos toco",
   "ui_tags": [
     "Bird",
-    "Rainforest",
+    "Forest",
     "Omnivore"
   ],
   "taxonomy": {
@@ -66,8 +66,47 @@
     ],
     "map_zoom_level": 4,
     "global_distribution_polygons": [
-      [[5, -50], [5, -60], [-10, -65], [-30, -60], [-30, -50], [-20, -40], [-5, -35], [5, -50]]
+      [
+        [
+          5,
+          -50
+        ],
+        [
+          5,
+          -60
+        ],
+        [
+          -10,
+          -65
+        ],
+        [
+          -30,
+          -60
+        ],
+        [
+          -30,
+          -50
+        ],
+        [
+          -20,
+          -40
+        ],
+        [
+          -5,
+          -35
+        ],
+        [
+          5,
+          -50
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/toco-toucan.jpg"
+  "image": "/images/animals/toco-toucan.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

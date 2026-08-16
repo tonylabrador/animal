@@ -5,7 +5,7 @@
   "scientific_name": "Paradisaea apoda",
   "ui_tags": [
     "Bird",
-    "Rainforest",
+    "Forest",
     "Frugivore"
   ],
   "taxonomy": {
@@ -65,52 +65,13 @@
       137
     ],
     "map_zoom_level": 6,
-    "global_distribution_polygons": [
-      [
-        [
-          -5,
-          134
-        ],
-        [
-          -5,
-          135.5
-        ],
-        [
-          -7.5,
-          135.5
-        ],
-        [
-          -7.5,
-          134
-        ],
-        [
-          -5,
-          134
-        ]
-      ],
-      [
-        [
-          -5.5,
-          136
-        ],
-        [
-          -5.5,
-          140
-        ],
-        [
-          -8,
-          140
-        ],
-        [
-          -8,
-          136
-        ],
-        [
-          -5.5,
-          136
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/greater-bird-of-paradise.jpg"
+  "image": "/images/animals/greater-bird-of-paradise.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

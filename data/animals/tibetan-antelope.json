@@ -65,30 +65,13 @@
       88
     ],
     "map_zoom_level": 5,
-    "global_distribution_polygons": [
-      [
-        [
-          32,
-          80
-        ],
-        [
-          38,
-          80
-        ],
-        [
-          38,
-          95
-        ],
-        [
-          32,
-          95
-        ],
-        [
-          32,
-          80
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/tibetan-antelope.jpg"
+  "image": "/images/animals/tibetan-antelope.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

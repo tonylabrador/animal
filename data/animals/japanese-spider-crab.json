@@ -4,7 +4,7 @@
   "name_en": "Japanese Spider Crab",
   "scientific_name": "Macrocheira kaempferi",
   "ui_tags": [
-    "Arthropod",
+    "Crustacean",
     "Ocean",
     "Omnivore"
   ],
@@ -65,9 +65,13 @@
       140
     ],
     "map_zoom_level": 5,
-    "global_distribution_polygons": [
-      [[30, 130], [40, 130], [40, 145], [30, 145], [30, 130]]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/japanese-spider-crab.jpg"
+  "image": "/images/animals/japanese-spider-crab.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

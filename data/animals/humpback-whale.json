@@ -68,50 +68,6 @@
     "global_distribution_polygons": [
       [
         [
-          -60,
-          -180
-        ],
-        [
-          -60,
-          180
-        ],
-        [
-          -80,
-          180
-        ],
-        [
-          -80,
-          -180
-        ],
-        [
-          -60,
-          -180
-        ]
-      ],
-      [
-        [
-          60,
-          -180
-        ],
-        [
-          60,
-          180
-        ],
-        [
-          80,
-          180
-        ],
-        [
-          80,
-          -180
-        ],
-        [
-          60,
-          -180
-        ]
-      ],
-      [
-        [
           45,
           -130
         ],
@@ -190,5 +146,11 @@
       ]
     ]
   },
-  "image": "/images/animals/humpback-whale.jpg"
+  "image": "/images/animals/humpback-whale.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -99,30 +99,14 @@
           35,
           -10
         ]
-      ],
-      [
-        [
-          40,
-          -115
-        ],
-        [
-          55,
-          -115
-        ],
-        [
-          55,
-          -85
-        ],
-        [
-          40,
-          -85
-        ],
-        [
-          40,
-          -115
-        ]
       ]
     ]
   },
-  "image": "/images/animals/grey-partridge.jpg"
+  "image": "/images/animals/grey-partridge.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

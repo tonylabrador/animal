@@ -4,7 +4,7 @@
   "name_en": "Giant Isopod",
   "scientific_name": "Bathynomus giganteus",
   "ui_tags": [
-    "Arthropod",
+    "Crustacean",
     "Ocean",
     "Carnivore"
   ],
@@ -66,9 +66,65 @@
     ],
     "map_zoom_level": 4,
     "global_distribution_polygons": [
-      [[25, -97.5], [29, -95], [30, -87], [25, -81], [20, -83], [21, -90], [25, -97.5]],
-      [[20, -75], [25, -70], [20, -60], [10, -65], [20, -75]]
+      [
+        [
+          25,
+          -97.5
+        ],
+        [
+          29,
+          -95
+        ],
+        [
+          30,
+          -87
+        ],
+        [
+          25,
+          -81
+        ],
+        [
+          20,
+          -83
+        ],
+        [
+          21,
+          -90
+        ],
+        [
+          25,
+          -97.5
+        ]
+      ],
+      [
+        [
+          20,
+          -75
+        ],
+        [
+          25,
+          -70
+        ],
+        [
+          20,
+          -60
+        ],
+        [
+          10,
+          -65
+        ],
+        [
+          20,
+          -75
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/giant-isopod.jpg"
+  "image": "/images/animals/giant-isopod.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

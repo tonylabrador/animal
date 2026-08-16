@@ -4,7 +4,7 @@
   "name_en": "Victoria Crowned Pigeon",
   "scientific_name": "Goura victoria",
   "ui_tags": [
-    "Aves",
+    "Bird",
     "Forest",
     "Frugivore"
   ],
@@ -294,5 +294,11 @@
       ]
     ]
   },
-  "image": "/images/animals/victoria-crowned-pigeon.jpg"
+  "image": "/images/animals/victoria-crowned-pigeon.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

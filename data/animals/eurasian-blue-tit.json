@@ -4,7 +4,7 @@
   "name_en": "Eurasian Blue Tit",
   "scientific_name": "Cyanistes caeruleus",
   "ui_tags": [
-    "Aves",
+    "Bird",
     "Forest",
     "Insectivore"
   ],
@@ -188,5 +188,11 @@
       ]
     ]
   },
-  "image": "/images/animals/eurasian-blue-tit.jpg"
+  "image": "/images/animals/eurasian-blue-tit.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

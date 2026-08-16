@@ -4,9 +4,9 @@
   "name_en": "Pacific Angelshark",
   "scientific_name": "Squatina californica",
   "ui_tags": [
-    "板鳃亚纲",
-    "海洋生物",
-    "肉食性"
+    "Fish",
+    "Ocean",
+    "Carnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -35,9 +35,9 @@
     }
   },
   "conservation_status": {
-    "code": "NT",
-    "en": "Near Threatened",
-    "zh": "近危"
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
   },
   "description": {
     "en": "The Pacific angelshark is a highly specialized benthic predator characterized by its extremely flattened body and wing-like pectoral fins, which give it a ray-like appearance. Despite this resemblance, it is a true shark, with gill slits located on the sides of its head rather than underneath. It is a master of camouflage, spending much of its day buried in sandy or muddy substrates near kelp forests and rocky reefs. As a sit-and-wait ambush predator, it possesses highly protrusible jaws that can snap upward with incredible speed to capture unsuspecting fish and cephalopods. Its skin is covered in dermal denticles, and its coloration typically mimics the speckled pattern of the seafloor, providing near-perfect concealment from both prey and larger predators.",
@@ -200,5 +200,16 @@
       ]
     ]
   },
-  "image": "/images/animals/pacific-angelshark.jpg"
+  "image": "/images/animals/pacific-angelshark.jpg",
+  "sources": {
+    "conservation": {
+      "authority": "IUCN Red List",
+      "release": "2026-1",
+      "checked_at": "2026-08-16"
+    },
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

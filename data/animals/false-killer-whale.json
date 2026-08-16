@@ -4,8 +4,8 @@
   "name_en": "False killer whale",
   "scientific_name": "Pseudorca crassidens",
   "ui_tags": [
-    "Mammalia",
-    "Pelagic",
+    "Mammal",
+    "Ocean",
     "Carnivore"
   ],
   "taxonomy": {
@@ -322,5 +322,11 @@
       ]
     ]
   },
-  "image": "/images/animals/false-killer-whale.jpg"
+  "image": "/images/animals/false-killer-whale.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

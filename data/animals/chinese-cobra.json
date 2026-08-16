@@ -5,7 +5,7 @@
   "scientific_name": "Naja atra",
   "ui_tags": [
     "Reptile",
-    "Terrestrial",
+    "Wetland",
     "Carnivore"
   ],
   "taxonomy": {
@@ -154,6 +154,10 @@
         [
           28.5,
           115
+        ],
+        [
+          28.8,
+          116.5
         ]
       ],
       [
@@ -232,6 +236,10 @@
         [
           25.4,
           121
+        ],
+        [
+          25.3,
+          121.5
         ]
       ],
       [
@@ -294,6 +302,10 @@
         [
           19.8,
           109
+        ],
+        [
+          19.9,
+          109.5
         ]
       ],
       [
@@ -368,9 +380,19 @@
         [
           21.7,
           107.8
+        ],
+        [
+          21.5,
+          108
         ]
       ]
     ]
   },
-  "image": "/images/animals/chinese-cobra.jpg"
+  "image": "/images/animals/chinese-cobra.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

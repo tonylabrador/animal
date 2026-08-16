@@ -5,7 +5,7 @@
   "scientific_name": "Acanthosaura coronata",
   "ui_tags": [
     "Reptile",
-    "Rainforest",
+    "Forest",
     "Insectivore"
   ],
   "taxonomy": {
@@ -65,30 +65,13 @@
       105
     ],
     "map_zoom_level": 5,
-    "global_distribution_polygons": [
-      [
-        [
-          20,
-          100
-        ],
-        [
-          20,
-          110
-        ],
-        [
-          10,
-          110
-        ],
-        [
-          10,
-          100
-        ],
-        [
-          20,
-          100
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/indochinese-spiky-lizard.jpg"
+  "image": "/images/animals/indochinese-spiky-lizard.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -4,9 +4,9 @@
   "name_en": "Pygmy Slow Loris",
   "scientific_name": "Nycticebus pygmaeus",
   "ui_tags": [
-    "Mammalia",
-    "Arboreal",
-    "Exudativore"
+    "Mammal",
+    "Forest",
+    "Omnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -182,5 +182,11 @@
       ]
     ]
   },
-  "image": "/images/animals/pygmy-slow-loris.jpg"
+  "image": "/images/animals/pygmy-slow-loris.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

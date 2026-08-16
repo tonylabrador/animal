@@ -5,7 +5,7 @@
   "scientific_name": "Megascops trichopsis",
   "ui_tags": [
     "Bird",
-    "Mountain",
+    "Mountains",
     "Carnivore"
   ],
   "taxonomy": {
@@ -118,5 +118,11 @@
       ]
     ]
   },
-  "image": "/images/animals/whiskered-screech-owl.jpg"
+  "image": "/images/animals/whiskered-screech-owl.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

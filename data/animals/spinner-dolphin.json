@@ -4,8 +4,8 @@
   "name_en": "Spinner Dolphin",
   "scientific_name": "Stenella longirostris",
   "ui_tags": [
-    "Mammalia",
-    "Pelagic",
+    "Mammal",
+    "Ocean",
     "Carnivore"
   ],
   "taxonomy": {
@@ -298,5 +298,11 @@
       ]
     ]
   },
-  "image": "/images/animals/spinner-dolphin.jpg"
+  "image": "/images/animals/spinner-dolphin.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

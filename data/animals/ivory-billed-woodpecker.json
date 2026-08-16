@@ -4,9 +4,9 @@
   "name_en": "Ivory-billed Woodpecker",
   "scientific_name": "Campephilus principalis",
   "ui_tags": [
-    "鸟纲",
-    "森林",
-    "食虫性"
+    "Bird",
+    "Forest",
+    "Insectivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -36,8 +36,10 @@
   },
   "conservation_status": {
     "code": "CR",
-    "en": "Critically Endangered (Possibly Extinct)",
-    "zh": "极危（可能灭绝）"
+    "en": "Critically Endangered",
+    "zh": "极危",
+    "note_en": "Possibly extinct; retained in CR pending formal IUCN reassessment.",
+    "note_zh": "可能已经灭绝；在 IUCN 正式重新评估前仍保留为极危。"
   },
   "description": {
     "en": "The Ivory-billed Woodpecker is one of the most legendary and elusive birds in the world. Often referred to as the 'Lord God Bird' due to its impressive size and striking appearance, it was historically the largest woodpecker in North America. Characterized by its massive, ivory-colored bill and distinctive black-and-white plumage, the species became a symbol of the loss of virgin old-growth forests in the Southeastern United States. Despite numerous reported sightings in the 21st century, including the controversial 2004 Arkansas encounter, its continued existence remains a subject of intense debate among ornithologists. It requires vast tracts of mature hardwood swamps with high concentrations of dead and dying trees to support its specialized diet.",
@@ -220,5 +222,11 @@
       ]
     ]
   },
-  "image": "/images/animals/ivory-billed-woodpecker.jpg"
+  "image": "/images/animals/ivory-billed-woodpecker.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

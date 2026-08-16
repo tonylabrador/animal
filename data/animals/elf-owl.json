@@ -4,7 +4,7 @@
   "name_en": "Elf owl",
   "scientific_name": "Micrathene whitneyi",
   "ui_tags": [
-    "Aves",
+    "Bird",
     "Desert",
     "Insectivore"
   ],
@@ -240,5 +240,11 @@
       ]
     ]
   },
-  "image": "/images/animals/elf-owl.jpg"
+  "image": "/images/animals/elf-owl.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

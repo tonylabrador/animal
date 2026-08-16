@@ -4,9 +4,9 @@
   "name_en": "Whooping Crane",
   "scientific_name": "Grus americana",
   "ui_tags": [
-    "鸟纲",
-    "湿地",
-    "杂食性"
+    "Bird",
+    "Wetland",
+    "Omnivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -180,5 +180,11 @@
       ]
     ]
   },
-  "image": "/images/animals/whooping-crane.jpg"
+  "image": "/images/animals/whooping-crane.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

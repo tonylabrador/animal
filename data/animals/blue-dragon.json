@@ -4,7 +4,7 @@
   "name_en": "Blue Dragon",
   "scientific_name": "Glaucus atlanticus",
   "ui_tags": [
-    "Invertebrate",
+    "Mollusk",
     "Ocean",
     "Carnivore"
   ],
@@ -65,9 +65,13 @@
       0
     ],
     "map_zoom_level": 2,
-    "global_distribution_polygons": [
-      [[25,-98, 30,-90], [-35,18, -20,40], [-40,140, -15,150], [20,-110, 30,-120]]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/blue-dragon.jpg"
+  "image": "/images/animals/blue-dragon.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

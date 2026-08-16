@@ -125,30 +125,14 @@
           40,
           -75
         ]
-      ],
-      [
-        [
-          63,
-          -25
-        ],
-        [
-          66,
-          -25
-        ],
-        [
-          66,
-          -13
-        ],
-        [
-          63,
-          -13
-        ],
-        [
-          63,
-          -25
-        ]
       ]
     ]
   },
-  "image": "/images/animals/atlantic-herring.jpg"
+  "image": "/images/animals/atlantic-herring.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

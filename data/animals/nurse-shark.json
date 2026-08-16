@@ -4,8 +4,8 @@
   "name_en": "Nurse shark",
   "scientific_name": "Ginglymostoma cirratum",
   "ui_tags": [
-    "Chondrichthyes",
-    "Coral Reefs",
+    "Fish",
+    "Coral Reef",
     "Carnivore"
   ],
   "taxonomy": {
@@ -370,5 +370,11 @@
       ]
     ]
   },
-  "image": "/images/animals/nurse-shark.jpg"
+  "image": "/images/animals/nurse-shark.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

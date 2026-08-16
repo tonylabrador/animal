@@ -4,8 +4,8 @@
   "name_en": "Kea",
   "scientific_name": "Nestor notabilis",
   "ui_tags": [
-    "Aves",
-    "Alpine",
+    "Bird",
+    "Mountains",
     "Omnivore"
   ],
   "taxonomy": {
@@ -158,5 +158,11 @@
       ]
     ]
   },
-  "image": "/images/animals/kea.jpg"
+  "image": "/images/animals/kea.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

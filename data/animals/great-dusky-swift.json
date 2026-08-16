@@ -5,7 +5,7 @@
   "scientific_name": "Cypseloides senex",
   "ui_tags": [
     "Bird",
-    "Rainforest",
+    "Forest",
     "Insectivore"
   ],
   "taxonomy": {
@@ -94,5 +94,11 @@
       ]
     ]
   },
-  "image": "/images/animals/great-dusky-swift.jpg"
+  "image": "/images/animals/great-dusky-swift.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

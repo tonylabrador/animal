@@ -4,8 +4,8 @@
   "name_en": "Great bittern",
   "scientific_name": "Botaurus stellaris",
   "ui_tags": [
-    "Aves",
-    "Wetlands",
+    "Bird",
+    "Wetland",
     "Carnivore"
   ],
   "taxonomy": {
@@ -296,5 +296,11 @@
       ]
     ]
   },
-  "image": "/images/animals/great-bittern.jpg"
+  "image": "/images/animals/great-bittern.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

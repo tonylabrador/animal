@@ -4,8 +4,8 @@
   "name_en": "Resplendent quetzal",
   "scientific_name": "Pharomachrus mocinno",
   "ui_tags": [
-    "Aves",
-    "Cloud Forest",
+    "Bird",
+    "Forest",
     "Frugivore"
   ],
   "taxonomy": {
@@ -296,5 +296,11 @@
       ]
     ]
   },
-  "image": "/images/animals/resplendent-quetzal.jpg"
+  "image": "/images/animals/resplendent-quetzal.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

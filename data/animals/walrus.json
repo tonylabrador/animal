@@ -5,7 +5,7 @@
   "scientific_name": "Odobenus rosmarus",
   "ui_tags": [
     "Mammal",
-    "Arctic",
+    "Tundra",
     "Carnivore"
   ],
   "taxonomy": {
@@ -66,8 +66,43 @@
     ],
     "map_zoom_level": 4,
     "global_distribution_polygons": [
-      [[65, -175], [70, -165], [73, -155], [75, -145], [70, -130], [62, -155], [65, -175]]
+      [
+        [
+          65,
+          -175
+        ],
+        [
+          70,
+          -165
+        ],
+        [
+          73,
+          -155
+        ],
+        [
+          75,
+          -145
+        ],
+        [
+          70,
+          -130
+        ],
+        [
+          62,
+          -155
+        ],
+        [
+          65,
+          -175
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/walrus.jpg"
+  "image": "/images/animals/walrus.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

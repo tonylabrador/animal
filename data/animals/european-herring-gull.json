@@ -4,7 +4,7 @@
   "name_en": "European herring gull",
   "scientific_name": "Larus argentatus",
   "ui_tags": [
-    "Aves",
+    "Bird",
     "Coastal",
     "Omnivore"
   ],
@@ -412,5 +412,11 @@
       ]
     ]
   },
-  "image": "/images/animals/european-herring-gull.jpg"
+  "image": "/images/animals/european-herring-gull.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

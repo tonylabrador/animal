@@ -5,7 +5,7 @@
   "scientific_name": "Pongo pygmaeus",
   "ui_tags": [
     "Mammal",
-    "Rainforest",
+    "Forest",
     "Herbivore"
   ],
   "taxonomy": {
@@ -66,8 +66,39 @@
     ],
     "map_zoom_level": 5,
     "global_distribution_polygons": [
-      [[7, 116], [4, 119], [-4, 117], [-4, 110], [2, 109], [7, 116]]
+      [
+        [
+          7,
+          116
+        ],
+        [
+          4,
+          119
+        ],
+        [
+          -4,
+          117
+        ],
+        [
+          -4,
+          110
+        ],
+        [
+          2,
+          109
+        ],
+        [
+          7,
+          116
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/bornean-orangutan.jpg"
+  "image": "/images/animals/bornean-orangutan.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

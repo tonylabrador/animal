@@ -5,7 +5,7 @@
   "scientific_name": "Pteronura brasiliensis",
   "ui_tags": [
     "Mammal",
-    "River",
+    "Freshwater",
     "Carnivore"
   ],
   "taxonomy": {
@@ -98,5 +98,11 @@
       ]
     ]
   },
-  "image": "/images/animals/giant-otter.jpg"
+  "image": "/images/animals/giant-otter.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

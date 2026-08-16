@@ -5,7 +5,7 @@
   "scientific_name": "Piranga rubra",
   "ui_tags": [
     "Bird",
-    "Woodland",
+    "Forest",
     "Insectivore"
   ],
   "taxonomy": {
@@ -132,5 +132,11 @@
       ]
     ]
   },
-  "image": "/images/animals/summer-tanager.jpg"
+  "image": "/images/animals/summer-tanager.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

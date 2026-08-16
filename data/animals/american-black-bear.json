@@ -4,7 +4,7 @@
   "name_en": "American black bear",
   "scientific_name": "Ursus americanus",
   "ui_tags": [
-    "Mammalia",
+    "Mammal",
     "Forest",
     "Omnivore"
   ],
@@ -206,5 +206,11 @@
       ]
     ]
   },
-  "image": "/images/animals/american-black-bear.jpg"
+  "image": "/images/animals/american-black-bear.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

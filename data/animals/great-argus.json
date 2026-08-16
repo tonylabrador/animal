@@ -4,8 +4,8 @@
   "name_en": "Great Argus",
   "scientific_name": "Argusianus argus",
   "ui_tags": [
-    "Aves",
-    "Rainforest",
+    "Bird",
+    "Forest",
     "Omnivore"
   ],
   "taxonomy": {
@@ -314,5 +314,11 @@
       ]
     ]
   },
-  "image": "/images/animals/great-argus.jpg"
+  "image": "/images/animals/great-argus.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

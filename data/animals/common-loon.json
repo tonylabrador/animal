@@ -4,10 +4,9 @@
   "name_en": "Common Loon",
   "scientific_name": "Gavia immer",
   "ui_tags": [
-    "Aves",
-    "Aquatic",
-    "Piscivore",
-    "Migratory"
+    "Bird",
+    "Freshwater",
+    "Piscivore"
   ],
   "taxonomy": {
     "kingdom": {
@@ -339,5 +338,11 @@
       ]
     ]
   },
-  "image": "/images/animals/common-loon.jpg"
+  "image": "/images/animals/common-loon.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

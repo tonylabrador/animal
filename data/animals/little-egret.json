@@ -5,7 +5,7 @@
   "scientific_name": "Egretta garzetta",
   "ui_tags": [
     "Bird",
-    "River",
+    "Freshwater",
     "Carnivore"
   ],
   "taxonomy": {
@@ -65,52 +65,13 @@
       100
     ],
     "map_zoom_level": 2,
-    "global_distribution_polygons": [
-      [
-        [
-          -35,
-          10
-        ],
-        [
-          55,
-          10
-        ],
-        [
-          55,
-          150
-        ],
-        [
-          -35,
-          150
-        ],
-        [
-          -35,
-          10
-        ]
-      ],
-      [
-        [
-          -5,
-          -45
-        ],
-        [
-          20,
-          -45
-        ],
-        [
-          20,
-          -85
-        ],
-        [
-          -5,
-          -85
-        ],
-        [
-          -5,
-          -45
-        ]
-      ]
-    ]
+    "global_distribution_polygons": []
   },
-  "image": "/images/animals/little-egret.jpg"
+  "image": "/images/animals/little-egret.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

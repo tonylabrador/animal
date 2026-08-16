@@ -4,7 +4,7 @@
   "name_en": "Army Ant",
   "scientific_name": "Eciton burchellii",
   "ui_tags": [
-    "Arthropod",
+    "Insect",
     "Forest",
     "Carnivore"
   ],
@@ -66,8 +66,51 @@
     ],
     "map_zoom_level": 4,
     "global_distribution_polygons": [
-      [[-20, -60], [-15, -45], [0, -48], [10, -60], [20, -90], [15, -95], [5, -80], [-10, -80], [-20, -60]]
+      [
+        [
+          -20,
+          -60
+        ],
+        [
+          -15,
+          -45
+        ],
+        [
+          0,
+          -48
+        ],
+        [
+          10,
+          -60
+        ],
+        [
+          20,
+          -90
+        ],
+        [
+          15,
+          -95
+        ],
+        [
+          5,
+          -80
+        ],
+        [
+          -10,
+          -80
+        ],
+        [
+          -20,
+          -60
+        ]
+      ]
     ]
   },
-  "image": "/images/animals/army-ant.jpg"
+  "image": "/images/animals/army-ant.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

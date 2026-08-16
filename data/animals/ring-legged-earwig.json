@@ -4,8 +4,8 @@
   "name_en": "Ring-legged earwig",
   "scientific_name": "Euborellia annulipes",
   "ui_tags": [
-    "Insecta",
-    "Terrestrial",
+    "Insect",
+    "Forest",
     "Omnivore"
   ],
   "taxonomy": {
@@ -290,5 +290,11 @@
       ]
     ]
   },
-  "image": "/images/animals/ring-legged-earwig.jpg"
+  "image": "/images/animals/ring-legged-earwig.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

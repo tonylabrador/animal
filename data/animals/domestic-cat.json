@@ -146,5 +146,11 @@
       ]
     ]
   },
-  "image": "/images/animals/domestic-cat.jpg"
+  "image": "/images/animals/domestic-cat.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

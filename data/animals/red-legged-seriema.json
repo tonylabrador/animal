@@ -4,7 +4,7 @@
   "name_en": "Red-legged seriema",
   "scientific_name": "Cariama cristata",
   "ui_tags": [
-    "Aves",
+    "Bird",
     "Savanna",
     "Carnivore"
   ],
@@ -150,5 +150,11 @@
       ]
     ]
   },
-  "image": "/images/animals/red-legged-seriema.jpg"
+  "image": "/images/animals/red-legged-seriema.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

@@ -4,7 +4,7 @@
   "name_en": "Texas Horned Lizard",
   "scientific_name": "Phrynosoma cornutum",
   "ui_tags": [
-    "Reptilia",
+    "Reptile",
     "Desert",
     "Insectivore"
   ],
@@ -170,5 +170,11 @@
       ]
     ]
   },
-  "image": "/images/animals/texas-horned-lizard.jpg"
+  "image": "/images/animals/texas-horned-lizard.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

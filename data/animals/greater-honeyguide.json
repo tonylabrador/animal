@@ -4,7 +4,7 @@
   "name_en": "Greater honeyguide",
   "scientific_name": "Indicator indicator",
   "ui_tags": [
-    "Aves",
+    "Bird",
     "Savanna",
     "Omnivore"
   ],
@@ -270,5 +270,11 @@
       ]
     ]
   },
-  "image": "/images/animals/greater-honeyguide.jpg"
+  "image": "/images/animals/greater-honeyguide.jpg",
+  "sources": {
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

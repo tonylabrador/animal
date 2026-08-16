@@ -4,8 +4,8 @@
   "name_en": "Red-crowned crane",
   "scientific_name": "Grus japonensis",
   "ui_tags": [
-    "Aves",
-    "Wetlands",
+    "Bird",
+    "Wetland",
     "Omnivore"
   ],
   "taxonomy": {
@@ -35,9 +35,9 @@
     }
   },
   "conservation_status": {
-    "code": "EN",
-    "en": "Endangered",
-    "zh": "濒危"
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危"
   },
   "description": {
     "en": "The Red-crowned crane, also known as the Manchurian crane or Japanese crane, is a large East Asian crane and among the rarest and most iconic avian species in the world. Deeply embedded in East Asian mythology as a symbol of luck, longevity, and fidelity, this majestic bird is characterized by its snow-white plumage, contrasting black secondary and tertiary flight feathers, and a highly distinctive patch of vascularized bare red skin on the crown. This crimson patch becomes intensely vibrant during the breeding season or when the bird is agitated. As an apex wetland species, it serves as a critical bioindicator for the health of palustrine and estuarine ecosystems across its migratory range.",
@@ -360,5 +360,16 @@
       ]
     ]
   },
-  "image": "/images/animals/red-crowned-crane.jpg"
+  "image": "/images/animals/red-crowned-crane.jpg",
+  "sources": {
+    "conservation": {
+      "authority": "IUCN Red List",
+      "release": "2026-1",
+      "checked_at": "2026-08-16"
+    },
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }

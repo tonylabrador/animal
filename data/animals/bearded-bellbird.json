@@ -5,7 +5,7 @@
   "scientific_name": "Procnias averano",
   "ui_tags": [
     "Bird",
-    "South America",
+    "Forest",
     "Frugivore"
   ],
   "taxonomy": {
@@ -35,9 +35,9 @@
     }
   },
   "conservation_status": {
-    "code": "LC",
-    "en": "Least Concern",
-    "zh": "无危"
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危"
   },
   "description": {
     "en": "Capable of producing some of the loudest bird calls in the world, the male is easily recognized by the strange black 'beard' of fleshy wattles hanging from its throat.",
@@ -106,5 +106,16 @@
       ]
     ]
   },
-  "image": "/images/animals/bearded-bellbird.jpg"
+  "image": "/images/animals/bearded-bellbird.jpg",
+  "sources": {
+    "conservation": {
+      "authority": "IUCN Red List",
+      "release": "2026-1",
+      "checked_at": "2026-08-16"
+    },
+    "record": {
+      "status": "legacy-structure-checked",
+      "checked_at": "2026-08-16"
+    }
+  }
 }
