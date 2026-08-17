@@ -1,0 +1,445 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Accepted species identity, current global IUCN category, institutional sources, numbers, qualifiers, English/Chinese claim alignment, representative-point range disclosure and image identification criteria were reviewed."
+  },
+  "id": "great-hornbill",
+  "name_zh": "双角犀鸟",
+  "name_en": "Great Hornbill",
+  "scientific_name": "Buceros bicornis",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Frugivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Bucerotiformes",
+      "zh": "犀鸟目"
+    },
+    "family": {
+      "en": "Bucerotidae",
+      "zh": "犀鸟科"
+    },
+    "genus": {
+      "en": "Buceros",
+      "zh": "犀鸟属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危",
+    "note_en": "Current global category checked on 2026-08-16 through the IUCN-linked GBIF category endpoint.",
+    "note_zh": "已于2026-08-16通过关联IUCN的GBIF类别接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The great hornbill is one of the largest hornbills, with a striking yellow bill and a large, curved casque on top. It lives in the forests of South and Southeast Asia and is best known for its unusual nesting behavior—the female seals herself inside a tree hole while raising the chicks. This spectacular bird is also an important seed disperser for rainforest trees.",
+    "zh": "双角犀鸟是最大的犀鸟之一，拥有醒目的黄色大嘴和顶部弯曲的盔突。它生活在南亚和东南亚的森林中，以奇特的筑巢行为著称——雌鸟在育雏期间将自己封在树洞里。这种壮丽的鸟类也是雨林树木重要的种子传播者。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Great hornbills are about 95–120 cm long and weigh roughly 2–4 kg. The enormous yellow-and-black bill carries a curved casque, while the black-and-white body, yellow-stained neck feathers and broad white tail band create a distinctive adult pattern.",
+      "zh": "双角犀鸟体长约95–120厘米，体重约2–4千克。巨大的黄黑色喙上有弯曲盔突；黑白相间的身体、被黄色分泌物染色的颈羽和宽阔白色尾带共同形成醒目的成鸟外观。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Great hornbills are diurnal and usually live in pairs or small groups. They feed mainly on fruits, especially figs, but also catch insects, small lizards, and birds. They spend most of the day foraging in the forest canopy, often moving long distances to find fruiting trees. Their loud, harsh calls, often described as 'cackling', help keep the pair or group in contact.",
+      "zh": "双角犀鸟是昼行性动物，通常成对或结小群活动。它们主要吃果实，尤其是无花果，也会捕食昆虫、小型蜥蜴和鸟类。它们大部分时间在森林树冠层觅食，常常飞行很远的距离寻找挂果的树木。它们响亮、刺耳的叫声常被描述为“咯咯声”，用于保持对或群体之间的联系。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Great hornbills live mainly in tall evergreen and moist deciduous forests of South and Southeast Asia. Breeding pairs depend on very large old trees with natural cavities; the loss of those trees can make otherwise forested habitat unusable for nesting.",
+      "zh": "双角犀鸟主要生活在南亚与东南亚的高大常绿林和湿润落叶林中。繁殖个体依赖具有天然树洞的巨型老树；一旦这些树木消失，即使仍有森林，也可能无法筑巢。",
+      "source_keys": [
+        "range",
+        "ecology"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "About 95–120 cm long",
+          "zh": "体长约95–120厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "2–4 kg",
+          "zh": "2–4公斤"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Fruits (especially figs) and small animals",
+          "zh": "果实（尤其是无花果）和小型动物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "Up to about 50 years in captivity; wild lifespan likely shorter and not precisely known",
+          "zh": "圈养下可达约50年；野外寿命可能较短，且尚无精确数据"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动"
+        },
+        "value": {
+          "en": "Diurnal",
+          "zh": "昼行性"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会单元"
+        },
+        "value": {
+          "en": "Pairs or small groups",
+          "zh": "成对或小群"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "reproduction",
+        "label": {
+          "en": "Clutch size",
+          "zh": "窝卵数"
+        },
+        "value": {
+          "en": "1–2 eggs",
+          "zh": "1–2枚"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat",
+          "zh": "栖息地"
+        },
+        "value": {
+          "en": "Evergreen and deciduous forests with large trees",
+          "zh": "有大型树木的常绿林和落叶林"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Great hornbills form long-term pairs. The female chooses a tree cavity and enters it, then the pair closes the opening with mud and droppings, leaving only a narrow slit. The female stays inside for up to three months while she lays 1–2 eggs and cares for the chicks, molting her flight feathers. The male brings food to the female and chicks through the slit. After the chicks are grown, the female breaks out, and the family seals the hole again if chicks still need care.",
+      "zh": "双角犀鸟形成长期配偶关系。雌鸟会选择树洞进入，然后两口子用泥土和粪便封住洞口，只留一条窄缝。雌鸟会在里面呆长达三个月，产下1–2枚卵并照料雏鸟，期间还会更换飞羽。雄鸟通过窄缝给雌鸟和雏鸟送食物。雏鸟长大后，雌鸟破洞而出；如果雏鸟还需要照顾，全家会再次封住洞口。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Hollow casque",
+          "zh": "中空的盔突"
+        },
+        "detail": {
+          "en": "The bright casque is made of keratin and may help amplify the bird’s calls, allowing pairs to stay in contact in dense forest.",
+          "zh": "鲜艳的盔突由角蛋白组成，可能帮助放大鸟的叫声，让配偶在茂密的森林中保持联系。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Long, curved bill",
+          "zh": "长而弯曲的嘴"
+        },
+        "detail": {
+          "en": "The long bill lets the hornbill pluck fruits from thin branches without leaving the perch. It also serves as a tool for tossing and catching food during courtship and feeding.",
+          "zh": "长嘴使犀鸟不用离开栖枝就能摘取细枝上的果实。它还在求偶和喂食时用来抛接食物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Eyelash-like feathers",
+          "zh": "睫毛状羽"
+        },
+        "detail": {
+          "en": "Special feathers around the eyes act like eyelashes, shielding the eye from twigs and fruit juice while moving through the canopy.",
+          "zh": "眼睛周围的特殊羽毛像睫毛一样，在树冠活动时保护眼睛免受枝条和果汁的伤害。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Strong feet",
+          "zh": "强壮的脚"
+        },
+        "detail": {
+          "en": "The broad, strong toes help the bird grip large fruits and hold steady on high branches in windy conditions.",
+          "zh": "宽而有力的脚趾帮助鸟抓住大型果实，并在大风中在高枝上站稳。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a large frugivore, the great hornbill spreads seeds of many tree species, helping maintain the health and diversity of tropical forests. It also preys on small animals, helping balance insect and vertebrate populations.",
+      "zh": "作为一种大型食果动物，双角犀鸟传播多种树木的种子，有助于维持热带森林的健康和多样性。它也捕食小型动物，帮助平衡昆虫和脊椎动物的种群。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "The main threats are deforestation, which removes large nesting trees and fruit sources, and hunting for its casque, meat, and feathers. Forest fragmentation also isolates small populations.",
+        "zh": "主要威胁是森林砍伐，这移除了大型筑巢树和食物来源，以及为获取盔突、肉和羽毛的捕猎。森林破碎化也使小种群隔离。"
+      },
+      "actions": {
+        "en": "Conservation efforts include protecting large forest reserves, enforcing hunting laws, and working with local communities on sustainable use. Nest boxes are sometimes installed to supplement natural cavities.",
+        "zh": "保护措施包括保护大型森林保护区、执行狩猎法规，以及与当地社区合作进行可持续利用。有时也会安装人工巢箱来补充天然树洞。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Large size, black-and-white body, yellow bill with a black base on the upper mandible (male) or no black base (female), and a prominent casque. Male has red eyes, female has white eyes.",
+        "zh": "体型大，身体黑白相间，嘴黄色，雄鸟上嘴基部有黑色斑纹，雌鸟则没有，盔突显著。雄鸟虹膜红色，雌鸟虹膜白色。"
+      },
+      "similar_species": {
+        "en": "The Rhinoceros Hornbill (Buceros rhinoceros) is similar but has a bright red-orange bill and a more compact, upturned casque; their ranges overlap in parts of Southeast Asia.",
+        "zh": "马来犀鸟（Buceros rhinoceros）外形相似，但其嘴为鲜红色或橙色，盔突更短小且上翘；两者的分布在东南亚部分地区重叠。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Great hornbills give loud, harsh calls that carry through forest. They also communicate visually through posture, head movements and bill-clacking, and use keen eyesight to locate fruiting trees and social partners across the canopy.",
+      "zh": "双角犀鸟会发出可在森林中远传的响亮刺耳叫声。它们也用姿态、头部动作和喙部敲击进行视觉交流，并以敏锐视力在林冠中寻找结果树和同伴。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding usually occupies the first part of the year across much of the range. The female remains sealed in the nest cavity for several months, while fledging time varies locally with rainfall and fruit availability.",
+      "zh": "在大部分分布区，繁殖通常发生在一年较早的时段。雌鸟会在封闭树洞中停留数月；雏鸟离巢时间则随当地降雨与果实供应而变化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The great hornbill appears in the murals and folklore of many South and Southeast Asian cultures. In some places, its casque and feathers are used in traditional costumes and rituals. Hunting and trade have declined but still occur.",
+      "zh": "双角犀鸟出现在许多南亚和东南亚文化的壁画和民间故事中。在一些地方，它的盔突和羽毛用于传统服饰和仪式。捕猎和贸易虽已减少，但仍存在。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Great hornbills belong to Bucerotidae in the order Bucerotiformes. Like other hornbills, they have fused first and second neck vertebrae that help support the bill; the hollow-looking casque differs greatly in size and shape among hornbill species.",
+      "zh": "双角犀鸟属于犀鸟目犀鸟科。和其他犀鸟一样，它的前两枚颈椎相互融合，有助于支撑大喙；不同犀鸟物种的盔突大小和形状差异很大。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for large, noisy groups in fruiting trees and listen for their deep, raucous calls. Their droppings are often white and can cover leaves and branches, and they may leave partially eaten fruits below perches.",
+      "zh": "在果树上看大群吵闹的鸟，或听它们深沉粗哑的叫声。它们的粪便常为白色，会覆盖树叶和树枝，栖枝下可能留下吃剩的果实。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The casque is hollow and surprisingly light, despite its large size.",
+          "zh": "盔突是中空的，虽然很大但出奇地轻。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The female loses her flight feathers during the long nesting period and regrows them while still inside the nest.",
+          "zh": "雌鸟在漫长的巢期内会换掉飞羽，并在巢内重新长出新羽。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Great hornbills are sometimes called 'farmers of the forest' because they spread seeds of many fruit trees.",
+          "zh": "双角犀鸟有时被称为“森林农民”，因为它们传播许多果树的种子。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "Males and females have different eye colors: males have red eyes, females have white eyes.",
+          "zh": "雄鸟和雌鸟的眼睛颜色不同：雄鸟红色，雌鸟白色。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Unique sealed-nest strategy",
+          "zh": "独特的封巢策略"
+        },
+        "content": {
+          "en": "The great hornbill is one of the few birds that seal their nest cavity. This behavior protects eggs and chicks from predators and weather, and it creates a safe space for the female to molt and the chicks to grow.",
+          "zh": "双角犀鸟是少数会封住巢穴的鸟类之一。这种行为保护卵和雏鸟免受天敌和天气的影响，并为雌鸟换羽和雏鸟成长创造安全空间。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Loud calls and heavy flight",
+          "zh": "响亮的叫声和沉重的飞行"
+        },
+        "content": {
+          "en": "The great hornbill's wingbeats are extremely loud and sound like a speeding train or steam engine. These sounds, along with its cackling calls, make it easy to detect in the forest.",
+          "zh": "双角犀鸟的振翅声非常响亮，听起来像高速列车或蒸汽机。这些声音加上咯咯的叫声，使它们很容易在森林中被发现。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Forests of South and Southeast Asia",
+    "text_zh": "南亚与东南亚森林",
+    "map_coordinates": [
+      18,
+      100
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This is a new record with no previous map geometry. Authoritative range pages and the IUCN-linked assessment were checked, but reusable verified polygon coordinates were not available for import; the map therefore shows one clearly labelled representative point, not the species' full range.",
+      "comparison_zh": "这是没有旧地图几何的新记录。已检查权威分布页面及关联IUCN的评估，但没有可导入的经过核实且可复用的多边形坐标；因此地图只显示一个明确标注的代表点，并不表示该物种的完整分布范围。",
+      "checked_at": "2026-08-16"
+    }
+  },
+  "image": "/images/animals/great-hornbill.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Global Biodiversity Information Facility (GBIF) Species API",
+      "url": "https://api.gbif.org/v1/species/2476012",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category (taxon 22682453) via the GBIF IUCN endpoint",
+      "url": "https://api.gbif.org/v1/species/2476012/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "IUCN Hornbill Specialist Group",
+      "url": "https://iucnhornbills.org/great-hornbill/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Buceros_bicornis/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "BirdLife International DataZone",
+      "url": "https://datazone.birdlife.org/species/factsheet/great-hornbill-buceros-bicornis",
+      "checked_at": "2026-08-16"
+    }
+  }
+}

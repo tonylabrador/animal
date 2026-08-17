@@ -1,0 +1,428 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Accepted species identity, current global IUCN category, institutional sources, numbers, qualifiers, English/Chinese claim alignment, representative-point range disclosure and image identification criteria were reviewed."
+  },
+  "id": "purple-frog",
+  "name_zh": "紫蛙",
+  "name_en": "Purple Frog",
+  "scientific_name": "Nasikabatrachus sahyadrensis",
+  "ui_tags": [
+    "Amphibian",
+    "Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Amphibia",
+      "zh": "两栖纲"
+    },
+    "order": {
+      "en": "Anura",
+      "zh": "无尾目"
+    },
+    "family": {
+      "en": "Nasikabatrachidae",
+      "zh": "紫蛙科"
+    },
+    "genus": {
+      "en": "Nasikabatrachus",
+      "zh": "紫蛙属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危",
+    "note_en": "Current global category checked on 2026-08-16 through the IUCN-linked GBIF category endpoint.",
+    "note_zh": "已于2026-08-16通过关联IUCN的GBIF类别接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The purple frog is a stout, dark purplish burrowing frog endemic to India's Western Ghats. Adults spend most of the year underground and emerge briefly with monsoon rains to breed in fast-flowing stream systems. The species was formally described in 2003 and belongs to the distinctive family Nasikabatrachidae.",
+    "zh": "紫蛙是一种体形粗壮、深紫色的穴居蛙，仅分布于印度西高止山脉。成蛙一年大部分时间都在地下生活，只在季风降雨期间短暂现身，并在急流溪流系统中繁殖。该物种于2003年正式描述，隶属独特的紫蛙科。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The purple frog has a rounded, bulging body about the size of a large plum. Its head is small and cone-shaped, with a pointed snout and tiny eyes, and its limbs are short and powerful for digging. The skin is smooth and dark purplish-gray, which makes it look more like an odd lump than a typical frog.",
+      "zh": "紫蛙身体圆鼓，约有大李子大小。头部小而呈锥形，吻部尖，眼睛很小；四肢短而有力，适合挖掘。皮肤光滑，呈深紫灰色，使它看起来更像一团奇怪的土块，而不是常见的青蛙。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Purple frogs live underground and eat termites and ants with a long, sticky tongue. They stay hidden in their burrows for most of the year and dig to the surface only when heavy monsoon rains soften the soil. Then males call near temporary streams, and the frogs find mates in the few busy days after the rain.",
+      "zh": "紫蛙生活在地下，用长而黏的舌头捕食白蚁和蚂蚁。一年中大部分时间躲在地洞里，直到季风大雨浸松土壤才钻出地面。雄蛙在临时溪流附近鸣叫，在雨后短暂而忙碌的日子里找到配偶。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "This frog is known only from the southern part of the Western Ghats, a mountain range in the Indian states of Kerala and Tamil Nadu. It lives in moist evergreen and semi-evergreen forests, mostly in soft soil near streams. The population is split into a small number of scattered, forested sites.",
+      "zh": "这种蛙仅知分布于印度喀拉拉邦和泰米尔纳德邦的西高止山脉南部。生活在潮湿的常绿和半常绿森林中，最常见于溪流附近的松软土壤里。种群分隔成少数零散的森林地点。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Snout–vent length about 5–7 cm; females are larger",
+          "zh": "吻肛长约5–7厘米；雌性较大"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Termites and ants.",
+          "zh": "白蚁和蚂蚁。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动"
+        },
+        "value": {
+          "en": "Underground most of the year; emerges briefly during the monsoon to breed.",
+          "zh": "一年中大部分时间生活在地下；仅在季风期短暂出来繁殖。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会单元"
+        },
+        "value": {
+          "en": "Solitary except during the short breeding period.",
+          "zh": "独居，仅短暂繁殖期聚集。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "reproduction",
+        "label": {
+          "en": "Reproduction",
+          "zh": "繁殖"
+        },
+        "value": {
+          "en": "Eggs are laid in shaded rocky pools in fast-flowing stream beds; tadpoles cling to rock",
+          "zh": "卵产在急流河床中阴蔽的岩石水潭内；蝌蚪可吸附岩石"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "discovery",
+        "label": {
+          "en": "First described",
+          "zh": "首次描述"
+        },
+        "value": {
+          "en": "Described in 2003 and placed in a family new to science.",
+          "zh": "2003年被描述，并归入一个科学上全新的科。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Breeding is triggered by monsoon rain. Eggs are laid in small shaded rocky pools in torrential stream beds, and the tadpoles use a suction-like mouth to cling to rock while feeding. Metamorphosis takes roughly 100 days, after which the young leave the stream and adopt the burrowing adult lifestyle.",
+      "zh": "繁殖由季风降雨触发。卵产在湍急溪流河床中阴蔽的小型岩石水潭内；蝌蚪用吸盘状口部附着岩石并取食。约100天后完成变态，幼蛙离开溪流，开始成蛙的穴居生活。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Spade-shaped snout",
+          "zh": "铲形吻部"
+        },
+        "detail": {
+          "en": "A hard, pointed snout and strong forelimbs help the frog push through packed soil.",
+          "zh": "坚硬尖吻和有力的前肢帮助紫蛙钻开紧实的土壤。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Sticky tongue",
+          "zh": "黏性长舌"
+        },
+        "detail": {
+          "en": "The long tongue is shot out to capture termites and ants that swarm in underground nests.",
+          "zh": "它弹出长舌捕捉地下蚁巢中成群的白蚁和蚂蚁。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Sucker-mouthed tadpoles",
+          "zh": "吸盘状口的蝌蚪"
+        },
+        "detail": {
+          "en": "Tadpoles use a suction-cup mouth to cling to boulders in rushing streams while feeding on algae.",
+          "zh": "蝌蚪用吸盘状嘴吸附在急流中的石块上，同时取食藻类。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Burrow life",
+          "zh": "穴居习性"
+        },
+        "detail": {
+          "en": "Living underground keeps the frog moist and safe from dry-season heat and many predators.",
+          "zh": "地下的生活让紫蛙保持湿润，避开旱季高温和许多天敌。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Purple frogs are soil movers: their burrowing aerates the soil, and their feeding helps control termite and ant numbers. Tadpoles scrape algae from stream rocks and become food for larger animals. The frog also acts as a 'flag species' for protecting Western Ghats streams.",
+      "zh": "紫蛙是土壤工程师：挖洞让土壤透气，捕食白蚁和蚂蚁也有助于控制数量。蝌蚪啃食溪流岩石上的藻类，同时是大型动物的食物。紫蛙还作为保护西高止山溪流的旗舰物种。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Deforestation and the conversion of forest to plantations (such as coffee, cardamom, and rubber), as well as construction of roads and buildings, destroy and split its small habitat. Streams that tadpoles need can also carry pollution or silt from farms.",
+        "zh": "森林砍伐和将森林转为咖啡、豆蔻、橡胶等种植园，以及道路和房屋建设，破坏并分割它狭小的栖息地。蝌蚪需要的溪流也可能受到农田污染或泥沙淤积的影响。"
+      },
+      "actions": {
+        "en": "The species is protected by Indian wildlife law and occurs in some protected areas. Scientists recommend keeping natural forest buffers around streams, controlling erosion, and raising awareness in the Western Ghats.",
+        "zh": "该物种受印度野生动物法保护，也见于一些保护区。科学家建议在溪流周围保留自然森林缓冲带、控制水土流失，并在西高止山地区加强公众科普。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A large, round body, dark purplish-brown color, blunt pointed head, very small eyes, and no obvious eardrum (tympanum). The stout hind limbs and spade-like snout suit a digging life.",
+        "zh": "身体大而圆，深紫棕色，头部圆钝而尖，眼睛很小，无明显鼓膜。粗壮的后肢和铲状吻部适合穴居生活。"
+      },
+      "similar_species": {
+        "en": "It is unlikely to be mistaken for common frogs because of its large rounded body, tiny eyes and pointed snout; other burrowing frogs in the region are much smaller or lack its purplish hue.",
+        "zh": "它圆大的体型、小眼睛和尖吻使其不容易与普通蛙类混淆；当地其他穴居蛙要么体型小得多，要么没有这种紫褐色。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "During the breeding season, males produce advertisement calls beside temporary streams. The exact way they hear and locate each other underground is still not fully known, but their tiny eyes suggest they rely more on touch, smell, and taste than on vision.",
+      "zh": "繁殖季节，雄蛙在临时溪流旁发出求偶鸣叫。它们在地下如何听辨和定位对方目前仍不完全清楚，但微小的眼睛提示它们更多依赖触觉、嗅觉和味觉而非视觉。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Monsoon rains trigger a brief above-ground breeding period. Tadpoles develop in fast-flowing streams during the wet season, while adults spend most of the remaining year below ground.",
+      "zh": "季风降雨会触发短暂的地表繁殖期。蝌蚪在雨季的急流中发育，成蛙则在其余大部分时间生活于地下。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Most local people rarely meet the purple frog because it lives hidden in the soil. When heavy rains soak the ground, the frogs may surface and end up caught in field drains or village ponds. Since 2003, scientists and conservation groups have used it to draw attention to the unique wildlife of the Western Ghats.",
+      "zh": "大多数当地人很少见到紫蛙，因为它藏在土壤中。大雨浸透地面时，紫蛙可能钻出地表，落入农田水渠或村中水塘。自2003年起，科学家和保护组织用它来唤起对西高止山独特野生动物的关注。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "The species belongs to a deeply divergent frog lineage. The study that described it supported a close evolutionary relationship between Nasikabatrachidae in India and Sooglossidae in the Seychelles, making the group important for understanding Gondwanan biogeography without implying that it stopped evolving.",
+      "zh": "该物种属于分化很深的蛙类支系。最初描述它的研究支持印度紫蛙科与塞舌尔塞舌蛙科具有较近演化关系，因此这一类群对理解冈瓦纳生物地理很重要；但这并不意味着它已经停止演化。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "Look near termite mounds and stream banks: small, round tunnel entrances in soft forest soil may be the frog's burrows. During monsoon nights, a deep, short call may be heard from the forest floor. In streams, dark tadpoles with sucker mouths can be seen glued to rocks.",
+      "zh": "在靠近白蚁丘和溪岸的地方寻找线索：松软林地上圆形的小洞口可能是紫蛙的洞穴。季风夜晚，林地中可能传来低沉短促的叫声。溪流中，可以看到吸附在石头上的深色吸盘口蝌蚪。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Purple frogs may spend less than two weeks on the surface each year; the rest of the time they are underground.",
+          "zh": "紫蛙每年在地表度过的时间可能不到两周，其余时间都待在地下。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The frog is so distinctive that scientists created a brand-new family, Nasikabatrachidae, for it in 2003.",
+          "zh": "由于紫蛙实在独特，科学家在2003年为它建立了全新的科——鼻蛙科。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its tadpole clings to rocks with a sucker mouth, so it can live in rushing water where ordinary tadpoles would be washed away.",
+          "zh": "它的蝌蚪用吸盘状嘴吸附在岩石上，因此能生活在急流中，而普通蝌蚪早被冲走了。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its evolutionary distinctiveness reflects a long independent history, but the purple frog is not an unchanged relic: it is a modern species with its own continuing evolution.",
+          "zh": "紫蛙的演化独特性反映了漫长的独立历史，但它并不是一成不变的遗存，而是仍在继续演化的现代物种。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Amphibian metamorphosis",
+          "zh": "两栖动物的变态发育"
+        },
+        "content": {
+          "en": "Purple frogs start as eggs, hatch into tadpoles with fin-like tails and gills, then change into four-legged froglets. The monsoon streams make this transformation possible, but the froglets must climb out onto land before the water disappears.",
+          "zh": "紫蛙从卵孵化成带鳍状尾和鳃的蝌蚪，再变成有四条腿的幼蛙。季风溪流让这次变身成为可能，但幼蛙必须在溪水消失前爬上陆地。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Explosive breeding",
+          "zh": "集中爆发式繁殖"
+        },
+        "content": {
+          "en": "Many purple frogs come out at the same time during the monsoon, calling and mating within a very short breeding window. This helps them make sure there are enough partners and enough water for their tadpoles.",
+          "zh": "季风期间，许多紫蛙同时钻出地面，在很短的繁殖窗口内鸣叫和交配。这样能保证找到足够多的配偶，也为蝌蚪提供充足的水源。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Burrowing amphibian",
+          "zh": "穴居两栖动物"
+        },
+        "content": {
+          "en": "Like a few other frogs, the purple frog is a 'fossorial' species, meaning almost its whole body is adapted for living underground, from its digging snout to its small eyes.",
+          "zh": "像少数其他蛙类一样，紫蛙是“穴居”物种，这意味着从挖掘用的吻部到小眼睛，几乎全身都适应了地下的生活。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "The Western Ghats of Kerala and Tamil Nadu, India",
+    "text_zh": "印度喀拉拉邦与泰米尔纳德邦的西高止山脉",
+    "map_coordinates": [
+      10,
+      76.8
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This is a new record with no previous map geometry. Authoritative range pages and the IUCN-linked assessment were checked, but reusable verified polygon coordinates were not available for import; the map therefore shows one clearly labelled representative point, not the species' full range.",
+      "comparison_zh": "这是没有旧地图几何的新记录。已检查权威分布页面及关联IUCN的评估，但没有可导入的经过核实且可复用的多边形坐标；因此地图只显示一个明确标注的代表点，并不表示该物种的完整分布范围。",
+      "checked_at": "2026-08-16"
+    }
+  },
+  "image": "/images/animals/purple-frog.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Global Biodiversity Information Facility (GBIF) Species API",
+      "url": "https://api.gbif.org/v1/species/2421431",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category (taxon 58051) via the GBIF IUCN endpoint",
+      "url": "https://api.gbif.org/v1/species/2421431/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "EDGE of Existence, Zoological Society of London",
+      "url": "https://www.edgeofexistence.org/species/purple-frog/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "EDGE of Existence, Zoological Society of London",
+      "url": "https://www.edgeofexistence.org/species/purple-frog/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Amphibian Species of the World, American Museum of Natural History",
+      "url": "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Nasikabatrachidae/Nasikabatrachus/Nasikabatrachus-sahyadrensis",
+      "checked_at": "2026-08-16"
+    }
+  }
+}

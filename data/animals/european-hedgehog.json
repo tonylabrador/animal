@@ -1,0 +1,434 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Accepted species identity, current global IUCN category, institutional sources, numbers, qualifiers, English/Chinese claim alignment, representative-point range disclosure and image identification criteria were reviewed."
+  },
+  "id": "european-hedgehog",
+  "name_zh": "西欧刺猬",
+  "name_en": "European Hedgehog",
+  "scientific_name": "Erinaceus europaeus",
+  "ui_tags": [
+    "Mammal",
+    "Urban",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Eulipotyphla",
+      "zh": "真盲缺目"
+    },
+    "family": {
+      "en": "Erinaceidae",
+      "zh": "猬科"
+    },
+    "genus": {
+      "en": "Erinaceus",
+      "zh": "刺猬属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危",
+    "note_en": "Current global category checked on 2026-08-16 through the IUCN-linked GBIF category endpoint.",
+    "note_zh": "已于2026-08-16通过关联IUCN的GBIF类别接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The European hedgehog is a small nocturnal mammal with a pointed snout and a coat of defensive spines. When threatened, powerful skin muscles help it curl into a tight ball. It uses woodland edges, farmland with hedges, parks and gardens across much of Europe.",
+    "zh": "西欧刺猬是一种小型夜行哺乳动物，吻部尖细，身上覆盖防御性棘刺。受到威胁时，强有力的皮肤肌肉能帮助它蜷成紧密的球。它分布于欧洲大部，利用林缘、带树篱的农田、公园和花园。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are roughly 20–30 cm in head-body length, with a very short tail; body mass varies strongly with season and condition. The back carries several thousand stiff modified hairs called spines, while the face, legs and belly have ordinary fur. A ring of muscles helps pull the spiny skin around the body when the animal rolls up.",
+      "zh": "成体头体长约20–30厘米，尾巴很短；体重会随季节和个体状态明显变化。背部覆盖数千根由毛发特化而成的硬棘，面部、腿部和腹部则是普通毛发。环状肌肉能在蜷缩时把带棘皮肤拉拢并包住身体。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "European hedgehogs are mainly solitary and active at night, spending the day resting in nests made of leaves and grass. They are opportunistic omnivores, feeding primarily on beetles, earthworms, caterpillars, and slugs, but will also eat fallen fruit or bird eggs. In colder regions they hibernate from late autumn to early spring, surviving on fat reserves built up in summer.",
+      "zh": "西欧刺猬主要以独居方式生活，常在夜间活动，白天在由树叶和草筑成的巢中休息。它们是机会主义杂食动物，主要以甲虫、蚯蚓、毛虫和蛞蝓为食，也会吃落果或鸟蛋。在寒冷地区，它们从晚秋到初春冬眠，依靠夏季积累的脂肪储备存活。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "The species is found across Western and Central Europe, from the British Isles and Scandinavia southward to the Mediterranean, and eastward into parts of Eastern Europe and Russia. It lives in a wide range of habitats, including woodlands, grasslands, hedgerows, suburban gardens, and parks. It is absent from very dry deserts and high mountains.",
+      "zh": "该物种分布于西欧和中欧，从不列颠群岛和斯堪的纳维亚半岛向南到地中海，向东到东欧部分地区及俄罗斯。它生活在多种栖息地中，包括林地、草地、灌木篱墙、郊野花园和公园。它在非常干燥的沙漠和高山地区没有分布。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Head-body length about 20–30 cm; tail about 1–2 cm",
+          "zh": "头体长约20–30厘米；尾长约1–2厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "Usually about 400–1,100 g; body mass changes seasonally",
+          "zh": "通常约400–1,100克；体重随季节变化"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "2–3 years in the wild; up to 10 years in captivity",
+          "zh": "野外2–3年；人工饲养可长达10年"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Insects, worms, slugs, snails, fruit, eggs",
+          "zh": "昆虫、蠕虫、蛞蝓、蜗牛、果实、蛋"
+        },
+        "source_keys": [
+          "general",
+          "ecology"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Nocturnal and solitary",
+          "zh": "夜行性且独居"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会单元"
+        },
+        "value": {
+          "en": "Solitary",
+          "zh": "独居"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "reproduction",
+        "label": {
+          "en": "Reproduction",
+          "zh": "繁殖"
+        },
+        "value": {
+          "en": "Gestation 4–6 weeks, litter of 4–5 young (hoglets)",
+          "zh": "妊娠期4–6周，每胎4–5只幼崽（刺猬幼崽）"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Breeding mainly runs from spring into early autumn. After a gestation of roughly 5 weeks, females give birth in a well-lined nest; litter size varies, and the blind newborns have soft spines hidden beneath swollen skin. Young are nursed for several weeks and then become independent.",
+      "zh": "繁殖主要从春季持续到初秋。经过约5周妊娠，雌性会在铺垫良好的巢中产仔；每胎数量不一，初生幼崽尚未睁眼，柔软棘刺藏在肿胀皮肤下。幼崽接受数周哺乳后逐渐独立。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Spines for defense",
+          "zh": "防御用的棘刺"
+        },
+        "detail": {
+          "en": "Spines are modified hairs made of keratin, with air-filled cells that make them light yet strong. Each spine can be raised or lowered by muscles, and when combined with the ball-rolling behavior they provide excellent protection.",
+          "zh": "棘刺是角蛋白构成的变形毛发，内部有空气腔，使其轻而坚固。每根棘刺可由肌肉控制竖起或倒下，结合卷成球的行为，提供了极好的保护。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Rolling into a ball",
+          "zh": "卷曲成球"
+        },
+        "detail": {
+          "en": "Hedgehogs have strong circular muscles along their sides that let them curl into a tight, spiky ball. This protects the head, belly, and limbs from predators, leaving only pointed spines exposed.",
+          "zh": "刺猬身体两侧有强壮的环形肌肉，使它们能蜷缩成一个紧密的带刺球体。这一行为保护了头部、腹部和四肢，只让尖刺朝外。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Hibernation",
+          "zh": "冬眠"
+        },
+        "detail": {
+          "en": "During winter, hedgehogs enter true hibernation, lowering their body temperature to near the ambient temperature and reducing heart rate from around 190 to about 20 beats per minute. This helps them survive periods of cold and food shortage.",
+          "zh": "在冬季，刺猬进入真正的冬眠状态，将体温降至接近环境温度，心率从每分钟约190次降至约20次。这帮助它们度过寒冷和食物短缺的时期。"
+        },
+        "source_keys": [
+          "general",
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Acute senses",
+          "zh": "敏锐的感官"
+        },
+        "detail": {
+          "en": "Although hedgehogs are not blind, they rely heavily on a keen sense of smell and excellent hearing to detect invertebrates and avoid danger at night. Their large ears and long snout are adapted for locating food in leaf litter.",
+          "zh": "虽然刺猬并非盲目，但它们在夜间主要依靠敏锐的嗅觉和出色的听觉来发现无脊椎动物并避开危险。它们的大耳朵和长吻适合在落叶层中寻找食物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As insectivores, hedgehogs help control populations of beetles, caterpillars, slugs, and other invertebrates. They are also prey for badgers, foxes, and large birds of prey. Their foraging activity aerates the soil, and their droppings disperse seeds and nutrients.",
+      "zh": "作为食虫动物，刺猬有助于控制甲虫、毛虫、蛞蝓和其他无脊椎动物的数量。它们也是獾、狐狸和大型猛禽的猎物。它们的觅食活动使土壤通气，排泄物传播种子和养分。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Habitat loss and fragmentation, intensive farming practices, pesticide use, road traffic, and climate change are key threats. In spring, cold snaps after hibernation can also cause mortality.",
+        "zh": "主要威胁包括栖息地丧失和破碎化、集约化农业、杀虫剂使用、道路交通事故和气候变化。冬眠后春季的寒潮也会导致死亡。"
+      },
+      "actions": {
+        "en": "Conservation efforts include creating hedgehog-friendly gardens with access through fences, preserving hedgerows and field margins, reducing pesticide use, and establishing wildlife rescue centers. Awareness campaigns such as 'Hedgehog Street' encourage habitat connectivity.",
+        "zh": "保护措施包括营造对刺猬友好的花园并在围栏上留通道，保护灌木篱墙和农田边界，减少杀虫剂使用，并建立野生动物救护中心。‘刺猬街’等公众宣传活动鼓励促进栖息地连通性。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Small, brown-furred animal covered in spines on its back; round body; short legs; black nose; small, dark eyes; face and belly covered in coarse brownish fur. Spines are dark with a pale band near the tip.",
+        "zh": "小型棕色毛皮动物，背部覆盖棘刺；身体圆润；腿短；黑色鼻子；小且深色的眼睛；脸部和腹部覆盖粗糙的棕褐色毛。棘刺深色，尖端附近有浅色环带。"
+      },
+      "similar_species": {
+        "en": "The northern white-breasted hedgehog (Erinaceus roumanicus) overlaps in eastern Europe and looks very similar, but has a white belly and a more pointed face. In southern Europe, the Algerian hedgehog (Atelerix algirus) has a white band on its forehead.",
+        "zh": "在東欧，东北白胸刺猬（Erinaceus roumanicus）与西欧刺猬相遇，外观相似，但其腹部为白色且脸更尖。在南欧，阿尔及利亚刺猬（Atelerix algirus）前额有白色带纹。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Hedgehogs make a variety of sounds: snuffling while foraging, a sharp bark when annoyed, and high-pitched screams when in distress. Mothers make soft clicks to communicate with their young. Their hearing and sense of smell are far more important than their weak eyesight.",
+      "zh": "刺猬发出多种声音：觅食时的鼻息声，受扰时的尖吠，遇险时的高声尖叫。母兽用轻柔的咔嗒声与幼崽交流。它们的听觉和嗅觉远比微弱的视觉重要。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding is concentrated from spring to early autumn. In colder parts of the range, hedgehogs typically hibernate through winter, while exact timing changes with latitude, weather and the animal's condition.",
+      "zh": "繁殖集中在春季至初秋。在分布区较寒冷的部分，西欧刺猬通常会冬眠；具体起止时间随纬度、天气和个体状态而变。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "European hedgehogs are a familiar visitor to British and European gardens, where they eat garden pests and are often welcomed. However, they face danger from garden machinery, ponds with steep sides, and road traffic. Many people create wildlife corridors and leave out water and meat-based pet food (never cow's milk) to help them.",
+      "zh": "西欧刺猬是英国和欧洲花园中常见的访客，它们吃园艺害虫，因此广受欢迎。然而，它们也面临花园机械、陡峭池塘和道路交通事故的危险。许多人会创建野生动物通道，并提供水和肉类宠物食品（切忌牛奶）来帮助它们。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "European hedgehogs belong to Erinaceidae within Eulipotyphla. They are evolutionarily closer to shrews and moles than to porcupines; porcupines are rodents, while hedgehogs are not.",
+      "zh": "西欧刺猬属于真盲缺目猬科。它与鼩鼱和鼹鼠的亲缘关系比与豪猪更近；豪猪属于啮齿动物，而刺猬并不是。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for small, conical droppings (about 3 cm long) that are dark and often covered in shiny beetle cases. Footprints show five toes with strong claws, and distinctive snuffle holes in lawns or soil are made as the animal probes for invertebrates. In autumn, nests of dry leaves can be found at the base of hedges or in compost heaps.",
+      "zh": "寻找小圆锥形粪便（长约3厘米），颜色深，常覆盖着闪亮的甲虫壳。足迹有五趾和强壮的爪子。在草坪或土壤中可发现独特的嗅探洞，这是刺猬探寻无脊椎动物时留下的。秋季，可在树篱底部或堆肥堆中发现枯叶筑成的巢。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "A hedgehog's coat contains thousands of modified hairs called spines; unlike porcupine quills, they are not normally shed as a defensive projectile.",
+          "zh": "刺猬体表有数千根由毛发特化而成的棘刺；与豪猪刺不同，它们通常不会作为防御性“投射物”脱落。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Hedgehogs practice 'self-anointing': when they encounter a new odor, they produce foamy saliva and spread it over their spines. The purpose is still debated, but it may mask their scent or make them toxic to predators.",
+          "zh": "刺猬会进行‘自我涂抹’：遇到新气味时，它们会吐出泡沫唾液并涂在棘刺上。目的仍有争议，但可能是为了掩盖气味或使自身对捕食者有毒。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A baby hedgehog is called a hoglet. At birth, hoglets are blind, pink, and covered in soft white spines that are replaced by darker adult spines within weeks.",
+          "zh": "刺猬幼崽被称为‘hoglet’。出生时，幼崽失明、呈粉红色并覆盖着柔软的白色棘刺，几周后被更深的成年棘刺替换。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Hedgehogs can swim and climb, and have been known to climb stairs and even walls if there is a rough surface. However, they are prone to falling into ponds and can drown if they cannot get out.",
+          "zh": "刺猬会游泳和攀爬，曾被发现爬楼梯，甚至沿粗糙表面爬墙。但它们容易掉进池塘，如果无法脱身会淹死。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Hibernation and torpor",
+          "zh": "冬眠与休眠"
+        },
+        "content": {
+          "en": "Erinaceus europaeus is one of the few mammals that truly hibernates. During hibernation it periodically arouses, and in mild winter it may enter shorter bouts of torpor. Body temperature drops to about 5°C and heart rate falls from around 190 to fewer than 20 beats per minute.",
+          "zh": "西欧刺猬是少数真正冬眠的哺乳动物之一。冬眠期间它会周期性醒来；在暖冬可能进入较短的休眠期。体温降至约5°C，心率从约190次降至每分钟低于20次。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Milk and parental care",
+          "zh": "哺乳与亲代抚育"
+        },
+        "content": {
+          "en": "Female hedgehogs are the sole caretakers of the young. They nurse the hoglets with milk until they are roughly 4–6 weeks old, and the young are weaned gradually. Mothers build nests in dense cover and move their young by carrying them in their mouths if disturbed.",
+          "zh": "雌性刺猬是幼崽唯一的抚育者。它们用乳汁哺育幼崽约4–6周大，之后逐渐断奶。母兽在茂密植被中筑巢，若受惊会衔着幼崽搬移。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Much of Europe, with introduced populations in New Zealand",
+    "text_zh": "欧洲大部，并被引入新西兰",
+    "map_coordinates": [
+      50,
+      15
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This is a new record with no previous map geometry. Authoritative range pages and the IUCN-linked assessment were checked, but reusable verified polygon coordinates were not available for import; the map therefore shows one clearly labelled representative point, not the species' full range.",
+      "comparison_zh": "这是没有旧地图几何的新记录。已检查权威分布页面及关联IUCN的评估，但没有可导入的经过核实且可复用的多边形坐标；因此地图只显示一个明确标注的代表点，并不表示该物种的完整分布范围。",
+      "checked_at": "2026-08-16"
+    }
+  },
+  "image": "/images/animals/european-hedgehog.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Global Biodiversity Information Facility (GBIF) Species API",
+      "url": "https://api.gbif.org/v1/species/5219616",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category (taxon 29650) via the GBIF IUCN endpoint",
+      "url": "https://api.gbif.org/v1/species/5219616/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "The Mammal Society",
+      "url": "https://mammal.org.uk/british-mammals/european-hedgehog",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Erinaceus_europaeus/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "The Mammal Society",
+      "url": "https://mammal.org.uk/british-mammals/european-hedgehog",
+      "checked_at": "2026-08-16"
+    }
+  }
+}

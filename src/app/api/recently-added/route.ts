@@ -7,7 +7,7 @@ const RECENTLY_ADDED_PATH = path.join(process.cwd(), "RECENTLY_ADDED.md");
 function parseRecentlyAdded(content: string) {
   if (!content) return [];
   const lines = content.split("\n");
-  const entries: { zh: string; en: string; scientific: string; id: string }[] = [];
+  const entries: { date: string | null; zh: string; en: string; scientific: string; id: string }[] = [];
   let inTable = false;
   
   for (const line of lines) {
@@ -17,20 +17,19 @@ function parseRecentlyAdded(content: string) {
       continue;
     }
     if (inTable && trimmed.startsWith("|")) {
-      const cols = trimmed.split("|").map((c) => c.trim()).filter(Boolean);
-      if (cols.length >= 5 && cols[1] !== "—" && cols[1] !== "中文名") {
-        const linkCol = cols[4];
+      const cols = trimmed.split("|").slice(1, -1).map((c) => c.trim());
+      const hasDateColumn = cols.length >= 6;
+      const date = hasDateColumn && cols[1] !== "—" ? cols[1] : null;
+      const zh = cols[hasDateColumn ? 2 : 1];
+      const en = cols[hasDateColumn ? 3 : 2];
+      const scientific = cols[hasDateColumn ? 4 : 3];
+      const linkCol = cols[hasDateColumn ? 5 : 4];
+      if (cols.length >= 5 && zh && en && scientific && linkCol) {
         const linkMatch = linkCol.match(/\[.*?\]\((.*?)\)/);
         const url = linkMatch ? linkMatch[1] : "";
         const idMatch = url.match(/\/animal\/(.+)$/);
         const id = idMatch ? idMatch[1] : "";
-        
-        entries.push({ 
-          zh: cols[1], 
-          en: cols[2], 
-          scientific: cols[3],
-          id: id
-        });
+        if (id) entries.push({ date, zh, en, scientific, id });
       }
     }
   }

@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **426** 种动物
+**统计**：共 **436** 种动物
 
 ---
 
@@ -35,6 +35,10 @@
 - 伊犁鼠兔 / Ili Pika — *Ochotona iliensis* `ili-pika`
 
 ### 单孔目
+
+**针鼹科**
+
+- 短吻针鼹 / Short-beaked Echidna — *Tachyglossus aculeatus* `short-beaked-echidna`
 
 **鸭嘴兽科**
 
@@ -179,6 +183,16 @@
 
 - 斑鼯猴 / Philippine Flying Lemur — *Cynocephalus volans* `philippine-flying-lemur`
 
+### 真盲缺目
+
+**猬科**
+
+- 西欧刺猬 / European Hedgehog — *Erinaceus europaeus* `european-hedgehog`
+
+**鼹科**
+
+- 星鼻鼹 / Star-nosed Mole — *Condylura cristata* `star-nosed-mole`
+
 ### 管齿目
 
 **土豚科**
@@ -224,6 +238,12 @@
 **负鼠科**
 
 - 北美负鼠 / Virginia Opossum — *Didelphis virginiana* `virginia-opossum`
+
+### 蹄兔目
+
+**蹄兔科**
+
+- 岩蹄兔 / Rock Hyrax — *Procavia capensis* `rock-hyrax`
 
 ### 长鼻目
 
@@ -448,6 +468,12 @@
 
 - 象牙喙啄木鸟 / Ivory-billed Woodpecker — *Campephilus principalis* `ivory-billed-woodpecker`
 
+### 䴙䴘目
+
+**䴙䴘科**
+
+- 凤头䴙䴘 / Great Crested Grebe — *Podiceps cristatus* `great-crested-grebe`
+
 ### 企鹅目
 
 **企鹅科**
@@ -524,6 +550,7 @@
 
 **犀鸟科**
 
+- 双角犀鸟 / Great Hornbill — *Buceros bicornis* `great-hornbill`
 - 马来犀鸟 / Rhinoceros Hornbill — *Buceros rhinoceros* `rhinoceros-hornbill`
 
 ### 红鹳目
@@ -531,6 +558,12 @@
 **红鹳科**
 
 - 大红鹳 / Greater Flamingo — *Phoenicopterus roseus* `greater-flamingo`
+
+### 美洲鸵鸟目
+
+**美洲鸵鸟科**
+
+- 大美洲鸵 / Greater Rhea — *Rhea americana* `greater-rhea`
 
 ### 美洲鹫目
 
@@ -736,6 +769,7 @@
 
 **海雀科**
 
+- 北极海鹦 / Atlantic Puffin — *Fratercula arctica* `atlantic-puffin`
 - 簇绒海鹦 / Tufted puffin — *Fratercula cirrhata* `tufted-puffin`
 
 **鸥科**
@@ -860,6 +894,12 @@
 ---
 
 ## 爬行纲
+
+### 喙头目
+
+**楔齿蜥科**
+
+- 斑点楔齿蜥 / Tuatara — *Sphenodon punctatus* `tuatara`
 
 ### 有鳞目
 
@@ -988,6 +1028,10 @@
 
 - 黄金箭毒蛙 / Golden Poison Frog — *Phyllobates terribilis* `golden-poison-frog`
 - 草莓箭毒蛙 / Strawberry Poison Dart Frog — *Oophaga pumilio* `strawberry-poison-dart-frog`
+
+**紫蛙科**
+
+- 紫蛙 / Purple Frog — *Nasikabatrachus sahyadrensis* `purple-frog`
 
 **角花蟾科**
 

@@ -6,6 +6,7 @@ import Image from "next/image";
 import { Globe, Search, X, MapPin, Tag, TreeDeciduous, ChevronRight, Shuffle, ArrowDownAZ, ArrowUp, Clock } from "lucide-react";
 import { useLanguage } from "@/lib/LanguageContext";
 import type { Animal } from "@/types/animal";
+import type { LatestRelease } from "@/lib/getAnimals";
 import WishlistSection from "@/components/WishlistSection";
 import MessageBoard from "@/components/MessageBoard";
 import { getTagColor } from "@/lib/animalPresentation";
@@ -101,9 +102,24 @@ function AnimalCard({ animal, lang, eager = false }: AnimalCardProps) {
 
 interface AnimalDashboardProps {
   animals: Animal[];
+  latestRelease: LatestRelease | null;
 }
 
-export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
+function formatReleaseDate(date: string, lang: "en" | "zh") {
+  if (lang === "zh") {
+    const [year, month, day] = date.split("-").map(Number);
+    return `${year}年${month}月${day}日`;
+  }
+
+  return new Intl.DateTimeFormat("en-US", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+    timeZone: "UTC",
+  }).format(new Date(`${date}T00:00:00Z`));
+}
+
+export default function AnimalDashboard({ animals, latestRelease }: AnimalDashboardProps) {
   const { lang, toggleLang } = useLanguage();
   const [query, setQuery] = useState("");
   const [sortMode, setSortMode] = useState<"newest" | "alpha" | "random">("newest");
@@ -262,11 +278,18 @@ export default function AnimalDashboard({ animals }: AnimalDashboardProps) {
       </header>
 
       {/* ── Banner ── */}
-      <div className="bg-gradient-to-r from-amber-500 to-orange-500 text-white text-center py-2 px-4 shadow-sm font-bold text-sm sm:text-base tracking-wide flex items-center justify-center gap-2">
+      {latestRelease && <div className="bg-gradient-to-r from-amber-500 to-orange-500 text-white text-center py-2 px-4 shadow-sm font-bold text-sm sm:text-base tracking-wide flex flex-wrap items-center justify-center gap-x-2 gap-y-1">
         <span className="animate-pulse">✨</span>
-        <span>{lang === "en" ? "NEW ANIMALS ADDED! CHECK IT OUT!" : "新增动物上线！快来看看吧！"}</span>
+        <span className="rounded-full bg-white/20 px-2.5 py-0.5 text-xs sm:text-sm tabular-nums">
+          {formatReleaseDate(latestRelease.date, lang)}
+        </span>
+        <span>
+          {lang === "en"
+            ? `${latestRelease.animalCount} new animals added — now with bilingual Quick Facts!`
+            : `新增${latestRelease.animalCount}种动物，并加入中英双语 Quick Facts！`}
+        </span>
         <span className="animate-pulse">✨</span>
-      </div>
+      </div>}
 
       {/* ── Hero ── */}
       <section className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-4 pb-6 lg:pt-12 lg:pb-12">

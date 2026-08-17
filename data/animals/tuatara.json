@@ -1,0 +1,417 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Accepted species identity, current global IUCN category, institutional sources, numbers, qualifiers, English/Chinese claim alignment, representative-point range disclosure and image identification criteria were reviewed."
+  },
+  "id": "tuatara",
+  "name_zh": "斑点楔齿蜥",
+  "name_en": "Tuatara",
+  "scientific_name": "Sphenodon punctatus",
+  "ui_tags": [
+    "Reptile",
+    "Island",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Rhynchocephalia",
+      "zh": "喙头目"
+    },
+    "family": {
+      "en": "Sphenodontidae",
+      "zh": "楔齿蜥科"
+    },
+    "genus": {
+      "en": "Sphenodon",
+      "zh": "楔齿蜥属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "Current global category checked on 2026-08-16 through the IUCN-linked GBIF category endpoint.",
+    "note_zh": "已于2026-08-16通过关联IUCN的GBIF类别接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The tuatara is a reptile found only in New Zealand. Although it resembles a lizard, it is the sole living representative of the distinct order Rhynchocephalia. A row of soft spines runs along the head, back and tail, especially prominently in males.",
+    "zh": "斑点楔齿蜥是仅见于新西兰的爬行动物。虽然外形像蜥蜴，它却是喙头目唯一现生代表。头部、背部和尾部有一列柔软棘突，雄性尤其明显。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adult males are about 0.5 m long and can weigh up to about 1.5 kg; females are smaller. The jaws carry two rows of upper teeth that close over one lower row, while a crest of soft spines runs along the head, back and tail.",
+      "zh": "成年雄性体长约0.5米，体重可达约1.5千克；雌性较小。上颌两排牙齿会夹住下颌一排牙齿，头部、背部和尾部则有一列柔软棘突。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Tuatara are mainly nocturnal and shelter in burrows. They can remain active in cooler conditions than many reptiles and feed on invertebrates as well as small vertebrates. Seabird colonies can enrich island food webs around their habitat.",
+      "zh": "斑点楔齿蜥主要在夜间活动，并躲在洞穴中。它能在比许多爬行动物更凉的环境中活动，取食无脊椎动物与小型脊椎动物；海鸟繁殖群落还能丰富岛屿栖息地周围的食物网。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Once widespread across mainland New Zealand, tuatara now naturally occur on about 30 small offshore islands where introduced predators are absent. They have also been reintroduced to several fenced mainland sanctuaries.",
+      "zh": "斑点楔齿蜥曾广布于新西兰大陆，现在天然分布于大约30个没有外来捕食者的小离岸岛屿。它们也已被重新引入到几个有围栏的大陆保护区。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Adult males about 0.5 m long; females are smaller",
+          "zh": "成年雄性约0.5米长；雌性较小"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "Adult males up to about 1.5 kg",
+          "zh": "成年雄性可达约1.5千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "Can live 60-100 years, possibly more",
+          "zh": "可活60-100年，甚至更长"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Insects, worms, spiders, and occasionally small reptiles",
+          "zh": "昆虫、蠕虫、蜘蛛，偶尔捕食小型爬行动物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Nocturnal",
+          "zh": "夜行性"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会单位"
+        },
+        "value": {
+          "en": "Generally solitary; burrows may occur among seabird colonies",
+          "zh": "通常独居；洞穴可位于海鸟繁殖群落中"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "reproduction",
+        "label": {
+          "en": "Reproduction",
+          "zh": "繁殖"
+        },
+        "value": {
+          "en": "Egg-laying; incubation lasts 12-15 months",
+          "zh": "卵生；孵化期12-15个月"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Tuatara mature slowly, at around 10-20 years old. They mate in late summer and the female lays 6-10 eggs in a burrow. The eggs incubate for 12-15 months, among the longest incubation periods documented for reptiles. The sex of the hatchlings depends on temperature: warmer nests produce males, cooler nests produce females.",
+      "zh": "斑点楔齿蜥成熟缓慢，约10-20岁才成年。它们在夏季末交配，雌性在洞穴中产下6-10枚卵。卵孵化期12-15个月，属于爬行动物中有记录的最长孵化期之一。孵化后代的性别取决于温度：较热的巢产生雄性，较冷的巢产生雌性。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Third eye",
+          "zh": "第三只眼"
+        },
+        "detail": {
+          "en": "Tuatara have a parietal eye, a light-sensitive spot on the top of their head. It helps them regulate their daily and seasonal cycles, even though it is not a full image-forming eye. In adults, it becomes covered by scales but still functions.",
+          "zh": "斑点楔齿蜥头顶有一个顶眼，一个对光敏感的区域。它帮助调节日夜和季节循环，虽然它并不是能形成完整图像的眼睛。成年后它被鳞片覆盖，但仍然有功能。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Double row of teeth",
+          "zh": "双排牙"
+        },
+        "detail": {
+          "en": "The upper jaw has two rows of teeth that grind against a single row in the lower jaw. This gives tuatara a powerful biting force to crush hard-bodied insects and snails.",
+          "zh": "上颚有两排牙齿，与下颚单排牙齿咬合。这给了斑点楔齿蜥强大的咬合力，可以压碎坚硬身体昆虫和蜗牛。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Cold tolerance",
+          "zh": "耐寒性"
+        },
+        "detail": {
+          "en": "Unlike most reptiles, tuatara can remain active at temperatures as low as 5°C. Their slow metabolism lets them thrive in the cool climate of New Zealand.",
+          "zh": "与大多数爬行动物不同，斑点楔齿蜥能在低至5℃的温度下保持活动。它们缓慢的新陈代谢使它们能适应新西兰的凉爽气候。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As the largest native land vertebrate on many of their islands, tuatara are top predators that control populations of insects and other animals. Their burrows provide shelter for seabirds, while seabird droppings fertilize the soil and support the ecosystem.",
+      "zh": "作为许多岛屿上最大的本土陆生脊椎动物，斑点楔齿蜥是顶级捕食者，控制着昆虫和其他动物的种群。它们的洞穴为海鸟提供庇护，而海鸟的粪便肥沃了土壤，维持生态环境。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Introduced predators such as rats and stoats are the biggest threat, along with habitat loss. Climate change may skew the sex ratio of hatchlings because sex is temperature-dependent.",
+        "zh": "最大的威胁是引入的捕食者如老鼠和白鼬，以及栖息地丧失。由于性别取决于温度，气候变化可能会扭曲孵化后代的性别比例。"
+      },
+      "actions": {
+        "en": "Tuatara are protected by law in New Zealand. Conservation efforts include removing predators from islands, captive breeding, and reintroductions to fenced mainland sanctuaries.",
+        "zh": "斑点楔齿蜥在新西兰受到法律保护。保护措施包括清除岛屿上的捕食者、人工繁育以及重新引入到有围栏的大陆保护区。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A robust body, spiny crest along the back, and a long tail. The skin is grey-green or dark olive, and they have no external ear openings.",
+        "zh": "身体粗壮，背部有尖刺，尾巴长。皮肤灰绿色或深橄榄色，没有外部耳孔。"
+      },
+      "similar_species": {
+        "en": "They resemble lizards, but lizards have external ear openings and a different skull structure. No other animal in New Zealand looks similar.",
+        "zh": "它们类似蜥蜴，但蜥蜴有外部耳孔和不同的头骨结构。新西兰没有其他类似的动物。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Tuatara have excellent hearing and a well-developed sense of smell. They communicate with vocalizations, mainly during the breeding season, making croaking or wheezing sounds. The third eye likely helps track light for timing daily cycles.",
+      "zh": "斑点楔齿蜥有出色的听觉和良好的嗅觉。它们通过发声交流，主要是在繁殖季节，发出呱呱或喘息声。第三只眼可能帮助追踪光线以调节日常节律。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Activity decreases during cool winter conditions. Mating occurs during the New Zealand summer, while females lay eggs later and development continues through a very long incubation lasting roughly a year or more.",
+      "zh": "寒冷冬季的活动会减少。交配发生在新西兰夏季，雌性随后产卵；胚胎经过约一年或更久的漫长孵化期才完成发育。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Tuatara are a taonga (treasured) species in Māori culture, often featured in mythology as guardians. Today they are a symbol of New Zealand's unique biodiversity and a focus for conservation.",
+      "zh": "斑点楔齿蜥是毛利文化中的珍宝，常在神话中担任守护者。如今它们也是新西兰独特生物多样性的象征，并成为保护工作的焦点。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Tuatara are the only living members of Rhynchocephalia, a reptile lineage distinct from lizards and snakes. Calling them unchanged 'living fossils' is misleading: the lineage is ancient, but tuatara have continued to evolve.",
+      "zh": "斑点楔齿蜥是喙头目唯一现生成员，这一爬行动物支系不同于蜥蜴和蛇。把它称作一成不变的“活化石”并不准确：其支系十分古老，但它一直在继续演化。",
+      "source_keys": [
+        "taxonomy",
+        "ecology"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for burrow entrances in soil, often under vegetation. Droppings are dark and rough, and footprints may show five toes. They can also be seen basking near burrows at night.",
+      "zh": "寻找土壤中的洞穴入口，通常在植被下。粪便是深色而且粗糙，足迹可能显示五个脚趾。夜晚也可以看到它们在洞穴附近活动。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Tuatara are not lizards; they are the only members of a distinct reptile order that lived at the time of the dinosaurs.",
+          "zh": "斑点楔齿蜥不是蜥蜴，它们是恐龙时代一个独特爬行动物目的唯一成员。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "They have the longest incubation period of any reptile, with eggs taking over a year to hatch.",
+          "zh": "它们拥有所有爬行动物中最长的孵化期，卵需要一年以上才能孵化。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Their third eye, the parietal eye, originally has a lens and retina, but in adults it is covered by scales.",
+          "zh": "它们的第三只眼——顶眼，原本有晶状体和视网膜，但在成年后被鳞片覆盖。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Tuatara can live beyond 100 years and continue growing slowly throughout their lives.",
+          "zh": "斑点楔齿蜥可以活过100年，并在一生中持续缓慢生长。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Thermoregulation",
+          "zh": "体温调节"
+        },
+        "content": {
+          "en": "Like other reptiles, tuatara are ectothermic, but they are adapted to cool climates. They seek sunshine to warm up but also remain active at low temperatures by using their slow metabolism.",
+          "zh": "与其他爬行动物一样，斑点楔齿蜥是变温动物，但它们适应了凉爽气候。它们寻找阳光取暖，但也能通过缓慢的新陈代谢在低温下保持活动。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Temperature-dependent sex determination",
+          "zh": "温度依赖型性别决定"
+        },
+        "content": {
+          "en": "The sex of juvenile tuatara is determined by the nest temperature during incubation. Warmer eggs become males, cooler eggs become females. This makes them vulnerable to global warming.",
+          "zh": "幼年斑点楔齿蜥的性别由孵化时的巢温决定。较暖的卵成为雄性，较冷的卵成为雌性。这使得它们容易受到全球变暖的影响。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Predator-managed islands and sanctuaries in New Zealand",
+    "text_zh": "新西兰经外来捕食者管理的岛屿与保护地",
+    "map_coordinates": [
+      -40.8,
+      174.8
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This is a new record with no previous map geometry. Authoritative range pages and the IUCN-linked assessment were checked, but reusable verified polygon coordinates were not available for import; the map therefore shows one clearly labelled representative point, not the species' full range.",
+      "comparison_zh": "这是没有旧地图几何的新记录。已检查权威分布页面及关联IUCN的评估，但没有可导入的经过核实且可复用的多边形坐标；因此地图只显示一个明确标注的代表点，并不表示该物种的完整分布范围。",
+      "checked_at": "2026-08-16"
+    }
+  },
+  "image": "/images/animals/tuatara.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Global Biodiversity Information Facility (GBIF) Species API",
+      "url": "https://api.gbif.org/v1/species/5227650",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category (taxon 131735762) via the GBIF IUCN endpoint",
+      "url": "https://api.gbif.org/v1/species/5227650/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "New Zealand Department of Conservation",
+      "url": "https://www.doc.govt.nz/nature/native-animals/reptiles-and-frogs/tuatara/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "New Zealand Department of Conservation",
+      "url": "https://www.doc.govt.nz/nature/native-animals/reptiles-and-frogs/tuatara/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "New Zealand Department of Conservation",
+      "url": "https://www.doc.govt.nz/nature/native-animals/reptiles-and-frogs/tuatara/",
+      "checked_at": "2026-08-16"
+    }
+  }
+}

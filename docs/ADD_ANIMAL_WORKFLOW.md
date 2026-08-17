@@ -18,6 +18,8 @@
 - 每个事实和 section 必须通过 `source_keys` 指向真实来源；禁止用一个泛化主页支撑整条记录。
 - “内容丰富”不等于堆叠文字。数字写范围与背景，section 之间避免重复，未知项明确写未知。
 - 生成阶段的 `content_review` 必须保持 `pending`。只有逐条核对事实来源并逐段对照中英文后，才能改为 `source-checked` 与 `line-by-line-reviewed`。
+- 每个新动物必须有 4–8 条经过来源和逐句翻译审核的中英双语 Quick Facts；不能只在一种语言中加入，也不能用分类层级凑数代替物种特有事实。
+- 首页默认顺序必须是“后加入的在前”。同一批次按导入顺序倒排，即最后加入的动物排第一；不同批次按发布日期倒序。
 
 ## 双语逐段 QC 门禁
 
@@ -166,6 +168,16 @@ node scripts/auto_process_wishlist.js --finalize arctic-fox,red-panda
 ```
 
 `--finalize` 只删除明确指定且已通过图片门禁的物种，不会弹出整个 batch。
+
+`--finalize` 还必须完成以下发布元数据更新：
+
+- 使用 America/Los_Angeles 当地日期写入 `RECENTLY_ADDED.md` 的“加入日期”；
+- 把新批次放在表格最上方，并在批内按加入顺序倒排；
+- 更新编号、去重，并保持正式域名 `animal.prismbase.org`；
+- 首页从该文件读取最新日期和当日新增数量，中英文公告都明确显示日期、“新增动物”和“双语 Quick Facts”；
+- 展开“最近完成”列表时，同样显示最新批次日期、数量与 Quick Facts 提示。
+
+完成后要实际检查首页最前面的卡片顺序；不能只检查 `RECENTLY_ADDED.md` 文本。
 
 发布摘要必须记录：物种名称、content version、关键来源、IUCN 评估、图片来源与许可证、人工图片审核结论、QC 结果。任何一步存在未解决疑点时都不能 finalize。
 

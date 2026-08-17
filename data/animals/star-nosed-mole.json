@@ -1,0 +1,440 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Accepted species identity, current global IUCN category, institutional sources, numbers, qualifiers, English/Chinese claim alignment, representative-point range disclosure and image identification criteria were reviewed."
+  },
+  "id": "star-nosed-mole",
+  "name_zh": "星鼻鼹",
+  "name_en": "Star-nosed Mole",
+  "scientific_name": "Condylura cristata",
+  "ui_tags": [
+    "Mammal",
+    "Wetland",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Eulipotyphla",
+      "zh": "真盲缺目"
+    },
+    "family": {
+      "en": "Talpidae",
+      "zh": "鼹科"
+    },
+    "genus": {
+      "en": "Condylura",
+      "zh": "星鼻鼹属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "Current global category checked on 2026-08-16 through the IUCN-linked GBIF category endpoint.",
+    "note_zh": "已于2026-08-16通过关联IUCN的GBIF类别接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The star-nosed mole is a small, dark-furred mammal that lives in the wet lowlands of eastern North America. Its most famous feature is the pink, star-shaped ring of 22 tentacles circling its nostrils. These tentacles are packed with touch receptors, making the mole's nose one of the most sensitive organs in the animal kingdom.",
+    "zh": "星鼻鼹是一种生活在北美东部湿地的小型深色毛皮哺乳动物。它最著名的特征是鼻孔周围由22条触手组成的粉红色星形环。这些触手上布满了触觉感受器，使星鼻鼹的鼻子成为动物界中最灵敏的器官之一。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The star-nosed mole has a stocky body about the size of a hamster, covered in dense, waterproof dark brown fur. Its front feet are large and equipped with strong claws for digging. The distinctive star on its nose consists of 22 pink tentacles called rays, which are constantly moving and searching. Although it has very small eyes, the mole relies mostly on its star to feel its way around.",
+      "zh": "星鼻鼹体型粗壮，大约和仓鼠差不多大，覆盖着浓密、防水的深棕色皮毛。它的前脚很大，带有强壮的爪子，用于挖掘。它鼻子上的独特星形由22条粉红色触手（称为“条”）组成，它们不停地移动和搜寻。虽然它的眼睛非常小，但星鼻鼹主要依靠它的星形鼻子来感知周围环境。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Star-nosed moles are excellent swimmers and often hunt in streams and ponds. They are active both day and night, searching for earthworms, aquatic insects, and other small prey. They dig complex tunnel systems under damp soil, and in winter they may tunnel under snow or even swim under ice. They are almost constantly eating because of their very high metabolism.",
+      "zh": "星鼻鼹是出色的游泳者，经常在溪流和池塘中觅食。它们白天和夜晚都很活跃，寻找蚯蚓、水生昆虫和其他小型猎物。它们在潮湿的土壤下挖掘复杂的隧道系统，冬季还可能在雪下挖隧道，甚至在冰下游泳。由于新陈代谢非常快，它们几乎总在进食。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "The star-nosed mole lives in moist lowland areas across eastern North America, from Manitoba and Ontario east to Newfoundland, and south to the Carolinas and the northeastern United States. It is found in marshes, swamps, and along the banks of streams and lakes. This mole prefers places where the soil is soft and wet, so it can dig easily.",
+      "zh": "星鼻鼹生活在北美东部湿润的低地地区，从马尼托巴省和安大略省向东到纽芬兰，向南到卡罗来纳州和美国东北部。它们出现在沼泽、湿地以及溪流和湖泊岸边。这种鼹鼠喜欢土壤柔软湿润的地方，这样便于挖掘。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Total length about 15–20 cm, including the tail",
+          "zh": "含尾全长约15–20厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 35–75 g",
+          "zh": "约35–75克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Insects, worms, aquatic invertebrates, and small fish",
+          "zh": "昆虫、蠕虫、水生无脊椎动物和小鱼"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Active day and night, year-round",
+          "zh": "昼夜活动，全年活跃"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会结构"
+        },
+        "value": {
+          "en": "Usually solitary; seasonal pairs and loose colonies have been reported",
+          "zh": "通常独居；也有季节性配对和松散群居的记录"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "reproduction",
+        "label": {
+          "en": "Reproduction",
+          "zh": "繁殖"
+        },
+        "value": {
+          "en": "One litter of 2–7 young per year; gestation ~45 days",
+          "zh": "每年一窝2-7只幼崽；妊娠约45天"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "2–4 years in the wild",
+          "zh": "野外寿命2-4年"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Mating happens in late winter or early spring. After about 45 days, the female gives birth to a litter of 2 to 7 blind and hairless babies in a warm underground nest. The mother nurses them for about three weeks, and the young begin to explore and hunt on their own by early summer. They reach adult size in about 10 months.",
+      "zh": "交配发生在冬末或早春。大约45天后，雌性在温暖的地下巢穴中产下一窝2至7只失明且无毛的幼崽。母亲哺育它们约三周，幼崽在初夏开始独立探索和捕猎。它们大约在10个月后达到成年体型。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Star tentacles",
+          "zh": "星形触手"
+        },
+        "detail": {
+          "en": "The 22 tentacles on the nose are covered in about 25,000 tiny touch receptors (Eimer's organs) that can detect the slightest movement. The mole constantly waves the tentacles to feel for food, and can identify prey in as little as 120 milliseconds.",
+          "zh": "鼻子上的22条触手覆盖着大约25,000个微小的触觉感受器（艾默氏器），能察觉最微小的动静。星鼻鼹不断挥动触手来寻找食物，只需120毫秒就能识别猎物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Underwater smelling",
+          "zh": "水下嗅觉"
+        },
+        "detail": {
+          "en": "The star-nosed mole can smell underwater by exhaling air bubbles onto objects and then re-inhaling the bubbles. This lets it track the scent of prey in streams and ponds.",
+          "zh": "星鼻鼹可以呼出水泡并在水下重新吸入，从而闻到物体的气味。这使得它能在溪流和池塘中追踪猎物的气味。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Swimming and digging",
+          "zh": "游泳与挖掘"
+        },
+        "detail": {
+          "en": "It has partly webbed hind feet and a long, scaly tail that works like a rudder for swimming. Its large front feet with strong claws are perfect for digging through wet soil.",
+          "zh": "它的后足有半蹼，长而鳞状的尾巴在水中起到舵的作用。大而有力的前脚和爪子非常适合在湿土中挖掘。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Water-resistant fur",
+          "zh": "防水皮毛"
+        },
+        "detail": {
+          "en": "The mole's dense, fine fur traps air and keeps its skin dry when it dives. This helps it stay warm and reduces drag while swimming.",
+          "zh": "鼹鼠浓密细软的毛发会锁住空气，使皮肤在潜水时保持干燥，既保暖又减少游泳时的阻力。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a predator of earthworms and insect larvae, the star-nosed mole helps control insect populations. Its burrowing turns and aerates the soil, improving water drainage and plant growth. In turn, the mole is prey for owls, hawks, foxes, and snakes.",
+      "zh": "作为蚯蚓和昆虫幼虫的捕食者，星鼻鼹有助于控制昆虫数量。它的挖掘活动能翻动并疏松土壤，改善排水和植物生长。同时，星鼻鼹也是猫头鹰、鹰、狐狸和蛇的猎物。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The main threat is loss and degradation of wetland habitats from agriculture, urban development, and pollution. They are also occasionally caught as bycatch in mole traps.",
+        "zh": "主要威胁来自农业、城市发展和污染导致的湿地栖息地丧失和退化。它们也偶尔会在捕鼹陷阱中被误捕。"
+      },
+      "actions": {
+        "en": "Protection of wetlands and reduced pesticide use benefit this species. Because it has a wide range, it is not currently considered threatened.",
+        "zh": "保护湿地和减少使用杀虫剂对该物种有益。由于其分布广泛，目前不被视为受威胁。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Star-shaped nose with 22 pink tentacles; dark brown, almost black fur; large, flat front feet with strong claws; long, thick, scaly tail.",
+        "zh": "星形鼻子，有22条粉红色触手；深棕色至黑色皮毛；大而扁平的前脚，带有强壮的爪子；长而粗壮的鳞状尾巴。"
+      },
+      "similar_species": {
+        "en": "Other North American moles (such as the Eastern mole and Hairy-tailed mole) lack the star-nosed tentacles and usually have shorter, sparser tails. The star-nosed mole is also more closely tied to water.",
+        "zh": "其他北美鼹鼠（如东部鼹鼠和毛尾鼹鼠）没有星形触手，尾巴通常较短且毛较稀疏。星鼻鼹也更依赖水生环境。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "The star-nosed mole has very small eyes and probably can only tell light from dark. Its primary sense is touch, using the star to create a detailed picture of its surroundings. It also has a good sense of smell and hearing, which helps it find food and avoid predators.",
+      "zh": "星鼻鼹的眼睛非常小，可能只能分辨明暗。它的主要感觉是触觉，利用星形鼻子来构建周围环境的详细图像。它还有敏锐的嗅觉和听觉，这有助于寻找食物和躲避捕食者。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "In late winter and early spring, moles mate. Young are born in April or May and leave the nest in early summer. During autumn and winter, they may shift to higher ground and build nests above the waterline, sometimes tunneling under snow.",
+      "zh": "星鼻鼹在冬末和早春交配，幼崽于春季出生并在初夏离巢。秋冬季仍会活动，有时在雪下挖掘，也会游入冰层下的水中。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Star-nosed moles rarely interact with humans because they live in wetlands and underground. Sometimes they dig through lawns near wet areas, leaving ridges and dirt mounds. But by eating insect pests, they actually help farmers and gardeners.",
+      "zh": "星鼻鼹生活在地下和湿地中，很少与人类互动。有时它们会在湿地附近的草坪下挖掘，留下土垄和小土堆。但通过捕食害虫，它们实际上帮助了农民和园丁。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "The star-nosed mole is the only living species in the genus Condylura. It is a true mole in Talpidae, but differs from most other North American moles in being strongly associated with wetlands and regularly hunting underwater.",
+      "zh": "星鼻鼹是星鼻鼹属唯一现生物种，属于鼹科的真正鼹鼠；但它与多数北美鼹鼠不同，和湿地关系密切，并经常在水下捕食。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for shallow, winding tunnels in wet meadows, often with small volcano-like mounds of earth. Along streams, you may also see small burrow entrances at the waterline. The star-shaped nose imprint or tracks may appear in soft mud.",
+      "zh": "在潮湿的草地中，寻找浅而弯曲的隧道，通常有小型火山状的土堆。在溪流边，水面附近可能有小的洞穴入口。在软泥中可能出现星形鼻子印迹或足迹。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The star-nosed mole is the fastest eater of any mammal—it can find and swallow a piece of food in less than 120 milliseconds.",
+          "zh": "星鼻鼹是哺乳动物中进食最快的——它能在不到120毫秒内找到并吞下一块食物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "It is the only mammal known to smell underwater by blowing out air bubbles and then sniffing them back in.",
+          "zh": "它是已知唯一能通过呼出气泡再吸回来在水下闻气味的哺乳动物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The star contains roughly 25,000 microscopic touch receptors, or Eimer's organs, on its 22 tentacles.",
+          "zh": "星形鼻子的22条触手上约有25,000个微小触觉感受器（艾默氏器）。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Despite living in tunnels, star-nosed moles are strong swimmers and have been observed hunting under ice in winter.",
+          "zh": "虽然住在隧道里，星鼻鼹却是游泳健将，冬季还曾在冰下捕食。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Reproduction and lactation",
+          "zh": "繁殖与哺乳"
+        },
+        "content": {
+          "en": "Mothers give birth to a single litter each year. The young are blind and helpless at birth, but after about three weeks of nursing they open their eyes and start to move. By the time they are a month old, they have learned to hunt with their star-nosed organs.",
+          "zh": "雌性每年产一窝。幼崽出生时失明无助，但哺乳约三周后睁开眼睛并开始活动。到一个月大时，它们已经学会用星形鼻器官捕猎。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "High metabolism",
+          "zh": "高代谢"
+        },
+        "content": {
+          "en": "Star-nosed moles have an extremely fast metabolism and must eat almost constantly. In cold water or winter, they need even more food, so they hunt both day and night and may rest only briefly.",
+          "zh": "星鼻鼹的代谢极快，几乎必须不停地进食。在冷水或冬季，它们需要更多食物，因此昼夜捕猎，只短暂休息。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Social system",
+          "zh": "社会系统"
+        },
+        "content": {
+          "en": "Except during breeding season, star-nosed moles live alone. They defend their tunnel systems from other moles and communicate mainly through touch and scent.",
+          "zh": "除繁殖季节外，星鼻鼹独居。它们保护自己的隧道系统不受其他鼹鼠侵扰，主要通过触觉和气味交流。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Wet habitats in eastern North America",
+    "text_zh": "北美洲东部的湿润栖息地",
+    "map_coordinates": [
+      45,
+      -75
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This is a new record with no previous map geometry. Authoritative range pages and the IUCN-linked assessment were checked, but reusable verified polygon coordinates were not available for import; the map therefore shows one clearly labelled representative point, not the species' full range.",
+      "comparison_zh": "这是没有旧地图几何的新记录。已检查权威分布页面及关联IUCN的评估，但没有可导入的经过核实且可复用的多边形坐标；因此地图只显示一个明确标注的代表点，并不表示该物种的完整分布范围。",
+      "checked_at": "2026-08-16"
+    }
+  },
+  "image": "/images/animals/star-nosed-mole.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Global Biodiversity Information Facility (GBIF) Species API",
+      "url": "https://api.gbif.org/v1/species/2436248",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category (taxon 41458) via the GBIF IUCN endpoint",
+      "url": "https://api.gbif.org/v1/species/2436248/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Condylura_cristata/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Condylura_cristata/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Condylura_cristata/",
+      "checked_at": "2026-08-16"
+    }
+  }
+}

@@ -12,6 +12,11 @@ interface WishlistEntry {
   scientific: string;
 }
 
+interface RecentlyAddedEntry extends WishlistEntry {
+  date: string | null;
+  id: string;
+}
+
 type SubmitState =
   | { type: "idle" }
   | { type: "loading" }
@@ -31,7 +36,7 @@ export default function WishlistSection({ lang, compact = false }: WishlistSecti
   const [entries, setEntries] = useState<WishlistEntry[]>([]);
   const [loadingList, setLoadingList] = useState(false);
   const [showRecentlyAdded, setShowRecentlyAdded] = useState(false);
-  const [recentlyAddedEntries, setRecentlyAddedEntries] = useState<{zh: string; en: string; scientific: string; id: string}[]>([]);
+  const [recentlyAddedEntries, setRecentlyAddedEntries] = useState<RecentlyAddedEntry[]>([]);
   const [loadingRecentlyAdded, setLoadingRecentlyAdded] = useState(false);
   const [isOpen, setIsOpen] = useState(false);
 
@@ -102,6 +107,11 @@ export default function WishlistSection({ lang, compact = false }: WishlistSecti
   const resetState = () => {
     setSubmitState({ type: "idle" });
   };
+
+  const latestReleaseDate = recentlyAddedEntries.find((entry) => entry.date)?.date ?? null;
+  const latestReleaseCount = latestReleaseDate
+    ? recentlyAddedEntries.filter((entry) => entry.date === latestReleaseDate).length
+    : 0;
 
   return (
     <section className={compact ? "w-full" : "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16"}>
@@ -303,6 +313,13 @@ export default function WishlistSection({ lang, compact = false }: WishlistSecti
               </div>
             ) : (
               <div className="divide-y divide-white/10">
+                {latestReleaseDate && (
+                  <div className="px-4 py-3 bg-green-900/25 text-green-100 text-sm font-semibold">
+                    {lang === "en"
+                      ? `${latestReleaseDate} · ${latestReleaseCount} new animals · bilingual Quick Facts included`
+                      : `${latestReleaseDate} · 新增${latestReleaseCount}种动物 · 已加入中英双语 Quick Facts`}
+                  </div>
+                )}
                 {/* Header row */}
                 <div className="grid grid-cols-3 px-4 py-2 text-green-200 text-xs font-semibold uppercase tracking-wider bg-green-900/20">
                   <span>{lang === "en" ? "Chinese" : "中文名"}</span>

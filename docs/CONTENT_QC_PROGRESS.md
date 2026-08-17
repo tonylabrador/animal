@@ -4,10 +4,10 @@
 
 ## Summary
 
-- Total animals: 426
-- Rich Content v2 with source QC and line-by-line bilingual QC: 171
+- Total animals: 436
+- Rich Content v2 with source QC and line-by-line bilingual QC: 181
 - Legacy records awaiting migration: 255
-- Completion: 40.1%
+- Completion: 41.5%
 
 ## Reviewed records
 
@@ -40,6 +40,7 @@
 | Army Ant | 布氏游蚁 | Eciton burchellii | 2026-08-16 | Codex source and bilingual audit |
 | Asian Elephant | 亚洲象 | Elephas maximus | 2026-08-16 | Codex source and bilingual audit |
 | Atlantic Herring | 大西洋鲱 | Clupea harengus | 2026-08-16 | Codex source and bilingual audit |
+| Atlantic Puffin | 北极海鹦 | Fratercula arctica | 2026-08-16 | Codex source and bilingual audit |
 | Atlantic spotted dolphin | 大西洋斑海豚 | Stenella frontalis | 2026-08-16 | Codex source and bilingual audit |
 | Australian box jellyfish | 澳大利亚箱水母 | Chironex fleckeri | 2026-08-16 | Codex source and bilingual audit |
 | Axolotl | 墨西哥钝口螈 | Ambystoma mexicanum | 2026-08-16 | Codex source and bilingual audit |
@@ -158,6 +159,7 @@
 | Eurasian Lynx | 欧亚猞猁 | Lynx lynx | 2026-08-16 | Codex source and bilingual audit |
 | Eurasian Magpie | 欧亚喜鹊 | Pica pica | 2026-08-16 | Codex source and bilingual audit |
 | European anglerfish | 欧洲鮟鱇 | Lophius piscatorius | 2026-08-16 | Codex source and bilingual audit |
+| European Hedgehog | 西欧刺猬 | Erinaceus europaeus | 2026-08-16 | Codex source and bilingual audit |
 | European herring gull | 银鸥 | Larus argentatus | 2026-08-16 | Codex source and bilingual audit |
 | European Polecat | 欧洲艾鼬 | Mustela putorius | 2026-08-16 | Codex source and bilingual audit |
 | European Rabbit | 穴兔 | Oryctolagus cuniculus | 2026-08-16 | Codex source and bilingual audit |
@@ -181,8 +183,16 @@
 | Giant Otter | 巨獭 | Pteronura brasiliensis | 2026-08-16 | Codex source and bilingual audit |
 | Giant Pacific Octopus | 北太平洋巨型章鱼 | Enteroctopus dofleini | 2026-08-16 | Codex source and bilingual audit |
 | Giant Panda | 大熊猫 | Ailuropoda melanoleuca | 2026-08-16 | Codex source and bilingual audit |
+| Great Crested Grebe | 凤头䴙䴘 | Podiceps cristatus | 2026-08-16 | Codex source and bilingual audit |
+| Great Hornbill | 双角犀鸟 | Buceros bicornis | 2026-08-16 | Codex source and bilingual audit |
+| Greater Rhea | 大美洲鸵 | Rhea americana | 2026-08-16 | Codex source and bilingual audit |
 | Leaf sheep | 黑岛长足海蛞蝓 | Costasiella kuroshimae | 2026-08-16 | Codex source and bilingual audit |
+| Purple Frog | 紫蛙 | Nasikabatrachus sahyadrensis | 2026-08-16 | Codex source and bilingual audit |
 | Red Ruffed Lemur | 红领狐猴 | Varecia rubra | 2026-08-16 | Codex source and bilingual audit |
+| Rock Hyrax | 岩蹄兔 | Procavia capensis | 2026-08-16 | Codex source and bilingual audit |
+| Short-beaked Echidna | 短吻针鼹 | Tachyglossus aculeatus | 2026-08-16 | Codex source and bilingual audit |
+| Star-nosed Mole | 星鼻鼹 | Condylura cristata | 2026-08-16 | Codex source and bilingual audit |
+| Tuatara | 斑点楔齿蜥 | Sphenodon punctatus | 2026-08-16 | Codex source and bilingual audit |
 | Wildcat | 斑猫 | Felis silvestris | 2026-08-16 | Codex source and bilingual audit |
 
 ## Remaining legacy records by class

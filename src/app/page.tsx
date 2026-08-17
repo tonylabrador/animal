@@ -1,7 +1,8 @@
 import AnimalDashboard from "@/components/AnimalDashboard";
-import { getAnimals } from "@/lib/getAnimals";
+import { getAnimals, getLatestRelease } from "@/lib/getAnimals";
 
 export default function HomePage() {
   const animals = getAnimals();
-  return <AnimalDashboard animals={animals} />;
+  const latestRelease = getLatestRelease();
+  return <AnimalDashboard animals={animals} latestRelease={latestRelease} />;
 }

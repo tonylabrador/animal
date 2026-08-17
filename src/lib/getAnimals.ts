@@ -9,9 +9,29 @@ const IMAGE_ATTRIBUTION_FILE = path.join(process.cwd(), "data", "image-attributi
 
 type ImageAttribution = NonNullable<Animal["image_attribution"]>;
 
+export interface LatestRelease {
+  date: string;
+  animalCount: number;
+}
+
 function getImageAttributions(): Record<string, ImageAttribution> {
   if (!fs.existsSync(IMAGE_ATTRIBUTION_FILE)) return {};
   return JSON.parse(fs.readFileSync(IMAGE_ATTRIBUTION_FILE, "utf8"));
+}
+
+export function getLatestRelease(): LatestRelease | null {
+  if (!fs.existsSync(RECENTLY_ADDED_FILE)) return null;
+  let latestDate: string | null = null;
+  let animalCount = 0;
+  for (const line of fs.readFileSync(RECENTLY_ADDED_FILE, "utf8").split("\n")) {
+    if (!line.trim().startsWith("|") || line.includes("|---") || line.includes("加入日期")) continue;
+    const columns = line.split("|").slice(1, -1).map((column) => column.trim());
+    const date = columns.length >= 6 ? columns[1] : null;
+    if (!date || !/^\d{4}-\d{2}-\d{2}$/.test(date)) continue;
+    if (!latestDate) latestDate = date;
+    if (date === latestDate) animalCount += 1;
+  }
+  return latestDate ? { date: latestDate, animalCount } : null;
 }
 
 /** 读取 data/animals/ 下所有 .json 文件，返回 Animal 数组（若某文件为数组则取首项） */

@@ -1,0 +1,415 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Accepted species identity, current global IUCN category, institutional sources, numbers, qualifiers, English/Chinese claim alignment, representative-point range disclosure and image identification criteria were reviewed."
+  },
+  "id": "greater-rhea",
+  "name_zh": "大美洲鸵",
+  "name_en": "Greater Rhea",
+  "scientific_name": "Rhea americana",
+  "ui_tags": [
+    "Bird",
+    "Grassland",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Rheiformes",
+      "zh": "美洲鸵鸟目"
+    },
+    "family": {
+      "en": "Rheidae",
+      "zh": "美洲鸵鸟科"
+    },
+    "genus": {
+      "en": "Rhea",
+      "zh": "美洲鸵属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危",
+    "note_en": "Current global category checked on 2026-08-16 through the IUCN-linked GBIF category endpoint.",
+    "note_zh": "已于2026-08-16通过关联IUCN的GBIF类别接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The Greater Rhea is the largest flightless bird in the Americas, with long legs, a long neck, and grey-brown feathers. It lives across the grasslands and open woodlands of South America.",
+    "zh": "大美洲鸵是美洲最大的不会飞的鸟，拥有长腿、长颈和灰褐色羽毛。它生活在南美洲的草原和开阔林地中。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults stand about 0.9–1.5 m tall and weigh roughly 15–30 kg. Strong legs end in three-toed feet, while the unusually long wings act like rudders for balance and sharp turns during a run.",
+      "zh": "成鸟身高约0.9–1.5米，体重约15–30千克。强壮双腿末端为三趾足；不会用于飞行的长翼则像方向舵，帮助它们在奔跑中保持平衡并迅速转向。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Greater Rheas are mostly herbivorous, feeding on broad-leafed plants, fruits, seeds, and roots, but they also eat insects, small vertebrates, and occasionally carrion. They live in groups of 5 to 30 individuals, often mixed with other animals like deer and guanaco. When threatened, they run in zigzag patterns and can reach speeds of 60 km/h.",
+      "zh": "大美洲鸵主要吃植物性食物，包括阔叶植物、果实、种子和根，也会吃昆虫、小型脊椎动物，偶尔吃腐肉。它们通常以5至30只的群体活动，常与鹿和原驼等动物混在一起。遇到危险时，它们会以“之”字形奔跑，时速可达60公里。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "This species is found in Argentina, Bolivia, Brazil, Paraguay, and Uruguay, inhabiting grasslands, savannas, and open woodlands. They prefer areas with tall grass and access to water, often near marshes or rivers. Historically they also lived in eastern Peru, but may be locally extinct there.",
+      "zh": "该物种分布于阿根廷、玻利维亚、巴西、巴拉圭和乌拉圭，栖息于草原、稀树草原和开阔林地。它们偏好高草区和靠近水源的地方，常见于沼泽或河流附近。历史上也见于秘鲁东部，但可能已局部灭绝。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "height",
+        "label": {
+          "en": "Height",
+          "zh": "身高"
+        },
+        "value": {
+          "en": "About 0.9–1.5 m",
+          "zh": "约0.9–1.5米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 15–30 kg",
+          "zh": "约15–30千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Broad-leaved plants and clover, plus seeds, roots, fruit, insects and small vertebrates",
+          "zh": "阔叶植物和三叶草，也吃种子、根、果实、昆虫与小型脊椎动物"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动方式"
+        },
+        "value": {
+          "en": "Diurnal and ground-dwelling",
+          "zh": "昼行，地栖"
+        },
+        "source_keys": [
+          "general",
+          "ecology"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会结构"
+        },
+        "value": {
+          "en": "Usually groups outside the nesting phase",
+          "zh": "非筑巢阶段通常结群"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "nesting",
+        "label": {
+          "en": "Nesting",
+          "zh": "筑巢育幼"
+        },
+        "value": {
+          "en": "The male incubates and cares for chicks",
+          "zh": "由雄鸟孵卵并照顾雏鸟"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "incubation",
+        "label": {
+          "en": "Incubation",
+          "zh": "孵化期"
+        },
+        "value": {
+          "en": "About 6 weeks",
+          "zh": "约6周"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Breeding timing varies across the range and can extend from month 8 into month 1 of the next year. A male courts several females, builds a shallow ground nest and incubates the combined clutch for about 6 weeks. He then guards and cares for the chicks without help from the females.",
+      "zh": "繁殖时间随地区而异，可从8月延续到次年1月。雄鸟会向多只雌鸟求偶，在地面建造浅巢，并独自把多只雌鸟产在同一巢中的卵孵约6周；之后也由雄鸟独自守护和照顾雏鸟。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Wings as rudders",
+          "zh": "翅膀作为舵"
+        },
+        "detail": {
+          "en": "When running at high speed, the wings are held up and spread wide, helping the rhea steer and balance while making sharp turns.",
+          "zh": "高速奔跑时，翅膀张开抬起，帮助鸵鸟在急转弯时转向和保持平衡。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Powerful kicking legs",
+          "zh": "强壮的踢腿"
+        },
+        "detail": {
+          "en": "Each leg has three forward-pointing toes, allowing the rhea to sprint and also defend itself by kicking predators like cougars or dogs.",
+          "zh": "每条腿有三趾向前，使鸵鸟能够疾跑，并能踢腿防御美洲狮或狗等捕食者。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Long neck for scanning",
+          "zh": "长脖子用于观察"
+        },
+        "detail": {
+          "en": "A long neck lets the rhea see above tall grass, spotting danger from a distance while it feeds.",
+          "zh": "长脖子使鸵鸟能从高处望过草丛，在进食时远距离发现危险。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Cryptic feathers",
+          "zh": "隐蔽的羽毛"
+        },
+        "detail": {
+          "en": "The grey-brown plumage camouflages them in dry grass, making them less visible to predators and humans.",
+          "zh": "灰褐色羽毛使它们在干草丛中具有伪装效果，不易被天敌和人类发现。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As they forage over large areas, Greater Rheas disperse seeds in their droppings, helping maintain plant diversity. They also serve as prey for large predators, and their grazing behavior influences grassland structure.",
+      "zh": "由于在广阔区域觅食，大美洲鸵通过粪便传播种子，有助于维持植物多样性。它们也是大型捕食者的猎物，其觅食行为影响草原结构。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Main threats include hunting for meat, skin and feathers, habitat conversion to agriculture, and collisions with fences. In some areas, egg collection and predation by introduced species like wild pigs and dogs also reduce populations.",
+        "zh": "主要威胁包括猎杀以获取肉、皮和羽毛，栖息地转化为农业用地，以及撞击围栏。在一些地区，捡蛋和野猪、狗等外来物种的捕食也导致种群下降。"
+      },
+      "actions": {
+        "en": "Conservation measures include legal protection in most countries, establishment of protected areas, and community-based management. Research and monitoring are ongoing across its range, and captive breeding has taken place in some zoos.",
+        "zh": "保护措施包括在大多数国家进行法律保护，建立保护区，以及社区共管。目前在其分布范围内正在开展研究和监测，一些动物园也进行了人工繁育。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Large flightless bird with a gray-brown body, long bare legs, and a long neck. The head is small with a stout beak, and the feathers are soft and fluffy.",
+        "zh": "大型不会飞的鸟，灰褐色身体，长而裸露的腿和长脖子。头小，喙粗壮，羽毛柔软蓬松。"
+      },
+      "similar_species": {
+        "en": "It can be confused with the Lesser Rhea (Rhea pennata), which is smaller, has shorter legs, and lives further south and west in Patagonia and the Andes. The two species rarely overlap.",
+        "zh": "易与小美洲驼（Rhea pennata）混淆，后者体型较小、腿较短，分布于更南更西的巴塔哥尼亚和安第斯山区。两者分布区很少重叠。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Greater Rheas have good vision and hearing, essential for detecting danger. Adults produce a deep booming call during the breeding season, as well as hisses and grunts when threatened or disturbed.",
+      "zh": "大美洲鸵视觉和听觉敏锐，这对察觉危险至关重要。繁殖期成鸟会发出低沉的轰鸣声，受威胁或受惊时会发出嘶嘶声和呼噜声。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Courtship and nesting occur during the southern spring and early summer, with timing varying by locality. Outside breeding, birds often travel and feed in groups; nesting males become solitary and strongly defensive around the brood.",
+      "zh": "求偶与筑巢发生在南半球春季至初夏，具体时间因地区而异。非繁殖期常结群移动、觅食；负责筑巢的雄鸟则会独处，并强烈守护幼鸟。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Greater Rheas have long been hunted for their meat, eggs, feathers, and skin. They are sometimes kept on ranches and have become a symbol of the South American pampas. In recent years, they have been farmed in some countries.",
+      "zh": "大美洲鸵长期被人类猎取肉、蛋、羽毛和皮。它们有时被饲养在牧场，成为南美潘帕斯草原的象征。近年来，一些国家已经对其进行养殖。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Rheas belong to the group of large flightless birds called ratites, along with ostriches, emus, and kiwis. Fossil evidence suggests that ratites evolved from flying ancestors, and their distribution is linked to the breakup of the ancient supercontinent Gondwana.",
+      "zh": "美洲鸵属于大型不会飞的平胸总目鸟类，与鸵鸟、鸸鹋和几维鸟等同类。化石证据表明，平胸总目鸟类由会飞的祖先进化而来，其分布与古冈瓦纳大陆的解体有关。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for large, three-toed footprints, droppings that may contain seeds, and scattered feathers in grasslands. Nests are shallow scrapes lined with grass, usually near water.",
+      "zh": "可寻找大型三趾足迹、含种子的粪便，以及草原上散落的羽毛。巢为浅坑，内垫草，通常靠近水源。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The Greater Rhea is the largest bird in the Americas by weight, but it cannot fly.",
+          "zh": "大美洲鸵是美洲体重最大的鸟，但它不会飞。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Unlike most birds, male rheas build the nest, incubate the eggs, and raise the chicks alone.",
+          "zh": "与大多数鸟类不同，雄性美洲鸵负责筑巢、孵蛋并单独抚养幼鸟。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Rhea chicks can run within a few hours of hatching and grow very quickly.",
+          "zh": "美洲鸵雏鸟破壳后几小时内就能奔跑，且生长迅速。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A group of rheas is sometimes called a 'flock', but they are not migratory.",
+          "zh": "一群美洲鸵有时被称为“群”，但它们并不迁徙。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Nesting and parental care",
+          "zh": "筑巢与亲代抚育"
+        },
+        "content": {
+          "en": "Rheas are unusual among birds because the male does all the nest building and parenting. He scrapes a shallow depression, courts several females, and then incubates 10–60 eggs. After hatching, he leads the chicks and fiercely defends them from predators.",
+          "zh": "美洲鸵在鸟类中很特别，因为雄性负责所有筑巢和亲代抚育工作。它挖一个浅坑，向数只雌鸟求偶，然后孵化10至60枚蛋。雏鸟孵出后，由雄性带领并奋力保护它们免受捕食者侵害。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Open country in central and eastern South America",
+    "text_zh": "南美洲中部与东部的开阔地带",
+    "map_coordinates": [
+      -30,
+      -60
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This is a new record with no previous map geometry. Authoritative range pages and the IUCN-linked assessment were checked, but reusable verified polygon coordinates were not available for import; the map therefore shows one clearly labelled representative point, not the species' full range.",
+      "comparison_zh": "这是没有旧地图几何的新记录。已检查权威分布页面及关联IUCN的评估，但没有可导入的经过核实且可复用的多边形坐标；因此地图只显示一个明确标注的代表点，并不表示该物种的完整分布范围。",
+      "checked_at": "2026-08-16"
+    }
+  },
+  "image": "/images/animals/greater-rhea.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Global Biodiversity Information Facility (GBIF) Species API",
+      "url": "https://api.gbif.org/v1/species/2495165",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category (taxon 22678073) via the GBIF IUCN endpoint",
+      "url": "https://api.gbif.org/v1/species/2495165/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Smithsonian's National Zoo and Conservation Biology Institute",
+      "url": "https://nationalzoo.si.edu/animals/greater-rhea",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Rhea_americana/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Smithsonian's National Zoo and Conservation Biology Institute",
+      "url": "https://nationalzoo.si.edu/animals/greater-rhea",
+      "checked_at": "2026-08-16"
+    }
+  }
+}

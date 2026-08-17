@@ -1,0 +1,405 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Accepted species identity, current global IUCN category, institutional sources, numbers, qualifiers, English/Chinese claim alignment, representative-point range disclosure and image identification criteria were reviewed."
+  },
+  "id": "atlantic-puffin",
+  "name_zh": "北极海鹦",
+  "name_en": "Atlantic Puffin",
+  "scientific_name": "Fratercula arctica",
+  "ui_tags": [
+    "Bird",
+    "Coastal",
+    "Piscivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Charadriiformes",
+      "zh": "鸻形目"
+    },
+    "family": {
+      "en": "Alcidae",
+      "zh": "海雀科"
+    },
+    "genus": {
+      "en": "Fratercula",
+      "zh": "海鹦属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危",
+    "note_en": "Current global category checked on 2026-08-16 through the IUCN-linked GBIF category endpoint.",
+    "note_zh": "已于2026-08-16通过关联IUCN的GBIF类别接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The Atlantic puffin is a small, stocky seabird with striking black-and-white plumage and a large, colorful beak during the breeding season. It is often called the 'clown of the sea' for its distinctive appearance.",
+    "zh": "北极海鹦是一种小巧结实、外形奇特的海鸟。它的身体黑白相间，繁殖季节还会长出鲜艳的大喙。因外形滑稽，它常被称为‘海上小丑’。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Atlantic puffin is about 28–30 cm long with a wingspan of 50–60 cm. Its black-and-white plumage, orange legs and huge triangular beak make it unmistakable. The beak is grey in winter, but in spring it grows bright colored plates of yellow, blue and orange, which are shed after breeding.",
+      "zh": "北极海鹦体长约28至30厘米，翼展约50至60厘米。它拥有黑白分明的羽毛、橙色的双腿和巨大的三角形喙。喙在冬季呈灰色，而春季会换成鲜艳的黄、蓝、橙三色，繁殖结束后脱落。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Puffins are colonial seabirds, nesting on grassy slopes and rocky cliffs of islands. They use their wings to 'fly' underwater when hunting, and can dive to depths of 60 meters. They usually forage close to the colony, and outside the breeding season they disperse widely into the open ocean.",
+      "zh": "北极海鹦是群居海鸟，在岛屿的草坡和岩崖上集群繁殖。捕食时，它们像飞鸟一样在水下‘飞行’，能潜入60米深处。它们通常在繁殖地附近觅食，非繁殖期会分散到远洋。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "The Atlantic puffin breeds along the coasts and on islands of the North Atlantic, including eastern Canada, Maine (USA), Greenland, Iceland, Faroe Islands, the UK, Ireland, Norway, and parts of France and Spain. In winter, it roams the open ocean across the North Atlantic.",
+      "zh": "北极海鹦在北大西洋沿岸和岛屿繁殖，包括加拿大东部、美国缅因州、格陵兰、冰岛、法罗群岛、英国、爱尔兰、挪威以及法国和西班牙的部分地区。冬季则散布于整个北大西洋的开放海域。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Length about 28–30 cm; wingspan about 50–60 cm",
+          "zh": "体长约28–30厘米；翼展约50–60厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 380–500 g",
+          "zh": "约380–500克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "A long-lived seabird; documented individuals can exceed 30 years",
+          "zh": "长寿海鸟；有记录的个体可超过30年"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Small fish (sandeels, herring, capelin) and marine invertebrates",
+          "zh": "小型鱼类（玉筋鱼、鲱鱼、毛鳞鱼）和海洋无脊椎动物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "reproduction",
+        "label": {
+          "en": "Reproduction",
+          "zh": "繁殖"
+        },
+        "value": {
+          "en": "1 egg per breeding attempt; incubation about 40 days",
+          "zh": "每次繁殖通常产1枚卵；孵化约40天"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "depth",
+        "label": {
+          "en": "Maximum dive depth",
+          "zh": "最大下潜深度"
+        },
+        "value": {
+          "en": "Up to 60 m",
+          "zh": "可达60米"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Atlantic puffins begin breeding only after several years. They form long-term pairs and often reuse the same burrow. A pair raises 1 egg, shares incubation for about 40 days, and feeds the chick whole fish until it leaves after roughly 6 weeks.",
+      "zh": "北极海鹦要经过数年才开始繁殖。它们会形成长期配偶关系，并常重复使用同一个洞穴。每对亲鸟养育1枚卵，共同孵化约40天，并用整条小鱼喂养雏鸟；雏鸟约6周后离巢。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Colorful beak",
+          "zh": "彩色大喙"
+        },
+        "detail": {
+          "en": "During the breeding season, the beak grows bright orange, yellow, and blue plates used to attract a mate. After breeding, these plates are shed and the beak becomes smaller and duller.",
+          "zh": "繁殖季节，喙上会长出鲜艳的橙、黄、蓝三色角质片，用来吸引配偶。繁殖后这些角质片脱落，喙变得小而暗。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Swimming wings",
+          "zh": "游泳翅膀"
+        },
+        "detail": {
+          "en": "Its short, strong wings act like paddles, allowing the puffin to 'fly' underwater and catch fast-moving fish.",
+          "zh": "它短而强壮的翅膀像船桨一样，使北极海鹦能在水下‘飞行’，追捕快速游动的鱼类。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Barbed tongue and palate",
+          "zh": "带刺的舌和上腭"
+        },
+        "detail": {
+          "en": "Backward-pointing spines on the tongue and palate help the puffin hold multiple fish at once while still opening its beak to catch more.",
+          "zh": "舌和上腭上向后倒的小刺帮助北极海鹦一边用嘴叼住多条鱼，一边还能张开嘴继续捕食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Burrow nesting",
+          "zh": "洞穴筑巢"
+        },
+        "detail": {
+          "en": "Strong claws dig sheltered burrows in soil or turf, helping protect the egg and chick from bad weather and some predators.",
+          "zh": "强健的爪可以在土壤或草皮中挖出隐蔽洞穴，帮助卵和雏鸟躲避恶劣天气及部分捕食者。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Puffins control prey populations and are important prey for predators like great black-backed gulls, eagles, and Arctic foxes. Their burrowing activity enriches soil and creates habitats for other animals.",
+      "zh": "北极海鹦控制猎物种群的数量，同时是黑背鸥、鹰和北极狐等捕食者的重要猎物。它们的挖洞活动能肥沃土壤，为其他动物创造栖息环境。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Main threats include climate change, overfishing, pollution (especially oil spills), predation by introduced mammals, and disturbance at breeding colonies.",
+        "zh": "主要威胁包括气候变化导致食物减少、过度捕捞、石油泄漏，以及外来哺乳动物（如鼠和猫）的捕食。"
+      },
+      "actions": {
+        "en": "Conservation efforts include protecting and restoring colonies, controlling invasive predators, monitoring populations, and reducing bycatch and oil pollution.",
+        "zh": "保护措施包括监测种群、保护繁殖地、清除岛屿外来物种，以及减少误捕和污染。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A small stocky seabird about the size of a pigeon, with a black cap and back, white cheeks and underparts, and a massive triangular beak coloured red, yellow and blue during the breeding season. It has orange legs and a distinctive white face patch.",
+        "zh": "一种体型短粗的小型海鸟，体型如鸽子，头顶和背部黑色，脸颊和腹部白色，繁殖季节喙大而呈三角形，有红、黄、蓝三色。腿为橙色，面部有独特的白色斑块。"
+      },
+      "similar_species": {
+        "en": "In the North Atlantic, the Razorbill has a similar black-and-white body but its beak is black, tall and blunt, without the colorful plates. The Common Murre is similar in color but is larger, slimmer, and has a longer, pointed beak.",
+        "zh": "在北大西洋，刀嘴海雀有相似的黑白体色，但它的喙为黑色，高而钝，没有彩色角质片。普通海鸠颜色相似，但体型更大、更纤细，喙更尖长。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Puffins are mostly silent at sea but in colonies they produce low growling calls. They also use visual displays, such as head flicking and gaping, to communicate. Their eyes are well adapted for both vision in air and underwater.",
+      "zh": "北极海鹦在海面上大多安静，但在繁殖群中会发出低沉的咆哮声。它们还通过摇头、张嘴等视觉信号进行交流。它们的眼睛能很好地适应空气和水中的视觉。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Adults return to nesting colonies in spring, lay in late spring or early summer, and rear chicks through summer. After breeding they disperse at sea across the North Atlantic and spend the winter away from their nesting burrows.",
+      "zh": "成鸟在春季返回繁殖群落，于春末或夏初产卵，并在夏季育雏。繁殖结束后，它们分散到北大西洋海上越冬，远离筑巢洞穴。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Historically, puffins were hunted for their meat, eggs, and feathers. Today, hunting is limited and regulated in some areas, and puffin colonies attract many tourists, especially in Iceland and the Faroe Islands.",
+      "zh": "历史上，北极海鹦因其肉、蛋和羽毛而被捕猎。如今，在某些地区，捕猎受到限制和管理，而海鹦群体成为重要旅游景点，尤其在冰岛和法罗群岛。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "The Atlantic puffin is one of 3 living species in the puffin genus Fratercula, within the auk family. Its closest living congeners are the horned puffin and tufted puffin of the North Pacific.",
+      "zh": "北极海鹦是海鹦属现生3个物种之一，隶属海雀科；其现生同属近亲是北太平洋的角海鹦和簇羽海鹦。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for burrows in grassy slopes, with droppings and fish bones near entrances. Puffins often fly low over the water in stiff-winged bursts, and in colonies you can hear their low growls.",
+      "zh": "在草坡上观察洞穴，洞口附近常散布粪便和鱼骨。北极海鹦常以僵硬的翅膀低空掠水飞行，繁殖群中能听到低沉的咆哮声。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Backward-pointing spines on a puffin's tongue and palate help it grip several fish at once.",
+          "zh": "北极海鹦舌和上腭上的倒刺能帮助它一次抓住多条鱼。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A baby puffin is called a 'puffling'.",
+          "zh": "北极海鹦的雏鸟被称为‘puffling’。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Puffins often return to the same burrow year after year and form long-term pair bonds.",
+          "zh": "北极海鹦常连续多年回到同一个洞穴，并与伴侣形成长期配对关系。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Nesting behavior",
+          "zh": "筑巢行为"
+        },
+        "content": {
+          "en": "Atlantic puffins nest in colonies, digging a burrow or using a rocky crevice. They line the nest with grass and feathers. Both parents are involved in building and defending the site.",
+          "zh": "北极海鹦在群巢中繁殖，挖掘洞穴或利用岩缝。它们用草和羽毛铺垫巢穴。双亲共同参与筑巢和保卫巢址。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Migration",
+          "zh": "迁徙"
+        },
+        "content": {
+          "en": "After the breeding season, adult and young puffins leave the colony and migrate to the open sea. They may travel hundreds of kilometers from land, and return the next spring.",
+          "zh": "繁殖季节结束后，成鸟和幼鸟离开繁殖地，向远洋迁移。它们可能离开陆地数百公里，次年春天再返回。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "North Atlantic breeding coasts and offshore waters",
+    "text_zh": "北大西洋繁殖海岸与外海水域",
+    "map_coordinates": [
+      64.96,
+      -19.02
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This is a new record with no previous map geometry. Authoritative range pages and the IUCN-linked assessment were checked, but reusable verified polygon coordinates were not available for import; the map therefore shows one clearly labelled representative point, not the species' full range.",
+      "comparison_zh": "这是没有旧地图几何的新记录。已检查权威分布页面及关联IUCN的评估，但没有可导入的经过核实且可复用的多边形坐标；因此地图只显示一个明确标注的代表点，并不表示该物种的完整分布范围。",
+      "checked_at": "2026-08-16"
+    }
+  },
+  "image": "/images/animals/atlantic-puffin.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Global Biodiversity Information Facility (GBIF) Species API",
+      "url": "https://api.gbif.org/v1/species/2481353",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category (taxon 22694927) via the GBIF IUCN endpoint",
+      "url": "https://api.gbif.org/v1/species/2481353/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Fratercula_arctica/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "BirdLife International DataZone",
+      "url": "https://datazone.birdlife.org/species/factsheet/atlantic-puffin-fratercula-arctica",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "BirdLife International DataZone",
+      "url": "https://datazone.birdlife.org/species/factsheet/atlantic-puffin-fratercula-arctica",
+      "checked_at": "2026-08-16"
+    }
+  }
+}

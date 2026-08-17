@@ -24,6 +24,7 @@ Read `docs/ADD_ANIMAL_WORKFLOW.md` and `docs/RICH_CONTENT_SCHEMA.md` completely 
 9. Visually inspect every candidate against `rich_content.identification.key_features` and `similar_species`. Reject maps, illustrations, signs, toys, unclear subjects, captive hybrids, ambiguous close relatives, and images lacking an allowed license.
 10. Approve a candidate only when species identity, visible evidence, attribution, and license all pass. Otherwise reject it or hide an unverifiable existing image.
 11. Test both English and Chinese map modes. Confirm the English tile source loads, the Chinese domestic primary source loads, the Chinese backup activates when the primary is blocked, and point-only maps are visibly labelled as representative locations rather than full ranges. Run `npm run qc` and `npm run report:content-qc`, rebuild the list and taxonomy tree, and finalize only the exact records that passed all gates. Never remove failed entries from the wishlist.
+12. Finalization must update `RECENTLY_ADDED.md` with the Los Angeles release date and prepend the approved batch. Preserve the user's newest-first rule: reverse insertion order within one release, so the animal added last appears first. The homepage release banner and recently-added panel must show that date, the batch count, and that bilingual Quick Facts are included; verify both English and Chinese renderings. Never append a new release below older animals.
 
 ## Apply class-specific depth
 

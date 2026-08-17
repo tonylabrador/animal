@@ -19,7 +19,19 @@ const RECENT_PATH = path.join(ROOT, "RECENTLY_ADDED.md");
 const DRAFT_PATH = path.join(ROOT, "_draft_animals.json");
 const ANIMALS_DIR = path.join(ROOT, "data", "animals");
 const MANIFEST_PATH = path.join(ROOT, "data", "image-attribution.json");
-const BATCH_SIZE = 5;
+const DEFAULT_BATCH_SIZE = 5;
+const EDITORIAL_TAG_OVERRIDES = {
+  "Tachyglossus aculeatus": ["Mammal", "Forest", "Insectivore"],
+  "Procavia capensis": ["Mammal", "Mountains", "Herbivore"],
+  "Rhea americana": ["Bird", "Grassland", "Omnivore"],
+  "Fratercula arctica": ["Bird", "Coastal", "Piscivore"],
+  "Sphenodon punctatus": ["Reptile", "Island", "Carnivore"],
+  "Erinaceus europaeus": ["Mammal", "Urban", "Omnivore"],
+  "Condylura cristata": ["Mammal", "Wetland", "Carnivore"],
+  "Podiceps cristatus": ["Bird", "Freshwater", "Piscivore"],
+  "Buceros bicornis": ["Bird", "Forest", "Frugivore"],
+  "Nasikabatrachus sahyadrensis": ["Amphibian", "Forest", "Insectivore"],
+};
 
 const GENERATE_PROMPT = `You create source-backed bilingual species records for Wild Explorer, a children's wildlife encyclopedia.
 Return exactly one raw JSON object, with no Markdown. The JSON must use content_version 2 and follow the schema below.
@@ -87,7 +99,15 @@ Required shape (all shown fields are required):
 
 function parseArgs() {
   const index = process.argv.indexOf("--finalize");
-  return { finalize: index >= 0 ? (process.argv[index + 1] || "").split(",").filter(Boolean) : [] };
+  const batchSizeIndex = process.argv.indexOf("--batch-size");
+  const requestedBatchSize = batchSizeIndex >= 0 ? Number(process.argv[batchSizeIndex + 1]) : DEFAULT_BATCH_SIZE;
+  if (!Number.isInteger(requestedBatchSize) || requestedBatchSize < 1 || requestedBatchSize > 50) {
+    throw new Error("--batch-size must be an integer from 1 to 50");
+  }
+  return {
+    finalize: index >= 0 ? (process.argv[index + 1] || "").split(",").filter(Boolean) : [],
+    batchSize: requestedBatchSize,
+  };
 }
 
 function parseWishlist() {
@@ -115,7 +135,7 @@ async function callGenerator(entry) {
         { role: "user", content: `${entry.zh} | ${entry.en} | ${entry.scientific}` },
       ],
       temperature: 0.1,
-      max_tokens: 12000,
+      max_tokens: 20000,
       response_format: { type: "json_object" },
     }),
   });
@@ -128,34 +148,100 @@ async function callGenerator(entry) {
   return JSON.parse(choice.message?.content || "");
 }
 
+async function callGeneratorWithRetry(entry, attempts = 3) {
+  let lastError;
+  for (let attempt = 1; attempt <= attempts; attempt += 1) {
+    try {
+      return await callGenerator(entry);
+    } catch (error) {
+      lastError = error;
+      console.warn(`${entry.en}: generation attempt ${attempt}/${attempts} failed (${error.message})`);
+    }
+  }
+  throw lastError;
+}
+
 function writeAtomic(filePath, content) {
   const temporary = `${filePath}.tmp`;
   fs.writeFileSync(temporary, content, "utf8");
   fs.renameSync(temporary, filePath);
 }
 
-async function prepareDraft() {
+function releaseDateInLosAngeles() {
+  const parts = new Intl.DateTimeFormat("en-US", {
+    timeZone: "America/Los_Angeles",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).formatToParts(new Date());
+  const value = Object.fromEntries(parts.map((part) => [part.type, part.value]));
+  return `${value.year}-${value.month}-${value.day}`;
+}
+
+function parseRecentRows(content) {
+  const rows = [];
+  for (const line of content.split("\n")) {
+    if (!line.trim().startsWith("|") || line.includes("|---") || line.includes("加入日期")) continue;
+    const columns = line.split("|").slice(1, -1).map((column) => column.trim());
+    if (columns.length < 5) continue;
+    const hasDate = columns.length >= 6;
+    const link = columns[hasDate ? 5 : 4];
+    const id = link.match(/\/animal\/([^)]+)/)?.[1];
+    if (!id) continue;
+    rows.push({
+      date: hasDate ? columns[1] : "—",
+      zh: columns[hasDate ? 2 : 1],
+      en: columns[hasDate ? 3 : 2],
+      scientific: columns[hasDate ? 4 : 3],
+      id,
+    });
+  }
+  return rows;
+}
+
+function renderRecentlyAdded(rows) {
+  const header = `# ✅ Recently Added Animals
+
+> Newest additions are listed first. Entries added in the same release use reverse insertion order, so the last animal added appears first.
+
+| # | 加入日期 | 中文名 | English Name | Scientific Name | Link |
+|---|----------|--------|--------------|-----------------|------|`;
+  const body = rows.map((row, index) =>
+    `| ${index + 1} | ${row.date || "—"} | ${row.zh} | ${row.en} | ${row.scientific} | [Link](https://animal.prismbase.org/animal/${row.id}) |`
+  ).join("\n");
+  return `${header}\n${body}\n`;
+}
+
+async function prepareDraft(batchSize) {
   const existingDraft = JSON.parse(fs.readFileSync(DRAFT_PATH, "utf8"));
   if (!Array.isArray(existingDraft) || existingDraft.length > 0) {
     throw new Error("Draft is not empty. Import, archive, or clear it deliberately before preparing another batch.");
   }
   const { entries } = parseWishlist();
-  const batch = entries.slice(0, BATCH_SIZE);
+  const batch = entries.slice(0, batchSize);
   if (batch.length === 0) {
     console.log("✅ No pending wishlist entries.");
     return;
   }
 
   const generated = [];
-  for (const entry of batch) {
-    console.log(`Generating draft: ${entry.zh} / ${entry.en}`);
-    const animal = await callGenerator(entry);
-    if (entry.scientific !== "—" && animal.scientific_name.toLowerCase() !== entry.scientific.toLowerCase()) {
-      throw new Error(`${entry.en}: generator changed scientific name from ${entry.scientific} to ${animal.scientific_name}`);
-    }
-    const result = validateAnimal(animal, { requireRichContent: true });
-    if (result.errors.length > 0) throw new Error(`${entry.en}: ${result.errors.join("; ")}`);
-    generated.push(animal);
+  const generationConcurrency = Math.min(3, batch.length);
+  for (let offset = 0; offset < batch.length; offset += generationConcurrency) {
+    const entries = batch.slice(offset, offset + generationConcurrency);
+    const records = await Promise.all(entries.map(async (entry) => {
+      console.log(`Generating draft: ${entry.zh} / ${entry.en}`);
+      const animal = await callGeneratorWithRetry(entry);
+      if (EDITORIAL_TAG_OVERRIDES[entry.scientific]) {
+        animal.ui_tags = EDITORIAL_TAG_OVERRIDES[entry.scientific];
+      }
+      if (entry.scientific !== "—" && animal.scientific_name.toLowerCase() !== entry.scientific.toLowerCase()) {
+        throw new Error(`${entry.en}: generator changed scientific name from ${entry.scientific} to ${animal.scientific_name}`);
+      }
+      const result = validateAnimal(animal, { requireRichContent: true });
+      if (result.errors.length > 0) throw new Error(`${entry.en}: ${result.errors.join("; ")}`);
+      return animal;
+    }));
+    generated.push(...records);
   }
   writeAtomic(DRAFT_PATH, `${JSON.stringify(generated, null, 2)}\n`);
   console.log(`✅ Prepared ${generated.length} validated draft records. Wishlist was not modified.`);
@@ -195,13 +281,22 @@ function finalize(ids) {
   writeAtomic(WISHLIST_PATH, nextWishlist);
 
   const recentContent = fs.existsSync(RECENT_PATH) ? fs.readFileSync(RECENT_PATH, "utf8") : "";
-  const rows = animals.map((animal) => `| - | ${animal.name_zh} | ${animal.name_en} | ${animal.scientific_name} | [Link](https://wild-explorer.vercel.app/animal/${animal.id}) |`).join("\n");
-  writeAtomic(RECENT_PATH, `${recentContent.trimEnd()}\n${rows}\n`);
+  const finalizedIds = new Set(animals.map((animal) => animal.id));
+  const priorRows = parseRecentRows(recentContent).filter((row) => !finalizedIds.has(row.id));
+  const date = releaseDateInLosAngeles();
+  const newRows = [...animals].reverse().map((animal) => ({
+    date,
+    zh: animal.name_zh,
+    en: animal.name_en,
+    scientific: animal.scientific_name,
+    id: animal.id,
+  }));
+  writeAtomic(RECENT_PATH, renderRecentlyAdded([...newRows, ...priorRows]));
   console.log(`✅ Finalized ${ids.length} approved animals and removed only their exact wishlist rows.`);
 }
 
 const args = parseArgs();
-Promise.resolve(args.finalize.length > 0 ? finalize(args.finalize) : prepareDraft()).catch((error) => {
+Promise.resolve(args.finalize.length > 0 ? finalize(args.finalize) : prepareDraft(args.batchSize)).catch((error) => {
   console.error(`❌ ${error.message}`);
   process.exit(1);
 });

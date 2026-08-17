@@ -1,0 +1,428 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Accepted species identity, current global IUCN category, institutional sources, numbers, qualifiers, English/Chinese claim alignment, representative-point range disclosure and image identification criteria were reviewed."
+  },
+  "id": "great-crested-grebe",
+  "name_zh": "凤头䴙䴘",
+  "name_en": "Great Crested Grebe",
+  "scientific_name": "Podiceps cristatus",
+  "ui_tags": [
+    "Bird",
+    "Freshwater",
+    "Piscivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Podicipediformes",
+      "zh": "䴙䴘目"
+    },
+    "family": {
+      "en": "Podicipedidae",
+      "zh": "䴙䴘科"
+    },
+    "genus": {
+      "en": "Podiceps",
+      "zh": "䴙䴘属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "Current global category checked on 2026-08-16 through the IUCN-linked GBIF category endpoint.",
+    "note_zh": "已于2026-08-16通过关联IUCN的GBIF类别接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The Great Crested Grebe is a graceful water bird with a long slim neck and a dagger-like bill. In summer, it wears a dark brown double crest, a black head with rust-red cheeks, and a white face that makes it easy to identify. It is the largest grebe in Europe and is equally at home on lakes, rivers, and reservoirs.",
+    "zh": "凤头䴙䴘是一种姿态优雅的水鸟，脖子细长，嘴巴像匕首。夏季，它长有深棕色的双冠，黑色的头部和锈红色的脸颊，白色面孔让它容易识别。它是欧洲最大的䴙䴘，同样常见于湖泊、河流和水库。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The body of the Great Crested Grebe is about 46–51 cm long and is built for diving. Its legs are set far back on the body, and each toe has a lobed web that works like a paddle underwater. While swimming, the bird often holds its neck upright, making it look elegant. In winter, the head crest is reduced and the cheeks become pale.",
+      "zh": "凤头䴙䴘体长约46–51厘米，身体构造适合潜水。它的腿位于身体后部，每根脚趾都有瓣状的蹼，水下就像船桨一样划水。游泳时，它常举起脖颈，显得十分优雅。冬季，头部羽冠缩小，脸颊变白。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Great Crested Grebes feed mainly on fish, which they catch during dives that can last about 30 seconds. They also take aquatic insects, crustaceans, and small frogs. During the breeding season, pairs build floating nests from water plants and perform a famous display known as the 'weed dance,' where the adults swim toward each other with weed in their bills.",
+      "zh": "凤头䴙䴘主要以鱼类为食，它们潜入水中捕鱼，每次潜水大约30秒。它们也吃水生昆虫、甲壳类和小青蛙。繁殖季节，成对筑起浮巢，用水生植物构成，并表演著名的“水草舞”，两只成鸟嘴里叼着水草相对游动。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Great crested grebes use lakes, reservoirs, ponds and slow rivers with enough open water for diving and vegetation for anchoring nests. The species occurs across broad parts of Europe, Africa, Asia and Australasia; some populations migrate while others remain resident.",
+      "zh": "凤头䴙䴘利用湖泊、水库、池塘和缓流河段，需要足够的开阔水面潜水，也需要植被固定巢。该物种广布于欧洲、非洲、亚洲和澳大拉西亚；部分种群迁徙，另一些则常年留居。",
+      "source_keys": [
+        "range",
+        "general"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Length 46–51 cm; wingspan 85–90 cm",
+          "zh": "体长46–51厘米；翼展85–90厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "0.8–1.4 kg",
+          "zh": "0.8–1.4公斤"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Mainly fish, plus insects, crustaceans and small frogs",
+          "zh": "主要吃鱼，也吃昆虫、甲壳类和小青蛙"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Diurnal",
+          "zh": "昼行性"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会结构"
+        },
+        "value": {
+          "en": "Monogamous pairs in breeding season; often in loose colonies",
+          "zh": "繁殖期一夫一妻，常成松散群落"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "reproduction",
+        "label": {
+          "en": "Reproduction",
+          "zh": "繁殖"
+        },
+        "value": {
+          "en": "Clutch of 3–5 whitish eggs; incubation about 28 days",
+          "zh": "产3–5枚白色卵；孵化约28天"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "depth",
+        "label": {
+          "en": "Diving depth",
+          "zh": "潜水深度"
+        },
+        "value": {
+          "en": "Usually dives to 1–10 m",
+          "zh": "通常潜到1–10米"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Pairs build a floating nest made of tangled weeds and reeds, anchored to submerged plants. The female lays 3–5 white eggs, and both parents share incubation for about 28 days. Chicks are covered in silver and black stripes when they hatch and are carried on their parents' backs until they can swim well. Parents continue to feed the young for about 10 weeks.",
+      "zh": "成对筑起浮巢，巢由纠缠的水草和芦苇构成，固定在沉水植物上。雌鸟产3–5枚白色卵，双亲共同孵化约28天。雏鸟孵化时覆盖银白色和黑色条纹，在能够自如游泳之前都由父母背在背上。亲鸟继续喂养幼鸟约10周。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Waterproof plumage",
+          "zh": "防水羽毛"
+        },
+        "detail": {
+          "en": "Dense, waterproof feathers trap air for insulation and keep the skin dry during dives.",
+          "zh": "浓密防水的羽毛能留存空气以保温，并在潜水时保持皮肤干燥。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Lobed toes",
+          "zh": "瓣状趾"
+        },
+        "detail": {
+          "en": "Each toe has a lobed web that folds back on the forward stroke and opens on the backward stroke, acting like a paddle.",
+          "zh": "每根脚趾有瓣状蹼，向前划水时收拢，向后划水时张开，像船桨一样推进。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Squeeze-out buoyancy",
+          "zh": "降低浮力"
+        },
+        "detail": {
+          "en": "When diving, the grebe squeezes air out from its feathers, which reduces buoyancy and allows longer searches for fish.",
+          "zh": "潜水时，鸊鹈会挤出羽毛中的空气，降低浮力，从而更长时间地搜寻鱼类。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Courtship synchronization",
+          "zh": "同步求偶"
+        },
+        "detail": {
+          "en": "The famous 'weed dance' is a synchronized display that strengthens the pair bond and helps the mates cooperate in raising chicks.",
+          "zh": "著名的“水草舞”是一种同步炫耀，能巩固配偶关系，帮助伴侣协作抚养雏鸟。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a fish-eating predator, the Great Crested Grebe helps control fish populations in freshwater habitats. It also becomes food for larger predators such as large fish, otters, and birds of prey. Its floating nests provide small habitats for other wetland organisms.",
+      "zh": "作为食鱼性捕食者，凤头䴙䴘有助于控制淡水生境中的鱼类种群。它也会成为大型鱼类、水獭和猛禽的食物。其浮巢为其他湿地生物提供了小型栖息地。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "increasing",
+      "threats": {
+        "en": "Habitat loss from wetland drainage, disturbance at breeding sites, and water pollution.",
+        "zh": "湿地排水造成的栖息地丧失、繁殖地的干扰和水污染。"
+      },
+      "actions": {
+        "en": "Protected by law in many countries; wetland conservation and restoration programmes help maintain its habitat.",
+        "zh": "许多国家通过法律加以保护；湿地保护和恢复项目有助于维持其栖息地。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "In summer, the black head is framed by a double crest; the face is white and the cheeks are rust-red. The long, slender neck and pointed bill are also distinctive.",
+        "zh": "夏季，黑色头部有双冠；面部白色，脸颊锈红色。细长的脖颈和尖锐的喙也很独特。"
+      },
+      "similar_species": {
+        "en": "The Great Crested Grebe is larger than the Red-necked and Horned Grebes. It has a longer neck, a more extensive white face, and a different crest shape.",
+        "zh": "凤头䴙䴘比赤颈鸊鹈和角鸊鹈体型更大。它的脖子更长，面部白色区域更大，冠形也不同。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Great Crested Grebes make a variety of croaking and growling calls, especially during courtship. They also communicate with visual signals, such as head shaking and weed displays. Their eyes are positioned to see both above and below water while swimming.",
+      "zh": "凤头䴙䴘发出各种呱呱声和咆哮声，尤其在求偶时。它们也用视觉信号交流，例如摇头和水草展示。它们的眼睛位置使它们在游泳时既能看水上也能看水下。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding begins in spring in temperate regions, when pairs perform synchronized head-shaking and weed displays. Timing varies across the broad global range; birds from colder regions may migrate to milder waters outside the breeding season.",
+      "zh": "在温带地区，繁殖通常于春季开始，成对个体会进行同步摇头和衔水草展示。由于全球分布很广，具体时间随地区而异；寒冷地区的种群可能在非繁殖期迁往较温和水域。",
+      "source_keys": [
+        "general",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Great Crested Grebes were once hunted heavily for their beautiful feathers, which were used in hats and clothing. They are now protected in many countries and are a popular species for birdwatchers. They have even colonized man-made lakes in cities.",
+      "zh": "凤头䴙䴘曾因美丽的羽毛而被大量猎杀，羽毛被用来装饰帽子和衣服。现在它们在许多国家受到保护，是观鸟者喜爱的物种。它们甚至已经定居在城市的景观湖中。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "The Great Crested Grebe belongs to the ancient order Podicipediformes, which are only distantly related to ducks and geese. DNA studies suggest that grebes and flamingos share a relatively close evolutionary ancestry. Fossil grebes closely resembling modern species date back to the Miocene epoch.",
+      "zh": "凤头䴙䴘属于古老的鸊鹈目，与鸭类和大鹅仅有较远的亲缘关系。DNA研究提示，鸊鹈与火烈鸟有相对较近的进化祖先。类似现代物种的鸊鹈化石可追溯到中新世。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for their reed-made floating nests in spring and summer, often anchored in shallow water. They leave webbed tracks on muddy shores, although the lobes may leave a distinctive pattern. Their calls are noisy and can be heard from a distance during the breeding season.",
+      "zh": "春夏季节，寻找固定在浅水中的芦苇浮巢。它们在泥质的岸边留下有瓣膜的足迹，可能呈现独特的印记。繁殖季节它们的叫声嘈杂，从远处就能听见。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The Great Crested Grebe was almost wiped out in the UK in the 19th century when people shot it for its feathers. This loss motivated early wildlife conservation efforts and the creation of the Royal Society for the Protection of Birds.",
+          "zh": "19世纪，凤头䴙䴘在英国因羽毛被捕杀而几乎灭绝。这一损失推动了早期的野生动物保护行动，并促成了皇家鸟类保护协会的成立。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Chicks are carried on the parent's back, and the parents often 'park' them on a floating platform while they dive for fish.",
+          "zh": "雏鸟被父母背在背上，当亲鸟潜水捕鱼时常把雏鸟‘停在’漂浮平台上。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The Great Crested Grebe eats small stones and feathers; scientists think the feathers protect the stomach from fish bones.",
+          "zh": "凤头䴙䴘会吞食小石子和羽毛；科学家认为羽毛可以保护胃部免受鱼刺伤害。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "In their courtship display, the pair might present waterweed to each other in a synchronized dance that looks like a ballet.",
+          "zh": "在求偶炫耀中，一对鸟会同步进行舞蹈，互相赠送水草，看起来像芭蕾舞。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Courtship display",
+          "zh": "求偶炫耀"
+        },
+        "content": {
+          "en": "During spring, pairs perform one of the most complex displays in the bird world. They swim closely together, shaking their heads and diving, then rise up and run across the water in sync. The highlight is the 'weed dance,' when both birds dive to collect waterweed and then offer it to one another.",
+          "zh": "春季，一对鸊鹈会进行鸟类世界中最复杂的炫耀之一。它们紧紧并排游泳，摇头并潜水，然后同步跃起并踏水前行。高潮是‘水草舞’，两只鸟潜水收集水草，然后互相赠送。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Carrying chicks",
+          "zh": "背负雏鸟"
+        },
+        "content": {
+          "en": "Great Crested Grebe chicks are not able to swim efficiently at first, so they climb onto their parents' backs. The adults swim with the chicks nestled in their feathers. This also keeps the young warm and protected from fish and other predators.",
+          "zh": "凤头䴙䴘雏鸟开始时不能熟练游泳，因此它们爬到父母背上。成鸟背着雏鸟游泳，雏鸟依偎在羽毛中。这样还能使幼雏保持温暖，并免受鱼类和其他捕食者的伤害。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Fresh waters across broad parts of Europe, Africa, Asia and Australasia",
+    "text_zh": "欧洲、非洲、亚洲和澳大拉西亚广大地区的淡水水域",
+    "map_coordinates": [
+      35,
+      45
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This is a new record with no previous map geometry. Authoritative range pages and the IUCN-linked assessment were checked, but reusable verified polygon coordinates were not available for import; the map therefore shows one clearly labelled representative point, not the species' full range.",
+      "comparison_zh": "这是没有旧地图几何的新记录。已检查权威分布页面及关联IUCN的评估，但没有可导入的经过核实且可复用的多边形坐标；因此地图只显示一个明确标注的代表点，并不表示该物种的完整分布范围。",
+      "checked_at": "2026-08-16"
+    }
+  },
+  "image": "/images/animals/great-crested-grebe.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Global Biodiversity Information Facility (GBIF) Species API",
+      "url": "https://api.gbif.org/v1/species/2482054",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category (taxon 22696602) via the GBIF IUCN endpoint",
+      "url": "https://api.gbif.org/v1/species/2482054/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Royal Society for the Protection of Birds",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/great-crested-grebe",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Royal Society for the Protection of Birds",
+      "url": "https://www.rspb.org.uk/birds-and-wildlife/great-crested-grebe",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "BirdLife International DataZone",
+      "url": "https://datazone.birdlife.org/species/factsheet/great-crested-grebe-podiceps-cristatus",
+      "checked_at": "2026-08-16"
+    }
+  }
+}

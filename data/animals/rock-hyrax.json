@@ -1,0 +1,440 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Accepted species identity, current global IUCN category, institutional sources, numbers, qualifiers, English/Chinese claim alignment, representative-point range disclosure and image identification criteria were reviewed."
+  },
+  "id": "rock-hyrax",
+  "name_zh": "岩蹄兔",
+  "name_en": "Rock Hyrax",
+  "scientific_name": "Procavia capensis",
+  "ui_tags": [
+    "Mammal",
+    "Mountains",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Hyracoidea",
+      "zh": "蹄兔目"
+    },
+    "family": {
+      "en": "Procaviidae",
+      "zh": "蹄兔科"
+    },
+    "genus": {
+      "en": "Procavia",
+      "zh": "岩蹄兔属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "Current global category checked on 2026-08-16 through the IUCN-linked GBIF category endpoint.",
+    "note_zh": "已于2026-08-16通过关联IUCN的GBIF类别接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The rock hyrax is a small, sturdy herbivore that looks a bit like a guinea pig, but it is actually related to elephants! It has short legs, rounded ears, and almost no tail. It lives in rocky areas and is an excellent climber.",
+    "zh": "岩蹄兔是一种小型强壮的植食性动物，看起来有点像豚鼠，但它实际上是大象的亲戚！它有短腿、圆耳朵，几乎没有尾巴。它生活在多岩地带，是出色的攀爬者。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Rock hyraxes have a compact body about 30 to 60 cm long and weigh 2 to 5 kg. Their soft, dense fur is grey-brown, with a yellowish belly. They have a black, bare spot on their back called a dorsal gland, which gives off scent for communication. Their feet have rubbery, moist pads that help them grip smooth rocks.",
+      "zh": "岩蹄兔的体型紧凑，长约30到60厘米，体重2到5公斤。它们的毛柔软浓密，呈灰褐色，腹部偏黄。背部有一个裸露的黑色斑点，称为背腺，用于散发气味进行交流。它们的脚掌有类似橡胶的湿润肉垫，有助于在光滑岩石上抓紧。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Rock hyraxes live in colonies that sometimes contain 80 individuals. They are active during the day, sunbathing in the morning to warm up. They feed on grasses, leaves, and fruits. They use complex vocalizations, including alarm calls, and often post sentinels to watch for predators like leopards and eagles.",
+      "zh": "岩蹄兔生活在群体中，有些群体可包含80只。它们白天活动，早晨通过晒太阳来取暖。它们以草、树叶和果实为食。它们会发出复杂的声音，包括警报声，并经常派出哨兵警戒豹和鹰等天敌。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Rock hyraxes use cliffs, boulder fields and other rocky places across much of Africa and parts of the Middle East. Cracks and cavities provide shelter from predators and temperature extremes; nearby vegetation supplies food.",
+      "zh": "岩蹄兔分布于非洲广大地区及中东部分地区，利用悬崖、巨石区等岩石环境。裂缝和洞穴能帮助它们躲避捕食者与极端温度，附近植被则提供食物。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Body length 30–60 cm, shoulder height 20–30 cm",
+          "zh": "体长30-60厘米，肩高20-30厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "2–5 kg, heavier in cooler regions",
+          "zh": "2-5公斤，寒冷地区更重"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Leaves, grasses, bark, and fruit",
+          "zh": "树叶、草、树皮和果实"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动"
+        },
+        "value": {
+          "en": "Diurnal (daytime)",
+          "zh": "昼行性（白天活动）"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会单元"
+        },
+        "value": {
+          "en": "Colonial, groups of 5–80",
+          "zh": "群居，群体5-80只"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "reproduction",
+        "label": {
+          "en": "Reproduction",
+          "zh": "繁殖"
+        },
+        "value": {
+          "en": "Gestation about 6–8 months; litters commonly contain several well-developed young",
+          "zh": "妊娠约6–8个月；每胎通常有数只发育较成熟的幼崽"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "Up to 12 years in the wild, more than 14 in captivity",
+          "zh": "野外寿命可达12年，圈养下超过14年"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Breeding is seasonal, with timing varying by region and rainfall. Gestation lasts about 6–8 months, unusually long for an animal of this size, and litters range from 1–6 young. Newborns are well developed, with open eyes and a full coat, and can begin eating solid food within days.",
+      "zh": "岩蹄兔季节性繁殖，具体时间随地区和降雨而变。妊娠期约6–8个月，对这种体型的动物而言很长；每胎可产1–6只幼崽。新生幼崽发育较成熟，睁眼且已有完整毛被，出生数日后便能开始吃固体食物。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Gripping feet",
+          "zh": "抓握的脚掌"
+        },
+        "detail": {
+          "en": "Their foot pads are thick, rubbery, and kept moist, allowing them to climb sheer rock faces and run down slopes without slipping.",
+          "zh": "它们脚掌的肉垫厚实且湿润，像橡胶一样，使它们能够爬上陡峭的岩壁，并快速跑下坡而不打滑。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Multichambered stomach",
+          "zh": "多腔胃"
+        },
+        "detail": {
+          "en": "The rock hyrax has a complex, three-chambered stomach that ferments tough plant material, helping them digest leaves and grass efficiently.",
+          "zh": "岩蹄兔拥有复杂的多腔胃，可以对粗糙的植物材料进行发酵，帮助它们有效消化树叶和草。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Thermoregulation",
+          "zh": "体温调节"
+        },
+        "detail": {
+          "en": "They lack fine control of body temperature, so they bask in the morning sun and huddle together at night to stay warm. This is why they often sit motionless on rocks after sunrise.",
+          "zh": "它们无法精准控制体温，因此早晨会在阳光下沐浴，夜晚则挤在一起取暖。这就是它们日出后常静坐在岩石上的原因。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Sentinel behavior",
+          "zh": "哨兵行为"
+        },
+        "detail": {
+          "en": "When feeding, some members act as lookouts. If a predator approaches, they give a loud alarm call, and the group dives into rocky crevices.",
+          "zh": "进食时，一些成员担任瞭望哨。一旦发现捕食者，它们会发出响亮警报，整个群体迅速躲进岩石缝隙中。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As herbivores, rock hyraxes help shape the vegetation by eating leaves and fruits. They are also an important prey for caracals, leopards, eagles, and pythons. Their droppings recycle nutrients, and they create shelters used by other animals.",
+      "zh": "作为植食动物，岩蹄兔通过摄食树叶和果实影响植被。它们亦是狞猫、豹、鹰和蟒蛇的重要猎物。它们的粪便促进养分循环，它们挖掘的庇护所也能供其他动物使用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Habitat loss from development and mining, hunting, and local persecution are the main threats. In some areas, they are considered pests.",
+        "zh": "主要威胁包括开发活动和采矿导致的栖息地丧失、捕猎以及局部驱逐。在某些地区，它们被视为害兽。"
+      },
+      "actions": {
+        "en": "The species occurs in many protected areas across its range. Conservation efforts focus on habitat protection and reducing hunting pressure.",
+        "zh": "该物种在其分布区的许多保护区内都有分布。保护工作着重于栖息地保护以及减少捕猎压力。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A stout, short-legged mammal with small rounded ears, a short muzzle, and no visible tail. Coat colour varies from grey-brown to yellowish. Black-tipped hairs give a speckled look.",
+        "zh": "一种粗壮、腿短的哺乳动物，耳朵小而圆，吻部短，几乎看不见尾巴。毛色自灰褐色至黄色不等，毛尖黑色使其外表呈斑点状。"
+      },
+      "similar_species": {
+        "en": "The yellow-spotted hyrax (Heterohyrax brucei) is slightly smaller, has a more pointed snout, and a yellowish patch above the eye. Tree hyraxes (Dendrohyrax) are smaller, live in trees, and make loud vocalisations at night.",
+        "zh": "黄斑蹄兔（Heterohyrax brucei）体型略小，吻部更尖，眼上方有黄色斑块。树蹄兔属（Dendrohyrax）体型较小，生活在树上，并在夜间发出响亮叫声。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Rock hyraxes have good vision and hearing. They produce a range of vocalisations, including chirps, snores, and shrieks. The alarm call is distinct and can warn the colony about aerial or ground predators. Scent plays a role too: the dorsal gland releases odours that identify individuals and signal reproductive status.",
+      "zh": "岩蹄兔拥有良好的视力和听力。它们能发出多种声音，包括啁啾、鼾声和尖叫。警报声独特，能警告群体注意空中或地面天敌。嗅觉也起作用：背腺释放的气味可识别个体并发出生殖状态信号。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding seasons vary with rainfall. In East Africa, mating often peaks after heavier rains, and births occur when food is abundant. In more seasonal regions, births are timed to coincide with green vegetation. They may avoid the hottest periods and rely on shade.",
+      "zh": "繁殖季节随降雨而变化。在东非，交配常在降雨增多后达到高峰，幼崽在食物丰富时出生。在季节性明显的地区，产仔与青绿植被期同步。它们会躲避最热的时段并依靠阴凉处。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Rock hyraxes sometimes live near human settlements, using stone walls and rock piles as habitat. In some cultures they are hunted for pelts and meat. In Israel and elsewhere, they have been studied for their remarkable vocal learning and social behaviour.",
+      "zh": "岩蹄兔有时生活在人类定居点附近，利用石墙和石堆作为栖息地。在某些文化中，它们因皮毛和肉而被捕猎。在以色列等地，研究者对其出色的声音学习和社群行为进行了研究。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Hyraxes belong to Hyracoidea. Despite their rodent-like outline, anatomical and molecular evidence places them in Paenungulata, the larger evolutionary group that also includes elephants and sirenians.",
+      "zh": "蹄兔属于蹄兔目。尽管外形有些像啮齿动物，解剖与分子证据却把它们归入近蹄类这一更大的演化类群；大象和海牛也属于该类群。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for droppings and white or yellowish urine stains on rocks. Rock hyraxes leave latrines at regular spots. You might also see pathways worn on vertical rock surfaces and hear their sharp alarm calls.",
+      "zh": "留意粪便以及岩石上的白色或淡黄色尿渍。岩蹄兔会在固定场所排便。你还可以看到岩壁上的蹭磨痕迹，并能听到它们尖锐的警报鸣叫。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The rock hyrax's closest relatives are elephants and manatees, despite looking like a rodent.",
+          "zh": "岩蹄兔的近亲是大象和海牛，尽管它看起来像啮齿类动物。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "They have a bare patch on their back that produces scent and may help control body temperature.",
+          "zh": "它们背部有一块裸露的区域，能散发气味，也可能帮助调节体温。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Rock hyraxes have been observed in 'singing' in a coordinated way, and young learn calls from their parents.",
+          "zh": "人们观察到岩蹄兔有协调一致的“歌唱”，幼崽会从父母那里学习叫声。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "They can climb almost vertically, and their broad feet act like suction cups.",
+          "zh": "它们几乎可以垂直攀爬，宽大的脚掌像吸盘一样。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Mammal characteristics",
+          "zh": "哺乳动物特征"
+        },
+        "content": {
+          "en": "Like all mammals, rock hyraxes have hair and nurse their young with milk. After birth, the young stay with the mother, suckling for about five months.",
+          "zh": "与所有哺乳动物一样，岩蹄兔有毛发，并以乳汁哺育幼崽。幼崽出生后与母兽待在一起，哺乳约五个月。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Long gestation for their size",
+          "zh": "体型小而妊娠期长"
+        },
+        "content": {
+          "en": "Gestation is unusually long for a mammal of this size. The extended development produces precocial young that are born with open eyes and a full coat and can move over rock soon after birth.",
+          "zh": "对这种体型的哺乳动物而言，妊娠期异常漫长。较长的发育时间使幼崽出生时已经睁眼、长齐毛被，并能很快在岩石上移动。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Social sentinels",
+          "zh": "社群哨兵"
+        },
+        "content": {
+          "en": "Rock hyraxes live in colonies and choose raised spots as lookouts. A sentinel's alarm call differs depending on whether the danger is from the sky or ground.",
+          "zh": "岩蹄兔成群生活，会选择高处作为瞭望点。哨兵的警报声根据危险来自空中还是地面而有所不同。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Rocky habitats across much of Africa and parts of the Middle East, from lowlands to high mountains.",
+    "text_zh": "分布于非洲广大地区及中东部分地区，从低地到高山的岩石栖息地。",
+    "map_coordinates": [
+      0,
+      30
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This is a new record with no previous map geometry. Authoritative range pages and the IUCN-linked assessment were checked, but reusable verified polygon coordinates were not available for import; the map therefore shows one clearly labelled representative point, not the species' full range.",
+      "comparison_zh": "这是没有旧地图几何的新记录。已检查权威分布页面及关联IUCN的评估，但没有可导入的经过核实且可复用的多边形坐标；因此地图只显示一个明确标注的代表点，并不表示该物种的完整分布范围。",
+      "checked_at": "2026-08-16"
+    }
+  },
+  "image": "/images/animals/rock-hyrax.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Global Biodiversity Information Facility (GBIF) Species API",
+      "url": "https://api.gbif.org/v1/species/5219598",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category (taxon 41766) via the GBIF IUCN endpoint",
+      "url": "https://api.gbif.org/v1/species/5219598/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Procavia_capensis/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Procavia_capensis/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Procavia_capensis/",
+      "checked_at": "2026-08-16"
+    }
+  }
+}

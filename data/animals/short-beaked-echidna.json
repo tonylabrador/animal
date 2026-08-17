@@ -1,0 +1,453 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Accepted species identity, current global IUCN category, institutional sources, numbers, qualifiers, English/Chinese claim alignment, representative-point range disclosure and image identification criteria were reviewed."
+  },
+  "id": "short-beaked-echidna",
+  "name_zh": "短吻针鼹",
+  "name_en": "Short-beaked Echidna",
+  "scientific_name": "Tachyglossus aculeatus",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Monotremata",
+      "zh": "单孔目"
+    },
+    "family": {
+      "en": "Tachyglossidae",
+      "zh": "针鼹科"
+    },
+    "genus": {
+      "en": "Tachyglossus",
+      "zh": "针鼹属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "Current global category checked on 2026-08-16 through the IUCN-linked GBIF category endpoint.",
+    "note_zh": "已于2026-08-16通过关联IUCN的GBIF类别接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The short-beaked echidna is a spiny, egg-laying mammal found across Australia and New Guinea. It uses a sticky tongue to eat ants and termites.",
+    "zh": "短吻针鼹是一种分布于澳大利亚和新几内亚的带刺卵生哺乳动物，用黏性舌头吃蚂蚁和白蚁。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The body is rounded and covered with coarse fur and sharp spines. The long, toothless snout holds a sticky tongue that flicks out to catch insects. Strong front claws are excellent for digging.",
+      "zh": "身体圆润，覆盖着粗毛和尖锐的刺。长而无齿的吻部有一条黏性舌头，可弹出捕捉昆虫。前爪强壮，极其擅长挖掘。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Mostly solitary, echidnas adjust activity times with temperature. They dig into ant and termite nests with their claws and use their tongue to lap up prey. When threatened, they may dig straight down or curl into a spiky ball.",
+      "zh": "针鼹大多独居，活动时间随气温变化而调整。它们用爪子挖开蚂蚁和白蚁的巢穴，用舌头舔食猎物。遇险时，它们可能原地挖洞钻入地下或卷成带刺的球。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Found across Australia (including Tasmania) and the island of New Guinea, this echidna lives in deserts, grasslands, forests, and even alpine areas. It is highly adaptable and occupies a vast range.",
+      "zh": "分布于澳大利亚（包括塔斯马尼亚）和新几内亚岛，这种针鼹生活在沙漠、草原、森林甚至高山地区。适应性强，分布范围广阔。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Body length about 30–45 cm",
+          "zh": "体长约30–45厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 2–7 kg",
+          "zh": "约2–7千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Ants and termites",
+          "zh": "蚂蚁和白蚁"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动"
+        },
+        "value": {
+          "en": "Activity timing shifts with temperature; often crepuscular or nocturnal in hot conditions",
+          "zh": "活动时间随温度变化；炎热时常在晨昏或夜间活动"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会单元"
+        },
+        "value": {
+          "en": "Solitary",
+          "zh": "独居"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "reproduction",
+        "label": {
+          "en": "Reproduction",
+          "zh": "繁殖"
+        },
+        "value": {
+          "en": "A single egg in a breeding attempt",
+          "zh": "每次繁殖通常只产一枚卵"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "Up to 50 years in captivity",
+          "zh": "人工饲养下可达50年"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "After mating, the female lays a single, leathery egg and places it in a temporary pouch. The young echidna, called a puggle, hatches after about 10 days and stays in the pouch for several months. It then lives in a nursery burrow until weaned.",
+      "zh": "交配后，雌性产下一枚革质卵，并将其放入临时育儿袋中。幼针鼹（称为puggle）约10天后孵化，并在育儿袋中停留数月。之后它会生活在一个育儿洞里直到断奶。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Spines",
+          "zh": "刺"
+        },
+        "detail": {
+          "en": "Sharp spines made of keratin cover the back for protection against predators.",
+          "zh": "由角蛋白组成的锋利刺覆盖背部，用于防御天敌。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Long sticky tongue",
+          "zh": "长而黏的舌头"
+        },
+        "detail": {
+          "en": "A long, sticky tongue helps the echidna catch ants and termites efficiently.",
+          "zh": "长而黏的舌头帮助针鼹高效捕获蚂蚁和白蚁。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Powerful claws",
+          "zh": "强壮的爪子"
+        },
+        "detail": {
+          "en": "Strong front claws allow echidnas to dig into hard soil and break open termite mounds.",
+          "zh": "强壮的前爪使针鼹能挖开坚硬土壤和白蚁丘。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Egg-laying",
+          "zh": "产卵"
+        },
+        "detail": {
+          "en": "As a monotreme, the echidna lays eggs, an ancient mammalian trait.",
+          "zh": "作为单孔目动物，针鼹产卵，这是古老的哺乳动物特征。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Low body temperature",
+          "zh": "低体温"
+        },
+        "detail": {
+          "en": "Echidnas maintain a lower body temperature than most mammals, saving energy.",
+          "zh": "针鼹的体温比大多数哺乳动物低，以节省能量。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Echidnas help control ant and termite populations and aerate soil through their digging. Their burrows may also provide shelter for other small animals.",
+      "zh": "针鼹有助于控制蚂蚁和白蚁的数量，并通过挖洞使土壤通气。它们的洞穴也可能为其他小动物提供住所。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Major threats include habitat destruction, roadkill, and predation by introduced species such as foxes and feral cats, especially in some regions.",
+        "zh": "主要威胁包括栖息地破坏、道路致死以及狐狸和流浪猫等外来物种的捕食，尤其是在某些区域。"
+      },
+      "actions": {
+        "en": "It occurs in many protected areas and is listed as Least Concern, but monitoring continues.",
+        "zh": "它出现在许多保护区内，被列为无危，但仍需持续监测。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A compact body with brownish-black spines, a long snout, and short legs. It has no visible tail.",
+        "zh": "紧凑的身体，有棕黑色的刺，长吻，短腿。尾巴不明显。"
+      },
+      "similar_species": {
+        "en": "The long-beaked echidnas (Zaglossus species) are larger and have longer snouts; they live only in New Guinea.",
+        "zh": "长吻针鼹（Zaglossus属）体型更大、吻部更长，仅生活在新几内亚。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Echidnas have a keen sense of smell and good hearing, which they use to locate prey and mates. Their eyesight is relatively poor.",
+      "zh": "针鼹嗅觉灵敏，听觉良好，用于寻找猎物和配偶。它们的视力相对较差。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding occurs in late winter and early spring. During this time, males follow females in 'trains' and courtship can last nearly a month. The single egg is laid about three weeks after mating.",
+      "zh": "繁殖多发生在冬末至春初。雄性会跟随雌性形成“求爱列车”，求偶有时可持续近一个月；交配后约三周产下一枚卵。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Short-beaked echidnas are popular symbols of Australian wildlife and appear on coins and in stories. They are protected throughout their range and often encountered in national parks.",
+      "zh": "短吻针鼹是澳大利亚野生动物的标志，出现在硬币和故事中。它们在整个分布区内受保护，在公园中经常见到。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Short-beaked echidnas are monotremes: mammals that reproduce by laying eggs. Together with long-beaked echidnas and the platypus, they represent one of the three major living mammal lineages.",
+      "zh": "短吻针鼹属于单孔类，也就是以产卵方式繁殖的哺乳动物。它与长吻针鼹和鸭嘴兽共同代表现生哺乳动物的三大主要支系之一。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for conical diggings in ant nests or termite mounds, and distinctive four-toed footprints with long claws.",
+      "zh": "寻找蚁巢或白蚁丘上的锥形挖掘痕迹，以及带有长爪的四趾足迹。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Echidna babies are called puggles.",
+          "zh": "针鼹宝宝被称为puggle。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Male echidnas have a spur on their ankle that contains venom, though it is not deadly to humans.",
+          "zh": "雄性针鼹脚踝上有带毒的距，但对人类不致命。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Echidnas can swim, though they are usually terrestrial.",
+          "zh": "针鼹会游泳，尽管它们通常陆生。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Their spines are modified hairs.",
+          "zh": "它们的刺是由毛发演变而来的。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Egg-laying",
+          "zh": "产卵"
+        },
+        "content": {
+          "en": "The short-beaked echidna is one of only five living monotreme species, which are mammals that lay eggs instead of giving birth to live young.",
+          "zh": "短吻针鼹是仅存的五种单孔目哺乳动物之一，它们通过产卵而不是胎生繁殖后代。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Milk patches",
+          "zh": "哺乳"
+        },
+        "content": {
+          "en": "Instead of nipples, echidnas have two milk patches on their belly that secrete milk for the young to lap.",
+          "zh": "针鼹没有乳头，而是在腹部有两个乳腺区分泌乳汁，供幼崽舔食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Low body temperature",
+          "zh": "低体温"
+        },
+        "content": {
+          "en": "Echidnas maintain a body temperature of about 32°C, lower than most other mammals, and can lower it further during hibernation or torpor.",
+          "zh": "针鼹体温约32°C，低于大多数哺乳动物，在冬眠或休眠时可进一步降低。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Australia, Tasmania and southern New Guinea",
+    "text_zh": "澳大利亚、塔斯马尼亚及新几内亚南部",
+    "map_coordinates": [
+      -25,
+      134
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This is a new record with no previous map geometry. Authoritative range pages and the IUCN-linked assessment were checked, but reusable verified polygon coordinates were not available for import; the map therefore shows one clearly labelled representative point, not the species' full range.",
+      "comparison_zh": "这是没有旧地图几何的新记录。已检查权威分布页面及关联IUCN的评估，但没有可导入的经过核实且可复用的多边形坐标；因此地图只显示一个明确标注的代表点，并不表示该物种的完整分布范围。",
+      "checked_at": "2026-08-16"
+    }
+  },
+  "image": "/images/animals/short-beaked-echidna.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Global Biodiversity Information Facility (GBIF) Species API",
+      "url": "https://api.gbif.org/v1/species/2433378",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category (taxon 41312) via the GBIF IUCN endpoint",
+      "url": "https://api.gbif.org/v1/species/2433378/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Australian Museum",
+      "url": "https://australian.museum/learn/animals/mammals/short-beaked-echidna/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Tachyglossus_aculeatus/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Australian Museum",
+      "url": "https://australian.museum/learn/animals/mammals/short-beaked-echidna/",
+      "checked_at": "2026-08-16"
+    }
+  }
+}
