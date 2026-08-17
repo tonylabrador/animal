@@ -22,8 +22,8 @@
       "zh": "哺乳纲"
     },
     "order": {
-      "en": "Cetartiodactyla",
-      "zh": "鲸偶蹄目"
+      "en": "Cetacea",
+      "zh": "鲸目"
     },
     "family": {
       "en": "Iniidae",
@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "EN",
     "en": "Endangered",
-    "zh": "濒危"
+    "zh": "濒危",
+    "note_en": "The current global assessment is Endangered with a decreasing population.",
+    "note_zh": "当前全球等级为濒危，种群趋势下降。"
   },
   "description": {
-    "en": "The Amazon river dolphin, also known as the boto or pink river dolphin, is an exclusively freshwater cetacean endemic to the complex river systems of South America. Renowned for its striking pink pigmentation, which intensifies with age and physical exertion, this apex aquatic predator exhibits profound evolutionary adaptations to its turbid, labyrinthine habitat. Unlike marine dolphins, its cervical vertebrae are unfused, granting it unparalleled cervical mobility to navigate through the submerged root systems of flooded forests.",
-    "zh": "亚河豚，又称粉红河豚或波多（Boto），是一种仅存在于南美洲复杂水系中的淡水鲸类。它以其引人注目的粉红色体表而闻名，这种色素沉着会随着年龄增长和体力消耗而加深。作为水生顶级掠食者，亚河豚对其浑浊且错综复杂的栖息地展现出了深刻的进化适应。与海洋海豚不同，它的颈椎未融合，赋予了其无与伦比的颈部灵活性，使其能够在被淹没的森林的树根系统中穿梭自如。"
+    "en": "The Amazon river dolphin, or boto, is a flexible-necked freshwater whale of the Amazon and Orinoco systems. Echolocation, broad flippers and a long toothed rostrum help it hunt through turbid channels and seasonally flooded forest.",
+    "zh": "亚河豚又称波托，是生活在亚马逊河和奥里诺科河水系、颈部灵活的淡水鲸类。回声定位、宽大胸鳍和长而有齿的吻部帮助它在浑浊河道及季节性淹水森林中捕猎。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "Characterized by a pronounced, bulbous melon used for sophisticated echolocation, the boto possesses a long, tubular rostrum lined with stiff vibrissae that aid in tactile foraging in benthic mud. Its dentition is uniquely heterodont among cetaceans, featuring conical anterior teeth for grasping slippery prey and robust, molariform posterior teeth for crushing the carapaces of turtles and crabs. The dorsal fin is reduced to a low, elongated ridge, minimizing entanglement in dense aquatic vegetation, while its exceptionally broad, paddle-like pectoral flippers provide extraordinary maneuverability in shallow, obstructed waters.",
-      "zh": "亚河豚的解剖学特征包括用于复杂回声定位的明显球状额隆，以及长而呈管状的吻部，吻部边缘长有坚硬的触须，有助于在底栖泥沼中进行触觉觅食。在鲸类中，它的牙齿具有独特的异型齿特征，前部为圆锥形牙齿用于抓住湿滑的猎物，后部为粗壮的臼齿状牙齿用于咬碎海龟和螃蟹的甲壳。其背鳍退化为低矮而细长的脊状突起，最大限度地减少了在茂密水生植被中的缠绕，而其异常宽大、呈桨状的胸鳍则在水浅且充满障碍物的水域中提供了非凡的机动性。"
+      "en": "Adults are roughly 2–2.5 m long; large males can exceed 180 kg and are larger than females. The long rostrum bears differentiated teeth, the neck vertebrae allow unusual turning, and the low dorsal ridge avoids a tall fin in tangled habitat.",
+      "zh": "成体体长约2–2.5米；大型雄性可超过180千克，且大于雌性。长吻具有分化牙齿，颈椎允许异常灵活的转动，低矮背脊避免高背鳍在复杂生境中受阻。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "Botos are predominantly solitary or found in small, loose aggregations, exhibiting highly complex cognitive behaviors and a remarkable degree of playfulness. They are opportunistic apex predators with a highly diverse diet comprising over 50 species of teleost fish, including piranhas, as well as freshwater crustaceans. During the annual inundation of the Amazon basin, they migrate laterally into the flooded várzea and igapó forests, utilizing their advanced biosonar to hunt among submerged tree trunks. They are known to interact with local human populations and are steeped in indigenous Amazonian mythology.",
-      "zh": "亚河豚主要独居或以松散的小群体形式存在，展现出高度复杂的认知行为和显著的嬉戏天性。它们是机会主义的顶级掠食者，饮食结构极其多样化，包括食人鱼在内的50多种硬骨鱼类以及淡水甲壳类动物。在亚马逊盆地一年一度的泛滥期，它们会横向迁徙到被淹没的洪泛森林（várzea和igapó）中，利用其先进的生物声纳在淹没的树干间狩猎。已知它们会与当地人类群体互动，并在亚马逊原住民的神话中占据着深厚的地位。"
+      "en": "Individuals usually occur alone or in small loose groups and eat diverse fish plus some crustaceans and turtles. During floods they enter inundated forests and use biosonar and flexible bodies among submerged trunks.",
+      "zh": "个体通常独居或组成松散小群，取食多种鱼，也吃部分甲壳类和龟类。洪水期会进入淹水森林，利用生物声纳和灵活身体穿行水下树干之间。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Endemic to the Amazon, Orinoco, and upper Madeira river basins across Brazil, Peru, Bolivia, Colombia, Ecuador, and Venezuela. Their habitat ranges from main river channels to smaller tributaries, lakes, and seasonally flooded forests. The distribution is heavily influenced by seasonal water level fluctuations, which dictate their movement patterns and prey availability.",
-      "zh": "特有于巴西、秘鲁、玻利维亚、哥伦比亚、厄瓜多尔和委内瑞拉的亚马逊河、奥里诺科河及马代拉河上游流域。它们的栖息地范围从主要河道到较小的支流、湖泊以及季节性泛滥的森林。其分布受季节性水位波动的严重影响，这些波动决定了它们的活动模式和猎物的可获得性。"
+      "en": "The species occupies connected channels, tributaries, lakes and flooded forest in the Amazon and Orinoco basins; dams and rapids divide populations and taxonomic boundaries within Inia remain important.",
+      "zh": "该物种利用亚马逊河与奥里诺科河流域相连的主河道、支流、湖泊和淹水森林；水坝和急流会分隔种群，亚河豚属内部的分类边界也很重要。",
+      "source_keys": [
+        "range",
+        "conservation"
+      ]
     }
   },
   "habitat": {
@@ -270,13 +283,301 @@
           -60.4
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and polygon coordinates are retained exactly. Authoritative text supports the broad distribution, but reusable authoritative boundary geometry was unavailable; the legacy polygon is labelled approximate, not verified.",
+      "comparison_zh": "原有中心点、缩放和多边形坐标完全保留。权威文字支持大致分布，但未获得可复用的权威边界几何；原多边形标为近似范围，而非已核实边界。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/amazon-river-dolphin.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Inia%20geoffrensis",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "GBIF IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/2440314/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Inia_geoffrensis/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Inia_geoffrensis/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Inia_geoffrensis/",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, current global status, numeric claims, bilingual scope and unchanged legacy map geometry checked for legacy QC batch 03A."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "length",
+        "label": {
+          "en": "Length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "About 2–2.5 m",
+          "zh": "约2–2.5米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Large male mass",
+          "zh": "大型雄性体重"
+        },
+        "value": {
+          "en": "Can exceed 180 kg",
+          "zh": "可超过180千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat",
+          "zh": "生境"
+        },
+        "value": {
+          "en": "Freshwater rivers and flooded forest",
+          "zh": "淡水河流和淹水森林"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Fish and other aquatic animals",
+          "zh": "鱼及其他水生动物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "young",
+        "label": {
+          "en": "Young",
+          "zh": "每胎幼崽"
+        },
+        "value": {
+          "en": "Usually 1 calf",
+          "zh": "通常1头"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Endangered",
+          "zh": "濒危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Females usually bear 1 calf after roughly 11–12 months of gestation. Calves nurse for an extended period and remain close to mothers while learning seasonal river habitats; slow reproduction limits replacement of adults killed in fisheries.",
+      "zh": "雌性妊娠约11–12个月后通常产下1头幼豚。幼豚长期哺乳并跟随母豚学习季节性河流生境；缓慢繁殖限制了对渔业死亡成体的补充。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Flexible neck",
+          "zh": "灵活颈部"
+        },
+        "detail": {
+          "en": "Unfused cervical vertebrae permit tighter turns around submerged trees than in most dolphins.",
+          "zh": "未融合颈椎使其比多数海豚更能在水下树木间急转。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Broad flippers",
+          "zh": "宽大胸鳍"
+        },
+        "detail": {
+          "en": "Large paddle-like flippers provide control in shallow, obstructed water.",
+          "zh": "桨状宽胸鳍可在浅水和障碍密集水域中精确操控。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Biosonar",
+          "zh": "生物声纳"
+        },
+        "detail": {
+          "en": "Echolocation reveals prey and obstacles where suspended sediment limits vision.",
+          "zh": "悬浮泥沙限制视觉时，回声定位可探测猎物和障碍。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a high-level freshwater predator, the boto links fish, crustacean and turtle food webs across main channels and floodplain forests; its condition also reflects river connectivity and fishing pressure.",
+      "zh": "作为高营养级淡水捕食者，亚河豚连接主河道与洪泛森林中的鱼、甲壳类和龟类食物网；其状况也反映河流连通性和捕捞压力。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Entanglement and deliberate killing in fisheries, mercury, prey depletion, vessel traffic and dams that fragment rivers drive decline.",
+        "zh": "渔具缠绕和故意捕杀、汞污染、猎物减少、船舶活动及切断河流的水坝推动种群下降。"
+      },
+      "actions": {
+        "en": "Reduce bycatch and deliberate killing, enforce fishery rules, protect connected flood pulses and channels, control pollution and monitor genetically distinct river populations.",
+        "zh": "应减少兼捕和故意捕杀，执行渔业规定，保护连通洪峰与河道，控制污染，并监测遗传上不同的河流种群。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Robust river dolphin with a very long narrow rostrum, low dorsal ridge, broad flippers and gray to pink coloration that varies by age and condition.",
+        "zh": "体形粗壮的河豚，吻部很长而窄，背脊低矮，胸鳍宽，体色随年龄和状态由灰到粉红变化。"
+      },
+      "similar_species": {
+        "en": "Tucuxi are smaller, more conventionally dolphin-shaped and carry a triangular dorsal fin. Color alone is unreliable, and Inia taxonomy differs among river basins.",
+        "zh": "土库海豚更小、体形更接近典型海豚，具有三角形背鳍。体色本身不可靠，且不同流域的亚河豚属分类存在差异。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Clicks drive echolocation; whistles and other calls support social contact. Touch and body orientation matter at close range in water where visibility may be only a short distance.",
+      "zh": "喀哒声用于回声定位；哨声等叫声维持社会联系。在能见度很短的水中，触碰和身体朝向对近距离交流也很重要。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Rising water opens floodplain forest and disperses fish; falling water concentrates animals in channels and lakes. Males and females may use these seasonal habitats differently.",
+      "zh": "涨水开放洪泛森林并分散鱼群；退水使动物集中到河道和湖泊。雌雄可能以不同方式利用这些季节性生境。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The boto is central to Amazonian stories and tourism but is also caught accidentally or killed for bait. Responsible viewing avoids chasing, touching and feeding and follows local vessel limits.",
+      "zh": "亚河豚在亚马逊故事和旅游中地位重要，却也会被误捕或被杀作诱饵。负责任观赏应避免追逐、触摸和投喂，并遵守当地船舶限制。",
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Inia represents an ancient freshwater cetacean lineage. Geographic barriers and molecular work have led to debate and revision over how many living Inia species should be recognized.",
+      "zh": "亚河豚属代表古老淡水鲸类谱系。地理屏障和分子研究引发了对现生亚河豚应承认多少物种的持续修订。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "A low rolling back, no tall dorsal fin, a long rostrum and pink-gray body may appear briefly at the surface. Splash color and folklore are insufficient; photographs should show profile and fin shape.",
+      "zh": "水面可能短暂出现低缓背线、无高背鳍、长吻和粉灰身体。水花颜色和传说不足以鉴定；照片应显示侧面与鳍形。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Its neck can turn more freely than the necks of most oceanic dolphins.",
+          "zh": "它的颈部比多数海洋海豚转动更自由。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Flooded forest becomes seasonal hunting habitat rather than a barrier.",
+          "zh": "淹水森林会成为季节性狩猎生境，而非障碍。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "Not every river dolphin in the Amazon is an Inia; tucuxi also use freshwater.",
+          "zh": "亚马逊河中并非每只河豚都是亚河豚；土库海豚也利用淡水。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Freshwater cetacean life",
+          "zh": "淡水鲸类生活"
+        },
+        "content": {
+          "en": "Breathing air, nursing a single calf and using acoustic perception must all function within river currents, floods, nets and fragmented channels rather than an open ocean.",
+          "zh": "呼吸空气、哺育单胎幼豚和使用声学感知，都必须在河流流速、洪水、渔网和破碎河道中完成，而非开放海洋。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

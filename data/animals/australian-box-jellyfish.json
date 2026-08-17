@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "NE",
     "en": "Not Evaluated",
-    "zh": "未评估"
+    "zh": "未评估",
+    "note_en": "No species-level IUCN Red List assessment was found for Chironex fleckeri; absence of an assessment does not indicate safety or a population trend.",
+    "note_zh": "未找到澳大利亚箱水母的IUCN物种级红色名录评估；缺少评估并不表示该物种安全或具有某种种群趋势。"
   },
   "description": {
-    "en": "Widely considered the most venomous marine animal in the world, capable of causing cardiac arrest in minutes.",
-    "zh": "被广泛认为是世界上毒性最强的海洋生物，能在几分钟内导致心跳骤停。"
+    "en": "The Australian box jellyfish is a large, nearly transparent cubozoan of tropical northern Australian coasts. It is an active visual predator with a box-shaped bell and up to 15 tentacles at each corner; contact with its nematocysts can cause life-threatening envenomation.",
+    "zh": "澳大利亚箱水母是生活在澳大利亚北部热带海岸的大型近透明立方水母。它是主动视觉捕食者，伞部呈箱形，每个角触手可达15条；接触其刺丝囊可能造成危及生命的中毒。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "The Australian box jellyfish has a pale blue, transparent bell that can reach the size of a basketball. From each of its four corners, up to 15 long tentacles extend, reaching up to 3 meters in length. These tentacles are lined with millions of nematocysts that deliver a lethal neurotoxic and cardiotoxic venom. It possesses 24 eyes, some of which feature advanced optics like lenses and corneas.",
-      "zh": "澳大利亚箱水母拥有淡蓝色的透明伞盖，体型可达篮球大小。从伞盖的四个角各伸出多达15条长触手，长度可达3米。这些触手排布着数百万个刺丝囊，能释放致命的神经毒素和心脏毒素。它拥有24只眼睛，其中部分眼睛具有晶状体和角膜等高级光学结构。"
+      "en": "The transparent bell can reach about 30 cm across, and tentacles can extend to about 3 m. Up to 15 tentacles arise from each of 4 muscular corner structures, while 24 eyes occur in 4 sensory clusters around the bell.",
+      "zh": "透明伞部宽可达约30厘米，触手可延伸至约3米。4个肌肉发达的伞角结构各可长出多达15条触手，伞缘周围4个感觉簇共有24只眼。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "Unlike most jellyfish, they are active, maneuverable swimmers that can reach speeds of up to 4 knots. They are visual predators, primarily hunting small fish and prawns in shallow coastal waters. During heavy rain or storms, they often move into deeper, calmer water to avoid damage from turbulence.",
-      "zh": "不同于大多数水母，它们是积极且灵活的游泳者，航速可达4节。它们是视觉掠食者，主要在浅海沿岸捕食小鱼和虾。在大雨或暴风雨期间，它们常会游入更深、更平静的水域，以避免被波浪湍流伤害。"
+      "en": "Unlike passive drifters, box jellyfish swim and steer while using vision to navigate shallow coastal habitat. Adults capture prawns and small fish with nematocyst-covered tentacles; contact triggers rapid discharge of microscopic stinging capsules.",
+      "zh": "箱水母并非被动漂流，而会游泳、转向并利用视觉在浅海沿岸导航。成体以布满刺丝囊的触手捕捉虾和小鱼；接触会触发微小刺丝囊迅速发射。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "They are primarily found in the tropical coastal waters of northern Australia and throughout the Indo-Pacific region, including parts of Vietnam and the Philippines. They prefer shallow, clear water near sandy beaches and mangrove systems.",
-      "zh": "主要发现于澳大利亚北部的热带沿海水域以及整个印度-太平洋地区，包括越南和菲律宾的部分地区。它们偏好沙滩和红树林系统附近的浅而清澈的水域。"
+      "en": "Confirmed Australian distribution spans tropical coastal waters from Western Australia through the Northern Territory to Queensland. Shallow beaches, mangrove creeks and protected coastal waters are important, while records outside Australia require careful species-level confirmation.",
+      "zh": "在澳大利亚，确认分布横跨从西澳大利亚州、北领地到昆士兰州的热带沿海水域。浅海岸滩、红树林溪流和受遮蔽近岸水域很重要；澳大利亚以外的记录需要谨慎进行物种级确认。",
+      "source_keys": [
+        "range",
+        "identification"
+      ]
     }
   },
   "habitat": {
@@ -88,13 +101,314 @@
           120
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and polygon coordinates are retained exactly. Authoritative text sources support the broad distribution, but reusable authoritative boundary geometry was not available; the polygons are labelled as retained approximate legacy ranges, not verified boundaries.",
+      "comparison_zh": "原有中心点、缩放和多边形坐标完全保留。权威文字来源支持其大致分布，但未获得可复用的权威边界几何，因此多边形标为保留的原有近似范围，而非已核实边界。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/australian-box-jellyfish.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "Australian Museum",
+      "url": "https://australian.museum/learn/animals/jellyfish/boxjellyfish/",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Australian Museum",
+      "url": "https://australian.museum/learn/animals/jellyfish/boxjellyfish/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Chironex_fleckeri/",
+      "checked_at": "2026-08-16"
+    },
+    "identification": {
+      "authority": "Australian Museum",
+      "url": "https://australian.museum/learn/animals/jellyfish/boxjellyfish/",
+      "checked_at": "2026-08-16"
+    },
+    "safety": {
+      "authority": "Surf Life Saving Australia Beachsafe",
+      "url": "https://beachsafe.org.au/surf-safety/box-jellyfish",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List species search",
+      "url": "https://www.iucnredlist.org/search?query=Chironex%20fleckeri&searchType=species",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Australian Museum",
+      "url": "https://australian.museum/learn/animals/jellyfish/boxjellyfish/",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, taxonomy, protection status, numerical claims, English/Chinese scope and preserved legacy map geometry were checked for legacy QC batch 02."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "bell",
+        "label": {
+          "en": "Bell width",
+          "zh": "伞部宽度"
+        },
+        "value": {
+          "en": "Up to about 30 cm",
+          "zh": "可达约30厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "tentacles",
+        "label": {
+          "en": "Tentacle length",
+          "zh": "触手长度"
+        },
+        "value": {
+          "en": "Up to about 3 m",
+          "zh": "可达约3米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "tentacle_count",
+        "label": {
+          "en": "Tentacles",
+          "zh": "触手数"
+        },
+        "value": {
+          "en": "Up to 15 at each of 4 corners",
+          "zh": "4个伞角各可达15条"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "eyes",
+        "label": {
+          "en": "Eyes",
+          "zh": "眼睛数"
+        },
+        "value": {
+          "en": "24 in 4 clusters",
+          "zh": "4个感觉簇共24只"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Prawns and small fish",
+          "zh": "虾和小鱼"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Not Evaluated",
+          "zh": "未评估"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Sperm and eggs form ciliated planula larvae, which settle and become tiny bottom-attached polyps. A polyp later transforms into a free-swimming juvenile medusa that grows rapidly toward the adult form; timing is seasonal and temperature-dependent.",
+      "zh": "精子和卵形成有纤毛的浮浪幼体，随后沉降并变成微小的固着水螅体。水螅体之后转变为自由游动的幼年水母，并快速长成成体；其时间具有季节性并受温度影响。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Box-shaped swimming bell",
+          "zh": "箱形游泳伞"
+        },
+        "detail": {
+          "en": "A firm bell and muscular corner structures produce stronger directed swimming than in many jellyfish.",
+          "zh": "较坚实的伞部和肌肉发达的伞角结构，使其游泳方向性强于许多水母。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Complex eyes",
+          "zh": "复杂眼睛"
+        },
+        "detail": {
+          "en": "Lens-bearing eyes help orient the animal and avoid obstacles in structured coastal habitat.",
+          "zh": "带晶状体的眼帮助它在结构复杂的沿海生境中定向并避开障碍。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Nematocyst batteries",
+          "zh": "刺丝囊阵列"
+        },
+        "detail": {
+          "en": "Dense stinging capsules on long tentacles rapidly immobilize fast fish and prawns.",
+          "zh": "长触手上密集刺丝囊能迅速制伏游速较快的鱼和虾。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Chironex fleckeri is a mobile coastal predator of prawns and small fish and is itself part of a larger marine food web. Its seasonal abundance can strongly alter risk for swimmers, but its population-level ecological effects remain poorly quantified.",
+      "zh": "澳大利亚箱水母是捕食虾和小鱼的活动性沿海捕食者，本身也属于更大的海洋食物网。其季节性数量会显著改变游泳者风险，但种群层面的生态影响仍缺少量化。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The species has not been assessed by IUCN, and there is no reliable global population trend. Coastal development, water conditions and climate may affect local occurrence, but evidence does not support a precise global conclusion.",
+        "zh": "该物种尚未接受IUCN评估，也没有可靠全球种群趋势。沿海开发、水体条件和气候可能影响当地出现情况，但现有证据不足以得出精确全球结论。"
+      },
+      "actions": {
+        "en": "Maintain species-confirmed monitoring, preserve coastal and mangrove habitat, record seasonal occurrence and separate public-safety surveillance from unsupported assumptions about conservation status.",
+        "zh": "应维持经物种确认的监测，保护沿海与红树林生境，记录季节性出现情况，并把公共安全监测与缺乏证据的保护等级推断区分开。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A large nearly transparent box-shaped bell with up to 15 tentacles arising from each corner; the animal may be extremely difficult to see in water.",
+        "zh": "大型近透明箱形伞部，每个伞角触手可达15条；在水中可能极难看见。"
+      },
+      "similar_species": {
+        "en": "Many cubozoans are called box jellyfish. Irukandji-type species are much smaller and usually have 1 tentacle per corner; exact Chironex identification requires expert morphology and location, not sting symptoms alone.",
+        "zh": "许多立方水母都被称为箱水母。伊鲁康吉型物种小得多，通常每个伞角只有1条触手；精确鉴定澳大利亚箱水母需要专家形态和地点证据，不能只看蜇伤症状。"
+      },
+      "source_keys": [
+        "identification",
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "No social communication is known. The sensory system integrates 24 eyes and gravity-sensing structures to control swimming, obstacle avoidance and prey capture in changing light and current.",
+      "zh": "尚不知道它存在社会交流。感觉系统整合24只眼和重力感受结构，以在变化的光线和水流中控制游泳、避障和捕猎。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "In northern Australia, larger medusae are most associated with the warm wet-season or marine-stinger season, but timing varies locally. Polyps provide a hidden bottom-attached stage between medusa seasons.",
+      "zh": "在澳大利亚北部，大型水母阶段多与温暖湿季或海蜇高发季相关，但各地时间不同。水螅体是在水母季之间隐蔽生活于底部的固着阶段。",
+      "source_keys": [
+        "ecology",
+        "safety"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Stings can be life-threatening. Follow beach closures and local lifesaving guidance, wear recommended protective clothing in risk areas and never handle a stranded specimen; emergency response should follow current local medical instructions.",
+      "zh": "蜇伤可能危及生命。应遵守海滩关闭和当地救生指导，在风险区穿建议的防护服，绝不触碰搁浅个体；急救应遵循最新当地医疗指示。",
+      "source_keys": [
+        "safety"
+      ]
+    },
+    "evolution": {
+      "en": "Box jellyfish belong to Cubozoa within Cnidaria, not to the true jellyfish class Scyphozoa. Their active swimming and complex visual system are unusually developed within gelatinous zooplankton.",
+      "zh": "箱水母属于刺胞动物门立方水母纲，而不属于钵水母纲的真水母；其主动游泳和复杂视觉系统在胶质浮游动物中格外发达。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "The bell is transparent and tentacles may be nearly invisible, so absence of a sighting does not indicate safe water. Warning signs, lifeguard surveillance and local seasonal information are more reliable than casual visual searching.",
+      "zh": "伞部透明、触手近乎不可见，因此没看到并不代表水域安全。警示牌、救生员监测和当地季节信息比随意目视寻找更可靠。",
+      "source_keys": [
+        "safety"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The animal has 24 eyes, but no centralized vertebrate-like brain.",
+          "zh": "它有24只眼，但没有类似脊椎动物的中央大脑。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Up to 15 tentacles can emerge from each of the 4 corners of the bell.",
+          "zh": "伞部4个角各可达15条触手。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A bottom-attached polyp stage is part of the life cycle even though the visible adult swims freely.",
+          "zh": "尽管可见成体自由游动，其生命周期仍包含固着海底的水螅体阶段。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Cnidarian life stages",
+          "zh": "刺胞动物生活史阶段"
+        },
+        "content": {
+          "en": "A tiny settled polyp and a large swimming medusa occupy very different habitats and perform different tasks; transformation between them links hidden benthic persistence to seasonal coastal swarms.",
+          "zh": "微小固着水螅体与大型游泳水母生活在不同生境、承担不同任务；两者间的转变把隐蔽底栖存续与季节性沿海出现连接起来。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

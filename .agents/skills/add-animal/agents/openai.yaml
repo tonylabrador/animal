@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add Animal"
+  short_description: "Add sourced bilingual animals with image QC"
+  default_prompt: "Use $add-animal to add a new animal with rich bilingual content and complete QC."

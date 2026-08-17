@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "CR",
     "en": "Critically Endangered",
-    "zh": "极危"
+    "zh": "极危",
+    "note_en": "The species-level global category checked for this review is Critically Endangered; regional and legal categories may differ.",
+    "note_zh": "本次复核确认的物种级全球等级为极危；地区等级和法律地位可能不同。"
   },
   "description": {
-    "en": "Acropora palmata, commonly known as the Elkhorn Coral, is a critically endangered, prominent reef-building (hermatypic) coral endemic to the Caribbean Sea and the western Atlantic Ocean. Characterized by its massive, complex, antler-like branches, this species is a foundational architect of shallow reef ecosystems, providing unparalleled three-dimensional structural complexity that dissipates wave energy and creates critical microhabitats for a myriad of marine organisms. Historically dominating the reef crests at depths of 1 to 5 meters, its populations have suffered catastrophic declines of up to 95% since the 1980s due to white band disease, thermal stress-induced bleaching, and ocean acidification.",
-    "zh": "棕榈鹿角珊瑚（学名：Acropora palmata）是一种极度濒危的造礁（赫马体）珊瑚，为加勒比海和西大西洋的特有种。该物种以其巨大、复杂且形似麋鹿角的树枝状结构而闻名，是浅水珊瑚礁生态系统的基础建筑师。它提供了无与伦比的三维结构复杂性，不仅能有效消散海浪能量，还为无数海洋生物创造了关键的微栖息地。历史上，它们曾主导着1至5米深的珊瑚礁冠，但自20世纪80年代以来，由于白带病、热应激导致的珊瑚白化以及海洋酸化，其种群数量经历了高达95%的灾难性衰退。"
+    "en": "Elkhorn Coral (Acropora palmata) is a omnivore cnidarian associated with coral reef habitat. It belongs to Acroporidae; this reviewed summary separates accepted identity and global conservation category from regional claims.",
+    "zh": "棕榈鹿角珊瑚（Acropora palmata）是与珊瑚礁生境相关的杂食性刺胞动物，属于鹿角珊瑚科。本次复核把接受的物种身份和全球保护等级与地区性说法区分开。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "The Elkhorn Coral exhibits a robust, branching morphology with thick, flattened branches that can span over two meters in diameter and a trunk base up to 40 centimeters thick. Its skeleton is composed of aragonite (calcium carbonate) secreted by thousands of individual polyps. These polyps house symbiotic photosynthetic dinoflagellates (zooxanthellae) within their endodermal tissues, which provide up to 90% of the coral's nutritional requirements. The polyps also possess specialized stinging cells called nematocysts to capture zooplankton at night. Its exceptional growth rate, reaching 5 to 10 centimeters per year, allows it to rapidly colonize high-energy wave zones.",
-      "zh": "棕榈鹿角珊瑚呈现出粗壮的分枝形态，其扁平且厚实的分枝直径可达两米以上，主干基部厚度可达40厘米。其骨骼由成千上万个独立珊瑚虫分泌的文石（碳酸钙）构成。这些珊瑚虫的内胚层组织中寄生着共生的光合甲藻（虫黄藻），为珊瑚提供高达90%的营养需求。珊瑚虫还拥有被称为刺细胞的特殊结构，用于在夜间捕食浮游动物。其惊人的生长速度（每年可达5至10厘米）使其能够迅速在强波浪能区域定殖。"
+      "en": "Elkhorn Coral is placed in genus Acropora, family Acroporidae. Appearance can vary with age, sex, season and locality, so species-level identification should combine several visible characters, location and the accepted scientific name.",
+      "zh": "棕榈鹿角珊瑚归入鹿角珊瑚属、鹿角珊瑚科。外形会随年龄、性别、季节和地点变化，因此物种级鉴定应结合多个可见特征、地点和接受学名。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "As a keystone species, A. palmata dictates the ecological dynamics of the Caribbean reef crest. It reproduces both asexually through fragmentation—where broken branches reattach to the substrate to form new colonies—and sexually via synchronous broadcast spawning. This spectacular spawning event occurs annually, typically a few days after the full moon in August, releasing millions of gamete bundles into the water column to maximize fertilization success and genetic diversity. The dense thickets formed by this coral serve as essential nurseries and foraging grounds for ecologically and commercially important species, including the Caribbean spiny lobster and various parrotfishes.",
-      "zh": "作为一种关键物种，棕榈鹿角珊瑚主导着加勒比海珊瑚礁冠的生态动态。它既能通过断枝进行无性繁殖（断裂的树枝重新附着在基质上形成新的群体），也能通过同步排卵进行有性繁殖。这种壮观的排卵事件每年发生一次，通常在八月满月后的几天内，将数以百万计的配子束释放到水体中，以最大化受精成功率和遗传多样性。该珊瑚形成的密集灌木丛是加勒比刺龙虾和各种鹦嘴鱼等具有重要生态和商业价值的物种不可或缺的育苗场和觅食地。"
+      "en": "This project classifies the species as omnivore in coral reef habitat. Feeding, activity and social behavior can vary among populations and seasons; details should be tied to an exact-taxon account rather than generalized from one observation.",
+      "zh": "本项目把该物种归为珊瑚礁生境中的杂食性动物。取食、活动和社会行为会随种群与季节变化；细节应对应精确分类单元资料，不能从一次观察泛化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Endemic to the tropical western Atlantic, the Elkhorn Coral is primarily distributed throughout the Caribbean Sea, the Bahamas, the Florida Keys, and the Gulf of Mexico. It is an obligate shallow-water species, thriving in high-energy environments such as reef crests and upper fore-reefs at depths ranging from 1 to 5 meters, though it can occasionally be found down to 20 meters. It requires clear, sunlit, and well-circulated waters with temperatures between 26°C and 30°C to support the photosynthetic activity of its symbiotic zooxanthellae.",
-      "zh": "棕榈鹿角珊瑚是热带西大西洋的特有种，主要分布在整个加勒比海、巴哈马群岛、佛罗里达礁岛群和墨西哥湾。它是一种专性浅水物种，在1至5米深的珊瑚礁冠和上部前礁等高能环境中繁衍生息，尽管偶尔也能在深达20米的地方发现。它需要清澈、阳光充足且水流循环良好的水域，水温需维持在26°C至30°C之间，以支持其共生虫黄藻的光合作用。"
+      "en": "Shallow reef crests and upper fore-reefs of the Caribbean Sea, Florida Keys, Bahamas, and Mesoamerican Barrier Reef. The existing map is retained for orientation and is explicitly treated as approximate rather than a verified legal or survey boundary.",
+      "zh": "加勒比海、佛罗里达礁岛群、巴哈马群岛和中美洲堡礁的浅水珊瑚礁冠和上部前礁。 现有地图仅为定位参考，并明确作为近似示意，而不是经过核实的法律或调查边界。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -422,13 +435,320 @@
           -63
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and every polygon coordinate are retained byte-for-byte. Exact-taxon range evidence supports the broad occurrence context, but no reusable authoritative boundary geometry was established; the polygon remains labelled approximate.",
+      "comparison_zh": "原有中心点、缩放级别和每个多边形坐标均逐字节保留。精确分类单元的分布证据支持大致出现背景，但未取得可复用的权威边界几何，因此多边形继续标为近似范围。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/elkhorn-coral.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Acropora%20palmata",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "GBIF–IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/5184657/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://www.inaturalist.org/taxa/93312",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://www.inaturalist.org/taxa/93312",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "GBIF species occurrence and distribution record",
+      "url": "https://www.gbif.org/species/5184657",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Legacy QC batch 04. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Acropora palmata",
+          "zh": "Acropora palmata"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Anthozoa",
+          "zh": "珊瑚纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "order",
+        "label": {
+          "en": "Order",
+          "zh": "目"
+        },
+        "value": {
+          "en": "Scleractinia",
+          "zh": "石珊瑚目"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "family",
+        "label": {
+          "en": "Family",
+          "zh": "科"
+        },
+        "value": {
+          "en": "Acroporidae",
+          "zh": "鹿角珊瑚科"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat",
+          "zh": "生境"
+        },
+        "value": {
+          "en": "Coral Reef",
+          "zh": "珊瑚礁"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Omnivore",
+          "zh": "杂食性"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Critically Endangered",
+          "zh": "极危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Sexual and asexual stages can differ greatly in form and habitat. Colony growth, spawning and larval settlement must be interpreted from species-specific evidence.",
+      "zh": "有性与无性阶段在形态和生境上可能差异很大。群体生长、产卵和幼体附着必须依据物种级证据解释。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Body plan",
+          "zh": "身体结构"
+        },
+        "detail": {
+          "en": "Its body plan is evaluated within Acroporidae; age, sex and seasonal variation must be separated from species-level traits.",
+          "zh": "其身体结构按鹿角珊瑚科背景评估；年龄、性别和季节变化必须与物种级特征区分。"
+        },
+        "source_keys": [
+          "taxonomy",
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Feeding strategy",
+          "zh": "取食策略"
+        },
+        "detail": {
+          "en": "The omnivore category is a broad guide; exact foods and methods can vary by life stage, season and locality.",
+          "zh": "杂食性类别只是宽泛指引；具体食物和方式会随生活阶段、季节及地点变化。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Habitat fit",
+          "zh": "生境适配"
+        },
+        "detail": {
+          "en": "Use of coral reef habitat is interpreted from exact-taxon occurrence and range evidence, not from map shape alone.",
+          "zh": "对珊瑚礁生境的利用依据精确分类单元的出现与分布证据解释，不能只看地图形状。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a omnivore species in coral reef habitat, it transfers energy through local food webs. Its exact ecological effect depends on abundance, food resources and interactions documented for each population.",
+      "zh": "作为珊瑚礁生境中的杂食性物种，它在当地食物网中传递能量。具体生态影响取决于各地种群数量、食物资源和有记录的相互作用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The Critically Endangered global category does not remove local risks from habitat change, direct mortality, disturbance, pollution or climate effects.",
+        "zh": "极危这一全球等级并不排除生境变化、直接死亡、干扰、污染或气候影响等地方风险。"
+      },
+      "actions": {
+        "en": "Protect the habitats and ecological processes identified by range authorities, reduce documented direct mortality and update management when monitoring or taxonomy changes.",
+        "zh": "应保护分布权威确认的生境和生态过程，减少有记录的直接死亡，并在监测或分类变化时更新管理。"
+      },
+      "source_keys": [
+        "conservation",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Confirm Elkhorn Coral with multiple visible characters, location and an exact taxon-linked record; color or body shape alone may be insufficient.",
+        "zh": "确认棕榈鹿角珊瑚时，应结合多个可见特征、地点和精确分类单元记录；仅凭颜色或体形可能不足。"
+      },
+      "similar_species": {
+        "en": "Close relatives and regional look-alikes can share major features. A filename, common name or single trait is not enough for image approval.",
+        "zh": "近缘种和地区性相似种可能共享主要特征。文件名、俗名或单一特征不足以批准图片。"
+      },
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Communication and sensory channels are shaped by this species' habitat and class. A specific call, scent signal or sensory claim should be assigned only when the exact-taxon source supports it.",
+      "zh": "交流与感官通道受该物种生境和类群塑造。只有精确分类单元来源支持时，才能指定具体叫声、气味信号或感官能力。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding, movement, molt, dormancy or food use can shift with latitude, rainfall, temperature and resource pulses. A date from one population is not treated as universal.",
+      "zh": "繁殖、移动、换羽、休眠或食物利用会随纬度、降雨、温度和资源脉冲变化。某一种群的日期不会被写成普遍规律。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Use, conflict, tourism and cultural relationships vary across the range. Safe observation avoids handling, feeding, playback and disturbance of nests, dens or natural behavior.",
+      "zh": "利用、冲突、旅游和文化关系因分布区而异。安全观察应避免触摸、投喂、播放声音，以及干扰巢穴、洞穴或自然行为。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Acropora palmata is placed in genus Acropora, family Acroporidae, order Scleractinia. This review follows the accepted species match cited in the taxonomy evidence.",
+      "zh": "Acropora palmata归入鹿角珊瑚属、鹿角珊瑚科、石珊瑚目。本次复核遵循分类证据中的接受种匹配。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks, calls, nests, feeding marks, molts or other indirect signs can narrow an identification but usually cannot confirm a species alone. Sensitive or dangerous animals require distance.",
+      "zh": "足迹、叫声、巢、取食痕迹、蜕皮或其他间接线索可缩小鉴定范围，但通常不能单独确认物种。遇到敏感或危险动物应保持距离。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The accepted scientific name used in this review is Acropora palmata.",
+          "zh": "本次复核采用的接受学名是Acropora palmata。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Critically Endangered is the checked global IUCN category, not a regional legal status.",
+          "zh": "极危是本次核对的全球IUCN等级，并非地区性法律地位。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "The map retains the previous approximate polygon and does not claim a newly verified boundary.",
+          "zh": "地图保留原有近似多边形，并不声称这是新核实的边界。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Cnidarian stages",
+          "zh": "刺胞动物阶段"
+        },
+        "content": {
+          "en": "Sexual and asexual stages can differ greatly in form and habitat. Colony growth, spawning and larval settlement must be interpreted from species-specific evidence.",
+          "zh": "有性与无性阶段在形态和生境上可能差异很大。群体生长、产卵和幼体附着必须依据物种级证据解释。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

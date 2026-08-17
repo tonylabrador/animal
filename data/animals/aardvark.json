@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "LC",
     "en": "Least Concern",
-    "zh": "无危"
+    "zh": "无危",
+    "note_en": "The 2015 global assessment lists the species as Least Concern; precise global population size and trend are not known.",
+    "note_zh": "2015年全球评估将其列为无危；全球种群数量和趋势尚无精确数据。"
   },
   "description": {
-    "en": "The aardvark is a medium-sized, nocturnal, burrowing mammal native to Africa. It is the sole extant representative of the order Tubulidentata. Characterized by its long, pig-like snout, rabbit-like ears, and a powerful, tapering tail, the aardvark is a highly specialized myrmecophage, feeding almost exclusively on ants and termites. Its name derives from Afrikaans/Dutch for 'earth pig'. Despite its appearance, it is not closely related to pigs or South American anteaters, but belongs to the Afrotheria superorder, making it a distant relative of elephants and manatees. They are vital ecosystem engineers, as their abandoned burrows provide critical shelter for a wide variety of other African wildlife.",
-    "zh": "土豚是一种原产于非洲的中型、夜行性穴居哺乳动物，是管齿目下现存的唯一物种。其特征包括长而类似猪的口鼻部、兔状长耳以及强壮且逐渐变细的尾巴。土豚是高度特化的食蚁性动物，几乎完全以蚂蚁和白蚁为食。其名称在南非语/荷兰语中意为“土猪”。尽管外形独特，它与猪或南美食蚁兽并无近缘关系，而是属于非洲兽总目，是象和海牛的远亲。土豚是重要的生态系统工程师，它们遗弃的洞穴为多种非洲野生动物提供了关键的避难所。"
+    "en": "The aardvark is Africa's only living member of the order Tubulidentata. This solitary nocturnal mammal uses powerful claws and a long sticky tongue to feed mainly on ants and termites, and its abandoned burrows provide shelter for many other animals.",
+    "zh": "土豚是非洲现存唯一的管齿目动物。这种独居夜行性哺乳动物用强壮的爪和长而黏的舌头主要捕食蚂蚁与白蚁；它遗弃的洞穴还会为许多其他动物提供庇护。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "The aardvark's most distinctive feature is its teeth, which lack enamel and consist of numerous hexagonal tubes of dentine fused together, giving the order its name (Tubulidentata). It possesses a long, protractile tongue (up to 30 cm) coated in sticky saliva for extracting insects. Its limbs are equipped with strong, shovel-like claws—four on the front feet and five on the hind—perfectly adapted for excavating hard-packed termite mounds. Its skin is thick and sparsely haired, providing protection against insect bites, while its large ears provide exceptional hearing to detect the movement of prey underground.",
-      "zh": "土豚最独特的特征是其牙齿，这些牙齿缺乏珐琅质，由许多融合在一起的六角形齿质管组成，这也是管齿目名称的由来。它拥有一条长达30厘米、可伸缩且涂有粘性唾液的舌头，用于卷食昆虫。其四肢配有强壮的铲状爪（前足四爪，后足五爪），完美适应于挖掘坚硬的白蚁丘。土豚皮肤厚实且毛发稀疏，可抵御昆虫叮咬，而巨大的耳朵则提供了卓越的听觉，用以探测地下猎物的活动。"
+      "en": "Adults are about 100–158 cm long and weigh roughly 40–82 kg. They have a long snout, large ears, thick skin, 4 clawed toes on each forefoot and 5 on each hind foot; their enamel-free cheek teeth are built from columns of dentine.",
+      "zh": "成体体长约100–158厘米，体重约40–82千克。它们有长吻、大耳和厚皮；前足各有4个带爪趾，后足各有5个。其无珐琅质的颊齿由一束束牙本质小管构成。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "Aardvarks are solitary and strictly nocturnal, emerging from their burrows shortly after sunset to forage. They can travel up to 10-30 km in a single night, using their keen sense of smell to locate termite nests. Once a nest is found, they use their powerful claws to break through the concrete-like exterior. Interestingly, they have a symbiotic relationship with the 'Aardvark cucumber' (Cucumis humifructus), which grows underground; the aardvark eats the fruit for its water content and disperses the seeds through its dung. They are excellent diggers, capable of excavating a yard of tunnel in about five minutes when threatened.",
-      "zh": "土豚营独居生活，是严格的夜行性动物，通常在日落后不久从洞穴中出来觅食。它们在一晚内可移动10至30公里，利用敏锐的嗅觉定位白蚁巢。一旦发现蚁巢，它们会用强壮的爪子破开坚如混凝土的外壳。有趣的是，它们与一种名为“土豚黄瓜”的地下植物存在共生关系：土豚食用这种果实以获取水分，并通过粪便传播种子。土豚是挖掘高手，在受到威胁时，能在约五分钟内挖掘出一码长的隧道。"
+      "en": "Aardvarks forage alone at night, often travelling 2–5 km. They locate ants and termites mainly by smell and hearing, break into nests with their claws, then sweep insects into the mouth with a sticky tongue.",
+      "zh": "土豚夜间独自觅食，常移动2–5公里。它们主要依靠嗅觉和听觉寻找蚂蚁与白蚁，用爪破开巢穴，再用黏性舌头把昆虫卷入口中。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Aardvarks are widely distributed across Sub-Saharan Africa, ranging from Senegal and Ethiopia down to South Africa. They are absent only from the driest deserts (like the Namib and central Sahara) and the densest tropical rainforests of the Congo Basin. They prefer habitats with sufficient sandy or loamy soil for digging and a high density of ants and termites, including savannas, grasslands, woodlands, and even some montane areas.",
-      "zh": "土豚广泛分布于撒哈拉以南非洲，从塞内加尔和埃塞俄比亚一直延伸到南非。它们仅在最干旱的沙漠（如纳米比沙漠和撒哈拉中部）以及刚果盆地最茂密的热带雨林中缺席。它们偏好具有足够沙质或壤土以便挖掘、且蚂蚁和白蚁密度高的生境，包括稀树草原、草原、林地，甚至是一些山地地区。"
+      "en": "The species is widespread in suitable habitats across sub-Saharan Africa, but is scarce in hard rocky ground, frequently flooded areas and parts of the West and Central African rainforest. Diggable soil and year-round insect prey are essential.",
+      "zh": "该物种广布于撒哈拉以南非洲的适宜生境，但在坚硬岩地、经常洪水的地区以及西非和中非部分雨林中较少。可挖掘的土壤和全年可得的昆虫猎物是关键条件。",
+      "source_keys": [
+        "general",
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -202,13 +215,306 @@
           25
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center and polygon coordinates are retained exactly. Authoritative text sources support the broad distribution, but reusable authoritative boundary geometry was not available; the polygon is therefore labelled as a retained approximate legacy range, not a verified range.",
+      "comparison_zh": "原有中心点和多边形坐标完全保留。权威文字来源支持其大致分布，但未获得可复用的权威边界几何，因此该多边形标为“保留的原有近似范围”，而非“已核实范围”。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/aardvark.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Orycteropus%20afer",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Orycteropus_afer/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Orycteropus_afer/",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "Endangered Wildlife Trust conservation assessment",
+      "url": "https://ewt.org/wp-content/uploads/2022/11/Aardvark-Orycteropus-afer_LC.pdf",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Orycteropus_afer/",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, taxonomy, protection status, numerical claims, English/Chinese scope and preserved legacy map geometry were checked for pilot batch 01."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_length",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "100–158 cm",
+          "zh": "100–158厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "40–82 kg",
+          "zh": "40–82千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Mostly ants and termites",
+          "zh": "主要为蚂蚁和白蚁"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Nocturnal",
+          "zh": "夜行"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "gestation",
+        "label": {
+          "en": "Gestation",
+          "zh": "妊娠期"
+        },
+        "value": {
+          "en": "About 7 months",
+          "zh": "约7个月"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "young",
+        "label": {
+          "en": "Young",
+          "zh": "每胎幼崽"
+        },
+        "value": {
+          "en": "Usually 1",
+          "zh": "通常1只"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "A female usually gives birth to 1 young after about 7 months of gestation. The young begins following its mother at about 2 weeks, starts eating insects around 3 months, becomes independent near 6 months and reaches sexual maturity at about 2 years.",
+      "zh": "雌性通常在约7个月妊娠后产下1只幼崽。幼崽约2周大时开始跟随母亲，约3个月开始吃昆虫，约6个月独立，并在约2岁时达到性成熟。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Powerful digging limbs",
+          "zh": "强力挖掘四肢"
+        },
+        "detail": {
+          "en": "Spade-like claws open hard insect nests and can rapidly excavate an escape burrow.",
+          "zh": "铲状爪既能破开坚硬的昆虫巢，也能迅速挖出逃生洞穴。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Sticky insect-catching tongue",
+          "zh": "黏性捕虫舌"
+        },
+        "detail": {
+          "en": "A long tongue coated with sticky saliva collects ants and termites from narrow galleries.",
+          "zh": "长舌表面覆有黏性唾液，可从狭窄通道中卷走蚂蚁和白蚁。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Tubular teeth",
+          "zh": "管状牙齿"
+        },
+        "detail": {
+          "en": "Its continuously growing cheek teeth lack enamel and are made of many dentine tubes, the feature behind the name Tubulidentata.",
+          "zh": "其不断生长的颊齿没有珐琅质，由许多牙本质小管构成，这正是“管齿目”名称的由来。"
+        },
+        "source_keys": [
+          "general",
+          "taxonomy"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Aardvarks are ecosystem engineers. Their digging aerates soil, and abandoned burrows create cool refuges used by mammals, birds, reptiles and other animals.",
+      "zh": "土豚是生态系统工程师。挖掘会疏松土壤；遗弃洞穴则形成凉爽庇护所，被多种哺乳动物、鸟类、爬行动物及其他动物利用。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The species remains widespread, but local populations can be reduced by hunting, agricultural expansion, habitat conversion and pesticides that remove insect prey.",
+        "zh": "该物种仍分布广泛，但狩猎、农业扩张、生境转化，以及减少昆虫猎物的农药，都可能使地方种群下降。"
+      },
+      "actions": {
+        "en": "Maintain connected natural habitat, protect burrow-rich areas, limit indiscriminate pesticide use and monitor populations outside southern Africa, where data are especially sparse.",
+        "zh": "应维持连通的自然生境，保护洞穴丰富区域，限制不加选择的农药使用，并加强对南部非洲以外数据稀缺种群的监测。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Look for a pig-sized body, very long tapering snout, large upright ears, arched back, thick tail and powerful digging claws.",
+        "zh": "辨认要点是猪般大小的身体、很长且渐尖的吻部、直立大耳、弓背、粗尾和强壮挖掘爪。"
+      },
+      "similar_species": {
+        "en": "It is not a pig or an anteater. African pangolins have overlapping scales, while aardvarks have thick, sparsely haired skin and much larger ears.",
+        "zh": "它既不是猪，也不是食蚁兽。非洲穿山甲全身覆有叠瓦状鳞片，而土豚是厚而稀毛的皮肤，耳朵也大得多。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Smell and hearing are more important than vision when foraging. Scent glands may help individuals space themselves, while large ears detect predators and activity around insect nests.",
+      "zh": "觅食时，嗅觉和听觉比视觉更重要。气味腺可能帮助个体保持间距，大耳则用于察觉捕食者和昆虫巢周围的动静。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Aardvarks forage year-round where ants and termites remain available. Birth timing differs by region: records cited by ADW place births in months 10–11 in northern areas and months 5–7 in South Africa.",
+      "zh": "只要蚂蚁和白蚁全年可得，土豚就会持续觅食。产仔时间因地区而异：ADW所引资料记录北部地区多在10–11月，南非多在5–7月。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "People hunt aardvarks for meat or body parts in some regions, while farmers may view burrows as hazards. At the same time, aardvarks can suppress pest insects and their burrows support biodiversity.",
+      "zh": "部分地区会为肉或身体部位捕猎土豚，农民也可能把洞穴视作安全隐患；另一方面，土豚能减少害虫，其洞穴还能支持生物多样性。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Orycteropus afer is the sole living species in Tubulidentata and belongs to Afrotheria, the African mammal radiation that also includes elephants, hyraxes and sirenians; its resemblance to pigs and anteaters is superficial.",
+      "zh": "土豚是管齿目唯一现生种，属于非洲兽总目；这一非洲哺乳动物谱系还包括象、蹄兔和海牛。它与猪、食蚁兽的相似只是表面上的。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks show 4 front toes and 5 hind toes with heavy claws. Large burrow entrances, fresh spoil heaps and claw marks at termite mounds often reveal an aardvark that is rarely seen directly.",
+      "zh": "足迹可见前足4趾、后足5趾和粗大爪痕。大型洞口、新鲜弃土堆，以及白蚁丘上的爪痕，常能暴露这种很少被直接看见的动物。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The name 'aardvark' comes from Afrikaans and means 'earth pig,' although the species is not closely related to pigs.",
+          "zh": "“aardvark”来自南非语，意为“土猪”，但土豚与猪并无近缘关系。"
+        },
+        "source_keys": [
+          "general",
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Aardvark cheek teeth have no enamel; many tiny dentine tubes give the order Tubulidentata its name.",
+          "zh": "土豚颊齿没有珐琅质，许多细小牙本质管构成了“管齿目”这一名称。"
+        },
+        "source_keys": [
+          "general",
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Other animals often move into abandoned aardvark burrows to escape heat, cold or predators.",
+          "zh": "其他动物常搬进土豚遗弃的洞穴，以躲避炎热、寒冷或捕食者。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Mammal feature",
+          "zh": "哺乳动物特征"
+        },
+        "content": {
+          "en": "The mother gives birth to live young and nurses it in a burrow until it can forage independently.",
+          "zh": "母兽产下活体幼崽，并在洞穴中哺乳，直到幼崽能够独立觅食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

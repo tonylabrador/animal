@@ -12,15 +12,25 @@ const REVIEW_DIR = path.join(ROOT, ".image-review");
 const MANIFEST_PATH = path.join(ROOT, "data", "image-attribution.json");
 const DELAY_MS = 1100;
 const ALLOWED_LICENSES = new Set(["cc0", "cc-by", "cc-by-sa"]);
+const TAXON_SEARCH_ALIASES = new Map([
+  ["acipenser sinensis", "Sinosturio sinensis"],
+  ["lagenorhynchus obscurus", "Aethalodelphis obscurus"],
+  ["sus domesticus", "Sus scrofa"],
+]);
 const USER_AGENT = `WildExplorer/2.0 (${process.env.INAT_CONTACT || "https://animal.prismbase.org"})`;
 
 function parseArgs(argv) {
-  const args = { ids: [], candidateCount: 5, force: false, approve: [], reject: [], hide: [] };
+  const args = { ids: [], exclude: [], batch: null, decisions: null, candidateCount: 5, force: false, unverifiedOnly: false, wikimediaOnly: false, approve: [], reject: [], hide: [] };
   for (let index = 0; index < argv.length; index += 1) {
     const value = argv[index];
     if (value === "--ids") args.ids = (argv[++index] || "").split(",").filter(Boolean);
+    else if (value === "--exclude") args.exclude = (argv[++index] || "").split(",").filter(Boolean);
+    else if (value === "--batch") args.batch = argv[++index] || null;
+    else if (value === "--decisions") args.decisions = argv[++index] || null;
     else if (value === "--candidate-count") args.candidateCount = Number(argv[++index] || 5);
     else if (value === "--force") args.force = true;
+    else if (value === "--unverified-only") args.unverifiedOnly = true;
+    else if (value === "--wikimedia-only") args.wikimediaOnly = true;
     else if (value === "--approve") args.approve = (argv[++index] || "").split(",").filter(Boolean);
     else if (value === "--reject") args.reject = (argv[++index] || "").split(",").filter(Boolean);
     else if (value === "--hide") args.hide = (argv[++index] || "").split(",").filter(Boolean);
@@ -66,9 +76,10 @@ function normalizedName(value) {
 }
 
 async function resolveExactTaxon(scientificName) {
-  const url = `https://api.inaturalist.org/v1/taxa?q=${encodeURIComponent(scientificName)}&rank=species&per_page=30`;
+  const queryName = TAXON_SEARCH_ALIASES.get(normalizedName(scientificName)) || scientificName;
+  const url = `https://api.inaturalist.org/v1/taxa?q=${encodeURIComponent(queryName)}&rank=species&per_page=30`;
   const data = await fetchJson(url);
-  const target = normalizedName(scientificName);
+  const target = normalizedName(queryName);
   const exact = data.results?.find((taxon) =>
     normalizedName(taxon.name) === target
     || (taxon.matched_term && normalizedName(taxon.matched_term) === target)
@@ -172,13 +183,13 @@ function writeReviewPage(animal, taxon, candidates, directory) {
   fs.writeFileSync(path.join(directory, "review.html"), html, "utf8");
 }
 
-async function prepareAnimal(animal, count) {
+async function prepareAnimal(animal, count, { wikimediaOnly = false } = {}) {
   const directory = path.join(REVIEW_DIR, animal.id);
   fs.mkdirSync(directory, { recursive: true });
   const taxon = await resolveExactTaxon(animal.scientific_name);
   await delay(DELAY_MS);
-  const candidates = await getCandidates(taxon, count);
-  if (candidates.length < count) {
+  const candidates = wikimediaOnly ? [] : await getCandidates(taxon, count);
+  if (wikimediaOnly || candidates.length < count) {
     await delay(DELAY_MS);
     const wikimedia = await getWikimediaCandidates(animal.scientific_name, count - candidates.length);
     candidates.push(...wikimedia);
@@ -312,13 +323,25 @@ async function main() {
   const args = parseArgs(process.argv.slice(2));
   if (args.help) {
     console.log("Prepare: node download_images.js --ids arctic-fox,red-panda --force");
+    console.log("Wikimedia only: node download_images.js --ids american-crow --force --wikimedia-only");
     console.log("Approve: node download_images.js --approve arctic-fox:1,red-panda:2");
     console.log("Reject: node download_images.js --reject arctic-fox,red-panda");
     console.log("Hide unverified: node download_images.js --hide arctic-fox,red-panda");
+    console.log("Batch unverified: node download_images.js --batch legacy-qc-batch-04 --unverified-only --force --exclude animal-id");
     return;
   }
   const records = readAnimals(ANIMALS_DIR);
   const animalsById = new Map(records.map(({ animal }) => [animal.id, animal]));
+  if (args.decisions) {
+    const decisionsPath = path.isAbsolute(args.decisions) ? args.decisions : path.join(ROOT, args.decisions);
+    const decisions = JSON.parse(fs.readFileSync(decisionsPath, "utf8"));
+    args.approve = (decisions.approvals || []).map((decision) => decision.selection);
+  }
+  if (args.batch) {
+    const baselinePath = path.join(ROOT, "docs", "qc-batches", `${args.batch}-baseline.json`);
+    const baseline = JSON.parse(fs.readFileSync(baselinePath, "utf8"));
+    args.ids = baseline.animals.map((animal) => animal.id);
+  }
   if (args.reject.length > 0) {
     rejectSelections(args.reject, animalsById);
     return;
@@ -331,8 +354,11 @@ async function main() {
     for (const selection of args.approve) approveSelection(selection, animalsById);
     return;
   }
+  const manifest = loadManifest();
   const selected = records.map(({ animal }) => animal).filter((animal) => {
     if (args.ids.length > 0 && !args.ids.includes(animal.id)) return false;
+    if (args.exclude.includes(animal.id)) return false;
+    if (args.unverifiedOnly && manifest[animal.id]?.license_status === "verified" && manifest[animal.id]?.review_status === "human-approved") return false;
     return args.force || !animal.image || !fs.existsSync(path.join(OUTPUT_DIR, `${animal.id}.jpg`));
   });
   if (selected.length === 0) {
@@ -341,7 +367,7 @@ async function main() {
   }
   for (const animal of selected) {
     try {
-      await prepareAnimal(animal, args.candidateCount);
+      await prepareAnimal(animal, args.candidateCount, { wikimediaOnly: args.wikimediaOnly });
     } catch (error) {
       console.error(`❌ ${animal.id}: ${error.message}`);
     }

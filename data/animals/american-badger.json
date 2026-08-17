@@ -37,24 +37,36 @@
   "conservation_status": {
     "code": "LC",
     "en": "Least Concern",
-    "zh": "无危"
+    "zh": "无危",
+    "note_en": "The global status is Least Concern; regional populations can still decline where grassland and burrowing prey are lost.",
+    "note_zh": "全球等级为无危；草地和穴居猎物丧失地区的地方种群仍可能下降。"
   },
   "description": {
-    "en": "A stout, low-slung mammal known for its digging abilities and distinctive facial stripes.",
-    "zh": "一种粗壮低矮的哺乳动物，以其挖掘能力和独特的面部条纹而闻名。"
+    "en": "The American badger is a low, powerful North American mustelid specialized for excavating burrowing prey. Long foreclaws, a wedge-shaped body and loose protective skin let it dig rapidly and defend itself underground or in open country.",
+    "zh": "美洲獾是北美洲低矮而强壮的鼬科动物，特化于挖掘穴居猎物。长前爪、楔形身体和松弛防护皮肤使其能快速掘土，并在地下或开阔地自卫。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "American badgers have flat, wedge-shaped bodies built close to the ground, weighing 6 to 12 kilograms. They have short, powerful legs with long front claws that can be up to 5 centimeters long, perfect for digging. Their face has a striking black and white pattern with a white stripe running from their nose over the top of their head.",
-      "zh": "美洲獾有扁平的楔形身体，紧贴地面，体重6到12公斤。它们有短而有力的腿，前爪可长达5厘米，非常适合挖掘。它们的面部有醒目的黑白花纹，一条白色条纹从鼻子延伸到头顶。"
+      "en": "Adults commonly weigh about 6–12 kg and have a broad flattened body, short legs, long foreclaws, small ears and a white central facial stripe bordered by dark patches. Loose skin lets the animal twist when seized.",
+      "zh": "成体通常重约6–12千克，身体宽扁，腿短，前爪长，耳小，面部中央有白纹并由深色斑块围绕。松弛皮肤使其被抓住时仍能转身。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "American badgers are expert diggers that hunt ground squirrels, prairie dogs, and other burrowing animals by digging them out of their tunnels at amazing speed. They sometimes team up with coyotes to hunt together, where the coyote chases prey above ground while the badger digs below. They are mostly active at night and are known for being tough and fearless when cornered.",
-      "zh": "美洲獾是挖掘高手，它们以惊人的速度将地松鼠、土拨鼠和其他穴居动物从洞穴中挖出来捕食。它们有时会和郊狼合作狩猎，郊狼在地面上追赶猎物，而獾在地下挖掘。它们主要在夜间活动，被逼到角落时以强悍无畏著称。"
+      "en": "Mostly solitary badgers locate rodents and other small animals by smell and hearing, then dig into burrows. They also eat reptiles, insects, eggs and carrion and may forage near coyotes when both predators make prey choose between surface and tunnel.",
+      "zh": "美洲獾主要独居，利用嗅觉和听觉定位啮齿动物等小动物，再挖入洞穴。它们也吃爬行动物、昆虫、卵和腐肉；有时与郊狼邻近觅食，使猎物必须在地面和洞道间选择。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "American badgers live in dry, open grasslands, prairies, and farmlands across western and central North America. They range from south-central Canada through the western United States to central Mexico. They prefer areas with loose, sandy soil that is easy to dig through.",
-      "zh": "美洲獾生活在北美洲西部和中部干燥开阔的草原、大草原和农田中。它们的分布范围从加拿大中南部到美国西部，一直延伸到墨西哥中部。它们喜欢松软的沙质土壤，便于挖掘。"
+      "en": "The species occurs from southern Canada through much of the western and central United States into Mexico, favoring grassland, shrub-steppe, open farmland and soils that can be excavated.",
+      "zh": "该物种从加拿大南部分布，经美国西部和中部广大地区到墨西哥，偏好草地、灌丛草原、开阔农田以及可挖掘土壤。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -556,13 +568,301 @@
           -120.5
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and polygon coordinates are retained exactly. Authoritative text supports the broad distribution, but reusable authoritative boundary geometry was unavailable; the legacy polygon is labelled approximate, not verified.",
+      "comparison_zh": "原有中心点、缩放和多边形坐标完全保留。权威文字支持大致分布，但未获得可复用的权威边界几何；原多边形标为近似范围，而非已核实边界。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/american-badger.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Taxidea%20taxus",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "GBIF IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/2434102/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Taxidea_taxus/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Taxidea_taxus/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Taxidea_taxus/",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, current global status, numeric claims, bilingual scope and unchanged legacy map geometry checked for legacy QC batch 03A."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "mass",
+        "label": {
+          "en": "Body mass",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 6–12 kg",
+          "zh": "约6–12千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Mostly nocturnal or crepuscular",
+          "zh": "主要夜行或晨昏活动"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Burrowing mammals and other small prey",
+          "zh": "穴居哺乳动物及其他小型猎物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "reproduction",
+        "label": {
+          "en": "Reproduction",
+          "zh": "繁殖"
+        },
+        "value": {
+          "en": "Delayed implantation",
+          "zh": "延迟着床"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "young",
+        "label": {
+          "en": "Litter",
+          "zh": "每窝幼崽"
+        },
+        "value": {
+          "en": "Usually 1–5 cubs",
+          "zh": "通常1–5只"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Least Concern",
+          "zh": "无危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Mating occurs in summer or early autumn, but implantation is delayed. Embryonic development resumes later so usually 1–5 cubs are born in a spring den; the mother nurses and protects them until dispersal.",
+      "zh": "交配发生在夏季或初秋，但胚胎延迟着床。之后发育恢复，使通常1–5只幼崽在春季洞穴中出生；母獾哺乳并保护它们直至扩散。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Excavating forelimbs",
+          "zh": "挖掘前肢"
+        },
+        "detail": {
+          "en": "Strong shoulders and long claws move soil rapidly and open prey burrows.",
+          "zh": "强壮肩部和长爪能迅速移土并打开猎物洞穴。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Wedge-shaped body",
+          "zh": "楔形身体"
+        },
+        "detail": {
+          "en": "A low broad form anchors the animal and moves through confined tunnels.",
+          "zh": "低矮宽体可固定身体并穿过狭窄洞道。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Delayed implantation",
+          "zh": "延迟着床"
+        },
+        "detail": {
+          "en": "Timing embryonic development separates mating from spring birth when conditions are better.",
+          "zh": "把胚胎发育时间与交配分开，使分娩落在条件较好的春季。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Badgers regulate burrowing rodents and their excavations aerate soil, mix nutrients and create holes later used by insects, reptiles and mammals.",
+      "zh": "美洲獾控制穴居啮齿动物，其挖掘会使土壤通气、混合养分，并形成后来被昆虫、爬行动物和哺乳动物利用的洞穴。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "stable",
+      "threats": {
+        "en": "Road mortality, poisoning campaigns aimed at prey, grassland conversion and trapping can reduce local populations even though the species remains widespread.",
+        "zh": "道路死亡、针对猎物的毒杀、草地转化和捕捉会减少地方种群，尽管该物种仍广布。"
+      },
+      "actions": {
+        "en": "Retain open habitat and prey colonies, reduce indiscriminate poison use, provide road-crossing planning and monitor vulnerable peripheral populations.",
+        "zh": "应保留开阔生境和猎物群落，减少无差别用毒，规划道路穿越措施并监测脆弱边缘种群。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Broad, very low mustelid with grizzled fur, a white stripe over the head, dark cheek patches and conspicuously long front claws.",
+        "zh": "宽而极低矮的鼬科动物，被毛灰杂，头顶有白纹，颊部深色，前爪明显很长。"
+      },
+      "similar_species": {
+        "en": "Striped skunks have a bushier tail and back stripes rather than the badger's flattened digging build. Wolverines are larger, darker and longer-legged.",
+        "zh": "条纹臭鼬尾更蓬松，背部有条纹，没有獾的扁平挖掘体型。狼獾更大、更深色且腿更长。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Scent marks, hisses, growls, squeals and body posture warn rivals and predators; smell and hearing also locate hidden prey.",
+      "zh": "气味标记、嘶声、低吼、尖叫和身体姿势用于警告同类与捕食者；嗅觉和听觉也用于定位隐藏猎物。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Activity declines in severe winter weather but true prolonged hibernation does not occur. Mating and delayed implantation produce spring births while prey activity changes seasonally.",
+      "zh": "严寒天气中活动减少，但不会长期真正冬眠。交配与延迟着床使幼崽春季出生，猎物活动也随季节变化。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Badgers can benefit farms by eating rodents but may dig in fields and embankments. They should never be cornered or handled; conflict prevention focuses on attractants and site-specific exclusion.",
+      "zh": "美洲獾捕食啮齿动物可有利农田，但也会在田地和堤岸挖洞。绝不能逼近或触摸；冲突预防应管理诱因并按地点采取排除措施。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Taxidea taxus is the only living species of Taxidea, a North American branch of the mustelid family rather than a close member of the Eurasian Meles badger genus.",
+      "zh": "美洲獾是美洲獾属唯一现生种，属于鼬科的北美谱系，并非欧亚獾属的近成员。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Large digging spoil piles, oval burrow openings and 5-toed tracks with long claw marks suggest a badger. Many mammals dig, so a clear track series or animal view is needed.",
+      "zh": "大型掘土堆、椭圆洞口以及带长爪痕的5趾足迹提示美洲獾。许多哺乳动物都会挖洞，因此需要清晰连续足迹或动物影像。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Mating and birth are separated by delayed implantation.",
+          "zh": "交配与分娩通过延迟着床分隔。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A badger and coyote may forage near each other without forming a permanent team.",
+          "zh": "獾和郊狼可能在彼此附近觅食，但不会组成永久团队。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "Loose skin helps a badger twist around inside a confined burrow.",
+          "zh": "松弛皮肤帮助美洲獾在狭窄洞穴中转身。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Burrowing mammal",
+          "zh": "穴居哺乳动物"
+        },
+        "content": {
+          "en": "Powerful excavation serves hunting, shelter, birth and escape; soil type therefore shapes where the animal can obtain both prey and a secure den.",
+          "zh": "强力挖掘同时服务于捕猎、庇护、分娩和逃生，因此土壤类型会决定它能否同时获得猎物与安全洞穴。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

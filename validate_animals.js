@@ -29,16 +29,26 @@ function printIssues(title, issues) {
 function validateRecords(records, options = {}) {
   const errors = [];
   const warnings = [];
+  let legacyContentCount = 0;
   const unique = { id: new Map(), nameEn: new Map(), nameZh: new Map(), scientific: new Map() };
 
   for (const { file, animal } of records) {
-    const result = validateAnimal(animal, { fileName: options.checkFileName ? file : undefined });
+    if (animal.content_version !== 2) legacyContentCount += 1;
+    const result = validateAnimal(animal, {
+      fileName: options.checkFileName ? file : undefined,
+      requireRichContent: options.requireRichContent,
+      requireReview: options.requireReview,
+    });
     errors.push(...result.errors.map((message) => `${file}: ${message}`));
     warnings.push(...result.warnings.map((message) => `${file}: ${message}`));
     add(unique.id, animal.id, file);
     add(unique.nameEn, animal.name_en, file);
     add(unique.nameZh, animal.name_zh, file);
     add(unique.scientific, animal.scientific_name, file);
+  }
+
+  if (!options.requireRichContent && legacyContentCount > 0) {
+    warnings.push(`${legacyContentCount} legacy records do not yet have content_version 2 rich sections`);
   }
 
   for (const [label, values] of Object.entries(unique)) {
@@ -105,7 +115,11 @@ if (draftMode) {
   records = readAnimals(ANIMALS_DIR);
 }
 
-const result = validateRecords(records, { checkFileName: !draftMode });
+const result = validateRecords(records, {
+  checkFileName: !draftMode,
+  requireRichContent: draftMode,
+  requireReview: true,
+});
 if (!draftMode) {
   const imageResult = validateImages(records);
   result.errors.push(...imageResult.errors);

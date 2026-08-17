@@ -37,7 +37,9 @@
   "conservation_status": {
     "code": "NT",
     "en": "Near Threatened",
-    "zh": "近危"
+    "zh": "近危",
+    "note_en": "The current species-level global category checked for this review is Near Threatened; local or legal categories may differ.",
+    "note_zh": "本次复核确认的当前物种级全球等级为近危；地方或法律等级可能不同。"
   },
   "description": {
     "en": "The bearded vulture, also known as the lammergeier, is a magnificent bird of prey and the only known vertebrate whose diet consists almost exclusively of bone. Unlike typical vultures, it possesses a fully feathered head and neck, adorned with a distinctive bristly 'beard' beneath its beak. It is renowned for its unique behavior of dropping massive bones from tremendous heights to shatter them on rocks, allowing it to swallow the marrow-rich shards whole.",
@@ -46,15 +48,25 @@
   "encyclopedia": {
     "anatomy": {
       "en": "Exhibiting a massive wingspan that can exceed 2.8 meters, the bearded vulture is characterized by its long, narrow wings and a distinctive wedge- or lozenge-shaped tail, which provides exceptional maneuverability in turbulent mountain winds. The adult's plumage is striking, featuring dark grey-black upperparts and contrasting rust-orange underparts. This vibrant orange hue is not genetically determined but is acquired through cosmetic coloration, as the bird deliberately bathes in iron-rich, ferruginous mud and water. Its piercing yellow eyes are surrounded by a vivid red sclerotic ring, adding to its formidable appearance. The highly specialized digestive system features extremely acidic gastric juices (pH ~1) capable of dissolving dense bone matter within 24 hours.",
-      "zh": "胡兀鹫的翼展可超过2.8米，其特征是狭长的翅膀和独特的楔形或菱形尾羽，这使其在湍急的山地气流中具有极佳的机动性。成鸟的羽毛十分醒目，上半身呈深灰黑色，下半身则是对比鲜明的铁锈橙色。这种鲜艳的橙色并非由基因决定，而是通过一种“化妆”行为获得的——它们会刻意在富含铁质的泥水中沐浴。其锐利的黄色眼睛被鲜红色的巩膜环包围，更增添了其威猛的外观。其高度特化的消化系统具有极酸的胃液（pH值约为1），能够在24小时内溶解致密的骨质。"
+      "zh": "胡兀鹫的翼展可超过2.8米，其特征是狭长的翅膀和独特的楔形或菱形尾羽，这使其在湍急的山地气流中具有极佳的机动性。成鸟的羽毛十分醒目，上半身呈深灰黑色，下半身则是对比鲜明的铁锈橙色。这种鲜艳的橙色并非由基因决定，而是通过一种“化妆”行为获得的——它们会刻意在富含铁质的泥水中沐浴。其锐利的黄色眼睛被鲜红色的巩膜环包围，更增添了其威猛的外观。其高度特化的消化系统具有极酸的胃液（pH值约为1），能够在24小时内溶解致密的骨质。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "As an obligate osteophage, bones comprise 85-90% of its diet. It fills a unique ecological niche as the ultimate scavenger, consuming the skeletal remains left behind by other predators and scavengers. When confronted with bones too large to swallow (up to 28 cm in length and 4 cm in diameter), the bearded vulture employs a learned technique: it carries the bone aloft and drops it onto specific rocky outcrops, known as ossuaries, to shatter it. This species is highly territorial and monogamous, often engaging in spectacular aerial courtship displays involving talon-grappling and spiraling descents. They breed on steep, inaccessible cliff ledges, laying one to two eggs, though usually only the first-hatched chick survives due to obligate siblicide.",
-      "zh": "作为一种专性食骨动物，骨头占其食物的85-90%。它作为终极食腐动物占据了独特的生态位，专门消耗其他捕食者和食腐动物留下的骨骼残骸。当遇到大到无法直接吞咽的骨头（长达28厘米，直径4厘米）时，胡兀鹫会采用一种后天习得的技巧：将骨头带到高空，然后将其扔到特定的岩石露头（称为“碎骨场”）上摔碎。该物种具有高度的领地意识且实行一夫一妻制，经常进行壮观的空中求偶表演，包括双爪互锁和螺旋下降。它们在陡峭、难以到达的悬崖壁架上繁殖，产下一到两枚卵，但由于专性同胞相残，通常只有先孵化出的雏鸟才能存活。"
+      "en": "This review classifies the species as carnivore. Feeding, social behavior and activity can vary with age, season and locality, so details are tied to the cited species account rather than generalized from one observation.",
+      "zh": "本次复核把该物种归为肉食性。取食、社会行为和活动会随年龄、季节与地点变化，因此细节应对应所引物种资料，不能从一次观察泛化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "The bearded vulture is strictly adapted to high-altitude mountainous environments, typically residing at elevations between 1,000 and 4,500 meters, though they have been observed soaring above Mount Everest at 7,300 meters. Their habitat requires rugged cliffs for nesting, thermal updrafts for soaring, and expansive alpine pastures or steppes where wild ungulates or domesticated livestock are present. Their fragmented global distribution spans the Pyrenees, the Alps, the Caucasus, the Zagros Mountains, the Himalayas, the Tibetan Plateau, the Altai Mountains, and isolated populations in the Ethiopian Highlands and the Drakensberg of South Africa.",
-      "zh": "胡兀鹫严格适应高海拔山地环境，通常栖息在海拔1000至4500米之间，尽管曾有人观察到它们在7300米的珠穆朗玛峰上空翱翔。它们的栖息地需要崎岖的悬崖用于筑巢，热上升气流用于翱翔，以及广阔的高山牧场或草原，那里有野生有蹄类动物或家畜出没。它们在全球的分布呈碎片化，横跨比利牛斯山脉、阿尔卑斯山脉、高加索山脉、扎格罗斯山脉、喜马拉雅山脉、青藏高原、阿尔泰山脉，并在埃塞俄比亚高原和南非的德拉肯斯堡山脉有孤立的种群。"
+      "en": "The bearded vulture is strictly adapted to high-altitude mountainous environments, typically residing at elevations between 1000 and 4500 meters, though they have been observed soaring above Mount Everest at 7300 meters. Their habitat requires rugged cliffs for nesting, thermal updrafts for soaring, and expansive alpine pastures or steppes where wild ungulates or domesticated livestock are present. Their fragmented global distribution spans the Pyrenees, the Alps, the Caucasus, the Zagros Mountains, the Himalayas, the Tibetan Plateau, the Altai Mountains, and isolated populations in the Ethiopian Highlands and the Drakensberg of South Africa.",
+      "zh": "胡兀鹫严格适应高海拔山地环境，通常栖息在海拔1000至4500米之间，尽管曾有人观察到它们在7300米的珠穆朗玛峰上空翱翔。它们的栖息地需要崎岖的悬崖用于筑巢，热上升气流用于翱翔，以及广阔的高山牧场或草原，那里有野生有蹄类动物或家畜出没。它们在全球的分布呈碎片化，横跨比利牛斯山脉、阿尔卑斯山脉、高加索山脉、扎格罗斯山脉、喜马拉雅山脉、青藏高原、阿尔泰山脉，并在埃塞俄比亚高原和南非的德拉肯斯堡山脉有孤立的种群。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -312,13 +324,306 @@
           38.12
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and every polygon coordinate are retained exactly. The polygon remains labelled approximate because reusable authoritative boundary geometry was not established in this review.",
+      "comparison_zh": "原有中心点、缩放级别和每个多边形坐标均完全保留。由于本次复核未取得可复用的权威边界几何，该多边形继续标为近似范围。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/bearded-vulture.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Gypaetus%20barbatus",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List species search",
+      "url": "https://www.iucnredlist.org/search?query=Gypaetus%20barbatus&searchType=species",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Gypaetus_barbatus/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Gypaetus_barbatus/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Gypaetus_barbatus/",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Taxonomy, current global status, legacy bilingual sections, image identity criteria and unchanged habitat geometry reviewed for legacy QC batch 03B–03E."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Gypaetus barbatus",
+          "zh": "Gypaetus barbatus"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Aves",
+          "zh": "鸟纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "order",
+        "label": {
+          "en": "Order",
+          "zh": "目"
+        },
+        "value": {
+          "en": "Accipitriformes",
+          "zh": "鹰形目"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat category",
+          "zh": "生境类别"
+        },
+        "value": {
+          "en": "Mountains",
+          "zh": "山地"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet category",
+          "zh": "食性类别"
+        },
+        "value": {
+          "en": "Carnivore",
+          "zh": "肉食性"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Near Threatened",
+          "zh": "近危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Breeding includes egg laying, incubation and a dependent nestling period. Nest type, clutch size and seasonal timing must be interpreted for the population and latitude cited by the source.",
+      "zh": "繁殖包括产卵、孵化和雏鸟依赖期。巢型、窝卵数和季节时间必须结合来源所指的种群与纬度解释。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Body design",
+          "zh": "身体结构"
+        },
+        "detail": {
+          "en": "Exhibiting a massive wingspan that can exceed 2.8 meters, the bearded vulture is characterized by its long, narrow wings and a distinctive wedge- or lozenge-shaped tail, which provides exceptional maneuverability in turbulent mountain winds. The adult's plumage is striking, featuring dark grey-black upperparts and contrasting rust-orange underparts. This vibrant orange hue is not genetically determined but is acquired through cosmetic coloration, as the bird deliberately bathes in iron-rich, ferruginous mud and water. Its piercing yellow eyes are surrounded by a vivid red sclerotic ring, adding to its formidable appearance. The highly specialized digestive system features extremely acidic gastric juices (pH ~1) capable of dissolving dense bone matter within 24 hours.",
+          "zh": "胡兀鹫的翼展可超过2.8米，其特征是狭长的翅膀和独特的楔形或菱形尾羽，这使其在湍急的山地气流中具有极佳的机动性。成鸟的羽毛十分醒目，上半身呈深灰黑色，下半身则是对比鲜明的铁锈橙色。这种鲜艳的橙色并非由基因决定，而是通过一种“化妆”行为获得的——它们会刻意在富含铁质的泥水中沐浴。其锐利的黄色眼睛被鲜红色的巩膜环包围，更增添了其威猛的外观。其高度特化的消化系统具有极酸的胃液（pH值约为1），能够在24小时内溶解致密的骨质。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Feeding and behavior",
+          "zh": "取食与行为"
+        },
+        "detail": {
+          "en": "This review classifies the species as carnivore. Feeding, social behavior and activity can vary with age, season and locality, so details are tied to the cited species account rather than generalized from one observation.",
+          "zh": "本次复核把该物种归为肉食性。取食、社会行为和活动会随年龄、季节与地点变化，因此细节应对应所引物种资料，不能从一次观察泛化。"
+        },
+        "source_keys": [
+          "general",
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Habitat fit",
+          "zh": "生境适配"
+        },
+        "detail": {
+          "en": "The bearded vulture is strictly adapted to high-altitude mountainous environments, typically residing at elevations between 1000 and 4500 meters, though they have been observed soaring above Mount Everest at 7300 meters. Their habitat requires rugged cliffs for nesting, thermal updrafts for soaring, and expansive alpine pastures or steppes where wild ungulates or domesticated livestock are present. Their fragmented global distribution spans the Pyrenees, the Alps, the Caucasus, the Zagros Mountains, the Himalayas, the Tibetan Plateau, the Altai Mountains, and isolated populations in the Ethiopian Highlands and the Drakensberg of South Africa.",
+          "zh": "胡兀鹫严格适应高海拔山地环境，通常栖息在海拔1000至4500米之间，尽管曾有人观察到它们在7300米的珠穆朗玛峰上空翱翔。它们的栖息地需要崎岖的悬崖用于筑巢，热上升气流用于翱翔，以及广阔的高山牧场或草原，那里有野生有蹄类动物或家畜出没。它们在全球的分布呈碎片化，横跨比利牛斯山脉、阿尔卑斯山脉、高加索山脉、扎格罗斯山脉、喜马拉雅山脉、青藏高原、阿尔泰山脉，并在埃塞俄比亚高原和南非的德拉肯斯堡山脉有孤立的种群。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a carnivore in mountains habitat, this species transfers energy through its food web; the detailed effects depend on local abundance, prey or food plants, and interactions described by the cited ecology source.",
+      "zh": "作为山地生境中的肉食性，该物种在食物网中传递能量；具体影响取决于当地数量、猎物或食物植物，以及所引生态来源描述的相互作用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "The Near Threatened global category does not remove local risks from habitat change, direct mortality, disturbance, pollution or climate effects; the relevant combination differs across the range.",
+        "zh": "近危这一全球等级并不排除生境变化、直接死亡、干扰、污染或气候影响等地方风险；不同分布区的风险组合不同。"
+      },
+      "actions": {
+        "en": "Protect the habitats and ecological processes identified by range authorities, reduce documented direct mortality, and update management when population monitoring or taxonomy changes.",
+        "zh": "应保护分布权威所确认的生境和生态过程，减少有记录的直接死亡，并在种群监测或分类变化时更新管理。"
+      },
+      "source_keys": [
+        "conservation",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Exhibiting a massive wingspan that can exceed 2.8 meters, the bearded vulture is characterized by its long, narrow wings and a distinctive wedge- or lozenge-shaped tail, which provides exceptional maneuverability in turbulent mountain winds. The adult's plumage is striking, featuring dark grey-black upperparts and contrasting rust-orange underparts. This vibrant orange hue is not genetically determined but is acquired through cosmetic coloration, as the bird deliberately bathes in iron-rich, ferruginous mud and water. Its piercing yellow eyes are surrounded by a vivid red sclerotic ring, adding to its formidable appearance. The highly specialized digestive system features extremely acidic gastric juices (pH ~1) capable of dissolving dense bone matter within 24 hours.",
+        "zh": "胡兀鹫的翼展可超过2.8米，其特征是狭长的翅膀和独特的楔形或菱形尾羽，这使其在湍急的山地气流中具有极佳的机动性。成鸟的羽毛十分醒目，上半身呈深灰黑色，下半身则是对比鲜明的铁锈橙色。这种鲜艳的橙色并非由基因决定，而是通过一种“化妆”行为获得的——它们会刻意在富含铁质的泥水中沐浴。其锐利的黄色眼睛被鲜红色的巩膜环包围，更增添了其威猛的外观。其高度特化的消化系统具有极酸的胃液（pH值约为1），能够在24小时内溶解致密的骨质。"
+      },
+      "similar_species": {
+        "en": "Close relatives and regional look-alikes may share color or body shape. Confirm records with multiple visible characters, location and an exact taxon-linked source rather than a filename or single feature.",
+        "zh": "近缘种和地区性相似种可能共享颜色或体形。记录应结合多个可见特征、地点和精确分类单元来源确认，不能只凭文件名或单一特征。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "The species uses the sensory channels available to its class—vision, sound, chemical cues, touch or vibration—in combinations shaped by its habitat. The cited species account should be used before assigning a specific call or signal.",
+      "zh": "该物种会组合使用其类群具备的视觉、声音、化学信号、触觉或振动等感官通道，具体组合受生境塑造。指定某种叫声或信号前，应查阅所引物种资料。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding, movement, molt, dormancy or food use can shift with latitude, rainfall, temperature and resource pulses. A date from one population must not be presented as universal.",
+      "zh": "繁殖、迁移、换羽、休眠或食物利用会随纬度、降雨、温度和资源脉冲变化。不能把某一种群的日期写成全球统一规律。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Use, conflict, tourism and cultural relationships vary across the range. Safe observation avoids handling, feeding, playback, nest or den disturbance, and any approach that changes natural behavior.",
+      "zh": "利用、冲突、旅游和文化关系因分布区而异。安全观察应避免触摸、投喂、播放叫声、干扰巢穴或洞穴，以及任何改变自然行为的接近。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Gypaetus barbatus is placed in Gypaetus, family Accipitridae, order Accipitriformes. This review follows the accepted species match cited in the taxonomy source.",
+      "zh": "Gypaetus barbatus归入胡兀鹫属、鹰科、鹰形目。本次复核遵循分类来源所引的接受种匹配。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks, calls, nests, feeding marks, molts or other indirect signs may narrow an identification but usually cannot confirm a species alone. Fresh sign near a dangerous or sensitive animal requires distance.",
+      "zh": "足迹、叫声、巢、取食痕迹、蜕皮或其他间接线索可缩小鉴定范围，但通常不能单独确认物种。危险或敏感动物附近的新鲜痕迹意味着应保持距离。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Its accepted scientific name in this review is Gypaetus barbatus.",
+          "zh": "本次复核采用的接受学名是Gypaetus barbatus。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Near Threatened is the checked global IUCN category, not a regional legal status.",
+          "zh": "近危是本次核对的全球IUCN等级，并非地区性法律等级。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "The map retains the previous approximate range geometry and does not claim a newly verified boundary.",
+          "zh": "地图保留原有近似范围几何，并不声称这是新核实的边界。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Feathers, flight and eggs",
+          "zh": "羽毛、飞行与卵"
+        },
+        "content": {
+          "en": "Breeding includes egg laying, incubation and a dependent nestling period. Nest type, clutch size and seasonal timing must be interpreted for the population and latitude cited by the source.",
+          "zh": "繁殖包括产卵、孵化和雏鸟依赖期。巢型、窝卵数和季节时间必须结合来源所指的种群与纬度解释。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

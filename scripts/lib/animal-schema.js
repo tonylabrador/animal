@@ -29,6 +29,16 @@ const DIET_TAGS = new Set([
   "Piscivore", "Scavenger", "Filter Feeder", "Nectarivore", "Sanguivore",
   "Detritivore", "Parasitoid", "Fungivore",
 ]);
+const POPULATION_TRENDS = new Set(["increasing", "stable", "decreasing", "unknown"]);
+const REQUIRED_RICH_SECTIONS = [
+  "life_cycle_and_reproduction",
+  "ecological_role",
+  "communication_and_senses",
+  "seasonal_calendar",
+  "relationship_with_humans",
+  "evolution",
+  "field_signs",
+];
 
 function isPlainObject(value) {
   return value !== null && typeof value === "object" && !Array.isArray(value);
@@ -70,6 +80,173 @@ function validateBilingual(value, field, errors) {
   }
   if (!isNonEmptyString(value.en)) errors.push(`${field}.en is required`);
   if (!isNonEmptyString(value.zh)) errors.push(`${field}.zh is required`);
+}
+
+function validateSourceKeys(value, field, animal, errors) {
+  if (!Array.isArray(value) || value.length === 0 || !value.every(isNonEmptyString)) {
+    errors.push(`${field} must contain at least one source key`);
+    return;
+  }
+  for (const sourceKey of value) {
+    if (!animal.sources?.[sourceKey]) errors.push(`${field} references missing sources.${sourceKey}`);
+  }
+}
+
+function validateSourcedBilingual(value, field, animal, errors) {
+  validateBilingual(value, field, errors);
+  if (isPlainObject(value)) validateSourceKeys(value.source_keys, `${field}.source_keys`, animal, errors);
+}
+
+function validateRichContent(animal, errors) {
+  const rich = animal.rich_content;
+  if (!isPlainObject(rich)) {
+    errors.push("rich_content is required for content_version 2");
+    return;
+  }
+
+  if (!Array.isArray(rich.quick_facts) || rich.quick_facts.length < 4 || rich.quick_facts.length > 8) {
+    errors.push("rich_content.quick_facts must contain 4 to 8 sourced facts");
+  } else {
+    const keys = new Set();
+    rich.quick_facts.forEach((fact, index) => {
+      const field = `rich_content.quick_facts[${index}]`;
+      if (!isPlainObject(fact)) {
+        errors.push(`${field} must be an object`);
+        return;
+      }
+      if (!/^[a-z0-9]+(?:_[a-z0-9]+)*$/.test(fact.key || "")) errors.push(`${field}.key must be snake_case`);
+      if (keys.has(fact.key)) errors.push(`${field}.key must be unique`);
+      keys.add(fact.key);
+      validateBilingual(fact.label, `${field}.label`, errors);
+      validateBilingual(fact.value, `${field}.value`, errors);
+      validateSourceKeys(fact.source_keys, `${field}.source_keys`, animal, errors);
+    });
+  }
+
+  for (const section of REQUIRED_RICH_SECTIONS) {
+    validateSourcedBilingual(rich[section], `rich_content.${section}`, animal, errors);
+  }
+
+  if (!Array.isArray(rich.adaptations) || rich.adaptations.length < 3 || rich.adaptations.length > 5) {
+    errors.push("rich_content.adaptations must contain 3 to 5 sourced adaptations");
+  } else {
+    rich.adaptations.forEach((item, index) => {
+      const field = `rich_content.adaptations[${index}]`;
+      if (!isPlainObject(item)) {
+        errors.push(`${field} must be an object`);
+        return;
+      }
+      validateBilingual(item.title, `${field}.title`, errors);
+      validateBilingual(item.detail, `${field}.detail`, errors);
+      validateSourceKeys(item.source_keys, `${field}.source_keys`, animal, errors);
+    });
+  }
+
+  const conservation = rich.conservation_and_threats;
+  if (!isPlainObject(conservation)) {
+    errors.push("rich_content.conservation_and_threats is required");
+  } else {
+    if (!POPULATION_TRENDS.has(conservation.population_trend)) {
+      errors.push("rich_content.conservation_and_threats.population_trend is invalid");
+    }
+    validateBilingual(conservation.threats, "rich_content.conservation_and_threats.threats", errors);
+    validateBilingual(conservation.actions, "rich_content.conservation_and_threats.actions", errors);
+    validateSourceKeys(conservation.source_keys, "rich_content.conservation_and_threats.source_keys", animal, errors);
+  }
+
+  const identification = rich.identification;
+  if (!isPlainObject(identification)) {
+    errors.push("rich_content.identification is required");
+  } else {
+    validateBilingual(identification.key_features, "rich_content.identification.key_features", errors);
+    validateBilingual(identification.similar_species, "rich_content.identification.similar_species", errors);
+    validateSourceKeys(identification.source_keys, "rich_content.identification.source_keys", animal, errors);
+  }
+
+  if (!Array.isArray(rich.did_you_know) || rich.did_you_know.length < 3 || rich.did_you_know.length > 5) {
+    errors.push("rich_content.did_you_know must contain 3 to 5 sourced facts");
+  } else {
+    rich.did_you_know.forEach((item, index) => {
+      const field = `rich_content.did_you_know[${index}]`;
+      if (!isPlainObject(item)) {
+        errors.push(`${field} must be an object`);
+        return;
+      }
+      validateBilingual(item.text, `${field}.text`, errors);
+      validateSourceKeys(item.source_keys, `${field}.source_keys`, animal, errors);
+    });
+  }
+
+  if (!Array.isArray(rich.class_specific) || rich.class_specific.length < 1 || rich.class_specific.length > 3) {
+    errors.push("rich_content.class_specific must contain 1 to 3 sourced modules");
+  } else {
+    rich.class_specific.forEach((item, index) => {
+      const field = `rich_content.class_specific[${index}]`;
+      if (!isPlainObject(item)) {
+        errors.push(`${field} must be an object`);
+        return;
+      }
+      validateBilingual(item.title, `${field}.title`, errors);
+      validateBilingual(item.content, `${field}.content`, errors);
+      validateSourceKeys(item.source_keys, `${field}.source_keys`, animal, errors);
+    });
+  }
+}
+
+function validateSources(animal, errors, warnings) {
+  if (!isPlainObject(animal.sources)) {
+    warnings.push("sources metadata is missing (legacy record)");
+    return;
+  }
+  for (const [key, sourceOrSources] of Object.entries(animal.sources)) {
+    const sources = Array.isArray(sourceOrSources) ? sourceOrSources : [sourceOrSources];
+    if (sources.length === 0) errors.push(`sources.${key} must not be empty`);
+    sources.forEach((source, index) => {
+      const field = `sources.${key}${sources.length > 1 ? `[${index}]` : ""}`;
+      if (!isPlainObject(source)) {
+        errors.push(`${field} must be an object`);
+        return;
+      }
+      if (animal.content_version === 2 && !isNonEmptyString(source.authority)) {
+        errors.push(`${field}.authority is required for content_version 2`);
+      }
+      if (animal.content_version === 2 && !isNonEmptyString(source.url)) {
+        errors.push(`${field}.url is required for content_version 2`);
+      }
+      if (!isNonEmptyString(source.checked_at) || !/^\d{4}-\d{2}-\d{2}$/.test(source.checked_at)) {
+        errors.push(`${field}.checked_at must be YYYY-MM-DD`);
+      }
+      if (source.url !== undefined && (!isNonEmptyString(source.url) || !/^https?:\/\//.test(source.url))) {
+        errors.push(`${field}.url must be an http(s) URL`);
+      }
+    });
+  }
+}
+
+function validateContentReview(animal, errors, requireReview) {
+  const review = animal.content_review;
+  if (!isPlainObject(review)) {
+    errors.push("content_review is required for content_version 2");
+    return;
+  }
+  if (!["pending", "source-checked"].includes(review.factual_qc)) {
+    errors.push("content_review.factual_qc must be pending or source-checked");
+  }
+  if (!["pending", "line-by-line-reviewed"].includes(review.bilingual_qc)) {
+    errors.push("content_review.bilingual_qc must be pending or line-by-line-reviewed");
+  }
+  if (requireReview) {
+    if (review.factual_qc !== "source-checked") {
+      errors.push("content_review.factual_qc must be source-checked before import or publication");
+    }
+    if (review.bilingual_qc !== "line-by-line-reviewed") {
+      errors.push("content_review.bilingual_qc must be line-by-line-reviewed before import or publication");
+    }
+    if (!isNonEmptyString(review.reviewer)) errors.push("content_review.reviewer is required after review");
+    if (!isNonEmptyString(review.reviewed_at) || !/^\d{4}-\d{2}-\d{2}$/.test(review.reviewed_at)) {
+      errors.push("content_review.reviewed_at must be YYYY-MM-DD after review");
+    }
+  }
 }
 
 function validateAnimal(animal, options = {}) {
@@ -131,6 +308,22 @@ function validateAnimal(animal, options = {}) {
     }
   }
 
+  if (options.requireRichContent && animal.content_version !== 2) {
+    errors.push("content_version must be 2 for every new or replaced record");
+  }
+  if (animal.content_version === 2) {
+    validateContentReview(animal, errors, options.requireReview === true);
+    for (const section of ["anatomy", "ecology_and_behavior", "habitat_and_distribution"]) {
+      validateSourceKeys(
+        animal.encyclopedia?.[section]?.source_keys,
+        `encyclopedia.${section}.source_keys`,
+        animal,
+        errors,
+      );
+    }
+    validateRichContent(animal, errors);
+  }
+
   const habitat = animal.habitat;
   if (!isPlainObject(habitat)) {
     errors.push("habitat is required");
@@ -153,6 +346,31 @@ function validateAnimal(animal, options = {}) {
         if (isAxisAlignedRectangle(polygon)) errors.push(`polygon ${polygonIndex + 1} is an unsupported bounding box`);
       });
     }
+    if (animal.content_version === 2) {
+      const review = habitat.range_review;
+      if (!isPlainObject(review)) {
+        errors.push("habitat.range_review is required for content_version 2");
+      } else {
+        const displayModes = new Set(["verified-polygon", "legacy-polygon-retained", "representative-point"]);
+        const previousResults = new Set(["not-applicable", "retained", "replaced", "removed-unverified"]);
+        if (!displayModes.has(review.display_mode)) errors.push("habitat.range_review.display_mode is invalid");
+        if (!previousResults.has(review.previous_result)) errors.push("habitat.range_review.previous_result is invalid");
+        validateSourceKeys(review.source_keys, "habitat.range_review.source_keys", animal, errors);
+        if (!isNonEmptyString(review.comparison_en)) errors.push("habitat.range_review.comparison_en is required");
+        if (!isNonEmptyString(review.comparison_zh)) errors.push("habitat.range_review.comparison_zh is required");
+        if (!/^\d{4}-\d{2}-\d{2}$/.test(review.checked_at || "")) {
+          errors.push("habitat.range_review.checked_at must use YYYY-MM-DD");
+        }
+        const hasPolygons = Array.isArray(habitat.global_distribution_polygons)
+          && habitat.global_distribution_polygons.length > 0;
+        if (["verified-polygon", "legacy-polygon-retained"].includes(review.display_mode) && !hasPolygons) {
+          errors.push(`${review.display_mode} range review requires at least one polygon`);
+        }
+        if (review.display_mode === "representative-point" && hasPolygons) {
+          errors.push("representative-point range review requires an empty polygon array");
+        }
+      }
+    }
   }
 
   if (animal.image !== null && animal.image !== undefined) {
@@ -160,7 +378,7 @@ function validateAnimal(animal, options = {}) {
       errors.push(`image must be /images/animals/${animal.id}.jpg or null`);
     }
   }
-  if (!animal.sources) warnings.push("sources metadata is missing (legacy record)");
+  validateSources(animal, errors, warnings);
 
   return { errors, warnings };
 }
@@ -210,6 +428,7 @@ module.exports = {
   CLASS_TAGS,
   DIET_TAGS,
   HABITAT_TAGS,
+  POPULATION_TRENDS,
   STATUS_LABELS,
   TAXONOMY_LEVELS,
   inspectImage,

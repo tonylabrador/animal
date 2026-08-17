@@ -37,7 +37,9 @@
   "conservation_status": {
     "code": "NT",
     "en": "Near Threatened",
-    "zh": "近危"
+    "zh": "近危",
+    "note_en": "The current global assessment is Near Threatened; the overall trend is reported as stable.",
+    "note_zh": "当前全球等级为近危；总体趋势报告为稳定。"
   },
   "description": {
     "en": "The American bison is the heaviest land animal in North America, known for its massive head and shaggy coat.",
@@ -46,15 +48,25 @@
   "encyclopedia": {
     "anatomy": {
       "en": "The American bison is a massive animal that can weigh up to 900 kilograms and stand about 1.8 meters tall at the shoulder. It has a huge, shaggy head with short, curved horns and a large muscular hump on its back. Its thick, dark brown fur keeps it warm during freezing winters on the plains.",
-      "zh": "美洲野牛是一种巨大的动物，体重可达900公斤，肩高约1.8米。它有一个巨大而毛茸茸的头，长着短而弯曲的角，背上有一个大大的肌肉隆起。它厚厚的深棕色皮毛可以帮助它在平原的寒冬中保暖。"
+      "zh": "美洲野牛是一种巨大的动物，体重可达900公斤，肩高约1.8米。它有一个巨大而毛茸茸的头，长着短而弯曲的角，背上有一个大大的肌肉隆起。它厚厚的深棕色皮毛可以帮助它在平原的寒冬中保暖。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
       "en": "Bison are herbivores that spend most of their day grazing on grasses and sedges. They live in large herds and can run surprisingly fast, reaching speeds of up to 55 kilometers per hour. During mating season in summer, male bison charge and headbutt each other to compete for mates.",
-      "zh": "野牛是草食动物，一天中大部分时间都在吃草和莎草。它们成群结队地生活，奔跑速度非常快，最快可达每小时55公里。在夏天的繁殖季节，雄性野牛会互相冲撞和顶头来争夺伴侣。"
+      "zh": "野牛是草食动物，一天中大部分时间都在吃草和莎草。它们成群结队地生活，奔跑速度非常快，最快可达每小时55公里。在夏天的繁殖季节，雄性野牛会互相冲撞和顶头来争夺伴侣。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
       "en": "American bison once roamed the Great Plains of North America in herds of millions. Today they live mainly in national parks and protected grasslands in the United States and Canada. Yellowstone National Park is one of the most famous places where wild bison still roam freely.",
-      "zh": "美洲野牛曾经以数百万头的规模在北美大平原上漫游。如今它们主要生活在美国和加拿大的国家公园和受保护的草原上。黄石国家公园是最著名的仍有野牛自由漫步的地方之一。"
+      "zh": "美洲野牛曾经以数百万头的规模在北美大平原上漫游。如今它们主要生活在美国和加拿大的国家公园和受保护的草原上。黄石国家公园是最著名的仍有野牛自由漫步的地方之一。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -230,13 +242,301 @@
           -100.5
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and polygon coordinates are retained exactly. Authoritative text supports the broad distribution, but reusable authoritative boundary geometry was unavailable; the legacy polygon is labelled approximate, not verified.",
+      "comparison_zh": "原有中心点、缩放和多边形坐标完全保留。权威文字支持大致分布，但未获得可复用的权威边界几何；原多边形标为近似范围，而非已核实边界。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/american-bison.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Bison%20bison",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "GBIF IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/2441022/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Bison_bison/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Bison_bison/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Bison_bison/",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, current global status, numeric claims, bilingual scope and unchanged legacy map geometry checked for legacy QC batch 03A."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Bison bison",
+          "zh": "Bison bison"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Mammalia",
+          "zh": "哺乳纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat category",
+          "zh": "生境类别"
+        },
+        "value": {
+          "en": "Grassland",
+          "zh": "草原"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet category",
+          "zh": "食性类别"
+        },
+        "value": {
+          "en": "Herbivore",
+          "zh": "草食性"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Near Threatened",
+          "zh": "近危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "key": "map",
+        "label": {
+          "en": "Map evidence",
+          "zh": "地图依据"
+        },
+        "value": {
+          "en": "Approximate range polygon retained",
+          "zh": "保留原有近似范围"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "After roughly 9 months of gestation, a cow usually bears 1 calf. Calves can stand soon after birth and remain with maternal groups.",
+      "zh": "母牛妊娠约9个月后通常产下1头幼崽。幼崽出生后不久即可站立，并留在母系群体中。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Massive forequarters",
+          "zh": "强大前躯"
+        },
+        "detail": {
+          "en": "A muscular shoulder hump and strong neck help move snow and support the heavy head.",
+          "zh": "肌肉发达的肩峰和强壮颈部有助于推开积雪并支撑沉重头部。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Grazing dentition",
+          "zh": "食草齿列"
+        },
+        "detail": {
+          "en": "Broad grinding teeth process large amounts of grasses and sedges.",
+          "zh": "宽大的磨牙可处理大量禾草和莎草。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Insulating coat",
+          "zh": "保温被毛"
+        },
+        "detail": {
+          "en": "Dense winter fur reduces heat loss on exposed plains and is shed seasonally.",
+          "zh": "浓密冬毛减少开阔平原上的热量散失，并随季节脱落。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Large herds graze, trample, wallow and redistribute nutrients, creating a shifting mosaic used by prairie plants, insects and vertebrates.",
+      "zh": "大型群体通过啃食、踩踏、泥浴和重新分配养分，形成供草原植物、昆虫和脊椎动物利用的动态斑块。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "stable",
+      "threats": {
+        "en": "Most bison are managed in commercial or fenced herds; wild conservation herds face habitat limits, disease concerns, livestock introgression and restricted movement.",
+        "zh": "多数美洲野牛处于商业或围栏管理群中；野生保护群面临生境限制、疾病顾虑、家畜基因渗入和迁移受阻。"
+      },
+      "actions": {
+        "en": "Maintain large genetically representative conservation herds, restore connected prairie, manage disease with science and Indigenous partners, and distinguish wild herds from commercial abundance.",
+        "zh": "应维持大型且具遗传代表性的保护群，恢复连通草原，以科学和原住民合作管理疾病，并区分野生保护群与商业存量。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Very large bovine with a high shoulder hump, shaggy dark forequarters, short curved horns and slimmer hindquarters.",
+        "zh": "体型巨大的牛科动物，肩峰高，前躯深色长毛浓密，角短而弯，后躯较纤细。"
+      },
+      "similar_species": {
+        "en": "Domestic cattle lack the same high hump and disproportionate shaggy forequarters; beefalo hybrids can require records or genetics.",
+        "zh": "家牛没有同样高的肩峰和比例突出的浓密前躯；野牛—家牛杂交个体可能需要记录或遗传鉴定。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Grunts, bellows, scent, posture and horn displays coordinate groups and reproductive competition.",
+      "zh": "哼声、吼叫、气味、姿势和角部展示用于协调群体及繁殖竞争。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "The rut peaks in summer; calves are mostly born in spring. Herd movements track forage, water, snow and management boundaries.",
+      "zh": "发情季高峰在夏季，幼崽多在春季出生。群体移动随草料、水、积雪和管理边界而变化。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Bison are culturally central to many Indigenous nations and helped shape prairie economies and ecosystems; viewing requires long distance because they can charge rapidly.",
+      "zh": "美洲野牛对许多原住民族具有核心文化意义，也塑造了草原经济与生态；观赏必须保持远距离，因为它们可迅速冲撞。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Bison bison is the North American bison species; plains and wood bison are commonly treated as subspecies, while cattle hybrids complicate some herds.",
+      "zh": "美洲野牛是北美野牛物种；草原野牛和森林野牛通常视为亚种，部分群体还受家牛杂交影响。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Large split-hoof tracks, dung pats, rubbed trees, shed wool and shallow wallows mark bison use; fresh sign requires extreme caution.",
+      "zh": "大型偶蹄足迹、粪饼、摩擦树、脱落绒毛和浅泥浴坑可显示活动；遇到新鲜痕迹必须格外谨慎。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Bison can run much faster than their heavy build suggests.",
+          "zh": "美洲野牛的奔跑速度远高于其沉重体形给人的印象。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A wallow begins as a dust-bathing depression and can become habitat for other prairie organisms.",
+          "zh": "泥浴坑起初是尘浴凹地，之后可成为其他草原生物的生境。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Commercial abundance does not replace free-ranging conservation herds.",
+          "zh": "商业饲养数量多，不能替代自由活动的保护群。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Prairie herd life",
+          "zh": "草原群居生活"
+        },
+        "content": {
+          "en": "Seasonal aggregation, maternal groups and male competition operate across landscapes where movement and grazing create ecosystem effects.",
+          "zh": "季节性聚集、母系群和雄性竞争发生在广阔景观中，其迁移与取食会产生生态系统影响。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

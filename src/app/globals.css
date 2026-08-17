@@ -17,6 +17,22 @@ body {
   width: 100%;
 }
 
+/* Local Leaflet marker: no dependency on unpkg or another external icon CDN. */
+.wild-map-marker {
+  background: #f59e0b;
+  border: 3px solid #fff;
+  border-radius: 50% 50% 50% 0;
+  box-shadow: 0 3px 8px rgb(15 23 42 / 35%);
+  transform: rotate(-45deg);
+}
+
+.wild-map-marker span {
+  position: absolute;
+  inset: 7px;
+  border-radius: 9999px;
+  background: #fff;
+}
+
 /* Wishlist fade-in animation */
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(-6px); }

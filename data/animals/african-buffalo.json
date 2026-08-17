@@ -22,8 +22,8 @@
       "zh": "哺乳纲"
     },
     "order": {
-      "en": "Cetartiodactyla",
-      "zh": "鲸偶蹄目"
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
     },
     "family": {
       "en": "Bovidae",
@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "NT",
     "en": "Near Threatened",
-    "zh": "近危"
+    "zh": "近危",
+    "note_en": "The current global IUCN status is Near Threatened and the population trend is decreasing.",
+    "note_zh": "当前IUCN全球等级为近危，种群趋势为下降。"
   },
   "description": {
-    "en": "The African buffalo is a large, powerful bovid known as one of Africa's 'Big Five' and for its formidable, fused horns.",
-    "zh": "非洲水牛是一种体型庞大、力量强悍的牛科动物，被称为非洲「五大兽」之一，以其坚固且基部相连的角而闻名。"
+    "en": "The African buffalo is a large social bovid of sub-Saharan forests, woodlands and savannas. Herd cooperation, water dependence and flexible grazing let it occupy many habitats, but hunting, disease and habitat fragmentation have contributed to a decreasing population.",
+    "zh": "非洲水牛是生活在撒哈拉以南森林、林地和稀树草原的大型群居牛科动物。群体协作、对水源的依赖和灵活的食草方式使其能利用多种生境，但狩猎、疾病和生境破碎化已促使种群下降。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "Adult African buffalo are very heavy, with some males weighing up to 900 kilograms. Their most distinctive feature is the 'boss'—a solid shield formed where the bases of their horns meet on the forehead.",
-      "zh": "成年的非洲水牛非常沉重，有些雄性体重可达900公斤。它们最显著的特征是「角盾」——由双角基部在额头连接形成的坚硬护盾。"
+      "en": "Adults vary greatly among regions and subspecies: shoulder height is roughly 1.0–1.7 m and body mass about 300–900 kg. Both sexes carry heavy horns; in mature savanna males the horn bases can fuse into a thick forehead shield called a boss.",
+      "zh": "不同地区和亚种的成体差异很大：肩高约1.0–1.7米，体重约300–900千克。雌雄都有粗重的角；成熟草原型雄兽的角基部可在额部融合成厚实的“角盾”。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "They live in large herds that can include hundreds of individuals. African buffalo are famous for their protective nature, often working together to drive away lions that threaten the herd.",
-      "zh": "它们生活在可能包含数百只成员的大型群体中。非洲水牛以其强大的保护本能著称，经常集体合作赶走威胁象群的狮子。"
+      "en": "African buffalo are ruminant grazers that need regular access to water. Females and young form stable herds, while males may be solitary or form bachelor groups; groups can collectively confront lions and other threats.",
+      "zh": "非洲水牛是反刍食草动物，需要经常接近水源。雌兽和幼兽组成稳定群体，雄兽可能独居或组成雄兽群；群体可共同面对狮子等威胁。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "They are found throughout sub-Saharan Africa, living in savannahs, woodlands, and even forests as long as there is plenty of water and grass to eat.",
-      "zh": "它们分布在撒哈拉以南非洲的广大地区，生活在草原、林地甚至森林中，只要有充足的水源和青草即可生存。"
+      "en": "The species occurs discontinuously across sub-Saharan Africa in moist savannas, grasslands, woodlands, montane areas and lowland forests, but avoids true deserts and landscapes without dependable water and forage.",
+      "zh": "该物种在撒哈拉以南非洲呈不连续分布，栖息于湿润稀树草原、草地、林地、山地和低地森林，但会避开真正的沙漠以及缺少稳定水源和食物的地区。",
+      "source_keys": [
+        "range",
+        "conservation"
+      ]
     }
   },
   "habitat": {
@@ -130,13 +143,302 @@
           10
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and polygon coordinates are retained exactly. Authoritative text sources support the broad distribution, but reusable authoritative boundary geometry was not available; the polygons are labelled as retained approximate legacy ranges, not verified boundaries.",
+      "comparison_zh": "原有中心点、缩放和多边形坐标完全保留。权威文字来源支持其大致分布，但未获得可复用的权威边界几何，因此多边形标为保留的原有近似范围，而非已核实边界。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/african-buffalo.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Syncerus%20caffer",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Syncerus_caffer/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Syncerus_caffer/",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "Mammal Diversity Database",
+      "url": "https://www.mammaldiversity.org/taxon/1006274/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "IUCN Species Threat Abatement and Restoration assessment",
+      "url": "https://portals.iucn.org/library/sites/library/files/documents/2024-034-En.pdf",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, taxonomy, protection status, numerical claims, English/Chinese scope and preserved legacy map geometry were checked for legacy QC batch 02."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "shoulder_height",
+        "label": {
+          "en": "Shoulder height",
+          "zh": "肩高"
+        },
+        "value": {
+          "en": "About 1.0–1.7 m",
+          "zh": "约1.0–1.7米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 300–900 kg",
+          "zh": "约300–900千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Mostly grasses and other vegetation",
+          "zh": "主要为禾草及其他植物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "gestation",
+        "label": {
+          "en": "Gestation",
+          "zh": "妊娠期"
+        },
+        "value": {
+          "en": "About 11–12 months",
+          "zh": "约11–12个月"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "young",
+        "label": {
+          "en": "Young",
+          "zh": "每胎幼崽"
+        },
+        "value": {
+          "en": "Usually 1 calf",
+          "zh": "通常1头"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Near Threatened",
+          "zh": "近危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Breeding timing varies with rainfall and forage. After roughly 11–12 months of gestation, a female usually bears 1 calf; calves remain closely associated with their mothers and the protective herd while they grow.",
+      "zh": "繁殖时间会随降雨和食物而变化。妊娠约11–12个月后，雌兽通常产下1头幼崽；幼崽成长期间会紧随母兽并受到群体保护。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Horn boss",
+          "zh": "额部角盾"
+        },
+        "detail": {
+          "en": "The fused horn bases of mature males form a thick shield used in contests and defense.",
+          "zh": "成熟雄兽融合的角基部形成厚盾，可用于争斗和防御。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Ruminant digestion",
+          "zh": "反刍消化"
+        },
+        "detail": {
+          "en": "A multi-chambered stomach extracts nutrients from fibrous grasses.",
+          "zh": "多室胃能从纤维丰富的禾草中提取养分。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Herd defense",
+          "zh": "群体防御"
+        },
+        "detail": {
+          "en": "Coordinated adults can surround calves and confront predators rather than relying only on flight.",
+          "zh": "成兽可协调围护幼崽并面对捕食者，而不只是逃跑。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "By consuming and trampling vegetation, transporting nutrients in dung and serving as prey for large carnivores, African buffalo influence grassland and woodland food webs. Their wallows and movement paths also modify local ground conditions.",
+      "zh": "非洲水牛通过取食和踩踏植被、以粪便转移养分，并作为大型食肉动物的猎物，影响草地和林地食物网；其泥浴坑和行走路径也会改变局部地表环境。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Major pressures include habitat loss and fragmentation, hunting for meat, competition with livestock and outbreaks of diseases shared with domestic cattle.",
+        "zh": "主要压力包括生境丧失和破碎化、肉用猎捕、与家畜竞争，以及与家牛共患疾病的暴发。"
+      },
+      "actions": {
+        "en": "Protect connected habitats and water access, control illegal hunting, monitor disease at wildlife–livestock boundaries and manage populations across protected-area borders.",
+        "zh": "应保护连通生境和水源通道，控制非法猎捕，监测野生动物—家畜交界处的疾病，并跨保护地边界管理种群。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A massive dark bovid with broad ears, heavy outward-curving horns and, in mature savanna males, a fused horn boss across the forehead.",
+        "zh": "体型粗壮、颜色深暗，耳宽，角粗重并向外弯；成熟草原型雄兽额部有融合角盾。"
+      },
+      "similar_species": {
+        "en": "Domestic water buffalo usually have more laterally swept horns and a different head profile. African buffalo vary strongly by subspecies, so color and size alone are not enough for subspecies identification.",
+        "zh": "家水牛的角通常更明显地向两侧展开，头部轮廓也不同。非洲水牛各亚种体色和体型差异很大，不能只凭这些特征鉴定亚种。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Buffalo use low calls, posture, scent and physical contact to maintain herd cohesion, warn of danger and negotiate rank. Calves and mothers recognize one another within crowded herds.",
+      "zh": "非洲水牛通过低沉叫声、姿势、气味和身体接触维持群体联系、警示危险并协调等级；幼崽和母兽能在拥挤群体中相互识别。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Rainfall drives grass growth, water availability, herd movement and regional calving peaks. In dry periods, herds concentrate around dependable water and remaining forage.",
+      "zh": "降雨会影响牧草生长、水源、群体移动和地区性产仔高峰；旱季时，群体会集中到可靠水源和剩余食物附近。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "African buffalo are important in tourism and hunting economies and can transmit diseases to or from livestock. They are powerful wild animals; people should keep substantial distance and follow local guide instructions.",
+      "zh": "非洲水牛对旅游和狩猎经济具有重要作用，也可能与家畜相互传播疾病。它们力量强大，应保持足够距离并遵循当地向导指示。",
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Syncerus caffer is a member of the cattle tribe Bovini. Geographic forms range from small reddish forest buffalo to much larger dark savanna buffalo, with intergradation where some ranges meet.",
+      "zh": "非洲水牛属于牛族。不同地理类型从体型较小、偏红的森林水牛，到体型更大、颜色更深的草原水牛；部分分布交界处存在过渡类型。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "Broad cloven hoofprints, large dung pats, muddy wallows and heavily used trails leading to water can reveal a herd. Tracks alone cannot safely identify subspecies or indicate that animals have left the area.",
+      "zh": "宽大的偶蹄印、大块粪便、泥浴坑和通往水源的常用路径可显示群体活动；仅凭足迹无法可靠鉴定亚种，也不能说明动物已经离开。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The horn boss is most developed in mature savanna males and is not equally prominent in every age, sex or geographic form.",
+          "zh": "额部角盾在成熟草原型雄兽中最发达，并非所有年龄、性别或地理类型都同样明显。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A herd may collectively turn toward lions to defend calves.",
+          "zh": "群体可能集体转身面对狮子，以保护幼崽。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "African buffalo require dependable access to water even though they occupy many vegetation types.",
+          "zh": "尽管能生活在多种植被环境中，非洲水牛仍需要可靠水源。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Social mammal",
+          "zh": "群居哺乳动物"
+        },
+        "content": {
+          "en": "Long-term female associations, calf protection and flexible male grouping make herd membership central to survival, not merely a temporary feeding aggregation.",
+          "zh": "长期的雌兽联系、幼崽保护和灵活的雄兽结群，使群体成员关系成为生存核心，而非短暂的取食聚集。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

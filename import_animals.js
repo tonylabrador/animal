@@ -33,16 +33,51 @@ if (!Array.isArray(draft) || draft.length === 0) {
 
 const errors = [];
 for (const [index, animal] of draft.entries()) {
-  const result = validateAnimal(animal);
+  const result = validateAnimal(animal, { requireRichContent: true, requireReview: true });
   errors.push(...result.errors.map((message) => `draft[${index}] (${animal.id || "no-id"}): ${message}`));
 }
 
 const published = readAnimals(ANIMALS_DIR).map(({ animal }) => animal);
+const publishedById = new Map(published.map((animal) => [animal.id, animal]));
 const draftIds = new Set(draft.map((animal) => animal.id));
 for (const animal of draft) {
   const destination = path.join(ANIMALS_DIR, `${animal.id}.json`);
-  if (fs.existsSync(destination) && !replace) {
+  const exists = fs.existsSync(destination);
+  const previous = publishedById.get(animal.id);
+  const rangeReview = animal.habitat?.range_review;
+  if (exists && !replace) {
     errors.push(`${animal.id}: already exists; use --replace only after reviewing the diff`);
+  }
+  if (!exists && rangeReview?.previous_result !== "not-applicable") {
+    errors.push(`${animal.id}: a new record must use range_review.previous_result not-applicable`);
+  }
+  if (exists && replace && previous) {
+    const priorResult = rangeReview?.previous_result;
+    if (priorResult === "not-applicable") {
+      errors.push(`${animal.id}: replacement must compare old and new range geometry`);
+      continue;
+    }
+    const oldGeometry = JSON.stringify({
+      center: previous.habitat?.map_coordinates,
+      polygons: previous.habitat?.global_distribution_polygons,
+    });
+    const newGeometry = JSON.stringify({
+      center: animal.habitat?.map_coordinates,
+      polygons: animal.habitat?.global_distribution_polygons,
+    });
+    if (priorResult === "retained" && oldGeometry !== newGeometry) {
+      errors.push(`${animal.id}: range marked retained but coordinates or polygons changed`);
+    }
+    if (priorResult === "replaced" && oldGeometry === newGeometry) {
+      errors.push(`${animal.id}: range marked replaced but coordinates and polygons are unchanged`);
+    }
+    if (priorResult === "removed-unverified") {
+      const oldPolygonCount = previous.habitat?.global_distribution_polygons?.length || 0;
+      const newPolygonCount = animal.habitat?.global_distribution_polygons?.length || 0;
+      if (oldPolygonCount === 0 || newPolygonCount !== 0) {
+        errors.push(`${animal.id}: removed-unverified requires old polygons and an empty new polygon array`);
+      }
+    }
   }
 }
 const combined = replace

@@ -35,26 +35,39 @@
     }
   },
   "conservation_status": {
-    "code": "DD",
-    "en": "Data Deficient",
-    "zh": "数据缺乏"
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估",
+    "note_en": "No species-level IUCN Red List assessment was found for Eciton burchellii. The legacy DD label was corrected to NE because absence of an assessment is not Data Deficient.",
+    "note_zh": "未找到布氏游蚁的IUCN物种级红色名录评估。旧记录的DD“数据缺乏”已改为NE“未评估”，因为没有评估并不等于数据缺乏。"
   },
   "description": {
-    "en": "Army ants are nomadic super-predators that never build permanent nests, instead forming massive swarm raids that consume everything in their path.",
-    "zh": "行军蚁（布氏游蚁）是游牧型的超级捕食者，它们从不建造永久性巢穴，而是形成巨大的军团发起冲锋，吞噬沿途的一切。"
+    "en": "Burchell's army ant is a nomadic, swarm-raiding ant of tropical Central and South America. A colony can contain hundreds of thousands of workers that build temporary nests from their own bodies and collectively hunt other arthropods.",
+    "zh": "布氏游蚁是中南美洲热带地区一种游猎、群袭的蚂蚁。一个群体可有数十万只工蚁，它们用自己的身体搭成临时蚁巢，并集体捕猎其他节肢动物。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "A colony has different castes, including massive \"soldier\" ants equipped with huge, powerful jaws that resemble ice picks. Most of the worker ants are entirely blind, navigating purely through chemical scent trails.",
-      "zh": "一个蚁群拥有不同的阶级，包括长着像冰镐一样巨大而有力的颚部的巨大「兵蚁」。大多数工蚁是完全失明的，纯粹依靠化学气味路径来导航。"
+      "en": "Workers are polymorphic and about 3–12 mm long. They have elongated bodies, long legs, hooked mandibles, a sting and tarsal hooks that let workers grip one another to form living bridges and bivouacs; queens and winged males look very different.",
+      "zh": "工蚁有明显多型，体长约3–12毫米。身体细长、腿长，具钩状大颚、螫针和跗节钩，可彼此抓牢形成活桥与临时蚁巢；蚁后和有翅雄蚁外形差异很大。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "They are the ultimate superorganism. Instead of digging nests, they link their own bodies together to form a living nest called a \"bivouac\". When they hunt, up to 200,000 ants swarm the forest floor, flushing out and eating insects, spiders, and even small vertebrates.",
-      "zh": "它们是终极的「超级生物」。它们不挖巢穴，而是将彼此的身体连接在一起，形成一个被称为「宿营地」的活体巢穴。狩猎时，多达20万只蚂蚁会在森林地面上席卷而过，惊飞并吃掉昆虫、蜘蛛甚至小型脊椎动物。"
+      "en": "Dense fan-shaped raids capture mainly insects and other arthropods. Colonies alternate a nomadic phase, when larval demand drives frequent raids and moves, with a stationary phase, when pupae develop and the queen lays a new egg batch.",
+      "zh": "密集扇形袭击主要捕捉昆虫和其他节肢动物。群体在游猎期与定居期之间交替：幼虫需求高时频繁袭击并迁巢；蛹发育且蚁后产下新一批卵时则相对固定。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "They are found in the damp, tropical rainforests of Central and South America, constantly moving through the jungle to find enough food to sustain their massive colony.",
-      "zh": "它们分布在中美洲和南美洲潮湿的热带雨林中，在丛林中不断迁徙，以寻找足够的食物来维持其庞大帝国的运转。"
+      "en": "Eciton burchellii occurs in warm humid tropical regions of Central and South America, chiefly on forest floors. Colonies may forage into openings or farms and occasionally bivouac above ground, but continuous forest and abundant prey are important.",
+      "zh": "布氏游蚁分布于中南美洲温暖湿润的热带地区，主要活动在森林地面。群体可能进入空地或农田觅食，也偶尔在地面以上结成临时巢，但连续森林和丰富猎物十分重要。",
+      "source_keys": [
+        "general",
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -104,13 +117,303 @@
           -60
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center and polygon coordinates are retained exactly. Authoritative text sources support the broad distribution, but reusable authoritative boundary geometry was not available; the polygon is therefore labelled as a retained approximate legacy range, not a verified range.",
+      "comparison_zh": "原有中心点和多边形坐标完全保留。权威文字来源支持其大致分布，但未获得可复用的权威边界几何，因此该多边形标为“保留的原有近似范围”，而非“已核实范围”。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/army-ant.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Eciton%20burchellii",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Eciton_burchellii/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Eciton_burchellii/",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List species search",
+      "url": "https://www.iucnredlist.org/search?query=Eciton%20burchellii&searchType=species",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Eciton_burchellii/",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, taxonomy, protection status, numerical claims, English/Chinese scope and preserved legacy map geometry were checked for pilot batch 01."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "worker_length",
+        "label": {
+          "en": "Worker length",
+          "zh": "工蚁体长"
+        },
+        "value": {
+          "en": "About 3–12 mm",
+          "zh": "约3–12毫米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "colony_size",
+        "label": {
+          "en": "Colony size",
+          "zh": "群体规模"
+        },
+        "value": {
+          "en": "About 100000–2000000 adults in cited account",
+          "zh": "所引资料约100000–2000000只成蚁"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Mostly insects and other arthropods",
+          "zh": "主要为昆虫和其他节肢动物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "nest",
+        "label": {
+          "en": "Nest",
+          "zh": "巢型"
+        },
+        "value": {
+          "en": "Living temporary bivouac",
+          "zh": "由活体工蚁构成的临时巢"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "egg_cycle",
+        "label": {
+          "en": "Queen's egg cycle",
+          "zh": "蚁后产卵周期"
+        },
+        "value": {
+          "en": "About every 3 weeks in cited account",
+          "zh": "所引资料约每3周一次"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Not Evaluated",
+          "zh": "未评估"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "A wingless queen stores sperm and lays large batches in repeated cycles. Workers care for eggs, larvae and pupae; larval development triggers the nomadic phase, while new colonies form by fission when a young queen leaves with part of the worker force rather than flying away alone.",
+      "zh": "无翅蚁后储存精子并周期性产下大批卵。工蚁照料卵、幼虫和蛹；幼虫发育会触发游猎期。新群体通过分群建立：年轻蚁后带着部分工蚁离开，而不是独自飞走。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Living architecture",
+          "zh": "活体建筑"
+        },
+        "detail": {
+          "en": "Tarsal hooks let workers link into bridges and a protective bivouac without building a permanent nest.",
+          "zh": "跗节钩使工蚁相互连接成桥和保护性临时巢，无需建造永久巢穴。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Worker polymorphism",
+          "zh": "工蚁多型"
+        },
+        "detail": {
+          "en": "Workers of different sizes perform complementary tasks, from brood care to carrying prey and colony defense.",
+          "zh": "不同体型的工蚁承担互补任务，从照料幼体到搬运猎物和保卫群体。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Pheromone traffic control",
+          "zh": "信息素交通控制"
+        },
+        "detail": {
+          "en": "Chemical trails coordinate enormous raids even though workers rely little on vision.",
+          "zh": "即使工蚁很少依赖视觉，化学路径仍能协调规模巨大的袭击。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Army-ant raids disturb and consume many forest-floor arthropods. Ant-following birds catch animals fleeing the swarm, while beetles, mites and other specialized associates live with or track the colony, creating a mobile ecological community.",
+      "zh": "游蚁袭击会惊动并捕食大量林地节肢动物。蚁鸟捕捉逃离蚁群的动物，甲虫、螨及其他特化伴生生物则随群体生活或移动，形成流动的生态群落。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The species has not been formally evaluated by IUCN. Forest loss and fragmentation are plausible major pressures because large nomadic colonies need humid connected habitat and a broad prey base; population trend is not adequately monitored.",
+        "zh": "该物种尚未接受IUCN正式评估。森林丧失和破碎化很可能是主要压力，因为大型游猎群体需要湿润、连通的生境和广泛猎物；其种群趋势缺乏充分监测。"
+      },
+      "actions": {
+        "en": "Retain large connected forest blocks, limit broad-spectrum insecticide exposure at forest edges, protect ant-following ecological communities and establish repeatable colony-monitoring methods before assigning a threat category.",
+        "zh": "应保留大型连通森林，限制林缘广谱杀虫剂暴露，保护依随游蚁的生态群落，并建立可重复的群体监测方法，再据此评定受威胁等级。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A broad fan of many golden-brown to dark workers moving in organized columns, with long legs and strongly hooked mandibles; workers vary greatly in size.",
+        "zh": "大量金棕至深色工蚁组成宽扇形袭击并排成有序纵队，腿长、大颚强烈弯曲，工蚁体型差异显著。"
+      },
+      "similar_species": {
+        "en": "'Army ant' describes many species. Exact identification of Eciton burchellii requires close morphological or expert evidence; a mass raid alone is not species-specific.",
+        "zh": "“游蚁”包含许多物种。精确鉴定布氏游蚁需要近距离形态或专家证据；仅凭大规模袭击行为不能确定物种。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Pheromone trails, alarm chemicals, touch and substrate vibration coordinate foraging, nestmate recognition, brood care and defense. Workers have very limited vision, so collective movement is not directed by a single visual leader.",
+      "zh": "信息素路径、警报化学物质、触碰和基质振动共同协调觅食、同巢识别、幼体照料和防御。工蚁视觉十分有限，因此集体移动并不是由某个视觉领袖指挥。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Colony rhythm is driven more by the brood cycle than by a simple annual calendar. Nomadic nights coincide with active larvae and frequent raids; the stationary phase coincides with pupation and a new egg batch, while rain and temperature constrain local activity.",
+      "zh": "群体节律更多由幼体周期驱动，而不是简单的年度日历。活跃幼虫期对应频繁袭击和夜间迁巢；化蛹及新一批产卵时对应定居期，降雨和温度则限制当地活动。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Raids can remove household or crop-associated arthropods but workers can sting painfully when trapped or the bivouac is disturbed. The safest response is to give a passing column space rather than spray or break it apart.",
+      "zh": "袭击可清除住宅或作物附近的节肢动物，但工蚁受困或临时巢被扰动时会造成疼痛螫伤。最安全做法是给经过的蚁队留出空间，而不是喷药或打散。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Eciton burchellii is a New World army ant in Formicidae. Its eusocial colony—not an individual worker—is the functional unit that reproduces by fission, migrates, hunts and constructs shelter.",
+      "zh": "布氏游蚁是蚁科的新世界游蚁。真正通过分群繁殖、迁移、捕猎和建造庇护所的功能单位是整个真社会性群体，而不是单只工蚁。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "A temporary bivouac looks like a hanging or ground-level mass of interlocked ants, and a raid forms a dense fan connected to it by columns. Observe from well outside the traffic lane and never disturb the bivouac.",
+      "zh": "临时蚁巢看起来像悬挂或贴地的一团相互钩连的蚂蚁，袭击前缘呈密集扇形，并由纵队连接巢体。应在交通路线之外远观，绝不能扰动临时巢。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The temporary nest is made largely from the ants' own interlocked bodies.",
+          "zh": "临时巢主要由彼此钩连的蚂蚁身体构成。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Army-ant queens are wingless, and a new colony forms with a group of workers rather than by a queen flying off alone.",
+          "zh": "游蚁蚁后没有翅，新群体由蚁后带部分工蚁分出，而不是蚁后独自飞离建立。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Not Evaluated means no IUCN assessment has been completed; it does not mean the species is safe or Data Deficient.",
+          "zh": "“未评估”表示尚无IUCN评估；它既不表示物种安全，也不等于“数据缺乏”。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Eusocial colony",
+          "zh": "真社会性群体"
+        },
+        "content": {
+          "en": "Reproductive queens and non-reproductive worker castes overlap across generations and cooperate in brood care, meeting the defining features of eusociality.",
+          "zh": "繁殖蚁后与不繁殖工蚁品级跨世代共存并合作照料幼体，符合真社会性的定义特征。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

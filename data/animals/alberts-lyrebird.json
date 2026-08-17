@@ -35,26 +35,40 @@
     }
   },
   "conservation_status": {
-    "code": "NT",
-    "en": "Near Threatened",
-    "zh": "近危"
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The global IUCN status changed from Near Threatened to Least Concern; state listings remain separate and include Vulnerable in New South Wales and Near Threatened in Queensland.",
+    "note_zh": "IUCN全球等级已由近危变为无危；州级名录需另行区分，新南威尔士州列为易危，昆士兰州列为近危。"
   },
   "description": {
-    "en": "Albert's Lyrebird is a highly elusive, ground-dwelling passerine endemic to a severely restricted range of subtropical rainforests in eastern Australia. Named in honor of Prince Albert, it is renowned for its astonishing vocal mimicry, though it lacks the iconic lyre-shaped outer rectrices of its congener, the Superb Lyrebird. Instead, males possess a spectacular, filamentous tail of silvery-grey and rich rufous feathers, which they invert over their heads during elaborate courtship displays on specialized trampled platforms.",
-    "zh": "艾氏琴鸟是一种极度隐秘的陆栖雀形目鸟类，为澳大利亚东部亚热带雨林极狭小区域的特有种。该物种以阿尔伯特亲王的名字命名，以其令人惊叹的声音模仿能力而闻名。尽管它缺乏其同属物种华丽琴鸟标志性的里拉琴状外侧尾羽，但雄鸟拥有一条由银灰色和浓郁红褐色羽毛组成的壮观丝状尾巴。在求偶期间，它们会在专门踩踏出的求偶场上将尾羽翻转覆盖于头部上方进行炫耀。"
+    "en": "Albert's lyrebird is a large, elusive ground-foraging songbird found only in a narrow belt of subtropical rainforest and wet forest along the Queensland–New South Wales border. It is known for rich brown plumage, complex mimicry and a male tail less ornate than that of the superb lyrebird.",
+    "zh": "艾氏琴鸟是一种大型而隐秘的地面觅食鸣禽，仅分布于昆士兰州—新南威尔士州边界附近狭窄的亚热带雨林和湿润森林带。它以浓郁棕色羽衣、复杂拟声和比华丽琴鸟较朴素的雄鸟尾羽著称。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "Measuring approximately 80-90 cm in length, the male Albert's Lyrebird is slightly smaller and less sexually dimorphic than the Superb Lyrebird. Its plumage is predominantly rich chestnut-brown dorsally and rufous ventrally. The male's tail consists of 16 feathers: two central, ribbon-like rectrices, and 14 filamentous, lace-like feathers lacking barbicels. Females are smaller, with shorter, simpler tails and a generally duller rufous coloration. Both sexes possess powerful, muscular legs and robust claws adapted for continuous scratching through dense, compacted forest leaf litter.",
-      "zh": "雄性艾氏琴鸟体长约80-90厘米，体型略小于华丽琴鸟，且两性异形程度较低。其羽毛背部主要呈浓郁的栗褐色，腹部呈红褐色。雄鸟的尾部由16根羽毛组成：两根中央呈带状的尾羽，以及14根缺乏羽纤的丝状蕾丝般羽毛。雌鸟体型较小，尾部较短且简单，整体红褐色较暗淡。两性均拥有强健有力的肌肉质双腿和粗壮的爪子，极其适应在茂密且压实的森林落叶层中不断刨挖觅食。"
+      "en": "Adults are about 86–93 cm long including the tail and weigh around 930 g. Males and females are rich brown; males have long display feathers, but lack the superb lyrebird's strongly contrasting, elaborate lyre-shaped outer tail feathers.",
+      "zh": "成鸟包括尾羽在内体长约86–93厘米，体重约930克。雌雄均呈浓郁棕色；雄鸟有长展示羽，但没有华丽琴鸟那种对比强烈、结构复杂的里拉琴形外侧尾羽。",
+      "source_keys": [
+        "general",
+        "identification"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "This species is a solitary, terrestrial insectivore that spends the majority of its diurnal hours foraging in the leaf litter for arthropods, annelids, and small terrestrial mollusks. Males are polygynous and fiercely territorial, defending acoustic territories through complex, continuous song cycles that incorporate flawless mimicry of sympatric avian species, mammalian predators, and anthropogenic sounds. Unlike the Superb Lyrebird which builds dirt mounds, the male Albert's Lyrebird creates a display arena by trampling dense vines and undergrowth, using these 'platforms' to project his acoustic and visual displays.",
-      "zh": "该物种是一种独居的陆栖食虫动物，白天的大部分时间都在落叶层中觅食节肢动物、环节动物和小型陆生软体动物。雄鸟实行一夫多妻制且具有强烈的领地意识，通过复杂连续的鸣唱周期来保卫其声音领地，这些鸣唱完美地模仿了同域分布的鸟类、哺乳动物捕食者甚至人类活动的声音。与华丽琴鸟建造土堆不同，雄性艾氏琴鸟通过踩踏茂密的藤蔓和下层植被来创建求偶场，利用这些“平台”来展示其声音和视觉魅力。"
+      "en": "The bird searches leaf litter for insects, other invertebrates and occasional plant material, using powerful feet to rake the forest floor. Males sing and display on trampled vine platforms; females alone build the domed nest and care for the chick.",
+      "zh": "它用强壮双足翻耙林地落叶，寻找昆虫、其他无脊椎动物和少量植物性食物。雄鸟在踩平的藤蔓平台上鸣唱和展示；雌鸟独自建造穹顶巢并照料雏鸟。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Albert's Lyrebird has one of the smallest distributional ranges of any Australian bird. It is strictly confined to the mountainous subtropical rainforests and wet sclerophyll forests of the Mount Warning caldera and the McPherson Range, straddling the border of New South Wales and Queensland. It requires dense canopy cover, a deep, moist leaf litter layer, and a complex understory of vines and ferns. Habitat fragmentation and climate change pose severe threats to its highly localized population.",
-      "zh": "艾氏琴鸟是澳大利亚鸟类中分布范围最小的物种之一。它严格局限于横跨新南威尔士州和昆士兰州边界的警告山（Mount Warning）破火山口和麦克弗森山脉（McPherson Range）的多山亚热带雨林和湿润硬叶林中。它需要茂密的树冠覆盖、深厚湿润的落叶层以及由藤蔓和蕨类植物组成的复杂林下植被。栖息地破碎化和气候变化对其高度局限的种群构成了严重威胁。"
+      "en": "The species is endemic to a small area of south-eastern Queensland and far north-eastern New South Wales, mainly in subtropical rainforest and adjoining wet sclerophyll forest with dense cover and deep moist litter.",
+      "zh": "该物种为澳大利亚东南昆士兰州和新南威尔士州最东北部一小片区域的特有种，主要生活在亚热带雨林及相邻湿润硬叶林中，需要茂密遮蔽和深厚湿润落叶层。",
+      "source_keys": [
+        "range",
+        "conservation"
+      ]
     }
   },
   "habitat": {
@@ -172,13 +186,311 @@
           153.18
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and polygon coordinates are retained exactly. Authoritative text sources support the broad distribution, but reusable authoritative boundary geometry was not available; the polygons are labelled as retained approximate legacy ranges, not verified boundaries.",
+      "comparison_zh": "原有中心点、缩放和多边形坐标完全保留。权威文字来源支持其大致分布，但未获得可复用的权威边界几何，因此多边形标为保留的原有近似范围，而非已核实边界。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/alberts-lyrebird.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Menura%20alberti",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "HANZAB, BirdLife Australia",
+      "url": "https://hanzab.birdlife.org.au/sample-species-entry/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "HANZAB, BirdLife Australia",
+      "url": "https://hanzab.birdlife.org.au/sample-species-entry/",
+      "checked_at": "2026-08-16"
+    },
+    "identification": {
+      "authority": "NSW Threatened Species profile",
+      "url": "https://threatenedspecies.bionet.nsw.gov.au/profile?id=10525",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "HANZAB, BirdLife Australia",
+      "url": "https://hanzab.birdlife.org.au/sample-species-entry/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "NSW National Parks and Wildlife Service",
+      "url": "https://www.nationalparks.nsw.gov.au/plants-and-animals/alberts-lyrebird",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, taxonomy, protection status, numerical claims, English/Chinese scope and preserved legacy map geometry were checked for legacy QC batch 02."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "length",
+        "label": {
+          "en": "Length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "About 86–93 cm including tail",
+          "zh": "包括尾羽约86–93厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 930 g",
+          "zh": "约930克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Mainly forest-floor invertebrates",
+          "zh": "主要为林地无脊椎动物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "clutch",
+        "label": {
+          "en": "Clutch",
+          "zh": "每窝蛋数"
+        },
+        "value": {
+          "en": "Usually 1 egg",
+          "zh": "通常1枚"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "range",
+        "label": {
+          "en": "Range",
+          "zh": "分布"
+        },
+        "value": {
+          "en": "South-east Queensland and north-east New South Wales",
+          "zh": "昆士兰州东南部及新南威尔士州东北部"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "Global IUCN status",
+          "zh": "IUCN全球等级"
+        },
+        "value": {
+          "en": "Least Concern",
+          "zh": "无危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Males advertise from display platforms with song, mimicry and tail movements but do not provide parental care. A female constructs a large domed nest, usually lays 1 egg and incubates and raises the chick alone.",
+      "zh": "雄鸟在展示平台上用鸣唱、拟声和尾羽动作求偶，但不承担育幼。雌鸟建造大型穹顶巢，通常产1枚蛋，并独自孵化和抚育雏鸟。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Powerful scratching feet",
+          "zh": "强力翻耙双足"
+        },
+        "detail": {
+          "en": "Strong legs and claws move compact leaf litter to expose hidden invertebrates.",
+          "zh": "强壮腿爪能翻开压实落叶，暴露隐藏的无脊椎动物。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Vocal mimicry",
+          "zh": "声音拟态"
+        },
+        "detail": {
+          "en": "A complex syrinx and learned song repertoire let males incorporate calls of other forest birds.",
+          "zh": "复杂鸣管和学习形成的曲目使雄鸟能把其他森林鸟类叫声编入鸣唱。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Forest-brown plumage",
+          "zh": "森林棕色羽衣"
+        },
+        "detail": {
+          "en": "Rich brown plumage reduces contrast against wet litter and dense understory.",
+          "zh": "浓郁棕色羽衣降低其在湿润落叶和密集林下层中的反差。"
+        },
+        "source_keys": [
+          "identification"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "By turning leaf litter while foraging, Albert's lyrebirds expose and redistribute soil-surface material and consume many invertebrates. They are also prey within the wet-forest food web.",
+      "zh": "艾氏琴鸟觅食时翻动落叶，暴露并重新分布地表物质，同时捕食大量无脊椎动物；它们也属于湿润森林食物网中的猎物。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "stable",
+      "threats": {
+        "en": "Although the global status is Least Concern, the range is very small. Historic clearing, habitat fragmentation, inappropriate fire, weeds, severe storms and introduced predators remain regional concerns.",
+        "zh": "尽管全球等级为无危，其分布范围仍很狭小。历史清林、生境破碎化、不当火情、杂草、强风暴和外来捕食者仍是地区性隐患。"
+      },
+      "actions": {
+        "en": "Protect connected rainforest and wet-forest habitat, maintain deep litter and understory, use appropriate fire management and continue acoustic and camera monitoring across both states.",
+        "zh": "应保护连通的雨林和湿润森林，维持深厚落叶层与林下植被，采用适当火管理，并在两州持续开展声学和相机监测。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A large rich chestnut-brown ground bird with a very long tail; the male's display tail is filamentous and less elaborate than a superb lyrebird's.",
+        "zh": "大型栗棕色地栖鸟，尾很长；雄鸟展示尾羽呈丝状，复杂程度低于华丽琴鸟。"
+      },
+      "similar_species": {
+        "en": "The superb lyrebird is generally greyer and its adult male has conspicuous ornate lyre-shaped outer tail feathers. Location, plumage and tail structure should be considered together.",
+        "zh": "华丽琴鸟整体通常更偏灰，成年雄鸟具有醒目的华丽里拉琴形外侧尾羽；鉴定时应结合地点、羽色和尾羽结构。"
+      },
+      "source_keys": [
+        "identification",
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Males give far-carrying territorial song composed of their own phrases and learned imitations. Because the birds are difficult to see in dense forest, passive acoustic recorders are important for monitoring.",
+      "zh": "雄鸟发出传播很远的领地鸣唱，由自身乐句和学习来的拟声组成。由于密林中很难看到它们，被动声学记录器是重要监测工具。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Male singing and display intensify during the winter breeding period. Rainfall and litter moisture affect invertebrate availability, while severe fire or storms can alter dense forest cover.",
+      "zh": "雄鸟鸣唱和展示在冬季繁殖期增强。降雨和落叶湿度会影响无脊椎动物数量，严重火灾或风暴则会改变茂密森林遮蔽。",
+      "source_keys": [
+        "ecology",
+        "conservation"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The species is valued as an Australian endemic and acoustic emblem. Visitors should stay on tracks, avoid playback near displaying birds and report records through appropriate monitoring programs rather than approaching nests.",
+      "zh": "该物种作为澳大利亚特有鸟和声音象征而备受重视。访客应留在步道上，避免在展示雄鸟附近播放叫声，并通过合适监测项目报告记录，而不要接近鸟巢。",
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Albert's and superb lyrebirds are the only living species in Menuridae, an early-diverging lineage of oscine passerines. Similar display behavior is paired with distinct plumage and vocal repertoires.",
+      "zh": "艾氏琴鸟和华丽琴鸟是琴鸟科仅有的两个现生种，属于鸣禽中较早分化的谱系；两者展示行为相似，但羽衣和鸣唱曲目不同。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "Large scratchings in moist litter and complex imitated bird calls may indicate a lyrebird, but they are not species-specific. Within overlap or near range edges, recordings and clear views should be checked by experienced observers.",
+      "zh": "湿润落叶层中的大型翻耙痕迹和复杂拟鸟声可能表明有琴鸟，但并非物种特异证据。在重叠区或分布边缘，应由有经验者核对录音和清晰影像。",
+      "source_keys": [
+        "identification"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The global category is Least Concern, while New South Wales and Queensland retain different state-level categories.",
+          "zh": "其全球等级为无危，而新南威尔士州和昆士兰州仍采用不同州级等级。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "Unlike the superb lyrebird, males display on trampled vine platforms rather than prominent soil mounds.",
+          "zh": "与华丽琴鸟不同，雄鸟在踩平的藤蔓平台而非明显土堆上展示。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "Females carry out nest building, incubation and chick care without male assistance.",
+          "zh": "雌鸟在没有雄鸟协助的情况下完成筑巢、孵化和育雏。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Song and nesting",
+          "zh": "鸣唱与筑巢"
+        },
+        "content": {
+          "en": "A male invests in learned song and visual display, while each female independently builds a domed nest and raises a small clutch, producing a sharp division between courtship and parental roles.",
+          "zh": "雄鸟把大量精力投入学习鸣唱和视觉展示，雌鸟则独立建造穹顶巢并抚育很小的窝卵，两性的求偶与育幼角色分工明显。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

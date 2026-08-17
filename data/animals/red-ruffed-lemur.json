@@ -1,4 +1,12 @@
 {
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "English and Chinese were compared section by section; numbers, ranges, qualifiers, species names, conservation scope and source support were checked."
+  },
   "id": "red-ruffed-lemur",
   "name_zh": "红领狐猴",
   "name_en": "Red Ruffed Lemur",
@@ -37,215 +45,392 @@
   "conservation_status": {
     "code": "CR",
     "en": "Critically Endangered",
-    "zh": "极危"
+    "zh": "极危",
+    "note_en": "The 2020 IUCN assessment reports a decreasing population and an estimated decline of at least 80% over three generations.",
+    "note_zh": "IUCN 2020年评估认为其种群仍在下降，并推测三个世代内的降幅至少达到80%。"
   },
   "description": {
-    "en": "The Red Ruffed Lemur (Varecia rubra) is one of the largest extant lemurs, endemic to the rainforests of the Masoala Peninsula in northeastern Madagascar. It is distinguished by its luxuriant, deep russet-red coat, which contrasts sharply with a black face, extremities, and tail. This diurnal, arboreal primate is a highly specialized frugivore, particularly dependent on large, lipid-rich fruits to fuel its energetic lifestyle and rapid reproduction. Uniquely among primates, females give birth to litters of up to six offspring (typically two to three) after a relatively short gestation period of about 102 days. The species is a crucial ecosystem engineer, acting as a primary seed disperser for a multitude of rainforest trees, many of which rely exclusively on Varecia for propagation. Its social structure is characterized by fission-fusion dynamics within large, multi-male/multi-female communities that can exceed 30 individuals, the largest aggregations of any lemur. Acoustic communication is highly developed, with a complex repertoire of loud, raucous calls used to coordinate group movements, defend territories, and raise alarm. Tragically, the Red Ruffed Lemur is classified as Critically Endangered due to severe habitat destruction from slash-and-burn agriculture and illegal logging for precious hardwoods, compounded by intense hunting pressure for bushmeat. The entire global population is confined to the Masoala Peninsula, making it exquisitely vulnerable to stochastic events like cyclones and to the ongoing fragmentation of its last remaining forest refuges.",
-    "zh": "红领狐猴（Varecia rubra）是现存体型最大的狐猴之一，为马达加斯加东北部马苏阿拉半岛雨林的特有物种。其最显著的特征是浓密、深赤褐色的皮毛，与黑色的面部、四肢及尾部形成鲜明对比。这种昼行性、树栖的灵长类动物是高度特化的食果动物，尤其依赖大型、高脂肪的果实来驱动其旺盛的精力和极快的繁殖节奏。在灵长类动物中，其繁殖方式独一无二：雌性在仅约102天的短暂妊娠期后，可产下多达六只幼崽（通常二至三只）。作为关键的生态系统工程师，该物种是众多雨林树木的一级种子传播者，许多树木完全依赖领狐猴进行繁衍。其社会结构以分裂-融合动态为特征，群体由多个雄性、多个雌性组成，数量可超过30只，在所有狐猴中是规模最大的。声音通讯高度发达，它们利用复杂、响亮而沙哑的叫声来协调整体行动、保卫领域和发出警报。不幸的是，由于刀耕火种农业和非法珍贵硬木采伐造成的严重栖息地破坏，加之密集的丛林肉狩猎压力，红领狐猴已被列为极危物种。其整个全球种群仅局限于马苏阿拉半岛，使其极易受到气旋等随机事件以及最后森林避难所持续片段化的影响。"
+    "en": "The red ruffed lemur is a large, fruit-loving lemur found naturally only in the forests of Madagascar's Masoala Peninsula. Its rusty-red coat, black face and tail, and small white patch behind the head make it easy to recognize. By carrying pollen and spreading swallowed seeds, it also helps its rainforest renew itself. Habitat loss, hunting, logging and powerful cyclones have left the species Critically Endangered.",
+    "zh": "红领狐猴是一种体型较大、喜食果实的狐猴，野外仅自然分布于马达加斯加的马苏阿拉半岛森林。它有赤褐色体毛、黑色面部与尾巴，后颈通常还有一小块白斑，十分醒目。它会携带花粉、传播吞下的种子，帮助雨林更新。栖息地丧失、狩猎、伐木和强烈气旋使它成为极危物种。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "Varecia rubra exhibits a suite of morphological adaptations for arboreal life and a predominantly frugivorous diet. Total body length ranges from 100 to 120 cm, with the long, bushy tail accounting for 55–65 cm of that length. Adults weigh between 3.3 and 4.5 kg, with no significant sexual dimorphism. The pelage is remarkably plush and dense, a deep brick-red to orange-red dorsally, with a jet-black face, hands, feet, and tail. A distinctive white patch often adorns the nape of the neck. The facial area is characterized by a hairless, dark muzzle and keen, forward-facing eyes with a tapetum lucidum for enhanced night vision, though the species is strictly diurnal. Dental formula is 2.1.3.3/2.1.3.3, with a procumbent, toothcomb formed by the lower incisors and canines, used for grooming and gouging fruit rinds. The hands and feet possess strong, grasping digits with flat nails (except the toilet-claw on the second toe), enabling powerful suspension and leaping. The gastrointestinal tract, while not as complex as in folivorous colobines, features an enlarged cecum to facilitate fermentation of the high-fructose, fibrous fruit and incidental leaf matter. Their vocal anatomy includes an enlarged, descended larynx and a well-developed hyoid apparatus, enabling the production of the species’ characteristic loud, resonant roars and cackles that can carry over a kilometer through dense forest.",
-      "zh": "红领狐猴展现出一系列适应树栖生活并主要依赖果实为食的形态学特征。体长介于100至120厘米之间，其中长而浓密的尾部占55–65厘米。成年个体体重在3.3至4.5公斤之间，无显著的两性异形。皮毛异常丰厚而致密，背部呈砖红色至橙红色，面部、手足及尾部则为纯黑色。颈背常有一块独特的白色斑块。面部特征包括无毛的深色口鼻部和敏锐的前视双眼，具备反光膜以增强夜视能力（尽管本种严格昼行）。齿式为 2.1.3.3/2.1.3.3，由下门齿和犬齿形成的梳状齿向前倾斜，用于梳理毛发和剥开果皮。手足具有强壮、善于抓握的指趾，指趾甲扁平（第二趾的梳爪除外），能够进行有力的悬挂和跳跃。其消化道虽不像食叶的疣猴科动物那样复杂，但具有膨大的盲肠，以促进对高果糖、富含纤维的果实和连带摄入的叶子的发酵。其发声解剖结构包括一个增大、下降的喉部和一个发育良好的舌骨器，使其能够发出独特、洪亮的共鸣咆哮和咯咯声，在茂密森林中可传播超过一公里。"
+      "en": "Most of the body is covered in thick rusty-red fur, while the face, belly, hands, feet and tail are black; a white patch often marks the back of the neck. Adults can weigh up to about 4.1 kilograms, and published measurements put total length at roughly 110–120 centimeters including the long tail. Like other lemurs, it has a toothcomb and a grooming claw that help keep its dense coat clean.",
+      "zh": "它的大部分身体覆盖着浓密的赤褐色毛，面部、腹部、手、脚和尾巴为黑色，后颈常有一块白斑。成年个体体重可达约4.1千克，已有测量显示其含长尾在内的总长约为110–120厘米。和其他狐猴一样，它具有梳状齿与梳爪，可以帮助清理浓密的毛发。",
+      "source_keys": [
+        "smithsonian",
+        "duke_species",
+        "adw"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "Red Ruffed Lemurs are diurnal, quintessential arboreal primates, spending the vast majority of their lives in the upper canopy strata, though they descend occasionally to drink or travel across gaps. Their behavior is profoundly shaped by a fission-fusion social system, unique among lemurids. Core communities consist of 18 to 32 related and unrelated adults, which split into smaller subgroups of 2–6 individuals to forage over a large, often overlapping home range that can span 25–60 hectares. This dynamic is primarily driven by the spatial and temporal patchiness of their fruit resources. Communication is rich and multimodal, with a vocal repertoire of over a dozen distinct calls. The most iconic are the powerful, guttural roar-shrieks used for intergroup spacing and assembly; these choruses often erupt spontaneously at dawn and dusk, serving to advertise the community’s occupancy of a territory. Olfactory signaling is also crucial, with both sexes using scent glands on the chest and anogenital regions to mark branches. Their diet is overwhelmingly frugivorous, with figs (Ficus spp.) and other large-seeded fruits constituting over 75% of their intake. They are obligate seed dispersers; they often swallow seeds whole and deposit them intact far from the parent tree, a mutualism critical for the regeneration of their rainforest habitat. Intriguingly, they consume nectar and pollen seasonally, acting as significant pollinators for several canopy tree species like the traveler’s palm (Ravenala madagascariensis). Reproduction is remarkably energetic and asynchronous. Females build crude leafy nests where they park their altricial young (typically 2–3) while foraging, an unusual behavior for primates. Lactation demands extremely high energy, pushing females to seek out spatially concentrated fruit aggregations. Predation pressure comes primarily from the fossa (Cryptoprocta ferox) and the Madagascar harrier-hawk (Polyboroides radiatus), against which the lemurs use mobbing behavior and alarm calls.",
-      "zh": "红领狐猴是典型的昼行性树栖灵长类，绝大部分时间生活在树林冠层高处，偶尔下地饮水或穿越林间空隙。它们的行为深受分裂-融合社会系统的深刻影响，这一特性在狐猴科中独一无二。核心群落由18至32只具有亲缘关系或无关的成年个体组成，它们会分裂成2–6只的小亚群进行觅食，活动范围广阔且常常重叠，可达25至60公顷。这种动态主要由果实资源在时空上的斑块状分布所驱动。交流方式丰富且多模态，声乐库中包含十多种不同的叫声。最具标志性的是用于群体间间隔和聚合的强力、喉音般的咆哮尖叫声；这些合唱常在黎明和黄昏自发爆发，用以宣示群落对领域的占据。嗅觉信号同样关键，两性均利用胸部和肛生殖区的气味腺来标记树枝。它们的食物以果实为主，无花果（Ficus spp.）和其他大种子果实占其摄入量的75%以上。它们是专性的种子传播者；通常会整粒吞下种子，并完好无损地将其沉积在远离母树的地方，这种互利共生对其雨林栖息地的再生至关重要。有趣的是，它们季节性取食花蜜和花粉，是旅人蕉（Ravenala madagascariensis）等几种冠层树种的重要传粉者。繁殖能耗极高且不同步。雌性会建造简陋的叶巢，将未发育成熟的幼崽（通常2-3只）留巢内，自己外出觅食，这在灵长类中实属罕见。哺乳期对能量的需求极高，迫使雌性寻找空间上集中的果实聚集区。捕食压力主要来自马岛獴（Cryptoprocta ferox）和马岛鹞鹰（Polyboroides radiatus），狐猴则采用围巢行为和报警叫声来应对。"
+      "en": "Red ruffed lemurs are active by day and spend most of their time in the forest canopy. Fruit makes up most of their diet, supplemented by leaves, seeds and nectar. Their flexible communities split into smaller foraging parties when food is scattered, then gather more widely when food is plentiful. Loud calls and scent marks help separated animals stay in contact and signal that an area is occupied.",
+      "zh": "红领狐猴白天活动，大部分时间生活在森林冠层。它们主要吃果实，也会取食叶片、种子和花蜜。食物分散时，灵活的群体会拆分成较小的觅食小队；食物丰富时，更多成员又会聚在一起。响亮的叫声和气味标记能帮助分散的成员保持联系，也能表示某片区域已被占用。",
+      "source_keys": [
+        "smithsonian",
+        "adw"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Varecia rubra exhibits the most restricted geographic range of any Varecia species, being found exclusively on the Masoala Peninsula, a rugged, mountainous promontory in northeastern Madagascar, bounded by the Indian Ocean to the east and Antongil Bay to the west. Its range extends roughly from the region of Cap Est in the south to just north of Sambava, but its core, continuous distribution is tightly confined to the primary and mature secondary rainforests of the Masoala National Park complex and the adjacent Makira Natural Park. The species inhabits lowland to mid-elevation humid evergreen forests, from sea level up to approximately 1,300 meters on the slopes of the Masoala massif. These forests are characterized by an extremely high canopy (25–35 meters), dominated by families like the Sarcolaenaceae, Lauraceae, and Moraceae, and receive an annual rainfall exceeding 4,000 mm in some areas. The lemur's presence is strongly correlated with intact, tall-canopy stands that provide large continuous fruiting trees. It is notably absent from the degraded, secondary coastal forests and the littoral forest strips that border the ocean, as well as from the heavily deforested and human-populated agricultural belt along the Antongil Bay between Maroantsetra and Antalaha. Altitudinally, it is most abundant at 400–1,000 meters, where the highest fruiting tree diversity occurs. This absolute endemism to a single peninsula makes the entire global population of the Red Ruffed Lemur extraordinarily susceptible to environmental catastrophes, such as tropical cyclones, which periodically devastate Madagascar's eastern coast, and to the inexorable pressure of anthropogenic habitat encroachment.",
-      "zh": "红领狐猴是所有领狐猴属中分布范围最狭窄的，仅见于马达加斯加东北部的马苏阿拉半岛，这是一个崎岖多山的岬角，东临印度洋，西临安通吉尔湾。其分布范围大致南起东角地区，北至桑巴瓦以北，但其核心、连续的分布区域严格局限于马苏阿拉国家公园复合体和相邻的马基拉自然公园内的原生及成熟次生雨林中。该物种栖息在从海平面至马苏阿拉地块山坡上海拔约1,300米的低地到中海拔湿润常绿林中。这些森林拥有极高的林冠（25–35米），以 Sarcolaenaceae科、樟科和桑科等植物为主，某些地区的年降雨量超过4,000毫米。狐猴的存在与能够提供大片连续结果树的高大完整林冠密切相关。值得注意的是，它在退化的次生沿海森林、接壤海洋的海岸森林带，以及马鲁安采特拉和安塔拉哈之间安通吉尔湾沿岸被严重砍伐和人类聚居的农业带中均无踪迹。在海拔400–1,000米范围内，由于结果树多样性最高，其数量最为丰富。对单一半岛的绝对特有性使红领狐猴的整个全球种群极易受到环境灾难（例如周期性肆虐马达加斯加东海岸的热带气旋）以及人为栖息地侵蚀的无情压力的影响。"
+      "en": "This species is native only to northeastern Madagascar, especially the forests of the Masoala Peninsula near Maroantsetra. It usually uses the upper canopy of tropical forest. The Antainambalana River helps separate its range from that of the closely related black-and-white ruffed lemur. Because no verified range geometry is stored in this project, the map shows a representative center point rather than a guessed boundary.",
+      "zh": "该物种仅原生于马达加斯加东北部，主要生活在马鲁安采特拉附近的马苏阿拉半岛森林中，通常活动于热带森林的上层林冠。安泰南巴拉纳河在地理上帮助分隔红领狐猴与近亲黑白领狐猴的分布。本项目尚未保存经过核实的分布边界，因此地图只显示代表性中心点，不绘制猜测范围。",
+      "source_keys": [
+        "smithsonian",
+        "adw"
+      ]
     }
   },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "Up to about 4.1 kg",
+          "zh": "可达约4.1千克"
+        },
+        "source_keys": [
+          "duke_species"
+        ]
+      },
+      {
+        "key": "total_length",
+        "label": {
+          "en": "Total length",
+          "zh": "总体长"
+        },
+        "value": {
+          "en": "About 110–120 cm, including tail",
+          "zh": "含尾约110–120厘米"
+        },
+        "source_keys": [
+          "adw"
+        ]
+      },
+      {
+        "key": "wild_lifespan",
+        "label": {
+          "en": "Wild lifespan",
+          "zh": "野外寿命"
+        },
+        "value": {
+          "en": "About 15–20 years",
+          "zh": "约15–20年"
+        },
+        "source_keys": [
+          "smithsonian",
+          "adw"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Mostly fruit; also leaves, seeds and nectar",
+          "zh": "以果实为主，也吃叶、种子和花蜜"
+        },
+        "source_keys": [
+          "smithsonian"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动方式"
+        },
+        "value": {
+          "en": "Diurnal and mainly arboreal",
+          "zh": "昼行，主要树栖"
+        },
+        "source_keys": [
+          "adw"
+        ]
+      },
+      {
+        "key": "breeding_season",
+        "label": {
+          "en": "Breeding season",
+          "zh": "繁殖季"
+        },
+        "value": {
+            "en": "Months 5–7 (May–July)",
+          "zh": "通常为5–7月"
+        },
+        "source_keys": [
+          "smithsonian",
+          "adw"
+        ]
+      },
+      {
+        "key": "litter_size",
+        "label": {
+          "en": "Litter size",
+          "zh": "每胎幼崽"
+        },
+        "value": {
+          "en": "Usually 3; as many as 6",
+          "zh": "通常3只，最多可达6只"
+        },
+        "source_keys": [
+          "smithsonian"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+        "en": "Breeding usually takes place in months 5–7 (May to July). After a gestation of roughly 90–120 days, a female commonly gives birth to 3 young, although litters can be larger. The mother builds a leafy nest and leaves the young safely parked there while adults forage, rather than carrying them continuously as many primates do. Young red ruffed lemurs reach sexual maturity at about 2 years of age.",
+        "zh": "繁殖通常发生在5月至7月。经过约90–120天的妊娠期后，雌性通常产下3只幼崽，但也可能更多。母亲会用叶片筑巢，成年个体外出觅食时将幼崽安全地留在巢中，而不像许多灵长类那样一直背着幼崽。红领狐猴大约在2岁时达到性成熟。",
+      "source_keys": [
+        "smithsonian",
+        "adw"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "A built-in raincoat",
+          "zh": "自带的雨衣"
+        },
+        "detail": {
+          "en": "Its unusually thick coat helps protect it in the wet rainforest canopy, much like a raincoat rather than a winter coat.",
+          "zh": "它异常浓密的皮毛有助于抵挡湿润林冠中的雨水，更像一件雨衣，而不是御寒冬衣。"
+        },
+        "source_keys": [
+          "duke_species",
+          "duke_taxonomy"
+        ]
+      },
+      {
+        "title": {
+          "en": "Special grooming tools",
+          "zh": "专用梳理工具"
+        },
+        "detail": {
+          "en": "A toothcomb in the lower jaw and a grooming claw on the foot work like a comb for cleaning thick fur.",
+          "zh": "下颌的梳状齿与脚上的梳爪就像梳子，可以清理浓密毛发。"
+        },
+        "source_keys": [
+          "smithsonian",
+          "adw"
+        ]
+      },
+      {
+        "title": {
+          "en": "Nest-parking young",
+          "zh": "把幼崽留在巢中"
+        },
+        "detail": {
+          "en": "Parking several young in a nest lets the mother move through the canopy to find enough fruit for the energy-demanding nursing period.",
+          "zh": "把多只幼崽留在巢中，可以让母亲在林冠中移动觅食，为高耗能的哺乳期取得足够果实。"
+        },
+        "source_keys": [
+          "smithsonian",
+          "duke_species"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Red ruffed lemurs help maintain rainforest plant communities in two ways. Pollen sticks to the fur around the face while they drink nectar and can be carried to another flower. They also swallow seeds with fruit and deposit them elsewhere in natural fertilizer, allowing some large-seeded plants to spread away from the parent tree.",
+      "zh": "红领狐猴通过两种方式帮助维持雨林植物群落。它们吸食花蜜时，花粉会粘在面部周围的毛上，并被带到下一朵花。它们还会连同果肉吞下种子，再把种子随天然“肥料”排到别处，使一些大种子植物能够远离母树扩散。",
+      "source_keys": [
+        "duke_species",
+        "duke_ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Forest is cleared or damaged by agriculture and illegal logging, while hunting and live capture add direct pressure. Because the species has a narrow range, severe tropical cyclones can affect a large part of its remaining habitat at once.",
+        "zh": "农业开垦和非法伐木会清除或破坏森林，狩猎与活体捕捉又带来直接压力。由于分布范围狭窄，强烈热带气旋可能一次影响其大面积剩余栖息地。"
+      },
+      "actions": {
+        "en": "Priorities include protecting and reconnecting Masoala forest, enforcing controls on hunting and illegal logging, monitoring wild populations, and supporting nearby communities in conservation. Carefully managed populations in human care provide an additional safeguard, but they cannot replace habitat protection.",
+        "zh": "保护重点包括守护并连接马苏阿拉森林、加强对狩猎与非法伐木的执法、持续监测野外种群，并支持周边社区参与保护。科学管理的人工饲养种群可以提供额外保障，但不能替代栖息地保护。"
+      },
+      "source_keys": [
+        "conservation",
+        "smithsonian"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Look for a broad rusty-red or chestnut ruff and body, combined with a black face, belly, hands, feet and tail. A contrasting white patch is often visible on the back of the neck.",
+        "zh": "识别时可寻找宽大的赤褐色或栗色颈毛与体毛，同时注意黑色面部、腹部、手、脚和尾巴；后颈通常还能看到对比鲜明的白斑。"
+      },
+      "similar_species": {
+        "en": "The closest look-alike is the black-and-white ruffed lemur (Varecia variegata). It shares the black face, hands, feet and tail, but its body pattern is dominated by black and white rather than the red ruff and red body of V. rubra.",
+        "zh": "最容易混淆的是黑白领狐猴（Varecia variegata）。两者都有黑色面部、手、脚和尾巴，但黑白领狐猴的身体以黑白花纹为主，不具有红领狐猴醒目的红色颈毛与红色身体。"
+      },
+      "source_keys": [
+        "taxonomy",
+        "smithsonian",
+        "duke_species"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Red ruffed lemurs use loud guttural barks, alarm calls and group choruses. Different alarm calls can carry information about danger, and calls help scattered foragers keep track of one another. Scent marks from glands near the rear add a chemical message that identifies groups and used areas.",
+      "zh": "红领狐猴会发出响亮的喉音吠叫、警报声和群体合唱。不同警报声可以传递危险信息，叫声还能让分散觅食的成员掌握彼此位置。后部气味腺留下的标记则提供化学信息，用来辨认群体和已使用的区域。",
+      "source_keys": [
+        "smithsonian",
+        "adw"
+      ]
+    },
+    "seasonal_calendar": {
+        "en": "Breeding is concentrated in months 5–7 (May to July), during Madagascar's drier season, and births follow after the short gestation. Social grouping also changes with food: larger gatherings are more common when wet-season foods are abundant, while animals divide into smaller foraging parties when resources are scattered.",
+      "zh": "繁殖集中在5月至7月，即马达加斯加较干燥的季节，经过较短妊娠期后幼崽出生。群体规模也会随食物改变：雨季食物丰富时较容易形成较大聚集，资源分散时则拆分成较小觅食队伍。",
+      "source_keys": [
+        "smithsonian",
+        "adw"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "People are part of both the problem and the solution. Hunting, live capture and forest clearing threaten the species, while protected-area staff, Malagasy communities, researchers and responsible zoos work to protect habitat, study populations and maintain a carefully managed backup population. Seeing lemurs can also support nature tourism when it is managed responsibly.",
+      "zh": "人类既可能造成威胁，也能成为解决方案的一部分。狩猎、活体捕捉和森林开垦危及该物种；保护区工作人员、马达加斯加社区、研究人员和负责任的动物园则共同保护栖息地、调查种群，并维持科学管理的后备种群。管理得当的观狐猴活动也能支持自然旅游。",
+      "source_keys": [
+        "smithsonian",
+        "adw"
+      ]
+    },
+    "evolution": {
+      "en": "Red ruffed lemurs belong to the lemur family Lemuridae and are one of two currently recognized species in the genus Varecia; the other is the black-and-white ruffed lemur. Older classifications treated the red form as a subspecies, Varecia variegata rubra, but it is now widely recognized as the species Varecia rubra. The two ruffed lemurs retain many shared features, including dense coats, loud calls and fruit-centered diets.",
+      "zh": "红领狐猴属于狐猴科，是领狐猴属目前公认的两个物种之一，另一个是黑白领狐猴。较旧的分类曾把红色类型视为亚种 Varecia variegata rubra，如今则广泛承认为独立物种 Varecia rubra。两种领狐猴仍保留许多共同特征，包括浓密皮毛、响亮叫声和以果实为中心的食性。",
+      "source_keys": [
+        "taxonomy",
+        "duke_taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "In dense canopy, a red ruffed lemur may be heard before it is seen: groups produce carrying barks and rough choruses. Fresh scent marks on frequently used branches and leafy nests holding young can also reveal their presence, although nests should never be approached or disturbed.",
+      "zh": "在茂密林冠中，人们可能先听见红领狐猴，再看到它们：群体会发出传得很远的吠声和粗哑合唱。常用树枝上的新鲜气味标记，以及安置幼崽的叶巢，也可能透露它们的存在；但绝不应靠近或干扰巢穴。",
+      "source_keys": [
+        "smithsonian",
+        "adw"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Ruffed lemurs are unusual among primates because females can raise a litter instead of a single infant; they have six nipples and can nurse several young at once.",
+          "zh": "领狐猴在灵长类中很特别：雌性可以一次养育一窝幼崽，而不只是单只幼崽；它们有六个乳头，可以同时哺育多只幼崽。"
+        },
+        "source_keys": [
+          "smithsonian"
+        ]
+      },
+      {
+        "text": {
+          "en": "When a ruffed lemur drinks nectar, pollen can cling to the fluffy ruff around its face, turning the animal into one of the world's largest pollinators.",
+          "zh": "领狐猴吸食花蜜时，花粉会粘在面部周围蓬松的颈毛上，使它成为世界上体型最大的传粉动物之一。"
+        },
+        "source_keys": [
+          "duke_species",
+          "duke_ecology"
+        ]
+      },
+      {
+        "text": {
+            "en": "Large ruffed lemurs can swallow surprisingly large seeds; Duke Lemur Center notes that seeds up to about 4 centimeters long can pass through and be deposited elsewhere.",
+          "zh": "大型领狐猴能够吞下相当大的种子；杜克狐猴中心指出，长达约4厘米的种子也能通过消化道并被带到别处。"
+        },
+        "source_keys": [
+          "duke_ecology"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Flexible social networks",
+          "zh": "灵活的社会网络"
+        },
+        "content": {
+          "en": "A community does not always travel as one unit. Individuals form smaller foraging parties whose membership and size change with season and food supply, while calls help keep the wider network connected.",
+          "zh": "一个群体并不总是作为整体行动。成员会组成规模和成员随季节、食物供应改变的小型觅食队伍，再用叫声维持更大社会网络的联系。"
+        },
+        "source_keys": [
+          "adw"
+        ]
+      },
+      {
+        "title": {
+          "en": "A primate that builds nurseries",
+          "zh": "会建育幼巢的灵长类"
+        },
+        "content": {
+          "en": "Instead of carrying newborns everywhere, a mother builds a nest and parks her litter there. Other community members may help watch the young, an uncommon care system among primates.",
+          "zh": "母亲不会把新生幼崽一直带在身上，而是筑巢并把一窝幼崽留在那里。其他群体成员也可能帮助看护幼崽，这在灵长类中并不常见。"
+        },
+        "source_keys": [
+          "smithsonian",
+          "adw"
+        ]
+      }
+    ]
+  },
   "habitat": {
-    "text_en": "Primary and secondary lowland to mid-elevation rainforests of the Masoala Peninsula, northeastern Madagascar.",
-    "text_zh": "马达加斯加东北部马苏阿拉半岛的低地至中海拔原生及次生雨林。",
+    "text_en": "Tropical forests of the Masoala Peninsula in northeastern Madagascar, mainly in the upper canopy.",
+    "text_zh": "马达加斯加东北部马苏阿拉半岛的热带森林，主要活动于上层林冠。",
     "map_coordinates": [
       -15.65,
       49.95
     ],
-    "map_zoom_level": 9,
-    "global_distribution_polygons": [
-      [
-        [
-          -14.9,
-          49.68
-        ],
-        [
-          -14.88,
-          49.75
-        ],
-        [
-          -14.85,
-          49.81
-        ],
-        [
-          -14.83,
-          49.87
-        ],
-        [
-          -14.8,
-          49.92
-        ],
-        [
-          -14.78,
-          49.97
-        ],
-        [
-          -14.75,
-          50.02
-        ],
-        [
-          -14.72,
-          50.07
-        ],
-        [
-          -14.7,
-          50.11
-        ],
-        [
-          -14.67,
-          50.16
-        ],
-        [
-          -14.65,
-          50.19
-        ],
-        [
-          -14.62,
-          50.22
-        ],
-        [
-          -14.58,
-          50.26
-        ],
-        [
-          -14.55,
-          50.28
-        ],
-        [
-          -14.52,
-          50.3
-        ],
-        [
-          -14.48,
-          50.29
-        ],
-        [
-          -14.45,
-          50.28
-        ],
-        [
-          -14.42,
-          50.26
-        ],
-        [
-          -14.39,
-          50.23
-        ],
-        [
-          -14.36,
-          50.2
-        ],
-        [
-          -14.34,
-          50.16
-        ],
-        [
-          -14.32,
-          50.11
-        ],
-        [
-          -14.31,
-          50.07
-        ],
-        [
-          -14.3,
-          50.02
-        ],
-        [
-          -14.29,
-          49.98
-        ],
-        [
-          -14.29,
-          49.94
-        ],
-        [
-          -14.3,
-          49.9
-        ],
-        [
-          -14.31,
-          49.86
-        ],
-        [
-          -14.33,
-          49.82
-        ],
-        [
-          -14.35,
-          49.78
-        ],
-        [
-          -14.38,
-          49.75
-        ],
-        [
-          -14.42,
-          49.73
-        ],
-        [
-          -14.46,
-          49.71
-        ],
-        [
-          -14.5,
-          49.7
-        ],
-        [
-          -14.55,
-          49.69
-        ],
-        [
-          -14.6,
-          49.68
-        ],
-        [
-          -14.65,
-          49.68
-        ],
-        [
-          -14.7,
-          49.67
-        ],
-        [
-          -14.75,
-          49.66
-        ],
-        [
-          -14.79,
-          49.66
-        ],
-        [
-          -14.84,
-          49.66
-        ],
-        [
-          -14.88,
-          49.67
-        ],
-        [
-          -14.9,
-          49.68
-        ]
-      ]
-    ]
+    "map_zoom_level": 8,
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "removed-unverified",
+      "source_keys": [
+        "conservation",
+        "smithsonian",
+        "adw"
+      ],
+      "comparison_en": "The previous hand-drawn polygon had no traceable geometry source and was removed during the 2026-08-16 review. IUCN and institutional sources confirm the northeastern Madagascar and Masoala Peninsula range, but verified coordinates have not yet been imported, so the map shows a representative point at regional zoom rather than a distribution boundary.",
+      "comparison_zh": "2026-08-16复审时发现旧手绘多边形没有可追溯的几何数据来源，因此将其移除。IUCN及机构来源支持其分布于马达加斯加东北部和马苏阿拉半岛，但项目尚未导入经过核实的边界坐标，所以地图以区域缩放显示一个代表点，而不把它冒充为完整分布范围。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/red-ruffed-lemur.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "Global Biodiversity Information Facility (GBIF)",
+      "url": "https://www.gbif.org/species/4266945",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List of Threatened Species (2020 assessment)",
+      "url": "https://www.iucnredlist.org/species/22920/115574598",
+      "release": "2020",
+      "checked_at": "2026-08-16"
+    },
+    "smithsonian": {
+      "authority": "Smithsonian's National Zoo and Conservation Biology Institute",
+      "url": "https://nationalzoo.si.edu/animals/red-ruffed-lemur",
+      "checked_at": "2026-08-16"
+    },
+    "duke_species": {
+      "authority": "Duke Lemur Center",
+      "url": "https://lemur.duke.edu/discover/meet-the-lemurs/red-ruffed-lemur/",
+      "checked_at": "2026-08-16"
+    },
+    "adw": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Varecia_rubra/",
+      "checked_at": "2026-08-16"
+    },
+    "duke_ecology": {
+      "authority": "Duke Lemur Center — Gardeners of the Forest",
+      "url": "https://lemur.duke.edu/engage/virtual-programs/subscription/04-2021-ll2/",
+      "checked_at": "2026-08-16"
+    },
+    "duke_taxonomy": {
+      "authority": "Duke Lemur Center — Beautiful Beards: Meet the Ruffed Lemurs",
+      "url": "https://lemur.duke.edu/podcast/s4e1/",
       "checked_at": "2026-08-16"
     }
   }

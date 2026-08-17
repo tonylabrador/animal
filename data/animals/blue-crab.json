@@ -37,7 +37,9 @@
   "conservation_status": {
     "code": "NE",
     "en": "Not Evaluated",
-    "zh": "未评估"
+    "zh": "未评估",
+    "note_en": "No species-level global IUCN assessment was found; Not Evaluated is not a measure of abundance or safety.",
+    "note_zh": "未找到该物种的全球IUCN物种级评估；未评估不代表数量多或安全。"
   },
   "description": {
     "en": "A highly aggressive, fast-swimming crustacean known for its brilliant sapphire-tinted claws and immense culinary and economic importance.",
@@ -46,15 +48,25 @@
   "encyclopedia": {
     "anatomy": {
       "en": "Its scientific name, Callinectes sapidus, beautifully translates to 'savory beautiful swimmer'. They possess a wide, olive-green carapace (shell) ending in sharp spines. What truly sets them apart are their front claws, which sport a stunning, bright blue coloration—though females have red-tipped claws, often likened to 'painted fingernails'. Uniquely, their fifth pair of legs has flattened, paddle-like ends, allowing them to swim sideways with remarkable speed through the water column, rather than just crawling.",
-      "zh": "它的学名 Callinectes sapidus 可以被优美地翻译成“美味的漂亮游泳者”。它们拥有宽阔的橄榄绿甲壳（外壳），边缘带有尖锐的刺。真正让它与众不同的是它那一对前螯，闪耀着令人惊叹的亮蓝色——不过雌蟹的爪尖是红色的，常被比作“涂了指甲油”。独特的是，它们的第五对脚的末端呈扁平的桨状，这使得它们在水层中能够以惊人的速度横向游动，而不仅仅是爬行。"
+      "zh": "它的学名 Callinectes sapidus 可以被优美地翻译成“美味的漂亮游泳者”。它们拥有宽阔的橄榄绿甲壳（外壳），边缘带有尖锐的刺。真正让它与众不同的是它那一对前螯，闪耀着令人惊叹的亮蓝色——不过雌蟹的爪尖是红色的，常被比作“涂了指甲油”。独特的是，它们的第五对脚的末端呈扁平的桨状，这使得它们在水层中能够以惊人的速度横向游动，而不仅仅是爬行。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "Blue crabs are notoriously feisty scavengers and ambush predators. They bury themselves in the mud, leaving only their eye stalks and antennae exposed, waiting for unsuspecting fish or smaller crustaceans to pass by before striking viciously. They are deeply reliant on seagrass beds for protection, especially during the vulnerable molting period. When a blue crab molts, it must hide as an entirely 'soft-shell crab' for several days while its new shell hardens.",
-      "zh": "蓝蟹是出了名的暴躁清道夫和伏击猎手。它们会将自己埋在泥里，只露出眼柄和触角，由于毫无戒备的鱼类或较小的甲壳类动物经过时，它们就会凶猛地发动攻击。它们极其依赖海草床来保护自己，尤其是在脆弱的蜕壳期间。当一只蓝蟹蜕壳后，它必须作为一个完全的「软壳蟹」躲藏好几天，直到它的新壳变硬。"
+      "en": "This review classifies the species as omnivore. Feeding, social behavior and activity can vary with age, season and locality, so details are tied to the cited species account rather than generalized from one observation.",
+      "zh": "本次复核把该物种归为杂食性。取食、社会行为和活动会随年龄、季节与地点变化，因此细节应对应所引物种资料，不能从一次观察泛化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "They are native to the western Atlantic Ocean, aggressively clinging to the coastlines. Their range extends extensively along the eastern seaboard of North America (notably the Chesapeake Bay), wrapping around the Gulf of Mexico, down through the Caribbean, and bordering South America all the way to Argentina. They migrate constantly between varying salinities: females head to high-salinity oceans to spawn millions of eggs, while males often remain in fresher, brackish rivers and estuaries.",
-      "zh": "它们原产于西大西洋，极其固执地依附于海岸线生活。它们的分布范围广泛地沿着北美东海岸（特别是切萨皮克湾），环绕墨西哥湾，向下穿过加勒比海，并一直沿着南美洲边界延伸到阿根廷。它们在不同盐度的水域之间不断迁徙：雌蟹会前往高盐度的海洋产下数百万个卵，而雄蟹通常留在较淡、半咸水的河流和河口中。"
+      "en": "The species uses ocean habitat within the distribution described by the cited range authority. The retained map is approximate and should not be used as a legal or survey boundary.",
+      "zh": "该物种利用分布权威所描述范围内的海洋生境。保留的地图为近似示意，不应作为法律或调查边界。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -144,13 +156,306 @@
           -70
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and every polygon coordinate are retained exactly. The polygon remains labelled approximate because reusable authoritative boundary geometry was not established in this review.",
+      "comparison_zh": "原有中心点、缩放级别和每个多边形坐标均完全保留。由于本次复核未取得可复用的权威边界几何，该多边形继续标为近似范围。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/blue-crab.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Callinectes%20sapidus",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "GBIF / IUCN status cross-check",
+      "url": "https://www.iucnredlist.org/search?query=Callinectes%20sapidus&searchType=species",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Callinectes_sapidus/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Callinectes_sapidus/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Callinectes_sapidus/",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Taxonomy, current global status, legacy bilingual sections, image identity criteria and unchanged habitat geometry reviewed for legacy QC batch 03B–03E."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Callinectes sapidus",
+          "zh": "Callinectes sapidus"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Malacostraca",
+          "zh": "软甲纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "order",
+        "label": {
+          "en": "Order",
+          "zh": "目"
+        },
+        "value": {
+          "en": "Decapoda",
+          "zh": "十足目"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat category",
+          "zh": "生境类别"
+        },
+        "value": {
+          "en": "Ocean",
+          "zh": "海洋"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet category",
+          "zh": "食性类别"
+        },
+        "value": {
+          "en": "Omnivore",
+          "zh": "杂食性"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Not Evaluated",
+          "zh": "未评估"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Growth requires repeated molts, while eggs and planktonic larval stages connect adult habitat with currents and nursery areas. Timing varies with temperature and salinity.",
+      "zh": "生长需要反复蜕壳，卵和浮游幼体阶段把成体生境与水流及育幼场连接起来。时间随温度和盐度变化。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Body design",
+          "zh": "身体结构"
+        },
+        "detail": {
+          "en": "Its scientific name, Callinectes sapidus, beautifully translates to 'savory beautiful swimmer'. They possess a wide, olive-green carapace (shell) ending in sharp spines. What truly sets them apart are their front claws, which sport a stunning, bright blue coloration—though females have red-tipped claws, often likened to 'painted fingernails'. Uniquely, their fifth pair of legs has flattened, paddle-like ends, allowing them to swim sideways with remarkable speed through the water column, rather than just crawling.",
+          "zh": "它的学名 Callinectes sapidus 可以被优美地翻译成“美味的漂亮游泳者”。它们拥有宽阔的橄榄绿甲壳（外壳），边缘带有尖锐的刺。真正让它与众不同的是它那一对前螯，闪耀着令人惊叹的亮蓝色——不过雌蟹的爪尖是红色的，常被比作“涂了指甲油”。独特的是，它们的第五对脚的末端呈扁平的桨状，这使得它们在水层中能够以惊人的速度横向游动，而不仅仅是爬行。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Feeding and behavior",
+          "zh": "取食与行为"
+        },
+        "detail": {
+          "en": "This review classifies the species as omnivore. Feeding, social behavior and activity can vary with age, season and locality, so details are tied to the cited species account rather than generalized from one observation.",
+          "zh": "本次复核把该物种归为杂食性。取食、社会行为和活动会随年龄、季节与地点变化，因此细节应对应所引物种资料，不能从一次观察泛化。"
+        },
+        "source_keys": [
+          "general",
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Habitat fit",
+          "zh": "生境适配"
+        },
+        "detail": {
+          "en": "The species uses ocean habitat within the distribution described by the cited range authority. The retained map is approximate and should not be used as a legal or survey boundary.",
+          "zh": "该物种利用分布权威所描述范围内的海洋生境。保留的地图为近似示意，不应作为法律或调查边界。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a omnivore in ocean habitat, this species transfers energy through its food web; the detailed effects depend on local abundance, prey or food plants, and interactions described by the cited ecology source.",
+      "zh": "作为海洋生境中的杂食性，该物种在食物网中传递能量；具体影响取决于当地数量、猎物或食物植物，以及所引生态来源描述的相互作用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "A missing global assessment creates uncertainty; it must not be converted into a claim that the species is secure.",
+        "zh": "缺少全球评估意味着存在不确定性；不能据此宣称该物种安全。"
+      },
+      "actions": {
+        "en": "Protect the habitats and ecological processes identified by range authorities, reduce documented direct mortality, and update management when population monitoring or taxonomy changes.",
+        "zh": "应保护分布权威所确认的生境和生态过程，减少有记录的直接死亡，并在种群监测或分类变化时更新管理。"
+      },
+      "source_keys": [
+        "conservation",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Its scientific name, Callinectes sapidus, beautifully translates to 'savory beautiful swimmer'. They possess a wide, olive-green carapace (shell) ending in sharp spines. What truly sets them apart are their front claws, which sport a stunning, bright blue coloration—though females have red-tipped claws, often likened to 'painted fingernails'. Uniquely, their fifth pair of legs has flattened, paddle-like ends, allowing them to swim sideways with remarkable speed through the water column, rather than just crawling.",
+        "zh": "它的学名 Callinectes sapidus 可以被优美地翻译成“美味的漂亮游泳者”。它们拥有宽阔的橄榄绿甲壳（外壳），边缘带有尖锐的刺。真正让它与众不同的是它那一对前螯，闪耀着令人惊叹的亮蓝色——不过雌蟹的爪尖是红色的，常被比作“涂了指甲油”。独特的是，它们的第五对脚的末端呈扁平的桨状，这使得它们在水层中能够以惊人的速度横向游动，而不仅仅是爬行。"
+      },
+      "similar_species": {
+        "en": "Close relatives and regional look-alikes may share color or body shape. Confirm records with multiple visible characters, location and an exact taxon-linked source rather than a filename or single feature.",
+        "zh": "近缘种和地区性相似种可能共享颜色或体形。记录应结合多个可见特征、地点和精确分类单元来源确认，不能只凭文件名或单一特征。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "The species uses the sensory channels available to its class—vision, sound, chemical cues, touch or vibration—in combinations shaped by its habitat. The cited species account should be used before assigning a specific call or signal.",
+      "zh": "该物种会组合使用其类群具备的视觉、声音、化学信号、触觉或振动等感官通道，具体组合受生境塑造。指定某种叫声或信号前，应查阅所引物种资料。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding, movement, molt, dormancy or food use can shift with latitude, rainfall, temperature and resource pulses. A date from one population must not be presented as universal.",
+      "zh": "繁殖、迁移、换羽、休眠或食物利用会随纬度、降雨、温度和资源脉冲变化。不能把某一种群的日期写成全球统一规律。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Use, conflict, tourism and cultural relationships vary across the range. Safe observation avoids handling, feeding, playback, nest or den disturbance, and any approach that changes natural behavior.",
+      "zh": "利用、冲突、旅游和文化关系因分布区而异。安全观察应避免触摸、投喂、播放叫声、干扰巢穴或洞穴，以及任何改变自然行为的接近。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Callinectes sapidus is placed in Callinectes, family Portunidae, order Decapoda. This review follows the accepted species match cited in the taxonomy source.",
+      "zh": "Callinectes sapidus归入美青蟹属、梭子蟹科、十足目。本次复核遵循分类来源所引的接受种匹配。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks, calls, nests, feeding marks, molts or other indirect signs may narrow an identification but usually cannot confirm a species alone. Fresh sign near a dangerous or sensitive animal requires distance.",
+      "zh": "足迹、叫声、巢、取食痕迹、蜕皮或其他间接线索可缩小鉴定范围，但通常不能单独确认物种。危险或敏感动物附近的新鲜痕迹意味着应保持距离。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Its accepted scientific name in this review is Callinectes sapidus.",
+          "zh": "本次复核采用的接受学名是Callinectes sapidus。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Not Evaluated means a global species assessment was not available, not that extinction risk is zero.",
+          "zh": "未评估表示缺少全球物种评估，不代表灭绝风险为零。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "The map retains the previous approximate range geometry and does not claim a newly verified boundary.",
+          "zh": "地图保留原有近似范围几何，并不声称这是新核实的边界。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Molting crustacean",
+          "zh": "蜕壳甲壳动物"
+        },
+        "content": {
+          "en": "Growth requires repeated molts, while eggs and planktonic larval stages connect adult habitat with currents and nursery areas. Timing varies with temperature and salinity.",
+          "zh": "生长需要反复蜕壳，卵和浮游幼体阶段把成体生境与水流及育幼场连接起来。时间随温度和盐度变化。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

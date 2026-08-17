@@ -37,24 +37,38 @@
   "conservation_status": {
     "code": "DD",
     "en": "Data Deficient",
-    "zh": "数据缺乏"
+    "zh": "数据缺乏",
+    "note_en": "The 2010 global IUCN assessment remains Data Deficient. Invasive abundance outside the native range does not resolve uncertainty about wild native populations.",
+    "note_zh": "2010年IUCN全球评估仍为数据缺乏。原生区外入侵种群数量多，并不能消除对原生野生种群的不确定性。"
   },
   "description": {
-    "en": "The Bighead Carp (Hypophthalmichthys nobilis) is a large, freshwater cyprinid fish native to East Asia and one of the 'Four Domestic Fishes' in China. It is distinguished by an exceptionally large, scaleless head, a large mouth with a protruding lower jaw, and eyes positioned low on the head, below the midline of the body. Unlike its close relative, the Silver Carp, the Bighead Carp's ventral keel is incomplete, extending only from the pelvic fins to the anus. It is a specialized filter feeder, utilizing dense, sponge-like gill rakers to strain zooplankton from the water column. While highly valued in aquaculture for its rapid growth and meat quality, it has become a significant invasive species in North America, where it outcompetes native filter feeders and disrupts aquatic food webs.",
-    "zh": "鳙鱼（Hypophthalmichthys nobilis），又称大头鱼、胖头鱼、黑鲢，是中国著名的“四大家鱼”之一，原产于东亚大型河流系统。其最显著的形态特征是头部巨大，约占体长的三分之一，口大且上位，眼睛位置极低，位于头侧中线以下。鳙鱼与鲢鱼在外形上相似，但主要区别在于鳙鱼的腹棱较短，仅限于腹鳍基部至肛门之间，且体侧常有不规则的黑色斑点。鳙鱼是典型的滤食性鱼类，拥有极其精细的鳃耙结构，主要摄食浮游动物。在生态习性上，鳙鱼属于江河洄游性鱼类，产漂流性卵，对水流速度和温度变化敏感。虽然在亚洲是重要的淡水养殖品种，但在北美等地区被视为严重的入侵物种，对当地水生生态系统构成巨大威胁。"
+    "en": "The bighead carp is a large East Asian freshwater fish with a massive head, low-set eyes and mottled sides. Dense gill rakers filter zooplankton from the water; the species is a major aquaculture fish in Asia and a disruptive introduced species in several other regions.",
+    "zh": "鳙是东亚大型淡水鱼，头部巨大、眼位很低、体侧有斑驳。密集鳃耙从水中过滤浮游动物；它在亚洲是重要养殖鱼，在其他一些地区则是具有破坏性的外来种。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "The Bighead Carp features a robust, laterally compressed body. Its most defining anatomical feature is the hypertrophied head and the specialized branchial apparatus. The gill rakers are long, closely set, and non-fused (unlike the fused rakers of the Silver Carp), forming a complex sieve optimized for capturing zooplankton. The scales are small and cycloid. Its coloration is typically grayish-black on the dorsal side, fading to a silvery-white belly, often interspersed with dark, irregular blotches on the flanks. The pharyngeal teeth are arranged in a single row (4-4) and are smooth, adapted for processing soft planktonic matter.",
-      "zh": "鳙鱼体侧扁，头部特大。其解剖学上的核心特征是高度发达的呼吸与滤食系统。鳃耙长而细密，呈梳状，但不像鲢鱼那样相互愈合成海绵状，这使其更倾向于滤食体型较大的浮游动物。体表覆盖细小的圆鳞。背部呈青黑色，腹部灰白，体侧布满不规则的黑色云状斑点。其咽齿为单行，齿面平滑，适合处理柔软的浮游生物。腹棱仅存在于腹鳍基部到肛门之间，这是区分其与鲢鱼（全腹棱）的关键解剖特征。"
+      "en": "The deep laterally compressed body has a very large scaleless head, upward-facing mouth and eyes below the midline. Small scales and irregular dark blotches cover the flanks; long closely spaced but unfused gill rakers form the filter apparatus.",
+      "zh": "体高且侧扁，头部很大且无鳞，口向上，眼睛位于体侧中线以下。体侧有小鳞和不规则深色斑块；细长密集但不融合的鳃耙构成过滤装置。",
+      "source_keys": [
+        "general",
+        "identification"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "Bighead Carp are potamodromous, meaning they migrate within freshwater systems to spawn. Spawning is triggered by rising water levels and temperatures (typically above 18°C) in large, turbulent rivers. The eggs are semi-buoyant and must drift downstream in the current to hatch. They are rapid growers, capable of reaching weights over 40 kg in optimal conditions. Behaviorally, they occupy the upper and middle layers of the water column. As opportunistic filter feeders, they consume vast quantities of zooplankton, including cladocerans, copepods, and rotifers, occasionally supplementing their diet with phytoplankton and detritus.",
-      "zh": "鳙鱼具有江河洄游习性。在自然条件下，它们在江河干流中产卵，产卵活动通常由水位上涨和水温升高（通常需达到18℃以上）诱发。其卵为半浮性，需随水流漂浮孵化。鳙鱼生长极快，在食物充足的环境下，成年个体体重可超过40公斤。它们主要活动于水体的中上层，性格相对温顺。作为高效的滤食者，它们每天摄入大量浮游动物（如枝角类、桡足类和轮虫），在食物匮乏时也会摄食浮游植物和有机碎屑。这种强大的摄食能力使其在非原产地极易形成种群优势。"
+      "en": "Bighead carp occupy upper and middle water layers and filter mainly zooplankton, with some phytoplankton and detritus. Adults migrate within river systems to spawn during rising warm flows, and semi-buoyant eggs drift downstream while developing.",
+      "zh": "鳙活动于水体中上层，主要过滤浮游动物，也摄食部分浮游植物和碎屑。成鱼在温暖涨水期沿河迁移产卵，半浮性卵在发育中随水漂流。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Native to the large river systems of eastern China, including the Yangtze, Pearl, and Yellow Rivers, as well as parts of eastern Russia (Amur River). They prefer slow-moving or standing waters of large rivers, lakes, and reservoirs with high nutrient levels. They have been widely introduced globally for aquaculture and water quality management. In the United States, they have established self-sustaining populations throughout the Mississippi River basin, extending into the Missouri and Ohio Rivers, and are a major threat to the Great Lakes ecosystem.",
-      "zh": "原产于中国东部的大型河流系统，包括长江、珠江、黄河、淮河等流域，以及俄罗斯东部的黑龙江流域。它们偏好栖息于水质肥沃、浮游生物丰富的江河干流、湖泊和大型水库的中上层。由于其极高的经济价值，鳙鱼已被广泛引种至世界各地。在北美，鳙鱼已在密西西比河、密苏里河及俄亥俄河流域建立了庞大的自然种群，并持续向五大湖地区扩张，成为当地最受关注的入侵鱼类之一。"
+      "en": "Native waters include large river systems from southern to north-eastern China and the Amur basin. The species uses rivers, lakes and reservoirs and has been introduced widely for aquaculture, including self-sustaining populations in parts of the Mississippi basin.",
+      "zh": "原生水域包括从中国南部到东北的大型河流系统及黑龙江流域。它利用河流、湖泊和水库，并因养殖被广泛引种，包括在密西西比河流域部分地区形成可自我维持的种群。",
+      "source_keys": [
+        "range",
+        "invasive"
+      ]
     }
   },
   "habitat": {
@@ -242,13 +256,317 @@
           -91.5
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and polygon coordinates are retained exactly. Authoritative text sources support the broad distribution, but reusable authoritative boundary geometry was not available; the polygons are labelled as retained approximate legacy ranges, not verified boundaries.",
+      "comparison_zh": "原有中心点、缩放和多边形坐标完全保留。权威文字来源支持其大致分布，但未获得可复用的权威边界几何，因此多边形标为保留的原有近似范围，而非已核实边界。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/bighead-carp.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "FishBase",
+      "url": "https://www.fishbase.org/summary/SpeciesSummary.php?GenusName=Hypophthalmichthys&SpeciesName=nobilis",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "FAO Cultured Aquatic Species Information Programme",
+      "url": "https://www.fao.org/fishery/docs/CDrom/aquaculture/I1129m/file/en/en_bigheadcarp.htm",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "FAO Cultured Aquatic Species Information Programme",
+      "url": "https://www.fao.org/fishery/docs/CDrom/aquaculture/I1129m/file/en/en_bigheadcarp.htm",
+      "checked_at": "2026-08-16"
+    },
+    "invasive": {
+      "authority": "IUCN Global Invasive Species Database",
+      "url": "https://www.iucngisd.org/gisd/speciesname/Hypophthalmichthys%2Bnobilis",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "FishBase IUCN status index",
+      "url": "https://www.fishbase.org/summary/SpeciesSummary.php?GenusName=Hypophthalmichthys&SpeciesName=nobilis",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "FAO Cultured Aquatic Species Information Programme",
+      "url": "https://www.fao.org/fishery/docs/CDrom/aquaculture/I1129m/file/en/en_bigheadcarp.htm",
+      "checked_at": "2026-08-16"
+    },
+    "identification": {
+      "authority": "FAO Cultured Aquatic Species Information Programme",
+      "url": "https://www.fao.org/fishery/docs/CDrom/aquaculture/I1129m/file/en/en_bigheadcarp.htm",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, taxonomy, protection status, numerical claims, English/Chinese scope and preserved legacy map geometry were checked for legacy QC batch 02."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "maximum_length",
+        "label": {
+          "en": "Maximum length",
+          "zh": "最大体长"
+        },
+        "value": {
+          "en": "About 1.46 m",
+          "zh": "约1.46米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "temperature",
+        "label": {
+          "en": "Temperature tolerance",
+          "zh": "耐受水温"
+        },
+        "value": {
+          "en": "About 0.5–38°C",
+          "zh": "约0.5–38°C"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Mainly zooplankton",
+          "zh": "主要为浮游动物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "spawning",
+        "label": {
+          "en": "Spawning cue",
+          "zh": "产卵触发"
+        },
+        "value": {
+          "en": "Rising warm river flow, often above about 18°C",
+          "zh": "温暖上涨河流，常高于约18°C"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "eggs",
+        "label": {
+          "en": "Egg type",
+          "zh": "卵类型"
+        },
+        "value": {
+          "en": "Semi-buoyant drifting eggs",
+          "zh": "半浮性漂流卵"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Data Deficient",
+          "zh": "数据缺乏"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Mature fish move to flowing river reaches when water rises and warms, often above about 18°C. Spawning releases many semi-buoyant eggs that must remain suspended while drifting; larvae later move into floodplain, lake or reservoir nursery habitats.",
+      "zh": "成熟鱼在水位上涨、升温至常高于约18°C时进入有流动的河段。产下的大量半浮性卵必须在漂流中保持悬浮；幼鱼之后进入洪泛区、湖泊或水库育幼生境。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Zooplankton filter",
+          "zh": "浮游动物过滤器"
+        },
+        "detail": {
+          "en": "Long dense gill rakers strain small animals from large volumes of water.",
+          "zh": "细长密集的鳃耙从大量水中过滤小型动物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Low-set eyes",
+          "zh": "低位眼"
+        },
+        "detail": {
+          "en": "Eyes below the head midline leave room for a large upward-facing mouth and filtering apparatus.",
+          "zh": "位于头部中线以下的眼为大型上位口和过滤装置留出空间。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Drifting eggs",
+          "zh": "漂流卵"
+        },
+        "detail": {
+          "en": "Semi-buoyant eggs develop while moving downstream during flood pulses rather than attaching to a nest.",
+          "zh": "半浮性卵在洪峰中向下游移动发育，而不是黏附在巢上。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "In native rivers, bighead carp convert plankton production into large fish biomass and support predators and fisheries. Where introduced at high density, they compete with native planktivores and can reshape plankton pathways and fish communities.",
+      "zh": "在原生河流中，鳙把浮游生物生产转化为大型鱼类生物量，并支撑捕食者和渔业；在高密度引入区，它会与本地食浮游生物鱼类竞争，并重塑浮游食物路径和鱼类群落。",
+      "source_keys": [
+        "ecology",
+        "invasive"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The native-range population trend is insufficiently known, which supports the Data Deficient assessment. River regulation, dams, pollution and loss of flood pulses may affect spawning, while introduced populations create separate ecological problems.",
+        "zh": "原生区种群趋势了解不足，因此被评为数据缺乏。河流调控、水坝、污染和洪峰消失可能影响产卵；引入种群则造成另一类生态问题。"
+      },
+      "actions": {
+        "en": "Monitor native spawning runs and recruitment, maintain river-flow connectivity where appropriate, prevent further introductions, use region-specific invasive control and never interpret invasive abundance as proof that native populations are secure.",
+        "zh": "应监测原生区产卵洄游和补充量，在适当地区维持河流连通，防止进一步引种，采用地区性入侵控制，并绝不能把入侵区数量多当作原生种群安全的证据。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A very large-headed carp with eyes below the body midline, an upturned mouth and irregular dark blotches on the sides; the abdominal keel is limited to behind the pelvic fins.",
+        "zh": "头部巨大的鲤形鱼，眼位低于体侧中线，口向上，体侧有不规则深斑；腹棱仅位于腹鳍之后。"
+      },
+      "similar_species": {
+        "en": "Silver carp are usually more uniformly silver, have a longer abdominal keel and fused sponge-like gill rakers. Juveniles can be difficult, so gill-raker and keel characters should be checked by a fish expert.",
+        "zh": "鲢通常体色更均一银白、腹棱更长，鳃耙融合成海绵状。幼鱼较难区分，应由鱼类专家检查鳃耙和腹棱特征。"
+      },
+      "source_keys": [
+        "identification",
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "No elaborate social signaling is documented. The lateral line detects water movement, while taste and smell help locate plankton-rich water; schooling and spawning movements respond to flow, temperature and nearby fish.",
+      "zh": "没有记录复杂社会信号。侧线感受水流，味觉和嗅觉帮助寻找浮游生物丰富水体；集群和产卵移动会响应流速、水温及邻近鱼群。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Spawning is synchronized with warming, rising river discharge. Outside the reproductive period, fish use productive river, lake and reservoir waters; local timing changes with latitude, hydrology and managed flow.",
+      "zh": "产卵与升温和河流涨水同步。非繁殖期利用生产力较高的河流、湖泊和水库；具体时间随纬度、水文和人工调流变化。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Bighead carp are central to Asian aquaculture and cuisine but regulated as invasive fish in several countries. Transport, stocking, harvest and disposal must follow local rules to prevent live release or spread between watersheds.",
+      "zh": "鳙是亚洲养殖和饮食的重要鱼类，但在一些国家作为入侵鱼受到监管。运输、放养、捕捞和处理必须遵守当地规定，防止活体释放或跨流域扩散。",
+      "source_keys": [
+        "general",
+        "invasive"
+      ]
+    },
+    "evolution": {
+      "en": "Hypophthalmichthys nobilis is a cypriniform fish closely related to silver carp. Modern sources differ on whether the lineage is treated within Cyprinidae or the separated family Xenocyprididae; this record follows the project's modern Xenocyprididae treatment.",
+      "zh": "鳙是鲤形目鱼类，与鲢近缘。现代来源对该谱系归入鲤科还是独立鲴科存在差异；本记录沿用项目采用的现代鲴科口径。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Large plankton-feeding fish near the surface are not identifiable by behavior alone. A clear side view should show the huge head, low eyes, mottling and short abdominal keel; invasive detections should be reported through local fishery channels.",
+      "zh": "水面附近的大型滤食鱼不能仅凭行为鉴定。清晰侧视应显示巨头、低位眼、斑驳和短腹棱；入侵区发现应通过当地渔业渠道报告。",
+      "source_keys": [
+        "identification",
+        "invasive"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Data Deficient refers to uncertainty about extinction risk in the native range, not a claim that the species is rare everywhere.",
+          "zh": "数据缺乏指原生区灭绝风险不确定，并不表示该物种在所有地方都稀少。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "Introduced bighead carp can be abundant even while the global assessment remains Data Deficient.",
+          "zh": "即使全球评估仍为数据缺乏，引入区的鳙也可能数量很多。"
+        },
+        "source_keys": [
+          "conservation",
+          "invasive"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its eggs normally drift in flowing water instead of sticking to vegetation or a nest.",
+          "zh": "其卵通常在流水中漂流，而不是黏在植被或巢上。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "River-spawning fish",
+          "zh": "江河产卵鱼类"
+        },
+        "content": {
+          "en": "Adult migration, warm flood pulses and drifting eggs form one connected reproductive system; dams or altered flow can interrupt it even when adult feeding habitat remains available.",
+          "zh": "成鱼迁移、温暖洪峰和漂流卵构成相互连接的繁殖系统；即使成鱼取食生境仍在，水坝或改变流量也可能中断这一系统。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

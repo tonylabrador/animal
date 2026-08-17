@@ -1,0 +1,936 @@
+{
+  "batch": "legacy-qc-pilot-01",
+  "captured_at": "2026-08-16",
+  "preservation_rule": "Keep map_coordinates and global_distribution_polygons unchanged unless a clearly documented error is supported by authoritative range evidence.",
+  "animals": [
+    {
+      "id": "aardvark",
+      "record_sha256": "4677579d07afdadd90e690028eb482b618d0435f623a3f546fa839c424d306d8",
+      "name_en": "Aardvark",
+      "name_zh": "土豚",
+      "scientific_name": "Orycteropus afer",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Sub-Saharan African savannas, grasslands, and open woodlands.",
+        "text_zh": "撒哈拉以南非洲的稀树草原、草原和开阔林地。",
+        "map_coordinates": [
+          0,
+          20
+        ],
+        "map_zoom_level": 3,
+        "global_distribution_polygons": [
+          [
+            [
+              15.5,
+              -16.5
+            ],
+            [
+              16.5,
+              -10
+            ],
+            [
+              15,
+              5
+            ],
+            [
+              14,
+              15
+            ],
+            [
+              16,
+              25
+            ],
+            [
+              15,
+              35
+            ],
+            [
+              12,
+              42
+            ],
+            [
+              11.5,
+              48
+            ],
+            [
+              5,
+              50
+            ],
+            [
+              -5,
+              40
+            ],
+            [
+              -15,
+              40
+            ],
+            [
+              -25,
+              35
+            ],
+            [
+              -34.5,
+              25
+            ],
+            [
+              -34.8,
+              19
+            ],
+            [
+              -30,
+              15
+            ],
+            [
+              -20,
+              12
+            ],
+            [
+              -10,
+              10
+            ],
+            [
+              -5,
+              8
+            ],
+            [
+              0,
+              9
+            ],
+            [
+              5,
+              8
+            ],
+            [
+              10,
+              -14
+            ],
+            [
+              14.5,
+              -17.5
+            ],
+            [
+              15.5,
+              -16.5
+            ]
+          ],
+          [
+            [
+              5,
+              25
+            ],
+            [
+              8,
+              30
+            ],
+            [
+              5,
+              35
+            ],
+            [
+              0,
+              38
+            ],
+            [
+              -10,
+              35
+            ],
+            [
+              -15,
+              25
+            ],
+            [
+              -10,
+              15
+            ],
+            [
+              -5,
+              12
+            ],
+            [
+              0,
+              15
+            ],
+            [
+              5,
+              25
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/aardvark.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "b1609ba9807af37e738334c8acb590c00469d16419045c7d2660154da1ff98fe",
+        "width": 1024,
+        "height": 709
+      }
+    },
+    {
+      "id": "addax",
+      "record_sha256": "7c92b2a5725b8438398954f494cdeaed1c2258d931e33c6bb9dee22341b7e973",
+      "name_en": "Addax",
+      "name_zh": "旋角羚",
+      "scientific_name": "Addax nasomaculatus",
+      "conservation_status": {
+        "code": "CR",
+        "en": "Critically Endangered",
+        "zh": "极危"
+      },
+      "habitat": {
+        "text_en": "Arid Desert and Semi-desert",
+        "text_zh": "干旱沙漠与半沙漠",
+        "map_coordinates": [
+          16,
+          11
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": []
+      },
+      "image": "/images/animals/addax.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "58ef5d2dfafe6d8ef8b1269f49bb2754854ae177bbba3980af9582a78309e359",
+        "width": 1024,
+        "height": 683
+      }
+    },
+    {
+      "id": "adelie-penguin",
+      "record_sha256": "caca8ef7ab1e04df1ee2bf00d8da4b5fb9c809aa1ba3b6d076590f2b57523ef8",
+      "name_en": "Adélie penguin",
+      "name_zh": "阿德利企鹅",
+      "scientific_name": "Pygoscelis adeliae",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Circumpolar along the Antarctic coast and surrounding islands, heavily dependent on sea ice and ice-free rocky shores for breeding.",
+        "text_zh": "环绕南极海岸及周边岛屿分布，高度依赖海冰以及用于繁殖的无冰岩石海岸。",
+        "map_coordinates": [
+          -75,
+          0
+        ],
+        "map_zoom_level": 3,
+        "global_distribution_polygons": [
+          [
+            [
+              -63.3,
+              -57
+            ],
+            [
+              -64.5,
+              -62
+            ],
+            [
+              -68,
+              -65
+            ],
+            [
+              -72,
+              -70
+            ],
+            [
+              -75,
+              -60
+            ],
+            [
+              -77,
+              -45
+            ],
+            [
+              -75,
+              -20
+            ],
+            [
+              -71,
+              -10
+            ],
+            [
+              -70,
+              0
+            ],
+            [
+              -69,
+              15
+            ],
+            [
+              -68,
+              35
+            ],
+            [
+              -66,
+              50
+            ],
+            [
+              -67,
+              65
+            ],
+            [
+              -68,
+              80
+            ],
+            [
+              -66,
+              95
+            ],
+            [
+              -65,
+              110
+            ],
+            [
+              -66,
+              130
+            ],
+            [
+              -67,
+              145
+            ],
+            [
+              -68,
+              160
+            ],
+            [
+              -71,
+              170
+            ],
+            [
+              -75,
+              165
+            ],
+            [
+              -77,
+              175
+            ],
+            [
+              -78,
+              -170
+            ],
+            [
+              -75,
+              -150
+            ],
+            [
+              -74,
+              -130
+            ],
+            [
+              -73,
+              -110
+            ],
+            [
+              -72,
+              -90
+            ],
+            [
+              -70,
+              -75
+            ],
+            [
+              -65,
+              -60
+            ],
+            [
+              -63.3,
+              -57
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/adelie-penguin.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "1b2e809682fabb2ea14238c75f3902b58079796349a5f78438a06a4116b955a0",
+        "width": 1024,
+        "height": 680
+      }
+    },
+    {
+      "id": "american-crow",
+      "record_sha256": "b9f701253683fa76ea8aefcf30f8a4c3a32a10aaf749d853850e2901f8f1b8fa",
+      "name_en": "American Crow",
+      "name_zh": "美洲乌鸦",
+      "scientific_name": "Corvus brachyrhynchos",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Forest Edges, Suburbs, and Urban Centers",
+        "text_zh": "森林边缘、郊区与城市中心",
+        "map_coordinates": [
+          40,
+          -100
+        ],
+        "map_zoom_level": 3,
+        "global_distribution_polygons": [
+          [
+            [
+              30,
+              -125
+            ],
+            [
+              55,
+              -125
+            ],
+            [
+              55,
+              -60
+            ],
+            [
+              25,
+              -80
+            ],
+            [
+              30,
+              -125
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/american-crow.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "d1e36bdc978bd9ca3bf09c986e2384d3266001922abff240d6c96190a6bd042b",
+        "width": 1024,
+        "height": 820
+      }
+    },
+    {
+      "id": "american-alligator",
+      "record_sha256": "a5b2f4f6437351267fd9e6d0e15dd8ea3b19d81bfba4c3a025e4265af11b87d9",
+      "name_en": "American Alligator",
+      "name_zh": "美洲短吻鳄",
+      "scientific_name": "Alligator mississippiensis",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Freshwater swamps, marshes, and rivers in the southeastern US",
+        "text_zh": "美国东南部的淡水沼泽、湿地和河流",
+        "map_coordinates": [
+          29,
+          -82
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": [
+          [
+            [
+              35,
+              -75
+            ],
+            [
+              35,
+              -95
+            ],
+            [
+              25,
+              -100
+            ],
+            [
+              25,
+              -80
+            ],
+            [
+              35,
+              -75
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/american-alligator.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "5d3a2efc2a2a5f73bf8ca935090041d670fffc2a18306840e436600702d6d8f4",
+        "width": 1024,
+        "height": 631
+      }
+    },
+    {
+      "id": "axolotl",
+      "record_sha256": "763ddaaf9363a8c581a4f0c49a5b6dd78595c04759e54e3a3e2391d3625ccb5b",
+      "name_en": "Axolotl",
+      "name_zh": "墨西哥钝口螈",
+      "scientific_name": "Ambystoma mexicanum",
+      "conservation_status": {
+        "code": "CR",
+        "en": "Critically Endangered",
+        "zh": "极危"
+      },
+      "habitat": {
+        "text_en": "Lake Xochimilco canal network, Mexico City",
+        "text_zh": "墨西哥城霍奇米尔科湖运河网络",
+        "map_coordinates": [
+          19.285,
+          -99.102
+        ],
+        "map_zoom_level": 12,
+        "global_distribution_polygons": [
+          [
+            [
+              19.3,
+              -99.12
+            ],
+            [
+              19.31,
+              -99.1
+            ],
+            [
+              19.29,
+              -99.08
+            ],
+            [
+              19.27,
+              -99.09
+            ],
+            [
+              19.26,
+              -99.11
+            ],
+            [
+              19.28,
+              -99.125
+            ],
+            [
+              19.3,
+              -99.12
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/axolotl.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "fc00938db0a971a7600919a94d978a674cda002d1b446bb34850cbbb48950b48",
+        "width": 1024,
+        "height": 768
+      }
+    },
+    {
+      "id": "atlantic-herring",
+      "record_sha256": "4647868fd24d39e30e03d1adefe92f6d0d3b33d5225966542c6580858383364f",
+      "name_en": "Atlantic Herring",
+      "name_zh": "大西洋鲱",
+      "scientific_name": "Clupea harengus",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "North Atlantic Ocean",
+        "text_zh": "北大西洋",
+        "map_coordinates": [
+          60,
+          -10
+        ],
+        "map_zoom_level": 3,
+        "global_distribution_polygons": [
+          [
+            [
+              50,
+              -10
+            ],
+            [
+              60,
+              -10
+            ],
+            [
+              62,
+              0
+            ],
+            [
+              70,
+              15
+            ],
+            [
+              70,
+              25
+            ],
+            [
+              60,
+              10
+            ],
+            [
+              52,
+              5
+            ],
+            [
+              50,
+              -10
+            ]
+          ],
+          [
+            [
+              40,
+              -75
+            ],
+            [
+              45,
+              -60
+            ],
+            [
+              50,
+              -55
+            ],
+            [
+              60,
+              -60
+            ],
+            [
+              55,
+              -70
+            ],
+            [
+              40,
+              -75
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/atlantic-herring.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "2aee3e04da05d67bbe6f793377bb97e8cdcd4a9dc833f6e878617588a6a4e08f",
+        "width": 1024,
+        "height": 576
+      }
+    },
+    {
+      "id": "army-ant",
+      "record_sha256": "a7ff43c013f223220a20c0c32c2b5ebff139fd8cdbc5ebecd6e9adafbfab6ea4",
+      "name_en": "Army Ant",
+      "name_zh": "布氏游蚁",
+      "scientific_name": "Eciton burchellii",
+      "conservation_status": {
+        "code": "DD",
+        "en": "Data Deficient",
+        "zh": "数据缺乏"
+      },
+      "habitat": {
+        "text_en": "Tropical Rainforests",
+        "text_zh": "热带雨林",
+        "map_coordinates": [
+          0,
+          -65
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              -20,
+              -60
+            ],
+            [
+              -15,
+              -45
+            ],
+            [
+              0,
+              -48
+            ],
+            [
+              10,
+              -60
+            ],
+            [
+              20,
+              -90
+            ],
+            [
+              15,
+              -95
+            ],
+            [
+              5,
+              -80
+            ],
+            [
+              -10,
+              -80
+            ],
+            [
+              -20,
+              -60
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/army-ant.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "ff024bfb955f9dfbce094dcad04a921989817f4e7cf0d6c04b794fd1bfc12d88",
+        "width": 800,
+        "height": 600
+      }
+    },
+    {
+      "id": "emperor-scorpion",
+      "record_sha256": "ebc64dbcea11c0d800924f7daa453165874ce571183ac522142ecd5cca91d7f1",
+      "name_en": "Emperor Scorpion",
+      "name_zh": "帝王蝎",
+      "scientific_name": "Pandinus imperator",
+      "conservation_status": {
+        "code": "NE",
+        "en": "Not Evaluated",
+        "zh": "未评估"
+      },
+      "habitat": {
+        "text_en": "Tropical rainforests and humid savannas of West Africa, frequently inhabiting burrows and abandoned termite mounds.",
+        "text_zh": "西非的热带雨林和潮湿的稀树草原，经常栖息在洞穴和废弃的白蚁丘中。",
+        "map_coordinates": [
+          8,
+          -5
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": [
+          [
+            [
+              14.7,
+              -17.4
+            ],
+            [
+              13.3,
+              -16.7
+            ],
+            [
+              11.8,
+              -16.3
+            ],
+            [
+              9.5,
+              -13.7
+            ],
+            [
+              8.4,
+              -13.2
+            ],
+            [
+              6.3,
+              -10.8
+            ],
+            [
+              4.3,
+              -7.5
+            ],
+            [
+              4.8,
+              -2
+            ],
+            [
+              6.1,
+              1.2
+            ],
+            [
+              6.4,
+              3.4
+            ],
+            [
+              4,
+              7
+            ],
+            [
+              4,
+              9.2
+            ],
+            [
+              6,
+              10.5
+            ],
+            [
+              9,
+              8.5
+            ],
+            [
+              11.5,
+              4
+            ],
+            [
+              12.5,
+              -1
+            ],
+            [
+              11,
+              -4.5
+            ],
+            [
+              10.5,
+              -9
+            ],
+            [
+              13,
+              -12
+            ],
+            [
+              15,
+              -15
+            ],
+            [
+              14.7,
+              -17.4
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/emperor-scorpion.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "5559c15d82999611e29a241dfefbdac2ba59d48ce0471139a36d4fe1741495ff",
+        "width": 1024,
+        "height": 683
+      }
+    },
+    {
+      "id": "giant-pacific-octopus",
+      "record_sha256": "2b324178351011d904cf5bef6cf174e8210a6b2a4ee9f1d2e96cd9d13c2cd7e8",
+      "name_en": "Giant Pacific Octopus",
+      "name_zh": "北太平洋巨型章鱼",
+      "scientific_name": "Enteroctopus dofleini",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Northern Pacific coastlines",
+        "text_zh": "北太平洋沿岸",
+        "map_coordinates": [
+          45,
+          -140
+        ],
+        "map_zoom_level": 3,
+        "global_distribution_polygons": [
+          [
+            [
+              30,
+              -115
+            ],
+            [
+              45,
+              -125
+            ],
+            [
+              60,
+              -145
+            ],
+            [
+              65,
+              -170
+            ],
+            [
+              60,
+              160
+            ],
+            [
+              45,
+              140
+            ],
+            [
+              30,
+              130
+            ],
+            [
+              30,
+              -115
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/giant-pacific-octopus.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "4e23eb4315387b3d7121a0999d140d5ee4371964e7e160c0ec46df0006995f66",
+        "width": 1024,
+        "height": 768
+      }
+    }
+  ]
+}

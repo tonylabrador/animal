@@ -22,8 +22,8 @@
       "zh": "哺乳纲"
     },
     "order": {
-      "en": "Cetartiodactyla",
-      "zh": "鲸偶蹄目"
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
     },
     "family": {
       "en": "Camelidae",
@@ -35,26 +35,38 @@
     }
   },
   "conservation_status": {
-    "code": "LC",
-    "en": "Least Concern",
-    "zh": "无危"
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估",
+    "note_en": "Vicugna pacos is a domesticated species and has no species-level global IUCN assessment; the old Least Concern label was not a valid Red List result.",
+    "note_zh": "羊驼是家养物种，没有物种级IUCN全球评估；旧记录的无危并非有效红色名录结论。"
   },
   "description": {
-    "en": "The alpaca is a domestic animal descended from the wild vicuña, prized worldwide for its exceptionally soft and colorful wool.",
-    "zh": "羊驼是由野生的小羊驼经过数千年选育而来的家畜，因其极度柔软且色彩多样的羊毛而享誉全球。"
+    "en": "The alpaca is a domesticated South American camelid selected for fine fiber and adapted to high Andean pastures. It is smaller than the llama and is managed in herds whose grazing, breeding and shearing are tightly linked to people.",
+    "zh": "羊驼是为细纤维而选育的南美家养骆驼科动物，适应安第斯高地牧场。它比大羊驼小，以群体饲养，其放牧、繁育和剪毛与人类管理紧密相连。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "Smaller than llamas, alpacas have shorter, straighter ears and a very dense, fluffy coat. Their wool is remarkably warm and light, coming in over 20 natural shades from snowy white to jet black.",
-      "zh": "羊驼比大羊驼小，耳朵更短更直，全身覆盖着浓密蓬松的皮毛。它们的羊毛异常保暖且轻盈，拥有从雪白到乌黑的20多种天然色调。"
+      "en": "Adults generally stand about 81–99 cm at the shoulder and weigh roughly 48–84 kg. A long neck, split upper lip, padded 2-toed feet and dense fiber coat suit grazing on cold highlands without hard hooves cutting deeply into soil.",
+      "zh": "成体肩高通常约81–99厘米，体重约48–84千克。长颈、分裂上唇、有软垫的2趾足和浓密纤维被毛，使其适合寒冷高地放牧，且不像硬蹄那样深切土壤。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "Closely related to the wild vicuña, alpacas are shy and gentle creatures. They are famous for their soft humming sounds and communicate through subtle ear and tail movements.",
-      "zh": "作为小羊驼的直系后代，羊驼性情害羞且温顺。它们以发出柔和的哼鸣声而闻名，并依靠微妙的耳朵和尾巴动作进行交流。"
+      "en": "Alpacas graze grasses and other low vegetation and use communal dung piles. Herds communicate with humming calls, posture, ears and tail position; most modern populations depend on people for breeding, health care and predator protection.",
+      "zh": "羊驼取食草和其他低矮植物，并使用公共粪堆。群体通过哼鸣、姿势、耳位和尾位交流；多数现代种群依赖人类进行繁育、健康管理和防御捕食者。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Alpacas are primarily raised in the high-altitude Altiplano region of southern Peru and western Bolivia. They prefer marshy highland pastures known as 「bofedales」 where fresh grass is abundant.",
-      "zh": "羊驼主要饲养在秘鲁南部和玻利维亚西部的阿尔蒂普拉诺高平原。它们偏爱被称为「bofedales」的湿润高山牧场，那里有丰富的鲜草。"
+      "en": "The traditional center of husbandry is the high Andes and Altiplano of Peru, Bolivia, Chile and Argentina; domestic herds now occur worldwide. The old polygon is retained as an approximate traditional husbandry region, not a wild range.",
+      "zh": "传统饲养中心是秘鲁、玻利维亚、智利和阿根廷的安第斯高地与阿尔蒂普拉诺；如今全球多地都有家养群。原多边形保留为传统饲养区近似表示，而非野生分布。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -92,13 +104,302 @@
           -78
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and polygon coordinates are retained exactly. Authoritative text supports the broad distribution, but reusable authoritative boundary geometry was unavailable; the legacy polygon is labelled approximate, not verified.",
+      "comparison_zh": "原有中心点、缩放和多边形坐标完全保留。权威文字支持大致分布，但未获得可复用的权威边界几何；原多边形标为近似范围，而非已核实边界。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/alpaca.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Vicugna%20pacos",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "GBIF IUCN status mapping (Not Evaluated)",
+      "url": "https://api.gbif.org/v1/species/7515593/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Vicugna_pacos/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Vicugna_pacos/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Vicugna_pacos/",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, current global status, numeric claims, bilingual scope and unchanged legacy map geometry checked for legacy QC batch 03A."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "height",
+        "label": {
+          "en": "Shoulder height",
+          "zh": "肩高"
+        },
+        "value": {
+          "en": "About 81–99 cm",
+          "zh": "约81–99厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Body mass",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 48–84 kg",
+          "zh": "约48–84千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Grasses and other vegetation",
+          "zh": "草和其他植物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "gestation",
+        "label": {
+          "en": "Gestation",
+          "zh": "妊娠期"
+        },
+        "value": {
+          "en": "About 11–12 months",
+          "zh": "约11–12个月"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "young",
+        "label": {
+          "en": "Young",
+          "zh": "每胎幼崽"
+        },
+        "value": {
+          "en": "Usually 1 cria",
+          "zh": "通常1头幼崽"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Not Evaluated",
+          "zh": "未评估"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "After about 11–12 months of gestation, a female usually gives birth to 1 cria, commonly during daylight. The cria stands and nurses soon after birth and remains with its mother while learning herd behavior and grazing.",
+      "zh": "雌性妊娠约11–12个月后通常产下1头幼崽，常在白天分娩。幼崽出生不久即可站立和吃奶，并随母兽学习群体行为与放牧。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Fiber coat",
+          "zh": "纤维被毛"
+        },
+        "detail": {
+          "en": "Dense insulating fiber protects against cold, wind and strong temperature changes at altitude.",
+          "zh": "浓密保温纤维可抵御高海拔的寒冷、风和剧烈温差。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Padded feet",
+          "zh": "软垫足"
+        },
+        "detail": {
+          "en": "Two toes rest on a soft pad that grips uneven ground and causes less soil damage than a solid hoof.",
+          "zh": "两个趾落在柔软足垫上，可抓牢不平地面，并比完整硬蹄更少破坏土壤。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Efficient grazing",
+          "zh": "高效放牧"
+        },
+        "detail": {
+          "en": "A split mobile lip selects short plants while camelid digestion extracts nutrients from fibrous forage.",
+          "zh": "分裂而灵活的上唇可选择短草，骆驼科消化系统能从纤维性饲草中获取养分。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As livestock, alpacas convert high-elevation forage into fiber, manure and sometimes meat. Grazing intensity and wetland management determine whether herds support livelihoods without degrading fragile soils and bofedales.",
+      "zh": "作为家畜，羊驼把高海拔饲草转化为纤维、粪肥和部分肉类。放牧强度与湿地管理决定羊群能否在支撑生计的同时不破坏脆弱土壤和高地湿草甸。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "A formal global extinction-risk trend is not applicable to this abundant managed domestic species. Local herds can face severe weather, disease, genetic narrowing and degradation of high-Andean pasture.",
+        "zh": "这一数量众多、受管理的家养种不适用正式全球灭绝风险趋势。地方羊群仍会面对极端天气、疾病、遗传变窄和安第斯高地牧场退化。"
+      },
+      "actions": {
+        "en": "Maintain breed and color-line genetic diversity, humane veterinary care, sustainable stocking rates and protection of high-altitude wetlands; do not present wild vicuña status as alpaca status.",
+        "zh": "应维持品种和毛色系遗传多样性、提供人道兽医照护、控制可持续载畜量并保护高地湿地；不得把野生小羊驼等级当作羊驼等级。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Small domestic camelid with dense fleece, short spear-shaped ears and a compact body on a long neck.",
+        "zh": "体型较小的家养骆驼科动物，纤维被毛浓密，耳短而呈矛形，长颈连接紧凑身体。"
+      },
+      "similar_species": {
+        "en": "Llamas are generally larger with longer banana-shaped ears and are more often built for carrying. Vicuñas are slender wild animals with much less fleece; hybrids and heavily groomed animals can require husbandry records.",
+        "zh": "大羊驼通常更大，耳更长且呈香蕉形，更常用于驮运。小羊驼是体型纤细、被毛较少的野生动物；杂交或重度修剪个体可能需要饲养记录确认。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Soft hums are common; alarm calls, clucking, posture, ear position, tail raising and spitting communicate stress, rank, reproductive state and separation.",
+      "zh": "柔和哼鸣很常见；警戒叫、咯咯声、姿势、耳位、举尾和喷吐可表达压力、等级、繁殖状态与分离。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding can be managed throughout the year because females are induced ovulators, while shearing and movement of herds are scheduled around local cold, rain and forage cycles.",
+      "zh": "雌性为诱导排卵，因此繁殖可全年管理；剪毛和转场则按当地寒冷、降雨和草料周期安排。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Andean communities have developed alpaca pastoralism and fiber traditions over millennia. Welfare requires social housing, suitable forage, parasite control, careful shearing and protection from heat outside cool native climates.",
+      "zh": "安第斯社区数千年来发展了羊驼牧业和纤维传统。福利需要群居环境、合适饲草、寄生虫控制、谨慎剪毛，以及在原生凉爽气候之外防止热应激。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Genetic evidence links the domestic alpaca chiefly to the wild vicuña lineage, while centuries of hybridization with llamas complicate some breed histories.",
+      "zh": "遗传证据主要把家养羊驼与野生小羊驼谱系联系起来，而数百年与大羊驼杂交使部分品种历史更复杂。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "Domestic herds, communal dung piles, clipped fleece and padded 2-toed tracks indicate alpaca husbandry; location alone cannot distinguish alpaca from llama or hybrids.",
+      "zh": "家养群、公共粪堆、剪过的纤维被毛和有软垫的2趾足迹可提示羊驼饲养；仅凭地点不能区分羊驼、大羊驼或杂交个体。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Alpaca fiber occurs in many natural colors, reducing the need for dye in some products.",
+          "zh": "羊驼纤维有多种天然颜色，部分产品可减少染色。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Females are induced ovulators rather than following a fixed monthly cycle.",
+          "zh": "雌性属于诱导排卵，而不是固定月周期排卵。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Not Evaluated is the accurate IUCN label for the domestic species; it does not mean rare.",
+          "zh": "未评估是这个家养种准确的IUCN标注，并不表示稀少。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Domestic camelid reproduction",
+          "zh": "家养骆驼科繁殖"
+        },
+        "content": {
+          "en": "Induced ovulation, long gestation, usually a single cria and strong maternal care make breeding decisions slow and management-intensive despite year-round mating potential.",
+          "zh": "诱导排卵、长妊娠、通常单胎和强母体照料，使繁殖决策虽然可全年进行，却进展缓慢且管理密集。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

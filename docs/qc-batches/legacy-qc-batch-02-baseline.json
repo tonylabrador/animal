@@ -1,0 +1,1423 @@
+{
+  "batch": "legacy-qc-batch-02",
+  "captured_at": "2026-08-16",
+  "preservation_rule": "Keep map_coordinates and global_distribution_polygons unchanged unless a clearly documented error is supported by authoritative range evidence.",
+  "animals": [
+    {
+      "id": "african-buffalo",
+      "record_sha256": "b73c49fcb22b68de3ba8745de2ef5a7f3f619b7e67be0a5a96188b3b121bf269",
+      "name_en": "African Buffalo",
+      "name_zh": "非洲水牛",
+      "scientific_name": "Syncerus caffer",
+      "conservation_status": {
+        "code": "NT",
+        "en": "Near Threatened",
+        "zh": "近危"
+      },
+      "habitat": {
+        "text_en": "Savannah and Grasslands",
+        "text_zh": "稀树草原与草地",
+        "map_coordinates": [
+          -1,
+          35
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              10,
+              -15
+            ],
+            [
+              15,
+              -10
+            ],
+            [
+              15,
+              20
+            ],
+            [
+              5,
+              45
+            ],
+            [
+              -10,
+              40
+            ],
+            [
+              -35,
+              25
+            ],
+            [
+              -30,
+              15
+            ],
+            [
+              -10,
+              10
+            ],
+            [
+              5,
+              -10
+            ],
+            [
+              10,
+              -15
+            ]
+          ],
+          [
+            [
+              10,
+              10
+            ],
+            [
+              5,
+              10
+            ],
+            [
+              0,
+              25
+            ],
+            [
+              10,
+              20
+            ],
+            [
+              10,
+              10
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/african-buffalo.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "91ba01b6e95a562589e5da13679cb9edbe708c249bc2d63d6216fd1a2a345592",
+        "width": 1024,
+        "height": 780
+      }
+    },
+    {
+      "id": "alberts-lyrebird",
+      "record_sha256": "2f130f16e07b3b4538d52d085ab41d2b52f2de619ef34ecbab5f5999ac5a0b61",
+      "name_en": "Albert's Lyrebird",
+      "name_zh": "艾氏琴鸟",
+      "scientific_name": "Menura alberti",
+      "conservation_status": {
+        "code": "NT",
+        "en": "Near Threatened",
+        "zh": "近危"
+      },
+      "habitat": {
+        "text_en": "Restricted to the subtropical rainforests and wet sclerophyll forests of the Mount Warning caldera and McPherson Range on the New South Wales-Queensland border.",
+        "text_zh": "局限于新南威尔士州和昆士兰州边界的警告山破火山口及麦克弗森山脉的亚热带雨林和湿润硬叶林中。",
+        "map_coordinates": [
+          -28.38,
+          153.15
+        ],
+        "map_zoom_level": 9,
+        "global_distribution_polygons": [
+          [
+            [
+              -28.15,
+              153.18
+            ],
+            [
+              -28.185,
+              153.25
+            ],
+            [
+              -28.22,
+              153.285
+            ],
+            [
+              -28.26,
+              153.29
+            ],
+            [
+              -28.3,
+              153.32
+            ],
+            [
+              -28.35,
+              153.34
+            ],
+            [
+              -28.4,
+              153.33
+            ],
+            [
+              -28.45,
+              153.35
+            ],
+            [
+              -28.5,
+              153.38
+            ],
+            [
+              -28.55,
+              153.37
+            ],
+            [
+              -28.6,
+              153.34
+            ],
+            [
+              -28.65,
+              153.3
+            ],
+            [
+              -28.68,
+              153.25
+            ],
+            [
+              -28.69,
+              153.2
+            ],
+            [
+              -28.67,
+              153.15
+            ],
+            [
+              -28.64,
+              153.1
+            ],
+            [
+              -28.6,
+              153.05
+            ],
+            [
+              -28.55,
+              153.02
+            ],
+            [
+              -28.5,
+              152.98
+            ],
+            [
+              -28.45,
+              152.95
+            ],
+            [
+              -28.4,
+              152.96
+            ],
+            [
+              -28.35,
+              152.99
+            ],
+            [
+              -28.3,
+              153.05
+            ],
+            [
+              -28.25,
+              153.1
+            ],
+            [
+              -28.2,
+              153.14
+            ],
+            [
+              -28.15,
+              153.18
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/alberts-lyrebird.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "f820b24526979e9909f6f120cef3ec61a89184b4e40d9b5f0f016dc420492dc7",
+        "width": 1024,
+        "height": 1024
+      }
+    },
+    {
+      "id": "american-crocodile",
+      "record_sha256": "3e2d62b6e93646fd2e97ea29c11b9b6fa503854cd80486ab7af54728d6fa9e88",
+      "name_en": "American crocodile",
+      "name_zh": "美洲鳄",
+      "scientific_name": "Crocodylus acutus",
+      "conservation_status": {
+        "code": "VU",
+        "en": "Vulnerable",
+        "zh": "易危"
+      },
+      "habitat": {
+        "text_en": "Coastal regions, mangrove swamps, estuaries, and river mouths across the Neotropics, from southern Florida and Mexico down to Peru and Venezuela, including the Greater Antilles.",
+        "text_zh": "新热带地区的沿海区域、红树林沼泽、河口和入海口，分布范围从佛罗里达州南部和墨西哥一直延伸到秘鲁和委内瑞拉，包括大安的列斯群岛。",
+        "map_coordinates": [
+          15,
+          -80
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              26,
+              -81.8
+            ],
+            [
+              25.8,
+              -81.7
+            ],
+            [
+              25.5,
+              -81.2
+            ],
+            [
+              25.2,
+              -81
+            ],
+            [
+              25.1,
+              -80.9
+            ],
+            [
+              24.8,
+              -81
+            ],
+            [
+              24.5,
+              -81.8
+            ],
+            [
+              24.9,
+              -80.6
+            ],
+            [
+              25.2,
+              -80.4
+            ],
+            [
+              25.6,
+              -80.3
+            ],
+            [
+              26,
+              -80.1
+            ],
+            [
+              26.2,
+              -80.1
+            ],
+            [
+              26.2,
+              -80.4
+            ],
+            [
+              25.8,
+              -80.6
+            ],
+            [
+              25.5,
+              -80.8
+            ],
+            [
+              26,
+              -81.4
+            ],
+            [
+              26,
+              -81.8
+            ]
+          ],
+          [
+            [
+              22,
+              -84
+            ],
+            [
+              23,
+              -82
+            ],
+            [
+              23.2,
+              -80
+            ],
+            [
+              22.5,
+              -78
+            ],
+            [
+              21,
+              -76
+            ],
+            [
+              20,
+              -74
+            ],
+            [
+              19.8,
+              -75
+            ],
+            [
+              19.9,
+              -77
+            ],
+            [
+              20.5,
+              -78
+            ],
+            [
+              21,
+              -79
+            ],
+            [
+              21.5,
+              -81
+            ],
+            [
+              22,
+              -82.5
+            ],
+            [
+              21.8,
+              -84
+            ],
+            [
+              22,
+              -84
+            ]
+          ],
+          [
+            [
+              24,
+              -107.5
+            ],
+            [
+              21,
+              -106
+            ],
+            [
+              18,
+              -103
+            ],
+            [
+              15.5,
+              -97
+            ],
+            [
+              14,
+              -93
+            ],
+            [
+              12,
+              -87
+            ],
+            [
+              9,
+              -84
+            ],
+            [
+              7,
+              -81
+            ],
+            [
+              5,
+              -78
+            ],
+            [
+              1,
+              -80
+            ],
+            [
+              -3,
+              -81.5
+            ],
+            [
+              -6,
+              -81.5
+            ],
+            [
+              -6,
+              -80.5
+            ],
+            [
+              -3,
+              -80
+            ],
+            [
+              1,
+              -78.5
+            ],
+            [
+              5,
+              -76.5
+            ],
+            [
+              7,
+              -79.5
+            ],
+            [
+              9,
+              -82.5
+            ],
+            [
+              12,
+              -85.5
+            ],
+            [
+              14,
+              -91.5
+            ],
+            [
+              15.5,
+              -95.5
+            ],
+            [
+              18,
+              -101.5
+            ],
+            [
+              21,
+              -104.5
+            ],
+            [
+              24,
+              -106
+            ],
+            [
+              24,
+              -107.5
+            ]
+          ],
+          [
+            [
+              24,
+              -97
+            ],
+            [
+              21,
+              -97
+            ],
+            [
+              19,
+              -95
+            ],
+            [
+              19,
+              -91
+            ],
+            [
+              21.5,
+              -90
+            ],
+            [
+              21.5,
+              -87
+            ],
+            [
+              18,
+              -87.5
+            ],
+            [
+              15,
+              -83
+            ],
+            [
+              12,
+              -83
+            ],
+            [
+              9,
+              -80
+            ],
+            [
+              9.5,
+              -78
+            ],
+            [
+              11.5,
+              -74
+            ],
+            [
+              12.5,
+              -71
+            ],
+            [
+              11,
+              -68
+            ],
+            [
+              10.5,
+              -62
+            ],
+            [
+              10,
+              -62
+            ],
+            [
+              10.5,
+              -68
+            ],
+            [
+              11.5,
+              -71
+            ],
+            [
+              10.5,
+              -74
+            ],
+            [
+              8.5,
+              -78
+            ],
+            [
+              8,
+              -80
+            ],
+            [
+              11,
+              -84
+            ],
+            [
+              14,
+              -84
+            ],
+            [
+              17,
+              -88.5
+            ],
+            [
+              20.5,
+              -88
+            ],
+            [
+              20.5,
+              -90
+            ],
+            [
+              18,
+              -91
+            ],
+            [
+              18,
+              -95
+            ],
+            [
+              20,
+              -98
+            ],
+            [
+              24,
+              -98
+            ],
+            [
+              24,
+              -97
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/american-crocodile.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "533a10af786ffa8450c58ab984508669fc35ac554cd5bb756d5359ce01f9df38",
+        "width": 1024,
+        "height": 768
+      }
+    },
+    {
+      "id": "american-lobster",
+      "record_sha256": "09eb1d72472356e6f1c5dda6899871c7195f11856386947556017ac8927e4368",
+      "name_en": "American lobster",
+      "name_zh": "美洲螯龙虾",
+      "scientific_name": "Homarus americanus",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Northwest Atlantic Ocean, from subarctic waters to temperate coastal shelves.",
+        "text_zh": "西北大西洋，从亚寒带海域到温带大陆架沿岸。",
+        "map_coordinates": [
+          43.65,
+          -70.25
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              53.5,
+              -55.8
+            ],
+            [
+              52,
+              -54
+            ],
+            [
+              49,
+              -52.5
+            ],
+            [
+              46.5,
+              -53
+            ],
+            [
+              46,
+              -56
+            ],
+            [
+              47.5,
+              -59.5
+            ],
+            [
+              50.5,
+              -58
+            ],
+            [
+              51.5,
+              -57
+            ],
+            [
+              50,
+              -65
+            ],
+            [
+              48.5,
+              -69
+            ],
+            [
+              47.5,
+              -70.5
+            ],
+            [
+              46.5,
+              -68
+            ],
+            [
+              45.5,
+              -64
+            ],
+            [
+              46.5,
+              -60
+            ],
+            [
+              44.5,
+              -59
+            ],
+            [
+              43,
+              -65
+            ],
+            [
+              44.5,
+              -67.5
+            ],
+            [
+              43.5,
+              -70
+            ],
+            [
+              41.5,
+              -70.5
+            ],
+            [
+              41,
+              -72
+            ],
+            [
+              40.5,
+              -74
+            ],
+            [
+              39,
+              -74.5
+            ],
+            [
+              37.5,
+              -75.5
+            ],
+            [
+              35.5,
+              -75.5
+            ],
+            [
+              35,
+              -75
+            ],
+            [
+              36.5,
+              -74
+            ],
+            [
+              38.5,
+              -73
+            ],
+            [
+              40,
+              -70
+            ],
+            [
+              41.5,
+              -67
+            ],
+            [
+              43,
+              -63
+            ],
+            [
+              44,
+              -58
+            ],
+            [
+              46,
+              -52
+            ],
+            [
+              50,
+              -48
+            ],
+            [
+              53.5,
+              -55.8
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/american-lobster.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "60967964dfcabb05c4942e7b174ee7da5c5d8fead15269952696a687336fa63f",
+        "width": 1024,
+        "height": 768
+      }
+    },
+    {
+      "id": "common-fruit-fly",
+      "record_sha256": "36447cbe651a55b38687a21a3a6d48de9270957f4fb09d053d8b01f196eee0c1",
+      "name_en": "Common Fruit Fly",
+      "name_zh": "黑腹果蝇",
+      "scientific_name": "Drosophila melanogaster",
+      "conservation_status": {
+        "code": "NE",
+        "en": "Not Evaluated",
+        "zh": "未评估"
+      },
+      "habitat": {
+        "text_en": "Cosmopolitan (Everywhere humans and fruit exist)",
+        "text_zh": "世界广泛分布（有人类和水果的地方）",
+        "map_coordinates": [
+          20,
+          10
+        ],
+        "map_zoom_level": 2,
+        "global_distribution_polygons": [
+          [
+            [
+              -54,
+              -73
+            ],
+            [
+              -33,
+              -71
+            ],
+            [
+              -12,
+              -77
+            ],
+            [
+              0,
+              -80
+            ],
+            [
+              12,
+              -75
+            ],
+            [
+              20,
+              -100
+            ],
+            [
+              50,
+              -125
+            ],
+            [
+              60,
+              -135
+            ],
+            [
+              70,
+              -160
+            ],
+            [
+              70,
+              -60
+            ],
+            [
+              50,
+              -60
+            ],
+            [
+              30,
+              -80
+            ],
+            [
+              10,
+              -60
+            ],
+            [
+              -10,
+              -35
+            ],
+            [
+              -20,
+              -40
+            ],
+            [
+              -54,
+              -65
+            ],
+            [
+              -54,
+              -73
+            ]
+          ],
+          [
+            [
+              70,
+              20
+            ],
+            [
+              70,
+              170
+            ],
+            [
+              30,
+              120
+            ],
+            [
+              10,
+              105
+            ],
+            [
+              -10,
+              140
+            ],
+            [
+              -40,
+              150
+            ],
+            [
+              -40,
+              115
+            ],
+            [
+              -15,
+              120
+            ],
+            [
+              -10,
+              110
+            ],
+            [
+              10,
+              80
+            ],
+            [
+              5,
+              40
+            ],
+            [
+              -35,
+              30
+            ],
+            [
+              -35,
+              15
+            ],
+            [
+              -15,
+              10
+            ],
+            [
+              -5,
+              -10
+            ],
+            [
+              15,
+              -15
+            ],
+            [
+              35,
+              -5
+            ],
+            [
+              45,
+              -5
+            ],
+            [
+              60,
+              0
+            ],
+            [
+              70,
+              20
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/common-fruit-fly.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "46c38d941b2ee9867af126de74318d66d8e70998ab1c145de3d32052133e4543",
+        "width": 1024,
+        "height": 940
+      }
+    },
+    {
+      "id": "australian-box-jellyfish",
+      "record_sha256": "8c5dbd38a41b0ba3df8d6dd0e19054b9b4b22d8f73baf432b71bd1b56d17a7f8",
+      "name_en": "Australian box jellyfish",
+      "name_zh": "澳大利亚箱水母",
+      "scientific_name": "Chironex fleckeri",
+      "conservation_status": {
+        "code": "NE",
+        "en": "Not Evaluated",
+        "zh": "未评估"
+      },
+      "habitat": {
+        "text_en": "Tropical Coastal Waters and Estuaries",
+        "text_zh": "热带沿海水域与河口",
+        "map_coordinates": [
+          -15,
+          135
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              -10,
+              120
+            ],
+            [
+              -10,
+              150
+            ],
+            [
+              -25,
+              155
+            ],
+            [
+              -25,
+              115
+            ],
+            [
+              -10,
+              120
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/australian-box-jellyfish.jpg",
+      "image_manifest": {
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Avispa_marina.jpg",
+        "taxon_url": "https://www.inaturalist.org/taxa/321669",
+        "taxon_id": 321669,
+        "taxon_name": "Chironex fleckeri",
+        "photo_id": "3132272",
+        "attribution": "Guido Gautsch , Melbourne, Australia",
+        "license_code": "cc-by-sa-2.0",
+        "license_status": "verified",
+        "review_status": "human-approved",
+        "reviewed_at": "2026-08-16T17:42:57.667Z",
+        "sha256": "e8a961d5cddbaa5da51907c6d79973c6b2b50f0737f98ed6b28cfcf859dc3fdc",
+        "width": 900,
+        "height": 1600
+      }
+    },
+    {
+      "id": "aye-aye",
+      "record_sha256": "6b4e16272a769edfec0863a14150694ca0c3c97abc29678973bcccb56992aad1",
+      "name_en": "Aye-aye",
+      "name_zh": "指猴",
+      "scientific_name": "Daubentonia madagascariensis",
+      "conservation_status": {
+        "code": "EN",
+        "en": "Endangered",
+        "zh": "濒危"
+      },
+      "habitat": {
+        "text_en": "Rainforests of Madagascar",
+        "text_zh": "马达加斯加雨林",
+        "map_coordinates": [
+          -18.7,
+          46.8
+        ],
+        "map_zoom_level": 6,
+        "global_distribution_polygons": [
+          [
+            [
+              -12,
+              49
+            ],
+            [
+              -15,
+              51
+            ],
+            [
+              -25,
+              47
+            ],
+            [
+              -25,
+              44
+            ],
+            [
+              -12,
+              49
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/aye-aye.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "8aab72f7405632d9edec02ab254f7e7decc4ddff66f4294fc5be90f624c880a4",
+        "width": 1024,
+        "height": 768
+      }
+    },
+    {
+      "id": "bee-hummingbird",
+      "record_sha256": "4fbd53cb56d70671bc0a593411455edfbeb5467770118a2a8ea9e0467235ad87",
+      "name_en": "Bee hummingbird",
+      "name_zh": "吸蜜蜂鸟",
+      "scientific_name": "Mellisuga helenae",
+      "conservation_status": {
+        "code": "NT",
+        "en": "Near Threatened",
+        "zh": "近危"
+      },
+      "habitat": {
+        "text_en": "Endemic to the Cuban archipelago, primarily inhabiting dense forests, woodland edges, and swamps with abundant flowering plants.",
+        "text_zh": "古巴群岛特有种，主要栖息于茂密的森林、林地边缘以及拥有丰富开花植物的沼泽地带。",
+        "map_coordinates": [
+          21.5,
+          -79.5
+        ],
+        "map_zoom_level": 6,
+        "global_distribution_polygons": []
+      },
+      "image": "/images/animals/bee-hummingbird.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "96511db95ee42707bf63d694182b118643fd4c2f5f85ffc894892427f60551f9",
+        "width": 1024,
+        "height": 684
+      }
+    },
+    {
+      "id": "bighead-carp",
+      "record_sha256": "4a38220eb4bfa6d4240641662c137791be447615f32fff1e4ca68ea06903132c",
+      "name_en": "Bighead Carp",
+      "name_zh": "鳙鱼",
+      "scientific_name": "Hypophthalmichthys nobilis",
+      "conservation_status": {
+        "code": "DD",
+        "en": "Data Deficient",
+        "zh": "数据缺乏"
+      },
+      "habitat": {
+        "text_en": "Large rivers, floodplains, and eutrophic lakes/reservoirs in East Asia and introduced regions.",
+        "text_zh": "东亚地区的大型河流、泛滥平原以及富营养化的湖泊与水库。",
+        "map_coordinates": [
+          30.5,
+          114.3
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              40.2,
+              116.5
+            ],
+            [
+              41.5,
+              119.2
+            ],
+            [
+              43.8,
+              124.5
+            ],
+            [
+              48.5,
+              130.2
+            ],
+            [
+              49.2,
+              135.5
+            ],
+            [
+              46.5,
+              134.2
+            ],
+            [
+              42.1,
+              130.5
+            ],
+            [
+              39.5,
+              122.8
+            ],
+            [
+              37.2,
+              119.5
+            ],
+            [
+              35.5,
+              120.2
+            ],
+            [
+              32.8,
+              121.5
+            ],
+            [
+              31.2,
+              122.1
+            ],
+            [
+              29.5,
+              122.5
+            ],
+            [
+              25.8,
+              119.8
+            ],
+            [
+              23.2,
+              117.5
+            ],
+            [
+              22.1,
+              114.2
+            ],
+            [
+              21.5,
+              110.5
+            ],
+            [
+              20.8,
+              108.5
+            ],
+            [
+              22.5,
+              106.2
+            ],
+            [
+              24.8,
+              105.5
+            ],
+            [
+              26.5,
+              108.2
+            ],
+            [
+              28.2,
+              110.5
+            ],
+            [
+              30.5,
+              112.8
+            ],
+            [
+              32.2,
+              114.5
+            ],
+            [
+              34.5,
+              112.2
+            ],
+            [
+              36.8,
+              110.5
+            ],
+            [
+              38.5,
+              112.8
+            ],
+            [
+              40.2,
+              116.5
+            ]
+          ],
+          [
+            [
+              42.5,
+              -91.5
+            ],
+            [
+              40.2,
+              -90.8
+            ],
+            [
+              38.5,
+              -90.2
+            ],
+            [
+              36.2,
+              -89.5
+            ],
+            [
+              34.5,
+              -91.2
+            ],
+            [
+              32.1,
+              -91.5
+            ],
+            [
+              30.5,
+              -91.2
+            ],
+            [
+              29.8,
+              -89.5
+            ],
+            [
+              31.2,
+              -88.5
+            ],
+            [
+              33.5,
+              -87.2
+            ],
+            [
+              36.8,
+              -84.5
+            ],
+            [
+              39.2,
+              -82.5
+            ],
+            [
+              41.5,
+              -83.2
+            ],
+            [
+              42.8,
+              -87.5
+            ],
+            [
+              42.5,
+              -91.5
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/bighead-carp.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "c2203db867d827dcde2cda8486a0975cf3763a8ae08e3b402cdfe182fb7d3dfa",
+        "width": 1024,
+        "height": 683
+      }
+    },
+    {
+      "id": "black-footed-ferret",
+      "record_sha256": "534c822c86c54261839ee8d5f8926dd3fc676b100fbc86f953d54ca9f30c467a",
+      "name_en": "Black-footed Ferret",
+      "name_zh": "黑足鼬",
+      "scientific_name": "Mustela nigripes",
+      "conservation_status": {
+        "code": "EN",
+        "en": "Endangered",
+        "zh": "濒危"
+      },
+      "habitat": {
+        "text_en": "Shortgrass Prairies and Grasslands",
+        "text_zh": "短草大草原",
+        "map_coordinates": [
+          41,
+          -107
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": []
+      },
+      "image": "/images/animals/black-footed-ferret.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "a903759d695145f281b1c0b40b62a834bc9d153b837453dfe76b4799f3604f30",
+        "width": 722,
+        "height": 526
+      }
+    }
+  ]
+}

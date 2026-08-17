@@ -37,7 +37,9 @@
   "conservation_status": {
     "code": "LC",
     "en": "Least Concern",
-    "zh": "无危"
+    "zh": "无危",
+    "note_en": "The current global assessment is Least Concern, while the reported population trend is decreasing.",
+    "note_zh": "当前全球等级为无危，但报告的种群趋势为下降。"
   },
   "description": {
     "en": "The American Goldfinch is a small North American bird in the finch family. It is migratory, ranging from southern Canada to North Carolina during the breeding season, and from just south of the Canada–United States border to Mexico during the winter. The only finch in its subfamily to undergo a complete molt, it displays significant sexual dimorphism: the male is a vibrant yellow in the summer and an olive color during the winter, while the female is a dull yellow-brown shade that brightens only slightly during the summer. The American Goldfinch is a granivore and adapted for the consumption of seedheads, with a conical beak to remove the seeds and agile feet to grip the stems of seedheads while feeding.",
@@ -45,16 +47,26 @@
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "Adults are 11–14 cm (4.3–5.5 in) long, with a wingspan of 19–22 cm (7.5–8.7 in). They weigh between 11–20 g (0.39–0.71 oz). The beak is small, conical, and pink for most of the year, but turns bright orange with the spring molt in both sexes. The male in breeding plumage is a brilliant lemon yellow with a jet-black cap and white rump that is visible during flight. The female is mostly brown, lighter on the underside with a yellow bib. After the autumn molt, the bright summer feathers are replaced by duller plumage, making the male and female look similar with brownish-olive upperparts and pale yellow underparts.",
-      "zh": "成鸟体长11-14厘米，翼展19-22厘米，体重约11-20克。其喙部细小呈圆锥形，全年大部分时间为粉红色，但在春季换羽期间两性均会转为鲜橘色。繁殖期的雄鸟全身覆盖着灿烂的柠檬黄色羽毛，额头有一抹漆黑的羽冠，飞行时可见白色的腰部。雌鸟羽色以棕色为主，腹部颜色较浅并带有黄色“围兜”。秋季换羽后，雄鸟鲜艳的羽毛会被暗淡的橄榄棕色取代，使其外观与雌鸟非常相似。"
+      "en": "Adults are 11–14 cm long, with a wingspan of 19–22 cm, and weigh 11–20 g. The small conical bill is pink for much of the year but brightens during the spring molt. Breeding males are lemon yellow with a black forehead; females and winter males are duller.",
+      "zh": "成鸟体长11-14厘米，翼展19-22厘米，体重约11-20克。其喙部细小呈圆锥形，全年大部分时间为粉红色，但在春季换羽期间两性均会转为鲜橘色。繁殖期的雄鸟全身覆盖着灿烂的柠檬黄色羽毛，额头有一抹漆黑的羽冠，飞行时可见白色的腰部。雌鸟羽色以棕色为主，腹部颜色较浅并带有黄色“围兜”。秋季换羽后，雄鸟鲜艳的羽毛会被暗淡的橄榄棕色取代，使其外观与雌鸟非常相似。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "The American Goldfinch is a social bird, forming large flocks while feeding and migrating. Its flight pattern is characteristic, following a wave-like, undulating path. Breeding occurs late in the season, typically starting in July or August, which is much later than other North American temperate birds. This timing is linked to the peak availability of thistle and seed crops, which they use to feed their young. They are strictly granivorous, primarily eating seeds from weeds and grasses, particularly thistles, sunflowers, and asters. Unlike many other finches, they do not supplement their diet with insects even when raising nestlings.",
-      "zh": "北美金翅雀是一种高度群居的鸟类，在觅食和迁徙时常结成大群。它们的飞行轨迹极具特色，呈波浪状起伏。其繁殖季节开始得非常晚，通常在7月或8月，远晚于北美其他温带鸟类。这种繁殖策略是为了配合蓟属植物和向日葵种子的成熟高峰，以便为雏鸟提供充足食物。它们是纯粹的食种子动物，主要摄食杂草和禾本科植物的种子。与其他雀类不同，即使在育雏期间，它们也几乎不捕食昆虫，而是完全以种子喂养后代。"
+      "en": "The American Goldfinch is a social bird, forming large flocks while feeding and migrating. Its flight pattern is characteristic, following a wave-like, undulating path. Breeding occurs late in the season, typically starting in month 7 or 8, which is much later than other North American temperate birds. This timing is linked to the peak availability of thistle and seed crops, which they use to feed their young. They are strictly granivorous, primarily eating seeds from weeds and grasses, particularly thistles, sunflowers, and asters. Unlike many other finches, they do not supplement their diet with insects even when raising nestlings.",
+      "zh": "北美金翅雀是一种高度群居的鸟类，在觅食和迁徙时常结成大群。它们的飞行轨迹极具特色，呈波浪状起伏。其繁殖季节开始得非常晚，通常在7月或8月，远晚于北美其他温带鸟类。这种繁殖策略是为了配合蓟属植物和向日葵种子的成熟高峰，以便为雏鸟提供充足食物。它们是纯粹的食种子动物，主要摄食杂草和禾本科植物的种子。与其他雀类不同，即使在育雏期间，它们也几乎不捕食昆虫，而是完全以种子喂养后代。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
       "en": "This species prefers open country where weeds thrive, such as fields, meadows, floodplains, as well as roadsides, orchards, and gardens. It may also be found in open deciduous and riparian woodlands and areas of secondary growth. Its distribution covers most of North America, from the subarctic to the subtropics. During the winter, northern populations migrate south, while those in the central United States may remain year-round if food sources like bird feeders are available.",
-      "zh": "该物种偏好杂草丛生的开阔地带，如田野、草甸、泛滥平原，以及路边、果园和花园。它们也出现在开阔的落叶林、河岸林地和次生林中。其分布范围横跨北美大部分地区，从亚寒带延伸至亚热带。冬季，北方种群会向南迁徙，而美国中部的种群如果能获得人工喂鸟器等稳定食物来源，则可能成为留鸟。"
+      "zh": "该物种偏好杂草丛生的开阔地带，如田野、草甸、泛滥平原，以及路边、果园和花园。它们也出现在开阔的落叶林、河岸林地和次生林中。其分布范围横跨北美大部分地区，从亚寒带延伸至亚热带。冬季，北方种群会向南迁徙，而美国中部的种群如果能获得人工喂鸟器等稳定食物来源，则可能成为留鸟。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -194,13 +206,301 @@
           -115
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and polygon coordinates are retained exactly. Authoritative text supports the broad distribution, but reusable authoritative boundary geometry was unavailable; the legacy polygon is labelled approximate, not verified.",
+      "comparison_zh": "原有中心点、缩放和多边形坐标完全保留。权威文字支持大致分布，但未获得可复用的权威边界几何；原多边形标为近似范围，而非已核实边界。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/american-goldfinch.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Spinus%20tristis",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "GBIF IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/2494698/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Cornell Lab of Ornithology, All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/American_Goldfinch/lifehistory",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Cornell Lab of Ornithology, All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/American_Goldfinch/lifehistory",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Cornell Lab of Ornithology, All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/American_Goldfinch/lifehistory",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, current global status, numeric claims, bilingual scope and unchanged legacy map geometry checked for legacy QC batch 03A."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Spinus tristis",
+          "zh": "Spinus tristis"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Aves",
+          "zh": "鸟纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat category",
+          "zh": "生境类别"
+        },
+        "value": {
+          "en": "Forest",
+          "zh": "草原"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet category",
+          "zh": "食性类别"
+        },
+        "value": {
+          "en": "Herbivore",
+          "zh": "草食性"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Least Concern",
+          "zh": "无危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "key": "map",
+        "label": {
+          "en": "Map evidence",
+          "zh": "地图依据"
+        },
+        "value": {
+          "en": "Approximate range polygon retained",
+          "zh": "保留原有近似范围"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Nesting is unusually late for a temperate songbird, often beginning when thistles and other seed plants mature. Females lay about 2–7 eggs and incubate for roughly 12–14 days.",
+      "zh": "与温带鸣禽相比，其筑巢时间异常偏晚，常在蓟类等种子植物成熟时开始。雌鸟产卵约2–7枚，孵化约12–14天。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Seed-cracking bill",
+          "zh": "破籽喙"
+        },
+        "detail": {
+          "en": "A short conical bill removes and opens small seeds efficiently.",
+          "zh": "短而圆锥形的喙可高效取出并打开小型种子。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Clinging feet",
+          "zh": "攀附足"
+        },
+        "detail": {
+          "en": "Flexible perching allows birds to hang from swaying seed heads while feeding.",
+          "zh": "灵活抓握使其能悬挂在摇摆的种子头上取食。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Seasonal plumage",
+          "zh": "季节性羽色"
+        },
+        "detail": {
+          "en": "Males replace bright breeding plumage with a duller winter coat, matching seasonal signaling needs.",
+          "zh": "雄鸟会把鲜艳繁殖羽换成较暗冬羽，配合季节性信号需求。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a specialized seed eater, the goldfinch moves among weedy fields and edges and also carries plant fibers used in nests; it is prey for small raptors and nest predators.",
+      "zh": "作为特化食籽鸟，它在杂草地和林缘间移动，也携带筑巢植物纤维；同时是小型猛禽和巢捕食者的猎物。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "The species remains widespread, but loss of weedy fields and native seed plants, pesticide exposure and window collisions can reduce local numbers.",
+        "zh": "该物种仍广布，但杂草地和本地种子植物丧失、农药暴露及撞窗会减少地方数量。"
+      },
+      "actions": {
+        "en": "Retain native seed-bearing plants, reduce pesticide use, make windows bird-safe and keep feeders clean to limit disease transmission.",
+        "zh": "应保留本地结籽植物，减少农药使用，使窗户对鸟类安全，并保持喂食器清洁以限制疾病传播。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Small finch with a short conical bill, notched tail and dark wings with pale bars; breeding males are bright yellow with a black forehead.",
+        "zh": "小型雀鸟，喙短而圆锥形，尾有缺口，深色翅带浅色翼斑；繁殖期雄鸟鲜黄，额部黑色。"
+      },
+      "similar_species": {
+        "en": "Lesser goldfinches show more extensive dark on the back; pine siskins are strongly streaked and slimmer-billed. Winter American goldfinches are dull but relatively unstreaked.",
+        "zh": "小金翅雀背部深色范围更大；松金翅雀纵纹明显、喙更细。美洲金翅雀冬羽暗淡但相对少纵纹。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Flight calls help moving flocks stay together, while males sing during courtship and territorial activity.",
+      "zh": "飞行叫声帮助移动群体保持联系，雄鸟在求偶和领域活动中鸣唱。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Plumage molt, flocking and migration vary geographically. Nesting peaks later than in many songbirds and follows the availability of mature seed heads.",
+      "zh": "换羽、结群和迁徙因地区而异。筑巢高峰晚于许多鸣禽，并随成熟种子头供应而变化。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Goldfinches readily visit feeders, but clean equipment and native plants provide safer food; playback and close nest approach should be avoided.",
+      "zh": "美洲金翅雀常到访喂食器，但清洁设备和本地植物可提供更安全食物；应避免播放叫声和靠近巢。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Spinus tristis is a cardueline finch; seasonal plumage and a highly granivorous diet distinguish its ecology from many insect-feeding songbirds.",
+      "zh": "美洲金翅雀属于金翅雀类，其季节性羽色和高度食籽习性使其生态不同于许多食虫鸣禽。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "An undulating flight, paired flight notes and compact flocks around seed heads often reveal the species before plumage details are visible.",
+      "zh": "起伏飞行、成对飞行叫声及种子头附近的紧凑群体，常在看清羽色前暴露该物种。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "It nests later than most North American songbirds.",
+          "zh": "它比多数北美鸣禽更晚筑巢。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The young are fed largely regurgitated seeds rather than a mostly insect diet.",
+          "zh": "幼鸟主要获得反刍种子，而不是以昆虫为主的食物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The bright breeding male molts into much duller winter plumage.",
+          "zh": "鲜艳的繁殖期雄鸟会换成暗淡得多的冬羽。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Late-season nesting",
+          "zh": "晚季筑巢"
+        },
+        "content": {
+          "en": "Breeding timing follows mature seeds and plant down, aligning both chick food and nest material with seasonal plant cycles.",
+          "zh": "繁殖时间追随成熟种子和植物绒毛，使雏鸟食物与巢材都和植物季节周期一致。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

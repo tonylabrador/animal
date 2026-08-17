@@ -20,13 +20,20 @@ This is a non-commercial, distraction-free personal project. It categorizes and 
 * **Scientific Taxonomy (科学分类)**
   包含从界(Kingdom)到属(Genus)的科学分类信息。
   Structured biological classification from kingdom to genus.
+* **Rich Content v2 (丰富内容系统)**
+  新动物包含关键数据、生命周期、生存适应、生态角色、保护、识别、演化与类群专属知识，并为具体内容保留来源。
+  New records include sourced quick facts, life cycle, adaptations, ecosystem role, conservation, identification, evolution, and class-specific deep dives.
 
 ---
 
 ## Local Development / 常用命令
 
 * **校验草稿 / Validate Draft**
-  `node validate_animals.js --draft`
+  `npm run validate:draft`
+* **双语一致性 QC / Bilingual Consistency QC**
+  `npm run qc:bilingual`
+* **逐条内容审核进度 / Content QC Progress**
+  `npm run report:content-qc`
 * **安全导入 / Safe Import**
   `node import_animals.js --dry-run`，确认后执行 `node import_animals.js`
 * **准备图片候选 / Prepare Image Candidates**
@@ -36,4 +43,4 @@ This is a non-commercial, distraction-free personal project. It categorizes and 
 * **全库 QC / Full QC**
   `npm run qc`
 
-(详细工作流请见 [docs/ADD_ANIMAL_WORKFLOW.md](docs/ADD_ANIMAL_WORKFLOW.md)，当前审核范围与遗留项请见 [docs/QC_REPORT_2026-08-16.md](docs/QC_REPORT_2026-08-16.md)。)
+(详细工作流请见 [docs/ADD_ANIMAL_WORKFLOW.md](docs/ADD_ANIMAL_WORKFLOW.md)，Rich Content 字段见 [docs/RICH_CONTENT_SCHEMA.md](docs/RICH_CONTENT_SCHEMA.md)，当前审核范围与遗留项请见 [docs/QC_REPORT_2026-08-16.md](docs/QC_REPORT_2026-08-16.md)。)

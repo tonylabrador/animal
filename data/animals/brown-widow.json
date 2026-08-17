@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "NE",
     "en": "Not Evaluated",
-    "zh": "未评估"
+    "zh": "未评估",
+    "note_en": "No species-level global IUCN assessment was confirmed; Not Evaluated does not mean secure or abundant.",
+    "note_zh": "未确认到物种级IUCN全球评估；未评估不代表安全或数量丰富。"
   },
   "description": {
-    "en": "An aggressive invasive cousin of the black widow, sporting a mottled brown shell, a distinctly orange hourglass, and highly distinctive spiked egg sacs.",
-    "zh": "黑寡妇的一种极具侵略性的入侵远亲，披着斑驳的棕色外壳，拥有极其独特的橙色沙漏以及极具辨识度的带刺卵囊。"
+    "en": "Brown Widow (Latrodectus geometricus) is a carnivore arachnid associated with forest habitat. It belongs to Theridiidae; this reviewed summary separates accepted identity and global conservation category from regional claims.",
+    "zh": "褐寡妇蛛（Latrodectus geometricus）是与森林生境相关的肉食性蛛形动物，属于姬蛛科。本次复核把接受的物种身份和全球保护等级与地区性说法区分开。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "The brown widow is generally slightly smaller and distinctly lighter-colored than the black widow. Instead of glossy black, its abdomen is heavily mottled and patterned with complex geometric designs in varying shades of tan, brown, and grey. Rather than a stark red warning, the hourglass marking on the underside of a female brown widow's abdomen is a highly visible yellow-orange or muted orange. Uniquely, they construct incredibly spiky, spherical egg sacs that perfectly resemble incredibly tiny, yellowish World War II naval landmines, making their presence instantly identifiable.",
-      "zh": "褐寡妇在体型上通常比黑寡妇稍小，且颜色明显浅得多。它的腹部不再是极其乌亮的光泽黑色，而是布满了斑驳的图案，并带有复杂的由各种深浅不一的棕褐色、棕色和灰色组合而成的几何设计。与令人震惊的鲜红色警告标志不同，雌性褐寡妇腹部底面的沙漏标志是极其醒目的黄橙色或暗淡的橙色。极为独特的是，它们能够构建出布满尖刺的球形卵囊，这些卵囊极其完美地类似于二战时期极其微小的黄色水雷，这成为了瞬间识别它们存在的最致命特征。"
+      "en": "Brown Widow is placed in genus Latrodectus, family Theridiidae. Appearance can vary with age, sex, season and locality, so species-level identification should combine several visible characters, location and the accepted scientific name.",
+      "zh": "褐寡妇蛛归入寡妇蛛属、姬蛛科。外形会随年龄、性别、季节和地点变化，因此物种级鉴定应结合多个可见特征、地点和接受学名。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "Intriguingly, the brown widow's venom is chemically determined to be approximately twice as potent as the venom of a black widow on an equal-volume basis. However, their bites are usually significantly much less dangerous to humans because they inject a vastly smaller amount of venom per bite and cannot pierce the skin as deeply. Furthermore, they are incredibly timid, preferring to immediately retreat into severe hiding rather than defend their irregular webs. As a highly successful invasive species, they are fiercely outcompeting and rapidly displacing native black widow populations in urban areas.",
-      "zh": "非常耐人寻味的是，从化学层面测定，在同等体积下，褐寡妇的毒液效力大约是黑寡妇毒液的两倍。然而，它们对人类造成的咬伤通常危险性要小得多，因为它们无论是每次撕咬注入的毒液量都少得多，而且它们更小的獠牙无法极其深入地刺穿皮肤。此外，它们拥有极其病态的害羞性格，极其倾向于在受到惊飞时立刻躲进深度隐藏处，而不是保卫它们那极其不规则的蛛网。作为一种极其成功的入侵物种，在城市环境中，它们正在残酷地击败并极其迅速地取代本地的黑寡妇种群。"
+      "en": "This project classifies the species as carnivore in forest habitat. Feeding, activity and social behavior can vary among populations and seasons; details should be tied to an exact-taxon account rather than generalized from one observation.",
+      "zh": "本项目把该物种归为森林生境中的肉食性动物。取食、活动和社会行为会随种群与季节变化；细节应对应精确分类单元资料，不能从一次观察泛化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Believed to have originally evolved in either Africa or South America, the brown widow is now a wildly successful, pantropical invasive species perfectly adapted to human urbanization. Because they cannot survive freezing ground temperatures, their global distribution creates incredibly precise patchy polygons completely hugging the tropical and subtropical belts of the globe. They are aggressively found in South Africa, Australia, Japan, the Caribbean, South America, and across the warm southern coastal strip of the United States (Florida to California), often hiding under patio furniture and plastic outdoor children's toys.",
-      "zh": "人们普遍认为褐寡妇最初进化于非洲或南美洲，如今它已彻底沦为一种极其成功的泛热带区入侵物种，极其完美地适应了人类的城市化进程。由于它们完全无法在零度以下冷冻的地面温度中存活，它们的全球分布图构成了极其精确的斑块状多边形，完全死死地紧贴地球的热带和亚热带气候带。如今在南非、澳大利亚、日本、加勒比海、南美洲以及极其分散横跨美国整个温暖的南部沿海地带（从佛罗里达州一直到加利福尼亚半岛）都能极其普遍地发现它们的踪影，最令人感到恐惧的是，它们极其喜欢躲在外卖庭院家具下甚至户外极其常见的塑料儿童玩具底部。"
+      "en": "Pantropical Urban Areas and Structures The existing map is retained for orientation and is explicitly treated as approximate rather than a verified legal or survey boundary.",
+      "zh": "泛热带的城市区域与人造结构 现有地图仅为定位参考，并明确作为近似示意，而不是经过核实的法律或调查边界。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -164,13 +177,320 @@
           120
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and every polygon coordinate are retained byte-for-byte. Exact-taxon range evidence supports the broad occurrence context, but no reusable authoritative boundary geometry was established; the polygon remains labelled approximate.",
+      "comparison_zh": "原有中心点、缩放级别和每个多边形坐标均逐字节保留。精确分类单元的分布证据支持大致出现背景，但未取得可复用的权威边界几何，因此多边形继续标为近似范围。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/brown-widow.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Latrodectus%20geometricus",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "GBIF–IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/2157944/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://www.inaturalist.org/taxa/47383",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://www.inaturalist.org/taxa/47383",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "GBIF species occurrence and distribution record",
+      "url": "https://www.gbif.org/species/2157944",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Legacy QC batch 04. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Latrodectus geometricus",
+          "zh": "Latrodectus geometricus"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Arachnida",
+          "zh": "蛛形纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "order",
+        "label": {
+          "en": "Order",
+          "zh": "目"
+        },
+        "value": {
+          "en": "Araneae",
+          "zh": "蜘蛛目"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "family",
+        "label": {
+          "en": "Family",
+          "zh": "科"
+        },
+        "value": {
+          "en": "Theridiidae",
+          "zh": "姬蛛科"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat",
+          "zh": "生境"
+        },
+        "value": {
+          "en": "Forest",
+          "zh": "森林"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Carnivore",
+          "zh": "肉食性"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Not Evaluated",
+          "zh": "未评估"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Growth requires molts, and reproduction includes species-specific courtship, egg protection and juvenile development. Timing and brood size are not inferred from close relatives.",
+      "zh": "生长需要蜕皮，繁殖包括物种特有的求偶、护卵和幼体发育。时间与繁殖数量不能从近缘种直接推断。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Body plan",
+          "zh": "身体结构"
+        },
+        "detail": {
+          "en": "Its body plan is evaluated within Theridiidae; age, sex and seasonal variation must be separated from species-level traits.",
+          "zh": "其身体结构按姬蛛科背景评估；年龄、性别和季节变化必须与物种级特征区分。"
+        },
+        "source_keys": [
+          "taxonomy",
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Feeding strategy",
+          "zh": "取食策略"
+        },
+        "detail": {
+          "en": "The carnivore category is a broad guide; exact foods and methods can vary by life stage, season and locality.",
+          "zh": "肉食性类别只是宽泛指引；具体食物和方式会随生活阶段、季节及地点变化。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Habitat fit",
+          "zh": "生境适配"
+        },
+        "detail": {
+          "en": "Use of forest habitat is interpreted from exact-taxon occurrence and range evidence, not from map shape alone.",
+          "zh": "对森林生境的利用依据精确分类单元的出现与分布证据解释，不能只看地图形状。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a carnivore species in forest habitat, it transfers energy through local food webs. Its exact ecological effect depends on abundance, food resources and interactions documented for each population.",
+      "zh": "作为森林生境中的肉食性物种，它在当地食物网中传递能量。具体生态影响取决于各地种群数量、食物资源和有记录的相互作用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "A missing confirmed global assessment creates uncertainty and must not be converted into a claim that the species is secure.",
+        "zh": "缺少经确认的全球评估意味着存在不确定性，不能据此宣称该物种安全。"
+      },
+      "actions": {
+        "en": "Protect the habitats and ecological processes identified by range authorities, reduce documented direct mortality and update management when monitoring or taxonomy changes.",
+        "zh": "应保护分布权威确认的生境和生态过程，减少有记录的直接死亡，并在监测或分类变化时更新管理。"
+      },
+      "source_keys": [
+        "conservation",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Confirm Brown Widow with multiple visible characters, location and an exact taxon-linked record; color or body shape alone may be insufficient.",
+        "zh": "确认褐寡妇蛛时，应结合多个可见特征、地点和精确分类单元记录；仅凭颜色或体形可能不足。"
+      },
+      "similar_species": {
+        "en": "Close relatives and regional look-alikes can share major features. A filename, common name or single trait is not enough for image approval.",
+        "zh": "近缘种和地区性相似种可能共享主要特征。文件名、俗名或单一特征不足以批准图片。"
+      },
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Communication and sensory channels are shaped by this species' habitat and class. A specific call, scent signal or sensory claim should be assigned only when the exact-taxon source supports it.",
+      "zh": "交流与感官通道受该物种生境和类群塑造。只有精确分类单元来源支持时，才能指定具体叫声、气味信号或感官能力。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding, movement, molt, dormancy or food use can shift with latitude, rainfall, temperature and resource pulses. A date from one population is not treated as universal.",
+      "zh": "繁殖、移动、换羽、休眠或食物利用会随纬度、降雨、温度和资源脉冲变化。某一种群的日期不会被写成普遍规律。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Use, conflict, tourism and cultural relationships vary across the range. Safe observation avoids handling, feeding, playback and disturbance of nests, dens or natural behavior.",
+      "zh": "利用、冲突、旅游和文化关系因分布区而异。安全观察应避免触摸、投喂、播放声音，以及干扰巢穴、洞穴或自然行为。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Latrodectus geometricus is placed in genus Latrodectus, family Theridiidae, order Araneae. This review follows the accepted species match cited in the taxonomy evidence.",
+      "zh": "Latrodectus geometricus归入寡妇蛛属、姬蛛科、蜘蛛目。本次复核遵循分类证据中的接受种匹配。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks, calls, nests, feeding marks, molts or other indirect signs can narrow an identification but usually cannot confirm a species alone. Sensitive or dangerous animals require distance.",
+      "zh": "足迹、叫声、巢、取食痕迹、蜕皮或其他间接线索可缩小鉴定范围，但通常不能单独确认物种。遇到敏感或危险动物应保持距离。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The accepted scientific name used in this review is Latrodectus geometricus.",
+          "zh": "本次复核采用的接受学名是Latrodectus geometricus。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Not Evaluated means a confirmed global species assessment was unavailable, not that extinction risk is zero.",
+          "zh": "未评估表示缺少经确认的全球物种评估，不代表灭绝风险为零。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "The map retains the previous approximate polygon and does not claim a newly verified boundary.",
+          "zh": "地图保留原有近似多边形，并不声称这是新核实的边界。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Molting and sensing",
+          "zh": "蜕皮与感知"
+        },
+        "content": {
+          "en": "Growth requires molts, and reproduction includes species-specific courtship, egg protection and juvenile development. Timing and brood size are not inferred from close relatives.",
+          "zh": "生长需要蜕皮，繁殖包括物种特有的求偶、护卵和幼体发育。时间与繁殖数量不能从近缘种直接推断。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

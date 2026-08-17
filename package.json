@@ -7,8 +7,13 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint .",
+    "test:schema": "node scripts/test_rich_schema.js",
+    "qc:bilingual": "node scripts/qc_bilingual_content.js",
+    "report:content-qc": "node scripts/update_content_qc_report.js",
+    "report:animal-qc": "node scripts/update_animal_qc_ledger.js",
+    "validate:draft": "node validate_animals.js --draft",
     "validate:data": "node validate_animals.js",
-    "qc": "npm run validate:data && npm run lint && npm run build",
+    "qc": "npm run test:schema && npm run validate:data && npm run qc:bilingual && npm run lint && npm run build",
     "process-wishlist": "node scripts/auto_process_wishlist.js"
   },
   "dependencies": {

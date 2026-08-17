@@ -1,0 +1,1422 @@
+{
+  "batch": "legacy-qc-batch-04",
+  "audited_at": "2026-08-17T03:11:58.888Z",
+  "result": "pass",
+  "gates": {
+    "exact_batch_membership": true,
+    "identity": true,
+    "conservation": true,
+    "maps_retained": true,
+    "generation_state_pending": true,
+    "bilingual_pairs_checked": 5200
+  },
+  "manual_decisions": {
+    "chinese-sturgeon": "Accepted: exact GBIF species and IUCN match; iNaturalist has no exact indexed taxon.",
+    "domestic-pig": "Accepted with domestic convention note: GBIF treats Sus domesticus as a synonym; global status remains NE.",
+    "dusky-dolphin": "Accepted: GBIF/IUCN, WoRMS and NOAA support Lagenorhynchus obscurus; iNaturalist uses Sagmatias obscurus.",
+    "giant-otter": "IUCN direct species document overrides erroneous GBIF aggregate NE result; status is EN.",
+    "galapagos-tortoise": "Corrected identity to extinct Floreana giant tortoise, Chelonoidis niger; generic living-tortoise image is not publishable for this taxon."
+  },
+  "animals": [
+    {
+      "id": "brown-pelican",
+      "scientific_name": "Pelecanus occidentalis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "brown-throated-sloth",
+      "scientific_name": "Bradypus variegatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "brown-widow",
+      "scientific_name": "Latrodectus geometricus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "budgerigar",
+      "scientific_name": "Melopsittacus undulatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "burmese-python",
+      "scientific_name": "Python bivittatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "bush-dog",
+      "scientific_name": "Speothos venaticus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "california-scrub-jay",
+      "scientific_name": "Aphelocoma californica",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "canada-goose",
+      "scientific_name": "Branta canadensis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "canadian-lynx",
+      "scientific_name": "Lynx canadensis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "capybara",
+      "scientific_name": "Hydrochoerus hydrochaeris",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "caracal",
+      "scientific_name": "Caracal caracal",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "cebu-flowerpecker",
+      "scientific_name": "Dicaeum quadricolor",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "CR",
+      "reviewed_iucn": "CR",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "central-bearded-dragon",
+      "scientific_name": "Pogona vitticeps",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "chambered-nautilus",
+      "scientific_name": "Nautilus pompilius",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "channel-billed-toucan",
+      "scientific_name": "Ramphastos vitellinus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "channel-island-fox",
+      "scientific_name": "Urocyon littoralis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 6,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "cheetah",
+      "scientific_name": "Acinonyx jubatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "chimpanzee",
+      "scientific_name": "Pan troglodytes",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "chinese-alligator",
+      "scientific_name": "Alligator sinensis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "CR",
+      "reviewed_iucn": "CR",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "chinese-cave-gecko",
+      "scientific_name": "Goniurosaurus luii",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "chinese-cobra",
+      "scientific_name": "Naja atra",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 4,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "chinese-crocodile-lizard",
+      "scientific_name": "Shinisaurus crocodilurus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 4,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "chinese-giant-salamander",
+      "scientific_name": "Andrias davidianus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "CR",
+      "reviewed_iucn": "CR",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "chinese-high-fin-banded-shark",
+      "scientific_name": "Myxocyprinus asiaticus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "chinese-sturgeon",
+      "scientific_name": "Acipenser sinensis",
+      "identity_result": "manual-authority-resolution",
+      "previous_iucn": "CR",
+      "reviewed_iucn": "CR",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "chinese-white-dolphin",
+      "scientific_name": "Sousa chinensis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "clouded-leopard",
+      "scientific_name": "Neofelis nebulosa",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "coal-tit",
+      "scientific_name": "Periparus ater",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 4,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "cockatiel",
+      "scientific_name": "Nymphicus hollandicus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "commersons-dolphin",
+      "scientific_name": "Cephalorhynchus commersonii",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "common-bottlenose-dolphin",
+      "scientific_name": "Tursiops truncatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "common-crane",
+      "scientific_name": "Grus grus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 5,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "common-cuckoo",
+      "scientific_name": "Cuculus canorus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "common-field-grasshopper",
+      "scientific_name": "Chorthippus brunneus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "common-kingfisher",
+      "scientific_name": "Alcedo atthis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "common-loon",
+      "scientific_name": "Gavia immer",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "common-ostrich",
+      "scientific_name": "Struthio camelus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "common-pheasant",
+      "scientific_name": "Phasianus colchicus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "common-poorwill",
+      "scientific_name": "Phalaenoptilus nuttallii",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "common-raven",
+      "scientific_name": "Corvus corax",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "common-seahorse",
+      "scientific_name": "Hippocampus kuda",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "common-swift",
+      "scientific_name": "Apus apus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "common-tailorbird",
+      "scientific_name": "Orthotomus sutorius",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "common-true-katydid",
+      "scientific_name": "Pterophylla camellifolia",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "common-vampire-bat",
+      "scientific_name": "Desmodus rotundus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "common-wombat",
+      "scientific_name": "Vombatus ursinus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "corn-snake",
+      "scientific_name": "Pantherophis guttatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "costasiella-kuroshimae",
+      "scientific_name": "Costasiella kuroshimae",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "coyote",
+      "scientific_name": "Canis latrans",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "crested-ibis",
+      "scientific_name": "Nipponia nippon",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "crested-myna",
+      "scientific_name": "Acridotheres cristatellus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "cuban-tody",
+      "scientific_name": "Todus multicolor",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "cuckoo-roller",
+      "scientific_name": "Leptosomus discolor",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 4,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "dalmatian-pelican",
+      "scientific_name": "Pelecanus crispus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "darwins-fox",
+      "scientific_name": "Lycalopex fulvipes",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "dhole",
+      "scientific_name": "Cuon alpinus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "domestic-cat",
+      "scientific_name": "Felis catus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "domestic-cow",
+      "scientific_name": "Bos taurus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "domestic-pig",
+      "scientific_name": "Sus domesticus",
+      "identity_result": "manual-authority-resolution",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "domestic-sheep",
+      "scientific_name": "Ovis aries",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "downy-woodpecker",
+      "scientific_name": "Dryobates pubescens",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "dromedary-camel",
+      "scientific_name": "Camelus dromedarius",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "dusky-dolphin",
+      "scientific_name": "Lagenorhynchus obscurus",
+      "identity_result": "manual-authority-resolution",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "eastern-diamondback-rattlesnake",
+      "scientific_name": "Crotalus adamanteus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "eastern-meadowlark",
+      "scientific_name": "Sturnella magna",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "electric-eel",
+      "scientific_name": "Electrophorus electricus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "elf-owl",
+      "scientific_name": "Micrathene whitneyi",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "elkhorn-coral",
+      "scientific_name": "Acropora palmata",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "CR",
+      "reviewed_iucn": "CR",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 4,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "emerald-cockroach-wasp",
+      "scientific_name": "Ampulex compressa",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "emperor-penguin",
+      "scientific_name": "Aptenodytes forsteri",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "emu",
+      "scientific_name": "Dromaius novaehollandiae",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "eurasian-blue-tit",
+      "scientific_name": "Cyanistes caeruleus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "eurasian-coot",
+      "scientific_name": "Fulica atra",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "eurasian-golden-oriole",
+      "scientific_name": "Oriolus oriolus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "eurasian-lynx",
+      "scientific_name": "Lynx lynx",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "eurasian-magpie",
+      "scientific_name": "Pica pica",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "european-anglerfish",
+      "scientific_name": "Lophius piscatorius",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "european-herring-gull",
+      "scientific_name": "Larus argentatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "european-polecat",
+      "scientific_name": "Mustela putorius",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "european-rabbit",
+      "scientific_name": "Oryctolagus cuniculus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "european-robin",
+      "scientific_name": "Erithacus rubecula",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "european-starling",
+      "scientific_name": "Sturnus vulgaris",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "eyelash-crested-gecko",
+      "scientific_name": "Correlophus ciliatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "false-killer-whale",
+      "scientific_name": "Pseudorca crassidens",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "felis-silvestris",
+      "scientific_name": "Felis silvestris",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "fennec-fox",
+      "scientific_name": "Vulpes zerda",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "fishing-cat",
+      "scientific_name": "Prionailurus viverrinus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "flame-bowerbird",
+      "scientific_name": "Sericulus ardens",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "flathead-grey-mullet",
+      "scientific_name": "Mugil cephalus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "fossa",
+      "scientific_name": "Cryptoprocta ferox",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "galapagos-tortoise",
+      "scientific_name": "Chelonoidis niger",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "EX",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "garden-snail",
+      "scientific_name": "Cornu aspersum",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "giant-anteater",
+      "scientific_name": "Myrmecophaga tridactyla",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "giant-apple-snail",
+      "scientific_name": "Pomacea maculata",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "giant-armadillo",
+      "scientific_name": "Priodontes maximus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "giant-isopod",
+      "scientific_name": "Bathynomus giganteus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "DD",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "giant-manta-ray",
+      "scientific_name": "Mobula birostris",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "giant-oarfish",
+      "scientific_name": "Regalecus glesne",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "giant-otter",
+      "scientific_name": "Pteronura brasiliensis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    },
+    {
+      "id": "giant-panda",
+      "scientific_name": "Ailuropoda melanoleuca",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "pending",
+        "bilingual_qc": "pending"
+      },
+      "issues": []
+    }
+  ]
+}

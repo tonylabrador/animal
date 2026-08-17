@@ -22,8 +22,8 @@
       "zh": "哺乳纲"
     },
     "order": {
-      "en": "Cetartiodactyla",
-      "zh": "鲸偶蹄目"
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
     },
     "family": {
       "en": "Bovidae",
@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "CR",
     "en": "Critically Endangered",
-    "zh": "极危"
+    "zh": "极危",
+    "note_en": "The 2016 IUCN assessment lists the addax as Critically Endangered with a decreasing wild population.",
+    "note_zh": "IUCN 2016年评估将旋角羚列为极危，野生种群仍在下降。"
   },
   "description": {
-    "en": "The addax is a desert-dwelling antelope known for its spiral horns and its incredible ability to survive without drinking water.",
-    "zh": "旋角羚是一种生活在沙漠中的羚羊，以其螺旋状的角和不喝水也能生存的惊人能力而闻名。"
+    "en": "The addax is a pale, spiral-horned antelope adapted to the Sahara. It can obtain most of its water from plants, but hunting, disturbance and habitat pressures have reduced the wild population to a tiny fraction of its former range.",
+    "zh": "旋角羚是一种适应撒哈拉环境、体色浅淡并具有螺旋角的羚羊。它能从植物中获得大部分水分，但狩猎、干扰和生境压力已使野生种群缩减到昔日分布范围的一小部分。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "Addax are stocky antelopes with long, twisted horns that can reach 85 centimeters. They have broad, flat hooves that prevent them from sinking into the soft desert sand, much like natural snowshoes.",
-      "zh": "旋角羚体型粗壮，长着可达85厘米的长螺旋角。它们长有宽大平坦的蹄子，可以防止它们陷进柔软的沙漠沙地中，就像天然的雪鞋一样。"
+      "en": "Adults have a head-and-body length of about 150–170 cm and weigh 60–125 kg. Both sexes carry long ringed horns averaging about 72 cm with roughly 1.5–3 twists; broad splayed hooves help on soft sand.",
+      "zh": "成体头体长约150–170厘米，体重60–125千克。雌雄都有带环纹的长角，平均约72厘米并有约1.5–3圈螺旋；宽而张开的蹄有助于在松软沙地行走。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "They are perfectly adapted to the Sahara, getting most of their water from the plants they eat. Addax are most active during the night or early morning to avoid the scorching heat of the desert sun.",
-      "zh": "它们完美适应了撒哈拉沙漠的生活，大部分水分从所食植物中获取。旋角羚在夜间或清晨最为活跃，以躲避沙漠阳光的酷热。"
+      "en": "Addax eat desert grasses, herbs and shrubs and may travel widely to find sparse vegetation. They usually form small herds and reduce heat stress by resting during the hottest periods.",
+      "zh": "旋角羚取食沙漠草本、禾草和灌木，可能长距离移动寻找稀疏植被。它们通常组成小群，并在最炎热时段休息以减轻热应激。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Once widespread across the Sahara, the addax is now critically endangered. Only a few small populations remain in isolated parts of Niger and Chad. They are among the rarest mammals in the world.",
-      "zh": "旋角羚曾广泛分布于撒哈拉沙漠，但现在已处于极度濒危状态。目前仅在尼日尔和查德的偏远地区留有极少数小种群。它们是世界上最稀有的哺乳动物之一。"
+      "en": "Historically the addax ranged across deserts and semi-deserts from the western Sahara to Egypt and Sudan. Surviving wild animals are now restricted to very small, shifting areas of the central Sahara, with conservation reintroductions also underway in Chad.",
+      "zh": "旋角羚历史上曾遍布从西撒哈拉到埃及和苏丹的沙漠与半沙漠。如今残存野生个体只局限于中部撒哈拉极小且变化的区域，乍得也在开展保护性重引入。",
+      "source_keys": [
+        "conservation",
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -65,13 +78,304 @@
       11
     ],
     "map_zoom_level": 5,
-    "global_distribution_polygons": []
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous representative center point is retained exactly. Authoritative text sources were checked, but no reusable authoritative polygon geometry was available; the point is explicitly labelled as not showing the full range.",
+      "comparison_zh": "原有代表性中心点完全保留。已核查权威文字来源，但未获得可复用的权威多边形几何；页面明确标注该点并不表示完整分布范围。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/addax.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Addax%20nasomaculatus",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Addax_nasomaculatus/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Addax_nasomaculatus/",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN and Sahara Conservation Fund survey release",
+      "url": "https://iucn.org/content/saharan-addax-antelope-faces-imminent-extinction-0",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "IUCN Red List assessment for Addax nasomaculatus",
+      "url": "https://www.iucnredlist.org/species/512/50180603",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, taxonomy, protection status, numerical claims, English/Chinese scope and preserved legacy map geometry were checked for pilot batch 01."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_length",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "150–170 cm",
+          "zh": "150–170厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "60–125 kg",
+          "zh": "60–125千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "horn_length",
+        "label": {
+          "en": "Horn length",
+          "zh": "角长"
+        },
+        "value": {
+          "en": "About 72 cm on average",
+          "zh": "平均约72厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Desert grasses, herbs and shrubs",
+          "zh": "沙漠禾草、草本和灌木"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "gestation",
+        "label": {
+          "en": "Gestation",
+          "zh": "妊娠期"
+        },
+        "value": {
+          "en": "257–264 days",
+          "zh": "257–264天"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "young",
+        "label": {
+          "en": "Young",
+          "zh": "每胎幼崽"
+        },
+        "value": {
+          "en": "Usually 1",
+          "zh": "通常1只"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Breeding can occur year-round, with many births in winter or early spring. Gestation lasts about 257–264 days and a female almost always bears 1 calf; weaning occurs at roughly 23–39 weeks, and sexual maturity is reached around 2–3 years.",
+      "zh": "旋角羚全年都可能繁殖，但许多幼崽在冬季或早春出生。妊娠期约257–264天，雌性几乎总是产下1只幼崽；约23–39周断奶，并在约2–3岁时达到性成熟。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Splayed hooves",
+          "zh": "宽张蹄"
+        },
+        "detail": {
+          "en": "Broad hooves spread body weight over loose sand and reduce sinking.",
+          "zh": "宽蹄能把体重分散在松沙上，减少下陷。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Water from food",
+          "zh": "从食物获取水分"
+        },
+        "detail": {
+          "en": "Addax can survive long periods without drinking free water by obtaining moisture from vegetation.",
+          "zh": "旋角羚可从植被中取得水分，因此能长期不直接饮水。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Seasonal pale coat",
+          "zh": "季节性浅色被毛"
+        },
+        "detail": {
+          "en": "The coat is sandy to nearly white in summer and darker in winter, helping reflect intense summer heat.",
+          "zh": "夏季被毛从沙色到近白色，冬季变深，有助于反射夏季强烈热量。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a large desert herbivore, the addax transfers nutrients, disperses some seeds and shapes sparse plant communities while serving as prey for large Saharan predators where they coexist.",
+      "zh": "作为大型沙漠植食动物，旋角羚会转移养分、传播部分种子并影响稀疏植物群落；在仍与大型撒哈拉捕食者共存之处，它也是猎物。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Uncontrolled hunting, armed conflict, oil-related disturbance, vehicle access, drought and habitat degradation have fragmented the remaining wild population.",
+        "zh": "失控狩猎、武装冲突、石油开发干扰、车辆进入、干旱和生境退化，使残余野生种群更加破碎。"
+      },
+      "actions": {
+        "en": "Protect the last wild groups and their movement areas, stop poaching, coordinate with local communities and industry, monitor by ground and aerial surveys, and use carefully planned reinforcement or reintroduction from managed populations.",
+        "zh": "应保护最后的野生群体及其移动区域，制止偷猎，与当地社区和产业方协作，开展地面与航空监测，并以受控种群进行谨慎规划的补充或重引入。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A pale antelope with a dark forehead tuft, white facial markings, long corkscrew horns in both sexes and unusually broad hooves.",
+        "zh": "浅色羚羊，额部有深色毛簇和白色面纹；雌雄都有长螺旋角，蹄异常宽大。"
+      },
+      "similar_species": {
+        "en": "Scimitar-horned oryx have long horns swept backward in a single curve, not the addax's multiple spiral twists; dama gazelles are slimmer and lack corkscrew horns.",
+        "zh": "弯角剑羚的长角以单一弧线向后弯，不像旋角羚有多圈螺旋；达马瞪羚体形更纤细，也没有螺旋角。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Addax use visual posture, scent and touch in herd and reproductive interactions. Their pale coloration is camouflage rather than a signal, and much communication is subtle in open desert.",
+      "zh": "旋角羚在群体和繁殖互动中使用姿势、气味与触碰。浅色体毛主要用于伪装而非传讯，开阔沙漠中的交流往往较为细微。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "They track short-lived vegetation after rain and adjust daily activity to avoid peak heat. Breeding is possible throughout the year, though birth peaks are reported in winter and early spring.",
+      "zh": "它们会追随降雨后短暂出现的植被，并调整日活动以避开最热时段。全年均可繁殖，但据记录产仔高峰多在冬季和早春。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The addax has long been hunted for meat and hides. Modern firearms and vehicles made hunting far more efficient, while current conservation depends on cooperation among governments, communities, protected areas and managed breeding programs.",
+      "zh": "旋角羚长期因肉和皮被猎捕。现代枪械与车辆大幅提高了捕猎效率；当前保护依赖政府、社区、保护地和受控繁育项目之间的协作。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Addax nasomaculatus is the only living species in the genus Addax and belongs to Bovidae, alongside cattle, goats, sheep and other antelopes. Its desert specializations evolved within the even-toed ungulate lineage.",
+      "zh": "旋角羚是旋角羚属唯一现生种，属于牛科，与牛、羊及其他羚羊同科；其沙漠适应特征是在偶蹄类谱系中演化形成的。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "In suitable habitat, look for broad rounded hoofprints, small groups moving between sparse grazing patches and pale animals that blend into sand. Any encounter with a wild group is conservation-sensitive and should not be approached or chased.",
+      "zh": "在适宜生境中，可留意宽而圆的蹄印、在稀疏草地间移动的小群，以及与沙色融为一体的浅色个体。任何野生群体都极具保护敏感性，不应靠近或追逐。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Both female and male addax grow spiral horns.",
+          "zh": "雌性和雄性旋角羚都会长出螺旋角。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Addax can meet most of their water needs from the plants they eat.",
+          "zh": "旋角羚可以从所吃植物中满足大部分水分需求。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A 2016 survey of key habitat in Niger confirmed only 3 addax in one small group, illustrating the species' extreme wild scarcity at that time.",
+          "zh": "2016年对尼日尔关键生境的调查只确认了一个由3只旋角羚组成的小群，显示当时野生个体极其稀少。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Desert mammal physiology",
+          "zh": "沙漠哺乳动物生理"
+        },
+        "content": {
+          "en": "Water-saving physiology, moisture-rich forage, pale insulation and heat-avoiding behavior work together; no single adaptation alone explains desert survival.",
+          "zh": "节水生理、含水食物、浅色隔热被毛和避热行为共同发挥作用；并非依靠某一种适应就能在沙漠生存。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

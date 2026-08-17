@@ -37,24 +37,38 @@
   "conservation_status": {
     "code": "LC",
     "en": "Least Concern",
-    "zh": "无危"
+    "zh": "无危",
+    "note_en": "Current BirdLife and Australian Antarctic sources list the species as Least Concern, although regional colonies respond differently to sea ice, food and breeding habitat.",
+    "note_zh": "目前BirdLife与澳大利亚南极资料将该物种列为无危，但各地区繁殖群会因海冰、食物和繁殖地差异而呈现不同变化。"
   },
   "description": {
-    "en": "The Adélie penguin (Pygoscelis adeliae) is a strictly Antarctic species, epitomizing the classic 'tuxedo' appearance with its solid black back and head contrasting sharply with a pristine white belly. Characterized by a distinctive white ring surrounding the eye and feathers obscuring the base of its stubby bill, this mid-sized spheniscid is an obligate associate of the Antarctic pack ice. They are formidable marine predators, relying heavily on the sympagic (ice-associated) food web, primarily targeting Antarctic krill (Euphausia superba) and Antarctic silverfish.",
-    "zh": "阿德利企鹅（Pygoscelis adeliae）是一种严格分布于南极的物种，其纯黑色的背部和头部与洁白的腹部形成鲜明对比，完美诠释了经典的“燕尾服”外观。作为一种中型企鹅，其最显著的形态特征是眼睛周围独特的白色眼圈，以及覆盖在短粗喙基部的羽毛。它们是南极浮冰区高度特化的专性伴生物种，也是强悍的海洋掠食者，高度依赖与冰层相关的食物网，主要捕食南极磷虾（Euphausia superba）和南极银鱼。"
+    "en": "The Adélie penguin is a medium-sized Antarctic penguin recognized by its black head and white eye-ring. It breeds on ice-free rocky coasts, feeds mainly on krill and fish, and spends the non-breeding season at sea among pack ice.",
+    "zh": "阿德利企鹅是一种中等体型的南极企鹅，以黑色头部和白色眼圈著称。它在无冰岩石海岸繁殖，主要吃磷虾和鱼，并在非繁殖季生活于浮冰海域。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "Adults typically measure 46 to 71 centimeters in length and weigh between 3.6 and 6.0 kilograms, exhibiting significant seasonal weight fluctuations. Their hydrodynamic, fusiform bodies are insulated by a dense layer of waterproof plumage and thick subcutaneous blubber. The wings have evolved into stiff, flat flippers optimized for subaqueous flight, allowing them to reach swimming speeds of up to 15 km/h. The striking white scleral ring and the downward-curving, partially feather-covered bill are key diagnostic features separating them from congenerics.",
-      "zh": "成鸟体长通常在46至71厘米之间，体重在3.6至6.0千克之间，并表现出显著的季节性体重波动。其符合流体力学的纺锤形身体被一层致密的防水羽毛和厚实的皮下脂肪所包裹，以提供极致的隔热效果。它们的翅膀已进化成坚硬、扁平的鳍状肢，专为水下“飞行”而优化，使其游泳速度可达15公里/小时。醒目的白色巩膜环以及向下弯曲且部分被羽毛覆盖的喙，是将其与同属其他物种区分开来的关键鉴别特征。"
+      "en": "Adults stand about 70 cm tall and weigh roughly 3–6 kg. They have a black head and back, white belly, conspicuous white eye-ring, short partly feathered bill and flesh-pink feet; males and females look similar.",
+      "zh": "成体高约70厘米，体重约3–6千克。头和背部为黑色，腹部白色，有醒目的白色眼圈、部分被羽毛遮住的短喙和肉粉色脚；雌雄外观相似。",
+      "source_keys": [
+        "general",
+        "identification"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "Highly gregarious, Adélie penguins congregate in massive, densely packed breeding colonies (rookeries) on ice-free coastal terrain during the austral summer. They construct rudimentary nests using accumulated pebbles, which are fiercely defended and frequently stolen from neighbors, highlighting a complex socio-behavioral dynamic. They are proficient divers, capable of descending to depths exceeding 150 meters to forage. Their ecological role is pivotal; as apex mesopredators, they regulate krill populations while serving as primary prey for leopard seals (Hydrurga leptonyx) and killer whales (Orcinus orca).",
-      "zh": "阿德利企鹅具有高度的群居性，在南半球的夏季，它们会聚集在无冰的海岸地形上，形成规模庞大且密集的繁殖群（企鹅群落）。它们利用收集来的鹅卵石筑造简陋的巢穴，这些卵石不仅受到严密保护，还经常被邻居偷窃，凸显了其复杂的社会行为动态。它们是熟练的潜水者，能够下潜至超过150米的深度进行觅食。它们的生态作用至关重要；作为顶级的次级掠食者，它们在控制磷虾种群数量的同时，也是豹海豹（Hydrurga leptonyx）和虎鲸（Orcinus orca）的主要猎物。"
+      "en": "Adélies are colonial breeders and strong swimmers. They eat krill, fish and other small marine animals, usually feeding in the upper 70 m but capable of dives to about 175 m; leopard seals take adults, while skuas take eggs and chicks.",
+      "zh": "阿德利企鹅集群繁殖且善于游泳。它们取食磷虾、鱼类及其他小型海洋动物，通常在水深70米以内觅食，但可潜至约175米；豹海豹捕食成鸟，贼鸥则会取食蛋和雏鸟。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Exhibiting a circumpolar distribution, the Adélie penguin's range encompasses the entire coastline of the Antarctic continent and adjacent islands, including the South Shetland and South Orkney Islands. Their life cycle is intricately synchronized with the seasonal expansion and retreat of the Antarctic sea ice. During the winter, they inhabit the offshore pack ice, utilizing it as a platform for resting and accessing foraging grounds, before migrating hundreds of kilometers to terrestrial, ice-free rocky shores for the breeding season.",
-      "zh": "阿德利企鹅呈现出环极地分布的特征，其栖息范围涵盖了整个南极大陆的海岸线及邻近岛屿，包括南设得兰群岛和南奥克尼群岛。它们的生命周期与南极海冰的季节性扩张和消退错综复杂地同步。在冬季，它们栖息在近海的浮冰上，将其作为休息和前往觅食区的平台，然后在繁殖季迁徙数百公里，返回陆地上无冰的岩石海岸。"
+      "en": "They breed around the Antarctic coast and nearby islands wherever exposed rock is accessible from the sea. In winter they remain at sea in pack-ice habitat and may travel more than 1,000 km from breeding colonies.",
+      "zh": "它们环绕南极海岸及附近岛屿繁殖，条件是有从海上可到达的裸露岩地。冬季留在浮冰海域，可能离繁殖群超过1,000公里。",
+      "source_keys": [
+        "general",
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -188,13 +202,310 @@
           -57
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center and polygon coordinates are retained exactly. Authoritative text sources support the broad distribution, but reusable authoritative boundary geometry was not available; the polygon is therefore labelled as a retained approximate legacy range, not a verified range.",
+      "comparison_zh": "原有中心点和多边形坐标完全保留。权威文字来源支持其大致分布，但未获得可复用的权威边界几何，因此该多边形标为“保留的原有近似范围”，而非“已核实范围”。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/adelie-penguin.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "Australian Antarctic Data Centre Biodiversity Database",
+      "url": "https://data.aad.gov.au/aadc/biodiversity/taxon_data.cfm?taxon_id=1086",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Australian Antarctic Program",
+      "url": "https://www.antarctica.gov.au/about-antarctica/animals/penguins/adelie-penguin/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Australian Antarctic Program satellite tracking",
+      "url": "https://www.antarctica.gov.au/about-antarctica/animals/penguins/adelie-penguin/satellite-tracking/",
+      "checked_at": "2026-08-16"
+    },
+    "identification": {
+      "authority": "BirdLife Australia",
+      "url": "https://birdlife.org.au/bird-profiles/adelie-penguin/",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "BirdLife International DataZone",
+      "url": "https://datazone.birdlife.org/species/factsheet/adelie-penguin-pygoscelis-adeliae",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Australian Antarctic Data Centre Biodiversity Database",
+      "url": "https://data.aad.gov.au/aadc/biodiversity/taxon_data.cfm?taxon_id=1086",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, taxonomy, protection status, numerical claims, English/Chinese scope and preserved legacy map geometry were checked for pilot batch 01."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "height",
+        "label": {
+          "en": "Height",
+          "zh": "身高"
+        },
+        "value": {
+          "en": "About 70 cm",
+          "zh": "约70厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "3–6 kg",
+          "zh": "3–6千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Krill, fish and other small marine animals",
+          "zh": "磷虾、鱼及其他小型海洋动物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "usual_dive",
+        "label": {
+          "en": "Usual feeding depth",
+          "zh": "通常觅食深度"
+        },
+        "value": {
+          "en": "Mostly upper 70 m",
+          "zh": "多在水深70米以内"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "clutch",
+        "label": {
+          "en": "Clutch",
+          "zh": "每窝蛋数"
+        },
+        "value": {
+          "en": "Usually 2 eggs",
+          "zh": "通常2枚"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Life expectancy",
+          "zh": "预期寿命"
+        },
+        "value": {
+          "en": "About 10–20 years",
+          "zh": "约10–20年"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Adults return to rocky colonies in spring and build pebble nests. A pair usually lays 2 eggs in mid-month 11 and shares incubation and chick care; chicks hatch in month 12, join groups after about 3 weeks and fledge to sea at roughly 7–9 weeks.",
+      "zh": "成鸟春季返回岩石繁殖地并用小石块筑巢。一对亲鸟通常在11月中旬产下2枚蛋，共同孵化和育雏；雏鸟12月孵化，约3周大时加入幼鸟群，约7–9周大时换羽下海。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Streamlined diver",
+          "zh": "流线型潜水者"
+        },
+        "detail": {
+          "en": "Flipper-like wings and a compact body provide underwater propulsion while dense plumage limits heat loss.",
+          "zh": "鳍状翅和紧凑身体提供水下推进力，浓密羽毛则减少热量流失。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Countershading",
+          "zh": "反荫蔽体色"
+        },
+        "detail": {
+          "en": "A dark back blends with deep water from above and a white belly blends with the bright surface from below.",
+          "zh": "从上方看，黑背与深水相融；从下方看，白腹与明亮水面相融。"
+        },
+        "source_keys": [
+          "identification"
+        ]
+      },
+      {
+        "title": {
+          "en": "Pebble nest",
+          "zh": "石子巢"
+        },
+        "detail": {
+          "en": "A raised, sloping pebble nest helps eggs stay above meltwater on ice-free coastal ground.",
+          "zh": "在无冰海岸地面上，抬高且有坡度的石子巢有助于让蛋避开融水。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Adélie penguins transfer marine nutrients onto land at large colonies and are important consumers of krill and fish. Their population and breeding success also help scientists track changes in the Southern Ocean ecosystem.",
+      "zh": "阿德利企鹅在大型繁殖群把海洋养分带到陆地，也是磷虾和鱼类的重要消费者。它们的种群与繁殖成功率还能帮助科学家追踪南大洋生态系统变化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "increasing",
+      "threats": {
+        "en": "The global assessment remains Least Concern, but climate-driven changes in sea ice, prey availability, extreme weather and localized fishery competition can help some colonies while harming others.",
+        "zh": "全球评估仍为无危，但气候驱动的海冰变化、猎物供应、极端天气和局部渔业竞争，可能使一些繁殖群受益、另一些受损。"
+      },
+      "actions": {
+        "en": "Protect breeding sites and marine foraging areas, manage krill fisheries cautiously, reduce disturbance, and continue long-term colony counts, automated cameras and tracking across contrasting Antarctic regions.",
+        "zh": "应保护繁殖地和海上觅食区，谨慎管理磷虾渔业，减少干扰，并在不同南极区域持续开展长期群体计数、自动相机和追踪研究。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A medium penguin with a fully black head, white eye-ring, white belly and a short bill whose base is partly hidden by feathers.",
+        "zh": "中等体型企鹅，头部全黑，有白色眼圈和白腹；短喙基部部分被羽毛遮住。"
+      },
+      "similar_species": {
+        "en": "Chinstrap penguins have a thin black line under the chin and no full white eye-ring; gentoo penguins have a broad white patch over the eyes and an orange-red bill.",
+        "zh": "帽带企鹅下颏有细黑带且没有完整白眼圈；巴布亚企鹅眼上有宽白斑，喙呈橙红色。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Adults use loud individualized calls to recognize mates and chicks in crowded colonies. At sea, contact calls are described as guttural barks; courtship includes rhythmic vocal displays.",
+      "zh": "成鸟用响亮且具有个体差异的叫声，在拥挤繁殖群中识别伴侣和雏鸟。海上联系叫声常被描述为低沉吠声，求偶时还会发出有节奏的鸣叫。",
+      "source_keys": [
+        "identification"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding takes place mainly from months 10 to 2. Adults and fledglings later disperse at sea; tracked adults forage among pack ice through winter and return eastward to colonies the next spring.",
+      "zh": "繁殖主要发生在10月至次年2月。之后成鸟和幼鸟分散到海上；追踪研究显示成鸟冬季在浮冰间觅食，并于次年春季向东返回繁殖地。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Long-running Antarctic programs count nests, photograph colonies and track movements to understand ecosystem change. Visitors should keep regulated distances and never enter colonies or remove nest stones.",
+      "zh": "长期南极研究会统计巢数、拍摄繁殖群并追踪移动，以了解生态系统变化。访客应遵守距离规定，绝不能进入繁殖群或拿走筑巢石。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Adélie, gentoo and chinstrap penguins form the genus Pygoscelis. Their wing-propelled diving body plan is inherited from penguin ancestors, while species-level plumage and breeding ecology distinguish the three close relatives.",
+      "zh": "阿德利企鹅、巴布亚企鹅和帽带企鹅同属阿德利企鹅属。它们继承了企鹅祖先用翼潜水的体型，而物种间的羽色和繁殖生态则各有区别。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "On land, white eye-rings and pebble nests are diagnostic. At sea, use the complete black hood and lack of a chinstrap or broad head patch; observe from a distance because colony disturbance can expose eggs and chicks.",
+      "zh": "陆地上，白眼圈和石子巢很有辨识度。海上可依据完整黑色头罩，并确认没有下颏黑带或宽头部白斑；应远距离观察，因为干扰繁殖群会使蛋和雏鸟暴露。",
+      "source_keys": [
+        "identification",
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Adélies may slide on their bellies across snow, a movement often called tobogganing.",
+          "zh": "阿德利企鹅会趴在雪上用腹部滑行，这种动作常被称为“雪橇式滑行”。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Both parents share incubation and chick feeding duties.",
+          "zh": "雌雄亲鸟共同承担孵化和喂养雏鸟的工作。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Some tracked Adélies have travelled more than 1,200 km from their breeding site.",
+          "zh": "部分接受追踪的阿德利企鹅曾游到距繁殖地1,200多公里之外。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Bird breeding",
+          "zh": "鸟类繁殖"
+        },
+        "content": {
+          "en": "Adélies lay hard-shelled eggs, incubate them with a warm brood patch and feed chicks by regurgitating captured marine food.",
+          "zh": "阿德利企鹅产有硬壳的蛋，用温暖的孵卵斑孵化，并把捕到的海洋食物反刍给雏鸟。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

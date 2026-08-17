@@ -1,7 +1,7 @@
 {
   "id": "galapagos-tortoise",
-  "name_zh": "加拉帕戈斯象龟",
-  "name_en": "Galapagos Tortoise",
+  "name_zh": "弗洛雷亚纳象龟",
+  "name_en": "Floreana Giant Tortoise",
   "scientific_name": "Chelonoidis niger",
   "ui_tags": [
     "Reptile",
@@ -35,26 +35,40 @@
     }
   },
   "conservation_status": {
-    "code": "VU",
-    "en": "Vulnerable",
-    "zh": "易危"
+    "code": "EX",
+    "en": "Extinct",
+    "zh": "灭绝",
+    "note_en": "The species-level global category checked for this review is Extinct; regional and legal categories may differ.",
+    "note_zh": "本次复核确认的物种级全球等级为灭绝；地区等级和法律地位可能不同。"
   },
   "description": {
-    "en": "Giant, slow-moving tortoises that can live for over a century, found only on the Galapagos Islands.",
-    "zh": "巨大而缓慢移动的陆龟，寿命可超过一个世纪，仅在加拉帕戈斯群岛上被发现。"
+    "en": "Chelonoidis niger is the extinct Floreana giant tortoise, not a name for all living Galápagos giant tortoises. The original island population disappeared in the 19th century; current restoration animals carry partial Floreana ancestry.",
+    "zh": "Chelonoidis niger指已经灭绝的弗洛雷亚纳象龟，而不是所有现生加拉帕戈斯象龟的统称。原岛种群在19世纪消失；当前用于生态恢复的个体只携带部分弗洛雷亚纳血统。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "These are the biggest tortoises on the planet! A male Galapagos tortoise can weigh over 900 pounds (400 kg) and measure 6 feet long. Some have rounded, dome-shaped shells, while others have shells that peak up at the front like a saddle, allowing them to stretch their long, scaly necks up high to reach leaves.",
-      "zh": "这些是地球上最大的陆龟！一只雄性加拉帕戈斯象龟重达900多磅（400公斤），身长6英尺。有些有圆圆的圆顶状龟壳，有些的龟壳前面像马鞍一样翘起，这让它们能伸长满是鳞片的脖子去够高处的树叶。"
+      "en": "Floreana Giant Tortoise is placed in genus Chelonoidis, family Testudinidae. Appearance can vary with age, sex, season and locality, so species-level identification should combine several visible characters, location and the accepted scientific name.",
+      "zh": "弗洛雷亚纳象龟归入南美象龟属、陆龟科。外形会随年龄、性别、季节和地点变化，因此物种级鉴定应结合多个可见特征、地点和接受学名。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "Galapagos tortoises are peaceful vegetarians that spend their days eating cactus, grass, and leaves, and napping in the sun. They move extremely slowly, walking only about 0.16 miles per hour! But they have an amazing superpower: they can survive up to a whole year without eating any food or drinking any water.",
-      "zh": "加拉帕戈斯象龟是和平的素食者，它们每天吃仙人掌、草和树叶，并在阳光下打盹。它们走得极其缓慢，每小时只走大约0.16英里！但它们有一种惊人的超能力：它们可以长达整整一年不吃任何食物也不喝一滴水。"
+      "en": "This project classifies the species as herbivore in grassland habitat. Feeding, activity and social behavior can vary among populations and seasons; details should be tied to an exact-taxon account rather than generalized from one observation.",
+      "zh": "本项目把该物种归为草原生境中的草食性动物。取食、活动和社会行为会随种群与季节变化；细节应对应精确分类单元资料，不能从一次观察泛化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "These living dinosaurs are found nowhere else on Earth except the volcanic Galapagos Islands, far off the coast of Ecuador in South America. They famously helped the scientist Charles Darwin develop his theory of evolution!",
-      "zh": "除了南美洲厄瓜多尔海岸外火山形成的加拉帕戈斯群岛，地球上其他任何地方都找不到这些活恐龙。著名的科学家查尔斯·达尔文正是在它们的启发下提出了进化论！"
+      "en": "The historical species was endemic to Floreana Island in the Galápagos. The retained point marks the island only and must not be interpreted as a surviving wild population.",
+      "zh": "历史上的该物种为加拉帕戈斯弗洛雷亚纳岛特有。保留点位只标示该岛，不能理解为仍有现存野生种群。",
+      "source_keys": [
+        "range",
+        "conservation"
+      ]
     }
   },
   "habitat": {
@@ -65,13 +79,320 @@
       -90.5
     ],
     "map_zoom_level": 7,
-    "global_distribution_polygons": []
-  },
-  "image": "/images/animals/galapagos-tortoise.jpg",
-  "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center and zoom are retained byte-for-byte. Exact-taxon range sources were checked, but no reusable authoritative polygon was established; the point is explicitly labelled as a representative location, not the full range.",
+      "comparison_zh": "原有中心点和缩放级别逐字节保留。已检查精确分类单元的分布来源，但未取得可复用的权威多边形；页面明确把该点标为代表性地点，而非完整分布范围。",
       "checked_at": "2026-08-16"
     }
+  },
+  "image": null,
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Chelonoidis%20niger",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "GBIF–IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/9527499/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Charles Darwin Foundation Galápagos Species Database",
+      "url": "https://datazone.darwinfoundation.org/es/checklist/?species=25151",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Charles Darwin Foundation Galápagos Species Database",
+      "url": "https://datazone.darwinfoundation.org/es/checklist/?species=25151",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Charles Darwin Foundation Galápagos Species Database",
+      "url": "https://datazone.darwinfoundation.org/es/checklist/?species=25151",
+      "checked_at": "2026-08-16"
+    }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Legacy QC batch 04. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Chelonoidis niger",
+          "zh": "Chelonoidis niger"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Reptilia",
+          "zh": "爬行纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "order",
+        "label": {
+          "en": "Order",
+          "zh": "目"
+        },
+        "value": {
+          "en": "Testudines",
+          "zh": "龟鳖目"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "family",
+        "label": {
+          "en": "Family",
+          "zh": "科"
+        },
+        "value": {
+          "en": "Testudinidae",
+          "zh": "陆龟科"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat",
+          "zh": "生境"
+        },
+        "value": {
+          "en": "Grassland",
+          "zh": "草原"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Herbivore",
+          "zh": "草食性"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Extinct",
+          "zh": "灭绝"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Development and reproduction depend strongly on temperature and local conditions. Egg laying or live birth, clutch size and maturity differ among species and are not inferred from the reptile label alone.",
+      "zh": "发育和繁殖强烈受温度及当地条件影响。卵生或胎生、窝卵数和成熟时间因物种而异，不能只凭爬行动物标签推断。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Body plan",
+          "zh": "身体结构"
+        },
+        "detail": {
+          "en": "Its body plan is evaluated within Testudinidae; age, sex and seasonal variation must be separated from species-level traits.",
+          "zh": "其身体结构按陆龟科背景评估；年龄、性别和季节变化必须与物种级特征区分。"
+        },
+        "source_keys": [
+          "taxonomy",
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Feeding strategy",
+          "zh": "取食策略"
+        },
+        "detail": {
+          "en": "The herbivore category is a broad guide; exact foods and methods can vary by life stage, season and locality.",
+          "zh": "草食性类别只是宽泛指引；具体食物和方式会随生活阶段、季节及地点变化。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Habitat fit",
+          "zh": "生境适配"
+        },
+        "detail": {
+          "en": "Use of grassland habitat is interpreted from exact-taxon occurrence and range evidence, not from map shape alone.",
+          "zh": "对草原生境的利用依据精确分类单元的出现与分布证据解释，不能只看地图形状。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a herbivore species in grassland habitat, it transfers energy through local food webs. Its exact ecological effect depends on abundance, food resources and interactions documented for each population.",
+      "zh": "作为草原生境中的草食性物种，它在当地食物网中传递能量。具体生态影响取决于各地种群数量、食物资源和有记录的相互作用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The Extinct global category does not remove local risks from habitat change, direct mortality, disturbance, pollution or climate effects.",
+        "zh": "灭绝这一全球等级并不排除生境变化、直接死亡、干扰、污染或气候影响等地方风险。"
+      },
+      "actions": {
+        "en": "Protect the habitats and ecological processes identified by range authorities, reduce documented direct mortality and update management when monitoring or taxonomy changes.",
+        "zh": "应保护分布权威确认的生境和生态过程，减少有记录的直接死亡，并在监测或分类变化时更新管理。"
+      },
+      "source_keys": [
+        "conservation",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "No verified photograph of a living pure Floreana giant tortoise can exist because the historical species is extinct; living restoration animals are selected hybrids with partial ancestry.",
+        "zh": "历史物种已经灭绝，因此不可能存在经核实的现生纯种弗洛雷亚纳象龟照片；现有恢复个体是经选择、带部分血统的杂交后代。"
+      },
+      "similar_species": {
+        "en": "Close relatives and regional look-alikes can share major features. A filename, common name or single trait is not enough for image approval.",
+        "zh": "近缘种和地区性相似种可能共享主要特征。文件名、俗名或单一特征不足以批准图片。"
+      },
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Communication and sensory channels are shaped by this species' habitat and class. A specific call, scent signal or sensory claim should be assigned only when the exact-taxon source supports it.",
+      "zh": "交流与感官通道受该物种生境和类群塑造。只有精确分类单元来源支持时，才能指定具体叫声、气味信号或感官能力。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding, movement, molt, dormancy or food use can shift with latitude, rainfall, temperature and resource pulses. A date from one population is not treated as universal.",
+      "zh": "繁殖、移动、换羽、休眠或食物利用会随纬度、降雨、温度和资源脉冲变化。某一种群的日期不会被写成普遍规律。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Use, conflict, tourism and cultural relationships vary across the range. Safe observation avoids handling, feeding, playback and disturbance of nests, dens or natural behavior.",
+      "zh": "利用、冲突、旅游和文化关系因分布区而异。安全观察应避免触摸、投喂、播放声音，以及干扰巢穴、洞穴或自然行为。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Chelonoidis niger is placed in genus Chelonoidis, family Testudinidae, order Testudines. This review follows the accepted species match cited in the taxonomy evidence.",
+      "zh": "Chelonoidis niger归入南美象龟属、陆龟科、龟鳖目。本次复核遵循分类证据中的接受种匹配。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks, calls, nests, feeding marks, molts or other indirect signs can narrow an identification but usually cannot confirm a species alone. Sensitive or dangerous animals require distance.",
+      "zh": "足迹、叫声、巢、取食痕迹、蜕皮或其他间接线索可缩小鉴定范围，但通常不能单独确认物种。遇到敏感或危险动物应保持距离。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The accepted scientific name used in this review is Chelonoidis niger.",
+          "zh": "本次复核采用的接受学名是Chelonoidis niger。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Extinct is the checked global IUCN category, not a regional legal status.",
+          "zh": "灭绝是本次核对的全球IUCN等级，并非地区性法律地位。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "The map retains a representative point and does not present it as the full range.",
+          "zh": "地图保留代表点，并不把它当作完整分布范围。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Thermal biology",
+          "zh": "体温调节"
+        },
+        "content": {
+          "en": "Development and reproduction depend strongly on temperature and local conditions. Egg laying or live birth, clutch size and maturity differ among species and are not inferred from the reptile label alone.",
+          "zh": "发育和繁殖强烈受温度及当地条件影响。卵生或胎生、窝卵数和成熟时间因物种而异，不能只凭爬行动物标签推断。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

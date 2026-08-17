@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "EN",
     "en": "Endangered",
-    "zh": "濒危"
+    "zh": "濒危",
+    "note_en": "The 2018 global IUCN assessment lists the aye-aye as Endangered with a decreasing, severely fragmented population.",
+    "note_zh": "2018年IUCN全球评估将指猴列为濒危，其种群下降且严重破碎化。"
   },
   "description": {
-    "en": "The world's largest nocturnal primate, famous for its unusually long, thin middle finger.",
-    "zh": "世界上最大的夜行性灵长类动物，以其异常细长的中指而闻名。"
+    "en": "The aye-aye is a nocturnal lemur found only in Madagascar. Continuously growing incisors, large movable ears and an extremely slender middle finger let it tap wood, listen for hollow chambers and extract insect larvae—a primate solution resembling a woodpecker's niche.",
+    "zh": "指猴是仅分布于马达加斯加的夜行性狐猴。不断生长的门齿、可转动的大耳和极细长中指，使它能敲击木材、聆听空腔并取出昆虫幼虫——以灵长类方式占据类似啄木鸟的生态位。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "They have large ears like bats and teeth that grow forever like rodents. Their middle finger is very bony and flexible.",
-      "zh": "它们长着像蝙蝠一样的大耳朵，牙齿像啮齿动物一样不断生长。它们的中指只有骨头，非常灵活。"
+      "en": "Adults weigh roughly 2.5–2.8 kg and have large ears, forward-facing eyes, coarse dark fur, a bushy tail, continuously growing incisors and elongated fingers. The middle finger is exceptionally thin and mobile, while the fourth finger provides strength for extracting food.",
+      "zh": "成体体重约2.5–2.8千克，具有大耳、向前的眼、粗糙深色毛、蓬松长尾、不断生长的门齿和细长手指。中指异常纤细灵活，第四指则在取食时提供力量。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "They use their middle finger to tap on trees to find grubs. This technique is called 「percussive foraging」.",
-      "zh": "它们用中指敲击树干来寻找幼虫，这种技巧被称为「敲击觅食法」。"
+      "en": "Aye-ayes are mostly solitary nocturnal foragers. They tap branches, listen for cavities, gnaw openings and probe out wood-boring larvae, but also eat seeds, nuts, fruit, nectar and fungi and sleep by day in leafy spherical nests.",
+      "zh": "指猴主要独居并在夜间觅食。它们敲击树枝、聆听空腔、啃开孔洞，再探取蛀木幼虫；也吃种子、坚果、水果、花蜜和真菌，白天在球形叶巢中睡眠。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Endemic to the island of Madagascar, living in rainforests and deciduous forests.",
-      "zh": "马达加斯加岛特有，生活在热带雨林和落叶林中。"
+      "en": "The species occurs in fragmented forest across eastern, northern and parts of western Madagascar, using rainforest, dry deciduous forest, secondary forest and some plantations. Suitable trees and connected canopy are important even where the species tolerates disturbance.",
+      "zh": "该物种分布于马达加斯加东部、北部和部分西部的破碎森林，可利用雨林、干燥落叶林、次生林和部分种植园。即使能耐受一定干扰，合适树木和连通树冠仍很重要。",
+      "source_keys": [
+        "range",
+        "conservation"
+      ]
     }
   },
   "habitat": {
@@ -88,13 +101,303 @@
           49
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and polygon coordinates are retained exactly. Authoritative text sources support the broad distribution, but reusable authoritative boundary geometry was not available; the polygons are labelled as retained approximate legacy ranges, not verified boundaries.",
+      "comparison_zh": "原有中心点、缩放和多边形坐标完全保留。权威文字来源支持其大致分布，但未获得可复用的权威边界几何，因此多边形标为保留的原有近似范围，而非已核实边界。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/aye-aye.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Daubentonia%20madagascariensis",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Duke Lemur Center",
+      "url": "https://lemur.duke.edu/discover/meet-the-lemurs/aye-aye/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Duke Lemur Center",
+      "url": "https://lemur.duke.edu/discover/meet-the-lemurs/aye-aye/",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "Lemur Conservation Network",
+      "url": "https://www.lemurconservationnetwork.org/learn/lemur-species-fact-sheets/aye-aye/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Lemur Conservation Network",
+      "url": "https://www.lemurconservationnetwork.org/learn/lemur-species-fact-sheets/aye-aye/",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, taxonomy, protection status, numerical claims, English/Chinese scope and preserved legacy map geometry were checked for legacy QC batch 02."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "weight",
+        "label": {
+          "en": "Adult weight",
+          "zh": "成体体重"
+        },
+        "value": {
+          "en": "About 2.5–2.8 kg",
+          "zh": "约2.5–2.8千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Nocturnal",
+          "zh": "夜行"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Insect larvae, seeds, nuts, fruit and other foods",
+          "zh": "昆虫幼虫、种子、坚果、水果及其他食物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "gestation",
+        "label": {
+          "en": "Gestation",
+          "zh": "妊娠期"
+        },
+        "value": {
+          "en": "About 172 days",
+          "zh": "约172天"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "young",
+        "label": {
+          "en": "Young",
+          "zh": "每胎幼崽"
+        },
+        "value": {
+          "en": "1; typically every 2–3 years",
+          "zh": "1只；通常每2–3年一次"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Endangered",
+          "zh": "濒危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Mating can occur throughout the year. After about 172 days of gestation, a female gives birth to 1 young and may reproduce only every 2–3 years. The infant rides and nests with its mother before gradually learning independent nocturnal foraging.",
+      "zh": "全年都可能交配。妊娠约172天后，雌性产下1只幼崽，可能每2–3年才繁殖一次。幼崽随母亲移动并同巢，之后逐渐学习独立夜间觅食。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Percussive foraging",
+          "zh": "敲击觅食"
+        },
+        "detail": {
+          "en": "Rapid tapping and large ears reveal changes in wood resonance that can indicate hidden cavities.",
+          "zh": "快速敲击和大耳可识别木材共振变化，从而发现隐藏空腔。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Slender middle finger",
+          "zh": "纤细中指"
+        },
+        "detail": {
+          "en": "An extremely mobile middle finger probes tunnels and hooks out larvae or soft food.",
+          "zh": "极灵活的中指可探入通道，钩出幼虫或柔软食物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Ever-growing incisors",
+          "zh": "终生生长门齿"
+        },
+        "detail": {
+          "en": "Continuously growing front teeth gnaw wood and hard seed shells without being permanently worn down.",
+          "zh": "不断生长的前齿可啃咬木材和坚硬种壳，而不会被永久磨损。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Aye-ayes prey on wood-boring insects, open hard seeds and may move seeds or pollen while feeding. Their excavations create small openings in dead wood that other organisms can exploit.",
+      "zh": "指猴捕食蛀木昆虫、打开坚硬种子，并可能在取食时移动种子或花粉；其在朽木上凿出的孔洞也可被其他生物利用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Forest loss, fragmentation, hunting, killing as an alleged crop pest and fear linked to local beliefs all affect the species. Slow reproduction increases sensitivity to adult mortality.",
+        "zh": "森林丧失和破碎化、猎捕、因被视为作物害兽而遭杀害，以及与地方观念相关的恐惧都会影响该物种；较慢繁殖使其对成体死亡尤其敏感。"
+      },
+      "actions": {
+        "en": "Protect and reconnect native forests, reduce hunting and retaliatory killing through community-led programs, safeguard nesting and feeding trees and maintain carefully managed assurance populations.",
+        "zh": "应保护并重新连接原生森林，通过社区主导项目减少猎捕和报复性杀害，保护筑巢与取食树木，并维持谨慎管理的保种种群。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A dark shaggy lemur with huge ears, prominent incisors, a bushy tail and an exceptionally thin elongated middle finger.",
+        "zh": "深色蓬乱毛的狐猴，耳朵巨大、门齿突出、尾巴蓬松，中指异常纤细延长。"
+      },
+      "similar_species": {
+        "en": "No other living lemur combines the aye-aye's rodent-like incisors and skeletal middle finger. Night views can distort proportions, so photographs should show the face, hands and tail rather than rely on eye-shine alone.",
+        "zh": "其他现生狐猴都没有同时具备指猴的啮齿样门齿和骨感中指。夜间观察会扭曲比例，因此照片应显示面部、手和尾，而不能只凭眼光反射。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Aye-ayes use scent marks, calls and physical signals while mostly ranging alone. Large ears are important not only for social sound but for listening to echoes and movements during foraging.",
+      "zh": "指猴虽然主要独自活动，仍会使用气味标记、叫声和身体信号。大耳不仅用于社会声音，也用于觅食时聆听回声和内部动静。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding is not confined to one short annual season, and fruit or seed use changes with local availability. Individuals reuse or rebuild multiple leafy nests as they move through home ranges.",
+      "zh": "繁殖并不局限于一个短暂年度季节，对水果或种子的利用会随当地供应变化。个体在家域中移动时会重复使用或重建多个叶巢。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Aye-ayes have complex and locally variable cultural meanings in Madagascar; claims that all Malagasy people fear or kill them are inaccurate. Conservation works best with community-specific knowledge and solutions.",
+      "zh": "指猴在马达加斯加具有复杂且地方差异明显的文化含义；声称所有马达加斯加人都害怕或杀死它们并不准确。保护应结合具体社区的知识和解决方案。",
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Daubentonia madagascariensis is the only living species in Daubentoniidae. Its closest relatives are other lemurs, while its gnawing teeth and extractive foraging are convergent with features seen in unrelated rodents and woodpeckers.",
+      "zh": "指猴是指猴科唯一现生种，最近亲缘仍是其他狐猴；其啃咬牙齿和提取式觅食则与无关的啮齿动物和啄木鸟形成趋同。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "Spherical leafy nests high in trees, paired gnaw openings and tapping sounds may suggest an aye-aye, but nests can be reused and feeding marks are not always diagnostic. Nocturnal surveys should minimize light and disturbance.",
+      "zh": "树上的球形叶巢、成对啃洞和敲击声可能提示有指猴，但巢可被重复使用，取食痕迹也不总能确诊。夜间调查应尽量减少灯光和干扰。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The aye-aye is a primate, not a rodent, even though its incisors grow continuously.",
+          "zh": "尽管门齿不断生长，指猴仍是灵长类而不是啮齿动物。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its middle finger is used for tapping as well as probing food from narrow cavities.",
+          "zh": "它的中指既用于敲击，也用于从狭窄空腔中探取食物。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "Females usually raise only 1 young and may wait 2–3 years between births.",
+          "zh": "雌性通常只抚育1只幼崽，两次生产之间可能相隔2–3年。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Slow primate reproduction",
+          "zh": "灵长类缓慢繁殖"
+        },
+        "content": {
+          "en": "A long gestation, single infant and extended maternal care mean that losing breeding adults cannot be rapidly offset by many young, increasing the value of adult survival.",
+          "zh": "较长妊娠、单胎和延长母育意味着繁殖成体损失无法靠大量幼崽迅速弥补，因此成体存活尤为重要。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

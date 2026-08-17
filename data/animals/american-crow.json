@@ -37,24 +37,38 @@
   "conservation_status": {
     "code": "LC",
     "en": "Least Concern",
-    "zh": "无危"
+    "zh": "无危",
+    "note_en": "BirdLife lists the American crow as Least Concern; North American monitoring nevertheless shows regional and multi-year changes, so low extinction risk does not mean every population is increasing.",
+    "note_zh": "BirdLife将美洲乌鸦列为无危；但北美监测仍显示地区和多年变化，因此低灭绝风险并不表示每个种群都在增长。"
   },
   "description": {
-    "en": "A highly intelligent, completely black bird renowned for its problem-solving abilities, facial recognition skills, and complex social systems.",
-    "zh": "一种极度聪明的全黑鸟类，以其解决问题的能力、对人类面部的识别能力以及复杂的社会系统而闻名于世。"
+    "en": "The American crow is a large, all-black, highly adaptable songbird of North America. Family groups cooperate to raise young, and the species succeeds in farms, suburbs and cities as well as open woodland by learning quickly and eating a very broad diet.",
+    "zh": "美洲乌鸦是北美一种大型、全身黑色且适应力很强的鸣禽。家庭成员会合作育雏；凭借快速学习能力和广泛食性，它既生活于开阔林地，也能在农田、郊区和城市中繁盛。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "The American crow is a large passerine, entirely iridescent black from the tip of its stout bill to the ends of its tail feathers and legs. When light hits its plumage, it can display subtle purplish or bluish sheens. Its wings are broad and moderately pointed, and its tail has a slightly rounded, fan-like ending in flight. They possess an exceptionally large brain-to-body-size ratio—comparable to that of many primates—fueling their well-documented high intelligence.",
-      "zh": "美洲乌鸦是一种大型鸣禽，从粗壮的喙尖到尾羽的末端以及双腿，全部呈现出带有反光的纯黑色。当阳光照射在它的羽毛上时，会闪烁出微妙的紫色或蓝色光泽。它的翅膀宽大且适度尖锐，在飞行时尾巴呈现略微圆滑的扇形末端。它们的大脑与身体的质量之比异常高——甚至可以与许多灵长类动物相媲美——这为它们广有记载的极高智力提供了基础。"
+      "en": "Adults are about 40–53 cm long, weigh 316–620 g and span 85–100 cm across the wings. They are entirely black, including bill and legs, with a thick neck, heavy straight bill, broad rounded wings and a short square to rounded tail.",
+      "zh": "成鸟体长约40–53厘米，体重316–620克，翼展85–100厘米。全身包括喙和腿均为黑色，颈粗、喙直而厚，翼宽圆，尾较短且末端方形至圆形。",
+      "source_keys": [
+        "general",
+        "identification"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "Crows exhibit behaviors indicating high cognition, including dropping hard nuts into street traffic for cars to crack them, and memorizing the specific faces of humans who have threatened or fed them, actively passing this knowledge on to their offspring. They are highly social, occasionally forming massive winter roosts numbering over two million birds. They are omnivorous opportunists, eating virtually anything including insects, seeds, carrion, and human garbage. They engage in 'cooperative breeding', where young from previous years help raise the new chicks.",
-      "zh": "乌鸦表现出表明高度认知能力的行为，包括将坚硬的坚果扔进街道的车流中让汽车轧碎它，以及熟记曾经威胁或喂养过它们的人类的特定真容，并积极地将这些知识传授给它们的后代。它们具有高度的社交性，在冬季偶尔会形成包含超过两百万只鸟的庞大栖息群。它们是无所不吃的机会主义者，几乎吃任何东西，包括昆虫、种子、腐肉和人类垃圾。它们实行「合作繁殖」，即前几年出生的幼鸟会协助父母抚养新孵化出的雏鸟。"
+      "en": "American crows are omnivorous ground foragers that eat grains, fruit, insects, small vertebrates, eggs, carrion and human refuse. They live in social family groups, mob predators and may gather in very large communal winter roosts.",
+      "zh": "美洲乌鸦是杂食性地面觅食者，吃谷物、果实、昆虫、小型脊椎动物、鸟蛋、腐肉和人类废弃食物。它们以社会性家庭群生活，会围攻捕食者，冬季还可能聚成极大的公共夜栖群。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "They are ubiquitous across North America, ranging from southern Canada deep into the United States and northern Mexico. They thrive in almost any habitat offering trees for nesting combined with open areas for feeding, making them incredibly successful in adapting to agricultural lands, suburbs, and bustling city centers.",
-      "zh": "它们遍布整个北美洲无处不在，范围从加拿大南部深入到美国全境和墨西哥北部。它们几乎在任何能提供树木用于筑巢和开阔区域用于觅食的环境中都能茁壮成长，这使得它们在适应农田、郊区和繁华城市中心方面取得了难以置信的成功。"
+      "en": "The species occupies much of North America in open woodland, forest edges, farmland, wetlands, coasts, suburbs and cities, generally avoiding treeless desert and extensive unbroken forest. Northern birds are more migratory than many southern populations.",
+      "zh": "该物种分布于北美大部，生活在开阔林地、林缘、农田、湿地、海岸、郊区和城市，通常避开无树沙漠及大片连续密林。北方种群比许多南方种群更具迁徙性。",
+      "source_keys": [
+        "general",
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -88,13 +102,309 @@
           -125
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center and polygon coordinates are retained exactly. Authoritative text sources support the broad distribution, but reusable authoritative boundary geometry was not available; the polygon is therefore labelled as a retained approximate legacy range, not a verified range.",
+      "comparison_zh": "原有中心点和多边形坐标完全保留。权威文字来源支持其大致分布，但未获得可复用的权威边界几何，因此该多边形标为“保留的原有近似范围”，而非“已核实范围”。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/american-crow.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Corvus%20brachyrhynchos",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Cornell Lab of Ornithology, All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/American_Crow/overview",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Cornell Lab of Ornithology, All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/American_Crow/lifehistory",
+      "checked_at": "2026-08-16"
+    },
+    "identification": {
+      "authority": "Cornell Lab of Ornithology, All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/American_Crow/id",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "BirdLife International DataZone",
+      "url": "https://datazone.birdlife.org/species/factsheet/american-crow-corvus-brachyrhynchos",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Cornell Lab of Ornithology, All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/American_Crow/maps-range",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, taxonomy, protection status, numerical claims, English/Chinese scope and preserved legacy map geometry were checked for pilot batch 01."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "length",
+        "label": {
+          "en": "Length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "40–53 cm",
+          "zh": "40–53厘米"
+        },
+        "source_keys": [
+          "identification"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "316–620 g",
+          "zh": "316–620克"
+        },
+        "source_keys": [
+          "identification"
+        ]
+      },
+      {
+        "key": "wingspan",
+        "label": {
+          "en": "Wingspan",
+          "zh": "翼展"
+        },
+        "value": {
+          "en": "85–100 cm",
+          "zh": "85–100厘米"
+        },
+        "source_keys": [
+          "identification"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Broad omnivore",
+          "zh": "广食性杂食"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "clutch",
+        "label": {
+          "en": "Clutch",
+          "zh": "每窝蛋数"
+        },
+        "value": {
+          "en": "3–9 eggs",
+          "zh": "3–9枚"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "incubation",
+        "label": {
+          "en": "Incubation",
+          "zh": "孵化期"
+        },
+        "value": {
+          "en": "16–18 days",
+          "zh": "16–18天"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Pairs build a stick nest high in a tree and lay about 3–9 eggs. Incubation lasts 16–18 days and young remain in the nest roughly 20–40 days; offspring from previous years may stay with their parents and help feed a new brood.",
+      "zh": "配偶会在树上较高处用枝条筑巢，每窝约产3–9枚蛋。孵化需16–18天，幼鸟留巢约20–40天；往年出生的后代可能继续留在父母身边，帮助喂养新一窝幼鸟。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Flexible bill and diet",
+          "zh": "灵活的喙与食性"
+        },
+        "detail": {
+          "en": "A sturdy general-purpose bill handles insects, seeds, carrion and many human-associated foods.",
+          "zh": "坚固而通用的喙能处理昆虫、种子、腐肉和多种与人类环境相关的食物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Social learning",
+          "zh": "社会学习"
+        },
+        "detail": {
+          "en": "Family groups and large gatherings allow crows to learn about food, danger and local conditions from one another.",
+          "zh": "家庭群和大型聚集使乌鸦能够彼此学习食物、危险和当地环境信息。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Cooperative defense",
+          "zh": "合作防御"
+        },
+        "detail": {
+          "en": "Several crows may mob a hawk or owl, combining calls and close passes to drive it away.",
+          "zh": "多只乌鸦可能共同围攻鹰或鸮，以叫声和近距离飞掠把捕食者赶走。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "American crows consume carrion, insects, fruit and seeds, acting as scavengers, predators and seed movers. They also take eggs and nestlings, so their ecological effects vary with place and food supply.",
+      "zh": "美洲乌鸦会吃腐肉、昆虫、果实和种子，兼具清道夫、捕食者和种子搬运者的作用。它们也会取食蛋和雏鸟，因此生态影响会随地点和食物供应而变化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "The species is abundant and of low global concern, but is highly susceptible to West Nile virus and faces collisions, persecution, poisoning and local habitat changes.",
+        "zh": "该物种数量多、全球保护关注较低，但对西尼罗河病毒极其敏感，也面临碰撞、人为扑杀、中毒和局部生境变化。"
+      },
+      "actions": {
+        "en": "Maintain long-term population monitoring, reduce indiscriminate poison and persecution, manage large roost conflicts without harming birds, and track disease impacts and recovery.",
+        "zh": "应持续长期种群监测，减少不加选择的毒杀和扑杀，以不伤害鸟类的方式处理大型夜栖群冲突，并追踪疾病影响及恢复。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A large all-black bird with a heavy straight bill, fairly short square or rounded tail, broad rounded wings and a familiar full-throated caw.",
+        "zh": "大型全黑鸟，喙粗直，尾较短且末端方形或圆形，翼宽圆，并常发出洪亮的“caw”叫声。"
+      },
+      "similar_species": {
+        "en": "Common ravens are larger with a heavier bill, shaggy throat, longer wedge-shaped tail and more soaring flight. Fish crows are very similar and are often best separated by their more nasal voice.",
+        "zh": "渡鸦更大，喙更粗，喉羽蓬松，尾更长且呈楔形，飞行时更常滑翔。鱼鸦外观极相似，通常最好依据更鼻音化的叫声区分。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Crows use varied calls, body postures and social interactions. Loud caws maintain contact and recruit others to threats, while individuals learn to recognize recurring dangers and unusual food opportunities.",
+      "zh": "乌鸦使用多种叫声、身体姿势和社会互动。响亮的叫声既维持联系，也可召集同伴应对威胁；个体还能学会识别反复出现的危险和特殊食物机会。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding occurs in spring across much of the range. Family groups persist after fledging; in autumn and winter many birds gather at communal roosts, and northern populations may move south.",
+      "zh": "在分布区大部，美洲乌鸦于春季繁殖。幼鸟离巢后家庭群仍会维持；秋冬季许多个体聚集到公共夜栖地，北方种群还可能向南移动。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Crows thrive near people and can remove refuse and carrion, but large roosts, crop feeding and opened trash can cause conflict. Their intelligence and social lives also make them prominent in research and culture.",
+      "zh": "乌鸦善于在人类附近生活，可清除垃圾和腐肉，但大型夜栖群、取食作物和翻开垃圾也会引发冲突。它们的智慧和社会生活还使其成为科研与文化中的显著动物。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "American crows belong to Corvidae, the crow and jay family. Birds formerly called Northwestern Crows are now treated as part of the American Crow after evidence of extensive genetic mixing.",
+      "zh": "美洲乌鸦属于鸦科。过去被称为“西北乌鸦”的鸟，如今因广泛遗传混合证据而被并入美洲乌鸦。",
+      "source_keys": [
+        "taxonomy",
+        "identification"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for deliberate ground walking, rowing wingbeats, a short square tail and groups calling from exposed perches. Pellets, tracks and mixed food remains are not species-specific, so voice and shape are safer identification evidence.",
+      "zh": "可观察其从容的地面步行、划桨般振翅、短方尾，以及群体在开阔栖枝上鸣叫。食丸、足迹和混杂食物残余并非物种特有，因此叫声和体形是更可靠的辨认依据。",
+      "source_keys": [
+        "identification"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Young crows from earlier years may help their parents raise a new brood.",
+          "zh": "往年出生的年轻乌鸦可能帮助父母抚育新一窝幼鸟。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "Winter roosts can contain thousands to hundreds of thousands of crows.",
+          "zh": "冬季公共夜栖群可由数千乃至数十万只乌鸦组成。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "Old feathers may fade brownish, even though fresh American Crow plumage is entirely black.",
+          "zh": "旧羽可能褪成棕褐色，但美洲乌鸦的新鲜羽毛是全黑的。"
+        },
+        "source_keys": [
+          "identification"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Songbird intelligence",
+          "zh": "鸣禽智能"
+        },
+        "content": {
+          "en": "As a passerine with a complex social system, the American crow combines vocal learning, long memory and flexible problem-solving rather than relying on one fixed behavior.",
+          "zh": "作为具有复杂社会系统的雀形鸟，美洲乌鸦结合了声音学习、长期记忆和灵活解决问题的能力，而不是只依赖固定行为。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

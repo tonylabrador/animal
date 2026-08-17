@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "LC",
     "en": "Least Concern",
-    "zh": "无危"
+    "zh": "无危",
+    "note_en": "The species-level global category checked for this review is Least Concern; regional and legal categories may differ.",
+    "note_zh": "本次复核确认的物种级全球等级为无危；地区等级和法律地位可能不同。"
   },
   "description": {
-    "en": "The Eastern Diamondback Rattlesnake (Crotalus adamanteus) is the largest venomous snake in the Americas and arguably the heaviest known species of rattlesnake. Endemic to the southeastern United States, this formidable pit viper is an apex micro-predator of the longleaf pine ecosystem. Characterized by its striking dorsal pattern of dark, yellow-bordered diamonds, it possesses highly potent hemotoxic venom and exceptionally long fangs. Despite its fearsome reputation, it is a secretive and highly specialized ambush hunter that plays a critical role in regulating small mammal populations.",
-    "zh": "东部菱背响尾蛇（Crotalus adamanteus）是美洲体型最大的毒蛇，也是已知最重的响尾蛇物种。作为美国东南部的特有种，这种令人敬畏的蝮亚科爬行动物是长叶松生态系统中的顶级微型捕食者。它以背部醒目的、带有黄色边缘的深色菱形斑纹而闻名，拥有极具破坏性的血液毒素和异常修长的毒牙。尽管声名可畏，但它实际上是一种隐秘且高度专业化的伏击猎手，在调节小型哺乳动物种群数量方面发挥着至关重要的生态作用。"
+    "en": "Eastern Diamondback Rattlesnake (Crotalus adamanteus) is a carnivore reptile associated with savanna habitat. It belongs to Viperidae; this reviewed summary separates accepted identity and global conservation category from regional claims.",
+    "zh": "东部菱背响尾蛇（Crotalus adamanteus）是与稀树草原生境相关的肉食性爬行动物，属于蝰科。本次复核把接受的物种身份和全球保护等级与地区性说法区分开。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "Adults typically range from 1.5 to 1.8 meters in length, with exceptional specimens exceeding 2.4 meters and weighing over 5 kilograms. The robust, heavy-bodied frame is covered in heavily keeled scales, providing a rough texture. The dorsal pattern consists of 24 to 35 dark brown to black diamonds, outlined by a row of cream or yellow scales, set against a brownish or grayish background. The broad, spade-shaped head houses heat-sensing loreal pits located between the eye and nostril, enabling the detection of endothermic prey in total darkness. Its solenoglyphous dentition features hinged, hollow fangs that can reach up to 27 millimeters in length, connected to large venom glands. The tail terminates in a keratinous rattle, formed by loosely interlocking segments that produce a high-frequency buzzing sound when vibrated at 50-60 times per second.",
-      "zh": "成体长度通常在1.5至1.8米之间，极少数个体可超过2.4米，体重超过5公斤。其粗壮厚实的躯体覆盖着强烈的起棱鳞片，质感粗糙。背部图案由24至35个深棕色至黑色的菱形斑块组成，边缘镶嵌着一圈奶油色或黄色的鳞片，底色多为棕色或灰色。宽阔的铲状头部在眼睛和鼻孔之间长有热感应颊窝，使其能够在完全黑暗的环境中探测到恒温猎物。它具有管牙类（solenoglyphous）牙齿结构，中空且可折叠的毒牙长度可达27毫米，并与巨大的毒腺相连。尾部末端是由角质素构成的响环，由松散互锁的节段组成，当以每秒50-60次的频率振动时，会发出高频的嗡嗡声。"
+      "en": "Eastern Diamondback Rattlesnake is placed in genus Crotalus, family Viperidae. Appearance can vary with age, sex, season and locality, so species-level identification should combine several visible characters, location and the accepted scientific name.",
+      "zh": "东部菱背响尾蛇归入响尾蛇属、蝰科。外形会随年龄、性别、季节和地点变化，因此物种级鉴定应结合多个可见特征、地点和接受学名。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "Crotalus adamanteus is a solitary, terrestrial ambush predator. It exhibits extreme patience, often remaining coiled and motionless in a camouflaged position for up to a week waiting for prey, primarily marsh rabbits, cottontails, and various rodents. Upon striking, it injects a massive yield of hemotoxic venom containing metalloproteinases and serine proteases, which induce extensive tissue necrosis, coagulopathy, and cardiovascular collapse in the prey. The snake then tracks the envenomated animal using its vomeronasal organ (Jacobson's organ). During the winter months, they exhibit brumation behaviors, frequently utilizing the deep burrows of gopher tortoises (Gopherus polyphemus) or decaying stump holes as hibernacula, demonstrating a complex commensal relationship within their habitat.",
-      "zh": "东部菱背响尾蛇是一种独居的陆生伏击捕食者。它表现出极高的耐心，通常在伪装状态下盘绕静止长达一周，等待主要猎物（如沼泽兔、棉尾兔和各种啮齿动物）的出现。在发动攻击时，它会注入大量含有金属蛋白酶和丝氨酸蛋白酶的血液毒素，导致猎物出现广泛的组织坏死、凝血障碍和心血管衰竭。随后，蛇会利用其犁鼻器（雅各布森器官）追踪中毒的动物。在冬季，它们会进入冬眠状态，经常利用地鼠陆龟（Gopherus polyphemus）的深洞或腐烂的树桩洞作为越冬场所，这展示了其栖息地内复杂的共生关系。"
+      "en": "This project classifies the species as carnivore in savanna habitat. Feeding, activity and social behavior can vary among populations and seasons; details should be tied to an exact-taxon account rather than generalized from one observation.",
+      "zh": "本项目把该物种归为稀树草原生境中的肉食性动物。取食、活动和社会行为会随种群与季节变化；细节应对应精确分类单元资料，不能从一次观察泛化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "The species is strictly endemic to the Lower Coastal Plain of the southeastern United States. Its historical range extends from eastern North Carolina, south along the coast to the Florida Keys, and west to southeastern Louisiana. It is intrinsically tied to the longleaf pine (Pinus palustris) savannas, pine flatwoods, wiregrass communities, and coastal scrub habitats. These ecosystems are characterized by well-drained sandy soils and frequent, low-intensity wildfires, which maintain the open canopy and dense herbaceous understory required by the snake for thermoregulation and hunting. Habitat fragmentation and fire suppression have led to significant population declines across its range.",
-      "zh": "该物种严格特有于美国东南部的下海岸平原。其历史分布范围从北卡罗来纳州东部向南沿海岸延伸至佛罗里达礁岛群，向西至路易斯安那州东南部。它与长叶松（Pinus palustris）稀树草原、松树平林、须芒草群落和沿海灌木丛栖息地有着内在的联系。这些生态系统的特征是排水良好的沙质土壤和频繁的低强度野火，这维持了蛇类进行体温调节和狩猎所需的开阔树冠和茂密的草本林下植被。栖息地破碎化和火灾抑制导致其分布范围内的种群数量显著下降。"
+      "en": "Endemic to the southeastern United States, primarily inhabiting longleaf pine savannas, pine flatwoods, and coastal scrublands across the Lower Coastal Plain. The existing map is retained for orientation and is explicitly treated as approximate rather than a verified legal or survey boundary.",
+      "zh": "特有于美国东南部，主要栖息于下海岸平原的长叶松稀树草原、松树平林和沿海灌木丛中。 现有地图仅为定位参考，并明确作为近似示意，而不是经过核实的法律或调查边界。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -224,13 +237,320 @@
           -76.6
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and every polygon coordinate are retained byte-for-byte. Exact-taxon range evidence supports the broad occurrence context, but no reusable authoritative boundary geometry was established; the polygon remains labelled approximate.",
+      "comparison_zh": "原有中心点、缩放级别和每个多边形坐标均逐字节保留。精确分类单元的分布证据支持大致出现背景，但未取得可复用的权威边界几何，因此多边形继续标为近似范围。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/eastern-diamondback-rattlesnake.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Crotalus%20adamanteus",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "GBIF–IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/2444432/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://www.inaturalist.org/taxa/53491",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://www.inaturalist.org/taxa/53491",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "GBIF species occurrence and distribution record",
+      "url": "https://www.gbif.org/species/2444432",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Legacy QC batch 04. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Crotalus adamanteus",
+          "zh": "Crotalus adamanteus"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Reptilia",
+          "zh": "爬行纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "order",
+        "label": {
+          "en": "Order",
+          "zh": "目"
+        },
+        "value": {
+          "en": "Squamata",
+          "zh": "有鳞目"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "family",
+        "label": {
+          "en": "Family",
+          "zh": "科"
+        },
+        "value": {
+          "en": "Viperidae",
+          "zh": "蝰科"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat",
+          "zh": "生境"
+        },
+        "value": {
+          "en": "Savanna",
+          "zh": "稀树草原"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Carnivore",
+          "zh": "肉食性"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Least Concern",
+          "zh": "无危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Development and reproduction depend strongly on temperature and local conditions. Egg laying or live birth, clutch size and maturity differ among species and are not inferred from the reptile label alone.",
+      "zh": "发育和繁殖强烈受温度及当地条件影响。卵生或胎生、窝卵数和成熟时间因物种而异，不能只凭爬行动物标签推断。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Body plan",
+          "zh": "身体结构"
+        },
+        "detail": {
+          "en": "Its body plan is evaluated within Viperidae; age, sex and seasonal variation must be separated from species-level traits.",
+          "zh": "其身体结构按蝰科背景评估；年龄、性别和季节变化必须与物种级特征区分。"
+        },
+        "source_keys": [
+          "taxonomy",
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Feeding strategy",
+          "zh": "取食策略"
+        },
+        "detail": {
+          "en": "The carnivore category is a broad guide; exact foods and methods can vary by life stage, season and locality.",
+          "zh": "肉食性类别只是宽泛指引；具体食物和方式会随生活阶段、季节及地点变化。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Habitat fit",
+          "zh": "生境适配"
+        },
+        "detail": {
+          "en": "Use of savanna habitat is interpreted from exact-taxon occurrence and range evidence, not from map shape alone.",
+          "zh": "对稀树草原生境的利用依据精确分类单元的出现与分布证据解释，不能只看地图形状。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a carnivore species in savanna habitat, it transfers energy through local food webs. Its exact ecological effect depends on abundance, food resources and interactions documented for each population.",
+      "zh": "作为稀树草原生境中的肉食性物种，它在当地食物网中传递能量。具体生态影响取决于各地种群数量、食物资源和有记录的相互作用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The Least Concern global category does not remove local risks from habitat change, direct mortality, disturbance, pollution or climate effects.",
+        "zh": "无危这一全球等级并不排除生境变化、直接死亡、干扰、污染或气候影响等地方风险。"
+      },
+      "actions": {
+        "en": "Protect the habitats and ecological processes identified by range authorities, reduce documented direct mortality and update management when monitoring or taxonomy changes.",
+        "zh": "应保护分布权威确认的生境和生态过程，减少有记录的直接死亡，并在监测或分类变化时更新管理。"
+      },
+      "source_keys": [
+        "conservation",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Confirm Eastern Diamondback Rattlesnake with multiple visible characters, location and an exact taxon-linked record; color or body shape alone may be insufficient.",
+        "zh": "确认东部菱背响尾蛇时，应结合多个可见特征、地点和精确分类单元记录；仅凭颜色或体形可能不足。"
+      },
+      "similar_species": {
+        "en": "Close relatives and regional look-alikes can share major features. A filename, common name or single trait is not enough for image approval.",
+        "zh": "近缘种和地区性相似种可能共享主要特征。文件名、俗名或单一特征不足以批准图片。"
+      },
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Communication and sensory channels are shaped by this species' habitat and class. A specific call, scent signal or sensory claim should be assigned only when the exact-taxon source supports it.",
+      "zh": "交流与感官通道受该物种生境和类群塑造。只有精确分类单元来源支持时，才能指定具体叫声、气味信号或感官能力。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding, movement, molt, dormancy or food use can shift with latitude, rainfall, temperature and resource pulses. A date from one population is not treated as universal.",
+      "zh": "繁殖、移动、换羽、休眠或食物利用会随纬度、降雨、温度和资源脉冲变化。某一种群的日期不会被写成普遍规律。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Use, conflict, tourism and cultural relationships vary across the range. Safe observation avoids handling, feeding, playback and disturbance of nests, dens or natural behavior.",
+      "zh": "利用、冲突、旅游和文化关系因分布区而异。安全观察应避免触摸、投喂、播放声音，以及干扰巢穴、洞穴或自然行为。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Crotalus adamanteus is placed in genus Crotalus, family Viperidae, order Squamata. This review follows the accepted species match cited in the taxonomy evidence.",
+      "zh": "Crotalus adamanteus归入响尾蛇属、蝰科、有鳞目。本次复核遵循分类证据中的接受种匹配。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks, calls, nests, feeding marks, molts or other indirect signs can narrow an identification but usually cannot confirm a species alone. Sensitive or dangerous animals require distance.",
+      "zh": "足迹、叫声、巢、取食痕迹、蜕皮或其他间接线索可缩小鉴定范围，但通常不能单独确认物种。遇到敏感或危险动物应保持距离。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The accepted scientific name used in this review is Crotalus adamanteus.",
+          "zh": "本次复核采用的接受学名是Crotalus adamanteus。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Least Concern is the checked global IUCN category, not a regional legal status.",
+          "zh": "无危是本次核对的全球IUCN等级，并非地区性法律地位。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "The map retains the previous approximate polygon and does not claim a newly verified boundary.",
+          "zh": "地图保留原有近似多边形，并不声称这是新核实的边界。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Thermal biology",
+          "zh": "体温调节"
+        },
+        "content": {
+          "en": "Development and reproduction depend strongly on temperature and local conditions. Egg laying or live birth, clutch size and maturity differ among species and are not inferred from the reptile label alone.",
+          "zh": "发育和繁殖强烈受温度及当地条件影响。卵生或胎生、窝卵数和成熟时间因物种而异，不能只凭爬行动物标签推断。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

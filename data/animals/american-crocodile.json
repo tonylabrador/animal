@@ -22,7 +22,7 @@
       "zh": "爬行纲"
     },
     "order": {
-      "en": "Crocodilia",
+      "en": "Crocodylia",
       "zh": "鳄目"
     },
     "family": {
@@ -37,24 +37,38 @@
   "conservation_status": {
     "code": "VU",
     "en": "Vulnerable",
-    "zh": "易危"
+    "zh": "易危",
+    "note_en": "The current global IUCN assessment lists the American crocodile as Vulnerable; recovery is uneven across its broad coastal range.",
+    "note_zh": "当前IUCN全球评估将美洲鳄列为易危；其广阔沿海分布区内的恢复情况并不均衡。"
   },
   "description": {
-    "en": "The American crocodile (Crocodylus acutus) is a highly adaptable, apex neotropical crocodilian distinguished by its pronounced V-shaped snout and remarkable osmoregulatory capabilities. Unlike the American alligator, this species possesses specialized lingual salt glands that allow it to thrive in hypersaline environments such as mangrove estuaries, coastal lagoons, and offshore cays. Reaching lengths of up to 6.1 meters in exceptional cases, it exhibits a pale grayish-green dorsum with dark banding, providing optimal camouflage in murky, brackish waters. As a keystone predator, it regulates prey populations and maintains the ecological balance of complex coastal wetlands across the Americas.",
-    "zh": "美洲鳄（Crocodylus acutus）是一种高度适应新热带环境的顶级掠食性鳄类，以其明显的V型吻部和卓越的渗透压调节能力而著称。与美洲短吻鳄不同，该物种舌下拥有特化的盐腺，使其能够在红树林河口、沿海潟湖和近海珊瑚礁等高盐度环境中繁衍生息。在极端情况下，其体长可达6.1米，背部呈浅灰绿色并伴有深色条纹，在浑浊的半咸水中提供了绝佳的伪装。作为基石捕食者，美洲鳄通过调节猎物种群数量，维持着美洲各地复杂沿海湿地生态系统的平衡。"
+    "en": "The American crocodile is a large, long-snouted crocodilian of tropical American coasts, rivers and lagoons. Functional salt glands let it use brackish and marine-influenced habitats, while protection of nesting and wetland habitat has allowed some populations to recover.",
+    "zh": "美洲鳄是生活在热带美洲海岸、河流和潟湖的大型长吻鳄类。功能性盐腺使它能利用半咸水和受海水影响的生境；保护巢址和湿地已使部分种群得到恢复。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "Characterized by a narrow, acutely tapered rostrum, the American crocodile displays the classic crocodilid trait where the fourth mandibular tooth remains visible when the jaws are closed. Its integument is heavily armored with dorsal osteoderms, though less symmetrically arranged than in other species. The presence of functional salt glands beneath the tongue facilitates the excretion of excess sodium, a critical adaptation for marine and brackish habitats. Its powerful, laterally compressed tail propels it with explosive speed, while sensory pits along the jawline detect minute hydrostatic pressure changes caused by prey movement.",
-      "zh": "美洲鳄的特征是其狭窄且急剧收缩的吻部，并展现出经典的鳄科特征：闭颌时下颌第四齿清晰可见。其体表覆盖着厚重的背部皮内成骨（骨板），尽管排列不如其他物种对称。舌下功能性盐腺的存在促进了多余钠的排泄，这是其适应海洋和半咸水栖息地的关键进化。其强壮且侧扁的尾巴能提供爆发性的推进力，而沿着颌骨边缘的感觉窝则能探测到由猎物移动引起的微小静水压力变化。"
+      "en": "Adults have a relatively narrow V-shaped snout, a visible fourth lower tooth when the mouth is closed, armored dorsal skin and a powerful laterally flattened tail. Large males may exceed 4 m, while females are generally smaller.",
+      "zh": "成体吻部较窄并呈V形，闭口时可见下颌第四齿，背部皮肤有骨板，尾巴强壮且侧扁。大型雄鳄可超过4米，雌鳄通常较小。",
+      "source_keys": [
+        "general",
+        "identification"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "As a predominantly nocturnal ambush predator, C. acutus exhibits a diverse ontogenetic dietary shift, progressing from aquatic invertebrates and small fish in its juvenile stage to larger teleosts, turtles, birds, and occasionally terrestrial mammals as an adult. It is an ectotherm that relies on precise behavioral thermoregulation, frequently observed basking on muddy banks with its jaws agape to facilitate evaporative cooling. Reproduction involves complex courtship displays, followed by the construction of hole or mound nests. Sex determination is strictly temperature-dependent, with incubation temperatures dictating the sex ratio of the hatchlings.",
-      "zh": "作为一种主要在夜间活动的伏击型捕食者，美洲鳄表现出明显的个体发育食性转变：幼年期主要捕食水生无脊椎动物和小型鱼类，成年后则捕食大型真骨鱼类、龟类、鸟类，偶尔也捕食陆生哺乳动物。作为变温动物，它依赖精确的行为体温调节，常被观察到在泥岸上张嘴晒太阳以促进蒸发散热。其繁殖过程包括复杂的求偶炫耀，随后在沙地或泥土中挖掘洞穴或筑巢。性别决定严格依赖于温度，孵化温度直接决定了幼鳄的性别比例。"
+      "en": "Juveniles eat aquatic invertebrates and small fish; larger animals take fish, crustaceans, turtles, birds and mammals. They regulate body temperature by moving between water, shade and basking sites and by holding the mouth open for cooling.",
+      "zh": "幼鳄取食水生无脊椎动物和小鱼；较大个体会捕食鱼、甲壳动物、龟、鸟和哺乳动物。它们在水中、阴影和晒背地点之间移动，并张口散热以调节体温。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "The species boasts the most extensive distribution of any New World crocodilian, spanning the Atlantic and Pacific coasts of southern Mexico, Central America, and northern South America, extending as far south as Peru and Venezuela. It also maintains significant insular populations across the Greater Antilles, including Cuba, Jamaica, and Hispaniola, alongside a northernmost remnant population in the estuarine networks of southern Florida. It exhibits a strong preference for coastal habitats, particularly mangrove swamps, river mouths, and salt pans, though it occasionally ventures into freshwater reservoirs and inland river systems.",
-      "zh": "该物种是新大陆鳄类中分布最广的，横跨墨西哥南部、中美洲和南美洲北部（最南至秘鲁和委内瑞拉）的大西洋和太平洋海岸。它在大安的列斯群岛（包括古巴、牙买加和伊斯帕尼奥拉岛）也拥有重要的岛屿种群，并在佛罗里达州南部的河口水网中保留了最北端的种群。它对沿海栖息地表现出强烈的偏好，尤其是红树林沼泽、河口和盐田，尽管有时也会进入淡水水库和内陆河流系统。"
+      "en": "The range extends from southern Florida and Mexico through Central America, the Caribbean and northern South America on both Atlantic and Pacific watersheds. Mangroves, estuaries, lagoons, lower rivers and some inland lakes are important habitats.",
+      "zh": "其分布从佛罗里达南部和墨西哥，经中美洲、加勒比地区延伸至南美洲北部，横跨大西洋和太平洋水系。红树林、河口、潟湖、河流下游及部分内陆湖泊都是重要生境。",
+      "source_keys": [
+        "range",
+        "conservation"
+      ]
     }
   },
   "habitat": {
@@ -422,13 +436,310 @@
           -97
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and polygon coordinates are retained exactly. Authoritative text sources support the broad distribution, but reusable authoritative boundary geometry was not available; the polygons are labelled as retained approximate legacy ranges, not verified boundaries.",
+      "comparison_zh": "原有中心点、缩放和多边形坐标完全保留。权威文字来源支持其大致分布，但未获得可复用的权威边界几何，因此多边形标为保留的原有近似范围，而非已核实边界。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/american-crocodile.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "Smithsonian Ocean",
+      "url": "https://ocean.si.edu/ocean-life/reptiles/american-crocodile",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Crocodylus_acutus/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Crocodylus_acutus/",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN SSC Crocodile Specialist Group",
+      "url": "https://www.iucncsg.org/365_docs/attachments/protarea/3db123987ba4130f88fcfc5af927aab6.pdf",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Smithsonian Ocean",
+      "url": "https://ocean.si.edu/ocean-life/reptiles/american-crocodile",
+      "checked_at": "2026-08-16"
+    },
+    "identification": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Crocodylus_acutus/",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, taxonomy, protection status, numerical claims, English/Chinese scope and preserved legacy map geometry were checked for legacy QC batch 02."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "adult_length",
+        "label": {
+          "en": "Adult length",
+          "zh": "成体体长"
+        },
+        "value": {
+          "en": "Often about 2.5–4 m; large males may exceed 4 m",
+          "zh": "通常约2.5–4米；大型雄鳄可超过4米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Fish and other aquatic or shoreline animals",
+          "zh": "鱼类及其他水生或岸边动物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "clutch",
+        "label": {
+          "en": "Clutch",
+          "zh": "每窝卵数"
+        },
+        "value": {
+          "en": "Roughly 30–60 eggs",
+          "zh": "约30–60枚"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "incubation",
+        "label": {
+          "en": "Incubation",
+          "zh": "孵化期"
+        },
+        "value": {
+          "en": "About 9–10 weeks",
+          "zh": "约9–10周"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Typical habitat",
+          "zh": "典型生境"
+        },
+        "value": {
+          "en": "Mangroves, estuaries, lagoons and rivers",
+          "zh": "红树林、河口、潟湖和河流"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Vulnerable",
+          "zh": "易危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Courtship occurs in water. Females excavate hole nests or use mounds above flood level and lay roughly 30–60 eggs. Incubation lasts about 9–10 weeks; hatchling sex is influenced by nest temperature, and females may guard nests and help young reach water.",
+      "zh": "求偶在水中进行。雌鳄在洪水线以上挖穴或利用堆巢，产约30–60枚卵。孵化约需9–10周；幼鳄性别受巢温影响，雌鳄可能守巢并帮助幼体到达水中。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Salt glands",
+          "zh": "盐腺"
+        },
+        "detail": {
+          "en": "Lingual salt glands excrete excess salts and support use of brackish and coastal habitats.",
+          "zh": "舌部盐腺能排出多余盐分，帮助其利用半咸水和沿海生境。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Pressure-sensitive jaws",
+          "zh": "颌部压力感受"
+        },
+        "detail": {
+          "en": "Sensory organs around the jaws detect small water movements made by prey.",
+          "zh": "颌部周围的感觉器官能探测猎物造成的微小水流。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Behavioral thermoregulation",
+          "zh": "行为性体温调节"
+        },
+        "detail": {
+          "en": "Basking, shade seeking and open-mouth cooling keep body temperature within a workable range.",
+          "zh": "晒背、寻找阴影和张口散热使体温保持在可活动范围。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a large aquatic predator, the American crocodile links fish, shoreline animals and wetland food webs. Nest digging and movement also disturb small patches of sediment, though ecological effects vary by habitat and population density.",
+      "zh": "作为大型水生捕食者，美洲鳄连接鱼类、岸边动物和湿地食物网；挖巢和移动也会扰动小片沉积物，但生态影响会随生境和种群密度变化。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "increasing",
+      "threats": {
+        "en": "Historic skin hunting caused major declines. Current threats include wetland loss, coastal development, nest disturbance, road mortality, entanglement, pollution and conflict with people.",
+        "zh": "历史上的皮革猎捕造成严重下降。当前威胁包括湿地丧失、沿海开发、巢址干扰、道路死亡、缠网、污染及人鳄冲突。"
+      },
+      "actions": {
+        "en": "Protect mangroves, lagoons, nesting beaches and freshwater refuges; reduce disturbance and entanglement; maintain legal protection; and use local monitoring and conflict-response programs.",
+        "zh": "应保护红树林、潟湖、筑巢岸滩和淡水避难地，减少干扰与缠网，维持法律保护，并开展当地监测和冲突应对。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A relatively pale crocodilian with a long narrow V-shaped snout; the fourth lower tooth remains visible when the jaws are closed.",
+        "zh": "体色相对较浅，吻部长而窄、呈V形；闭口时下颌第四齿仍可见。"
+      },
+      "similar_species": {
+        "en": "American alligators have a broader U-shaped snout and usually hide lower teeth when the mouth is closed. Morelet's and Cuban crocodiles can overlap regionally, so exact identification should also use location and expert morphology.",
+        "zh": "美洲短吻鳄吻部更宽、呈U形，闭口时通常看不到下齿。莫瑞雷鳄和古巴鳄在部分地区可能重叠，因此精确鉴定还应结合地点和专家形态判断。"
+      },
+      "source_keys": [
+        "identification",
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Adults use head slaps, water vibration, posture, vocalizations and chemical cues during courtship and territorial interactions. Hatchlings call from the nest, which can stimulate maternal attention.",
+      "zh": "成鳄在求偶和领地互动中使用拍头、水面振动、姿势、叫声和化学线索；幼鳄会从巢中发声，可促使母鳄关注。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Nesting is timed to local dry and wet seasons so nests remain above water while hatchlings later gain access to productive wetlands. Timing differs across the wide tropical range.",
+      "zh": "筑巢会配合当地干湿季，使巢在孵化期间高于水面，而幼体之后能进入生产力较高的湿地；其广大热带分布区内时间并不一致。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Recovery near developed coasts creates both conservation success and safety challenges. Never feed or approach crocodiles, keep pets away from shorelines and follow local closures and wildlife-agency instructions.",
+      "zh": "沿开发海岸的恢复既是保护成功，也带来安全挑战。绝不能投喂或靠近鳄鱼，应让宠物远离岸边，并遵守当地封闭规定和野生动物机构指示。",
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Crocodylus acutus belongs to Crocodylidae, the true crocodiles. Its salt tolerance and coastal dispersal distinguish its ecology from many freshwater-centered crocodilians, but do not make it a fully marine reptile.",
+      "zh": "美洲鳄属于鳄科真鳄类。其耐盐能力和沿海扩散生态有别于许多以淡水为主的鳄类，但它并不是完全海生的爬行动物。",
+      "source_keys": [
+        "taxonomy",
+        "range"
+      ]
+    },
+    "field_signs": {
+      "en": "Broad slide marks, large clawed tracks, basking sites and nests above the waterline may indicate crocodilian use. These signs are not species-specific; observe only from a safe distance and report nests to local managers.",
+      "zh": "宽阔滑痕、大型带爪足迹、晒背点和高于水线的巢可能显示鳄类活动。这些痕迹并非物种特异；只能在安全距离观察，并向当地管理人员报告巢址。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "American crocodiles can live in fresh, brackish and marine-influenced water because they can excrete excess salt.",
+          "zh": "美洲鳄能生活在淡水、半咸水和受海水影响的水域，因为它们能排出多余盐分。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A global Vulnerable category does not mean every local population is declining; some protected populations are recovering.",
+          "zh": "全球易危等级并不表示每个地方种群都在下降；部分受保护种群正在恢复。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "Nest temperature influences the sex of developing hatchlings.",
+          "zh": "巢温会影响发育中幼鳄的性别。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Reptile thermoregulation",
+          "zh": "爬行动物体温调节"
+        },
+        "content": {
+          "en": "As an ectotherm, the crocodile controls heat mainly through location and posture—moving between sun, shade and water and using open-mouth cooling rather than generating constant internal heat.",
+          "zh": "作为变温动物，美洲鳄主要通过地点和姿势控制热量：在阳光、阴影和水中移动，并用张口散热，而不是持续产生内部热量。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "EN",
     "en": "Endangered",
-    "zh": "濒危"
+    "zh": "濒危",
+    "note_en": "The species-level global assessment is Endangered with a decreasing population; it is assessed separately from the African forest elephant.",
+    "note_zh": "该物种的全球等级为濒危且种群下降；评估与非洲森林象分开进行。"
   },
   "description": {
-    "en": "The African bush elephant is the largest living land animal in the world, known for its enormous ears and long trunk.",
-    "zh": "非洲草原象是世界上最大的现存陆地动物，以其巨大的耳朵和长长的鼻子而闻名。"
+    "en": "The African bush elephant is the largest living land animal and a wide-ranging engineer of African savannas and woodlands. Its trunk, tusks, social memory and ability to reshape vegetation connect daily survival with landscape-scale ecological effects.",
+    "zh": "非洲草原象是现存最大的陆生动物，也是非洲稀树草原和林地中活动范围广泛的生态工程师。象鼻、象牙、社会记忆和改变植被的能力，使其日常生存与景观尺度的生态影响相连。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "African bush elephants are massive, weighing up to 6,000 kilograms! They have huge ears shaped like the continent of Africa, which help them stay cool in the hot sun. Their long trunk is actually a nose and upper lip joined together, used for breathing, drinking, and grabbing food.",
-      "zh": "非洲草原象体型巨大，体重可达6000公斤！它们巨大的耳朵形状像非洲大陆，能帮它们在烈日下散热。它们长长的鼻子其实是鼻子和上唇连在一起的，用来呼吸、喝水和抓取食物。"
+      "en": "Adults vary greatly; large males may approach 4 m at the shoulder and about 6000 kg, while females are smaller. The trunk combines nose and upper lip, large ears dissipate heat, and both sexes can carry tusks.",
+      "zh": "成体差异很大；大型雄象肩高可接近4米、体重约6000千克，雌象较小。象鼻由鼻和上唇结合而成，大耳帮助散热，雌雄均可能长有象牙。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "These gentle giants eat grasses, leaves, and bark, spending up to 18 hours a day feeding. They live in close-knit family groups led by an older, wise female called a matriarch. Elephants are very smart and can communicate with each other using low rumbles that travel far underground.",
-      "zh": "这些温和的庞然大物吃草、树叶和树皮，每天花长达18个小时进食。它们生活在紧密的家庭群体中，由一只年长聪明的雌象（称为女族长）带领。大象非常聪明，能用在地下传播得很远的低沉隆隆声相互交流。"
+      "en": "Family groups of related females and young are led by experienced matriarchs; adult males are more independent. Elephants eat grasses, leaves, bark, roots and fruit, move between water and forage, and communicate with audible calls and low-frequency rumbles.",
+      "zh": "有亲缘关系的雌象和幼象组成家庭群，由经验丰富的母象带领；成年雄象更独立。它们取食草、叶、树皮、根和果实，在水源与食物地之间移动，并通过可听叫声和低频隆隆声交流。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "They roam across the grassy savannas, woodlands, and deserts of Sub-Saharan Africa. They need to live near water sources because they drink up to 190 liters of water a day. Sadly, they are threatened by habitat loss and poaching for their ivory tusks.",
-      "zh": "它们漫步在撒哈拉以南非洲的稀树草原、林地和沙漠中。它们必须住在水源附近，因为每天要喝多达190升的水。遗憾的是，它们正受到栖息地丧失和为获取象牙而进行盗猎的威胁。"
+      "en": "The species occurs patchily across sub-Saharan Africa in savanna, grassland, woodland, scrub and some desert-edge habitats where enough water and forage remain.",
+      "zh": "该物种在撒哈拉以南非洲呈斑块状分布，利用稀树草原、草地、林地、灌丛和部分沙漠边缘生境，但必须有足够水源和食物。",
+      "source_keys": [
+        "range",
+        "conservation"
+      ]
     }
   },
   "habitat": {
@@ -108,13 +121,302 @@
           -16
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and polygon coordinates are retained exactly. Authoritative text supports the broad distribution, but reusable authoritative boundary geometry was unavailable; the legacy polygon is labelled approximate, not verified.",
+      "comparison_zh": "原有中心点、缩放和多边形坐标完全保留。权威文字支持大致分布，但未获得可复用的权威边界几何；原多边形标为近似范围，而非已核实边界。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/african-bush-elephant.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Loxodonta%20africana",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "GBIF IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/2435350/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Loxodonta_africana/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Loxodonta_africana/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Loxodonta_africana/",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, current global status, numeric claims, bilingual scope and unchanged legacy map geometry checked for legacy QC batch 03A."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "height",
+        "label": {
+          "en": "Shoulder height",
+          "zh": "肩高"
+        },
+        "value": {
+          "en": "Up to about 4 m in large males",
+          "zh": "大型雄象可达约4米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Body mass",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "Up to about 6000 kg in large males",
+          "zh": "大型雄象可达约6000千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Grasses, browse, bark, roots and fruit",
+          "zh": "草、嫩枝叶、树皮、根和果实"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "gestation",
+        "label": {
+          "en": "Gestation",
+          "zh": "妊娠期"
+        },
+        "value": {
+          "en": "About 22 months",
+          "zh": "约22个月"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "young",
+        "label": {
+          "en": "Young",
+          "zh": "每胎幼崽"
+        },
+        "value": {
+          "en": "Usually 1 calf",
+          "zh": "通常1头"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Endangered",
+          "zh": "濒危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "After about 22 months of gestation, a female usually bears 1 calf. Calves nurse for years and learn routes, foods, hazards and social behavior within the maternal family; females reproduce slowly, so adult mortality has long effects.",
+      "zh": "雌象妊娠约22个月后通常产下1头幼崽。幼象哺乳多年，并在母系家庭中学习路线、食物、危险和社会行为；雌象繁殖缓慢，因此成体死亡会造成长期影响。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Versatile trunk",
+          "zh": "多功能象鼻"
+        },
+        "detail": {
+          "en": "Muscular control supports smelling, breathing, drinking, touching, calling and precise food handling.",
+          "zh": "复杂肌肉控制使象鼻可用于嗅闻、呼吸、饮水、触摸、发声和精细取食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Heat-dissipating ears",
+          "zh": "散热大耳"
+        },
+        "detail": {
+          "en": "A large blood-supplied surface helps release body heat when the ears are fanned.",
+          "zh": "布满血管的大面积耳廓在扇动时有助于释放体热。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Social knowledge",
+          "zh": "社会性知识"
+        },
+        "detail": {
+          "en": "Long-lived matriarchs retain information about water, routes and danger that benefits the family.",
+          "zh": "长寿母象能保留水源、路线和危险信息，使家庭群受益。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Elephants open woody vegetation, disperse large seeds, dig for water and minerals, create trails and move nutrients in dung. These changes can benefit some species while heavy local use can also reduce trees.",
+      "zh": "大象会开辟木本植被、传播大型种子、挖掘水和矿物质、形成路径并通过粪便转移养分。这些改变可使一些物种受益，但局部高强度利用也会减少树木。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Ivory poaching, habitat conversion, fragmentation and conflict around crops and water continue to reduce or isolate populations.",
+        "zh": "象牙盗猎、生境转化与破碎化，以及围绕作物和水源的人象冲突，仍在减少或隔离种群。"
+      },
+      "actions": {
+        "en": "Protect connected landscapes and migration routes, stop illegal ivory trade, support locally designed conflict prevention and monitor populations separately from forest elephants.",
+        "zh": "应保护连通景观和迁移通道，遏止非法象牙贸易，支持因地制宜的人象冲突预防，并与森林象分开监测。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Very large elephant with broad Africa-shaped ears, a saddle-shaped back profile and tusks that may occur in both sexes.",
+        "zh": "体型巨大，耳廓宽大近似非洲轮廓，背线略呈鞍形，雌雄均可能有象牙。"
+      },
+      "similar_species": {
+        "en": "African forest elephants are smaller, have rounder ears and straighter downward-pointing tusks. Hybrids occur, so difficult regional records may require genetics rather than appearance alone.",
+        "zh": "非洲森林象较小，耳更圆，象牙更直且向下。两者存在杂交，困难地区记录可能需要遗传证据，不能只看外形。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Rumbles, trumpets, touch, posture, scent and seismic vibrations carry information about identity, reproductive state, danger and group movement.",
+      "zh": "隆隆声、号叫、触碰、姿势、气味和地面振动可传递身份、繁殖状态、危险和群体移动信息。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Rainfall shifts the location of water and forage, driving seasonal movements and aggregation. Reproduction can occur year-round, but food conditions influence conception and calf survival.",
+      "zh": "降雨会改变水源和食物位置，推动季节性移动与聚集。全年均可繁殖，但食物条件会影响受孕和幼象存活。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Elephants support tourism and hold major cultural importance, but crop damage and competition for water can be severe. Safe coexistence depends on distance, early warning, protected corridors and local response systems.",
+      "zh": "大象支撑旅游业并具有重要文化意义，但毁坏作物和争夺水源可能很严重。安全共存依赖保持距离、预警、保护通道和当地响应体系。",
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Loxodonta africana is one of 2 living African elephant species recognized in current global assessments; splitting it from L. cyclotis clarifies their different ecology and risk.",
+      "zh": "现行全球评估承认2种现生非洲象；把非洲草原象与非洲森林象分开，有助于明确两者不同的生态和风险。",
+      "source_keys": [
+        "taxonomy",
+        "conservation"
+      ]
+    },
+    "field_signs": {
+      "en": "Huge round tracks, fibrous dung, stripped bark, broken branches, trails and fresh digging may show elephant use. Signs can remain after animals move, so never approach without local guidance.",
+      "zh": "巨大圆形足迹、纤维状粪便、剥落树皮、折断枝条、通道和新鲜挖痕可显示大象活动；痕迹可在动物离开后保留，切勿在无当地指导时靠近。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The trunk has no bones but performs both powerful and delicate tasks.",
+          "zh": "象鼻没有骨骼，却能同时完成强力和精细动作。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Low-frequency calls can travel farther than ordinary human conversation.",
+          "zh": "低频叫声的传播距离可远于普通人声。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Forest and bush elephants now receive separate global Red List assessments.",
+          "zh": "森林象和草原象现已接受分开的全球红色名录评估。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Matrilineal society",
+          "zh": "母系社会"
+        },
+        "content": {
+          "en": "Females remain with relatives while males gradually leave; calf care, collective defense and accumulated matriarch knowledge make the family a long-term survival system.",
+          "zh": "雌象留在亲属群中，雄象逐渐离开；幼崽照料、集体防御和母象积累的知识，使家庭群成为长期生存系统。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

@@ -10,9 +10,18 @@
 
 ### 偶蹄目
 
+**牛科**
+
+- 旋角羚 / Addax — *Addax nasomaculatus* `addax`
+- 非洲水牛 / African Buffalo — *Syncerus caffer* `african-buffalo`
+
 **猪科**
 
 - 野猪 / Wild Boar — *Sus scrofa* `wild-boar`
+
+**骆驼科**
+
+- 羊驼 / Alpaca — *Vicugna pacos* `alpaca`
 
 ### 兔形目
 
@@ -334,10 +343,6 @@
 - 白鲸 / Beluga Whale — *Delphinapterus leucas* `beluga-whale`
 - 独角鲸 / Narwhal — *Monodon monoceros* `narwhal`
 
-**亚河豚科**
-
-- 亚河豚 / Amazon River Dolphin — *Inia geoffrensis* `amazon-river-dolphin`
-
 **叉角羚科**
 
 - 叉角羚 / Pronghorn — *Antilocapra americana* `pronghorn`
@@ -361,8 +366,6 @@
 
 **牛科**
 
-- 旋角羚 / Addax — *Addax nasomaculatus* `addax`
-- 非洲水牛 / African Buffalo — *Syncerus caffer* `african-buffalo`
 - 美洲野牛 / American Bison — *Bison bison* `american-bison`
 - 大角羊 / Bighorn Sheep — *Ovis canadensis* `bighorn-sheep`
 - 牛 / Domestic Cow — *Bos taurus* `domestic-cow`
@@ -394,7 +397,6 @@
 
 **骆驼科**
 
-- 羊驼 / Alpaca — *Vicugna pacos* `alpaca`
 - 双峰骆驼 / Bactrian Camel — *Camelus bactrianus* `bactrian-camel`
 - 单峰骆驼 / Dromedary Camel — *Camelus dromedarius* `dromedary-camel`
 - 原驼 / Guanaco — *Lama guanicoe* `guanaco`
@@ -419,6 +421,12 @@
 - 港湾鼠海豚 / Harbor Porpoise — *Phocoena phocoena* `harbor-porpoise`
 - 小头鼠海豚 / Vaquita — *Phocoena sinus* `vaquita`
 - 长江江豚 / Yangtze finless porpoise — *Neophocaena asiaeorientalis* `yangtze-finless-porpoise`
+
+### 鲸目
+
+**亚河豚科**
+
+- 亚河豚 / Amazon River Dolphin — *Inia geoffrensis* `amazon-river-dolphin`
 
 ### 鳞甲目
 
@@ -952,7 +960,7 @@
 
 **陆龟科**
 
-- 加拉帕戈斯象龟 / Galapagos Tortoise — *Chelonoidis niger* `galapagos-tortoise`
+- 弗洛雷亚纳象龟 / Floreana Giant Tortoise — *Chelonoidis niger* `galapagos-tortoise`
 
 **鳖科**
 
@@ -1005,15 +1013,15 @@
 
 ### 八腕目
 
+**巨蛸科**
+
+- 北太平洋巨型章鱼 / Giant Pacific Octopus — *Enteroctopus dofleini* `giant-pacific-octopus`
+
 **章鱼科**
 
 - 大蓝环章鱼 / Greater Blue-ringed Octopus — *Hapalochlaena lunulata* `greater-blue-ringed-octopus`
 - 南方蓝环章鱼 / Southern Blue-ringed Octopus — *Hapalochlaena maculosa* `southern-blue-ringed-octopus`
 - 条纹蓝环章鱼 / Striped Blue-ringed Octopus — *Hapalochlaena fasciata* `striped-blue-ringed-octopus`
-
-**肠蛸科**
-
-- 北太平洋巨型章鱼 / Giant Pacific Octopus — *Enteroctopus dofleini* `giant-pacific-octopus`
 
 ### 耳乌贼目
 

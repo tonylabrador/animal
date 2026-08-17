@@ -1,0 +1,965 @@
+{
+  "batch": "legacy-qc-batch-04",
+  "reviewed_at": "2026-08-17T03:33:52.315Z",
+  "criteria": "Exact taxon source, visible animal subject, species-level visual plausibility, sufficient clarity and allowed open license all required.",
+  "approvals": [
+    {
+      "id": "brown-pelican",
+      "candidate": 1,
+      "selection": "brown-pelican:1",
+      "taxon_name": "Pelecanus occidentalis",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/198025775",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "brown-throated-sloth",
+      "candidate": 1,
+      "selection": "brown-throated-sloth:1",
+      "taxon_name": "Bradypus variegatus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/38147039",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "brown-widow",
+      "candidate": 1,
+      "selection": "brown-widow:1",
+      "taxon_name": "Latrodectus geometricus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/258012095",
+      "license": "cc-by-sa",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "budgerigar",
+      "candidate": 1,
+      "selection": "budgerigar:1",
+      "taxon_name": "Melopsittacus undulatus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/7766812",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "burmese-python",
+      "candidate": 1,
+      "selection": "burmese-python:1",
+      "taxon_name": "Python bivittatus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/115186699",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "bush-dog",
+      "candidate": 1,
+      "selection": "bush-dog:1",
+      "taxon_name": "Speothos venaticus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/105740174",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "california-scrub-jay",
+      "candidate": 2,
+      "selection": "california-scrub-jay:2",
+      "taxon_name": "Aphelocoma californica",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/138182648",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "canada-goose",
+      "candidate": 1,
+      "selection": "canada-goose:1",
+      "taxon_name": "Branta canadensis",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/75718382",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "canadian-lynx",
+      "candidate": 1,
+      "selection": "canadian-lynx:1",
+      "taxon_name": "Lynx canadensis",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/200483342",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "capybara",
+      "candidate": 1,
+      "selection": "capybara:1",
+      "taxon_name": "Hydrochoerus hydrochaeris",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/8066919",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "caracal",
+      "candidate": 2,
+      "selection": "caracal:2",
+      "taxon_name": "Caracal caracal",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/28664463",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "central-bearded-dragon",
+      "candidate": 1,
+      "selection": "central-bearded-dragon:1",
+      "taxon_name": "Pogona vitticeps",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/46622535",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "chambered-nautilus",
+      "candidate": 4,
+      "selection": "chambered-nautilus:4",
+      "taxon_name": "Nautilus pompilius",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Nautilus-JB-01.jpg",
+      "license": "public-domain",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "channel-billed-toucan",
+      "candidate": 1,
+      "selection": "channel-billed-toucan:1",
+      "taxon_name": "Ramphastos vitellinus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/332170735",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "channel-island-fox",
+      "candidate": 1,
+      "selection": "channel-island-fox:1",
+      "taxon_name": "Urocyon littoralis",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/41876694",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "cheetah",
+      "candidate": 4,
+      "selection": "cheetah:4",
+      "taxon_name": "Acinonyx jubatus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/198987951",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "chimpanzee",
+      "candidate": 1,
+      "selection": "chimpanzee:1",
+      "taxon_name": "Pan troglodytes",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/127958395",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "chinese-alligator",
+      "candidate": 4,
+      "selection": "chinese-alligator:4",
+      "taxon_name": "Alligator sinensis",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Alligator_sinensis_BW_1.JPG",
+      "license": "public-domain",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "chinese-cave-gecko",
+      "candidate": 1,
+      "selection": "chinese-cave-gecko:1",
+      "taxon_name": "Goniurosaurus luii",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/189397645",
+      "license": "cc0",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "chinese-cobra",
+      "candidate": 1,
+      "selection": "chinese-cobra:1",
+      "taxon_name": "Naja atra",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/96664377",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "chinese-crocodile-lizard",
+      "candidate": 1,
+      "selection": "chinese-crocodile-lizard:1",
+      "taxon_name": "Shinisaurus crocodilurus",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Chin-krokodilschwanzechse-01.jpg",
+      "license": "cc-by-sa-2.0-de",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "chinese-high-fin-banded-shark",
+      "candidate": 1,
+      "selection": "chinese-high-fin-banded-shark:1",
+      "taxon_name": "Myxocyprinus asiaticus",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Wimpelkarpfen_I.jpg",
+      "license": "cc-by-sa-2.0",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "chinese-sturgeon",
+      "candidate": 1,
+      "selection": "chinese-sturgeon:1",
+      "taxon_name": "Sinosturio sinensis",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Shark_SHA_1.jpg",
+      "license": "cc-by-sa-4.0",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "chinese-white-dolphin",
+      "candidate": 5,
+      "selection": "chinese-white-dolphin:5",
+      "taxon_name": "Sousa chinensis",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/249916498",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "clouded-leopard",
+      "candidate": 1,
+      "selection": "clouded-leopard:1",
+      "taxon_name": "Neofelis nebulosa",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/302041475",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "coal-tit",
+      "candidate": 2,
+      "selection": "coal-tit:2",
+      "taxon_name": "Periparus ater",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/102653424",
+      "license": "cc0",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "cockatiel",
+      "candidate": 1,
+      "selection": "cockatiel:1",
+      "taxon_name": "Nymphicus hollandicus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/143336635",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "commersons-dolphin",
+      "candidate": 1,
+      "selection": "commersons-dolphin:1",
+      "taxon_name": "Cephalorhynchus commersonii",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/226878127",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "common-bottlenose-dolphin",
+      "candidate": 5,
+      "selection": "common-bottlenose-dolphin:5",
+      "taxon_name": "Tursiops truncatus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/84337058",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "common-cuckoo",
+      "candidate": 1,
+      "selection": "common-cuckoo:1",
+      "taxon_name": "Cuculus canorus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/85476479",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "common-field-grasshopper",
+      "candidate": 1,
+      "selection": "common-field-grasshopper:1",
+      "taxon_name": "Chorthippus brunneus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/229090826",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "common-kingfisher",
+      "candidate": 1,
+      "selection": "common-kingfisher:1",
+      "taxon_name": "Alcedo atthis",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/98375354",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "common-loon",
+      "candidate": 1,
+      "selection": "common-loon:1",
+      "taxon_name": "Gavia immer",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/123770073",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "common-ostrich",
+      "candidate": 1,
+      "selection": "common-ostrich:1",
+      "taxon_name": "Struthio camelus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/35215841",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "common-pheasant",
+      "candidate": 1,
+      "selection": "common-pheasant:1",
+      "taxon_name": "Phasianus colchicus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/77794790",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "common-poorwill",
+      "candidate": 1,
+      "selection": "common-poorwill:1",
+      "taxon_name": "Phalaenoptilus nuttallii",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/141813796",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "common-raven",
+      "candidate": 4,
+      "selection": "common-raven:4",
+      "taxon_name": "Corvus corax",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/215780666",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "common-seahorse",
+      "candidate": 1,
+      "selection": "common-seahorse:1",
+      "taxon_name": "Hippocampus kuda",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/126604759",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "common-swift",
+      "candidate": 3,
+      "selection": "common-swift:3",
+      "taxon_name": "Apus apus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/216170697",
+      "license": "cc0",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "common-tailorbird",
+      "candidate": 3,
+      "selection": "common-tailorbird:3",
+      "taxon_name": "Orthotomus sutorius",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Common_Tailorbird_(Orthotomus_sutorius)_-_Flickr_-_Lip_Kee_(4).jpg",
+      "license": "cc-by-sa-2.0",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "common-true-katydid",
+      "candidate": 1,
+      "selection": "common-true-katydid:1",
+      "taxon_name": "Pterophylla camellifolia",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/127571788",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "common-vampire-bat",
+      "candidate": 1,
+      "selection": "common-vampire-bat:1",
+      "taxon_name": "Desmodus rotundus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/90231512",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "common-wombat",
+      "candidate": 1,
+      "selection": "common-wombat:1",
+      "taxon_name": "Vombatus ursinus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/331869666",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "corn-snake",
+      "candidate": 1,
+      "selection": "corn-snake:1",
+      "taxon_name": "Pantherophis guttatus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/197147823",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "costasiella-kuroshimae",
+      "candidate": 1,
+      "selection": "costasiella-kuroshimae:1",
+      "taxon_name": "Costasiella kuroshimae",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/63830031",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "coyote",
+      "candidate": 5,
+      "selection": "coyote:5",
+      "taxon_name": "Canis latrans",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/38619550",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "crested-ibis",
+      "candidate": 1,
+      "selection": "crested-ibis:1",
+      "taxon_name": "Nipponia nippon",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/149631320",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "crested-myna",
+      "candidate": 1,
+      "selection": "crested-myna:1",
+      "taxon_name": "Acridotheres cristatellus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/313429358",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "cuban-tody",
+      "candidate": 1,
+      "selection": "cuban-tody:1",
+      "taxon_name": "Todus multicolor",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/199671630",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "cuckoo-roller",
+      "candidate": 1,
+      "selection": "cuckoo-roller:1",
+      "taxon_name": "Leptosomus discolor",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/253643913",
+      "license": "cc0",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "dalmatian-pelican",
+      "candidate": 1,
+      "selection": "dalmatian-pelican:1",
+      "taxon_name": "Pelecanus crispus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/39940031",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "darwins-fox",
+      "candidate": 5,
+      "selection": "darwins-fox:5",
+      "taxon_name": "Lycalopex fulvipes",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/40927118",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "dhole",
+      "candidate": 1,
+      "selection": "dhole:1",
+      "taxon_name": "Cuon alpinus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/131938929",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "domestic-cat",
+      "candidate": 1,
+      "selection": "domestic-cat:1",
+      "taxon_name": "Felis catus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/72392101",
+      "license": "cc-by-sa",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "domestic-cow",
+      "candidate": 1,
+      "selection": "domestic-cow:1",
+      "taxon_name": "Bos taurus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/18981595",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "domestic-pig",
+      "candidate": 1,
+      "selection": "domestic-pig:1",
+      "taxon_name": "Sus scrofa",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sow_with_piglet.jpg",
+      "license": "public-domain",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "downy-woodpecker",
+      "candidate": 1,
+      "selection": "downy-woodpecker:1",
+      "taxon_name": "Dryobates pubescens",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/105542582",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "dromedary-camel",
+      "candidate": 1,
+      "selection": "dromedary-camel:1",
+      "taxon_name": "Camelus dromedarius",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/65803331",
+      "license": "cc0",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "dusky-dolphin",
+      "candidate": 1,
+      "selection": "dusky-dolphin:1",
+      "taxon_name": "Aethalodelphis obscurus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/198748559",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "eastern-diamondback-rattlesnake",
+      "candidate": 1,
+      "selection": "eastern-diamondback-rattlesnake:1",
+      "taxon_name": "Crotalus adamanteus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/58409270",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "eastern-meadowlark",
+      "candidate": 1,
+      "selection": "eastern-meadowlark:1",
+      "taxon_name": "Sturnella magna",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/106536270",
+      "license": "cc0",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "electric-eel",
+      "candidate": 1,
+      "selection": "electric-eel:1",
+      "taxon_name": "Electrophorus electricus",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Electric_Eel.jpg",
+      "license": "cc-by-2.5",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "elf-owl",
+      "candidate": 1,
+      "selection": "elf-owl:1",
+      "taxon_name": "Micrathene whitneyi",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/172231403",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "elkhorn-coral",
+      "candidate": 1,
+      "selection": "elkhorn-coral:1",
+      "taxon_name": "Acropora palmata",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/26550799",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "emerald-cockroach-wasp",
+      "candidate": 1,
+      "selection": "emerald-cockroach-wasp:1",
+      "taxon_name": "Ampulex compressa",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/197177395",
+      "license": "cc-by-sa",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "emperor-penguin",
+      "candidate": 1,
+      "selection": "emperor-penguin:1",
+      "taxon_name": "Aptenodytes forsteri",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/146195342",
+      "license": "cc-by-sa",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "emu",
+      "candidate": 1,
+      "selection": "emu:1",
+      "taxon_name": "Dromaius novaehollandiae",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/198630860",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "eurasian-blue-tit",
+      "candidate": 5,
+      "selection": "eurasian-blue-tit:5",
+      "taxon_name": "Cyanistes caeruleus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/9978068",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "eurasian-coot",
+      "candidate": 1,
+      "selection": "eurasian-coot:1",
+      "taxon_name": "Fulica atra",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/291316043",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "eurasian-golden-oriole",
+      "candidate": 1,
+      "selection": "eurasian-golden-oriole:1",
+      "taxon_name": "Oriolus oriolus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/127233810",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "eurasian-lynx",
+      "candidate": 1,
+      "selection": "eurasian-lynx:1",
+      "taxon_name": "Lynx lynx",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/143728649",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "european-anglerfish",
+      "candidate": 1,
+      "selection": "european-anglerfish:1",
+      "taxon_name": "Lophius piscatorius",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/132036313",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "european-polecat",
+      "candidate": 4,
+      "selection": "european-polecat:4",
+      "taxon_name": "Mustela putorius",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/54911011",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "european-rabbit",
+      "candidate": 1,
+      "selection": "european-rabbit:1",
+      "taxon_name": "Oryctolagus cuniculus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/83624539",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "european-robin",
+      "candidate": 1,
+      "selection": "european-robin:1",
+      "taxon_name": "Erithacus rubecula",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/19776411",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "european-starling",
+      "candidate": 1,
+      "selection": "european-starling:1",
+      "taxon_name": "Sturnus vulgaris",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/78896148",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "eyelash-crested-gecko",
+      "candidate": 1,
+      "selection": "eyelash-crested-gecko:1",
+      "taxon_name": "Correlophus ciliatus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/21630200",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "false-killer-whale",
+      "candidate": 4,
+      "selection": "false-killer-whale:4",
+      "taxon_name": "Pseudorca crassidens",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/301892370",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "fennec-fox",
+      "candidate": 6,
+      "selection": "fennec-fox:6",
+      "taxon_name": "Vulpes zerda",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fennec_Fox_Vulpes_zerda.jpg",
+      "license": "cc-by-2.0",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "fishing-cat",
+      "candidate": 1,
+      "selection": "fishing-cat:1",
+      "taxon_name": "Prionailurus viverrinus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/378204616",
+      "license": "cc0",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "flame-bowerbird",
+      "candidate": 1,
+      "selection": "flame-bowerbird:1",
+      "taxon_name": "Sericulus ardens",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/263962510",
+      "license": "cc0",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "flathead-grey-mullet",
+      "candidate": 5,
+      "selection": "flathead-grey-mullet:5",
+      "taxon_name": "Mugil cephalus",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mugil_cephalus_Minorca_2.jpg",
+      "license": "cc-by-3.0",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "fossa",
+      "candidate": 1,
+      "selection": "fossa:1",
+      "taxon_name": "Cryptoprocta ferox",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/254303313",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "garden-snail",
+      "candidate": 1,
+      "selection": "garden-snail:1",
+      "taxon_name": "Cornu aspersum",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/98797523",
+      "license": "cc-by-sa",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "giant-anteater",
+      "candidate": 1,
+      "selection": "giant-anteater:1",
+      "taxon_name": "Myrmecophaga tridactyla",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/196473595",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "giant-apple-snail",
+      "candidate": 4,
+      "selection": "giant-apple-snail:4",
+      "taxon_name": "Pomacea maculata",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/70771095",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "giant-armadillo",
+      "candidate": 2,
+      "selection": "giant-armadillo:2",
+      "taxon_name": "Priodontes maximus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/257852735",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "giant-isopod",
+      "candidate": 1,
+      "selection": "giant-isopod:1",
+      "taxon_name": "Bathynomus giganteus",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/103104210",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "giant-manta-ray",
+      "candidate": 1,
+      "selection": "giant-manta-ray:1",
+      "taxon_name": "Mobula birostris",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/328321068",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "giant-oarfish",
+      "candidate": 1,
+      "selection": "giant-oarfish:1",
+      "taxon_name": "Regalecus glesne",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Giant_Oarfish.jpg",
+      "license": "public-domain",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "giant-otter",
+      "candidate": 1,
+      "selection": "giant-otter:1",
+      "taxon_name": "Pteronura brasiliensis",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/8049516",
+      "license": "cc-by",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    },
+    {
+      "id": "giant-panda",
+      "candidate": 3,
+      "selection": "giant-panda:3",
+      "taxon_name": "Ailuropoda melanoleuca",
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/199176824",
+      "license": "cc0",
+      "visual_result": "species-relevant animal subject approved; maps, drawings, objects, signs, toys, unclear silhouettes and wrong-species candidates rejected"
+    }
+  ],
+  "retained": [
+    {
+      "id": "chinese-giant-salamander",
+      "result": "existing-verified-image-retained"
+    },
+    {
+      "id": "common-crane",
+      "result": "existing-verified-image-retained"
+    },
+    {
+      "id": "domestic-sheep",
+      "result": "existing-verified-image-retained"
+    },
+    {
+      "id": "eurasian-magpie",
+      "result": "existing-verified-image-retained"
+    },
+    {
+      "id": "european-herring-gull",
+      "result": "existing-verified-image-retained"
+    },
+    {
+      "id": "felis-silvestris",
+      "result": "existing-verified-image-retained"
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "cebu-flowerpecker",
+      "result": "replacement-needed",
+      "reason": "No exact, visually suitable candidate met the minimum image size; retain the original image as replacement-needed."
+    },
+    {
+      "id": "galapagos-tortoise",
+      "result": "hide-wrong-identity",
+      "reason": "The old image shows a living Galápagos tortoise, but Chelonoidis niger is the extinct Floreana taxon; hide the image as wrong identity."
+    }
+  ]
+}

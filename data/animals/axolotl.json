@@ -22,7 +22,7 @@
       "zh": "两栖纲"
     },
     "order": {
-      "en": "Urodela",
+      "en": "Caudata",
       "zh": "有尾目"
     },
     "family": {
@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "CR",
     "en": "Critically Endangered",
-    "zh": "极危"
+    "zh": "极危",
+    "note_en": "The 2020 IUCN assessment lists the wild species as Critically Endangered with a decreasing population; abundance in captivity does not reduce its extinction risk in nature.",
+    "note_zh": "IUCN 2020年评估将野生种群列为极危且仍在下降；人工饲养数量多并不能降低其在自然界中的灭绝风险。"
   },
   "description": {
-    "en": "The axolotl is a critically endangered paedomorphic salamander endemic to the lake complex of Xochimilco near Mexico City.",
-    "zh": "墨西哥钝口螈是一种极危的童态型蝾螈，特产于墨西哥城附近的霍奇米尔科湖区。"
+    "en": "The axolotl is a permanently aquatic salamander native to the Mexico City lake system. Adults retain larval features such as external gills, and their extraordinary tissue-regeneration ability has made them important in research, while the remaining wild population is Critically Endangered.",
+    "zh": "墨西哥钝口螈是一种终生水栖、原生于墨西哥城湖泊系统的蝾螈。成体仍保留外鳃等幼体特征；其非凡的组织再生能力使它成为重要研究动物，但残余野生种群已极危。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "The axolotl looks like a happy, underwater alien! It has a wide, cute face that looks like it's always smiling. On the sides of its head, it wears a fuzzy 'crown' of feathery gills that help it breathe. Because it never goes through metamorphosis like a regular frog or salamander, it stays looking like a baby forever.",
-      "zh": "墨西哥钝口螈看起来像一个快乐的水下外星人！它有一张宽大、可爱的脸，看起来总是在微笑。在它的头两侧，戴着一顶毛茸茸的、羽毛状鳃组成的「王冠」，这能帮助它呼吸。因为它从不像普通的青蛙或蝾螈那样经历变态发育，所以它永远保持着婴儿般的样子。"
+      "en": "Wild-type axolotls are dark mottled brown-green, unlike many pale captive color forms. Adults average about 20–23 cm and may exceed 30 cm; feathery external gills, a finned tail and a broad head remain throughout normal adult life.",
+      "zh": "野生型墨西哥钝口螈呈深色斑驳的棕绿色，不同于许多浅色人工品系。成体平均约20–23厘米，可能超过30厘米；羽毛状外鳃、带鳍尾和宽头在正常成年期仍会保留。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "Axolotls have an incredible, real-life superpower: regeneration! If an axolotl hurts or loses an arm, a leg, its tail, or even parts of its heart and brain, it can completely grow them back without a single scar. They walk slowly on the muddy lake bottom, sucking up worms and small fish like an underwater vacuum cleaner.",
-      "zh": "墨西哥钝口螈拥有一种令人难以置信的现实生活中的超能力：再生！如果墨西哥钝口螈受伤或失去了一条胳膊、一条腿、尾巴，甚至心脏和大脑的一部分，它可以完全重新长出来，而且不留一点疤痕。它们在泥泞的湖底缓慢行走，像水下吸尘器一样吸食蠕虫和小鱼。"
+      "en": "Axolotls are solitary aquatic predators that take worms, arthropods, mollusks and small fish. They use vision, smell and waterborne or electrical cues to locate prey, and historically acted as important predators in the lake community.",
+      "zh": "墨西哥钝口螈是独居水栖捕食者，取食蠕虫、节肢动物、软体动物和小鱼。它们利用视觉、嗅觉以及水中或电信号寻找猎物，历史上是湖泊群落中的重要捕食者。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "In the wild, these amazing creatures only exist in one single place on Earth: the ancient, murky canals of Lake Xochimilco in Mexico City. Sadly, pollution and the sprawling city have made them critically endangered in nature.",
-      "zh": "在野外，这些神奇的生物只存在于地球上的一个地方：墨西哥城霍奇米尔科湖古老、浑浊的运河中。令人悲伤的是，污染和不断扩张的城市让它们在自然界中处于极度濒危的状态。"
+      "en": "The species is endemic to the high-altitude Valley of Mexico lake system. Lake Chalco was drained, and the principal surviving natural habitat is the canal and wetland network of Xochimilco in southern Mexico City, where water quality, fragmentation and introduced fish are major concerns.",
+      "zh": "该物种为墨西哥谷高海拔湖泊系统特有种。查尔科湖已被排干，主要残存天然生境是墨西哥城南部霍奇米尔科的运河与湿地网络；水质、生境破碎化和外来鱼类是主要问题。",
+      "source_keys": [
+        "conservation",
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -96,13 +109,304 @@
           -99.12
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center and polygon coordinates are retained exactly. Authoritative text sources support the broad distribution, but reusable authoritative boundary geometry was not available; the polygon is therefore labelled as a retained approximate legacy range, not a verified range.",
+      "comparison_zh": "原有中心点和多边形坐标完全保留。权威文字来源支持其大致分布，但未获得可复用的权威边界几何，因此该多边形标为“保留的原有近似范围”，而非“已核实范围”。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/axolotl.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Ambystoma%20mexicanum",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Ambystoma_mexicanum/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Ambystoma_mexicanum/",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN SSC Amphibian Specialist Group assessment",
+      "url": "https://www.iucnredlist.org/species/1095/53947343",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "IUCN Threatened Amphibians of the World profile",
+      "url": "https://www.iucn-amphibians.org/wp-content/uploads/sites/4/2018/11/TAW-Threatened-Species-Profiles_Part5.pdf",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, taxonomy, protection status, numerical claims, English/Chinese scope and preserved legacy map geometry were checked for pilot batch 01."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "average_length",
+        "label": {
+          "en": "Average length",
+          "zh": "平均体长"
+        },
+        "value": {
+          "en": "About 20–23 cm",
+          "zh": "约20–23厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "maximum_length",
+        "label": {
+          "en": "Maximum length",
+          "zh": "最大体长"
+        },
+        "value": {
+          "en": "More than 30 cm",
+          "zh": "可超过30厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Aquatic invertebrates and small vertebrates",
+          "zh": "水生无脊椎动物和小型脊椎动物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "breeding",
+        "label": {
+          "en": "Wild breeding",
+          "zh": "野外繁殖期"
+        },
+        "value": {
+          "en": "Usually months 3–6",
+          "zh": "通常3–6月"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "eggs",
+        "label": {
+          "en": "Eggs",
+          "zh": "产蛋数"
+        },
+        "value": {
+          "en": "About 100–300",
+          "zh": "约100–300枚"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "hatching",
+        "label": {
+          "en": "Hatching",
+          "zh": "孵化时间"
+        },
+        "value": {
+          "en": "About 10–14 days",
+          "zh": "约10–14天"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Wild breeding is generally reported in months 3–6. A female attaches roughly 100–300 individually jelly-coated eggs to submerged material; they hatch after about 10–14 days, receive no parental care and may mature by the following breeding season.",
+      "zh": "野外繁殖通常发生在3–6月。雌性把约100–300枚各自带胶质层的蛋附着在水下物体上；约10–14天后孵化，没有亲代照料，并可能在下一个繁殖季达到成熟。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Paedomorphic adulthood",
+          "zh": "幼态延续的成体"
+        },
+        "detail": {
+          "en": "Adults normally retain larval external gills and tail fins, allowing a fully aquatic life without ordinary salamander metamorphosis.",
+          "zh": "成体通常保留幼体的外鳃和尾鳍，无需经历普通蝾螈式变态即可终生水栖。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Regenerative tissues",
+          "zh": "组织再生"
+        },
+        "detail": {
+          "en": "Axolotls can regenerate limbs and repair several other tissues with much less scarring than mammals, a major reason they are studied.",
+          "zh": "墨西哥钝口螈能再生四肢，并以远少于哺乳动物的瘢痕修复多种组织，这是其重要研究价值来源。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Aquatic sensory mix",
+          "zh": "复合水下感官"
+        },
+        "detail": {
+          "en": "Chemical, visual and electrical cues help locate prey in turbid vegetated canals.",
+          "zh": "化学、视觉和电信号共同帮助它们在浑浊且植被丰富的运河中寻找猎物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a native aquatic predator, the axolotl consumes invertebrates and small vertebrates and historically helped structure the Xochimilco food web. Its decline also signals deterioration of a culturally important urban wetland.",
+      "zh": "作为本地水栖捕食者，墨西哥钝口螈取食无脊椎动物和小型脊椎动物，历史上有助于塑造霍奇米尔科食物网。它的衰退也反映了这一重要城市文化湿地的恶化。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Urbanization, canal alteration, pollution, poor water quality, disease, and predation or competition from introduced carp and tilapia threaten the small fragmented wild population.",
+        "zh": "城市化、运河改造、污染、水质不良、疾病，以及外来鲤鱼和罗非鱼的捕食或竞争，都威胁着规模小且破碎的野生种群。"
+      },
+      "actions": {
+        "en": "Restore clean connected canal habitat, work with chinampa farmers, control introduced fish, monitor wild animals genetically and ecologically, and keep conservation breeding genetically managed and distinct from pet color lines.",
+        "zh": "应恢复清洁且连通的运河生境，与人工浮田农户合作，控制外来鱼类，对野生个体开展遗传和生态监测，并使保护繁育得到遗传管理且与宠物色系区分。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A broad-headed aquatic salamander with 3 feathery external-gill branches on each side, lidless-looking eyes, small limbs and a tall tail fin.",
+        "zh": "宽头水栖蝾螈，头两侧各有3支羽毛状外鳃，眼睛看似无眼睑，四肢较小，尾鳍高。"
+      },
+      "similar_species": {
+        "en": "Larval tiger salamanders may look similar but normally metamorphose and are different species. Pale pink, golden and white axolotls common in captivity are color forms, not the usual wild coloration.",
+        "zh": "虎纹钝口螈幼体可能相似，但通常会变态，且属于不同物种。人工饲养中常见的粉、金或白色个体是色型，并非通常的野生体色。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Most communication is chemical and visual during courtship. Axolotls also detect water movement and weak electrical fields, helping them orient and find prey when visibility is poor.",
+      "zh": "交流主要发生在求偶期间，依靠化学和视觉信号。它们还能感知水流和微弱电场，在能见度低时帮助定位和发现猎物。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Wild spawning is associated mainly with months 3–6. Because canal temperature, rain and water management vary, local timing can shift; captive animals bred under controlled conditions do not represent the wild seasonal cycle.",
+      "zh": "野外产卵主要与3–6月相关。由于运河温度、降雨和水管理会变化，地方时间可能偏移；受控条件下人工繁殖的个体不能代表野外季节周期。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Axolotls are culturally associated with Xochimilco and are widely kept as pets and laboratory animals. Captive popularity can obscure the crisis in the wild, and pets or laboratory lines must never be released into canals.",
+      "zh": "墨西哥钝口螈与霍奇米尔科文化紧密相连，也被广泛作为宠物和实验动物饲养。人工饲养的流行可能掩盖野外危机；宠物或实验品系绝不能放入运河。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Axolotls are mole salamanders in Ambystomatidae. Their normal retention of larval traits into reproductive adulthood is called paedomorphosis; forced metamorphosis is possible under unusual hormonal conditions but is not the typical wild life history.",
+      "zh": "墨西哥钝口螈属于钝口螈科。正常情况下把幼体特征保留到可繁殖成体，称为幼态延续；特殊激素条件可诱导变态，但这不是典型野外生活史。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "Wild axolotls are dark and difficult to see among canal vegetation. Environmental DNA, standardized trapping and expert surveys are safer evidence than casual sightings; do not handle or disturb suspected animals.",
+      "zh": "野生个体体色深，在运河植被中很难发现。环境DNA、标准化捕捉和专家调查比随意目击更可靠；不要触碰或干扰疑似个体。",
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "An adult axolotl normally keeps the external gills of a salamander larva.",
+          "zh": "成年墨西哥钝口螈通常仍保留蝾螈幼体的外鳃。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Most pale axolotls seen in homes or laboratories are captive color forms; wild animals are usually dark and mottled.",
+          "zh": "家庭或实验室常见的浅色个体多为人工色型；野生个体通常深色且有斑驳花纹。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Being common in captivity does not prevent a species from being Critically Endangered in the wild.",
+          "zh": "人工饲养中常见，并不妨碍一个物种在野外处于极危状态。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Amphibian development",
+          "zh": "两栖动物发育"
+        },
+        "content": {
+          "en": "The axolotl breaks the familiar amphibian pattern: it becomes reproductively mature while retaining an aquatic larval body rather than transforming into a land-adapted adult.",
+          "zh": "墨西哥钝口螈打破了人们熟悉的两栖动物模式：它以水生幼体形态达到性成熟，而不是变成适应陆地的成体。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

@@ -37,24 +37,38 @@
   "conservation_status": {
     "code": "NE",
     "en": "Not Evaluated",
-    "zh": "未评估"
+    "zh": "未评估",
+    "note_en": "No species-level IUCN Red List assessment was found for Drosophila melanogaster, so its status is Not Evaluated rather than an inferred low-risk category.",
+    "note_zh": "未找到黑腹果蝇的IUCN物种级红色名录评估，因此其等级为未评估，而不是推断出的低风险等级。"
   },
   "description": {
-    "en": "A tiny household nuisance that has profoundly revolutionized our understanding of modern genetics and biology.",
-    "zh": "一种微小的家庭烦人精，却深刻地彻底改变了我们对现代遗传学和生物学的理解。"
+    "en": "Drosophila melanogaster is a tiny tan fly associated with fermenting fruit and other plant material. Its fast life cycle, 4 chromosome pairs and powerful genetic tools made it one of biology's most influential model organisms.",
+    "zh": "黑腹果蝇是一种与发酵水果及其他植物材料相关的微小黄褐色蝇类。快速生命周期、4对染色体和强大的遗传工具，使它成为生物学中最具影响力的模式动物之一。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "This diminutive fly measures just 3 millimeters (0.12 inches) long. It's easily identified by its yellowish-brown body, transverse black rings across its abdomen, and striking, bright red compound eyes. Females are slightly larger than males. Despite its tiny size, its genome shares about 60% of its genes with humans, making it a perfect biological analog.",
-      "zh": "这种微小的苍蝇只有3毫米（0.12英寸）长。它的身体呈黄褐色，腹部有横向的黑环，还有引人注目的亮红色复眼，很容易辨认。雌性比雄性稍大。尽管它的体型极小，但它的基因组中有约60%的基因与人类相同，这使其成为完美的生物学类似物。"
+      "en": "Adults are about 3 mm long, tan with dark abdominal bands, large red compound eyes, 3 small simple eyes, 1 functional pair of wings and a pair of knobbed balancing organs called halteres. Females are generally larger; males have a darker rounded abdominal tip.",
+      "zh": "成虫体长约3毫米，黄褐色，腹部有深色横带，具大型红色复眼、3个小单眼、1对功能性翅和一对称为平衡棒的棒状平衡器。雌蝇通常较大；雄蝇腹端更深且较圆。",
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "They don't strictly eat the fruit itself; they predominantly feed on, and lay their eggs in, the yeast and bacteria growing on overripe and rotting fruit. Their sense of smell is incredibly sharp, allowing them to detect the scent of ethanol and acetic acid (the products of fermentation) from far away. They have an astonishingly fast life cycle, developing from egg to reproducing adult in just 7 days at room temperature.",
-      "zh": "它们并不完全是吃水果本身；它们主要以生长在熟透和腐烂水果上的酵母菌和细菌为食，并在那里产卵。它们的嗅觉极其敏锐，能从很远的地方闻到乙醇和乙酸（发酵产物）的气味。它们有着惊人得快的生命周期，在室温下，从卵发育到能繁殖的成虫只需短短7天。"
+      "en": "Adults and larvae live around fermenting plant substrates rich in yeasts and bacteria. Smell and taste guide adults to feeding and egg-laying sites; larvae tunnel through the soft substrate and feed on its microbial community and dissolved nutrients.",
+      "zh": "成虫和幼虫生活在富含酵母与细菌的发酵植物基质周围。嗅觉和味觉引导成虫寻找取食与产卵地点；幼虫在柔软基质中钻行，取食其中微生物群落和溶解养分。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Originally native to sub-Saharan Africa, they have commensally spread alongside human agriculture and trade routes to become truly cosmopolitan. They are now found on every continent except Antarctica, thriving in orchards, kitchens, supermarkets, and anywhere decaying plant matter exists.",
-      "zh": "黑腹果蝇最初原产于撒哈拉以南非洲，后来伴随着人类的农业和贸易路线共生地传播开来，成为真正的世界性物种。除了南极洲，现在在每个大洲都能找到它们的踪影，在果园、厨房、超市以及任何存在腐烂植物物质的地方繁衍生息。"
+      "en": "The ancestral range is African, but association with people spread the species through tropical and temperate regions on nearly every continent except Antarctica. Orchards, wineries, markets, kitchens and compost provide warm moist breeding sites.",
+      "zh": "其祖先分布区在非洲，但与人类共生使该物种扩散到除南极洲外几乎各大洲的热带和温带地区。果园、酒厂、市场、厨房和堆肥都可提供温暖湿润的繁殖地点。",
+      "source_keys": [
+        "general",
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -218,13 +232,311 @@
           20
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and polygon coordinates are retained exactly. Authoritative text sources support the broad distribution, but reusable authoritative boundary geometry was not available; the polygons are labelled as retained approximate legacy ranges, not verified boundaries.",
+      "comparison_zh": "原有中心点、缩放和多边形坐标完全保留。权威文字来源支持其大致分布，但未获得可复用的权威边界几何，因此多边形标为保留的原有近似范围，而非已核实边界。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/common-fruit-fly.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "NCBI Taxonomy",
+      "url": "https://www.ncbi.nlm.nih.gov/taxonomy/7227",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Drosophila_melanogaster/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Drosophila_melanogaster/",
+      "checked_at": "2026-08-16"
+    },
+    "research": {
+      "authority": "FlyBase",
+      "url": "https://flybase.org/reports/FBrf0238822.html",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List species search",
+      "url": "https://www.iucnredlist.org/search?query=Drosophila%20melanogaster&searchType=species",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Drosophila_melanogaster/",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, taxonomy, protection status, numerical claims, English/Chinese scope and preserved legacy map geometry were checked for legacy QC batch 02."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "length",
+        "label": {
+          "en": "Adult length",
+          "zh": "成虫体长"
+        },
+        "value": {
+          "en": "About 3 mm",
+          "zh": "约3毫米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "chromosomes",
+        "label": {
+          "en": "Chromosome pairs",
+          "zh": "染色体对数"
+        },
+        "value": {
+          "en": "4 pairs",
+          "zh": "4对"
+        },
+        "source_keys": [
+          "research"
+        ]
+      },
+      {
+        "key": "development",
+        "label": {
+          "en": "Egg to adult",
+          "zh": "卵至成虫"
+        },
+        "value": {
+          "en": "About 10 days at 25°C",
+          "zh": "25°C时约10天"
+        },
+        "source_keys": [
+          "research"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Feeding substrate",
+          "zh": "取食基质"
+        },
+        "value": {
+          "en": "Yeasts, microbes and nutrients in fermenting plant material",
+          "zh": "发酵植物材料中的酵母、微生物和养分"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "metamorphosis",
+        "label": {
+          "en": "Development",
+          "zh": "发育方式"
+        },
+        "value": {
+          "en": "Egg, 3 larval instars, pupa, adult",
+          "zh": "卵、3个幼虫龄期、蛹、成虫"
+        },
+        "source_keys": [
+          "research"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Not Evaluated",
+          "zh": "未评估"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "At about 25°C, development from egg through 3 larval instars and a pupa to an adult takes roughly 10 days, though temperature and food alter the timing. Adults mate soon after emergence, and females lay many small eggs on suitable fermenting substrate.",
+      "zh": "在约25°C时，从卵经过3个幼虫龄期和蛹发育为成虫约需10天，但温度和食物会改变速度。成虫羽化后不久即可交配，雌蝇在合适的发酵基质上产下许多小卵。",
+      "source_keys": [
+        "general",
+        "research"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Halteres",
+          "zh": "平衡棒"
+        },
+        "detail": {
+          "en": "Modified hind wings sense rotation and stabilize rapid flight.",
+          "zh": "由后翅特化的平衡棒感受旋转并稳定快速飞行。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Fermentation sensing",
+          "zh": "发酵物感受"
+        },
+        "detail": {
+          "en": "Chemical receptors locate volatile compounds produced by yeasts and ripening or decaying plant material.",
+          "zh": "化学感受器能定位酵母以及成熟或腐败植物材料释放的挥发物。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Rapid generation time",
+          "zh": "快速世代"
+        },
+        "detail": {
+          "en": "Fast development and high reproductive output exploit short-lived food patches.",
+          "zh": "快速发育和较高繁殖量可利用短暂存在的食物斑块。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Fruit flies consume and disperse microbes associated with decomposition and are prey for spiders, insects and small vertebrates. Their greatest human significance is scientific: research on them has revealed fundamental principles of heredity, development, behavior and disease.",
+      "zh": "果蝇取食并传播与分解相关的微生物，也会成为蜘蛛、昆虫和小型脊椎动物的猎物。它对人类最大的意义在科研：相关研究揭示了遗传、发育、行为和疾病的基本原理。",
+      "source_keys": [
+        "ecology",
+        "research"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The species has not been assessed by IUCN and is widespread around people. Lack of an assessment should not be presented as a formal Least Concern conclusion; no global population trend is monitored.",
+        "zh": "该物种尚未接受IUCN评估，并广泛生活在人类环境周围。不能把缺少评估表述成正式无危结论；也没有受监测的全球种群趋势。"
+      },
+      "actions": {
+        "en": "No species-focused conservation program is indicated by current evidence. Maintain accurate taxonomic records and distinguish wild ecological populations from laboratory strains when reporting data.",
+        "zh": "现有证据不表明需要物种专项保护计划。报告数据时应保持准确分类，并区分野外生态种群与实验室品系。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A roughly 3 mm tan fly with bright red eyes, dark abdominal bands and clear wings; males have a darker rounded abdominal tip and sex combs on the front legs.",
+        "zh": "约3毫米长的黄褐色小蝇，红眼、腹部有深色横带、翅透明；雄蝇腹端较深且圆，前足有性梳。"
+      },
+      "similar_species": {
+        "en": "Drosophila simulans and other small drosophilids can look nearly identical. Reliable species identification may require male genitalia, sex-comb details, genetics or an expert key; a fly near fruit is not enough.",
+        "zh": "拟果蝇及其他小型果蝇科物种可能几乎相同。可靠鉴定可能需要雄性生殖器、性梳细节、遗传证据或专家检索表；仅凭出现在水果旁不能确定物种。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Courtship combines visual following, tapping, chemical pheromones and a species-patterned song made by vibrating one wing. Taste and smell also influence mate and egg-laying choices.",
+      "zh": "求偶结合视觉追随、触碰、化学信息素，以及振动单侧翅产生的物种特定求偶歌；味觉和嗅觉也会影响择偶和产卵选择。",
+      "source_keys": [
+        "research"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Outdoors, warm conditions and fruit availability produce rapid population peaks; cold limits activity. Heated buildings and stored or discarded produce can support overlapping generations year-round.",
+      "zh": "在室外，温暖条件和水果供应会造成快速种群高峰，寒冷则限制活动。供暖建筑和储存或丢弃的果蔬可使多个世代全年重叠。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "D. melanogaster is a major genetics and biomedical model and a nuisance around fermenting produce, but it should not be confused with larger tephritid fruit flies whose larvae directly damage intact commercial fruit.",
+      "zh": "黑腹果蝇是重要遗传和生物医学模式动物，也会在发酹果蔬周围造成滋扰；但不能把它与幼虫直接危害完整商品水果的较大型实蝇科害虫混为一谈。",
+      "source_keys": [
+        "research",
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "The species belongs to Drosophilidae and is placed in the Sophophora lineage within the broad traditional genus Drosophila. Comparison with close relatives is central to research on gene and trait evolution.",
+      "zh": "该物种属于果蝇科，在广义传统果蝇属中归入Sophophora谱系。与近缘种比较是研究基因和性状演化的重要方法。",
+      "source_keys": [
+        "taxonomy",
+        "research"
+      ]
+    },
+    "field_signs": {
+      "en": "Small tan flies hovering over fermenting fruit suggest drosophilids. Eggs and larvae are tiny and hidden in soft substrate; species-level confirmation usually needs magnification and a diagnostic key.",
+      "zh": "在发酵水果上方盘旋的黄褐色小蝇提示可能是果蝇科。卵和幼虫很小并藏在柔软基质中；物种级确认通常需要放大观察和鉴定检索表。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "D. melanogaster has only 4 pairs of chromosomes, helping make its genetics experimentally tractable.",
+          "zh": "黑腹果蝇只有4对染色体，这有助于开展可控遗传实验。"
+        },
+        "source_keys": [
+          "research"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its rear wings are transformed into sensory halteres rather than a second pair of flight wings.",
+          "zh": "它的后翅变成感觉用平衡棒，而不是第二对飞行翅。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A name meaning 'fruit fly' does not mean the species mainly eats sound fresh fruit; fermenting microbes are central to its feeding habitat.",
+          "zh": "“果蝇”之名并不表示它主要吃完好鲜果；发酵微生物才是其取食生境的核心。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Complete metamorphosis",
+          "zh": "完全变态"
+        },
+        "content": {
+          "en": "The egg, 3 feeding larval instars, reorganizing pupa and winged adult perform different tasks, allowing rapid use of fermenting food while adults disperse to new patches.",
+          "zh": "卵、3个取食幼虫龄期、发生重组的蛹和有翅成虫承担不同任务，使其能快速利用发酵食物，并由成虫扩散到新斑块。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

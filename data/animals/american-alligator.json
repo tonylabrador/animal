@@ -22,7 +22,7 @@
       "zh": "爬行纲"
     },
     "order": {
-      "en": "Crocodilia",
+      "en": "Crocodylia",
       "zh": "鳄目"
     },
     "family": {
@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "LC",
     "en": "Least Concern",
-    "zh": "无危"
+    "zh": "无危",
+    "note_en": "The 2019 IUCN assessment lists the species as Least Concern with no continuing decline in mature individuals reported.",
+    "note_zh": "IUCN 2019年评估将该物种列为无危，并未报告成熟个体仍在持续下降。"
   },
   "description": {
-    "en": "A large crocodilian endemic to the southeastern United States, known for its broad, rounded snout.",
-    "zh": "美国东南部特有的大型鳄类，以其宽阔圆润的吻部而闻名。"
+    "en": "The American alligator is a large freshwater crocodilian of the southeastern United States. Its recovery after severe historical decline is a conservation success, and the ponds and channels it excavates create wet refuges used by many other species.",
+    "zh": "美洲短吻鳄是美国东南部的大型淡水鳄类。它在历史上严重衰退后成功恢复，是保护工作的典型案例；其挖出的水塘和通道还会形成被许多其他物种利用的湿地庇护所。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "American alligators are living tanks that have survived since the time of the dinosaurs! They are dark almost-black reptiles that can grow up to 15 feet long. You can tell them apart from crocodiles by their nose: alligators have a wide, U-shaped snout, and when their mouth is closed, you can't see their bottom teeth.",
-      "zh": "美洲短吻鳄是从恐龙时代存活至今的活体坦克！它们是深色、几乎是黑色的爬行动物，体长可达15英尺。你可以通过它们的鼻子把它们和鳄鱼区分开来：短吻鳄有宽阔的U形吻部，而且当它们闭上嘴时，你是看不到它们下排牙齿的。"
+      "en": "American alligators have a broad rounded snout, armored skin with bony scutes, short legs and a muscular flattened tail. Average adult females are about 2.6 m long and males about 3.4 m, while very large males may approach 454 kg.",
+      "zh": "美洲短吻鳄有宽圆吻部、带骨质鳞板的装甲皮肤、短腿和强壮扁尾。成年雌性平均长约2.6米，雄性约3.4米；特大型雄性体重可接近454千克。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "These gators are excellent ecosystem engineers. They use their tails and snouts to dig deep holes called 'gator holes' that hold water during dry seasons, providing a lifeline for fish, turtles, and birds. You can often see them lying completely still on the muddy banks with their mouths wide open to cool down in the hot sun.",
-      "zh": "这些短吻鳄是出色的生态系统工程师。它们用尾巴和鼻子挖出被称为‘鳄鱼坑’的深坑，在旱季这些坑里会蓄水，为鱼类、海龟和鸟类提供生命线。你经常可以看到它们完全一动不动地躺在泥泞的河岸上，张开大嘴在烈日下乘凉。"
+      "en": "They are ambush predators that eat fish, turtles, invertebrates, birds and mammals. Adults can dig 'gator holes' that hold water during dry periods, while females defend nests and young—unusually extensive parental care for a reptile.",
+      "zh": "它们是伏击型捕食者，取食鱼、龟、无脊椎动物、鸟和哺乳动物。成体会挖出在旱期蓄水的“鳄鱼塘”；雌性守护巢和幼体，这在爬行动物中属于较为深入的亲代照料。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "They live exclusively in the southeastern United States, especially in Florida and Louisiana. They love freshwater habitats like slow-moving rivers, swamps, marshes, and lakes. Sometimes they even show up in people's swimming pools or on golf courses!",
-      "zh": "它们只生活在美国东南部，特别是在佛罗里达州和路易斯安那州。它们喜欢淡水栖息地，比如水流缓慢的河流、沼泽、湿地和湖泊。有时它们甚至会出现在人们的游泳池或高尔夫球场上！"
+      "en": "The native range extends through the southeastern United States from coastal North Carolina to central Texas. Alligators inhabit slow rivers, lakes, marshes and swamps and tolerate brackish water only briefly because they lack functional salt glands.",
+      "zh": "原生分布区横跨美国东南部，从北卡罗来纳沿海到得克萨斯中部。它们生活在缓流河、湖泊、沼泽和湿地；由于缺乏有效盐腺，只能短时间耐受半咸水。",
+      "source_keys": [
+        "general",
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -88,13 +101,306 @@
           -75
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center and polygon coordinates are retained exactly. Authoritative text sources support the broad distribution, but reusable authoritative boundary geometry was not available; the polygon is therefore labelled as a retained approximate legacy range, not a verified range.",
+      "comparison_zh": "原有中心点和多边形坐标完全保留。权威文字来源支持其大致分布，但未获得可复用的权威边界几何，因此该多边形标为“保留的原有近似范围”，而非“已核实范围”。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/american-alligator.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "Smithsonian's National Zoo",
+      "url": "https://nationalzoo.si.edu/animals/american-alligator",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Smithsonian's National Zoo",
+      "url": "https://nationalzoo.si.edu/animals/american-alligator",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Alligator_mississippiensis/",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List assessment for Alligator mississippiensis",
+      "url": "https://downloads.regulations.gov/FWS-HQ-IA-2021-0004-0002/attachment_4.pdf",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Smithsonian's National Zoo",
+      "url": "https://nationalzoo.si.edu/animals/american-alligator",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, taxonomy, protection status, numerical claims, English/Chinese scope and preserved legacy map geometry were checked for pilot batch 01."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "female_length",
+        "label": {
+          "en": "Average female",
+          "zh": "雌性平均体长"
+        },
+        "value": {
+          "en": "About 2.6 m",
+          "zh": "约2.6米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "male_length",
+        "label": {
+          "en": "Average male",
+          "zh": "雄性平均体长"
+        },
+        "value": {
+          "en": "About 3.4 m",
+          "zh": "约3.4米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Fish, turtles and other animals",
+          "zh": "鱼、龟及其他动物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Wild lifespan",
+          "zh": "野外寿命"
+        },
+        "value": {
+          "en": "About 50 years",
+          "zh": "约50年"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "clutch",
+        "label": {
+          "en": "Clutch",
+          "zh": "每窝蛋数"
+        },
+        "value": {
+          "en": "Usually 35–50 eggs",
+          "zh": "通常35–50枚"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "incubation",
+        "label": {
+          "en": "Incubation",
+          "zh": "孵化期"
+        },
+        "value": {
+          "en": "About 65 days",
+          "zh": "约65天"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Courtship begins in spring and mating usually occurs in month 5. A female builds a vegetation mound and generally lays 35–50 eggs in early summer; after about 65 days she opens the nest when hatchlings call and may guard the young for their first years.",
+      "zh": "求偶始于春季，交配通常发生在5月。雌性用植物筑成堆状巢，初夏一般产35–50枚蛋；约65天后，听到幼体叫声便会打开巢穴，并可能在幼体最初几年持续守护。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Eyes and nostrils on top",
+          "zh": "顶部眼鼻"
+        },
+        "detail": {
+          "en": "Eyes and nostrils near the top of the head allow seeing and breathing while most of the body stays submerged.",
+          "zh": "眼睛和鼻孔位于头部上方，使身体大部浸水时仍能观察和呼吸。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Armored skin",
+          "zh": "装甲皮肤"
+        },
+        "detail": {
+          "en": "Bony osteoderms embedded in the back protect the body and help regulate heat exchange.",
+          "zh": "背部皮肤内嵌的骨质鳞板保护身体，也参与热量交换调节。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Powerful tail",
+          "zh": "强壮尾部"
+        },
+        "detail": {
+          "en": "A flattened muscular tail drives swimming and can also help excavate and defend.",
+          "zh": "扁平而肌肉发达的尾部提供游泳动力，也能辅助挖掘和防御。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As top wetland predators, alligators influence prey communities. Their trails, nests and water-filled gator holes modify habitat and can provide drought refuges for fish, amphibians and other wildlife.",
+      "zh": "作为湿地顶级捕食者，美洲短吻鳄会影响猎物群落。它们的通道、巢穴和蓄水“鳄鱼塘”改变生境，并可在干旱时为鱼、两栖动物及其他野生动物提供庇护。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "stable",
+      "threats": {
+        "en": "The species has recovered strongly, but wetland loss, altered water management, pollutants, road mortality, illegal killing and conflict with people remain local pressures.",
+        "zh": "该物种已显著恢复，但湿地丧失、水文管理改变、污染物、道路致死、非法捕杀和人鳄冲突仍构成地方压力。"
+      },
+      "actions": {
+        "en": "Continue regulated harvest and trade controls, protect wetlands and water regimes, monitor contaminants and populations, and use public education and trained wildlife responders to reduce conflict.",
+        "zh": "应继续实施受管制的捕猎与贸易控制，保护湿地及水文过程，监测污染物和种群，并通过公众教育及专业野生动物处置人员减少冲突。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A broad U-shaped snout, dark armored body and lower fourth tooth hidden when the mouth closes distinguish the American alligator.",
+        "zh": "宽阔U形吻部、深色装甲身体，以及闭口时下颌第四齿被遮住，是美洲短吻鳄的辨认特征。"
+      },
+      "similar_species": {
+        "en": "American crocodiles have a narrower V-shaped snout, and the large lower fourth tooth remains visible when the mouth is closed. Never approach either species to check.",
+        "zh": "美洲鳄吻部更窄、呈V形，闭口时仍能看到下颌大型第四齿。绝不能靠近任何一种鳄类来检查这些特征。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Adults bellow during courtship and territorial interactions, producing low-frequency sound and water vibration. Hatchlings give high-pitched calls that prompt the female to uncover the nest and remain nearby.",
+      "zh": "成体在求偶和领域互动中发出吼声，同时产生低频声音和水面振动。幼体会发出高音叫声，促使雌性扒开巢材并留在附近。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Activity and courtship rise in spring; nesting follows in early summer and hatching occurs in late summer. In cold weather alligators become dormant in sheltered water or mud hollows rather than truly hibernating.",
+      "zh": "春季活动和求偶增加，初夏筑巢，晚夏孵化。寒冷天气中，它们会在受保护的水体或泥穴中进入低活动状态，而不是真正冬眠。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "American alligators support wildlife tourism and regulated industries but can injure people and pets. Feeding wild alligators is dangerous because it teaches them to associate humans with food.",
+      "zh": "美洲短吻鳄支持野生动物旅游和受管制产业，但也可能伤害人和宠物。给野生短吻鳄投食十分危险，因为这会使它们把人类与食物联系起来。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "American alligators belong to Alligatoridae and are closer to caimans and the Chinese alligator than to true crocodiles. Crocodilian body plans are ancient, but living species remain behaviorally and ecologically flexible.",
+      "zh": "美洲短吻鳄属于短吻鳄科，与凯门鳄和扬子鳄的亲缘关系比与真鳄更近。鳄类体型方案十分古老，但现生物种在行为和生态上仍很灵活。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "Slides, broad tracks, tail drags and water-edge trails can indicate alligators. View only from a safe distance; never use tracks or calls as a reason to approach dense shoreline vegetation.",
+      "zh": "滑行痕、宽足迹、拖尾痕和水边通道可提示短吻鳄存在。只能在安全距离观察；绝不能因足迹或叫声而靠近茂密岸边植被。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "An alligator may replace worn teeth thousands of times across its life.",
+          "zh": "美洲短吻鳄一生中可反复替换数千枚磨损牙齿。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Nest temperature influences whether hatchlings develop as male or female.",
+          "zh": "巢温会影响幼体发育为雄性还是雌性。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Gator holes can retain water during dry periods and shelter many other wetland animals.",
+          "zh": "“鳄鱼塘”可在旱期蓄水，为多种湿地动物提供庇护。"
+        },
+        "source_keys": [
+          "general",
+          "ecology"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Reptile parental care",
+          "zh": "爬行动物亲代照料"
+        },
+        "content": {
+          "en": "Unlike most reptiles, female alligators guard nests, respond to hatchling calls and protect pods of young after hatching.",
+          "zh": "与多数爬行动物不同，雌性短吻鳄会守巢、回应幼体叫声，并在孵化后保护成群幼体。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

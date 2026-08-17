@@ -37,7 +37,9 @@
   "conservation_status": {
     "code": "LC",
     "en": "Least Concern",
-    "zh": "无危"
+    "zh": "无危",
+    "note_en": "The current global assessment is Least Concern with a stable trend.",
+    "note_zh": "当前全球等级为无危，种群趋势稳定。"
   },
   "description": {
     "en": "Beavers are nature's engineers, famous for building dams and lodges in rivers and streams.",
@@ -46,15 +48,25 @@
   "encyclopedia": {
     "anatomy": {
       "en": "American beavers are the largest rodents in North America, weighing between 16 and 32 kilograms. They have a flat, paddle-shaped tail covered in scales that helps them swim and slap the water as a warning signal. Their large orange front teeth never stop growing and are strong enough to chew through tree trunks.",
-      "zh": "美洲河狸是北美洲最大的啮齿动物，体重在16到32公斤之间。它们有一条扁平的、桨状的、覆盖着鳞片的尾巴，帮助它们游泳，还能拍打水面作为警告信号。它们大大的橙色门牙永远不会停止生长，而且强壮到可以啃断树干。"
+      "zh": "美洲河狸是北美洲最大的啮齿动物，体重在16到32公斤之间。它们有一条扁平的、桨状的、覆盖着鳞片的尾巴，帮助它们游泳，还能拍打水面作为警告信号。它们大大的橙色门牙永远不会停止生长，而且强壮到可以啃断树干。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
       "en": "Beavers are herbivores that eat tree bark, leaves, roots, and water plants. They are famous for building dams out of sticks, mud, and stones, creating ponds that become homes for many other animals. Beaver families live together in dome-shaped lodges with underwater entrances that keep predators out.",
-      "zh": "河狸是草食动物，吃树皮、树叶、根茎和水生植物。它们最出名的是用树枝、泥巴和石头建造水坝，创造出的池塘成为了许多其他动物的家园。河狸一家住在圆顶形的巢穴里，入口在水下，可以防止捕食者进入。"
+      "zh": "河狸是草食动物，吃树皮、树叶、根茎和水生植物。它们最出名的是用树枝、泥巴和石头建造水坝，创造出的池塘成为了许多其他动物的家园。河狸一家住在圆顶形的巢穴里，入口在水下，可以防止捕食者进入。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
       "en": "American beavers live in rivers, streams, ponds, and lakes across most of North America, from Canada to northern Mexico. They prefer areas with plenty of trees near water, which they need for both food and building materials. Their dam-building activities create wetlands that benefit many other species.",
-      "zh": "美洲河狸生活在北美洲大部分地区的河流、溪流、池塘和湖泊中，从加拿大到墨西哥北部都有分布。它们喜欢水边有很多树木的地方，因为树木既是食物又是建筑材料。它们建造水坝的活动创造了湿地，对许多其他物种都有益处。"
+      "zh": "美洲河狸生活在北美洲大部分地区的河流、溪流、池塘和湖泊中，从加拿大到墨西哥北部都有分布。它们喜欢水边有很多树木的地方，因为树木既是食物又是建筑材料。它们建造水坝的活动创造了湿地，对许多其他物种都有益处。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -518,13 +530,301 @@
           26
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and polygon coordinates are retained exactly. Authoritative text supports the broad distribution, but reusable authoritative boundary geometry was unavailable; the legacy polygon is labelled approximate, not verified.",
+      "comparison_zh": "原有中心点、缩放和多边形坐标完全保留。权威文字支持大致分布，但未获得可复用的权威边界几何；原多边形标为近似范围，而非已核实边界。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/american-beaver.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Castor%20canadensis",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "GBIF IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/2434335/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Castor_canadensis/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Castor_canadensis/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Castor_canadensis/",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, current global status, numeric claims, bilingual scope and unchanged legacy map geometry checked for legacy QC batch 03A."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Castor canadensis",
+          "zh": "Castor canadensis"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Mammalia",
+          "zh": "哺乳纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat category",
+          "zh": "生境类别"
+        },
+        "value": {
+          "en": "Freshwater",
+          "zh": "淡水"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet category",
+          "zh": "食性类别"
+        },
+        "value": {
+          "en": "Herbivore",
+          "zh": "草食性"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Least Concern",
+          "zh": "无危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "key": "map",
+        "label": {
+          "en": "Map evidence",
+          "zh": "地图依据"
+        },
+        "value": {
+          "en": "Approximate range polygon retained",
+          "zh": "保留原有近似范围"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "After a gestation of about 105–107 days, females usually produce 3–4 kits. Young remain with the family through a long learning period before dispersing.",
+      "zh": "雌性妊娠约105–107天后通常产下3–4只幼崽。幼崽在扩散前会长期留在家庭群中学习。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Self-sharpening incisors",
+          "zh": "自锐门齿"
+        },
+        "detail": {
+          "en": "Hard enamel on the front and softer dentine behind keep the orange incisors chisel-shaped as they wear.",
+          "zh": "门齿前方硬釉质与后方较软牙本质使其磨损时保持凿状。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Aquatic propulsion",
+          "zh": "水中推进"
+        },
+        "detail": {
+          "en": "Webbed hind feet provide thrust while the broad tail helps control movement and stores fat.",
+          "zh": "有蹼后足提供推进力，宽尾帮助控制运动并储存脂肪。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Underwater protection",
+          "zh": "水下防护"
+        },
+        "detail": {
+          "en": "Valves close the ears and nostrils, and a transparent third eyelid protects the eyes underwater.",
+          "zh": "耳和鼻孔可闭合，透明瞬膜在水下保护眼睛。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Dams slow water and create wetlands, changing sediment, nutrient flow and habitat for many plants and animals; effects vary by site.",
+      "zh": "水坝减缓水流并形成湿地，改变沉积物、养分流动及多种动植物的生境；具体影响因地点而异。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "stable",
+      "threats": {
+        "en": "The species is widespread, but trapping, road mortality, water pollution and conflict over flooding can affect local colonies.",
+        "zh": "该物种广布，但捕捉、道路死亡、水污染及因淹水引发的冲突会影响地方群体。"
+      },
+      "actions": {
+        "en": "Protect riparian vegetation and water quality, manage conflict with flow devices where appropriate, and regulate harvest using local monitoring.",
+        "zh": "应保护河岸植被和水质，在适当地点使用水流装置管理冲突，并依据地方监测规范捕猎。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Large brown rodent with a broad flat scaly tail, small ears and orange incisors.",
+        "zh": "大型褐色啮齿动物，尾宽扁而有鳞，耳小，门齿橙色。"
+      },
+      "similar_species": {
+        "en": "Nutria have a long round tail and white muzzle; muskrats are much smaller with a narrow vertically flattened tail.",
+        "zh": "海狸鼠尾长而圆、吻部白；麝鼠小得多，尾窄且侧扁。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Tail slaps warn family members; scent mounds, calls and touch also carry territorial and social information.",
+      "zh": "拍尾可警告家庭成员；气味堆、叫声和触碰也传递领地与社会信息。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Families store branches underwater before winter and reduce surface activity when water freezes, while remaining active inside lodges and beneath ice.",
+      "zh": "家庭群会在冬季前把树枝储存在水下；水面结冰后减少地表活动，但仍在巢屋内和冰下活动。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Beaver wetlands can support biodiversity and water retention but may flood roads or crops; nonlethal, site-specific management often reduces conflict.",
+      "zh": "河狸湿地可支持生物多样性和蓄水，但也可能淹没道路或作物；因地制宜的非致死管理常能减少冲突。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Castor canadensis is one of 2 living beaver species and is distinct from the Eurasian beaver, Castor fiber.",
+      "zh": "美洲河狸是2种现生河狸之一，与欧亚河狸是不同物种。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Gnawed stumps, wood chips, dams, lodges, slides and broad webbed tracks indicate beaver activity, but signs may persist after animals leave.",
+      "zh": "被啃树桩、木屑、水坝、巢屋、滑道和宽大有蹼足迹提示河狸活动，但动物离开后痕迹仍可能保留。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Its incisors continue growing throughout life.",
+          "zh": "其门齿终生持续生长。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A lodge entrance is normally below the water surface.",
+          "zh": "巢屋入口通常位于水面以下。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Not every beaver colony builds a large dam; deep-water sites may not require one.",
+          "zh": "并非每个河狸群体都会建大型水坝；深水地点可能不需要。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Wetland engineer",
+          "zh": "湿地工程师"
+        },
+        "content": {
+          "en": "By cutting vegetation and changing water flow, a single family can reshape habitat far beyond the lodge itself.",
+          "zh": "一个家庭群通过砍伐植被和改变水流，可重塑远超巢屋本身的生境。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

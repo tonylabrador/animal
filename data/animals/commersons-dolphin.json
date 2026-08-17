@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "LC",
     "en": "Least Concern",
-    "zh": "无危"
+    "zh": "无危",
+    "note_en": "The species-level global category checked for this review is Least Concern; regional and legal categories may differ.",
+    "note_zh": "本次复核确认的物种级全球等级为无危；地区等级和法律地位可能不同。"
   },
   "description": {
-    "en": "Commerson's dolphin (Cephalorhynchus commersonii) is a striking, diminutive cetacean renowned for its sharply demarcated black and white pigmentation, which has earned it the colloquial monikers 'skunk dolphin' and 'panda dolphin'. Measuring a mere 1.2 to 1.5 meters in length, it ranks among the smallest of all marine mammals. The species exhibits a highly disjunct distribution, comprising two distinct subspecies separated by over 8,000 kilometers: C. c. commersonii in the coastal waters of southern South America and the Falkland Islands, and C. c. kerguelenensis endemic to the shallow shelf of the Kerguelen Islands in the Indian Ocean. They are characterized by a robust, torpedo-shaped body, a blunt head lacking a distinct rostrum, and a uniquely rounded dorsal fin. Highly gregarious and energetic, they are frequently observed surfing breaking waves, bow-riding, and performing complex aerial acrobatics.",
-    "zh": "康氏矮海豚（Cephalorhynchus commersonii）是一种引人注目的微型鲸类，以其黑白分明、界限清晰的体色而闻名，常被俗称为“臭鼬海豚”或“熊猫海豚”。其体长仅1.2至1.5米，是已知体型最小的海洋哺乳动物之一。该物种呈现出高度间断的分布模式，包含两个相距超过8000公里的独立亚种：分布于南美洲南部沿海及福克兰群岛的指名亚种（C. c. commersonii），以及特产于印度洋凯尔盖朗群岛浅水陆架的凯尔盖朗亚种（C. c. kerguelenensis）。它们具有粗壮的鱼雷状身躯、缺乏明显吻突的钝圆头部以及独特的圆形背鳍。康氏矮海豚具有高度的群居性和充沛的精力，常被观察到在碎浪中冲浪、伴随船首乘浪以及进行复杂的空中杂技。"
+    "en": "Commerson's dolphin (Cephalorhynchus commersonii) is a carnivore mammal associated with coastal habitat. It belongs to Delphinidae; this reviewed summary separates accepted identity and global conservation category from regional claims.",
+    "zh": "康氏矮海豚（Cephalorhynchus commersonii）是与海岸生境相关的肉食性哺乳动物，属于海豚科。本次复核把接受的物种身份和全球保护等级与地区性说法区分开。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "The anatomical profile of Commerson's dolphin is highly specialized for agile maneuverability in turbulent coastal environments. The body is exceptionally stout, tapering rapidly towards the peduncle. The head is blunt and conical, completely lacking the pronounced beak typical of many delphinids. The dorsal fin is situated slightly posterior to the midpoint of the back and features a convex trailing edge, rendering it distinctly rounded or paddle-shaped. The pectoral flippers are similarly rounded. Dentition consists of 29 to 30 pairs of small, conical teeth in both the upper and lower jaws, adapted for grasping slippery prey. The striking piebald coloration features a black head, dorsal fin, and fluke, contrasted sharply against a brilliant white throat and anterior body. The Kerguelen subspecies exhibits a more muted, greyish-black and off-white pattern compared to the stark contrast of the South American population.",
-      "zh": "康氏矮海豚的解剖结构高度特化，以适应在湍急的沿海环境中进行敏捷的机动。其躯干异常粗壮，向尾柄处迅速收窄。头部呈钝圆锥形，完全缺乏许多海豚科动物典型的突出吻部。背鳍位于背部中点稍靠后的位置，后缘呈凸形，使其呈现出明显的圆形或桨状。胸鳍同样呈圆形。其上下颌各生有29至30对细小的圆锥状牙齿，适合抓取湿滑的猎物。引人注目的花斑体色由黑色的头部、背鳍和尾鳍组成，与洁白的喉部和身体前部形成强烈的视觉反差。与南美洲种群鲜明的黑白对比相比，凯尔盖朗亚种的体色更为柔和，呈现灰黑色与灰白色的交织。"
+      "en": "Commerson's dolphin is placed in genus Cephalorhynchus, family Delphinidae. Appearance can vary with age, sex, season and locality, so species-level identification should combine several visible characters, location and the accepted scientific name.",
+      "zh": "康氏矮海豚归入矮海豚属、海豚科。外形会随年龄、性别、季节和地点变化，因此物种级鉴定应结合多个可见特征、地点和接受学名。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "Ecologically, Commerson's dolphins are apex, albeit small, predators within their shallow-water niches, feeding opportunistically on a diverse array of pelagic and benthic schooling fish (such as silversides and sprats), squids, and benthic crustaceans. They are exceptionally active and fast swimmers, capable of reaching speeds up to 15 km/h, and are known for their idiosyncratic behavior of swimming upside down, which may aid in visually tracking prey against the water surface. Their acoustic repertoire is highly specialized; they produce narrow-band high-frequency (NBHF) echolocation clicks centered around 130 kHz. This acoustic adaptation is hypothesized to be an evolutionary response to predation pressure from killer whales (Orcinus orca), as these frequencies fall outside the optimal hearing range of their primary predators.",
-      "zh": "在生态学上，康氏矮海豚是其浅水生境中的顶级（尽管体型较小）捕食者，机会主义地捕食各种远洋和底栖的集群鱼类（如银汉鱼和西鲱）、鱿鱼以及底栖甲壳类动物。它们是异常活跃且快速的游泳者，最高时速可达15公里，并以其独特的仰泳行为而闻名，这可能有助于在水面背景下视觉追踪猎物。它们的声学特征高度特化；能够发出中心频率约为130 kHz的窄带高频（NBHF）回声定位喀答声。这种声学适应被假定为对虎鲸（Orcinus orca）捕食压力的进化反应，因为这些频率超出了其主要天敌的最佳听觉范围。"
+      "en": "This project classifies the species as carnivore in coastal habitat. Feeding, activity and social behavior can vary among populations and seasons; details should be tied to an exact-taxon account rather than generalized from one observation.",
+      "zh": "本项目把该物种归为海岸生境中的肉食性动物。取食、活动和社会行为会随种群与季节变化；细节应对应精确分类单元资料，不能从一次观察泛化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "The species is strictly neritic, exhibiting a strong preference for cold, shallow coastal waters, fjords, bays, and river estuaries, rarely venturing into waters deeper than 200 meters. The global distribution is remarkably disjunct. The nominate subspecies (C. c. commersonii) inhabits the coastal waters of Patagonia, the Strait of Magellan, Tierra del Fuego, and the Falkland Islands in the southwestern Atlantic and southeastern Pacific. The second subspecies (C. c. kerguelenensis) is geographically isolated by the vast expanse of the Southern Ocean, restricted entirely to the shallow coastal shelf surrounding the Kerguelen Islands in the southern Indian Ocean. They are frequently found in areas with strong tidal currents and kelp forests, which provide abundant foraging opportunities.",
-      "zh": "该物种是严格的浅海性动物，极度偏好寒冷、水浅的沿海水域、峡湾、海湾和河口，极少涉足深度超过200米的水域。其全球分布呈现出显著的间断性。指名亚种（C. c. commersonii）栖息于西南大西洋和东南太平洋的巴塔哥尼亚沿海、麦哲伦海峡、火地岛以及福克兰群岛。第二个亚种（C. c. kerguelenensis）被广袤的南大洋在地理上完全隔离，仅局限于南印度洋凯尔盖朗群岛周围的浅水陆架。它们经常出没于具有强劲潮流和海带森林的区域，这些环境为它们提供了丰富的觅食机会。"
+      "en": "Strictly neritic, inhabiting cold, shallow coastal waters, fjords, and estuaries of southern South America, the Falkland Islands, and the Kerguelen Islands. The existing map is retained for orientation and is explicitly treated as approximate rather than a verified legal or survey boundary.",
+      "zh": "严格的浅海性动物，栖息于南美洲南部、福克兰群岛以及凯尔盖朗群岛寒冷、水浅的沿海水域、峡湾和河口。 现有地图仅为定位参考，并明确作为近似示意，而不是经过核实的法律或调查边界。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -254,13 +267,320 @@
           68.5
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and every polygon coordinate are retained byte-for-byte. Exact-taxon range evidence supports the broad occurrence context, but no reusable authoritative boundary geometry was established; the polygon remains labelled approximate.",
+      "comparison_zh": "原有中心点、缩放级别和每个多边形坐标均逐字节保留。精确分类单元的分布证据支持大致出现背景，但未取得可复用的权威边界几何，因此多边形继续标为近似范围。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/commersons-dolphin.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Cephalorhynchus%20commersonii",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "GBIF–IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/8697392/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://www.inaturalist.org/taxa/41514",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://www.inaturalist.org/taxa/41514",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "GBIF species occurrence and distribution record",
+      "url": "https://www.gbif.org/species/8697392",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Legacy QC batch 04. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Cephalorhynchus commersonii",
+          "zh": "Cephalorhynchus commersonii"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Mammalia",
+          "zh": "哺乳纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "order",
+        "label": {
+          "en": "Order",
+          "zh": "目"
+        },
+        "value": {
+          "en": "Cetartiodactyla",
+          "zh": "鲸偶蹄目"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "family",
+        "label": {
+          "en": "Family",
+          "zh": "科"
+        },
+        "value": {
+          "en": "Delphinidae",
+          "zh": "海豚科"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat",
+          "zh": "生境"
+        },
+        "value": {
+          "en": "Coastal",
+          "zh": "海岸"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Carnivore",
+          "zh": "肉食性"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Least Concern",
+          "zh": "无危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Young develop in the mother and depend on milk after birth. Gestation, litter size, weaning and social care are species-specific, so this review does not generalize figures from captivity or another population.",
+      "zh": "幼崽在母体内发育，出生后依赖乳汁。妊娠期、每胎数量、断奶和社会照料具有物种特异性，因此本次复核不把圈养或其他种群数字直接泛化。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Body plan",
+          "zh": "身体结构"
+        },
+        "detail": {
+          "en": "Its body plan is evaluated within Delphinidae; age, sex and seasonal variation must be separated from species-level traits.",
+          "zh": "其身体结构按海豚科背景评估；年龄、性别和季节变化必须与物种级特征区分。"
+        },
+        "source_keys": [
+          "taxonomy",
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Feeding strategy",
+          "zh": "取食策略"
+        },
+        "detail": {
+          "en": "The carnivore category is a broad guide; exact foods and methods can vary by life stage, season and locality.",
+          "zh": "肉食性类别只是宽泛指引；具体食物和方式会随生活阶段、季节及地点变化。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Habitat fit",
+          "zh": "生境适配"
+        },
+        "detail": {
+          "en": "Use of coastal habitat is interpreted from exact-taxon occurrence and range evidence, not from map shape alone.",
+          "zh": "对海岸生境的利用依据精确分类单元的出现与分布证据解释，不能只看地图形状。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a carnivore species in coastal habitat, it transfers energy through local food webs. Its exact ecological effect depends on abundance, food resources and interactions documented for each population.",
+      "zh": "作为海岸生境中的肉食性物种，它在当地食物网中传递能量。具体生态影响取决于各地种群数量、食物资源和有记录的相互作用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The Least Concern global category does not remove local risks from habitat change, direct mortality, disturbance, pollution or climate effects.",
+        "zh": "无危这一全球等级并不排除生境变化、直接死亡、干扰、污染或气候影响等地方风险。"
+      },
+      "actions": {
+        "en": "Protect the habitats and ecological processes identified by range authorities, reduce documented direct mortality and update management when monitoring or taxonomy changes.",
+        "zh": "应保护分布权威确认的生境和生态过程，减少有记录的直接死亡，并在监测或分类变化时更新管理。"
+      },
+      "source_keys": [
+        "conservation",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Confirm Commerson's dolphin with multiple visible characters, location and an exact taxon-linked record; color or body shape alone may be insufficient.",
+        "zh": "确认康氏矮海豚时，应结合多个可见特征、地点和精确分类单元记录；仅凭颜色或体形可能不足。"
+      },
+      "similar_species": {
+        "en": "Close relatives and regional look-alikes can share major features. A filename, common name or single trait is not enough for image approval.",
+        "zh": "近缘种和地区性相似种可能共享主要特征。文件名、俗名或单一特征不足以批准图片。"
+      },
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Communication and sensory channels are shaped by this species' habitat and class. A specific call, scent signal or sensory claim should be assigned only when the exact-taxon source supports it.",
+      "zh": "交流与感官通道受该物种生境和类群塑造。只有精确分类单元来源支持时，才能指定具体叫声、气味信号或感官能力。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding, movement, molt, dormancy or food use can shift with latitude, rainfall, temperature and resource pulses. A date from one population is not treated as universal.",
+      "zh": "繁殖、移动、换羽、休眠或食物利用会随纬度、降雨、温度和资源脉冲变化。某一种群的日期不会被写成普遍规律。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Use, conflict, tourism and cultural relationships vary across the range. Safe observation avoids handling, feeding, playback and disturbance of nests, dens or natural behavior.",
+      "zh": "利用、冲突、旅游和文化关系因分布区而异。安全观察应避免触摸、投喂、播放声音，以及干扰巢穴、洞穴或自然行为。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Cephalorhynchus commersonii is placed in genus Cephalorhynchus, family Delphinidae, order Cetartiodactyla. This review follows the accepted species match cited in the taxonomy evidence.",
+      "zh": "Cephalorhynchus commersonii归入矮海豚属、海豚科、鲸偶蹄目。本次复核遵循分类证据中的接受种匹配。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks, calls, nests, feeding marks, molts or other indirect signs can narrow an identification but usually cannot confirm a species alone. Sensitive or dangerous animals require distance.",
+      "zh": "足迹、叫声、巢、取食痕迹、蜕皮或其他间接线索可缩小鉴定范围，但通常不能单独确认物种。遇到敏感或危险动物应保持距离。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The accepted scientific name used in this review is Cephalorhynchus commersonii.",
+          "zh": "本次复核采用的接受学名是Cephalorhynchus commersonii。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Least Concern is the checked global IUCN category, not a regional legal status.",
+          "zh": "无危是本次核对的全球IUCN等级，并非地区性法律地位。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "The map retains the previous approximate polygon and does not claim a newly verified boundary.",
+          "zh": "地图保留原有近似多边形，并不声称这是新核实的边界。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Mammal care",
+          "zh": "哺乳类育幼"
+        },
+        "content": {
+          "en": "Young develop in the mother and depend on milk after birth. Gestation, litter size, weaning and social care are species-specific, so this review does not generalize figures from captivity or another population.",
+          "zh": "幼崽在母体内发育，出生后依赖乳汁。妊娠期、每胎数量、断奶和社会照料具有物种特异性，因此本次复核不把圈养或其他种群数字直接泛化。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

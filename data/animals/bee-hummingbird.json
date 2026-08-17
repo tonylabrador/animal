@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "NT",
     "en": "Near Threatened",
-    "zh": "近危"
+    "zh": "近危",
+    "note_en": "The current global IUCN assessment lists the Cuban-endemic bee hummingbird as Near Threatened, with habitat loss and fragmentation as key concerns.",
+    "note_zh": "当前IUCN全球评估将古巴特有的吸蜜蜂鸟列为近危，生境丧失和破碎化是主要隐患。"
   },
   "description": {
-    "en": "The bee hummingbird, endemic to the Cuban archipelago, holds the extraordinary distinction of being the smallest living bird species in the world. Weighing less than a dime, this diminutive avian marvel exhibits profound physiological adaptations, including a hyperactive metabolism and the ability to enter torpor to conserve energy. Its iridescent plumage and astonishing hovering capabilities make it a pinnacle of evolutionary miniaturization.",
-    "zh": "吸蜜蜂鸟是古巴群岛的特有种，拥有世界上现存最小鸟类的非凡头衔。这种体型微小的鸟类奇迹体重甚至不及一枚硬币，展现出极其深奥的生理适应性，包括超高代谢率以及通过进入蛰伏状态来保存能量的能力。其闪烁着金属光泽的羽毛和令人惊叹的悬停飞行能力，使其成为进化微型化的巅峰之作。"
+    "en": "The bee hummingbird is a Cuban endemic and the smallest living bird. Males average about 5.5 cm and 1.95 g, yet the species can hover precisely, defend flowers and pollinate plants using the same high-performance flight system found in larger hummingbirds.",
+    "zh": "吸蜜蜂鸟是古巴特有种，也是现存最小的鸟。雄鸟平均约5.5厘米、1.95克，却能利用与大型蜂鸟相同的高性能飞行系统精准悬停、保卫花源并为植物传粉。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "Measuring a mere 5 to 6 centimeters in length and weighing between 1.6 and 2.0 grams, the bee hummingbird is a marvel of biomechanical engineering. Males boast a striking iridescent fiery-red gorget and elongated lateral plumes during the breeding season, contrasting with their bluish upperparts. Females are slightly larger, with bluish-green upperparts and pale greyish undersides, featuring white tips on their outer tail feathers. Their flight muscles account for a significant portion of their body mass, powering wingbeats that can exceed 80 strokes per second during normal flight and up to 200 strokes per second during intricate courtship displays. Their heart rate can reach an astounding 1,260 beats per minute.",
-      "zh": "吸蜜蜂鸟体长仅5至6厘米，体重在1.6至2.0克之间，是生物力学工程的奇迹。雄鸟在繁殖期拥有引人注目的火红色虹彩喉部羽毛和细长的侧羽，与其蓝色的上半身形成鲜明对比。雌鸟体型稍大，上半身呈蓝绿色，下半身呈浅灰色，外侧尾羽带有白斑。它们的飞行肌肉占其体重的很大一部分，在正常飞行时每秒振翅超过80次，而在复杂的求偶炫耀中甚至可达每秒200次。它们的心率可达到惊人的每分钟1260次。"
+      "en": "Males average about 5.5 cm long and 1.95 g; females are slightly larger, around 6 cm and 2.6 g. Breeding males show iridescent red-pink head and throat feathers, whereas females and non-breeding males are greener above and pale below.",
+      "zh": "雄鸟平均体长约5.5厘米、体重1.95克；雌鸟稍大，约6厘米、2.6克。繁殖期雄鸟头喉呈虹彩红粉色，雌鸟和非繁殖期雄鸟则上体偏绿、下体浅色。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "As an obligate nectarivore, the bee hummingbird plays a critical ecological role as a pollinator for various endemic Cuban plant species, exhibiting a high degree of coevolution with tubular flowers. They consume up to half their body weight in nectar daily, supplemented by occasional micro-insects and spiders to fulfill protein requirements. Highly territorial, males fiercely defend their feeding patches from much larger competitors, including sphinx moths and other hummingbird species. To survive cold nights and periods of food scarcity, they enter a state of profound torpor, drastically lowering their body temperature and metabolic rate.",
-      "zh": "作为专性食蜜动物，吸蜜蜂鸟在生态系统中扮演着至关重要的传粉者角色，为多种古巴特有植物授粉，并与管状花朵表现出高度的协同进化。它们每天消耗高达自身体重一半的花蜜，并偶尔捕食微型昆虫和蜘蛛以满足蛋白质需求。雄鸟具有极强的领地意识，会激烈地保卫其觅食区域，甚至驱赶体型大得多的竞争者，如天蛾和其他蜂鸟。为了在寒冷的夜晚和食物短缺的时期生存，它们会进入深度的蛰伏状态，大幅降低体温和代谢率。"
+      "en": "The birds feed on flower nectar and capture tiny insects and spiders for protein. Hovering allows feeding without a perch, and territorial individuals defend productive flower patches; pollen carried on the head and bill contributes to pollination.",
+      "zh": "它们取食花蜜，也捕捉微小昆虫和蜘蛛补充蛋白质。悬停使其无需停栖即可取食，具领地性的个体会保卫高产花源；头部和喙携带的花粉有助于传粉。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Historically distributed throughout the entire Cuban archipelago, the bee hummingbird's range has become increasingly fragmented due to agricultural expansion and deforestation. Today, it is primarily restricted to dense, mature forests, woodland edges, and well-vegetated gardens in localized areas such as the Zapata Swamp, the Guanahacabibes Peninsula, and the Alexander von Humboldt National Park, as well as parts of Isla de la Juventud. They prefer habitats with an abundance of flowering plants, particularly the Solandra grandiflora, which provides a reliable nectar source.",
-      "zh": "历史上，吸蜜蜂鸟曾广泛分布于整个古巴群岛，但由于农业扩张和森林砍伐，其分布范围日益碎片化。如今，它们主要局限于茂密的成熟森林、林地边缘以及植被茂盛的花园中，主要分布在萨帕塔沼泽、瓜纳阿卡维韦斯半岛、亚历山大·冯·洪堡国家公园以及青年岛的部分地区。它们偏好开花植物丰富的栖息地，尤其是大花金杯藤（Solandra grandiflora），这为它们提供了可靠的花蜜来源。"
+      "en": "The species occurs only in Cuba, with a fragmented distribution in mature and secondary forest, woodland edges, shrubland and well-vegetated gardens. Important areas include the Zapata region, Guanahacabibes and parts of eastern Cuba.",
+      "zh": "该物种仅分布于古巴，在成熟林、次生林、林缘、灌丛和植被良好的花园中呈破碎分布。重要地区包括萨帕塔、瓜纳阿卡维韦斯及古巴东部部分地区。",
+      "source_keys": [
+        "range",
+        "conservation"
+      ]
     }
   },
   "habitat": {
@@ -65,13 +78,303 @@
       -79.5
     ],
     "map_zoom_level": 6,
-    "global_distribution_polygons": []
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous representative center and zoom are retained exactly. Authoritative range sources were checked, but no reusable authoritative polygon geometry was available; the point is explicitly labelled as not showing the full range.",
+      "comparison_zh": "原有代表性中心点和缩放完全保留。已检查权威分布来源，但未获得可复用的权威多边形几何；页面明确标注该点并不表示完整分布范围。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/bee-hummingbird.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "American Ornithological Society checklist",
+      "url": "https://checklist.americanornithology.org/taxa/867",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Mellisuga_helenae/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Mellisuga_helenae/",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "BirdLife International species factsheet",
+      "url": "https://datazone.birdlife.org/species/factsheet/bee-hummingbird-mellisuga-helenae",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "BirdLife International species factsheet",
+      "url": "https://datazone.birdlife.org/species/factsheet/bee-hummingbird-mellisuga-helenae",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, taxonomy, protection status, numerical claims, English/Chinese scope and preserved legacy map geometry were checked for legacy QC batch 02."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "male_length",
+        "label": {
+          "en": "Male length",
+          "zh": "雄鸟体长"
+        },
+        "value": {
+          "en": "About 5.5 cm",
+          "zh": "约5.5厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "male_weight",
+        "label": {
+          "en": "Male weight",
+          "zh": "雄鸟体重"
+        },
+        "value": {
+          "en": "About 1.95 g",
+          "zh": "约1.95克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "female_weight",
+        "label": {
+          "en": "Female weight",
+          "zh": "雌鸟体重"
+        },
+        "value": {
+          "en": "About 2.6 g",
+          "zh": "约2.6克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Nectar plus tiny insects and spiders",
+          "zh": "花蜜及微小昆虫和蜘蛛"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "clutch",
+        "label": {
+          "en": "Clutch",
+          "zh": "每窝蛋数"
+        },
+        "value": {
+          "en": "Usually 2 eggs",
+          "zh": "通常2枚"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Near Threatened",
+          "zh": "近危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "A female builds a tiny cup nest from plant fibers, bark and spider silk, usually lays 2 eggs and carries out incubation and chick care. Males display and defend feeding or courtship areas but do not share nest duties.",
+      "zh": "雌鸟用植物纤维、树皮和蛛丝建造微小杯形巢，通常产2枚蛋，并负责孵化和育雏。雄鸟展示并保卫取食或求偶区域，但不分担巢务。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Hovering flight",
+          "zh": "悬停飞行"
+        },
+        "detail": {
+          "en": "Rapidly reversing wing forces keep the bird nearly stationary while its bill reaches flowers.",
+          "zh": "翅膀快速反转受力，使鸟体几乎停在空中，同时把喙伸入花中。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Miniature body",
+          "zh": "微型身体"
+        },
+        "detail": {
+          "en": "Extremely small size permits use of tiny flowers and fine perches but demands frequent energy intake.",
+          "zh": "极小体型可利用微小花朵和细枝，但需要频繁摄取能量。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Torpor",
+          "zh": "蛰伏"
+        },
+        "detail": {
+          "en": "Temporary reduction of body temperature and metabolism can reduce overnight energy demand when conditions require it.",
+          "zh": "在需要时暂时降低体温和代谢，可减少夜间能量需求。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Bee hummingbirds transfer pollen among Cuban flowers while taking nectar and also consume small arthropods. Their dependence on flowering habitat links bird conservation to native plant communities and seasonal nectar supply.",
+      "zh": "吸蜜蜂鸟取食花蜜时在古巴花朵间转移花粉，也捕食小型节肢动物。它对开花生境的依赖把鸟类保护与本地植物群落和季节性花蜜供应连接起来。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Forest clearing, agricultural conversion, fragmentation, severe storms and changes in flowering resources threaten a species whose entire native range lies in Cuba.",
+        "zh": "森林清理、农业转化、生境破碎化、强风暴和花源变化威胁着这一整个原生分布都在古巴的物种。"
+      },
+      "actions": {
+        "en": "Protect and reconnect Cuban forest and shrub habitat, retain diverse native flowering plants, limit pesticide exposure and monitor populations across the species' separated strongholds.",
+        "zh": "应保护并重新连接古巴森林和灌丛，保留多样本地开花植物，限制农药暴露，并在各分离核心分布地监测种群。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "An exceptionally tiny Cuban hummingbird; breeding males have an iridescent red-pink head and throat, while females are green above and pale below with white-tipped outer tail feathers.",
+        "zh": "体型异常微小的古巴蜂鸟；繁殖期雄鸟头喉呈虹彩红粉色，雌鸟上绿下浅，外侧尾羽有白尖。"
+      },
+      "similar_species": {
+        "en": "The Cuban emerald is much larger with a longer bill and tail. Females and immature bee hummingbirds are harder to identify, so size, tail pattern, location and expert-quality photographs should be combined.",
+        "zh": "古巴翠蜂鸟大得多，喙和尾也更长。雌鸟和幼年吸蜜蜂鸟更难鉴定，应结合体型、尾纹、地点和专家级照片。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Males use aerial displays, iridescent plumage and thin high calls in courtship and territorial defense. Visual flashes change with feather angle, so color can appear dull when the light is wrong.",
+      "zh": "雄鸟在求偶和领地防御中使用空中展示、虹彩羽毛和细高叫声。视觉闪光随羽毛角度改变，因此光线不合适时颜色可能显得暗淡。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding and flower use track Cuba's seasonal rainfall and bloom patterns, with much nesting reported in spring and early summer. Storms can abruptly alter flowers and cover in a very small range.",
+      "zh": "繁殖和花源利用会随古巴季节性降雨与开花模式变化，许多筑巢记录集中在春季和初夏。强风暴可在狭小分布区内突然改变花源和植被遮蔽。",
+      "source_keys": [
+        "ecology",
+        "conservation"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The world's-smallest-bird distinction makes the species a strong symbol for Cuban biodiversity and nature tourism. Observation should avoid crowding nests or repeatedly playing calls in small territories.",
+      "zh": "“世界最小鸟”使其成为古巴生物多样性和自然旅游的重要象征。观察时应避免围堵巢址或在狭小领地反复播放叫声。",
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Mellisuga helenae belongs to Trochilidae, a New World radiation specialized for nectar feeding and hovering. Its extreme miniaturization is an endpoint within that hummingbird flight and metabolic design, not a separate insect-like ancestry.",
+      "zh": "吸蜜蜂鸟属于蜂鸟科这一新大陆辐射谱系，专门适应吸蜜和悬停。其极端微型化是在蜂鸟飞行和代谢结构中的极致，并不意味着具有类似昆虫的独立祖先。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "A tiny buzzing bird at flowers may be overlooked as an insect, but size impressions are unreliable. Clear views of bill, tail and sex-specific plumage plus a Cuban location are needed; never infer the species from buzzing alone.",
+      "zh": "花边嗡鸣的微小鸟可能被误看成昆虫，但体型印象并不可靠。需要清晰看到喙、尾和性别相关羽衣，并确认在古巴；绝不能只凭嗡鸣判断。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Male bee hummingbirds average about 1.95 g, making them lighter than many common coins.",
+          "zh": "雄性吸蜜蜂鸟平均约1.95克，比许多常见硬币还轻。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The female alone builds the nest and raises the usual 2-egg clutch.",
+          "zh": "雌鸟独自筑巢并抚育通常为2枚蛋的一窝。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its native distribution is limited to Cuba, so habitat changes on one archipelago affect the entire species.",
+          "zh": "其原生分布仅限古巴，因此一个群岛的生境变化就会影响整个物种。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Bird flight and nesting",
+          "zh": "鸟类飞行与筑巢"
+        },
+        "content": {
+          "en": "High-power hovering lets the adult exploit flowers, while a silk-bound cup nest and 2 tiny eggs shift the reproductive burden to a female that receives no male parental help.",
+          "zh": "高功率悬停使成鸟能利用花朵，而蛛丝固定的杯形巢和2枚微小蛋使繁殖负担落在没有雄鸟育幼帮助的雌鸟身上。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

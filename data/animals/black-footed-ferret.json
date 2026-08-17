@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "EN",
     "en": "Endangered",
-    "zh": "濒危"
+    "zh": "濒危",
+    "note_en": "The global IUCN assessment lists the black-footed ferret as Endangered. Reintroduced populations remain dependent on intensive management and healthy prairie dog colonies.",
+    "note_zh": "IUCN全球评估将黑足鼬列为濒危。重引入种群仍依赖密集管理和健康的草原犬鼠群落。"
   },
   "description": {
-    "en": "One of North America's most endangered mammals, whose survival is completely dependent on prairie dogs for both food and underground shelter.",
-    "zh": "北美洲最濒危的哺乳动物之一，其生存无论是在食物还是地下庇护所上都完全依赖于草原犬鼠。"
+    "en": "The black-footed ferret is North America's only native ferret and a highly specialized nocturnal predator of prairie dogs. Once lost from the wild, it survives through captive breeding, reintroduction and intensive management of plague, prey colonies and genetic diversity.",
+    "zh": "黑足鼬是北美唯一原生的鼬属“雪貂”，也是高度特化的夜行草原犬鼠捕食者。它曾在野外消失，如今依靠人工繁育、重引入，以及对鼠疫、猎物群落和遗传多样性的密集管理而存续。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "The black-footed ferret has a long, slender, tube-like body specifically adapted for hunting inside the narrow tunnels of prairie dogs. True to its name, its paws are jet black. It sports a tan to yellowish-brown body, a prominent black 'bandit mask' across its face, and a black-tipped tail. Its large eyes are adapted for low-light night vision, and its sharp front teeth are tailored for piercing the thick necks of its large prey.",
-      "zh": "黑足鼬拥有长而修长的管状身体，专门适应在草原犬鼠狭窄的地道内进行狩猎。正如其名，它的四足呈漆黑色。它拥有棕褐色到黄褐色的身体，面部清晰可见黑色的「强盗面纹」，以及带有黑色尖端的尾巴。它的大眼睛适应了低光下的夜视，而且其锋利的门齿专为刺穿其大型猎物粗壮的脖颈而生。"
+      "en": "Adults have a long flexible body about 46–61 cm including the tail and generally weigh about 0.7–1.1 kg. Pale yellow-buff fur contrasts with a black face mask, black feet and legs and a black tail tip; large eyes and ears support nocturnal hunting.",
+      "zh": "成体身体修长灵活，包括尾在内体长约46–61厘米，通常重约0.7–1.1千克。浅黄褐色毛与黑色面罩、黑色足腿和黑色尾尖形成对比；大眼和大耳适合夜间狩猎。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "It is an extreme dietary specialist: over 90% of its diet consists solely of prairie dogs. Because a prairie dog can be almost the same size as the ferret itself, hunting requires immense ferocity. The ferret stalks sleeping prairie dogs deep inside their dark burrows and dispatches them with a bite to the throat. They do not dig their own burrows; they entirely usurp the massive tunnel towns built by their prey to escape extreme weather and predators.",
-      "zh": "它是一种极端的食性特化动物：其饮食中超过90%完全是草原犬鼠。因为一只草原犬鼠的体型几乎和这只鼬一样大，所以狩猎需要极大的凶猛程度。鼬会在黑暗的洞穴深处跟踪熟睡的草原犬鼠，并通过咬断喉咙来了结它们。它们自己不会挖地洞；它们完全篡夺猎物建造的大型隧道群，借此躲避极端天气和捕食者。"
+      "en": "Prairie dogs make up most of the diet and their burrows provide shelter, den sites and hunting routes. Ferrets are mostly solitary and nocturnal, moving above ground between burrow openings and pursuing prey underground.",
+      "zh": "草原犬鼠构成大部分食物，其洞穴提供庇护、育幼地点和狩猎通道。黑足鼬主要独居、夜行，会在洞口间地面移动，也会进入地下追猎。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Historically widespread across the Great Plains of North America, their population collapsed when extensive agricultural poisoning campaigns nearly eradicated prairie dogs. Once thought to be completely extinct globally, a tiny remnant population of just 18 individuals was discovered by a ranch dog in Wyoming in 1981. Today, thanks to intensive, cloned breeding and reintroduction programs, small fragmented populations exist in parts of the United States, Canada, and Mexico.",
-      "zh": "历史上曾广泛分布于北美大平原，但当大规模的农业投毒运动几乎根除了草原犬鼠时，它们的种群也随之崩溃。一度被认为在全球已经完全灭绝，直到1981年，怀俄明州的一只牧羊犬意外发现了仅存的18只残余种群。如今，得益于密集的、甚至包含克隆技术的繁殖与野化放归计划，它们在美、加、墨等地的部分区域存在着少量高度断裂分布的种群。"
+      "en": "Historically the species followed prairie dog colonies across the Great Plains and intermountain grasslands of Canada, the United States and Mexico. Today it occurs at scattered reintroduction sites that maintain enough connected prairie dog habitat.",
+      "zh": "历史上，该物种随草原犬鼠群落分布于加拿大、美国和墨西哥的大平原及山间草地。如今只见于零散重引入地点，这些地区必须维持足够连通的草原犬鼠生境。",
+      "source_keys": [
+        "range",
+        "conservation"
+      ]
     }
   },
   "habitat": {
@@ -65,13 +78,303 @@
       -107
     ],
     "map_zoom_level": 5,
-    "global_distribution_polygons": []
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous representative center and zoom are retained exactly. Authoritative range sources were checked, but no reusable authoritative polygon geometry was available; the point is explicitly labelled as not showing the full range.",
+      "comparison_zh": "原有代表性中心点和缩放完全保留。已检查权威分布来源，但未获得可复用的权威多边形几何；页面明确标注该点并不表示完整分布范围。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/black-footed-ferret.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Mustela%20nigripes",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "U.S. Fish and Wildlife Service",
+      "url": "https://www.fws.gov/species/black-footed-ferret-mustela-nigripes",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "U.S. Fish and Wildlife Service",
+      "url": "https://www.fws.gov/species/black-footed-ferret-mustela-nigripes",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List Amazing Species",
+      "url": "https://nc.iucnredlist.org/redlist/amazing-species/mustela-nigripes/pdfs/original/mustela-nigripes.pdf",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "U.S. Fish and Wildlife Service",
+      "url": "https://www.fws.gov/species/black-footed-ferret-mustela-nigripes",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, taxonomy, protection status, numerical claims, English/Chinese scope and preserved legacy map geometry were checked for legacy QC batch 02."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "length",
+        "label": {
+          "en": "Total length",
+          "zh": "全长"
+        },
+        "value": {
+          "en": "About 46–61 cm including tail",
+          "zh": "包括尾约46–61厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 0.7–1.1 kg",
+          "zh": "约0.7–1.1千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Mostly prairie dogs",
+          "zh": "主要为草原犬鼠"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "gestation",
+        "label": {
+          "en": "Gestation",
+          "zh": "妊娠期"
+        },
+        "value": {
+          "en": "About 42–45 days",
+          "zh": "约42–45天"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "litter",
+        "label": {
+          "en": "Litter",
+          "zh": "每胎幼崽"
+        },
+        "value": {
+          "en": "Often 3–4 kits",
+          "zh": "常为3–4只"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Endangered",
+          "zh": "濒危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Mating occurs in late winter or spring. After about 42–45 days of gestation, a female often bears 3–4 kits in a prairie dog burrow; kits emerge above ground in summer and gradually learn to hunt before dispersing.",
+      "zh": "交配发生在冬末或春季。妊娠约42–45天后，雌鼬常在草原犬鼠洞中产下3–4只幼崽；幼崽夏季出洞，并在扩散前逐渐学习狩猎。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Burrow-shaped body",
+          "zh": "适应洞道的身体"
+        },
+        "detail": {
+          "en": "A long narrow flexible body can pursue prairie dogs and turn inside underground tunnels.",
+          "zh": "修长狭窄且灵活的身体能在地下洞道中追逐草原犬鼠并转身。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Nocturnal senses",
+          "zh": "夜行感官"
+        },
+        "detail": {
+          "en": "Large eyes, ears and strong smell support hunting and orientation in darkness.",
+          "zh": "大眼、大耳和强嗅觉帮助它在黑暗中狩猎和定向。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Borrowed shelter",
+          "zh": "利用猎物洞穴"
+        },
+        "detail": {
+          "en": "Using prairie dog burrows saves digging energy and provides protection from weather and predators.",
+          "zh": "利用草原犬鼠洞可节省挖掘能量，并躲避天气和捕食者。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Black-footed ferrets are specialized predators within prairie dog ecosystems. Their dependence makes them indicators of large, connected and functioning prairie dog landscapes that also support many grassland birds, reptiles and mammals.",
+      "zh": "黑足鼬是草原犬鼠生态系统中的特化捕食者。其依赖性使它成为大型、连通且功能正常的草原犬鼠景观指标，而这些景观也支撑许多草原鸟、爬行动物和哺乳动物。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "increasing",
+      "threats": {
+        "en": "Sylvatic plague, prairie dog poisoning and shooting, drought, habitat conversion and very low genetic diversity constrain recovery. Most wild sites are not self-sustaining without repeated management.",
+        "zh": "草原鼠疫、对草原犬鼠的投毒和射杀、干旱、生境转化及极低遗传多样性限制恢复。多数野外地点若没有反复管理，无法自我维持。"
+      },
+      "actions": {
+        "en": "Maintain large prairie dog complexes, vaccinate or manage plague where feasible, continue captive breeding and carefully planned releases, reduce inbreeding and monitor survival and reproduction at every site.",
+        "zh": "应维持大型草原犬鼠群落，在可行处开展鼠疫疫苗或管理，继续人工繁育和谨慎规划放归，减少近交，并在每个地点监测存活与繁殖。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A slender pale mustelid with a sharp black eye mask, black feet and legs and a black tail tip, usually associated with prairie dog colonies.",
+        "zh": "体形修长、毛色浅，眼部有鲜明黑面罩，足腿和尾尖为黑色，通常与草原犬鼠群落相关。"
+      },
+      "similar_species": {
+        "en": "Domestic ferrets vary widely in color and are associated with people; long-tailed weasels lack the same combination of broad face mask and black feet. Location and clear full-body views are essential.",
+        "zh": "家养雪貂体色变化很大且与人类相伴；长尾鼬没有同样组合的宽黑面罩和黑足。地点和清晰全身视图至关重要。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Ferrets use scent marking, body posture and several calls in close interactions. Mothers and kits communicate around dens, while adults usually avoid one another outside breeding.",
+      "zh": "黑足鼬在近距离互动中使用气味标记、身体姿势和多种叫声。母鼬与幼崽在巢穴附近交流，成体在非繁殖期通常彼此回避。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding occurs in late winter and spring, kits emerge in summer and young disperse by autumn. Plague, drought and prairie dog activity can cause strong year-to-year changes in survival and available habitat.",
+      "zh": "繁殖发生在冬末和春季，幼崽夏季出洞，年轻个体到秋季扩散。鼠疫、干旱和草原犬鼠活动会造成存活率和可用生境的强烈年际变化。",
+      "source_keys": [
+        "ecology",
+        "conservation"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The species' recovery depends on cooperation among wildlife agencies, tribes, landowners, zoos and local communities. Prairie dog management can be contentious, so recovery planning must address both ecological needs and working-land concerns.",
+      "zh": "该物种恢复依赖野生动物机构、部落、土地所有者、动物园和地方社区合作。草原犬鼠管理可能有争议，因此恢复规划必须同时处理生态需求和生产用地关切。",
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Mustela nigripes is a true mustelid and the only ferret species native to the Americas. Its ecological specialization evolved around prairie dog prey and burrow systems in North American grasslands.",
+      "zh": "黑足鼬是真正的鼬科动物，也是美洲唯一原生鼬属雪貂。其生态特化围绕北美草原的草原犬鼠猎物和洞穴系统演化。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "Ferrets may appear briefly at prairie dog burrow entrances at night. Tracks and scat overlap with other small carnivores, and spotlighting can disturb animals; surveys should follow recovery-program protocols.",
+      "zh": "黑足鼬可能在夜间短暂出现在草原犬鼠洞口。足迹和粪便与其他小型食肉动物重叠，聚光灯调查也会干扰动物；调查应遵循恢复项目规程。",
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The species was rediscovered near Meeteetse, Wyoming, in 1981 after it had been presumed extinct.",
+          "zh": "该物种一度被认为灭绝，直到1981年在怀俄明州米蒂齐附近重新发现。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Prairie dog colonies provide both most of the ferret's food and nearly all of its shelter.",
+          "zh": "草原犬鼠群落既提供黑足鼬的大部分食物，也提供几乎全部庇护。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "Reintroduction alone is not enough when plague or prairie dog loss removes the ecological foundation of a site.",
+          "zh": "当鼠疫或草原犬鼠丧失破坏地点的生态基础时，仅仅重引入并不足够。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Mammal recovery breeding",
+          "zh": "哺乳动物恢复繁育"
+        },
+        "content": {
+          "en": "Captive pairing, genetic management, disease control and post-release monitoring must function as one system; producing kits is useful only when released animals also have healthy prairie dog landscapes.",
+          "zh": "人工配对、遗传管理、疾病控制和放归后监测必须作为一个系统运作；只有放归个体同时拥有健康草原犬鼠景观时，繁育幼崽才真正有用。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

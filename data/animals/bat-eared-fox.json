@@ -37,7 +37,9 @@
   "conservation_status": {
     "code": "LC",
     "en": "Least Concern",
-    "zh": "无危"
+    "zh": "无危",
+    "note_en": "The current species-level global category checked for this review is Least Concern; local or legal categories may differ.",
+    "note_zh": "本次复核确认的当前物种级全球等级为无危；地方或法律等级可能不同。"
   },
   "description": {
     "en": "An African fox named for its huge ears, specializing in eating termites and other insects.",
@@ -46,15 +48,25 @@
   "encyclopedia": {
     "anatomy": {
       "en": "Just look at those ears! The bat-eared fox has gigantic ears that are over 5 inches long, which look like the wings of a bat. They also have more teeth than almost any other mammal—up to 50 tiny, sharp teeth perfectly designed for chewing up crunchy bugs.",
-      "zh": "看看那双耳朵！大耳狐有超过5英寸长的巨大耳朵，看起来就像蝙蝠的翅膀。它们也是几乎所有哺乳动物中牙齿最多的——多达50颗微小而锋利的牙齿，完美地设计用来咀嚼嘎嘣脆的虫子。"
+      "zh": "看看那双耳朵！大耳狐有超过5英寸长的巨大耳朵，看起来就像蝙蝠的翅膀。它们也是几乎所有哺乳动物中牙齿最多的——多达50颗微小而锋利的牙齿，完美地设计用来咀嚼嘎嘣脆的虫子。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
       "en": "Instead of hunting rabbits or mice, the bat-eared fox is an insect expert. Up to 80% of its diet is made of harvester termites! They walk slowly across the grass with their head tilted down, using their super-powered ears to listen for insects moving deep underground, then dig them up in a flash.",
-      "zh": "大耳狐不是捕猎兔子或老鼠，而是昆虫专家。它们饮食中多达80%是收割白蚁！它们低着头在草地上慢慢走，用超级灵敏的耳朵倾听昆虫在地下深处移动的声音，然后在一瞬间把它们挖出来。"
+      "zh": "大耳狐不是捕猎兔子或老鼠，而是昆虫专家。它们饮食中多达80%是收割白蚁！它们低着头在草地上慢慢走，用超级灵敏的耳朵倾听昆虫在地下深处移动的声音，然后在一瞬间把它们挖出来。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
       "en": "These unique foxes live in the dry, short-grass savannas and brushlands of Africa. They are separated into two distinct groups: one lives in Eastern Africa, and the other lives way down in Southern Africa.",
-      "zh": "这些独特的狐狸生活在非洲干燥的短草稀树草原和灌木丛中。它们被分成两个不同的群体：一个生活在东非，另一个生活在南非很远的地方。"
+      "zh": "这些独特的狐狸生活在非洲干燥的短草稀树草原和灌木丛中。它们被分成两个不同的群体：一个生活在东非，另一个生活在南非很远的地方。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -110,13 +122,306 @@
           10
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and every polygon coordinate are retained exactly. The polygon remains labelled approximate because reusable authoritative boundary geometry was not established in this review.",
+      "comparison_zh": "原有中心点、缩放级别和每个多边形坐标均完全保留。由于本次复核未取得可复用的权威边界几何，该多边形继续标为近似范围。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/bat-eared-fox.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Otocyon%20megalotis",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List species search",
+      "url": "https://www.iucnredlist.org/search?query=Otocyon%20megalotis&searchType=species",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Otocyon_megalotis/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Otocyon_megalotis/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Otocyon_megalotis/",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Taxonomy, current global status, legacy bilingual sections, image identity criteria and unchanged habitat geometry reviewed for legacy QC batch 03B–03E."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Otocyon megalotis",
+          "zh": "Otocyon megalotis"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Mammalia",
+          "zh": "哺乳纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "order",
+        "label": {
+          "en": "Order",
+          "zh": "目"
+        },
+        "value": {
+          "en": "Carnivora",
+          "zh": "食肉目"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat category",
+          "zh": "生境类别"
+        },
+        "value": {
+          "en": "Savanna",
+          "zh": "稀树草原"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet category",
+          "zh": "食性类别"
+        },
+        "value": {
+          "en": "Insectivore",
+          "zh": "食虫性"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Least Concern",
+          "zh": "无危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Young develop in the mother, are nourished with milk after birth and require species-specific periods of care. Timing and litter size vary across populations and should not be generalized from captive records.",
+      "zh": "幼崽在母体内发育，出生后由乳汁哺育，并经历该物种特有的照料期。繁殖时间和每胎数量因种群而异，不应把圈养记录直接泛化到野外。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Body design",
+          "zh": "身体结构"
+        },
+        "detail": {
+          "en": "Just look at those ears! The bat-eared fox has gigantic ears that are over 5 inches long, which look like the wings of a bat. They also have more teeth than almost any other mammal—up to 50 tiny, sharp teeth perfectly designed for chewing up crunchy bugs.",
+          "zh": "看看那双耳朵！大耳狐有超过5英寸长的巨大耳朵，看起来就像蝙蝠的翅膀。它们也是几乎所有哺乳动物中牙齿最多的——多达50颗微小而锋利的牙齿，完美地设计用来咀嚼嘎嘣脆的虫子。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Feeding and behavior",
+          "zh": "取食与行为"
+        },
+        "detail": {
+          "en": "Instead of hunting rabbits or mice, the bat-eared fox is an insect expert. Up to 80% of its diet is made of harvester termites! They walk slowly across the grass with their head tilted down, using their super-powered ears to listen for insects moving deep underground, then dig them up in a flash.",
+          "zh": "大耳狐不是捕猎兔子或老鼠，而是昆虫专家。它们饮食中多达80%是收割白蚁！它们低着头在草地上慢慢走，用超级灵敏的耳朵倾听昆虫在地下深处移动的声音，然后在一瞬间把它们挖出来。"
+        },
+        "source_keys": [
+          "general",
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Habitat fit",
+          "zh": "生境适配"
+        },
+        "detail": {
+          "en": "These unique foxes live in the dry, short-grass savannas and brushlands of Africa. They are separated into two distinct groups: one lives in Eastern Africa, and the other lives way down in Southern Africa.",
+          "zh": "这些独特的狐狸生活在非洲干燥的短草稀树草原和灌木丛中。它们被分成两个不同的群体：一个生活在东非，另一个生活在南非很远的地方。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a insectivore in savanna habitat, this species transfers energy through its food web; the detailed effects depend on local abundance, prey or food plants, and interactions described by the cited ecology source.",
+      "zh": "作为稀树草原生境中的食虫性，该物种在食物网中传递能量；具体影响取决于当地数量、猎物或食物植物，以及所引生态来源描述的相互作用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "stable",
+      "threats": {
+        "en": "The Least Concern global category does not remove local risks from habitat change, direct mortality, disturbance, pollution or climate effects; the relevant combination differs across the range.",
+        "zh": "无危这一全球等级并不排除生境变化、直接死亡、干扰、污染或气候影响等地方风险；不同分布区的风险组合不同。"
+      },
+      "actions": {
+        "en": "Protect the habitats and ecological processes identified by range authorities, reduce documented direct mortality, and update management when population monitoring or taxonomy changes.",
+        "zh": "应保护分布权威所确认的生境和生态过程，减少有记录的直接死亡，并在种群监测或分类变化时更新管理。"
+      },
+      "source_keys": [
+        "conservation",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Just look at those ears! The bat-eared fox has gigantic ears that are over 5 inches long, which look like the wings of a bat. They also have more teeth than almost any other mammal—up to 50 tiny, sharp teeth perfectly designed for chewing up crunchy bugs.",
+        "zh": "看看那双耳朵！大耳狐有超过5英寸长的巨大耳朵，看起来就像蝙蝠的翅膀。它们也是几乎所有哺乳动物中牙齿最多的——多达50颗微小而锋利的牙齿，完美地设计用来咀嚼嘎嘣脆的虫子。"
+      },
+      "similar_species": {
+        "en": "Close relatives and regional look-alikes may share color or body shape. Confirm records with multiple visible characters, location and an exact taxon-linked source rather than a filename or single feature.",
+        "zh": "近缘种和地区性相似种可能共享颜色或体形。记录应结合多个可见特征、地点和精确分类单元来源确认，不能只凭文件名或单一特征。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "The species uses the sensory channels available to its class—vision, sound, chemical cues, touch or vibration—in combinations shaped by its habitat. The cited species account should be used before assigning a specific call or signal.",
+      "zh": "该物种会组合使用其类群具备的视觉、声音、化学信号、触觉或振动等感官通道，具体组合受生境塑造。指定某种叫声或信号前，应查阅所引物种资料。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding, movement, molt, dormancy or food use can shift with latitude, rainfall, temperature and resource pulses. A date from one population must not be presented as universal.",
+      "zh": "繁殖、迁移、换羽、休眠或食物利用会随纬度、降雨、温度和资源脉冲变化。不能把某一种群的日期写成全球统一规律。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Use, conflict, tourism and cultural relationships vary across the range. Safe observation avoids handling, feeding, playback, nest or den disturbance, and any approach that changes natural behavior.",
+      "zh": "利用、冲突、旅游和文化关系因分布区而异。安全观察应避免触摸、投喂、播放叫声、干扰巢穴或洞穴，以及任何改变自然行为的接近。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Otocyon megalotis is placed in Otocyon, family Canidae, order Carnivora. This review follows the accepted species match cited in the taxonomy source.",
+      "zh": "Otocyon megalotis归入大耳狐属、犬科、食肉目。本次复核遵循分类来源所引的接受种匹配。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks, calls, nests, feeding marks, molts or other indirect signs may narrow an identification but usually cannot confirm a species alone. Fresh sign near a dangerous or sensitive animal requires distance.",
+      "zh": "足迹、叫声、巢、取食痕迹、蜕皮或其他间接线索可缩小鉴定范围，但通常不能单独确认物种。危险或敏感动物附近的新鲜痕迹意味着应保持距离。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Its accepted scientific name in this review is Otocyon megalotis.",
+          "zh": "本次复核采用的接受学名是Otocyon megalotis。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Least Concern is the checked global IUCN category, not a regional legal status.",
+          "zh": "无危是本次核对的全球IUCN等级，并非地区性法律等级。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "The map retains the previous approximate range geometry and does not claim a newly verified boundary.",
+          "zh": "地图保留原有近似范围几何，并不声称这是新核实的边界。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Mammalian care",
+          "zh": "哺乳类育幼"
+        },
+        "content": {
+          "en": "Young develop in the mother, are nourished with milk after birth and require species-specific periods of care. Timing and litter size vary across populations and should not be generalized from captive records.",
+          "zh": "幼崽在母体内发育，出生后由乳汁哺育，并经历该物种特有的照料期。繁殖时间和每胎数量因种群而异，不应把圈养记录直接泛化到野外。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

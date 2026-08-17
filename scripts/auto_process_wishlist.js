@@ -21,24 +21,69 @@ const ANIMALS_DIR = path.join(ROOT, "data", "animals");
 const MANIFEST_PATH = path.join(ROOT, "data", "image-attribution.json");
 const BATCH_SIZE = 5;
 
-const GENERATE_PROMPT = `You create fact-checked bilingual species records for Wild Explorer, a children's wildlife encyclopedia.
-Return exactly one raw JSON object, with no Markdown.
+const GENERATE_PROMPT = `You create source-backed bilingual species records for Wild Explorer, a children's wildlife encyclopedia.
+Return exactly one raw JSON object, with no Markdown. The JSON must use content_version 2 and follow the schema below.
 
-Rules:
-- The requested scientific name is authoritative. Never silently substitute a fuzzy search result.
-- Use species-level binomial nomenclature. Domestic forms may use an explicitly supplied accepted binomial.
-- ui_tags must contain exactly [Class, Habitat, Diet].
-- Class: Mammal, Bird, Reptile, Amphibian, Fish, Insect, Arachnid, Crustacean, Mollusk, Cnidarian, Invertebrate.
-- Habitat: Forest, Grassland, Savanna, Desert, Mountains, Ocean, Freshwater, Wetland, Tundra, Coastal, Coral Reef, Urban, Farm, Cave, Island, Global.
-- Diet: Carnivore, Herbivore, Omnivore, Insectivore, Frugivore, Piscivore, Scavenger, Filter Feeder, Nectarivore, Sanguivore, Detritivore, Parasitoid, Fungivore.
-- IUCN code must be EX, EW, CR, EN, VU, NT, LC, DD, or NE, with the canonical English and Chinese label.
-- All map coordinates are [latitude, longitude]. A polygon must be a closed non-rectangular ring of verified range coordinates. When no trustworthy range geometry is available, use []. Never invent a bounding box.
-- Write clear, accurate text for a 9-year-old reader: concise overview plus 2-3 sentences per encyclopedia section.
+Scientific and editorial rules:
+- Keep the requested scientific name exactly unless the request itself is invalid. Use a species-level binomial.
+- Verify claims against authoritative or institutional sources. Never invent a URL, measurement, population trend, range polygon, look-alike, or "fun fact".
+- Every encyclopedia section, quick fact, adaptation, and rich-content module must include source_keys that exist in the top-level sources object.
+- Set content_review factual_qc and bilingual_qc to pending. Generation is not review; a later line-by-line source and translation audit must update them before import.
+- Prefer IUCN, Catalogue of Life/GBIF, national museums, zoos with scientific programs, government wildlife agencies, peer-reviewed references, Animal Diversity Web, Birds of the World, FishBase, AmphibiaWeb, Reptile Database, and similarly appropriate authorities.
+- Write for a curious 9-year-old: specific, accurate, lively, non-sensational, and 2-4 sentences per prose section. Chinese and English must convey the same facts.
+- For unknown or disputed facts, say that they are unknown or disputed. Do not fill gaps with guesses.
+- Quick facts: 4-8 sourced items. Use snake_case keys such as lifespan, body_size, weight, diet, activity, social_unit, reproduction, speed, or depth. State a range and context instead of false precision.
+- Adaptations: 3-5 items explaining both the feature and its function.
+- Did-you-know: 3-5 short, source-backed facts that do not merely repeat another section.
+- Class-specific: 1-3 modules suited to the animal (for example bird song/migration/nesting; mammal gestation/lactation/social system; fish depth/salinity/schooling; amphibian metamorphosis/toxins; reptile thermoregulation/venom; insect metamorphosis/host plant/caste; cnidarian sting/life stages).
+- ui_tags must contain exactly [Class, Habitat, Diet]. Use only the allowed values enforced by scripts/lib/animal-schema.js.
+- IUCN code must use its canonical English and Chinese labels. Population trend is increasing, stable, decreasing, or unknown.
+- Coordinates are [latitude, longitude]. Search authoritative spatial sources before falling back to a point. Only include a closed non-rectangular polygon derived from trustworthy range geometry; otherwise use []. Never invent a bounding box.
+- habitat.range_review must state whether the map shows verified polygons, an unchanged legacy approximate polygon, or only a representative point; cite the range sources and compare the proposed result with any previous geometry. Preserve old polygons unless clearly wrong. Use legacy-polygon-retained when retaining useful old geometry that has not been replaced by reusable authoritative geometry. New records use previous_result not-applicable; replacement reviews must use retained, replaced, or removed-unverified and explain why in both languages.
 - image must be null.
-- Include sources.taxonomy and sources.conservation with authority, source URL when known, and checked_at.
 
-Schema:
-{"id":"kebab-case","name_zh":"...","name_en":"...","scientific_name":"Genus species","ui_tags":["Class","Habitat","Diet"],"taxonomy":{"kingdom":{"en":"Animalia","zh":"动物界"},"phylum":{"en":"...","zh":"..."},"class":{"en":"...","zh":"..."},"order":{"en":"...","zh":"..."},"family":{"en":"...","zh":"..."},"genus":{"en":"...","zh":"..."}},"conservation_status":{"code":"...","en":"...","zh":"..."},"description":{"en":"...","zh":"..."},"encyclopedia":{"anatomy":{"en":"...","zh":"..."},"ecology_and_behavior":{"en":"...","zh":"..."},"habitat_and_distribution":{"en":"...","zh":"..."}},"habitat":{"text_en":"...","text_zh":"...","map_coordinates":[0,0],"map_zoom_level":4,"global_distribution_polygons":[]},"image":null,"sources":{"taxonomy":{"authority":"...","url":"...","checked_at":"YYYY-MM-DD"},"conservation":{"authority":"IUCN Red List","url":"...","checked_at":"YYYY-MM-DD"}}}`;
+Required shape (all shown fields are required):
+{
+  "content_version": 2,
+  "content_review": {"factual_qc":"pending","bilingual_qc":"pending"},
+  "id": "kebab-case",
+  "name_zh": "...",
+  "name_en": "...",
+  "scientific_name": "Genus species",
+  "ui_tags": ["Class", "Habitat", "Diet"],
+  "taxonomy": {"kingdom":{"en":"Animalia","zh":"动物界"},"phylum":{"en":"...","zh":"..."},"class":{"en":"...","zh":"..."},"order":{"en":"...","zh":"..."},"family":{"en":"...","zh":"..."},"genus":{"en":"...","zh":"..."}},
+  "conservation_status": {"code":"...","en":"...","zh":"...","note_en":"optional","note_zh":"optional"},
+  "description": {"en":"...","zh":"..."},
+  "encyclopedia": {
+    "anatomy": {"en":"...","zh":"...","source_keys":["general"]},
+    "ecology_and_behavior": {"en":"...","zh":"...","source_keys":["ecology"]},
+    "habitat_and_distribution": {"en":"...","zh":"...","source_keys":["range"]}
+  },
+  "rich_content": {
+    "quick_facts": [{"key":"body_size","label":{"en":"Body size","zh":"体型"},"value":{"en":"...","zh":"..."},"source_keys":["general"]}],
+    "life_cycle_and_reproduction": {"en":"...","zh":"...","source_keys":["general"]},
+    "adaptations": [{"title":{"en":"...","zh":"..."},"detail":{"en":"...","zh":"..."},"source_keys":["general"]}],
+    "ecological_role": {"en":"...","zh":"...","source_keys":["ecology"]},
+    "conservation_and_threats": {"population_trend":"unknown","threats":{"en":"...","zh":"..."},"actions":{"en":"...","zh":"..."},"source_keys":["conservation"]},
+    "identification": {"key_features":{"en":"...","zh":"..."},"similar_species":{"en":"...","zh":"..."},"source_keys":["general"]},
+    "communication_and_senses": {"en":"...","zh":"...","source_keys":["general"]},
+    "seasonal_calendar": {"en":"...","zh":"...","source_keys":["ecology"]},
+    "relationship_with_humans": {"en":"...","zh":"...","source_keys":["general"]},
+    "evolution": {"en":"...","zh":"...","source_keys":["taxonomy"]},
+    "field_signs": {"en":"...","zh":"...","source_keys":["general"]},
+    "did_you_know": [{"text":{"en":"...","zh":"..."},"source_keys":["general"]}],
+    "class_specific": [{"title":{"en":"...","zh":"..."},"content":{"en":"...","zh":"..."},"source_keys":["general"]}]
+  },
+  "habitat": {"text_en":"...","text_zh":"...","map_coordinates":[0,0],"map_zoom_level":4,"global_distribution_polygons":[],"range_review":{"display_mode":"representative-point","previous_result":"not-applicable","source_keys":["range"],"comparison_en":"...","comparison_zh":"...","checked_at":"YYYY-MM-DD"}},
+  "image": null,
+  "sources": {
+    "taxonomy":{"authority":"...","url":"https://...","checked_at":"YYYY-MM-DD"},
+    "conservation":{"authority":"IUCN Red List","url":"https://...","checked_at":"YYYY-MM-DD"},
+    "general":{"authority":"...","url":"https://...","checked_at":"YYYY-MM-DD"},
+    "ecology":{"authority":"...","url":"https://...","checked_at":"YYYY-MM-DD"},
+    "range":{"authority":"...","url":"https://...","checked_at":"YYYY-MM-DD"}
+  }
+}`;
 
 function parseArgs() {
   const index = process.argv.indexOf("--finalize");
@@ -64,18 +109,23 @@ async function callGenerator(entry) {
     method: "POST",
     headers: { "Content-Type": "application/json", Authorization: `Bearer ${apiKey}` },
     body: JSON.stringify({
-      model: process.env.DEEPSEEK_MODEL || "deepseek-chat",
+      model: process.env.DEEPSEEK_MODEL || "deepseek-v4-flash",
       messages: [
         { role: "system", content: GENERATE_PROMPT },
         { role: "user", content: `${entry.zh} | ${entry.en} | ${entry.scientific}` },
       ],
       temperature: 0.1,
+      max_tokens: 12000,
       response_format: { type: "json_object" },
     }),
   });
   if (!response.ok) throw new Error(`DeepSeek HTTP ${response.status}`);
   const data = await response.json();
-  return JSON.parse(data.choices?.[0]?.message?.content || "");
+  const choice = data.choices?.[0];
+  if (choice?.finish_reason !== "stop") {
+    throw new Error(`DeepSeek generation did not finish cleanly (${choice?.finish_reason || "missing finish reason"})`);
+  }
+  return JSON.parse(choice.message?.content || "");
 }
 
 function writeAtomic(filePath, content) {
@@ -103,7 +153,7 @@ async function prepareDraft() {
     if (entry.scientific !== "—" && animal.scientific_name.toLowerCase() !== entry.scientific.toLowerCase()) {
       throw new Error(`${entry.en}: generator changed scientific name from ${entry.scientific} to ${animal.scientific_name}`);
     }
-    const result = validateAnimal(animal);
+    const result = validateAnimal(animal, { requireRichContent: true });
     if (result.errors.length > 0) throw new Error(`${entry.en}: ${result.errors.join("; ")}`);
     generated.push(animal);
   }
@@ -120,7 +170,11 @@ function finalize(ids) {
     const filePath = path.join(ANIMALS_DIR, `${id}.json`);
     if (!fs.existsSync(filePath)) throw new Error(`${id}: published JSON does not exist`);
     const animal = JSON.parse(fs.readFileSync(filePath, "utf8"));
-    const result = validateAnimal(animal, { fileName: `${id}.json` });
+    const result = validateAnimal(animal, {
+      fileName: `${id}.json`,
+      requireRichContent: true,
+      requireReview: true,
+    });
     if (result.errors.length > 0) throw new Error(`${id}: ${result.errors.join("; ")}`);
     if (manifest[id]?.review_status !== "human-approved" || manifest[id]?.license_status !== "verified") {
       throw new Error(`${id}: image has not passed licensed human approval`);

@@ -31,30 +31,43 @@
     },
     "genus": {
       "en": "Pandinus",
-      "zh": "巨蝎属"
+      "zh": "帝王蝎属"
     }
   },
   "conservation_status": {
     "code": "NE",
     "en": "Not Evaluated",
-    "zh": "未评估"
+    "zh": "未评估",
+    "note_en": "The emperor scorpion is not evaluated by IUCN and is listed in CITES Appendix II, which regulates international trade; Appendix II is not an IUCN threat category.",
+    "note_zh": "帝王蝎尚未接受IUCN评估，并列入CITES附录II以管制国际贸易；附录II并不是IUCN受威胁等级。"
   },
   "description": {
-    "en": "The Emperor Scorpion (Pandinus imperator) is one of the largest scorpion species in the world, renowned for its massive, heavily sclerotized pedipalps and striking glossy black carapace that fluoresces a brilliant cyan-green under ultraviolet light. Native to the dense tropical rainforests and humid savannas of West Africa, this formidable arachnid relies primarily on its immense physical strength rather than its mild venom to subdue prey. Unlike most solitary arachnids, P. imperator exhibits remarkable subsocial behaviors, often forming communal burrows where multiple individuals, including mothers and their offspring, coexist peacefully.",
-    "zh": "帝王蝎（Pandinus imperator）是世界上体型最大的蝎子之一，以其巨大且高度骨化的触肢（螯）和在紫外线照射下会发出耀眼蓝绿色荧光的乌黑发亮背甲而闻名。这种令人敬畏的蛛形纲动物原产于西非茂密的热带雨林和潮湿的稀树草原，主要依靠其惊人的物理力量而非微弱的毒液来制服猎物。与大多数独居的蛛形纲动物不同，帝王蝎表现出显著的亚社会性行为，经常形成公共洞穴，多个个体（包括母亲及其后代）在其中和平共处。"
+    "en": "The emperor scorpion is a large glossy-black forest scorpion from West Africa. It usually subdues prey with massive pincers rather than relying on its sting, gives birth to live young and is internationally traded under CITES Appendix II controls.",
+    "zh": "帝王蝎是原产西非的大型亮黑色森林蝎。它通常用巨大的螯肢制服猎物，而不是主要依赖螫针；它产活体幼体，国际贸易受CITES附录II管制。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "Reaching lengths of up to 20 centimeters and weighing over 30 grams, the Emperor Scorpion possesses a robust, dorsoventrally flattened body divided into the cephalothorax (prosoma) and abdomen (opisthosoma), terminating in a telson equipped with an aculeus (stinger). Its hypertrophied pedipalps are covered in sensory setae (trichobothria) that detect minute aerial and substrate vibrations. The ventral pectines, highly specialized chemo- and mechanosensory appendages, are crucial for navigating the forest floor and identifying mates.",
-      "zh": "帝王蝎体长可达20厘米，重超30克，拥有粗壮且背腹扁平的身体，分为头胸部（前体）和腹部（后体），末端是带有毒针的尾节。其极度肥大的触肢上布满了感觉刚毛（听毛），能够探测到空气和基质中极其微小的震动。腹部的栉状器是高度特化的化学和机械感觉附肢，对于在森林地表导航和识别配偶至关重要。"
+      "en": "Adults average about 20 cm long and have a glossy black body, 8 walking legs, 2 massive pedipalps, a segmented tail ending in a sting and comb-like pectines underneath. The exoskeleton fluoresces blue-green under ultraviolet light.",
+      "zh": "成体平均长约20厘米，身体亮黑，有8条步足、2个巨大的螯肢、末端具螫针的分节尾，以及腹面的梳状栉器。外骨骼在紫外光下会发出蓝绿色荧光。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "As a nocturnal apex micro-predator, P. imperator feeds on a diverse array of invertebrates, including insects, myriapods, and occasionally small terrestrial vertebrates. They are obligate burrowers, often excavating extensive subterranean galleries beneath leaf litter, fallen logs, or within abandoned termite mounds to escape diurnal heat and maintain osmotic balance. Maternal investment is exceptionally high; females carry their altricial scorplings on their dorsum for several weeks until their first ecdysis, ensuring high juvenile survivorship.",
-      "zh": "作为夜行性的微型顶级掠食者，帝王蝎捕食多种无脊椎动物，包括昆虫、多足类，偶尔也捕食小型陆生脊椎动物。它们是专性穴居动物，经常在落叶层、倒木下或废弃的白蚁丘内挖掘广阔的地下通道，以躲避白天的酷热并维持渗透压平衡。其母性投入极高；雌性会将晚熟的幼蝎背在背上长达数周，直到它们完成第一次蜕皮，从而确保幼体的高存活率。"
+      "en": "This nocturnal predator shelters in burrows, leaf litter, stream banks and termite mounds and eats mainly insects and other arthropods, especially termites. Large pincers usually seize and crush prey; the sting is used more in defense and by juveniles.",
+      "zh": "这种夜行捕食者藏身于洞穴、落叶层、溪岸和白蚁丘，主要取食昆虫及其他节肢动物，尤其是白蚁。大型螯肢通常用于抓握和压碎猎物；螫针更多用于防御，幼体也较常使用。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Endemic to the Guinean Forests of West Africa, their range spans from Senegal through Ghana to western Cameroon. They are strictly terrestrial and hygrophilous, requiring microhabitats with high relative humidity (70-80%) and stable temperatures to prevent desiccation. Deforestation and over-collection for the exotic pet trade have localized their populations, prompting their inclusion in CITES Appendix II.",
-      "zh": "帝王蝎是西非几内亚森林的特有种，其分布范围从塞内加尔穿过加纳一直延伸到喀麦隆西部。它们是严格的陆生和喜湿动物，需要相对湿度高（70-80%）且温度稳定的微生境以防止脱水。森林砍伐和异宠贸易的过度捕捉导致其种群变得局域化，促使其被列入CITES附录II。"
+      "en": "The species is native to hot humid West African forests and adjacent humid savannas, with records from countries including Benin, Côte d'Ivoire, Ghana, Guinea, Liberia, Nigeria, Sierra Leone and Togo. It depends on moist shelters and diggable substrate.",
+      "zh": "该物种原产西非炎热湿润的森林及相邻湿润稀树草原，记录国家包括贝宁、科特迪瓦、加纳、几内亚、利比里亚、尼日利亚、塞拉利昂和多哥。它依赖湿润隐蔽处和可挖掘基质。",
+      "source_keys": [
+        "cites",
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -152,7 +165,17 @@
           -17.4
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center and polygon coordinates are retained exactly. Authoritative text sources support the broad distribution, but reusable authoritative boundary geometry was not available; the polygon is therefore labelled as a retained approximate legacy range, not a verified range.",
+      "comparison_zh": "原有中心点和多边形坐标完全保留。权威文字来源支持其大致分布，但未获得可复用的权威边界几何，因此该多边形标为“保留的原有近似范围”，而非“已核实范围”。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/emperor-scorpion.jpg",
   "legal_status": {
@@ -161,9 +184,296 @@
     "zh": "《濒危野生动植物种国际贸易公约》附录 II"
   },
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Pandinus%20imperator",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Pandinus_imperator/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Pandinus_imperator/",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List species search",
+      "url": "https://www.iucnredlist.org/search?query=Pandinus%20imperator&searchType=species",
+      "checked_at": "2026-08-16"
+    },
+    "cites": {
+      "authority": "CITES Animals Committee range and trade review",
+      "url": "https://cites.org/sites/default/files/eng/com/ac/26/E26-12-02-A.pdf",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "CITES Animals Committee range and trade review",
+      "url": "https://cites.org/sites/default/files/eng/com/ac/26/E26-12-02-A.pdf",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, taxonomy, protection status, numerical claims, English/Chinese scope and preserved legacy map geometry were checked for pilot batch 01."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "length",
+        "label": {
+          "en": "Length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "About 20 cm on average",
+          "zh": "平均约20厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Mostly insects and other arthropods",
+          "zh": "主要为昆虫和其他节肢动物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Nocturnal",
+          "zh": "夜行"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "gestation",
+        "label": {
+          "en": "Gestation",
+          "zh": "妊娠期"
+        },
+        "value": {
+          "en": "About 9 months",
+          "zh": "约9个月"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "young",
+        "label": {
+          "en": "Young",
+          "zh": "每胎幼体"
+        },
+        "value": {
+          "en": "About 10–12",
+          "zh": "约10–12只"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "trade",
+        "label": {
+          "en": "Trade listing",
+          "zh": "贸易名录"
+        },
+        "value": {
+          "en": "CITES Appendix II",
+          "zh": "CITES附录II"
+        },
+        "source_keys": [
+          "cites"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "After a courtship promenade and internal sperm transfer, gestation averages about 9 months. A female gives live birth to roughly 10–12 pale young, carries them on her back through their vulnerable first stage and becomes especially defensive; maturity is reported near 4 years.",
+      "zh": "经过求偶步行和体内精子转移后，妊娠平均约9个月。雌性产下约10–12只浅色活体幼体，在脆弱的早期阶段背负它们并表现出更强防御性；据记录约4岁成熟。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Massive pincers",
+          "zh": "巨型螯肢"
+        },
+        "detail": {
+          "en": "Broad muscular pedipalps grasp and crush prey, so adults often do not need to sting while feeding.",
+          "zh": "宽大有力的螯肢能抓握并压碎猎物，因此成体进食时常无需螫刺。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Vibration sensors",
+          "zh": "振动感受器"
+        },
+        "detail": {
+          "en": "Sensory hairs and ventral pectines detect substrate texture and vibrations despite poor eyesight.",
+          "zh": "感觉毛和腹面栉器能在视觉较差的情况下探测基质纹理与振动。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Burrow microclimate",
+          "zh": "洞穴微气候"
+        },
+        "detail": {
+          "en": "Burrows and humid debris buffer heat and water loss in tropical forest and savanna mosaics.",
+          "zh": "洞穴和湿润碎屑能在热带森林—稀树草原镶嵌环境中缓冲高温与水分流失。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Emperor scorpions consume termites and other arthropods and in turn are prey for birds, bats, mammals and spiders. Their burrowing and predation connect soil, litter and above-ground forest food webs.",
+      "zh": "帝王蝎捕食白蚁和其他节肢动物，又被鸟、蝙蝠、哺乳动物和蜘蛛捕食。其挖洞与捕食把土壤、落叶层和地上森林食物网连接起来。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "No IUCN population trend is available. Habitat loss and collection for the pet trade are concerns; international trade is controlled under CITES Appendix II because unregulated trade could become harmful.",
+        "zh": "IUCN没有可用的种群趋势。生境丧失和宠物贸易采集值得关注；国际贸易受CITES附录II管制，因为不受控贸易可能造成危害。"
+      },
+      "actions": {
+        "en": "Use legal traceable captive-bred stock, enforce CITES permits and non-detriment decisions, protect humid West African habitat and collect field population and trade data before inferring security from captive availability.",
+        "zh": "应使用合法可追溯的人工繁育个体，执行CITES许可和无害性判定，保护西非湿润生境，并收集野外种群与贸易数据，不能因人工市场常见就推断野外安全。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Very large glossy-black scorpion with exceptionally broad textured pincers, a thick body and blue-green fluorescence under UV light.",
+        "zh": "体型很大且亮黑，螯肢异常宽厚并有颗粒纹理，身体粗壮，在紫外光下呈蓝绿色荧光。"
+      },
+      "similar_species": {
+        "en": "Asian forest scorpions in Heterometrus can look extremely similar and are often confused in trade. Exact identification needs provenance and expert morphological examination, not color or size alone.",
+        "zh": "亚洲异蝎属森林蝎外形极其相似，贸易中常被混淆。精确鉴定需要来源信息和专家形态检查，不能只看颜色或大小。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Courtship relies on touch and substrate-borne movement. Sensory hairs and pectines detect prey, terrain and vibrations; vision is poor, and UV fluorescence should not be described as a proven communication signal.",
+      "zh": "求偶依靠触碰和沿基质传播的动作。感觉毛和栉器用于探测猎物、地形及振动；视觉较差，而紫外荧光不能被说成已经证实的交流信号。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding can occur through the year in humid tropical conditions, and activity rises at night when humidity is higher. Local rain and dry periods affect surface activity, while sheltered burrows buffer extremes.",
+      "zh": "在湿润热带条件下全年都可能繁殖；夜间湿度较高时活动增加。当地雨季和旱季影响地表活动，隐蔽洞穴则缓冲极端条件。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The species is popular in the pet trade and film because of its size and generally defensive rather than aggressive behavior. Its pinch and sting can still hurt, allergies are possible, and wild-caught trade requires legal documentation.",
+      "zh": "该物种因体型大、通常偏防御而非主动攻击的行为，在宠物贸易和影视中较受欢迎。但夹击和螫刺仍会疼痛，也可能引起过敏；野生来源贸易必须有合法文件。",
+      "source_keys": [
+        "general",
+        "cites"
+      ]
+    },
+    "evolution": {
+      "en": "Emperor scorpions are arachnids, not insects: like spiders they have 8 walking legs and no antennae. Scorpions are an ancient arachnid lineage, while Pandinus imperator is one modern West African member of Scorpionidae.",
+      "zh": "帝王蝎是蛛形动物而非昆虫：与蜘蛛一样有8条步足且没有触角。蝎类是古老的蛛形动物谱系，而帝王蝎是蝎科的一个现代西非成员。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "At night, experts may locate scorpions with ultraviolet lamps because the cuticle fluoresces, but many scorpion species glow. Never reach into burrows or identify a wild scorpion solely by fluorescence.",
+      "zh": "夜间专家可用紫外灯寻找会发荧光的蝎，但许多蝎种都会发光。绝不能把手伸进洞穴，也不能只凭荧光鉴定野生蝎。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Newborn emperor scorpions ride on their mother's back until after their vulnerable early stage.",
+          "zh": "帝王蝎幼体在脆弱的早期阶段会骑在母体背上。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Adults often use their enormous pincers instead of the sting to overpower prey.",
+          "zh": "成体常用巨大的螯肢而不是螫针制服猎物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "CITES Appendix II regulates trade; it is not the same as an IUCN endangered category.",
+          "zh": "CITES附录II用于贸易管制，并不等同于IUCN的濒危等级。"
+        },
+        "source_keys": [
+          "cites",
+          "conservation"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Arachnid senses",
+          "zh": "蛛形动物感官"
+        },
+        "content": {
+          "en": "Comb-like pectines sweep near the ground and add chemical and mechanical information to signals from sensory hairs on the legs and body.",
+          "zh": "梳状栉器贴近地面扫动，与腿和身体感觉毛提供的信号一起补充化学与机械信息。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

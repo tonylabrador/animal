@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "LC",
     "en": "Least Concern",
-    "zh": "无危"
+    "zh": "无危",
+    "note_en": "The 2009 global IUCN assessment lists the species as Least Concern with a stable trend; regional fishery stocks are managed separately.",
+    "note_zh": "2009年IUCN全球评估将该物种列为无危、趋势稳定；不同地区渔业种群仍需分别管理。"
   },
   "description": {
-    "en": "The American lobster is a species of lobster found on the Atlantic coast of North America. It is the heaviest crustacean in the world, reaching weights of up to 20 kilograms (44 lb). Known for its large, powerful claws, it typically has a dark bluish-green to brownish-olive color, which turns bright red only when cooked. They are long-lived organisms, with some individuals estimated to be over 100 years old. They possess a complex life cycle involving multiple larval stages before settling on the ocean floor as juveniles.",
-    "zh": "美洲螯龙虾，常被称为波士顿龙虾或缅因龙虾，是分布于北美大西洋沿岸的一种大型甲壳动物。它是世界上最重的甲壳类动物，最大体重可达20公斤。其显著特征是一对巨大的、不对称的螯足：一只为较厚重的“碎壳螯”，另一只为较锋利的“撕裂螯”。其体色通常呈深蓝绿色至褐橄榄色，只有在烹饪加热后才会变为鲜红色。美洲螯龙虾寿命极长，部分个体估计可活超过100年，其生长过程伴随着多次复杂的蜕壳阶段。"
+    "en": "The American lobster is a large clawed crustacean of the north-west Atlantic seafloor. Its crusher and cutter claws perform different jobs, and repeated molting allows lifelong growth; the species also supports one of North America's most valuable fisheries.",
+    "zh": "美洲螯龙虾是生活在西北大西洋海底的大型有螯甲壳动物。碎壳螯和剪切螯承担不同功能，反复蜕壳使其能终生生长；该物种也支撑着北美最重要的渔业之一。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "The body consists of a cephalothorax and a segmented abdomen. It features two large chelae (claws): the 'crusher' claw has rounded nodules for breaking shells, while the 'seizer' or 'cutter' claw has sharp teeth for tearing flesh. Their blood is blue due to the presence of hemocyanin, which contains copper. They possess compound eyes on stalks, though they rely more heavily on their two pairs of antennae for chemoreception and tactile sensing in the dark depths.",
-      "zh": "身体由头胸部和分节的腹部组成。最引人注目的是其不对称的双螯：“碎螯”拥有圆钝的突起，用于粉碎贝壳；“剪螯”则拥有锐利的齿状结构，用于撕裂猎物。由于血液中含有含铜的血蓝蛋白，其血液呈蓝色。它们拥有带柄的复眼，但在深海黑暗环境中，主要依靠两对触角进行化学感受和触觉感知。"
+      "en": "The body has a hard carapace, 5 pairs of walking legs and a muscular abdomen. One large claw is usually a broad crusher and the other a sharper cutter. Live animals are commonly olive-green to brown with dark or reddish mottling, not the bright red produced by cooking.",
+      "zh": "身体有坚硬头胸甲、5对步足和肌肉发达的腹部。一个大螯通常宽厚、用于碎壳，另一个更锐利用于剪切。活体通常呈橄榄绿至棕色并有深色或红色斑驳，并非烹煮后的鲜红色。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "American lobsters are primarily nocturnal and solitary. They are opportunistic scavengers and predators, feeding on fish, mollusks, other crustaceans, and sometimes plant life. Cannibalism can occur in high-density environments. They undergo ecdysis (molting) to grow, a vulnerable period where they hide in crevices. They are known for long-distance seasonal migrations, moving to deeper, warmer waters in winter and returning to shallower coastal areas in summer for spawning.",
-      "zh": "美洲螯龙虾主要在夜间活动，具有强烈的领地意识和独居倾向。它们是机会主义的捕食者和食腐动物，食物包括鱼类、软体动物、其他甲壳类，有时也摄食海藻。在高密度环境下可能出现同类相食现象。为了生长，它们必须经历蜕壳过程，蜕壳期间身体极度脆弱，通常躲藏在岩石缝隙中。它们具有季节性迁徙习性，冬季移向较深且温暖的海域，夏季则回到浅海沿岸产卵。"
+      "en": "Adults are opportunistic bottom feeders that eat mollusks, crabs, worms, echinoderms, fish and algae. They shelter among rocks or in burrows and are eaten by fish, sharks, rays, octopuses and other predators, especially when small or newly molted.",
+      "zh": "成体是在海底机会性取食的动物，取食软体动物、蟹、蠕虫、棘皮动物、鱼和藻类。它们藏在岩石间或洞穴中，尤其在幼小或刚蜕壳时会被鱼、鲨、鳐、章鱼等捕食。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "They thrive in cold, rocky coastal waters at depths ranging from the intertidal zone down to 480 meters, though they are most common between 4 and 50 meters. Their range extends from Labrador in Canada south to Cape Hatteras in North Carolina. They prefer substrates that provide ample hiding spots, such as rocky reefs, eelgrass beds, and muddy bottoms where they can excavate burrows.",
-      "zh": "它们栖息在寒冷的岩石沿岸海域，分布深度从潮间带一直延伸到水下480米，但在4至50米深度最为常见。其分布范围北起加拿大的拉布拉多，南至美国北卡罗来纳州的哈特拉斯角。它们偏好具有充足躲避空间的底质，如岩礁、大叶藻床以及可以挖掘洞穴的泥沙质海底。"
+      "en": "American lobsters occur from Labrador to Cape Hatteras in the north-west Atlantic, on coastal and offshore bottoms from shallow water to about 700 m. Rocky shelter is especially important to juveniles.",
+      "zh": "美洲螯龙虾分布于西北大西洋拉布拉多至哈特拉斯角，在近岸和离岸海底从浅水到约700米深处生活；岩石隐蔽处对幼体尤为重要。",
+      "source_keys": [
+        "general",
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -204,13 +217,304 @@
           -55.8
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and polygon coordinates are retained exactly. Authoritative text sources support the broad distribution, but reusable authoritative boundary geometry was not available; the polygons are labelled as retained approximate legacy ranges, not verified boundaries.",
+      "comparison_zh": "原有中心点、缩放和多边形坐标完全保留。权威文字来源支持其大致分布，但未获得可复用的权威边界几何，因此多边形标为保留的原有近似范围，而非已核实边界。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/american-lobster.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Homarus%20americanus",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/species/american-lobster/resources",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/species/american-lobster/resources",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "SeaLifeBase IUCN index",
+      "url": "https://www.sealifebase.se/summary/Homarus-americanus.html",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/species/american-lobster/resources",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, taxonomy, protection status, numerical claims, English/Chinese scope and preserved legacy map geometry were checked for legacy QC batch 02."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "maximum_weight",
+        "label": {
+          "en": "Maximum recorded weight",
+          "zh": "最大记录体重"
+        },
+        "value": {
+          "en": "Up to about 20 kg",
+          "zh": "可达约20千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "depth",
+        "label": {
+          "en": "Depth",
+          "zh": "水深"
+        },
+        "value": {
+          "en": "Shallow water to about 700 m",
+          "zh": "浅水至约700米"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Benthic animals plus some algae",
+          "zh": "底栖动物及少量藻类"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "eggs",
+        "label": {
+          "en": "Eggs",
+          "zh": "抱卵数"
+        },
+        "value": {
+          "en": "About 5000 to more than 100000",
+          "zh": "约5000至超过100000枚"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "egg_carrying",
+        "label": {
+          "en": "Egg carrying",
+          "zh": "抱卵期"
+        },
+        "value": {
+          "en": "About 9–11 months",
+          "zh": "约9–11个月"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Least Concern",
+          "zh": "无危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Mating usually follows the female's molt. She can store sperm, later attaches about 5000 to more than 100000 fertilized eggs beneath her tail and carries them for about 9–11 months. Free-swimming larvae molt 4 times before settling to the bottom; reaching reproductive and legal harvest size often takes 5–8 years.",
+      "zh": "交配通常发生在雌虾蜕壳后。雌虾可储存精子，之后把约5000至超过100000枚受精卵附在尾下，并抱卵约9–11个月。浮游幼体蜕壳4次后沉降海底；达到繁殖和法定捕捞尺寸通常需5–8年。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Different claws",
+          "zh": "功能不同的双螯"
+        },
+        "detail": {
+          "en": "A broad crusher breaks hard prey while a sharper cutter tears softer tissue.",
+          "zh": "宽厚碎壳螯击碎硬质猎物，较锋利的剪切螯撕开软组织。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Molting growth",
+          "zh": "蜕壳生长"
+        },
+        "detail": {
+          "en": "Shedding the rigid exoskeleton creates room for growth, followed by rapid water uptake and shell hardening.",
+          "zh": "脱去刚性外骨骼后获得生长空间，随后迅速吸水并硬化新壳。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Chemical and tactile antennae",
+          "zh": "化学与触觉触角"
+        },
+        "detail": {
+          "en": "Two pairs of antennae help locate food, shelter and other lobsters in dim benthic habitat.",
+          "zh": "两对触角帮助它在昏暗底栖环境中寻找食物、庇护处和同类。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "American lobsters are both predators and prey in north-west Atlantic bottom communities. Their feeding links mollusks, worms, echinoderms, fish and algae, while juveniles transfer energy to many larger predators.",
+      "zh": "美洲螯龙虾在西北大西洋底栖群落中既是捕食者也是猎物。其取食连接软体动物、蠕虫、棘皮动物、鱼和藻类，幼体又向多种大型捕食者传递能量。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "stable",
+      "threats": {
+        "en": "The global assessment is Least Concern, but warming water, disease, fishing pressure, whale entanglement in pot lines and regional recruitment changes require stock-specific management.",
+        "zh": "全球评估为无危，但海水变暖、疾病、捕捞压力、捕虾绳索缠绕鲸类，以及地区补充量变化，都需要针对具体种群管理。"
+      },
+      "actions": {
+        "en": "Use size limits, protect egg-bearing and marked females, reduce lost gear and whale-entanglement risk, monitor temperature and recruitment, and manage each stock with current survey data.",
+        "zh": "应采用尺寸限制，保护抱卵和有标记雌虾，减少遗失渔具与鲸类缠绕风险，监测温度和补充量，并以最新调查数据分别管理种群。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A large north-west Atlantic lobster with 2 unequal massive front claws, a smooth robust carapace and usually dark olive-brown live coloration.",
+        "zh": "西北大西洋大型螯龙虾，有2个不对称的巨大前螯，头胸甲光滑粗壮，活体通常呈深橄榄棕色。"
+      },
+      "similar_species": {
+        "en": "Spiny lobsters lack the pair of massive front claws. The European lobster is closely similar; provenance and specialist morphological characters are needed where origin is uncertain.",
+        "zh": "刺龙虾没有一对巨大前螯。欧洲螯龙虾与其很相似；来源不明时需要产地信息和专家形态特征。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Lobsters use chemical signals carried in urine, antenna contact and postures during dominance, courtship and shelter disputes. Vision contributes, but touch and chemical sensing are especially important on the seafloor.",
+      "zh": "龙虾在等级、求偶和庇护处争夺中会使用随尿液释放的化学信号、触角接触和姿势。视觉也参与，但触觉和化学感受在海底尤为重要。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Egg-bearing females often move inshore before hatching in late spring or early summer, while some large adults make seasonal movements between shallow and deeper water. Patterns vary among regions and individuals.",
+      "zh": "抱卵雌虾常在晚春或初夏孵化前移向近岸，一些大型成体也会在浅水和深水间季节性移动；不同地区和个体的模式并不相同。",
+      "source_keys": [
+        "general",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "This species supports a major trap fishery and coastal livelihoods. Regulations protect undersized and egg-bearing animals and vary by management area; consumers and fishers should follow current local rules.",
+      "zh": "该物种支撑重要笼捕渔业和沿海生计。法规保护未达尺寸和抱卵个体，并随管理区而异；消费者和渔民应遵守最新当地规定。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Homarus americanus is a decapod crustacean in Nephropidae, closely related to the European lobster. Its asymmetric claw specialization develops through use rather than being fixed to the same side in every animal.",
+      "zh": "美洲螯龙虾是海螯虾科十足目甲壳动物，与欧洲螯龙虾近缘。其不对称双螯的功能分化会随使用形成，并非所有个体都固定在同一侧。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "Lobsters shelter in rocky crevices or excavated burrows; shed exoskeletons may resemble dead animals. A shell, burrow or trap catch must be checked carefully before inferring a live resident or exact species.",
+      "zh": "龙虾藏在岩缝或挖掘洞穴中；蜕下的外骨骼可能看似死亡个体。不能只凭壳、洞穴或笼捕就推断有活体居民或确定物种。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "A live American lobster is usually dark, and heat changes shell pigments so a cooked lobster appears bright red.",
+          "zh": "活体美洲螯龙虾通常颜色较深；加热会改变壳中色素，使熟龙虾呈鲜红色。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The 2 large claws are specialized for different tasks rather than being mirror copies.",
+          "zh": "2个大螯承担不同功能，并不是彼此镜像的复制。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Age is difficult to estimate because each molt discards much of the hard structure that might record growth.",
+          "zh": "由于每次蜕壳都会丢弃可能记录生长的大部分硬结构，因此年龄很难估算。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Crustacean molt",
+          "zh": "甲壳动物蜕壳"
+        },
+        "content": {
+          "en": "Growth requires a risky molt: the old shell splits, the lobster expands a soft new exoskeleton with water, and it remains vulnerable until calcium and other minerals harden the shell.",
+          "zh": "生长必须经历风险较高的蜕壳：旧壳裂开，龙虾吸水撑大柔软的新外骨骼，在钙等矿物质使新壳硬化前都很脆弱。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

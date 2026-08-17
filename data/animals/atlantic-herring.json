@@ -37,24 +37,38 @@
   "conservation_status": {
     "code": "LC",
     "en": "Least Concern",
-    "zh": "无危"
+    "zh": "无危",
+    "note_en": "The global IUCN assessment is Least Concern; individual fisheries and regional stocks can nevertheless be depleted and require separate management.",
+    "note_zh": "IUCN全球评估为无危；但个别渔业和区域种群仍可能衰退，必须分别管理。"
   },
   "description": {
-    "en": "The Atlantic herring is one of the most abundant fish in the world, travelling in massive schools and playing a crucial role in the marine food web.",
-    "zh": "大西洋鲱是世界上数量最庞大的鱼类之一，它们成群结队地游动，在海洋食物网中扮演着至关重要的角色。"
+    "en": "Atlantic herring are small silvery schooling fish found on both sides of the North Atlantic. They convert plankton into food for many fish, seabirds and marine mammals, making them ecologically central as well as important to commercial fisheries.",
+    "zh": "大西洋鲱是生活在北大西洋两岸的小型银色群游鱼。它们把浮游生物转化为许多鱼类、海鸟和海洋哺乳动物的食物，因此既是商业渔业对象，也是海洋生态中的关键环节。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "They have a streamlined, silvery body with a bluish back, perfect for blending into the open ocean. They lack a visible lateral line and have delicate, easily shed scales.",
-      "zh": "它们拥有流线型的银色身体和带蓝色的背部，非常适合隐身于开阔的海洋中。它们没有明显的侧线，长着脆弱易脱落的鳞片。"
+      "en": "Atlantic herring have a laterally compressed silver body, blue-green back, single mid-body dorsal fin and deeply forked tail. NOAA reports lengths up to about 36 cm in its managed western Atlantic population; older species accounts report larger exceptional fish.",
+      "zh": "大西洋鲱身体侧扁呈银色，背部蓝绿色，有一个位于身体中段的背鳍和深叉尾。NOAA对其管理的西大西洋种群报告体长可达约36厘米；较早的物种资料记录过更大的异常个体。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "Herring travel in epic schools that can contain billions of fish, moving together in perfect synchronization to confuse predators. They are culturally significant and famously used to make the notoriously smelly Swedish delicacy, surströmming.",
-      "zh": "鲱鱼的鱼群规模极其庞大，可能包含数十亿条鱼，它们完美同步地游动以迷惑捕食者。它们具有重要的文化意义，被用来制作著名的瑞典奇臭美食——鲱鱼罐头。"
+      "en": "Herring migrate in dense schools between feeding, spawning and wintering areas. They eat zooplankton, krill and fish larvae, while eggs, juveniles and adults feed a wide range of fishes, sharks, seabirds and marine mammals.",
+      "zh": "鲱鱼以密集鱼群在觅食地、产卵地和越冬地之间迁移。它们取食浮游动物、磷虾和鱼类仔体；而其卵、幼鱼和成鱼又被多种鱼、鲨、海鸟和海洋哺乳动物捕食。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "They are widely distributed across the deep waters of the North Atlantic Ocean, from the coasts of North America to Europe and the Arctic.",
-      "zh": "它们广泛分布在北大西洋的深水区，从北美海岸一直延伸到欧洲和北极圈。"
+      "en": "Atlantic herring occupy coastal and continental-shelf waters on both sides of the North Atlantic. In the western Atlantic they range from Labrador south to Cape Hatteras; distinct populations use different spawning grounds and seasons.",
+      "zh": "大西洋鲱分布于北大西洋两岸的沿海和大陆架水域。西大西洋分布从拉布拉多向南至哈特拉斯角；不同种群使用不同产卵场和产卵季。",
+      "source_keys": [
+        "general",
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -126,13 +140,304 @@
           -75
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center and polygon coordinates are retained exactly. Authoritative text sources support the broad distribution, but reusable authoritative boundary geometry was not available; the polygon is therefore labelled as a retained approximate legacy range, not a verified range.",
+      "comparison_zh": "原有中心点和多边形坐标完全保留。权威文字来源支持其大致分布，但未获得可复用的权威边界几何，因此该多边形标为“保留的原有近似范围”，而非“已核实范围”。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/atlantic-herring.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Clupea%20harengus",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/species/atlantic-herring/commercial",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Clupea_harengus/",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "IUCN Red List assessment for Clupea harengus",
+      "url": "https://www.iucnredlist.org/species/155123/115169038",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/species/atlantic-herring/commercial",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, taxonomy, protection status, numerical claims, English/Chinese scope and preserved legacy map geometry were checked for pilot batch 01."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "maximum_length",
+        "label": {
+          "en": "Length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "Up to about 36 cm in NOAA account",
+          "zh": "NOAA资料中可达约36厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "Up to about 15 years in NOAA account",
+          "zh": "NOAA资料中可达约15年"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Zooplankton, krill and fish larvae",
+          "zh": "浮游动物、磷虾和鱼类仔体"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "maturity",
+        "label": {
+          "en": "Maturity",
+          "zh": "性成熟"
+        },
+        "value": {
+          "en": "Around age 4 in NOAA account",
+          "zh": "NOAA资料中约4岁"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "eggs",
+        "label": {
+          "en": "Eggs per female",
+          "zh": "每尾雌鱼产卵"
+        },
+        "value": {
+          "en": "About 30000–200000",
+          "zh": "约30000–200000枚"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "hatching",
+        "label": {
+          "en": "Egg hatching",
+          "zh": "卵孵化"
+        },
+        "value": {
+          "en": "Usually 7–10 days, temperature-dependent",
+          "zh": "通常7–10天，取决于温度"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Mature fish gather to broadcast eggs and sperm over rock, gravel or sand. A female may produce about 30000–200000 adhesive eggs; in NOAA's western Atlantic account they usually hatch after 7–10 days depending on temperature, and juveniles later form coastal schools.",
+      "zh": "成熟鱼会聚集，在岩石、砾石或沙质海底上成群排卵排精。每尾雌鱼可产约30000–200000枚黏性卵；在NOAA西大西洋资料中，卵通常依温度在7–10天后孵化，幼鱼随后在沿海形成鱼群。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Schooling",
+          "zh": "集群游动"
+        },
+        "detail": {
+          "en": "Coordinated schools reduce individual predation risk and help fish track patchy plankton and migration routes.",
+          "zh": "协调一致的鱼群既降低单个个体被捕食的风险，也帮助追踪斑块状浮游生物和迁移路线。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Countershaded body",
+          "zh": "反荫蔽体色"
+        },
+        "detail": {
+          "en": "A blue-green back and silver sides make a herring less conspicuous against deep water from above and bright surface light from below.",
+          "zh": "蓝绿色背部与银色体侧使鲱鱼从上方不易在深水中显现，从下方不易在明亮水面下显现。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Adhesive bottom eggs",
+          "zh": "黏性底栖卵"
+        },
+        "detail": {
+          "en": "Eggs adhere in dense layers to hard or coarse seabed instead of drifting freely in the plankton.",
+          "zh": "鱼卵以密集层黏附在坚硬或粗颗粒海底，而不是在浮游层自由漂移。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Atlantic herring are a forage-fish bridge between plankton and larger predators. Their eggs and bodies support groundfish, tuna, sharks, seabirds, seals and whales, so stock changes can propagate through the food web.",
+      "zh": "大西洋鲱是连接浮游生物与大型捕食者的饵料鱼桥梁。它们的卵和身体为底层鱼、金枪鱼、鲨、海鸟、海豹和鲸提供食物，因此种群变化可能沿食物网传导。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The species is globally Least Concern, but regional stocks face fishing pressure, poor recruitment, warming-driven shifts, habitat disturbance at spawning grounds and changing predator-prey conditions.",
+        "zh": "该物种全球为无危，但区域种群面临捕捞压力、补充量不足、海水变暖引起的分布变化、产卵地受扰和捕食—猎物关系改变。"
+      },
+      "actions": {
+        "en": "Manage each stock with surveys, acoustic monitoring, catch limits and protected spawning habitat, and account for herring's food-web role rather than relying only on the global Red List category.",
+        "zh": "应通过调查、声学监测、捕捞限额和产卵地保护分别管理各区域种群，并考虑鲱鱼的食物网作用，而不能只依赖全球红色名录等级。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A small streamlined fish with silver sides, blue-green back, one dorsal fin near mid-body, no adipose fin and a deeply forked tail.",
+        "zh": "小型流线鱼，体侧银白、背部蓝绿，身体中段有一个背鳍，无脂鳍，尾深叉。"
+      },
+      "similar_species": {
+        "en": "Pacific herring are a separate North Pacific species and cannot be separated safely by a casual photo alone. Sardines and shads differ in body proportions and fin or belly-keel details; location and expert characters matter.",
+        "zh": "太平洋鲱是北太平洋的另一个物种，不能仅凭普通照片可靠区分。沙丁鱼和西鲱在体形、鳍或腹棱细节上不同；地点与专家鉴定特征都很重要。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Herring respond to visual, chemical, tactile and acoustic cues in schools. They can produce sounds by releasing gas through the anal duct, but the exact behavioral function remains uncertain and should not be presented as proven language.",
+      "zh": "鲱鱼在鱼群中会响应视觉、化学、触觉和声学信号。它们可通过肛管排气产生声音，但其确切行为功能仍不确定，不能把它表述成已证实的“语言”。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Timing differs among stocks. In NOAA's western Atlantic account, spawning begins as early as month 8 in Nova Scotia and eastern Maine and occurs mainly in months 10–11 farther south; schools also migrate among feeding and wintering areas.",
+      "zh": "不同种群的时间不同。NOAA西大西洋资料显示，新斯科舍和缅因东部最早8月产卵，更南方多在10–11月；鱼群还会在觅食地和越冬地之间迁移。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Atlantic herring have supported food, bait and reduction fisheries for centuries. Fisheries can be economically important, but management must leave enough fish for predators and distinguish stock-level depletion from global species risk.",
+      "zh": "大西洋鲱数百年来支撑食用、饵料和加工渔业。渔业具有经济价值，但管理必须为捕食者保留足够资源，并区分区域种群衰退与全球物种风险。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Atlantic herring belong to Clupeidae, the herring, sardine and shad family. The accepted species Clupea harengus is distinct from Pacific herring, Clupea pallasii, despite their close relationship and similar appearance.",
+      "zh": "大西洋鲱属于鲱科，该科还包括多种鲱、沙丁鱼和西鲱。公认种大西洋鲱与太平洋鲱虽亲缘近、外形相似，但属于不同物种。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "Large moving shoals may darken or ripple surface water, but many forage fish behave similarly. Reliable identification needs a specimen-quality view of anatomical characters plus catch location; underwater schooling footage alone is not enough.",
+      "zh": "大型游动鱼群可能使水面变暗或出现波纹，但许多饵料鱼都有类似行为。可靠鉴定需要标本级解剖特征视图并结合捕获地点；仅凭水下群游视频并不足够。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Herring eggs can form a dense carpet several centimeters thick on the seabed.",
+          "zh": "鲱鱼卵可在海底形成厚达数厘米的密集“卵毯”。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A single female may release about 30000–200000 eggs.",
+          "zh": "一尾雌鱼可产约30000–200000枚卵。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A global Least Concern label does not mean every regional herring stock is healthy.",
+          "zh": "全球“无危”并不表示每一个区域鲱鱼种群都健康。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Fish schooling",
+          "zh": "鱼类集群"
+        },
+        "content": {
+          "en": "The lateral-line and visual systems help each herring match the speed and direction of nearby fish, allowing thousands of individuals to maneuver as a coordinated school.",
+          "zh": "侧线和视觉系统帮助每尾鲱鱼匹配邻近个体的速度与方向，使成千上万尾鱼能像一个协调群体般转向。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

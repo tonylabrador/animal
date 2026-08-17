@@ -37,7 +37,9 @@
   "conservation_status": {
     "code": "LC",
     "en": "Least Concern",
-    "zh": "无危"
+    "zh": "无危",
+    "note_en": "The current global assessment is Least Concern with an increasing population trend, although local conditions differ.",
+    "note_zh": "当前全球等级为无危，种群趋势上升，但各地情况不同。"
   },
   "description": {
     "en": "The American black bear (Ursus americanus) is a medium-sized, highly adaptable carnivoran endemic to North America. It is the continent's smallest and most widely distributed bear species. Exhibiting remarkable phenotypic plasticity, their pelage ranges from pitch black to cinnamon, blonde, and even the rare white (Kermode bear) or bluish-gray (Glacier bear). They possess a robust, heavily built body, a broad skull, and non-retractable claws optimized for arboreal locomotion and foraging. As apex opportunistic omnivores, their diet is highly seasonal, heavily relying on mast (acorns, hickory nuts), berries, insects, and occasionally ungulate neonates or carrion. They play a critical ecological role as seed dispersers and nutrient cyclers within forest ecosystems. During winter, they undergo a period of profound lethargy or hibernation, characterized by significant metabolic suppression without a drastic drop in core body temperature.",
@@ -46,15 +48,25 @@
   "encyclopedia": {
     "anatomy": {
       "en": "Characterized by a plantigrade stance, the American black bear features a straight facial profile, relatively short, rounded ears, and a vestigial tail. Adult males typically weigh between 57–250 kg, while females are notably smaller at 41–170 kg, demonstrating significant sexual dimorphism. Their dentition is adapted for an omnivorous diet, with flattened molars for crushing vegetation and sharp canines for tearing flesh. The forelimbs are highly muscular, equipped with short, sharply curved claws (about 1.5 to 2 inches long) that provide exceptional grip for scaling trees, a critical defense mechanism and foraging strategy.",
-      "zh": "美洲黑熊以跖行步态为特征，面部轮廓笔直，耳朵相对较短且圆，尾巴退化。成年雄性体重通常在57至250公斤之间，而雌性明显较小，约为41至170公斤，表现出显著的雌雄二态性。它们的牙齿结构适应杂食性饮食，臼齿扁平用于碾碎植物，犬齿锋利用于撕裂肉类。前肢肌肉高度发达，配备有短而弯曲的利爪（约1.5至2英寸长），为攀爬树木提供了卓越的抓地力，这是它们关键的防御机制和觅食策略。"
+      "zh": "美洲黑熊以跖行步态为特征，面部轮廓笔直，耳朵相对较短且圆，尾巴退化。成年雄性体重通常在57至250公斤之间，而雌性明显较小，约为41至170公斤，表现出显著的雌雄二态性。它们的牙齿结构适应杂食性饮食，臼齿扁平用于碾碎植物，犬齿锋利用于撕裂肉类。前肢肌肉高度发达，配备有短而弯曲的利爪（约1.5至2英寸长），为攀爬树木提供了卓越的抓地力，这是它们关键的防御机制和觅食策略。",
+      "source_keys": [
+        "general"
+      ]
     },
     "ecology_and_behavior": {
       "en": "Primarily crepuscular and solitary, except during the mating season or when females are rearing cubs. They possess an extraordinary olfactory sense, capable of detecting food sources from miles away. Their spatial ecology involves large home ranges that vary inversely with habitat quality. Black bears are vital ecosystem engineers; their foraging behavior aerates the soil, and their consumption of vast quantities of fleshy fruits results in the widespread endozoochorous dispersal of seeds. Hibernation lasts 3-8 months depending on latitude, during which they recycle urea to preserve muscle mass, a physiological marvel currently studied for human medical applications.",
-      "zh": "除了交配季节或雌性抚育幼崽期间，美洲黑熊主要在晨昏活动且习惯独居。它们拥有非凡的嗅觉，能够探测到数英里外的食物来源。其空间生态学涉及广阔的活动范围，且范围大小与栖息地质量成反比。黑熊是至关重要的生态系统工程师；它们的觅食行为能使土壤通气，而大量消耗肉质果实则促成了种子的广泛体内传播。根据纬度的不同，冬眠期持续3至8个月，在此期间它们通过回收尿素来保持肌肉质量，这一生理奇迹目前正被用于人类医学应用的研究。"
+      "zh": "除了交配季节或雌性抚育幼崽期间，美洲黑熊主要在晨昏活动且习惯独居。它们拥有非凡的嗅觉，能够探测到数英里外的食物来源。其空间生态学涉及广阔的活动范围，且范围大小与栖息地质量成反比。黑熊是至关重要的生态系统工程师；它们的觅食行为能使土壤通气，而大量消耗肉质果实则促成了种子的广泛体内传播。根据纬度的不同，冬眠期持续3至8个月，在此期间它们通过回收尿素来保持肌肉质量，这一生理奇迹目前正被用于人类医学应用的研究。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
       "en": "Endemic to North America, their range extends from northern Canada and Alaska south into Mexico, and from the Atlantic to the Pacific coasts. They are highly adaptable to various forested habitats, including temperate broadleaf and mixed forests, boreal taiga, and mountainous coniferous zones. They prefer areas with thick understory vegetation and abundant mast-producing trees, which provide both critical nutritional resources and secure denning sites.",
-      "zh": "作为北美洲的特有物种，它们的分布范围从加拿大北部和阿拉斯加向南延伸至墨西哥，从大西洋海岸一直到太平洋海岸。它们对各种森林栖息地具有极高的适应性，包括温带阔叶混交林、北方针叶林以及山区针叶林带。它们偏好拥有茂密林下植被和丰富坚果树种的区域，这些环境不仅提供了关键的营养资源，还提供了安全的筑巢越冬地点。"
+      "zh": "作为北美洲的特有物种，它们的分布范围从加拿大北部和阿拉斯加向南延伸至墨西哥，从大西洋海岸一直到太平洋海岸。它们对各种森林栖息地具有极高的适应性，包括温带阔叶混交林、北方针叶林以及山区针叶林带。它们偏好拥有茂密林下植被和丰富坚果树种的区域，这些环境不仅提供了关键的营养资源，还提供了安全的筑巢越冬地点。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -204,13 +216,301 @@
           -165.2
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and polygon coordinates are retained exactly. Authoritative text supports the broad distribution, but reusable authoritative boundary geometry was unavailable; the legacy polygon is labelled approximate, not verified.",
+      "comparison_zh": "原有中心点、缩放和多边形坐标完全保留。权威文字支持大致分布，但未获得可复用的权威边界几何；原多边形标为近似范围，而非已核实边界。",
+      "checked_at": "2026-08-16"
+    }
   },
   "image": "/images/animals/american-black-bear.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Ursus%20americanus",
+      "checked_at": "2026-08-16"
+    },
+    "conservation": {
+      "authority": "GBIF IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/2433400/iucnRedListCategory",
+      "checked_at": "2026-08-16"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Ursus_americanus/",
+      "checked_at": "2026-08-16"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Ursus_americanus/",
+      "checked_at": "2026-08-16"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Ursus_americanus/",
       "checked_at": "2026-08-16"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-16",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Species identity, current global status, numeric claims, bilingual scope and unchanged legacy map geometry checked for legacy QC batch 03A."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Ursus americanus",
+          "zh": "Ursus americanus"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Mammalia",
+          "zh": "哺乳纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat category",
+          "zh": "生境类别"
+        },
+        "value": {
+          "en": "Forest",
+          "zh": "森林"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet category",
+          "zh": "食性类别"
+        },
+        "value": {
+          "en": "Omnivore",
+          "zh": "杂食性"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Least Concern",
+          "zh": "无危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "key": "map",
+        "label": {
+          "en": "Map evidence",
+          "zh": "地图依据"
+        },
+        "value": {
+          "en": "Approximate range polygon retained",
+          "zh": "保留原有近似范围"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Mating occurs mainly in early summer, followed by delayed implantation. Usually 2–3 cubs are born in the winter den and remain with their mother through their first year.",
+      "zh": "交配主要发生在初夏，随后延迟着床。通常2–3只幼崽在冬季洞穴中出生，并在第一年随母熊生活。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Climbing limbs",
+          "zh": "攀爬四肢"
+        },
+        "detail": {
+          "en": "Strong curved claws and mobile limbs make most individuals capable climbers, especially when young.",
+          "zh": "强壮弯爪和灵活四肢使多数个体善于攀爬，幼熊尤其如此。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Flexible diet",
+          "zh": "灵活食性"
+        },
+        "detail": {
+          "en": "Seasonal use of plants, insects, carrion and vertebrate prey helps bears exploit changing food supplies.",
+          "zh": "随季节利用植物、昆虫、腐肉和脊椎动物猎物，有助于适应变化的食物供应。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Winter denning",
+          "zh": "冬季穴居"
+        },
+        "detail": {
+          "en": "Metabolism falls strongly during denning while bears survive on stored fat.",
+          "zh": "穴居期代谢显著下降，熊依靠储存脂肪生存。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Black bears disperse seeds, move nutrients, consume insects and carrion, and sometimes prey on young ungulates, linking several trophic levels.",
+      "zh": "黑熊传播种子、转移养分、取食昆虫和腐肉，有时捕食幼年有蹄类，连接多个营养级。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "increasing",
+      "threats": {
+        "en": "Globally secure populations still face road mortality, habitat fragmentation, illegal killing and conflict driven by unsecured human food.",
+        "zh": "全球总体安全的种群仍面临道路死亡、生境破碎化、非法捕杀及未妥善存放人类食物引发的冲突。"
+      },
+      "actions": {
+        "en": "Secure food and waste, protect habitat connections, regulate harvest from monitoring data and teach people never to feed or approach bears.",
+        "zh": "应妥善管理食物和垃圾，保护生境通道，依据监测规范捕猎，并教育人们绝不投喂或接近熊。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Medium-sized bear with a straighter facial profile, relatively large ears and short claws; coat may be black, brown, cinnamon or pale.",
+        "zh": "中型熊，面部轮廓较直，耳相对较大，爪较短；毛色可为黑、褐、肉桂色或浅色。"
+      },
+      "similar_species": {
+        "en": "Brown bears usually have a prominent shoulder hump, dish-shaped face and longer straighter front claws. Color alone is not reliable.",
+        "zh": "棕熊通常有明显肩峰、凹面和更长更直的前爪。仅凭毛色并不可靠。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Scent marking, tree rubbing, vocalizations and body posture convey presence, stress and reproductive state; mothers and cubs use close calls.",
+      "zh": "气味标记、蹭树、叫声和身体姿势传达存在、压力和繁殖状态；母熊与幼崽使用近距离叫声。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Bears track emerging vegetation, insects, berries and mast, then build fat before winter denning; timing varies greatly with climate and latitude.",
+      "zh": "黑熊随新生植被、昆虫、浆果和坚果变化活动，并在冬季穴居前积累脂肪；时间因气候和纬度差异很大。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Most conflict begins when bears gain access to food, rubbish or livestock feed. Clean camps, bear-resistant storage and distance protect both people and bears.",
+      "zh": "多数冲突始于熊获得人类食物、垃圾或牲畜饲料。保持营地清洁、使用防熊储存并保持距离可同时保护人与熊。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Ursus americanus is a distinct North American bear species and is not a color form of the brown bear.",
+      "zh": "美洲黑熊是独立的北美熊类物种，并非棕熊的颜色型。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Five-toed tracks, clawed tree marks, overturned logs, scat and hair can indicate bears; sign cannot establish the bear's current distance.",
+      "zh": "五趾足迹、树上爪痕、翻倒木、粪便和毛发可提示黑熊活动；痕迹无法说明熊当前距离。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Not every American black bear is black.",
+          "zh": "并非每只美洲黑熊都是黑色。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Delayed implantation separates mating from most embryonic growth.",
+          "zh": "延迟着床使交配与大部分胚胎发育分开。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Denning bears reduce metabolism without matching the deep, frequent-cooling pattern of small hibernators.",
+          "zh": "穴居黑熊会降低代谢，但不像小型冬眠动物那样频繁进入深度低温状态。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Bear seasonal physiology",
+          "zh": "熊类季节生理"
+        },
+        "content": {
+          "en": "Annual food pulses govern fat storage, denning, reproduction and survival, making access to natural seasonal foods especially important.",
+          "zh": "年度食物脉冲决定脂肪储存、穴居、繁殖与存活，因此获得天然季节食物格外重要。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

@@ -1,0 +1,91 @@
+[
+  {
+    "content_version": 2,
+    "content_review": {
+      "factual_qc": "pending",
+      "bilingual_qc": "pending"
+    },
+    "id": "species-name",
+    "name_zh": "中文名",
+    "name_en": "English name",
+    "scientific_name": "Genus species",
+    "ui_tags": ["Mammal", "Forest", "Omnivore"],
+    "taxonomy": {
+      "kingdom": { "en": "Animalia", "zh": "动物界" },
+      "phylum": { "en": "...", "zh": "..." },
+      "class": { "en": "...", "zh": "..." },
+      "order": { "en": "...", "zh": "..." },
+      "family": { "en": "...", "zh": "..." },
+      "genus": { "en": "...", "zh": "..." }
+    },
+    "conservation_status": { "code": "NE", "en": "Not Evaluated", "zh": "未评估" },
+    "description": { "en": "...", "zh": "..." },
+    "encyclopedia": {
+      "anatomy": { "en": "...", "zh": "...", "source_keys": ["general"] },
+      "ecology_and_behavior": { "en": "...", "zh": "...", "source_keys": ["ecology"] },
+      "habitat_and_distribution": { "en": "...", "zh": "...", "source_keys": ["range"] }
+    },
+    "rich_content": {
+      "quick_facts": [
+        { "key": "body_size", "label": { "en": "Body size", "zh": "体型" }, "value": { "en": "...", "zh": "..." }, "source_keys": ["general"] },
+        { "key": "weight", "label": { "en": "Weight", "zh": "体重" }, "value": { "en": "...", "zh": "..." }, "source_keys": ["general"] },
+        { "key": "diet", "label": { "en": "Diet", "zh": "食性" }, "value": { "en": "...", "zh": "..." }, "source_keys": ["ecology"] },
+        { "key": "activity", "label": { "en": "Activity", "zh": "活动时间" }, "value": { "en": "...", "zh": "..." }, "source_keys": ["ecology"] }
+      ],
+      "life_cycle_and_reproduction": { "en": "...", "zh": "...", "source_keys": ["general"] },
+      "adaptations": [
+        { "title": { "en": "...", "zh": "..." }, "detail": { "en": "...", "zh": "..." }, "source_keys": ["general"] },
+        { "title": { "en": "...", "zh": "..." }, "detail": { "en": "...", "zh": "..." }, "source_keys": ["general"] },
+        { "title": { "en": "...", "zh": "..." }, "detail": { "en": "...", "zh": "..." }, "source_keys": ["general"] }
+      ],
+      "ecological_role": { "en": "...", "zh": "...", "source_keys": ["ecology"] },
+      "conservation_and_threats": {
+        "population_trend": "unknown",
+        "threats": { "en": "...", "zh": "..." },
+        "actions": { "en": "...", "zh": "..." },
+        "source_keys": ["conservation"]
+      },
+      "identification": {
+        "key_features": { "en": "...", "zh": "..." },
+        "similar_species": { "en": "...", "zh": "..." },
+        "source_keys": ["general"]
+      },
+      "communication_and_senses": { "en": "...", "zh": "...", "source_keys": ["general"] },
+      "seasonal_calendar": { "en": "...", "zh": "...", "source_keys": ["ecology"] },
+      "relationship_with_humans": { "en": "...", "zh": "...", "source_keys": ["general"] },
+      "evolution": { "en": "...", "zh": "...", "source_keys": ["taxonomy"] },
+      "field_signs": { "en": "...", "zh": "...", "source_keys": ["general"] },
+      "did_you_know": [
+        { "text": { "en": "...", "zh": "..." }, "source_keys": ["general"] },
+        { "text": { "en": "...", "zh": "..." }, "source_keys": ["general"] },
+        { "text": { "en": "...", "zh": "..." }, "source_keys": ["general"] }
+      ],
+      "class_specific": [
+        { "title": { "en": "...", "zh": "..." }, "content": { "en": "...", "zh": "..." }, "source_keys": ["general"] }
+      ]
+    },
+    "habitat": {
+      "text_en": "...",
+      "text_zh": "...",
+      "map_coordinates": [0, 0],
+      "map_zoom_level": 4,
+      "global_distribution_polygons": [],
+      "range_review": {
+        "display_mode": "representative-point",
+        "previous_result": "not-applicable",
+        "source_keys": ["range"],
+        "comparison_en": "No previous geometry; authoritative range sources were checked and this map uses a representative point because verified polygon coordinates are unavailable.",
+        "comparison_zh": "没有旧范围几何；已检查权威分布来源，但由于缺少经过核实的多边形坐标，地图使用代表点。",
+        "checked_at": "YYYY-MM-DD"
+      }
+    },
+    "image": null,
+    "sources": {
+      "taxonomy": { "authority": "...", "url": "https://...", "checked_at": "YYYY-MM-DD" },
+      "conservation": { "authority": "IUCN Red List", "url": "https://...", "checked_at": "YYYY-MM-DD" },
+      "general": { "authority": "...", "url": "https://...", "checked_at": "YYYY-MM-DD" },
+      "ecology": { "authority": "...", "url": "https://...", "checked_at": "YYYY-MM-DD" },
+      "range": { "authority": "...", "url": "https://...", "checked_at": "YYYY-MM-DD" }
+    }
+  }
+]

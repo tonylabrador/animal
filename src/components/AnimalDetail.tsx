@@ -17,6 +17,7 @@ import {
   ChevronRight,
   ShieldCheck,
   Home,
+  Sparkles,
 } from "lucide-react";
 import { useLanguage } from "@/lib/LanguageContext";
 import AnimalMap from "./AnimalMap";
@@ -109,6 +110,14 @@ export default function AnimalDetail({ animal }: { animal: Animal }) {
   const primaryName   = lang === "en" ? animal.name_en : animal.name_zh;
   const secondaryName = lang === "en" ? animal.name_zh : animal.name_en;
   const iucn          = animal.conservation_status;
+  const rich          = animal.rich_content;
+  const rangeMode     = animal.habitat.range_review?.display_mode;
+  const hasPolygons   = animal.habitat.global_distribution_polygons.length > 0;
+  const rangeLabel    = rangeMode === "verified-polygon"
+    ? (lang === "en" ? "Verified range" : "已核实分布范围")
+    : hasPolygons
+      ? (lang === "en" ? "Retained approximate range" : "保留的原有近似范围")
+      : (lang === "en" ? "Representative point — not full range" : "代表点，并非完整分布范围");
 
   /* ── Shared Header ────────────────────────────────────────────────── */
   const header = (
@@ -257,7 +266,14 @@ export default function AnimalDetail({ animal }: { animal: Animal }) {
           <section className="mt-5">
             <div className="flex items-center gap-1.5 mb-3 text-sm text-slate-500">
               <MapPin size={13} strokeWidth={2.5} className="text-amber-500" />
-              <span>{animal.habitat.text_en} / {animal.habitat.text_zh}</span>
+              <span>{lang === "en" ? animal.habitat.text_en : animal.habitat.text_zh}</span>
+              <span className={`ml-auto shrink-0 rounded-full px-2.5 py-1 text-[11px] font-semibold ${
+                rangeMode === "verified-polygon"
+                  ? "bg-blue-50 text-blue-700"
+                  : "bg-amber-50 text-amber-700"
+              }`}>
+                {rangeLabel}
+              </span>
             </div>
             <div
               className="w-full rounded-2xl overflow-hidden shadow-xl border border-slate-200"
@@ -265,11 +281,13 @@ export default function AnimalDetail({ animal }: { animal: Animal }) {
             >
               <AnimalMap
                 center={animal.habitat.map_coordinates}
+                zoom={animal.habitat.map_zoom_level}
                 habitatEn={animal.habitat.text_en}
                 habitatZh={animal.habitat.text_zh}
                 animalNameEn={animal.name_en}
                 animalNameZh={animal.name_zh}
                 polygons={animal.habitat.global_distribution_polygons}
+                rangeDisplayMode={rangeMode}
                 lang={lang}
               />
             </div>
@@ -302,6 +320,30 @@ export default function AnimalDetail({ animal }: { animal: Animal }) {
             <section className="mt-4 bg-white/60 rounded-xl px-4 py-3 border border-slate-100">
               <TaxonomyBreadcrumbs taxonomy={animal.taxonomy} lang={lang} />
             </section>
+
+            {/* Structured quick facts for content_version 2 records */}
+            {rich && (
+              <section className="mt-4 flex items-stretch overflow-hidden rounded-xl border border-amber-100 bg-white shadow-sm">
+                <div className="flex w-24 shrink-0 items-center gap-1.5 border-r border-amber-100 bg-amber-50/70 px-3">
+                  <Sparkles size={14} className="shrink-0 text-amber-500" />
+                  <h2 className="text-xs font-bold leading-tight text-slate-700">
+                    {lang === "en" ? "Quick Facts" : "关键数据"}
+                  </h2>
+                </div>
+                <dl className="scrollbar-none flex min-w-0 flex-1 divide-x divide-slate-100 overflow-x-auto sm:grid sm:auto-cols-fr sm:grid-flow-col sm:overflow-visible">
+                  {rich.quick_facts.map((fact) => (
+                    <div key={fact.key} className="min-w-[132px] px-3 py-2.5 sm:min-w-0">
+                      <dt className="text-[10px] font-bold uppercase tracking-wide text-amber-600">
+                        {fact.label[lang]}
+                      </dt>
+                      <dd className="mt-0.5 text-xs font-semibold leading-snug text-slate-700">
+                        {fact.value[lang]}
+                      </dd>
+                    </div>
+                  ))}
+                </dl>
+              </section>
+            )}
 
             {/* Short description */}
             <section className="mt-6 grid grid-cols-1 md:grid-cols-2 gap-4">

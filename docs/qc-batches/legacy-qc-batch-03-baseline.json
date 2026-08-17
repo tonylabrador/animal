@@ -1,0 +1,9128 @@
+{
+  "batch": "legacy-qc-batch-03",
+  "captured_at": "2026-08-16",
+  "preservation_rule": "Keep map_coordinates and global_distribution_polygons unchanged unless a clearly documented error is supported by authoritative range evidence.",
+  "animals": [
+    {
+      "id": "african-bush-elephant",
+      "record_sha256": "d9e5f723870d426d27a33d581ad55c641af05731423251f50ef54b7c5a44503a",
+      "name_en": "African Bush Elephant",
+      "name_zh": "非洲草原象",
+      "scientific_name": "Loxodonta africana",
+      "conservation_status": {
+        "code": "EN",
+        "en": "Endangered",
+        "zh": "濒危"
+      },
+      "habitat": {
+        "text_en": "Sub-Saharan African Savannas",
+        "text_zh": "撒哈拉以南非洲稀树草原",
+        "map_coordinates": [
+          -2,
+          34
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": [
+          [
+            [
+              15,
+              -16
+            ],
+            [
+              15,
+              38
+            ],
+            [
+              8,
+              48
+            ],
+            [
+              -10,
+              40
+            ],
+            [
+              -25,
+              32
+            ],
+            [
+              -30,
+              20
+            ],
+            [
+              -20,
+              12
+            ],
+            [
+              -5,
+              12
+            ],
+            [
+              5,
+              -10
+            ],
+            [
+              15,
+              -16
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/african-bush-elephant.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "1300eb2e5558ea6094d371d55e9d3eeeecccada8256079da1d19586dd80a76eb",
+        "width": 800,
+        "height": 533
+      }
+    },
+    {
+      "id": "african-forest-elephant",
+      "record_sha256": "b33c069735b06081d8ccdcab19d9e929c46cdd468916d9f5157fdb3dcc197deb",
+      "name_en": "African Forest Elephant",
+      "name_zh": "非洲森林象",
+      "scientific_name": "Loxodonta cyclotis",
+      "conservation_status": {
+        "code": "CR",
+        "en": "Critically Endangered",
+        "zh": "极危"
+      },
+      "habitat": {
+        "text_en": "Dense Equatorial Rainforests",
+        "text_zh": "茂密的赤道雨林",
+        "map_coordinates": [
+          2,
+          15
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              5,
+              9
+            ],
+            [
+              6,
+              12
+            ],
+            [
+              4,
+              18
+            ],
+            [
+              1,
+              28
+            ],
+            [
+              -4,
+              28
+            ],
+            [
+              -6,
+              24
+            ],
+            [
+              -6,
+              12
+            ],
+            [
+              -1,
+              9
+            ],
+            [
+              5,
+              9
+            ]
+          ],
+          [
+            [
+              7,
+              -13
+            ],
+            [
+              10,
+              -11
+            ],
+            [
+              6,
+              -2
+            ],
+            [
+              5,
+              -4
+            ],
+            [
+              6,
+              -11
+            ],
+            [
+              4,
+              -13
+            ],
+            [
+              7,
+              -13
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/african-forest-elephant.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "155d1f4afa437999d8990629aecca382d659f4e9f8ef535f5437e3e4e89aff04",
+        "width": 1024,
+        "height": 685
+      }
+    },
+    {
+      "id": "african-wild-dog",
+      "record_sha256": "3ed6655606641db83a5b989bdb96631e17d5c3ad513ea079f5f55452ac51b34f",
+      "name_en": "African Wild Dog",
+      "name_zh": "非洲野犬",
+      "scientific_name": "Lycaon pictus",
+      "conservation_status": {
+        "code": "EN",
+        "en": "Endangered",
+        "zh": "濒危"
+      },
+      "habitat": {
+        "text_en": "Open plains and savannas of Sub-Saharan Africa",
+        "text_zh": "撒哈拉以南非洲的开阔平原和稀树草原",
+        "map_coordinates": [
+          -15,
+          25
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              10,
+              30
+            ],
+            [
+              5,
+              40
+            ],
+            [
+              -10,
+              38
+            ],
+            [
+              -25,
+              35
+            ],
+            [
+              -30,
+              20
+            ],
+            [
+              -15,
+              15
+            ],
+            [
+              0,
+              20
+            ],
+            [
+              10,
+              30
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/african-wild-dog.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "7e8e7d0b792f1680ef348e781642d0b911ade585cbac24bd03288e71e495059f",
+        "width": 1024,
+        "height": 728
+      }
+    },
+    {
+      "id": "alpaca",
+      "record_sha256": "fb2ae27512db87247b1a2a346bb15b45e1b478d609a0679cbaf4824896c5d739",
+      "name_en": "Alpaca",
+      "name_zh": "羊驼",
+      "scientific_name": "Vicugna pacos",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Highland pastures and wetlands",
+        "text_zh": "高山牧场与湿地",
+        "map_coordinates": [
+          -14,
+          -71
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": [
+          [
+            [
+              -8,
+              -78
+            ],
+            [
+              -15,
+              -75
+            ],
+            [
+              -22,
+              -68
+            ],
+            [
+              -22,
+              -65
+            ],
+            [
+              -10,
+              -68
+            ],
+            [
+              -8,
+              -78
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/alpaca.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "bf159c810c5700a792230cfafd1aad5c056a3d0d97741471a1ace95316952ac3",
+        "width": 907,
+        "height": 781
+      }
+    },
+    {
+      "id": "amazon-river-dolphin",
+      "record_sha256": "d474b5724cc9687629b823fe38c0084064984a5417ba5a9a50f508404e4833bd",
+      "name_en": "Amazon River Dolphin",
+      "name_zh": "亚河豚",
+      "scientific_name": "Inia geoffrensis",
+      "conservation_status": {
+        "code": "EN",
+        "en": "Endangered",
+        "zh": "濒危"
+      },
+      "habitat": {
+        "text_en": "Endemic to the turbid waters of the Amazon and Orinoco river basins, including main channels, tributaries, lakes, and seasonally flooded forests (várzea and igapó).",
+        "text_zh": "特有于亚马逊河和奥里诺科河流域的浑浊水域，包括主要河道、支流、湖泊以及季节性泛滥的森林（várzea和igapó）。",
+        "map_coordinates": [
+          -3.1,
+          -60
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              -1.45,
+              -48.48
+            ],
+            [
+              -1.8,
+              -50.5
+            ],
+            [
+              -2.2,
+              -52.8
+            ],
+            [
+              -2.6,
+              -54.5
+            ],
+            [
+              -3.1,
+              -56.2
+            ],
+            [
+              -3.15,
+              -58.5
+            ],
+            [
+              -3.1,
+              -60
+            ],
+            [
+              -3.4,
+              -62.5
+            ],
+            [
+              -3.8,
+              -65
+            ],
+            [
+              -4.2,
+              -67.5
+            ],
+            [
+              -4.3,
+              -70.2
+            ],
+            [
+              -3.8,
+              -71.5
+            ],
+            [
+              -3.7,
+              -73.2
+            ],
+            [
+              -4.5,
+              -74.5
+            ],
+            [
+              -5.8,
+              -75.2
+            ],
+            [
+              -7.5,
+              -74.8
+            ],
+            [
+              -9.2,
+              -74.1
+            ],
+            [
+              -10.5,
+              -73
+            ],
+            [
+              -12.2,
+              -71.5
+            ],
+            [
+              -13.5,
+              -69
+            ],
+            [
+              -14.2,
+              -66.5
+            ],
+            [
+              -13,
+              -65.2
+            ],
+            [
+              -11.5,
+              -64.8
+            ],
+            [
+              -9.8,
+              -63.5
+            ],
+            [
+              -8.5,
+              -62
+            ],
+            [
+              -7.2,
+              -60.5
+            ],
+            [
+              -6.5,
+              -58.2
+            ],
+            [
+              -5.8,
+              -56
+            ],
+            [
+              -4.5,
+              -54.2
+            ],
+            [
+              -3.2,
+              -52
+            ],
+            [
+              -2.1,
+              -50
+            ],
+            [
+              -1.45,
+              -48.48
+            ]
+          ],
+          [
+            [
+              8.6,
+              -60.4
+            ],
+            [
+              8.2,
+              -61.5
+            ],
+            [
+              8,
+              -62.8
+            ],
+            [
+              7.8,
+              -64.2
+            ],
+            [
+              7.2,
+              -65.5
+            ],
+            [
+              6.5,
+              -66.8
+            ],
+            [
+              5.8,
+              -67.5
+            ],
+            [
+              4.5,
+              -68.2
+            ],
+            [
+              3.2,
+              -67.8
+            ],
+            [
+              2.5,
+              -67
+            ],
+            [
+              2.2,
+              -66.2
+            ],
+            [
+              2.8,
+              -65.5
+            ],
+            [
+              3.5,
+              -64.8
+            ],
+            [
+              4.8,
+              -64
+            ],
+            [
+              6.2,
+              -63.2
+            ],
+            [
+              7.5,
+              -62
+            ],
+            [
+              8.2,
+              -61
+            ],
+            [
+              8.6,
+              -60.4
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/amazon-river-dolphin.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "2a1c9efb69ac941c704901b698feea24c523601e96e2a4291f0df28edb6e3b9b",
+        "width": 1024,
+        "height": 686
+      }
+    },
+    {
+      "id": "american-badger",
+      "record_sha256": "269a4dbe5bea5bc7560b9dd298998a04cbf33da31ae3a871f3265124cb97e217",
+      "name_en": "American Badger",
+      "name_zh": "美洲獾",
+      "scientific_name": "Taxidea taxus",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Dry, open grasslands",
+        "text_zh": "干燥开阔的草原",
+        "map_coordinates": [
+          42,
+          -100
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": [
+          [
+            [
+              54,
+              -120.5
+            ],
+            [
+              53,
+              -118.5
+            ],
+            [
+              52,
+              -113.5
+            ],
+            [
+              51.5,
+              -110
+            ],
+            [
+              50.5,
+              -107.5
+            ],
+            [
+              50.5,
+              -104.5
+            ],
+            [
+              50,
+              -101.5
+            ],
+            [
+              49.5,
+              -100
+            ],
+            [
+              49,
+              -97.5
+            ],
+            [
+              48.5,
+              -97
+            ],
+            [
+              47.5,
+              -97
+            ],
+            [
+              46.5,
+              -97
+            ],
+            [
+              45.5,
+              -97
+            ],
+            [
+              44.5,
+              -97
+            ],
+            [
+              43.5,
+              -97
+            ],
+            [
+              43,
+              -96.5
+            ],
+            [
+              42.5,
+              -96.5
+            ],
+            [
+              42,
+              -96
+            ],
+            [
+              41,
+              -96
+            ],
+            [
+              40,
+              -96.5
+            ],
+            [
+              39,
+              -96.5
+            ],
+            [
+              38,
+              -97
+            ],
+            [
+              37,
+              -97.5
+            ],
+            [
+              36.5,
+              -97.5
+            ],
+            [
+              36,
+              -96.5
+            ],
+            [
+              35.5,
+              -96
+            ],
+            [
+              35,
+              -95.5
+            ],
+            [
+              35,
+              -97
+            ],
+            [
+              35.5,
+              -98.5
+            ],
+            [
+              36,
+              -100
+            ],
+            [
+              36.5,
+              -102.5
+            ],
+            [
+              37,
+              -103.5
+            ],
+            [
+              37.5,
+              -103.5
+            ],
+            [
+              38,
+              -103.5
+            ],
+            [
+              38.5,
+              -104
+            ],
+            [
+              39,
+              -104.5
+            ],
+            [
+              39.5,
+              -104.5
+            ],
+            [
+              40,
+              -104
+            ],
+            [
+              40.5,
+              -104.5
+            ],
+            [
+              41,
+              -104.5
+            ],
+            [
+              41.5,
+              -105
+            ],
+            [
+              42,
+              -105.5
+            ],
+            [
+              42.5,
+              -105
+            ],
+            [
+              43,
+              -105.5
+            ],
+            [
+              43.5,
+              -105
+            ],
+            [
+              44,
+              -105.5
+            ],
+            [
+              44.5,
+              -105
+            ],
+            [
+              45,
+              -104.5
+            ],
+            [
+              45.5,
+              -104.5
+            ],
+            [
+              46.5,
+              -104.5
+            ],
+            [
+              47,
+              -105
+            ],
+            [
+              47.5,
+              -107.5
+            ],
+            [
+              47.5,
+              -110.5
+            ],
+            [
+              47.5,
+              -113.5
+            ],
+            [
+              47,
+              -114.5
+            ],
+            [
+              47.5,
+              -116
+            ],
+            [
+              46.5,
+              -117.5
+            ],
+            [
+              46,
+              -118.5
+            ],
+            [
+              45.5,
+              -118
+            ],
+            [
+              44.5,
+              -117
+            ],
+            [
+              44,
+              -117.5
+            ],
+            [
+              43,
+              -117
+            ],
+            [
+              42.5,
+              -117.5
+            ],
+            [
+              42,
+              -117
+            ],
+            [
+              41.5,
+              -117.5
+            ],
+            [
+              41,
+              -117.5
+            ],
+            [
+              40.5,
+              -117.5
+            ],
+            [
+              39.5,
+              -117.5
+            ],
+            [
+              39,
+              -118.5
+            ],
+            [
+              38.5,
+              -118
+            ],
+            [
+              38,
+              -118.5
+            ],
+            [
+              37.5,
+              -118.5
+            ],
+            [
+              37,
+              -119
+            ],
+            [
+              36.5,
+              -118.5
+            ],
+            [
+              36,
+              -117.5
+            ],
+            [
+              35,
+              -116.5
+            ],
+            [
+              34.5,
+              -116.5
+            ],
+            [
+              34,
+              -117
+            ],
+            [
+              33.5,
+              -116.5
+            ],
+            [
+              32.5,
+              -116.5
+            ],
+            [
+              32,
+              -116
+            ],
+            [
+              31.5,
+              -116
+            ],
+            [
+              30.5,
+              -112.5
+            ],
+            [
+              29.5,
+              -110
+            ],
+            [
+              28.5,
+              -108.5
+            ],
+            [
+              27.5,
+              -107
+            ],
+            [
+              27,
+              -105.5
+            ],
+            [
+              27.5,
+              -105
+            ],
+            [
+              28,
+              -104.5
+            ],
+            [
+              29,
+              -104.5
+            ],
+            [
+              30.5,
+              -105
+            ],
+            [
+              31.5,
+              -106
+            ],
+            [
+              32,
+              -106.5
+            ],
+            [
+              33,
+              -107
+            ],
+            [
+              34,
+              -107.5
+            ],
+            [
+              35,
+              -107
+            ],
+            [
+              36,
+              -108
+            ],
+            [
+              36.5,
+              -109
+            ],
+            [
+              37,
+              -109.5
+            ],
+            [
+              38,
+              -109
+            ],
+            [
+              39,
+              -109.5
+            ],
+            [
+              40,
+              -109.5
+            ],
+            [
+              41,
+              -110.5
+            ],
+            [
+              42,
+              -111
+            ],
+            [
+              43,
+              -111.5
+            ],
+            [
+              44,
+              -112
+            ],
+            [
+              44.5,
+              -113
+            ],
+            [
+              45,
+              -113.5
+            ],
+            [
+              45.5,
+              -114.5
+            ],
+            [
+              46,
+              -115
+            ],
+            [
+              46.5,
+              -115.5
+            ],
+            [
+              47,
+              -116
+            ],
+            [
+              47.5,
+              -117
+            ],
+            [
+              48,
+              -118.5
+            ],
+            [
+              48.5,
+              -120
+            ],
+            [
+              49,
+              -119.5
+            ],
+            [
+              49.5,
+              -121
+            ],
+            [
+              50.5,
+              -121.5
+            ],
+            [
+              51.5,
+              -120.5
+            ],
+            [
+              52,
+              -120.5
+            ],
+            [
+              53,
+              -122
+            ],
+            [
+              54,
+              -120.5
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/american-badger.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "0e3a72bbb264f70aba32b29e8bdcf4319d82d1221bfb760208f3591ae5b0bf48",
+        "width": 1024,
+        "height": 777
+      }
+    },
+    {
+      "id": "american-beaver",
+      "record_sha256": "7d33880e02946e825da87f063b868cf7c9f80c848c559ff410604c8e56a454d2",
+      "name_en": "American Beaver",
+      "name_zh": "美洲河狸",
+      "scientific_name": "Castor canadensis",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Rivers, streams, and lakes",
+        "text_zh": "河流、溪流和湖泊",
+        "map_coordinates": [
+          45,
+          -90
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": [
+          [
+            [
+              25,
+              -97.5
+            ],
+            [
+              26,
+              -97.5
+            ],
+            [
+              27,
+              -97
+            ],
+            [
+              28,
+              -97
+            ],
+            [
+              29,
+              -95
+            ],
+            [
+              30,
+              -89.5
+            ],
+            [
+              30,
+              -86.5
+            ],
+            [
+              30.5,
+              -84
+            ],
+            [
+              31,
+              -82
+            ],
+            [
+              32,
+              -81
+            ],
+            [
+              33,
+              -79.5
+            ],
+            [
+              34,
+              -78
+            ],
+            [
+              35,
+              -76.5
+            ],
+            [
+              36,
+              -76
+            ],
+            [
+              37,
+              -76
+            ],
+            [
+              38,
+              -75.5
+            ],
+            [
+              39,
+              -74.5
+            ],
+            [
+              40,
+              -74
+            ],
+            [
+              41,
+              -72
+            ],
+            [
+              42,
+              -70.5
+            ],
+            [
+              43,
+              -70
+            ],
+            [
+              44,
+              -67.5
+            ],
+            [
+              45,
+              -66
+            ],
+            [
+              46,
+              -65
+            ],
+            [
+              47,
+              -65
+            ],
+            [
+              48,
+              -66
+            ],
+            [
+              49,
+              -65
+            ],
+            [
+              50,
+              -63.5
+            ],
+            [
+              51,
+              -57
+            ],
+            [
+              52,
+              -55.5
+            ],
+            [
+              53,
+              -55.5
+            ],
+            [
+              54,
+              -57
+            ],
+            [
+              55,
+              -59.5
+            ],
+            [
+              56,
+              -62
+            ],
+            [
+              57,
+              -62
+            ],
+            [
+              58,
+              -62.5
+            ],
+            [
+              59,
+              -65
+            ],
+            [
+              60,
+              -68
+            ],
+            [
+              61,
+              -70
+            ],
+            [
+              62,
+              -72
+            ],
+            [
+              63,
+              -75
+            ],
+            [
+              64,
+              -78
+            ],
+            [
+              65,
+              -81
+            ],
+            [
+              66,
+              -84
+            ],
+            [
+              67,
+              -87
+            ],
+            [
+              68,
+              -90
+            ],
+            [
+              68.5,
+              -93
+            ],
+            [
+              68,
+              -97
+            ],
+            [
+              67,
+              -100
+            ],
+            [
+              66,
+              -103
+            ],
+            [
+              65,
+              -106
+            ],
+            [
+              65,
+              -109
+            ],
+            [
+              66,
+              -112
+            ],
+            [
+              67,
+              -116
+            ],
+            [
+              67.5,
+              -120
+            ],
+            [
+              67,
+              -125
+            ],
+            [
+              66,
+              -130
+            ],
+            [
+              65,
+              -134
+            ],
+            [
+              64,
+              -138
+            ],
+            [
+              63,
+              -139
+            ],
+            [
+              62,
+              -139
+            ],
+            [
+              61,
+              -141
+            ],
+            [
+              60,
+              -143
+            ],
+            [
+              59,
+              -145
+            ],
+            [
+              58,
+              -143
+            ],
+            [
+              57,
+              -140
+            ],
+            [
+              56,
+              -135.5
+            ],
+            [
+              55,
+              -131
+            ],
+            [
+              54,
+              -128.5
+            ],
+            [
+              53,
+              -127
+            ],
+            [
+              52,
+              -128
+            ],
+            [
+              51,
+              -127.5
+            ],
+            [
+              50,
+              -126
+            ],
+            [
+              49,
+              -124.5
+            ],
+            [
+              48,
+              -124.5
+            ],
+            [
+              47,
+              -124
+            ],
+            [
+              46,
+              -124
+            ],
+            [
+              44,
+              -124.5
+            ],
+            [
+              42,
+              -124.5
+            ],
+            [
+              40,
+              -124.5
+            ],
+            [
+              38,
+              -123
+            ],
+            [
+              36.5,
+              -122
+            ],
+            [
+              35,
+              -120.5
+            ],
+            [
+              34,
+              -119.5
+            ],
+            [
+              33,
+              -117.5
+            ],
+            [
+              32.5,
+              -117
+            ],
+            [
+              32,
+              -117
+            ],
+            [
+              31.5,
+              -116.5
+            ],
+            [
+              31,
+              -114.5
+            ],
+            [
+              30.5,
+              -111.5
+            ],
+            [
+              30,
+              -111
+            ],
+            [
+              29.5,
+              -111
+            ],
+            [
+              29,
+              -109.5
+            ],
+            [
+              28.5,
+              -107.5
+            ],
+            [
+              28,
+              -105
+            ],
+            [
+              27.5,
+              -100
+            ],
+            [
+              27,
+              -99.5
+            ],
+            [
+              26.5,
+              -98.5
+            ],
+            [
+              25,
+              -97.5
+            ]
+          ],
+          [
+            [
+              60,
+              26
+            ],
+            [
+              61,
+              27
+            ],
+            [
+              62,
+              28
+            ],
+            [
+              63,
+              29
+            ],
+            [
+              64,
+              30
+            ],
+            [
+              64.5,
+              29
+            ],
+            [
+              64,
+              27.5
+            ],
+            [
+              63,
+              26
+            ],
+            [
+              62,
+              25.5
+            ],
+            [
+              61,
+              25
+            ],
+            [
+              60,
+              25.5
+            ],
+            [
+              59.5,
+              26.5
+            ],
+            [
+              60,
+              26
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/american-beaver.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "c6ec7076745972c84aa2afabcf7995d09c2e588c98ec877778b1973c2cb82de3",
+        "width": 1024,
+        "height": 683
+      }
+    },
+    {
+      "id": "american-bison",
+      "record_sha256": "a1a3fabc052f644103cf57dc8e51d714d78c0312cd4661e07e4e776fbce2317a",
+      "name_en": "American Bison",
+      "name_zh": "美洲野牛",
+      "scientific_name": "Bison bison",
+      "conservation_status": {
+        "code": "NT",
+        "en": "Near Threatened",
+        "zh": "近危"
+      },
+      "habitat": {
+        "text_en": "Great Plains",
+        "text_zh": "大平原",
+        "map_coordinates": [
+          44.6,
+          -103.5
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": [
+          [
+            [
+              44.6,
+              -110.8
+            ],
+            [
+              44.9,
+              -110.2
+            ],
+            [
+              45.1,
+              -110
+            ],
+            [
+              45,
+              -109.5
+            ],
+            [
+              44.8,
+              -109.3
+            ],
+            [
+              44.5,
+              -109.5
+            ],
+            [
+              44.2,
+              -110
+            ],
+            [
+              44.1,
+              -110.5
+            ],
+            [
+              44.3,
+              -110.9
+            ],
+            [
+              44.6,
+              -110.8
+            ]
+          ],
+          [
+            [
+              43.5,
+              -103.5
+            ],
+            [
+              43.7,
+              -103.2
+            ],
+            [
+              43.8,
+              -103
+            ],
+            [
+              43.7,
+              -102.7
+            ],
+            [
+              43.5,
+              -102.6
+            ],
+            [
+              43.3,
+              -102.8
+            ],
+            [
+              43.2,
+              -103.2
+            ],
+            [
+              43.3,
+              -103.5
+            ],
+            [
+              43.5,
+              -103.5
+            ]
+          ],
+          [
+            [
+              49.5,
+              -111.5
+            ],
+            [
+              50.5,
+              -111
+            ],
+            [
+              51.2,
+              -110.5
+            ],
+            [
+              51.5,
+              -110
+            ],
+            [
+              51.3,
+              -109.5
+            ],
+            [
+              50.8,
+              -109.5
+            ],
+            [
+              50,
+              -110
+            ],
+            [
+              49.5,
+              -110.5
+            ],
+            [
+              49.3,
+              -111
+            ],
+            [
+              49.5,
+              -111.5
+            ]
+          ],
+          [
+            [
+              46,
+              -100.5
+            ],
+            [
+              47.5,
+              -100
+            ],
+            [
+              48.5,
+              -99.5
+            ],
+            [
+              49,
+              -99
+            ],
+            [
+              49,
+              -98
+            ],
+            [
+              48,
+              -98.5
+            ],
+            [
+              47,
+              -99
+            ],
+            [
+              46,
+              -99.5
+            ],
+            [
+              45.5,
+              -100
+            ],
+            [
+              46,
+              -100.5
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/american-bison.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "53a5a8636393327ac4787d1d9eba2fc79608ad2eb19c6071edf5cdace4fd235a",
+        "width": 864,
+        "height": 547
+      }
+    },
+    {
+      "id": "american-black-bear",
+      "record_sha256": "17cc016652eba726e6e5e00b5e97abb9508a86f0faa50dfcc191bdc10c538a3f",
+      "name_en": "American black bear",
+      "name_zh": "美洲黑熊",
+      "scientific_name": "Ursus americanus",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Widely distributed across North America, from the boreal forests of Canada and Alaska to the mountainous regions of the contiguous United States and northern Mexico.",
+        "text_zh": "广泛分布于北美洲，从加拿大和阿拉斯加的北方针叶林，一直延伸到美国本土的山区以及墨西哥北部。",
+        "map_coordinates": [
+          45,
+          -100
+        ],
+        "map_zoom_level": 3,
+        "global_distribution_polygons": [
+          [
+            [
+              60.5,
+              -165.2
+            ],
+            [
+              64.8,
+              -162.1
+            ],
+            [
+              68.2,
+              -152.5
+            ],
+            [
+              69.1,
+              -141
+            ],
+            [
+              68.5,
+              -133.4
+            ],
+            [
+              65.2,
+              -121.8
+            ],
+            [
+              61,
+              -112.5
+            ],
+            [
+              58.4,
+              -96.2
+            ],
+            [
+              55.7,
+              -86.1
+            ],
+            [
+              52.3,
+              -81.4
+            ],
+            [
+              53.6,
+              -69.8
+            ],
+            [
+              50.2,
+              -59.5
+            ],
+            [
+              47.8,
+              -54.2
+            ],
+            [
+              44.5,
+              -67.3
+            ],
+            [
+              41.2,
+              -73.8
+            ],
+            [
+              38.5,
+              -78.4
+            ],
+            [
+              34.2,
+              -81.5
+            ],
+            [
+              29.8,
+              -82.1
+            ],
+            [
+              27.5,
+              -81
+            ],
+            [
+              29.2,
+              -84.5
+            ],
+            [
+              33.8,
+              -89.2
+            ],
+            [
+              31.5,
+              -94.6
+            ],
+            [
+              26.4,
+              -99.8
+            ],
+            [
+              21.2,
+              -104.5
+            ],
+            [
+              24.8,
+              -108.2
+            ],
+            [
+              29.5,
+              -113.6
+            ],
+            [
+              34.2,
+              -118.5
+            ],
+            [
+              39.8,
+              -123.8
+            ],
+            [
+              44.5,
+              -124.2
+            ],
+            [
+              49.8,
+              -125.5
+            ],
+            [
+              54.2,
+              -130.8
+            ],
+            [
+              59.5,
+              -139.5
+            ],
+            [
+              58.2,
+              -154.6
+            ],
+            [
+              60.5,
+              -165.2
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/american-black-bear.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "15170b3afc47a2af517a31823adac2cb30764c812436b0b358e837e2b3e5f6b8",
+        "width": 1024,
+        "height": 684
+      }
+    },
+    {
+      "id": "american-goldfinch",
+      "record_sha256": "28b202128ed9a7ae99192076c761dec10a9549823fe720a5cce696c6307185ca",
+      "name_en": "American Goldfinch",
+      "name_zh": "北美金翅雀",
+      "scientific_name": "Spinus tristis",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Open fields, meadows, and gardens across North America.",
+        "text_zh": "遍布北美的开阔田野、草甸和花园。",
+        "map_coordinates": [
+          39.8283,
+          -98.5795
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              48.4,
+              -124.7
+            ],
+            [
+              53.8,
+              -113.4
+            ],
+            [
+              54.2,
+              -110.1
+            ],
+            [
+              53.5,
+              -101.2
+            ],
+            [
+              50.8,
+              -95.5
+            ],
+            [
+              49.2,
+              -80.4
+            ],
+            [
+              50.5,
+              -67.2
+            ],
+            [
+              47.5,
+              -52.6
+            ],
+            [
+              44.2,
+              -63.5
+            ],
+            [
+              40.5,
+              -73.5
+            ],
+            [
+              35.2,
+              -75.2
+            ],
+            [
+              28.5,
+              -80.2
+            ],
+            [
+              25.1,
+              -80.4
+            ],
+            [
+              25.8,
+              -97.1
+            ],
+            [
+              18.5,
+              -96.1
+            ],
+            [
+              16.5,
+              -94.5
+            ],
+            [
+              18.2,
+              -103.5
+            ],
+            [
+              24.5,
+              -110.2
+            ],
+            [
+              32.5,
+              -117.1
+            ],
+            [
+              37.8,
+              -122.5
+            ],
+            [
+              45.5,
+              -124.1
+            ],
+            [
+              48.4,
+              -124.7
+            ]
+          ],
+          [
+            [
+              32,
+              -115
+            ],
+            [
+              31,
+              -110
+            ],
+            [
+              28,
+              -105
+            ],
+            [
+              25,
+              -100
+            ],
+            [
+              22,
+              -98
+            ],
+            [
+              20,
+              -100
+            ],
+            [
+              22,
+              -105
+            ],
+            [
+              28,
+              -110
+            ],
+            [
+              32,
+              -115
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/american-goldfinch.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "8eb0e7d8ece7a675b343cfbfbb39a8adab8b955d7f464f3a9e1f8778afd96a40",
+        "width": 1024,
+        "height": 683
+      }
+    },
+    {
+      "id": "american-red-squirrel",
+      "record_sha256": "5a14f3714ae17b68069bb464646c8417f8e9611915bec0416817d0a4ed2cef14",
+      "name_en": "American Red Squirrel",
+      "name_zh": "美洲红松鼠",
+      "scientific_name": "Tamiasciurus hudsonicus",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Boreal and montane coniferous forests across North America.",
+        "text_zh": "遍布北美的北方针叶林及山地针叶林。",
+        "map_coordinates": [
+          55,
+          -105
+        ],
+        "map_zoom_level": 3,
+        "global_distribution_polygons": [
+          [
+            [
+              70.5,
+              -165
+            ],
+            [
+              71.5,
+              -155
+            ],
+            [
+              70,
+              -140
+            ],
+            [
+              68,
+              -120
+            ],
+            [
+              65,
+              -100
+            ],
+            [
+              60,
+              -80
+            ],
+            [
+              58,
+              -65
+            ],
+            [
+              52,
+              -55
+            ],
+            [
+              48,
+              -52
+            ],
+            [
+              44,
+              -65
+            ],
+            [
+              40,
+              -74
+            ],
+            [
+              36,
+              -82
+            ],
+            [
+              34,
+              -85
+            ],
+            [
+              35.5,
+              -87
+            ],
+            [
+              40,
+              -88
+            ],
+            [
+              43,
+              -90
+            ],
+            [
+              45,
+              -95
+            ],
+            [
+              48,
+              -102
+            ],
+            [
+              45,
+              -105
+            ],
+            [
+              40,
+              -105
+            ],
+            [
+              35,
+              -106
+            ],
+            [
+              32,
+              -108
+            ],
+            [
+              31.5,
+              -110
+            ],
+            [
+              34,
+              -112
+            ],
+            [
+              38,
+              -112
+            ],
+            [
+              42,
+              -115
+            ],
+            [
+              45,
+              -122
+            ],
+            [
+              49,
+              -125
+            ],
+            [
+              55,
+              -132
+            ],
+            [
+              60,
+              -145
+            ],
+            [
+              64,
+              -160
+            ],
+            [
+              70.5,
+              -165
+            ]
+          ],
+          [
+            [
+              38,
+              -120
+            ],
+            [
+              36,
+              -118
+            ],
+            [
+              35,
+              -120
+            ],
+            [
+              37,
+              -122
+            ],
+            [
+              38,
+              -120
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/american-red-squirrel.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "82f0d7425baf8fa2ff5a033bfdb07f7b5ce8b825bc59361e4fd9c0776eba26e6",
+        "width": 1024,
+        "height": 683
+      }
+    },
+    {
+      "id": "andean-condor",
+      "record_sha256": "ba57bd13a37d74f40c9113402e5a93935d97d017375b936bc59c14cba75a6887",
+      "name_en": "Andean condor",
+      "name_zh": "安第斯神鹫",
+      "scientific_name": "Vultur gryphus",
+      "conservation_status": {
+        "code": "VU",
+        "en": "Vulnerable",
+        "zh": "易危"
+      },
+      "habitat": {
+        "text_en": "Endemic to the Andes mountains and adjacent Pacific coasts of South America, ranging from Colombia to Tierra del Fuego.",
+        "text_zh": "特产于南美洲安第斯山脉及毗邻的太平洋海岸，分布范围北起哥伦比亚，南至火地岛。",
+        "map_coordinates": [
+          -20,
+          -68
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              11,
+              -73.5
+            ],
+            [
+              8.5,
+              -71.5
+            ],
+            [
+              5,
+              -75.5
+            ],
+            [
+              0,
+              -78
+            ],
+            [
+              -5,
+              -79.5
+            ],
+            [
+              -10,
+              -78
+            ],
+            [
+              -14,
+              -75
+            ],
+            [
+              -18,
+              -70
+            ],
+            [
+              -22,
+              -68
+            ],
+            [
+              -28,
+              -69
+            ],
+            [
+              -32,
+              -70
+            ],
+            [
+              -38,
+              -71.5
+            ],
+            [
+              -45,
+              -72
+            ],
+            [
+              -50,
+              -73
+            ],
+            [
+              -54,
+              -70
+            ],
+            [
+              -55,
+              -67
+            ],
+            [
+              -52,
+              -69
+            ],
+            [
+              -48,
+              -70
+            ],
+            [
+              -42,
+              -70.5
+            ],
+            [
+              -35,
+              -69.5
+            ],
+            [
+              -28,
+              -67.5
+            ],
+            [
+              -22,
+              -65
+            ],
+            [
+              -18,
+              -64
+            ],
+            [
+              -14,
+              -69
+            ],
+            [
+              -10,
+              -75
+            ],
+            [
+              -5,
+              -77
+            ],
+            [
+              0,
+              -76
+            ],
+            [
+              5,
+              -73
+            ],
+            [
+              8.5,
+              -70
+            ],
+            [
+              11,
+              -73.5
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/andean-condor.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "072ddb94e04ca6c06563a7b42361e527097ca1d3b4e534ac296a06a342445b28",
+        "width": 1024,
+        "height": 760
+      }
+    },
+    {
+      "id": "anhinga",
+      "record_sha256": "4718f22cb08bd524a687264d5e18ef3f1cd36b21079859007ad15af6c0afd335",
+      "name_en": "Anhinga",
+      "name_zh": "美洲蛇鹈",
+      "scientific_name": "Anhinga anhinga",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Inhabits shallow freshwater lakes, slow-moving rivers, cypress swamps, and mangrove ecosystems across the Americas, requiring emergent vegetation for roosting and drying.",
+        "text_zh": "栖息于美洲各地的浅水淡水湖泊、流速缓慢的河流、柏树沼泽和红树林生态系统中，需要挺水植被用于栖息和晾晒羽毛。",
+        "map_coordinates": [
+          5,
+          -75
+        ],
+        "map_zoom_level": 3,
+        "global_distribution_polygons": [
+          [
+            [
+              35,
+              -75.5
+            ],
+            [
+              32,
+              -80
+            ],
+            [
+              29.5,
+              -81
+            ],
+            [
+              25.5,
+              -80.2
+            ],
+            [
+              25,
+              -81
+            ],
+            [
+              29,
+              -83
+            ],
+            [
+              30.2,
+              -88
+            ],
+            [
+              28.5,
+              -96
+            ],
+            [
+              25,
+              -97.5
+            ],
+            [
+              22,
+              -97.8
+            ],
+            [
+              18.5,
+              -95
+            ],
+            [
+              21.5,
+              -87
+            ],
+            [
+              18,
+              -88
+            ],
+            [
+              15.5,
+              -83
+            ],
+            [
+              10,
+              -83
+            ],
+            [
+              8.5,
+              -78
+            ],
+            [
+              7.5,
+              -80
+            ],
+            [
+              10,
+              -85
+            ],
+            [
+              13.5,
+              -90
+            ],
+            [
+              16,
+              -95
+            ],
+            [
+              22,
+              -106
+            ],
+            [
+              25,
+              -107.5
+            ],
+            [
+              28,
+              -105
+            ],
+            [
+              30,
+              -98
+            ],
+            [
+              33,
+              -92
+            ],
+            [
+              35,
+              -85
+            ],
+            [
+              36,
+              -76
+            ],
+            [
+              35,
+              -75.5
+            ]
+          ],
+          [
+            [
+              11,
+              -74
+            ],
+            [
+              12,
+              -71
+            ],
+            [
+              10.5,
+              -62
+            ],
+            [
+              8,
+              -58
+            ],
+            [
+              4,
+              -51
+            ],
+            [
+              0,
+              -48
+            ],
+            [
+              -5,
+              -35
+            ],
+            [
+              -10,
+              -36
+            ],
+            [
+              -15,
+              -39
+            ],
+            [
+              -20,
+              -40
+            ],
+            [
+              -25,
+              -48
+            ],
+            [
+              -30,
+              -50
+            ],
+            [
+              -34.5,
+              -58
+            ],
+            [
+              -30,
+              -62
+            ],
+            [
+              -25,
+              -58
+            ],
+            [
+              -20,
+              -63
+            ],
+            [
+              -15,
+              -68
+            ],
+            [
+              -10,
+              -75
+            ],
+            [
+              -5,
+              -80
+            ],
+            [
+              0,
+              -80
+            ],
+            [
+              5,
+              -77
+            ],
+            [
+              8,
+              -77
+            ],
+            [
+              11,
+              -74
+            ]
+          ],
+          [
+            [
+              23,
+              -84
+            ],
+            [
+              23.2,
+              -81.5
+            ],
+            [
+              23.2,
+              -80
+            ],
+            [
+              22.5,
+              -78.5
+            ],
+            [
+              21.5,
+              -77
+            ],
+            [
+              20.5,
+              -75
+            ],
+            [
+              20,
+              -74
+            ],
+            [
+              19,
+              -70
+            ],
+            [
+              18,
+              -71
+            ],
+            [
+              18.5,
+              -74
+            ],
+            [
+              19.5,
+              -76
+            ],
+            [
+              20,
+              -77
+            ],
+            [
+              21,
+              -80
+            ],
+            [
+              21.5,
+              -82
+            ],
+            [
+              22,
+              -84.5
+            ],
+            [
+              23,
+              -84
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/anhinga.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "08ec46b00fec30841bf515803613a591b1fbc33887510b89e0bae1ecfa19bc54",
+        "width": 1024,
+        "height": 683
+      }
+    },
+    {
+      "id": "annas-hummingbird",
+      "record_sha256": "eef2f41b1a3b2aeabaa7da501ce77e8ecac0cd86f46118d2d42129a3ff2b58f6",
+      "name_en": "Anna's Hummingbird",
+      "name_zh": "安娜蜂鸟",
+      "scientific_name": "Calypte anna",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Coastal Scrub and Suburban Gardens",
+        "text_zh": "沿海灌丛与郊区花园",
+        "map_coordinates": [
+          37,
+          -122
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              30,
+              -114
+            ],
+            [
+              40,
+              -118
+            ],
+            [
+              50,
+              -120
+            ],
+            [
+              53,
+              -124
+            ],
+            [
+              55,
+              -133
+            ],
+            [
+              52,
+              -135
+            ],
+            [
+              40,
+              -125
+            ],
+            [
+              30,
+              -120
+            ],
+            [
+              30,
+              -114
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/annas-hummingbird.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "f339e0333879e0e63947dc47fcfb1fd98c6647d079aa35127f963ecd23e7303b",
+        "width": 1024,
+        "height": 683
+      }
+    },
+    {
+      "id": "aporia-hippia",
+      "record_sha256": "1c5d4232a967891fedd11386571d70ada18cda8f17d0c786911e247cf3755ae7",
+      "name_en": "Crataegus Pierid",
+      "name_zh": "绢粉蝶",
+      "scientific_name": "Aporia hippia",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Temperate deciduous forests, montane shrublands, and forest edges across East Asia.",
+        "text_zh": "东亚地区的温带落叶林、山地灌丛及森林边缘地带。",
+        "map_coordinates": [
+          38.5,
+          125
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              52.5,
+              118
+            ],
+            [
+              54,
+              125
+            ],
+            [
+              52,
+              135
+            ],
+            [
+              48,
+              140
+            ],
+            [
+              42,
+              135
+            ],
+            [
+              38,
+              128
+            ],
+            [
+              34,
+              127
+            ],
+            [
+              33,
+              121
+            ],
+            [
+              38,
+              115
+            ],
+            [
+              45,
+              114
+            ],
+            [
+              52.5,
+              118
+            ]
+          ],
+          [
+            [
+              45.5,
+              141
+            ],
+            [
+              45,
+              145.5
+            ],
+            [
+              42,
+              146
+            ],
+            [
+              38,
+              142
+            ],
+            [
+              34.5,
+              139
+            ],
+            [
+              33.5,
+              135
+            ],
+            [
+              34.5,
+              132
+            ],
+            [
+              37,
+              136
+            ],
+            [
+              41,
+              140
+            ],
+            [
+              45.5,
+              141
+            ]
+          ],
+          [
+            [
+              35,
+              102
+            ],
+            [
+              37,
+              108
+            ],
+            [
+              34,
+              112
+            ],
+            [
+              30,
+              110
+            ],
+            [
+              27,
+              105
+            ],
+            [
+              28,
+              101
+            ],
+            [
+              32,
+              100
+            ],
+            [
+              35,
+              102
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/aporia-hippia.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "13a486830f835c74aaf1c17aa86d91d4d2483004169fbb0c09cd09e108b05c28",
+        "width": 1000,
+        "height": 641
+      }
+    },
+    {
+      "id": "arctic-fox",
+      "record_sha256": "10646294c07bbbccf5116a56377aaa4df932563ca4248b27115b96b29818050d",
+      "name_en": "Arctic Fox",
+      "name_zh": "北极狐",
+      "scientific_name": "Vulpes lagopus",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Arctic Tundra and Pack Ice",
+        "text_zh": "北极冻原与浮冰区",
+        "map_coordinates": [
+          70,
+          -90
+        ],
+        "map_zoom_level": 2,
+        "global_distribution_polygons": [
+          [
+            [
+              60,
+              -165
+            ],
+            [
+              75,
+              -165
+            ],
+            [
+              82,
+              -100
+            ],
+            [
+              80,
+              -60
+            ],
+            [
+              70,
+              -50
+            ],
+            [
+              55,
+              -60
+            ],
+            [
+              55,
+              -120
+            ],
+            [
+              60,
+              -165
+            ]
+          ],
+          [
+            [
+              70,
+              -50
+            ],
+            [
+              83,
+              -50
+            ],
+            [
+              83,
+              -10
+            ],
+            [
+              60,
+              -40
+            ],
+            [
+              70,
+              -50
+            ]
+          ],
+          [
+            [
+              65,
+              10
+            ],
+            [
+              75,
+              20
+            ],
+            [
+              75,
+              120
+            ],
+            [
+              70,
+              175
+            ],
+            [
+              60,
+              175
+            ],
+            [
+              60,
+              120
+            ],
+            [
+              65,
+              50
+            ],
+            [
+              60,
+              10
+            ],
+            [
+              65,
+              10
+            ]
+          ],
+          [
+            [
+              75,
+              15
+            ],
+            [
+              81,
+              20
+            ],
+            [
+              81,
+              60
+            ],
+            [
+              75,
+              60
+            ],
+            [
+              75,
+              15
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/arctic-fox.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "fa2d283823d906dd1ec40814b99347e025808f9ac2f4c34bd2963ada0ffe35f6",
+        "width": 1024,
+        "height": 658
+      }
+    },
+    {
+      "id": "asian-elephant",
+      "record_sha256": "c012e96d81ca8e8d9bf40bb081265b5c2af1395fdd85c3bebdef7d4593002f04",
+      "name_en": "Asian Elephant",
+      "name_zh": "亚洲象",
+      "scientific_name": "Elephas maximus",
+      "conservation_status": {
+        "code": "EN",
+        "en": "Endangered",
+        "zh": "濒危"
+      },
+      "habitat": {
+        "text_en": "Tropical Moist Broadleaf Forests",
+        "text_zh": "热带湿润阔叶林",
+        "map_coordinates": [
+          20,
+          80
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              10,
+              77
+            ],
+            [
+              29,
+              78
+            ],
+            [
+              28,
+              88
+            ],
+            [
+              23,
+              90
+            ],
+            [
+              10,
+              79
+            ],
+            [
+              10,
+              77
+            ]
+          ],
+          [
+            [
+              7,
+              80
+            ],
+            [
+              10,
+              80
+            ],
+            [
+              8,
+              82
+            ],
+            [
+              6,
+              82
+            ],
+            [
+              7,
+              80
+            ]
+          ],
+          [
+            [
+              25,
+              93
+            ],
+            [
+              28,
+              97
+            ],
+            [
+              20,
+              102
+            ],
+            [
+              14,
+              100
+            ],
+            [
+              17,
+              98
+            ],
+            [
+              15,
+              96
+            ],
+            [
+              25,
+              93
+            ]
+          ],
+          [
+            [
+              -7,
+              104
+            ],
+            [
+              -2,
+              105
+            ],
+            [
+              5,
+              98
+            ],
+            [
+              2,
+              98
+            ],
+            [
+              -7,
+              104
+            ]
+          ],
+          [
+            [
+              7,
+              116
+            ],
+            [
+              5,
+              119
+            ],
+            [
+              3,
+              117
+            ],
+            [
+              1,
+              110
+            ],
+            [
+              5,
+              113
+            ],
+            [
+              7,
+              116
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/asian-elephant.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "de6716268e7e91f942790d5a5383ef281a5aa89e1dd2a67425f01b252a4e0814",
+        "width": 1024,
+        "height": 683
+      }
+    },
+    {
+      "id": "atlantic-spotted-dolphin",
+      "record_sha256": "349bd8ae0d91de3b1e7dce37ee6934d7e72178a614a8a52c389db340e79d962f",
+      "name_en": "Atlantic spotted dolphin",
+      "name_zh": "大西洋斑海豚",
+      "scientific_name": "Stenella frontalis",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Endemic to the Atlantic Ocean, inhabiting warm temperate, subtropical, and tropical waters, favoring continental shelves and the Gulf Stream.",
+        "text_zh": "特产于大西洋，栖息于暖温带、亚热带和热带水域，偏好大陆架边缘和墨西哥湾流。",
+        "map_coordinates": [
+          20,
+          -40
+        ],
+        "map_zoom_level": 3,
+        "global_distribution_polygons": [
+          [
+            [
+              41.5,
+              -68
+            ],
+            [
+              39,
+              -72.5
+            ],
+            [
+              35.2,
+              -74.8
+            ],
+            [
+              31.5,
+              -79
+            ],
+            [
+              27.8,
+              -79.8
+            ],
+            [
+              25.1,
+              -81.5
+            ],
+            [
+              28.5,
+              -84
+            ],
+            [
+              29.2,
+              -88.5
+            ],
+            [
+              27,
+              -95
+            ],
+            [
+              22.5,
+              -97.2
+            ],
+            [
+              19.8,
+              -95.5
+            ],
+            [
+              21.5,
+              -89
+            ],
+            [
+              18.5,
+              -87.2
+            ],
+            [
+              15.2,
+              -82.5
+            ],
+            [
+              10.5,
+              -80.2
+            ],
+            [
+              11.8,
+              -74.5
+            ],
+            [
+              11.2,
+              -62.5
+            ],
+            [
+              8.5,
+              -58.2
+            ],
+            [
+              4.2,
+              -50.5
+            ],
+            [
+              -2.5,
+              -42.8
+            ],
+            [
+              -10.5,
+              -35.2
+            ],
+            [
+              -20.5,
+              -39.5
+            ],
+            [
+              -25.5,
+              -45.2
+            ],
+            [
+              -25,
+              -35
+            ],
+            [
+              -15,
+              -30
+            ],
+            [
+              0,
+              -35
+            ],
+            [
+              15,
+              -45
+            ],
+            [
+              25,
+              -55
+            ],
+            [
+              35,
+              -60
+            ],
+            [
+              41,
+              -65
+            ],
+            [
+              41.5,
+              -68
+            ]
+          ],
+          [
+            [
+              42,
+              -30
+            ],
+            [
+              38.5,
+              -24.5
+            ],
+            [
+              35.2,
+              -14.8
+            ],
+            [
+              30.5,
+              -11.5
+            ],
+            [
+              25.2,
+              -14.8
+            ],
+            [
+              20.5,
+              -17.2
+            ],
+            [
+              15,
+              -17.5
+            ],
+            [
+              10.2,
+              -15.2
+            ],
+            [
+              5.5,
+              -10.5
+            ],
+            [
+              4.2,
+              -5.2
+            ],
+            [
+              0.5,
+              8.5
+            ],
+            [
+              -5.2,
+              11.2
+            ],
+            [
+              -10.5,
+              13.5
+            ],
+            [
+              -15.2,
+              11.5
+            ],
+            [
+              -20.5,
+              10.2
+            ],
+            [
+              -25.5,
+              12.5
+            ],
+            [
+              -25,
+              0
+            ],
+            [
+              -15,
+              -5
+            ],
+            [
+              0,
+              -10
+            ],
+            [
+              10,
+              -25
+            ],
+            [
+              20,
+              -30
+            ],
+            [
+              30,
+              -35
+            ],
+            [
+              40,
+              -35
+            ],
+            [
+              42,
+              -30
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/atlantic-spotted-dolphin.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "64bcdb1a118b45c3b1b158c64620447e4147af36e77262c802ff305b129b013a",
+        "width": 1024,
+        "height": 694
+      }
+    },
+    {
+      "id": "bactrian-camel",
+      "record_sha256": "d33f382b11f5875264cc0543cd3d5f7c7d90b84f59ce5e40f7a3294b875360ca",
+      "name_en": "Bactrian Camel",
+      "name_zh": "双峰骆驼",
+      "scientific_name": "Camelus bactrianus",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Central Asian Steppes and Deserts",
+        "text_zh": "中亚草原与沙漠",
+        "map_coordinates": [
+          45,
+          100
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              35,
+              65
+            ],
+            [
+              50,
+              70
+            ],
+            [
+              52,
+              110
+            ],
+            [
+              38,
+              115
+            ],
+            [
+              35,
+              85
+            ],
+            [
+              35,
+              65
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/bactrian-camel.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "3065ac2a19e3c96a538f71fbb9937135a4f15ecb1adb5d1ac963c0799ebccfe5",
+        "width": 1024,
+        "height": 683
+      }
+    },
+    {
+      "id": "baiji",
+      "record_sha256": "f09bdb996a6628bb115df077ab86644e520cedd1e7195a2b68d921c0a3271484",
+      "name_en": "Baiji",
+      "name_zh": "白鳍豚",
+      "scientific_name": "Lipotes vexillifer",
+      "conservation_status": {
+        "code": "CR",
+        "en": "Critically Endangered",
+        "zh": "极危",
+        "note_en": "Possibly extinct; retained in CR pending formal IUCN reassessment.",
+        "note_zh": "可能已经灭绝；在 IUCN 正式重新评估前仍保留为极危。"
+      },
+      "habitat": {
+        "text_en": "Endemic to the Yangtze River Mainstem",
+        "text_zh": "长江中下游干流及附属湖泊",
+        "map_coordinates": [
+          30.5,
+          114.3
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": [
+          [
+            [
+              30.5,
+              111
+            ],
+            [
+              29.8,
+              113.1
+            ],
+            [
+              30.6,
+              114.3
+            ],
+            [
+              29.7,
+              116.1
+            ],
+            [
+              31.5,
+              118.4
+            ],
+            [
+              32.1,
+              119.5
+            ],
+            [
+              31.8,
+              120.2
+            ],
+            [
+              31.5,
+              121.5
+            ],
+            [
+              31.8,
+              121.5
+            ],
+            [
+              32.1,
+              120.2
+            ],
+            [
+              32.5,
+              119.5
+            ],
+            [
+              31.8,
+              118.4
+            ],
+            [
+              30.1,
+              116.1
+            ],
+            [
+              31,
+              114.3
+            ],
+            [
+              30.2,
+              113.1
+            ],
+            [
+              30.9,
+              111
+            ],
+            [
+              30.5,
+              111
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/baiji.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "replacement-needed",
+        "reviewed_at": "2026-08-16T17:42:57.723Z",
+        "sha256": "acd62c2b436ca4ef76746a2f9a7ce7b00536f1e636f99ab6a98ff14fe6a97632",
+        "width": 329,
+        "height": 220,
+        "review_note": "No exact, visually suitable, sufficiently large openly licensed replacement was approved."
+      }
+    },
+    {
+      "id": "bald-eagle",
+      "record_sha256": "6f6c1533b504ada0070476737aa34c3db0042f6a9a71a20a0bd5af60b0c7bc48",
+      "name_en": "Bald Eagle",
+      "name_zh": "白头海雕",
+      "scientific_name": "Haliaeetus leucocephalus",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Forested areas near large bodies of water in North America",
+        "text_zh": "北美洲靠近大型水域的林区",
+        "map_coordinates": [
+          45,
+          -100
+        ],
+        "map_zoom_level": 3,
+        "global_distribution_polygons": [
+          [
+            [
+              70,
+              -165
+            ],
+            [
+              70,
+              -60
+            ],
+            [
+              25,
+              -80
+            ],
+            [
+              25,
+              -120
+            ],
+            [
+              70,
+              -165
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/bald-eagle.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "ae8839549e464670a493cdc9da0c64389d6893e6557aeab3a6dc72e853bb134d",
+        "width": 1024,
+        "height": 768
+      }
+    },
+    {
+      "id": "barn-swallow",
+      "record_sha256": "24dbed872d350e95c55e335d62de145447240e51414dca3383287931b3262c03",
+      "name_en": "Barn Swallow",
+      "name_zh": "家燕",
+      "scientific_name": "Hirundo rustica",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Open Country, Farmlands, and Urban Edges",
+        "text_zh": "开阔地带、农田与城市边缘",
+        "map_coordinates": [
+          35,
+          10
+        ],
+        "map_zoom_level": 2,
+        "global_distribution_polygons": [
+          [
+            [
+              30,
+              -125
+            ],
+            [
+              60,
+              -125
+            ],
+            [
+              60,
+              -60
+            ],
+            [
+              30,
+              -75
+            ],
+            [
+              10,
+              -80
+            ],
+            [
+              -40,
+              -70
+            ],
+            [
+              -40,
+              -50
+            ],
+            [
+              10,
+              -60
+            ],
+            [
+              30,
+              -125
+            ]
+          ],
+          [
+            [
+              30,
+              -10
+            ],
+            [
+              65,
+              -10
+            ],
+            [
+              65,
+              150
+            ],
+            [
+              30,
+              120
+            ],
+            [
+              10,
+              100
+            ],
+            [
+              -30,
+              30
+            ],
+            [
+              -30,
+              10
+            ],
+            [
+              10,
+              -15
+            ],
+            [
+              30,
+              -10
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/barn-swallow.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "9fa08880cc49226b203a1e4969efd05562d20135ade99f22bf015812aa9c8f10",
+        "width": 1024,
+        "height": 694
+      }
+    },
+    {
+      "id": "bat-eared-fox",
+      "record_sha256": "51a5c7af70d5748142ae4bb97bea9418acde818bbc632621a1a23d75a19b7caf",
+      "name_en": "Bat-eared Fox",
+      "name_zh": "大耳狐",
+      "scientific_name": "Otocyon megalotis",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Arid savannas and brushlands of Eastern and Southern Africa",
+        "text_zh": "东非和南非的干旱稀树草原与灌木地",
+        "map_coordinates": [
+          -20,
+          20
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              10,
+              35
+            ],
+            [
+              10,
+              50
+            ],
+            [
+              -5,
+              40
+            ],
+            [
+              -5,
+              30
+            ],
+            [
+              10,
+              35
+            ]
+          ],
+          [
+            [
+              -15,
+              10
+            ],
+            [
+              -15,
+              35
+            ],
+            [
+              -35,
+              30
+            ],
+            [
+              -30,
+              15
+            ],
+            [
+              -15,
+              10
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/bat-eared-fox.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "a36ce98602b293e6a3dee321b7763292ce52149a2953b11af645fa0ca91b6cd7",
+        "width": 1024,
+        "height": 768
+      }
+    },
+    {
+      "id": "bearded-bellbird",
+      "record_sha256": "97eaaae84cbb3f042e75d27dc908a38e033df455a4814e5f8e69c902c2b260b8",
+      "name_en": "Bearded Bellbird",
+      "name_zh": "须钟伞鸟",
+      "scientific_name": "Procnias averano",
+      "conservation_status": {
+        "code": "NT",
+        "en": "Near Threatened",
+        "zh": "近危"
+      },
+      "habitat": {
+        "text_en": "Humid Tropical and Montane Forests",
+        "text_zh": "湿润热带与山地森林",
+        "map_coordinates": [
+          5,
+          -60
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": [
+          [
+            [
+              11,
+              -62
+            ],
+            [
+              5,
+              -58
+            ],
+            [
+              0,
+              -52
+            ],
+            [
+              -1,
+              -45
+            ],
+            [
+              0,
+              -35
+            ],
+            [
+              -5,
+              -40
+            ],
+            [
+              -5,
+              -70
+            ],
+            [
+              5,
+              -75
+            ],
+            [
+              11,
+              -62
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/bearded-bellbird.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "1dd6ff60f853f9590997f5f3abdd33902b8d1178bfd881584101283e4878739c",
+        "width": 463,
+        "height": 650
+      }
+    },
+    {
+      "id": "bearded-vulture",
+      "record_sha256": "869d08df8743405683767977453528588cbb9504b1f5abb6aafc92a2d6795d96",
+      "name_en": "Bearded vulture",
+      "name_zh": "胡兀鹫",
+      "scientific_name": "Gypaetus barbatus",
+      "conservation_status": {
+        "code": "NT",
+        "en": "Near Threatened",
+        "zh": "近危"
+      },
+      "habitat": {
+        "text_en": "High-altitude mountain ranges, rugged cliffs, and alpine steppes across Eurasia and Africa.",
+        "text_zh": "横跨欧亚大陆和非洲的高海拔山脉、崎岖悬崖和高山草原。",
+        "map_coordinates": [
+          33.12,
+          85.34
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              35.12,
+              70.23
+            ],
+            [
+              37.45,
+              71.89
+            ],
+            [
+              39.67,
+              73.45
+            ],
+            [
+              41.89,
+              76.12
+            ],
+            [
+              43.21,
+              80.56
+            ],
+            [
+              44.56,
+              85.34
+            ],
+            [
+              47.89,
+              88.12
+            ],
+            [
+              49.23,
+              91.45
+            ],
+            [
+              48.12,
+              94.67
+            ],
+            [
+              45.34,
+              96.89
+            ],
+            [
+              41.23,
+              98.45
+            ],
+            [
+              38.56,
+              101.23
+            ],
+            [
+              35.67,
+              103.45
+            ],
+            [
+              31.89,
+              103.12
+            ],
+            [
+              28.45,
+              100.56
+            ],
+            [
+              27.12,
+              96.34
+            ],
+            [
+              27.45,
+              91.23
+            ],
+            [
+              28.12,
+              86.45
+            ],
+            [
+              29.56,
+              81.23
+            ],
+            [
+              31.45,
+              77.67
+            ],
+            [
+              33.12,
+              74.34
+            ],
+            [
+              35.12,
+              70.23
+            ]
+          ],
+          [
+            [
+              43.12,
+              -1.45
+            ],
+            [
+              42.89,
+              -0.23
+            ],
+            [
+              42.56,
+              1.12
+            ],
+            [
+              42.34,
+              2.45
+            ],
+            [
+              43.67,
+              4.56
+            ],
+            [
+              44.12,
+              6.34
+            ],
+            [
+              45.45,
+              6.89
+            ],
+            [
+              46.23,
+              7.45
+            ],
+            [
+              46.89,
+              9.12
+            ],
+            [
+              47.34,
+              11.45
+            ],
+            [
+              47.67,
+              13.23
+            ],
+            [
+              46.45,
+              14.12
+            ],
+            [
+              45.89,
+              12.34
+            ],
+            [
+              45.12,
+              10.45
+            ],
+            [
+              44.34,
+              8.12
+            ],
+            [
+              43.89,
+              5.67
+            ],
+            [
+              42.12,
+              3.45
+            ],
+            [
+              41.67,
+              1.23
+            ],
+            [
+              41.89,
+              -0.56
+            ],
+            [
+              42.45,
+              -1.89
+            ],
+            [
+              43.12,
+              -1.45
+            ]
+          ],
+          [
+            [
+              13.45,
+              38.12
+            ],
+            [
+              14.12,
+              39.45
+            ],
+            [
+              13.89,
+              40.23
+            ],
+            [
+              12.45,
+              39.89
+            ],
+            [
+              11.12,
+              39.67
+            ],
+            [
+              10.23,
+              39.89
+            ],
+            [
+              9.45,
+              40.12
+            ],
+            [
+              8.12,
+              39.45
+            ],
+            [
+              7.45,
+              38.67
+            ],
+            [
+              6.89,
+              38.12
+            ],
+            [
+              7.23,
+              37.45
+            ],
+            [
+              8.45,
+              36.89
+            ],
+            [
+              9.67,
+              36.45
+            ],
+            [
+              10.89,
+              36.12
+            ],
+            [
+              11.45,
+              36.89
+            ],
+            [
+              12.23,
+              37.45
+            ],
+            [
+              13.45,
+              38.12
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/bearded-vulture.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "85098afc049646cfbb53b5559b598f94530fca891cf9d81a6294a87200405663",
+        "width": 1024,
+        "height": 682
+      }
+    },
+    {
+      "id": "beluga-whale",
+      "record_sha256": "2e14d5a524947111d3f18725131c5217d09611659a2f8a9e61da84236df6c9c1",
+      "name_en": "Beluga Whale",
+      "name_zh": "白鲸",
+      "scientific_name": "Delphinapterus leucas",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Arctic and sub-Arctic coastal waters",
+        "text_zh": "北极及亚北极沿海水域",
+        "map_coordinates": [
+          70,
+          -100
+        ],
+        "map_zoom_level": 3,
+        "global_distribution_polygons": [
+          [
+            [
+              60,
+              -170
+            ],
+            [
+              75,
+              -165
+            ],
+            [
+              80,
+              -100
+            ],
+            [
+              75,
+              -60
+            ],
+            [
+              60,
+              -60
+            ],
+            [
+              60,
+              -170
+            ]
+          ],
+          [
+            [
+              70,
+              30
+            ],
+            [
+              80,
+              90
+            ],
+            [
+              75,
+              160
+            ],
+            [
+              60,
+              150
+            ],
+            [
+              70,
+              30
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/beluga-whale.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "464cfe2685bf68539e5eadca33294d2fefd524fa7e5616a55b8e2ae5343ca456",
+        "width": 1000,
+        "height": 581
+      }
+    },
+    {
+      "id": "big-brown-bat",
+      "record_sha256": "3b462b7de5c4fb672e90e371ed70b4a92132a0a92df50680b692336eea24da68",
+      "name_en": "Big Brown Bat",
+      "name_zh": "大棕蝠",
+      "scientific_name": "Eptesicus fuscus",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Widespread Urban, Deciduous, and Conifer Habitats",
+        "text_zh": "广泛的城市、落叶与针叶环境",
+        "map_coordinates": [
+          38,
+          -90
+        ],
+        "map_zoom_level": 3,
+        "global_distribution_polygons": [
+          [
+            [
+              20,
+              -110
+            ],
+            [
+              55,
+              -130
+            ],
+            [
+              55,
+              -60
+            ],
+            [
+              25,
+              -80
+            ],
+            [
+              5,
+              -75
+            ],
+            [
+              5,
+              -80
+            ],
+            [
+              20,
+              -110
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/big-brown-bat.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "04a3315b1a60933d91ec87dfd64bfd2bbe53f4e482d1f45f31dd214e8e345c28",
+        "width": 1024,
+        "height": 768
+      }
+    },
+    {
+      "id": "bighorn-sheep",
+      "record_sha256": "b373442a358d981bfc268bf59c6b921384dcacdc6730983cfd569242f77158c7",
+      "name_en": "Bighorn Sheep",
+      "name_zh": "大角羊",
+      "scientific_name": "Ovis canadensis",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Alpine meadows and steep cliffs",
+        "text_zh": "高山草甸和陡峭悬崖",
+        "map_coordinates": [
+          36.2,
+          -116.8
+        ],
+        "map_zoom_level": 6,
+        "global_distribution_polygons": [
+          [
+            [
+              49.5,
+              -115.5
+            ],
+            [
+              50,
+              -115
+            ],
+            [
+              50.5,
+              -114.5
+            ],
+            [
+              51,
+              -114
+            ],
+            [
+              51,
+              -114.5
+            ],
+            [
+              50.5,
+              -115
+            ],
+            [
+              50,
+              -115.5
+            ],
+            [
+              49.5,
+              -116
+            ],
+            [
+              49,
+              -116
+            ],
+            [
+              48.5,
+              -115.5
+            ],
+            [
+              48,
+              -115
+            ],
+            [
+              47.5,
+              -114.5
+            ],
+            [
+              47,
+              -114
+            ],
+            [
+              46.5,
+              -113.5
+            ],
+            [
+              46,
+              -113
+            ],
+            [
+              45.5,
+              -112.5
+            ],
+            [
+              45,
+              -112
+            ],
+            [
+              44.5,
+              -111.5
+            ],
+            [
+              44,
+              -111
+            ],
+            [
+              43.5,
+              -110.5
+            ],
+            [
+              43,
+              -110
+            ],
+            [
+              42.5,
+              -110.5
+            ],
+            [
+              42,
+              -111
+            ],
+            [
+              41.5,
+              -111
+            ],
+            [
+              41,
+              -110.5
+            ],
+            [
+              40.5,
+              -110
+            ],
+            [
+              40,
+              -109.5
+            ],
+            [
+              39.5,
+              -109
+            ],
+            [
+              39,
+              -108.5
+            ],
+            [
+              38.5,
+              -108.5
+            ],
+            [
+              38,
+              -108
+            ],
+            [
+              37.5,
+              -107.5
+            ],
+            [
+              37,
+              -107.5
+            ],
+            [
+              36.5,
+              -107.5
+            ],
+            [
+              36,
+              -107.5
+            ],
+            [
+              35.5,
+              -107
+            ],
+            [
+              35,
+              -106.5
+            ],
+            [
+              34.5,
+              -107
+            ],
+            [
+              34,
+              -107.5
+            ],
+            [
+              33.5,
+              -108
+            ],
+            [
+              33,
+              -108.5
+            ],
+            [
+              32.5,
+              -108.5
+            ],
+            [
+              32,
+              -108.5
+            ],
+            [
+              31.5,
+              -108.5
+            ],
+            [
+              31,
+              -108.5
+            ],
+            [
+              31,
+              -107.5
+            ],
+            [
+              31.5,
+              -107.5
+            ],
+            [
+              32,
+              -107.5
+            ],
+            [
+              32.5,
+              -107.5
+            ],
+            [
+              33,
+              -107
+            ],
+            [
+              33.5,
+              -106.5
+            ],
+            [
+              34,
+              -106.5
+            ],
+            [
+              34.5,
+              -106.5
+            ],
+            [
+              35,
+              -106
+            ],
+            [
+              35.5,
+              -106
+            ],
+            [
+              36,
+              -106.5
+            ],
+            [
+              36.5,
+              -107
+            ],
+            [
+              37,
+              -107.5
+            ],
+            [
+              37.5,
+              -108
+            ],
+            [
+              38,
+              -108.5
+            ],
+            [
+              38.5,
+              -109
+            ],
+            [
+              39,
+              -109.5
+            ],
+            [
+              39.5,
+              -110
+            ],
+            [
+              40,
+              -110.5
+            ],
+            [
+              40.5,
+              -111
+            ],
+            [
+              41,
+              -111.5
+            ],
+            [
+              41.5,
+              -112
+            ],
+            [
+              42,
+              -112
+            ],
+            [
+              42.5,
+              -111.5
+            ],
+            [
+              43,
+              -111
+            ],
+            [
+              43.5,
+              -111
+            ],
+            [
+              44,
+              -111.5
+            ],
+            [
+              44.5,
+              -112
+            ],
+            [
+              45,
+              -112.5
+            ],
+            [
+              45.5,
+              -113
+            ],
+            [
+              46,
+              -113.5
+            ],
+            [
+              46.5,
+              -114
+            ],
+            [
+              47,
+              -114.5
+            ],
+            [
+              47.5,
+              -115
+            ],
+            [
+              48,
+              -115.5
+            ],
+            [
+              48.5,
+              -116
+            ],
+            [
+              49,
+              -116
+            ],
+            [
+              49.5,
+              -115.5
+            ]
+          ],
+          [
+            [
+              36.5,
+              -118.5
+            ],
+            [
+              37,
+              -118
+            ],
+            [
+              37.5,
+              -118.5
+            ],
+            [
+              38,
+              -119
+            ],
+            [
+              38.5,
+              -119.5
+            ],
+            [
+              38.5,
+              -120
+            ],
+            [
+              38,
+              -120
+            ],
+            [
+              37.5,
+              -119.5
+            ],
+            [
+              37,
+              -119
+            ],
+            [
+              36.5,
+              -118.5
+            ],
+            [
+              36,
+              -118.5
+            ],
+            [
+              35.5,
+              -118
+            ],
+            [
+              36,
+              -117.5
+            ],
+            [
+              36.5,
+              -118.5
+            ]
+          ],
+          [
+            [
+              28,
+              -113.5
+            ],
+            [
+              28.5,
+              -113
+            ],
+            [
+              29,
+              -113.5
+            ],
+            [
+              29.5,
+              -114
+            ],
+            [
+              30,
+              -114.5
+            ],
+            [
+              30,
+              -115
+            ],
+            [
+              29.5,
+              -115
+            ],
+            [
+              29,
+              -114.5
+            ],
+            [
+              28.5,
+              -114
+            ],
+            [
+              28,
+              -113.5
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/bighorn-sheep.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "e78a8dc936e3c0ef6ac2f87277e648edb5f282b9c1bad02c2ea7d19fbc673de6",
+        "width": 1024,
+        "height": 712
+      }
+    },
+    {
+      "id": "black-backed-kingfisher",
+      "record_sha256": "3f29722ce052263b19d4c1009d64448baa7306f61f0a9f5b4d984de7f416e8bf",
+      "name_en": "Black-backed Kingfisher",
+      "name_zh": "三趾翠鸟",
+      "scientific_name": "Ceyx erithaca",
+      "conservation_status": {
+        "code": "NT",
+        "en": "Near Threatened",
+        "zh": "近危"
+      },
+      "habitat": {
+        "text_en": "Endemic to the Indomalayan realm, inhabiting lowland tropical and subtropical moist broadleaf forests, particularly near shaded streams across Southeast Asia, the Greater Sundas, and parts of the Indian subcontinent.",
+        "text_zh": "特产于东洋界，栖息于低海拔热带和亚热带湿润阔叶林中，尤其偏好东南亚、大巽他群岛及印度次大陆部分地区荫蔽溪流附近的生境。",
+        "map_coordinates": [
+          15,
+          100
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              24.5,
+              90.5
+            ],
+            [
+              26.2,
+              92.5
+            ],
+            [
+              27.8,
+              95.5
+            ],
+            [
+              25.4,
+              98.2
+            ],
+            [
+              22.5,
+              100.5
+            ],
+            [
+              21.8,
+              101.8
+            ],
+            [
+              20.5,
+              105.2
+            ],
+            [
+              18.5,
+              106.1
+            ],
+            [
+              15.2,
+              108.8
+            ],
+            [
+              11.5,
+              109.2
+            ],
+            [
+              10.2,
+              107.5
+            ],
+            [
+              10.5,
+              104.2
+            ],
+            [
+              12.8,
+              101.5
+            ],
+            [
+              13.2,
+              99.5
+            ],
+            [
+              9.5,
+              99.8
+            ],
+            [
+              6.5,
+              102.5
+            ],
+            [
+              1.8,
+              104.2
+            ],
+            [
+              1.2,
+              103.5
+            ],
+            [
+              1.5,
+              109.5
+            ],
+            [
+              7.2,
+              117.2
+            ],
+            [
+              4.5,
+              118.8
+            ],
+            [
+              -3.5,
+              116.5
+            ],
+            [
+              -4.2,
+              114.2
+            ],
+            [
+              -3.8,
+              111.5
+            ],
+            [
+              -6.5,
+              106.5
+            ],
+            [
+              -5.8,
+              104.5
+            ],
+            [
+              -3.5,
+              100.5
+            ],
+            [
+              0.5,
+              98.5
+            ],
+            [
+              4.5,
+              96.2
+            ],
+            [
+              6.5,
+              97.5
+            ],
+            [
+              10.5,
+              98.5
+            ],
+            [
+              14.5,
+              98.2
+            ],
+            [
+              16.5,
+              96.5
+            ],
+            [
+              20.5,
+              93.5
+            ],
+            [
+              22.5,
+              91.8
+            ],
+            [
+              24.5,
+              90.5
+            ]
+          ],
+          [
+            [
+              19.5,
+              72.8
+            ],
+            [
+              17.2,
+              73.5
+            ],
+            [
+              15.5,
+              73.8
+            ],
+            [
+              13.2,
+              74.5
+            ],
+            [
+              11.5,
+              75.8
+            ],
+            [
+              9.5,
+              76.5
+            ],
+            [
+              8.2,
+              77.2
+            ],
+            [
+              7.5,
+              79.5
+            ],
+            [
+              6.2,
+              80.2
+            ],
+            [
+              6.5,
+              81.5
+            ],
+            [
+              8.2,
+              81.8
+            ],
+            [
+              9.8,
+              80.5
+            ],
+            [
+              10.5,
+              79.2
+            ],
+            [
+              11.8,
+              78.5
+            ],
+            [
+              13.5,
+              77.2
+            ],
+            [
+              15.8,
+              75.5
+            ],
+            [
+              17.5,
+              74.2
+            ],
+            [
+              19.2,
+              73.5
+            ],
+            [
+              19.5,
+              72.8
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/black-backed-kingfisher.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "d5f46d08567ca360281b4bc5337e9575fc6c6bc2fb2b87efca7953d097dc90bc",
+        "width": 1024,
+        "height": 683
+      }
+    },
+    {
+      "id": "black-carp",
+      "record_sha256": "fc2d134c6bc7c23b25c128941a49ed7a7315e32238ff5d4bdde6bb8f433a00d3",
+      "name_en": "Black Carp",
+      "name_zh": "青鱼",
+      "scientific_name": "Mylopharyngodon piceus",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Large river systems, floodplains, and deep freshwater lakes with muddy or sandy bottoms.",
+        "text_zh": "大型江河干流、通江湖泊及底质多为淤泥或沙砾的深水区域。",
+        "map_coordinates": [
+          30.5,
+          114.3
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              31.2,
+              121.5
+            ],
+            [
+              32.1,
+              119.5
+            ],
+            [
+              32.5,
+              117.2
+            ],
+            [
+              34.8,
+              115.5
+            ],
+            [
+              36.5,
+              116.8
+            ],
+            [
+              37.8,
+              118.2
+            ],
+            [
+              38.2,
+              119.1
+            ],
+            [
+              37.5,
+              120.2
+            ],
+            [
+              36.1,
+              120.5
+            ],
+            [
+              34.5,
+              120.1
+            ],
+            [
+              32.5,
+              121.5
+            ],
+            [
+              31.2,
+              121.5
+            ]
+          ],
+          [
+            [
+              31.2,
+              121.5
+            ],
+            [
+              30.5,
+              118.2
+            ],
+            [
+              29.8,
+              116.1
+            ],
+            [
+              30.6,
+              114.3
+            ],
+            [
+              29.5,
+              112.5
+            ],
+            [
+              28.2,
+              113.1
+            ],
+            [
+              29.1,
+              110.5
+            ],
+            [
+              30.8,
+              109.2
+            ],
+            [
+              29.5,
+              106.5
+            ],
+            [
+              28.5,
+              105.2
+            ],
+            [
+              30.2,
+              104.1
+            ],
+            [
+              31.5,
+              104.5
+            ],
+            [
+              31.2,
+              121.5
+            ]
+          ],
+          [
+            [
+              23.5,
+              113.5
+            ],
+            [
+              22.8,
+              114.2
+            ],
+            [
+              22.1,
+              113.5
+            ],
+            [
+              22.5,
+              112.1
+            ],
+            [
+              23.2,
+              110.5
+            ],
+            [
+              24.5,
+              108.2
+            ],
+            [
+              23.1,
+              106.5
+            ],
+            [
+              22.5,
+              107.2
+            ],
+            [
+              21.5,
+              108.1
+            ],
+            [
+              23.5,
+              113.5
+            ]
+          ],
+          [
+            [
+              48.5,
+              135.1
+            ],
+            [
+              49.2,
+              132.5
+            ],
+            [
+              47.5,
+              130.2
+            ],
+            [
+              46.1,
+              131.5
+            ],
+            [
+              45.2,
+              133.5
+            ],
+            [
+              48.5,
+              135.1
+            ]
+          ],
+          [
+            [
+              29.1,
+              -89.4
+            ],
+            [
+              30.5,
+              -91.2
+            ],
+            [
+              32.5,
+              -91.1
+            ],
+            [
+              35.1,
+              -90
+            ],
+            [
+              38.6,
+              -90.2
+            ],
+            [
+              41.5,
+              -90.5
+            ],
+            [
+              44.8,
+              -92.9
+            ],
+            [
+              41.2,
+              -88.3
+            ],
+            [
+              39.1,
+              -84.5
+            ],
+            [
+              37,
+              -89.2
+            ],
+            [
+              29.1,
+              -89.4
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/black-carp.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "807d55cefd80bda8f0a46a25b3953e72272e0d437d586f133eb484ca289fadae",
+        "width": 944,
+        "height": 623
+      }
+    },
+    {
+      "id": "black-footed-cat",
+      "record_sha256": "bbd1668092f821106f2d6f000fc4e566bfdc4d1dc33d39742e440f8ecb85629a",
+      "name_en": "Black-footed Cat",
+      "name_zh": "黑足猫",
+      "scientific_name": "Felis nigripes",
+      "conservation_status": {
+        "code": "VU",
+        "en": "Vulnerable",
+        "zh": "易危"
+      },
+      "habitat": {
+        "text_en": "Arid deserts and savannas",
+        "text_zh": "干旱沙漠与稀树草原",
+        "map_coordinates": [
+          -28,
+          22
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": [
+          [
+            [
+              -34,
+              19
+            ],
+            [
+              -28,
+              16
+            ],
+            [
+              -23,
+              15
+            ],
+            [
+              -19,
+              18
+            ],
+            [
+              -20,
+              22
+            ],
+            [
+              -22,
+              26
+            ],
+            [
+              -26,
+              28
+            ],
+            [
+              -30,
+              26
+            ],
+            [
+              -33,
+              25
+            ],
+            [
+              -34,
+              19
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/black-footed-cat.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "ba05cb2bfc558ad107dfc7864087896465cc16c8cac1e191f8b329a8082e2a5c",
+        "width": 1024,
+        "height": 682
+      }
+    },
+    {
+      "id": "black-headed-spider-monkey",
+      "record_sha256": "3f161ca3df3e276ab63bc31abba2dfd4c1abe680724f9898184a731c951135b4",
+      "name_en": "Black-headed Spider Monkey",
+      "name_zh": "黑头蜘蛛猴",
+      "scientific_name": "Ateles chamek",
+      "conservation_status": {
+        "code": "EN",
+        "en": "Endangered",
+        "zh": "濒危"
+      },
+      "habitat": {
+        "text_en": "Primary Lowland Rainforest Canopy",
+        "text_zh": "原始低地雨林冠层",
+        "map_coordinates": [
+          -10.5,
+          -65.2
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": [
+          [
+            [
+              -7,
+              -74.5
+            ],
+            [
+              -6.1,
+              -73
+            ],
+            [
+              -4.5,
+              -71.5
+            ],
+            [
+              -4,
+              -68.5
+            ],
+            [
+              -5,
+              -64
+            ],
+            [
+              -8.5,
+              -62
+            ],
+            [
+              -11.5,
+              -61.5
+            ],
+            [
+              -14,
+              -62
+            ],
+            [
+              -15.5,
+              -65
+            ],
+            [
+              -17,
+              -67.4
+            ],
+            [
+              -18.5,
+              -69.1
+            ],
+            [
+              -16.5,
+              -71.5
+            ],
+            [
+              -14,
+              -74
+            ],
+            [
+              -11.5,
+              -75.5
+            ],
+            [
+              -9,
+              -76
+            ],
+            [
+              -7,
+              -74.5
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/black-headed-spider-monkey.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "e867c4a4e594dc6353cb0482ac906f9232e683190c088d0cd20c3afa456a6f9e",
+        "width": 1024,
+        "height": 768
+      }
+    },
+    {
+      "id": "black-stork",
+      "record_sha256": "2758a6e5db49d1befd57e5cb39d787e55b7b4067b02939da44182983849c0432",
+      "name_en": "Black Stork",
+      "name_zh": "黑鹳",
+      "scientific_name": "Ciconia nigra",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Temperate forests, riverine wetlands, and montane cliffs.",
+        "text_zh": "温带森林、河流湿地及山地悬崖。",
+        "map_coordinates": [
+          48,
+          45
+        ],
+        "map_zoom_level": 3,
+        "global_distribution_polygons": [
+          [
+            [
+              36.5,
+              -9.5
+            ],
+            [
+              43.5,
+              -9.5
+            ],
+            [
+              43.5,
+              -1.5
+            ],
+            [
+              48.5,
+              5.5
+            ],
+            [
+              55.5,
+              15.5
+            ],
+            [
+              60.5,
+              30.5
+            ],
+            [
+              65.5,
+              60.5
+            ],
+            [
+              62.5,
+              90.5
+            ],
+            [
+              58.5,
+              120.5
+            ],
+            [
+              52.5,
+              135.5
+            ],
+            [
+              40.5,
+              130.5
+            ],
+            [
+              35.5,
+              115.5
+            ],
+            [
+              32.5,
+              100.5
+            ],
+            [
+              38.5,
+              80.5
+            ],
+            [
+              45.5,
+              40.5
+            ],
+            [
+              42.5,
+              20.5
+            ],
+            [
+              36.5,
+              -9.5
+            ]
+          ],
+          [
+            [
+              18.5,
+              -16.5
+            ],
+            [
+              18.5,
+              35.5
+            ],
+            [
+              10.5,
+              45.5
+            ],
+            [
+              -5.5,
+              40.5
+            ],
+            [
+              -15.5,
+              30.5
+            ],
+            [
+              -15.5,
+              15.5
+            ],
+            [
+              5.5,
+              -10.5
+            ],
+            [
+              18.5,
+              -16.5
+            ]
+          ],
+          [
+            [
+              28.5,
+              65.5
+            ],
+            [
+              32.5,
+              85.5
+            ],
+            [
+              25.5,
+              95.5
+            ],
+            [
+              10.5,
+              85.5
+            ],
+            [
+              12.5,
+              70.5
+            ],
+            [
+              28.5,
+              65.5
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/black-stork.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "5573ebe378ae0caeccd4c9d9b4c06eef01ea202c47fe189fa9809907b72b9c14",
+        "width": 1024,
+        "height": 683
+      }
+    },
+    {
+      "id": "black-swallowtail",
+      "record_sha256": "c43e711b6382d48b07aba4d53505c0a8712c2bd3ad259707b5ddd1265447dbce",
+      "name_en": "Black Swallowtail",
+      "name_zh": "黑凤蝶",
+      "scientific_name": "Papilio polyxenes",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Open fields, meadows, suburban gardens, and agricultural lands across North and Central America.",
+        "text_zh": "北美和中美洲的开阔田野、草甸、郊区花园及农耕地。",
+        "map_coordinates": [
+          37.0902,
+          -95.7129
+        ],
+        "map_zoom_level": 3,
+        "global_distribution_polygons": [
+          [
+            [
+              48.5,
+              -70.5
+            ],
+            [
+              50.2,
+              -80.1
+            ],
+            [
+              51.5,
+              -95.2
+            ],
+            [
+              50.8,
+              -105.5
+            ],
+            [
+              48.2,
+              -115.3
+            ],
+            [
+              45.5,
+              -122.4
+            ],
+            [
+              40.1,
+              -124.2
+            ],
+            [
+              34.5,
+              -120.5
+            ],
+            [
+              31.2,
+              -115.8
+            ],
+            [
+              25.5,
+              -108.2
+            ],
+            [
+              18.2,
+              -100.5
+            ],
+            [
+              14.5,
+              -92.2
+            ],
+            [
+              12.1,
+              -86.5
+            ],
+            [
+              10.5,
+              -83.2
+            ],
+            [
+              15.2,
+              -88.5
+            ],
+            [
+              20.5,
+              -95.2
+            ],
+            [
+              25.8,
+              -97.5
+            ],
+            [
+              28.5,
+              -95.2
+            ],
+            [
+              29.5,
+              -90.5
+            ],
+            [
+              28.2,
+              -82.5
+            ],
+            [
+              25.1,
+              -80.5
+            ],
+            [
+              30.5,
+              -81.2
+            ],
+            [
+              35.2,
+              -75.5
+            ],
+            [
+              40.5,
+              -73.5
+            ],
+            [
+              44.5,
+              -68.2
+            ],
+            [
+              48.5,
+              -70.5
+            ]
+          ],
+          [
+            [
+              32.5,
+              -117.2
+            ],
+            [
+              35.5,
+              -115.5
+            ],
+            [
+              38.2,
+              -110.5
+            ],
+            [
+              35.5,
+              -105.2
+            ],
+            [
+              30.2,
+              -106.5
+            ],
+            [
+              32.5,
+              -117.2
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/black-swallowtail.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "ceb195bf206df0ca46ddaf6ded9b33d3a6504f399cd761eb492d4c9970c8303b",
+        "width": 1024,
+        "height": 659
+      }
+    },
+    {
+      "id": "black-swan",
+      "record_sha256": "d8c701789d8ac0eaadd2ba6e58cfbf83af59b833ec6249963333fc10554ba3c8",
+      "name_en": "Black Swan",
+      "name_zh": "黑天鹅",
+      "scientific_name": "Cygnus atratus",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Wetlands, lakes, and coastal lagoons across Australia and Tasmania.",
+        "text_zh": "遍布澳大利亚和塔斯马尼亚的湿地、湖泊及沿海泻湖。",
+        "map_coordinates": [
+          -28.2744,
+          133.7751
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              -24.1,
+              151.5
+            ],
+            [
+              -26.5,
+              153.5
+            ],
+            [
+              -30.2,
+              153.3
+            ],
+            [
+              -33.5,
+              151.8
+            ],
+            [
+              -36.2,
+              150.2
+            ],
+            [
+              -38.5,
+              147.5
+            ],
+            [
+              -38.8,
+              145.2
+            ],
+            [
+              -38.2,
+              143.5
+            ],
+            [
+              -37.5,
+              140.2
+            ],
+            [
+              -35.8,
+              138.5
+            ],
+            [
+              -34.2,
+              136.5
+            ],
+            [
+              -32.5,
+              137.2
+            ],
+            [
+              -31.8,
+              139.5
+            ],
+            [
+              -30.5,
+              142.5
+            ],
+            [
+              -26.5,
+              146.5
+            ],
+            [
+              -24.2,
+              149.5
+            ],
+            [
+              -24.1,
+              151.5
+            ]
+          ],
+          [
+            [
+              -28.2,
+              114.2
+            ],
+            [
+              -30.5,
+              115.1
+            ],
+            [
+              -32.8,
+              115.6
+            ],
+            [
+              -34.8,
+              115.2
+            ],
+            [
+              -35.5,
+              117.8
+            ],
+            [
+              -34.9,
+              120.5
+            ],
+            [
+              -33.8,
+              123.8
+            ],
+            [
+              -32.5,
+              124.8
+            ],
+            [
+              -31.2,
+              122.5
+            ],
+            [
+              -29.2,
+              118.8
+            ],
+            [
+              -28.2,
+              114.2
+            ]
+          ],
+          [
+            [
+              -40.5,
+              144.5
+            ],
+            [
+              -40.6,
+              147.9
+            ],
+            [
+              -41.8,
+              148.5
+            ],
+            [
+              -43.2,
+              148.2
+            ],
+            [
+              -43.7,
+              146.8
+            ],
+            [
+              -43.5,
+              145.8
+            ],
+            [
+              -42.5,
+              145.1
+            ],
+            [
+              -41.2,
+              144.5
+            ],
+            [
+              -40.5,
+              144.5
+            ]
+          ],
+          [
+            [
+              -15.5,
+              125.5
+            ],
+            [
+              -17.2,
+              123.5
+            ],
+            [
+              -19.5,
+              121.5
+            ],
+            [
+              -21.5,
+              120.5
+            ],
+            [
+              -20.5,
+              124.5
+            ],
+            [
+              -18.5,
+              127.5
+            ],
+            [
+              -15.5,
+              125.5
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/black-swan.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "a5f34a745c3cd164e506522f53c6ba04d3598a2043973744e5a6ec93780a81ce",
+        "width": 1024,
+        "height": 684
+      }
+    },
+    {
+      "id": "black-tailed-prairie-dog",
+      "record_sha256": "317b1546293787d92e2b4e948ab166f25f60f9953f7daafd05269602ccd94520",
+      "name_en": "Black-tailed Prairie Dog",
+      "name_zh": "黑尾土拨鼠",
+      "scientific_name": "Cynomys ludovicianus",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Shortgrass prairies",
+        "text_zh": "短草草原",
+        "map_coordinates": [
+          41,
+          -102
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": [
+          [
+            [
+              47.5,
+              -104.5
+            ],
+            [
+              47,
+              -104
+            ],
+            [
+              46.5,
+              -104.5
+            ],
+            [
+              46,
+              -104
+            ],
+            [
+              45.5,
+              -104.5
+            ],
+            [
+              45,
+              -103.5
+            ],
+            [
+              44.5,
+              -104
+            ],
+            [
+              44,
+              -103.5
+            ],
+            [
+              43.5,
+              -104
+            ],
+            [
+              43,
+              -104.5
+            ],
+            [
+              42.5,
+              -104.5
+            ],
+            [
+              42,
+              -105
+            ],
+            [
+              41.5,
+              -104.5
+            ],
+            [
+              41,
+              -104
+            ],
+            [
+              40.5,
+              -104.5
+            ],
+            [
+              40,
+              -104
+            ],
+            [
+              39.5,
+              -104.5
+            ],
+            [
+              39,
+              -104.5
+            ],
+            [
+              38.5,
+              -104
+            ],
+            [
+              38,
+              -103.5
+            ],
+            [
+              37.5,
+              -103.5
+            ],
+            [
+              37,
+              -103
+            ],
+            [
+              36.5,
+              -103.5
+            ],
+            [
+              36,
+              -103.5
+            ],
+            [
+              35.5,
+              -103
+            ],
+            [
+              35,
+              -103.5
+            ],
+            [
+              34.5,
+              -103
+            ],
+            [
+              34,
+              -103.5
+            ],
+            [
+              34,
+              -102
+            ],
+            [
+              34.5,
+              -101
+            ],
+            [
+              35,
+              -100.5
+            ],
+            [
+              36,
+              -100.5
+            ],
+            [
+              37,
+              -100
+            ],
+            [
+              37.5,
+              -100.5
+            ],
+            [
+              38,
+              -100.5
+            ],
+            [
+              38.5,
+              -101
+            ],
+            [
+              39,
+              -100.5
+            ],
+            [
+              39.5,
+              -100
+            ],
+            [
+              40,
+              -100.5
+            ],
+            [
+              40.5,
+              -100.5
+            ],
+            [
+              41,
+              -100
+            ],
+            [
+              41.5,
+              -100.5
+            ],
+            [
+              42,
+              -100.5
+            ],
+            [
+              42.5,
+              -100
+            ],
+            [
+              43,
+              -101.5
+            ],
+            [
+              43.5,
+              -102
+            ],
+            [
+              44,
+              -102.5
+            ],
+            [
+              44.5,
+              -102.5
+            ],
+            [
+              45,
+              -102.5
+            ],
+            [
+              45.5,
+              -103.5
+            ],
+            [
+              46,
+              -103.5
+            ],
+            [
+              46.5,
+              -104
+            ],
+            [
+              47,
+              -104.5
+            ],
+            [
+              47.5,
+              -104.5
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/black-tailed-prairie-dog.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "7770996f89017f2154036f30e77a12c3848a79c51741e84ad4333d2fb472e9c4",
+        "width": 1024,
+        "height": 683
+      }
+    },
+    {
+      "id": "black-winged-subterranean-termite",
+      "record_sha256": "4c842ba85b35feb27fb57bc0e2108d3fb279b032decb20d9aeefd1dfa5670e5f",
+      "name_en": "Black-winged Subterranean Termite",
+      "name_zh": "黑翅土白蚁",
+      "scientific_name": "Odontotermes formosanus",
+      "conservation_status": {
+        "code": "NE",
+        "en": "Not Evaluated",
+        "zh": "未评估"
+      },
+      "habitat": {
+        "text_en": "Subtropical forests, grasslands, and hydraulic structures in East/Southeast Asia.",
+        "text_zh": "东亚及东南亚的亚热带森林、草地及水利工程设施。",
+        "map_coordinates": [
+          23.1291,
+          113.2644
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": [
+          [
+            [
+              32.5,
+              118.5
+            ],
+            [
+              32,
+              121
+            ],
+            [
+              31,
+              122.5
+            ],
+            [
+              29.5,
+              122.5
+            ],
+            [
+              28,
+              121.5
+            ],
+            [
+              26.5,
+              120.5
+            ],
+            [
+              25,
+              119.5
+            ],
+            [
+              23.5,
+              117.5
+            ],
+            [
+              22.5,
+              115.5
+            ],
+            [
+              22,
+              114
+            ],
+            [
+              21.5,
+              112.5
+            ],
+            [
+              21,
+              110.5
+            ],
+            [
+              20,
+              110
+            ],
+            [
+              19,
+              108.5
+            ],
+            [
+              18.2,
+              109.5
+            ],
+            [
+              19,
+              111
+            ],
+            [
+              20.5,
+              111
+            ],
+            [
+              21.5,
+              108.5
+            ],
+            [
+              21,
+              107
+            ],
+            [
+              20,
+              106
+            ],
+            [
+              18.5,
+              105.5
+            ],
+            [
+              17,
+              106.5
+            ],
+            [
+              16,
+              107.5
+            ],
+            [
+              16.5,
+              104.5
+            ],
+            [
+              18.5,
+              103.5
+            ],
+            [
+              20.5,
+              102.5
+            ],
+            [
+              22.5,
+              100.5
+            ],
+            [
+              24.5,
+              98.5
+            ],
+            [
+              26.5,
+              99.5
+            ],
+            [
+              28.5,
+              102.5
+            ],
+            [
+              30.5,
+              104.5
+            ],
+            [
+              31.5,
+              107.5
+            ],
+            [
+              32.5,
+              111.5
+            ],
+            [
+              33.5,
+              115.5
+            ],
+            [
+              32.5,
+              118.5
+            ]
+          ],
+          [
+            [
+              25.3,
+              121.5
+            ],
+            [
+              25,
+              122
+            ],
+            [
+              24,
+              121.8
+            ],
+            [
+              23,
+              121.4
+            ],
+            [
+              22,
+              120.8
+            ],
+            [
+              22.3,
+              120.2
+            ],
+            [
+              23.5,
+              120.1
+            ],
+            [
+              24.5,
+              120.5
+            ],
+            [
+              25.3,
+              121.5
+            ]
+          ],
+          [
+            [
+              28.5,
+              129.5
+            ],
+            [
+              28,
+              130
+            ],
+            [
+              27.5,
+              129
+            ],
+            [
+              28.5,
+              129.5
+            ]
+          ],
+          [
+            [
+              26.5,
+              128
+            ],
+            [
+              26,
+              128.3
+            ],
+            [
+              26,
+              127.5
+            ],
+            [
+              26.5,
+              128
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/black-winged-subterranean-termite.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "8ac4c3b79559c8b5ff83ff2f18da87c55d5788e26b1337c42f3f9c183fab7517",
+        "width": 1024,
+        "height": 576
+      }
+    },
+    {
+      "id": "blue-crab",
+      "record_sha256": "e654f9f87058e44c1ff788ef325044aa60e24f8626e39fd378b8243dd7f7e714",
+      "name_en": "Blue Crab",
+      "name_zh": "蓝蟹",
+      "scientific_name": "Callinectes sapidus",
+      "conservation_status": {
+        "code": "NE",
+        "en": "Not Evaluated",
+        "zh": "未评估"
+      },
+      "habitat": {
+        "text_en": "Brackish Estuaries and Coastal Waters",
+        "text_zh": "半咸水河口与近海水域",
+        "map_coordinates": [
+          38,
+          -75
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              42,
+              -70
+            ],
+            [
+              40,
+              -74
+            ],
+            [
+              35,
+              -75
+            ],
+            [
+              25,
+              -80
+            ],
+            [
+              30,
+              -85
+            ],
+            [
+              28,
+              -96
+            ],
+            [
+              22,
+              -98
+            ],
+            [
+              20,
+              -90
+            ],
+            [
+              10,
+              -82
+            ],
+            [
+              -10,
+              -35
+            ],
+            [
+              -20,
+              -40
+            ],
+            [
+              -35,
+              -55
+            ],
+            [
+              -35,
+              -50
+            ],
+            [
+              -20,
+              -35
+            ],
+            [
+              -10,
+              -30
+            ],
+            [
+              20,
+              -80
+            ],
+            [
+              30,
+              -80
+            ],
+            [
+              42,
+              -65
+            ],
+            [
+              42,
+              -70
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/blue-crab.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "7cbd39990dc1a074bdb3decf0f0a75790bb2523dac8f6abf7954249332d2194c",
+        "width": 1024,
+        "height": 683
+      }
+    },
+    {
+      "id": "blue-dragon",
+      "record_sha256": "5fc446c0d842138b73f59c0aec828990b47744cbb322400a91d7db46491eb599",
+      "name_en": "Blue Dragon",
+      "name_zh": "大西洋海神海蛞蝓",
+      "scientific_name": "Glaucus atlanticus",
+      "conservation_status": {
+        "code": "DD",
+        "en": "Data Deficient",
+        "zh": "数据缺乏"
+      },
+      "habitat": {
+        "text_en": "Open ocean surface",
+        "text_zh": "大洋表面",
+        "map_coordinates": [
+          0,
+          0
+        ],
+        "map_zoom_level": 2,
+        "global_distribution_polygons": []
+      },
+      "image": "/images/animals/blue-dragon.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "20518a93e1274dc5284f66a4f5078ec42fc0c3c9b507b3f53e2f38f3b4b815a1",
+        "width": 1024,
+        "height": 768
+      }
+    },
+    {
+      "id": "blue-footed-booby",
+      "record_sha256": "43b890ef6970021e2b87283fef373d7214b41c5a3f33f00f32074fffc7609f54",
+      "name_en": "Blue-footed booby",
+      "name_zh": "蓝脚鲣鸟",
+      "scientific_name": "Sula nebouxii",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Tropical and subtropical Pacific coasts and islands, specifically the Galápagos and the American west coast.",
+        "text_zh": "太平洋热带及亚热带海岸与岛屿，特别是加拉帕戈斯群岛及美洲西海岸。",
+        "map_coordinates": [
+          -0.3916,
+          -90.3518
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              31.8,
+              -114.8
+            ],
+            [
+              30.5,
+              -115.5
+            ],
+            [
+              28.2,
+              -115.2
+            ],
+            [
+              24.5,
+              -112.5
+            ],
+            [
+              22.8,
+              -110
+            ],
+            [
+              20.5,
+              -105.8
+            ],
+            [
+              18.2,
+              -103.5
+            ],
+            [
+              15.5,
+              -97.5
+            ],
+            [
+              13.2,
+              -90.2
+            ],
+            [
+              9.5,
+              -85.5
+            ],
+            [
+              7.2,
+              -82.5
+            ],
+            [
+              2.5,
+              -79.5
+            ],
+            [
+              -2.5,
+              -81.5
+            ],
+            [
+              -6.5,
+              -81.8
+            ],
+            [
+              -10.5,
+              -79.5
+            ],
+            [
+              -14.5,
+              -76.8
+            ],
+            [
+              -17.8,
+              -72.5
+            ],
+            [
+              -18.5,
+              -70.2
+            ],
+            [
+              -15,
+              -73.5
+            ],
+            [
+              -10,
+              -76.5
+            ],
+            [
+              -5,
+              -79.5
+            ],
+            [
+              0,
+              -78.5
+            ],
+            [
+              5,
+              -77.5
+            ],
+            [
+              10,
+              -81.5
+            ],
+            [
+              15,
+              -94.5
+            ],
+            [
+              20,
+              -104.5
+            ],
+            [
+              25,
+              -111.5
+            ],
+            [
+              30,
+              -114.5
+            ],
+            [
+              31.8,
+              -114.8
+            ]
+          ],
+          [
+            [
+              1.2,
+              -92.5
+            ],
+            [
+              1.5,
+              -90.5
+            ],
+            [
+              0.5,
+              -88.5
+            ],
+            [
+              -1.2,
+              -88.8
+            ],
+            [
+              -1.8,
+              -90.5
+            ],
+            [
+              -1.5,
+              -92.2
+            ],
+            [
+              0.2,
+              -93
+            ],
+            [
+              1.2,
+              -92.5
+            ]
+          ],
+          [
+            [
+              31.5,
+              -114.5
+            ],
+            [
+              30,
+              -113.5
+            ],
+            [
+              28,
+              -112
+            ],
+            [
+              26,
+              -110.5
+            ],
+            [
+              24,
+              -109
+            ],
+            [
+              25.5,
+              -110.5
+            ],
+            [
+              28.5,
+              -112.5
+            ],
+            [
+              31,
+              -114.8
+            ],
+            [
+              31.5,
+              -114.5
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/blue-footed-booby.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "3c41240059a81688fc6775c705a61628f0396a6f05aafad71ada7a3fd3af642f",
+        "width": 1024,
+        "height": 683
+      }
+    },
+    {
+      "id": "blue-morpho-butterfly",
+      "record_sha256": "2230e13553e3909df861950fdeefb829539f8f98b169bb38b869959ab833bfe9",
+      "name_en": "Blue Morpho Butterfly",
+      "name_zh": "大蓝闪蝶",
+      "scientific_name": "Morpho menelaus",
+      "conservation_status": {
+        "code": "NE",
+        "en": "Not Evaluated",
+        "zh": "未评估"
+      },
+      "habitat": {
+        "text_en": "Tropical Forests",
+        "text_zh": "热带森林",
+        "map_coordinates": [
+          0,
+          -65
+        ],
+        "map_zoom_level": 4,
+        "global_distribution_polygons": [
+          [
+            [
+              15,
+              -92
+            ],
+            [
+              14,
+              -88
+            ],
+            [
+              12,
+              -85
+            ],
+            [
+              10,
+              -83
+            ],
+            [
+              8,
+              -80
+            ],
+            [
+              6,
+              -78
+            ],
+            [
+              3,
+              -76
+            ],
+            [
+              0,
+              -78
+            ],
+            [
+              -3,
+              -79
+            ],
+            [
+              -7,
+              -80
+            ],
+            [
+              -10,
+              -78
+            ],
+            [
+              -14,
+              -75
+            ],
+            [
+              -17,
+              -70
+            ],
+            [
+              -20,
+              -66
+            ],
+            [
+              -22,
+              -61
+            ],
+            [
+              -25,
+              -55
+            ],
+            [
+              -26,
+              -50
+            ],
+            [
+              -25,
+              -45
+            ],
+            [
+              -23,
+              -42
+            ],
+            [
+              -20,
+              -42
+            ],
+            [
+              -17,
+              -43
+            ],
+            [
+              -14,
+              -45
+            ],
+            [
+              -11,
+              -47
+            ],
+            [
+              -8,
+              -48
+            ],
+            [
+              -5,
+              -49
+            ],
+            [
+              -2,
+              -51
+            ],
+            [
+              1,
+              -52
+            ],
+            [
+              4,
+              -53
+            ],
+            [
+              7,
+              -54
+            ],
+            [
+              10,
+              -56
+            ],
+            [
+              12,
+              -59
+            ],
+            [
+              13,
+              -63
+            ],
+            [
+              14,
+              -68
+            ],
+            [
+              14,
+              -73
+            ],
+            [
+              15,
+              -78
+            ],
+            [
+              16,
+              -83
+            ],
+            [
+              16,
+              -88
+            ],
+            [
+              15,
+              -92
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/blue-morpho-butterfly.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "102b44a5b55f46777cef4071dc801efd28ac1d3115203c183cede94cab44ebd1",
+        "width": 1024,
+        "height": 683
+      }
+    },
+    {
+      "id": "blue-whale",
+      "record_sha256": "cbf14f5d82887dcb3a1b4460bce39960690ee085922f9a2773ac094bcbede7ff",
+      "name_en": "Blue Whale",
+      "name_zh": "蓝鲸",
+      "scientific_name": "Balaenoptera musculus",
+      "conservation_status": {
+        "code": "EN",
+        "en": "Endangered",
+        "zh": "濒危"
+      },
+      "habitat": {
+        "text_en": "Global Oceans, polar feeding grounds to tropical breeding grounds",
+        "text_zh": "全球各大洋，从极地觅食区到热带繁殖区",
+        "map_coordinates": [
+          0,
+          -120
+        ],
+        "map_zoom_level": 2,
+        "global_distribution_polygons": [
+          [
+            [
+              55,
+              -160
+            ],
+            [
+              50,
+              -135
+            ],
+            [
+              30,
+              -120
+            ],
+            [
+              10,
+              -90
+            ],
+            [
+              -10,
+              -85
+            ],
+            [
+              -40,
+              -95
+            ],
+            [
+              -65,
+              -150
+            ],
+            [
+              -60,
+              170
+            ],
+            [
+              -30,
+              180
+            ],
+            [
+              10,
+              -170
+            ],
+            [
+              55,
+              -160
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/blue-whale.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "142128c3d2e9d485eb1844a02450cf160373d7291fbeac0dac849bba9102b0e7",
+        "width": 1024,
+        "height": 683
+      }
+    },
+    {
+      "id": "boa-constrictor",
+      "record_sha256": "161f61438c1617f85ae318dcdb8dc124d578dd6a223cdca0e448b809e1d71244",
+      "name_en": "Boa constrictor",
+      "name_zh": "红尾蚺",
+      "scientific_name": "Boa constrictor",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Neotropical forests, savannas, and semi-arid scrublands from northern Mexico down to Argentina.",
+        "text_zh": "从墨西哥北部一直延伸到阿根廷的新热带森林、稀树草原和半干旱灌木丛。",
+        "map_coordinates": [
+          -10,
+          -60
+        ],
+        "map_zoom_level": 3,
+        "global_distribution_polygons": [
+          [
+            [
+              11,
+              -74
+            ],
+            [
+              12,
+              -71
+            ],
+            [
+              10.5,
+              -66
+            ],
+            [
+              10,
+              -62
+            ],
+            [
+              8.5,
+              -59
+            ],
+            [
+              6,
+              -55
+            ],
+            [
+              2,
+              -50
+            ],
+            [
+              -1,
+              -46
+            ],
+            [
+              -5,
+              -36
+            ],
+            [
+              -10,
+              -36
+            ],
+            [
+              -15,
+              -39
+            ],
+            [
+              -20,
+              -40
+            ],
+            [
+              -23,
+              -43
+            ],
+            [
+              -27,
+              -48
+            ],
+            [
+              -30,
+              -51
+            ],
+            [
+              -33,
+              -58
+            ],
+            [
+              -30,
+              -62
+            ],
+            [
+              -25,
+              -65
+            ],
+            [
+              -20,
+              -63
+            ],
+            [
+              -15,
+              -68
+            ],
+            [
+              -10,
+              -75
+            ],
+            [
+              -5,
+              -78
+            ],
+            [
+              0,
+              -78
+            ],
+            [
+              5,
+              -76
+            ],
+            [
+              8,
+              -76
+            ],
+            [
+              11,
+              -74
+            ]
+          ],
+          [
+            [
+              8,
+              -77
+            ],
+            [
+              9,
+              -80
+            ],
+            [
+              10,
+              -84
+            ],
+            [
+              12,
+              -86
+            ],
+            [
+              14,
+              -88
+            ],
+            [
+              16,
+              -93
+            ],
+            [
+              18,
+              -95
+            ],
+            [
+              20,
+              -97
+            ],
+            [
+              22,
+              -98
+            ],
+            [
+              25,
+              -98
+            ],
+            [
+              28,
+              -100
+            ],
+            [
+              30,
+              -105
+            ],
+            [
+              28,
+              -108
+            ],
+            [
+              25,
+              -106
+            ],
+            [
+              22,
+              -105
+            ],
+            [
+              19,
+              -104
+            ],
+            [
+              16,
+              -98
+            ],
+            [
+              14,
+              -92
+            ],
+            [
+              10,
+              -84
+            ],
+            [
+              8,
+              -77
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/boa-constrictor.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "a9ecc43983f3eb9fa8c380a4f3d1029b5e2cd2257f07ad45d323aefbf8682b2d",
+        "width": 1024,
+        "height": 576
+      }
+    },
+    {
+      "id": "bobcat",
+      "record_sha256": "444fc60154b30e8afe7747064055fea7c84d8c40f91a2cf7a129e6b7e02edc73",
+      "name_en": "Bobcat",
+      "name_zh": "短尾猫",
+      "scientific_name": "Lynx rufus",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Forests, swamps, and deserts",
+        "text_zh": "森林、沼泽和沙漠",
+        "map_coordinates": [
+          33.8,
+          -84.4
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": [
+          [
+            [
+              49,
+              -124
+            ],
+            [
+              49,
+              -120
+            ],
+            [
+              49.5,
+              -115
+            ],
+            [
+              49,
+              -110
+            ],
+            [
+              49,
+              -105
+            ],
+            [
+              49.5,
+              -100
+            ],
+            [
+              49,
+              -95
+            ],
+            [
+              48.5,
+              -90
+            ],
+            [
+              47,
+              -84
+            ],
+            [
+              45.5,
+              -76
+            ],
+            [
+              45,
+              -71
+            ],
+            [
+              44,
+              -66.5
+            ],
+            [
+              42.5,
+              -70
+            ],
+            [
+              41,
+              -70.5
+            ],
+            [
+              39.5,
+              -74
+            ],
+            [
+              35,
+              -75.5
+            ],
+            [
+              30.5,
+              -81.5
+            ],
+            [
+              25.5,
+              -80.3
+            ],
+            [
+              24.5,
+              -81.5
+            ],
+            [
+              25,
+              -84
+            ],
+            [
+              29,
+              -89.5
+            ],
+            [
+              29,
+              -94
+            ],
+            [
+              26,
+              -97.5
+            ],
+            [
+              22.5,
+              -97.8
+            ],
+            [
+              20,
+              -87.5
+            ],
+            [
+              17.5,
+              -91.5
+            ],
+            [
+              16,
+              -92.5
+            ],
+            [
+              16.5,
+              -95
+            ],
+            [
+              18.5,
+              -96.5
+            ],
+            [
+              19.5,
+              -90.5
+            ],
+            [
+              21,
+              -87.3
+            ],
+            [
+              23.5,
+              -90
+            ],
+            [
+              25,
+              -91
+            ],
+            [
+              26.5,
+              -99.5
+            ],
+            [
+              27.5,
+              -105
+            ],
+            [
+              29,
+              -110
+            ],
+            [
+              27,
+              -110.5
+            ],
+            [
+              24,
+              -110
+            ],
+            [
+              22.5,
+              -105.5
+            ],
+            [
+              20.5,
+              -105
+            ],
+            [
+              19,
+              -104
+            ],
+            [
+              18.5,
+              -103.5
+            ],
+            [
+              19.5,
+              -102
+            ],
+            [
+              19.5,
+              -99
+            ],
+            [
+              18,
+              -96
+            ],
+            [
+              18.5,
+              -103.5
+            ],
+            [
+              20,
+              -105
+            ],
+            [
+              22,
+              -106
+            ],
+            [
+              25,
+              -108
+            ],
+            [
+              28,
+              -111
+            ],
+            [
+              30.5,
+              -112.5
+            ],
+            [
+              31.3,
+              -114.5
+            ],
+            [
+              32.5,
+              -117.1
+            ],
+            [
+              34,
+              -120.5
+            ],
+            [
+              36.5,
+              -121.8
+            ],
+            [
+              38,
+              -122.5
+            ],
+            [
+              40,
+              -124.3
+            ],
+            [
+              42,
+              -124.5
+            ],
+            [
+              44.5,
+              -124
+            ],
+            [
+              46.5,
+              -124.2
+            ],
+            [
+              48.5,
+              -124.5
+            ],
+            [
+              49,
+              -124
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/bobcat.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "de97c3d4edb53a7aba6ba1597bbf795008a7025227a32f1ebe47605f6c8ec143",
+        "width": 1024,
+        "height": 630
+      }
+    },
+    {
+      "id": "bohemian-waxwing",
+      "record_sha256": "7d864dc1b1f2a45c2a15124b029d1b28e9d9b48af2f7f6c001cf4a0b408d8928",
+      "name_en": "Bohemian waxwing",
+      "name_zh": "太平鸟",
+      "scientific_name": "Bombycilla garrulus",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Circumpolar boreal forests (taiga) during breeding season; highly nomadic across temperate forests, woodlands, and urban areas during winter irruptions.",
+        "text_zh": "繁殖期栖息于环北极的针叶林（泰加林）；冬季爆发性迁徙期间，高度游荡于温带森林、林地及城市区域。",
+        "map_coordinates": [
+          60,
+          0
+        ],
+        "map_zoom_level": 2,
+        "global_distribution_polygons": [
+          [
+            [
+              69.5,
+              18.5
+            ],
+            [
+              71.2,
+              25.4
+            ],
+            [
+              68.8,
+              35.1
+            ],
+            [
+              67.5,
+              45.2
+            ],
+            [
+              68,
+              55.5
+            ],
+            [
+              70.5,
+              70.2
+            ],
+            [
+              72.1,
+              85
+            ],
+            [
+              73.5,
+              105.2
+            ],
+            [
+              71.8,
+              125.5
+            ],
+            [
+              69.2,
+              145
+            ],
+            [
+              65.5,
+              165.2
+            ],
+            [
+              60.2,
+              163.5
+            ],
+            [
+              55.5,
+              155.2
+            ],
+            [
+              50.8,
+              140.5
+            ],
+            [
+              48.5,
+              130.2
+            ],
+            [
+              49.2,
+              115.5
+            ],
+            [
+              52.5,
+              100.2
+            ],
+            [
+              55.8,
+              85.5
+            ],
+            [
+              58.2,
+              70.2
+            ],
+            [
+              60.5,
+              55.5
+            ],
+            [
+              62.8,
+              40.2
+            ],
+            [
+              60.5,
+              25.5
+            ],
+            [
+              62.2,
+              15.2
+            ],
+            [
+              65.5,
+              12.5
+            ],
+            [
+              69.5,
+              18.5
+            ]
+          ],
+          [
+            [
+              68.5,
+              -160.2
+            ],
+            [
+              70.2,
+              -150.5
+            ],
+            [
+              69.8,
+              -140.2
+            ],
+            [
+              68.5,
+              -130.5
+            ],
+            [
+              66.2,
+              -120.2
+            ],
+            [
+              64.5,
+              -110.5
+            ],
+            [
+              62.2,
+              -100.2
+            ],
+            [
+              60.5,
+              -90.5
+            ],
+            [
+              58.2,
+              -80.2
+            ],
+            [
+              55.5,
+              -70.5
+            ],
+            [
+              52.2,
+              -65.2
+            ],
+            [
+              48.5,
+              -60.5
+            ],
+            [
+              45.2,
+              -65.2
+            ],
+            [
+              46.5,
+              -75.5
+            ],
+            [
+              48.2,
+              -85.2
+            ],
+            [
+              50.5,
+              -95.5
+            ],
+            [
+              52.2,
+              -105.2
+            ],
+            [
+              50.5,
+              -115.5
+            ],
+            [
+              52.2,
+              -125.2
+            ],
+            [
+              55.5,
+              -130.5
+            ],
+            [
+              58.2,
+              -135.2
+            ],
+            [
+              60.5,
+              -145.5
+            ],
+            [
+              62.2,
+              -155.2
+            ],
+            [
+              65.5,
+              -165.5
+            ],
+            [
+              68.5,
+              -160.2
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/bohemian-waxwing.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "8bbac65bcf6ce84e629e9a52e1a48c2b6a0128ddc965e92e187b4bb2a009bb79",
+        "width": 1024,
+        "height": 681
+      }
+    },
+    {
+      "id": "bolivian-anaconda",
+      "record_sha256": "60d758672a7f8ec4e855a2a0c09d0e293460cab3dc6cbe47ecc11bb7fcffe7f3",
+      "name_en": "Bolivian Anaconda",
+      "name_zh": "玻利维亚森蚺",
+      "scientific_name": "Eunectes beniensis",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Endemic to the Beni savanna and surrounding flooded plains of the Bolivian Amazon.",
+        "text_zh": "特有于玻利维亚亚马逊的贝尼稀树草原及周边泛滥平原。",
+        "map_coordinates": [
+          -14,
+          -65
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": [
+          [
+            [
+              -10.8,
+              -66.2
+            ],
+            [
+              -11.5,
+              -65.1
+            ],
+            [
+              -12.2,
+              -64.3
+            ],
+            [
+              -13.1,
+              -63.2
+            ],
+            [
+              -14.5,
+              -62.4
+            ],
+            [
+              -15.8,
+              -62.1
+            ],
+            [
+              -16.9,
+              -62.6
+            ],
+            [
+              -17.6,
+              -63.4
+            ],
+            [
+              -17.8,
+              -64.2
+            ],
+            [
+              -17.2,
+              -65.1
+            ],
+            [
+              -16.5,
+              -66
+            ],
+            [
+              -15.7,
+              -66.8
+            ],
+            [
+              -14.9,
+              -67.3
+            ],
+            [
+              -14,
+              -67.6
+            ],
+            [
+              -13.2,
+              -67.8
+            ],
+            [
+              -12.4,
+              -67.5
+            ],
+            [
+              -11.6,
+              -67.1
+            ],
+            [
+              -11,
+              -66.7
+            ],
+            [
+              -10.8,
+              -66.2
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/bolivian-anaconda.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "f6555563ea0987138cd056bb18650fe7b8ea84b9d718773e516e01f9624c9f65",
+        "width": 1024,
+        "height": 768
+      }
+    },
+    {
+      "id": "bornean-orangutan",
+      "record_sha256": "ce5bfd0397e06a5b7d5c8931fd804824109e4d878d7b54419e0cf0028d69a1d8",
+      "name_en": "Bornean Orangutan",
+      "name_zh": "婆罗洲猩猩",
+      "scientific_name": "Pongo pygmaeus",
+      "conservation_status": {
+        "code": "CR",
+        "en": "Critically Endangered",
+        "zh": "极危"
+      },
+      "habitat": {
+        "text_en": "Tropical rainforests and swamps of Borneo",
+        "text_zh": "婆罗洲的热带雨林和沼泽",
+        "map_coordinates": [
+          1,
+          114
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": [
+          [
+            [
+              7,
+              116
+            ],
+            [
+              4,
+              119
+            ],
+            [
+              -4,
+              117
+            ],
+            [
+              -4,
+              110
+            ],
+            [
+              2,
+              109
+            ],
+            [
+              7,
+              116
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/bornean-orangutan.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "f1acd89809b628346f7f1273909138bea90ae9c74ecb9e1ec14738321f9c8e9c",
+        "width": 1024,
+        "height": 683
+      }
+    },
+    {
+      "id": "boulder-brain-coral",
+      "record_sha256": "e0ea98f30e8edc69f31ab7959c4a7b6da636e0a6d92c361f5e8981afe2ddb68b",
+      "name_en": "Boulder brain coral",
+      "name_zh": "巨型脑珊瑚",
+      "scientific_name": "Colpophyllia natans",
+      "conservation_status": {
+        "code": "VU",
+        "en": "Vulnerable",
+        "zh": "易危"
+      },
+      "habitat": {
+        "text_en": "Shallow to mid-depth coral reefs, fore-reef slopes, and lagoons in the Caribbean and Gulf of Mexico.",
+        "text_zh": "加勒比海和墨西哥湾的浅水至中等深度珊瑚礁、礁前斜坡及潟湖。",
+        "map_coordinates": [
+          17,
+          -75
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": [
+          [
+            [
+              27.18,
+              -80.15
+            ],
+            [
+              25.65,
+              -80.08
+            ],
+            [
+              24.55,
+              -81.78
+            ],
+            [
+              23.15,
+              -82.35
+            ],
+            [
+              21.88,
+              -84.95
+            ],
+            [
+              21.25,
+              -86.75
+            ],
+            [
+              19.55,
+              -87.45
+            ],
+            [
+              17.25,
+              -88.15
+            ],
+            [
+              15.85,
+              -86.25
+            ],
+            [
+              14.95,
+              -83.15
+            ],
+            [
+              12.55,
+              -81.65
+            ],
+            [
+              9.35,
+              -78.85
+            ],
+            [
+              11.25,
+              -74.25
+            ],
+            [
+              12.45,
+              -70.15
+            ],
+            [
+              10.85,
+              -63.95
+            ],
+            [
+              11.35,
+              -60.55
+            ],
+            [
+              13.15,
+              -59.55
+            ],
+            [
+              15.45,
+              -61.25
+            ],
+            [
+              17.85,
+              -62.85
+            ],
+            [
+              18.45,
+              -65.95
+            ],
+            [
+              18.15,
+              -68.35
+            ],
+            [
+              19.85,
+              -71.65
+            ],
+            [
+              20.15,
+              -74.15
+            ],
+            [
+              22.35,
+              -73.85
+            ],
+            [
+              24.15,
+              -76.15
+            ],
+            [
+              26.45,
+              -76.85
+            ],
+            [
+              27.18,
+              -80.15
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/boulder-brain-coral.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "0c8a18fb32e166a62be5e51836b0b5c7ee83b9f9dd99e995195c3020eea9a105",
+        "width": 1000,
+        "height": 750
+      }
+    },
+    {
+      "id": "brown-bear",
+      "record_sha256": "dcf436ec389cd51e50e0bb4a56559ad3889b1bcf0eaf94084f2a86c8d4d86907",
+      "name_en": "Brown Bear",
+      "name_zh": "棕熊",
+      "scientific_name": "Ursus arctos",
+      "conservation_status": {
+        "code": "LC",
+        "en": "Least Concern",
+        "zh": "无危"
+      },
+      "habitat": {
+        "text_en": "Forests and mountainous regions",
+        "text_zh": "森林与山区",
+        "map_coordinates": [
+          44.42,
+          -110.58
+        ],
+        "map_zoom_level": 5,
+        "global_distribution_polygons": [
+          [
+            [
+              55,
+              -168
+            ],
+            [
+              58,
+              -165
+            ],
+            [
+              60,
+              -162
+            ],
+            [
+              62,
+              -158
+            ],
+            [
+              64,
+              -155
+            ],
+            [
+              66,
+              -150
+            ],
+            [
+              68,
+              -145
+            ],
+            [
+              68.5,
+              -140
+            ],
+            [
+              67,
+              -138
+            ],
+            [
+              65,
+              -138
+            ],
+            [
+              63,
+              -140
+            ],
+            [
+              61,
+              -143
+            ],
+            [
+              59,
+              -147
+            ],
+            [
+              57,
+              -152
+            ],
+            [
+              56,
+              -158
+            ],
+            [
+              55,
+              -163
+            ],
+            [
+              54.5,
+              -166
+            ],
+            [
+              55,
+              -168
+            ]
+          ],
+          [
+            [
+              49,
+              -125
+            ],
+            [
+              51,
+              -124
+            ],
+            [
+              53,
+              -122.5
+            ],
+            [
+              55,
+              -120
+            ],
+            [
+              57,
+              -118
+            ],
+            [
+              59,
+              -117
+            ],
+            [
+              60,
+              -118
+            ],
+            [
+              59.5,
+              -120
+            ],
+            [
+              58,
+              -122
+            ],
+            [
+              56,
+              -124
+            ],
+            [
+              54,
+              -126
+            ],
+            [
+              52,
+              -127
+            ],
+            [
+              50,
+              -126.5
+            ],
+            [
+              49,
+              -125
+            ]
+          ],
+          [
+            [
+              43.5,
+              -111.5
+            ],
+            [
+              44,
+              -110.5
+            ],
+            [
+              44.8,
+              -110.2
+            ],
+            [
+              45.2,
+              -110
+            ],
+            [
+              45,
+              -109.5
+            ],
+            [
+              44.5,
+              -109
+            ],
+            [
+              43.8,
+              -109.5
+            ],
+            [
+              43.2,
+              -110.2
+            ],
+            [
+              43,
+              -111
+            ],
+            [
+              43.5,
+              -111.5
+            ]
+          ],
+          [
+            [
+              60,
+              14
+            ],
+            [
+              62,
+              14.5
+            ],
+            [
+              64,
+              15
+            ],
+            [
+              66,
+              16
+            ],
+            [
+              68,
+              18
+            ],
+            [
+              69,
+              20
+            ],
+            [
+              68.5,
+              23
+            ],
+            [
+              67,
+              25
+            ],
+            [
+              65,
+              27
+            ],
+            [
+              63,
+              28
+            ],
+            [
+              61,
+              27
+            ],
+            [
+              59,
+              26
+            ],
+            [
+              58,
+              24
+            ],
+            [
+              58.5,
+              21
+            ],
+            [
+              59.5,
+              18
+            ],
+            [
+              60,
+              16
+            ],
+            [
+              60,
+              14
+            ]
+          ],
+          [
+            [
+              43,
+              22
+            ],
+            [
+              44.5,
+              22.5
+            ],
+            [
+              46,
+              23.5
+            ],
+            [
+              47.5,
+              25
+            ],
+            [
+              48,
+              26.5
+            ],
+            [
+              47.5,
+              28
+            ],
+            [
+              46,
+              29
+            ],
+            [
+              44.5,
+              28.5
+            ],
+            [
+              43,
+              27.5
+            ],
+            [
+              42,
+              26
+            ],
+            [
+              41.5,
+              24.5
+            ],
+            [
+              42,
+              23
+            ],
+            [
+              43,
+              22
+            ]
+          ],
+          [
+            [
+              42.5,
+              -2.5
+            ],
+            [
+              43,
+              -1.5
+            ],
+            [
+              43.3,
+              -0.5
+            ],
+            [
+              43.5,
+              0.5
+            ],
+            [
+              43.2,
+              1.5
+            ],
+            [
+              42.8,
+              2
+            ],
+            [
+              42.3,
+              1.5
+            ],
+            [
+              42,
+              0.5
+            ],
+            [
+              42,
+              -0.5
+            ],
+            [
+              42.3,
+              -1.5
+            ],
+            [
+              42.5,
+              -2.5
+            ]
+          ],
+          [
+            [
+              55,
+              40
+            ],
+            [
+              57,
+              45
+            ],
+            [
+              59,
+              52
+            ],
+            [
+              61,
+              60
+            ],
+            [
+              62,
+              68
+            ],
+            [
+              63,
+              78
+            ],
+            [
+              64,
+              88
+            ],
+            [
+              65,
+              98
+            ],
+            [
+              66,
+              110
+            ],
+            [
+              66,
+              122
+            ],
+            [
+              65,
+              132
+            ],
+            [
+              63,
+              138
+            ],
+            [
+              61,
+              140
+            ],
+            [
+              59,
+              140.5
+            ],
+            [
+              57,
+              138
+            ],
+            [
+              55,
+              134
+            ],
+            [
+              53,
+              130
+            ],
+            [
+              52,
+              122
+            ],
+            [
+              51,
+              112
+            ],
+            [
+              50,
+              100
+            ],
+            [
+              49,
+              88
+            ],
+            [
+              48,
+              78
+            ],
+            [
+              47,
+              68
+            ],
+            [
+              46,
+              58
+            ],
+            [
+              47,
+              48
+            ],
+            [
+              49,
+              42
+            ],
+            [
+              52,
+              39
+            ],
+            [
+              55,
+              40
+            ]
+          ],
+          [
+            [
+              27,
+              86
+            ],
+            [
+              28,
+              87.5
+            ],
+            [
+              29,
+              89
+            ],
+            [
+              30,
+              90.5
+            ],
+            [
+              30.5,
+              92
+            ],
+            [
+              30,
+              93.5
+            ],
+            [
+              29,
+              94.5
+            ],
+            [
+              28,
+              94
+            ],
+            [
+              27,
+              92.5
+            ],
+            [
+              26.5,
+              91
+            ],
+            [
+              26.5,
+              89.5
+            ],
+            [
+              27,
+              87.5
+            ],
+            [
+              27,
+              86
+            ]
+          ]
+        ]
+      },
+      "image": "/images/animals/brown-bear.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "b72dbe7ba6615c5b7d0834f00a96d955639f0a6c5730ed85426874b51488759e",
+        "width": 960,
+        "height": 690
+      }
+    },
+    {
+      "id": "brown-eared-pheasant",
+      "record_sha256": "18f132ec1019fe31a8e622c985a9303287dd6d0b8d79344ff885eeed6a3dfc24",
+      "name_en": "Brown Eared Pheasant",
+      "name_zh": "褐马鸡",
+      "scientific_name": "Crossoptilon mantchuricum",
+      "conservation_status": {
+        "code": "VU",
+        "en": "Vulnerable",
+        "zh": "易危"
+      },
+      "habitat": {
+        "text_en": "Mountain forests of North China",
+        "text_zh": "中国北方山地森林",
+        "map_coordinates": [
+          38,
+          112
+        ],
+        "map_zoom_level": 7,
+        "global_distribution_polygons": []
+      },
+      "image": "/images/animals/brown-eared-pheasant.jpg",
+      "image_manifest": {
+        "source": "legacy-import",
+        "source_url": null,
+        "taxon_id": null,
+        "photo_id": null,
+        "attribution": null,
+        "license_code": null,
+        "license_status": "unknown",
+        "review_status": "legacy-unverified",
+        "reviewed_at": "2026-08-16",
+        "sha256": "774839b827ec2b8fa98583347abaad2aa39596872acd0d2cfc1afd42eff877dc",
+        "width": 1024,
+        "height": 683
+      }
+    }
+  ]
+}
