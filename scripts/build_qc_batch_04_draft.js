@@ -4,10 +4,11 @@ const fs = require("node:fs");
 const path = require("node:path");
 
 const ROOT = path.resolve(__dirname, "..");
-const BATCH = "legacy-qc-batch-04";
-const CHECKED = "2026-08-16";
+const batchArg = process.argv.find((arg) => arg.startsWith("--batch="));
+const BATCH = batchArg ? batchArg.split("=")[1] : "legacy-qc-batch-04";
 const reviewed = process.argv.includes("--reviewed");
 const baseline = JSON.parse(fs.readFileSync(path.join(ROOT, "docs", "qc-batches", `${BATCH}-baseline.json`), "utf8"));
+const CHECKED = baseline.captured_at;
 const evidenceFile = JSON.parse(fs.readFileSync(path.join(ROOT, "docs", "qc-batches", `${BATCH}-evidence.json`), "utf8"));
 const evidenceById = new Map(evidenceFile.animals.map((animal) => [animal.id, animal]));
 
@@ -47,6 +48,54 @@ const manualIdentityResolutions = {
   "chinese-sturgeon": "GBIF gives an exact accepted species match and CR IUCN mapping; iNaturalist absence does not overturn the accepted identity.",
   "domestic-pig": "The project retains the explicit domestic-binomial convention Sus domesticus, while noting GBIF treats it as a synonym and assigning NE rather than the wild boar status.",
   "dusky-dolphin": "GBIF, IUCN, WoRMS and NOAA support Lagenorhynchus obscurus; iNaturalist currently indexes the revised combination Sagmatias obscurus.",
+  "kakapo": "GBIF accepts the spelling Strigops habroptila, while IUCN, iNaturalist and New Zealand conservation usage use Strigops habroptilus; this review adopts the latter spelling.",
+  "longsnout-catfish": "IUCN assesses Leiocassis longirostris as a species; GBIF treats that combination as a synonym and iNaturalist has no exact indexed taxon, so the IUCN-assessed combination is retained explicitly.",
+  "northern-goshawk": "The 2023 eBird/Clements split restricts this taxon to Eurasia and recognizes American Goshawk separately; the 2024 update places Eurasian Goshawk in Astur gentilis.",
+  "pygmy-slow-loris": "The Mammal Diversity Database recognizes Xanthonycticebus pygmaeus as Southern Pygmy Slow Loris and separates X. intermedius.",
+  "vicuna": "GBIF and the IUCN-linked category service retain Vicugna vicugna as Least Concern; the Mammal Diversity Database currently uses Lama vicugna, so the IUCN-assessed combination is retained explicitly.",
+  "whites-tree-frog": "Amphibian Species of the World currently recognizes Pelodryas caerulea; the global IUCN category remains the assessment published under Ranoidea caerulea.",
+  "wild-bactrian-camel": "The Mammal Diversity Database recognizes Camelus ferus and lists the current global category as Endangered; the GBIF category response matched only the genus and is not used.",
+  "wilsons-bird-of-paradise": "The 2023 eBird/Clements taxonomy update places Wilson's Bird-of-paradise in Diphyllodes respublica; the IUCN-linked category remains Near Threatened.",
+};
+const scientificNameOverrides = {
+  "kakapo": "Strigops habroptilus",
+  "northern-goshawk": "Astur gentilis",
+  "pygmy-slow-loris": "Xanthonycticebus pygmaeus",
+  "whites-tree-frog": "Pelodryas caerulea",
+  "wilsons-bird-of-paradise": "Diphyllodes respublica",
+};
+const nameOverrides = {
+  "northern-goshawk": { en: "Eurasian Goshawk", zh: "苍鹰" },
+  "pygmy-slow-loris": { en: "Southern Pygmy Slow Loris", zh: "南小懒猴" },
+  "wild-bactrian-camel": { en: "Wild Bactrian Camel", zh: "野骆驼" },
+};
+const genusOverrides = {
+  "northern-goshawk": b("Astur", "苍鹰属"),
+  "pygmy-slow-loris": b("Xanthonycticebus", "小懒猴属"),
+  "whites-tree-frog": b("Pelodryas", "澳洲树蛙属"),
+  "wilsons-bird-of-paradise": b("Diphyllodes", "辉极乐鸟属"),
+};
+const taxonomySourceOverrides = {
+  "northern-goshawk": source("Cornell Lab eBird/Clements taxonomy updates", "https://science.ebird.org/en/use-ebird-data/the-ebird-taxonomy/2024-ebird-taxonomy-update"),
+  "pygmy-slow-loris": source("ASM Mammal Diversity Database", "https://www.mammaldiversity.org/taxon/1001069/"),
+  "vicuna": source("GBIF Backbone Taxonomy", "https://www.gbif.org/species/2441099"),
+  "whites-tree-frog": source("Amphibian Species of the World", "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Pelodryadidae/Pelodryas/Pelodryas-caerulea"),
+  "wild-bactrian-camel": source("ASM Mammal Diversity Database", "https://www.mammaldiversity.org/taxon/1006384/"),
+  "wilsons-bird-of-paradise": source("Cornell Lab eBird/Clements taxonomy update", "https://science.ebird.org/en/use-ebird-data/the-ebird-taxonomy/2023-ebird-taxonomy-update"),
+};
+const habitatTextOverrides = {
+  "goblin-shark": {
+    en: "Deep sea at depths of 270–1300 m",
+    zh: "水深270–1300米的深海海域",
+  },
+  "lady-amhersts-pheasant": {
+    en: "High-altitude evergreen broadleaf forests, coniferous woodlands, and dense bamboo thickets in southwestern China and northern Myanmar, typically at elevations of 2000–4000 m.",
+    zh: "中国西南部及缅甸北部的高海拔常绿阔叶林、针叶林和茂密竹林，通常位于海拔2000–4000米。",
+  },
+  "pelican-eel": {
+    en: "Bathypelagic zone of temperate and tropical oceans worldwide, at depths of 500–3,000 m (1,640–9,840 ft). Open ocean, far from continental shelves.",
+    zh: "全球温带和热带海洋的深海带，深度500–3,000米（1,640–9,840英尺）。远离大陆架的开放海洋。",
+  },
 };
 const statusOverrides = {
   "giant-otter": {
@@ -54,6 +103,12 @@ const statusOverrides = {
     authority: "IUCN Red List — Amazing Species: Giant Otter",
     url: "https://nc.iucnredlist.org/redlist/amazing-species/pteronura-brasiliensis/pdfs/original/pteronura-brasiliensis.pdf",
     reason: "The direct IUCN species document lists Pteronura brasiliensis as Endangered; the GBIF category endpoint returned NE and was not used.",
+  },
+  "wild-bactrian-camel": {
+    code: "EN",
+    authority: "ASM Mammal Diversity Database — Wild Bactrian Camel",
+    url: "https://www.mammaldiversity.org/taxon/1006384/",
+    reason: "The current species account lists Camelus ferus as Endangered; the GBIF category endpoint queried only genus Camelus and returned NE.",
   },
 };
 
@@ -88,6 +143,10 @@ function classModule(classTag) {
 
 function build(animalBaseline) {
   const old = JSON.parse(fs.readFileSync(path.join(ROOT, "data", "animals", `${animalBaseline.id}.json`), "utf8"));
+  const scientificName = scientificNameOverrides[old.id] || old.scientific_name;
+  const displayName = nameOverrides[old.id] || { en: old.name_en, zh: old.name_zh };
+  const taxonomy = genusOverrides[old.id] ? { ...old.taxonomy, genus: genusOverrides[old.id] } : old.taxonomy;
+  const habitatText = habitatTextOverrides[old.id] || { en: old.habitat.text_en, zh: old.habitat.text_zh };
   const evidence = evidenceById.get(old.id);
   if (!evidence) throw new Error(`${old.id}: missing evidence`);
   if (evidence.identity_gate !== "pass" && !manualIdentityResolutions[old.id]) {
@@ -100,17 +159,28 @@ function build(animalBaseline) {
   const habitatTag = old.ui_tags[1];
   const dietTag = old.ui_tags[2];
   const [classEn, classZh] = classNames[classTag];
-  const hasPolygon = old.habitat.global_distribution_polygons.length > 0;
-  const generalUrl = evidence.inaturalist?.taxon_page || evidence.gbif.species_page;
+  const geometryChanged = old.id === "northern-goshawk";
+  const geometryReplacedNow = geometryChanged && old.habitat.global_distribution_polygons.length === animalBaseline.habitat.global_distribution_polygons.length;
+  const mapPolygons = geometryReplacedNow
+    ? old.habitat.global_distribution_polygons.slice(1)
+    : old.habitat.global_distribution_polygons;
+  const hasPolygon = mapPolygons.length > 0;
+  const generalUrl = evidence.inaturalist
+    ? `https://api.inaturalist.org/v1/taxa/${evidence.inaturalist.taxon_id}`
+    : `https://api.gbif.org/v1/species/${evidence.gbif.usage_key}`;
   const result = {
     ...old,
+    name_en: displayName.en,
+    name_zh: displayName.zh,
+    scientific_name: scientificName,
+    taxonomy,
     content_version: 2,
     content_review: reviewed ? {
       factual_qc: "source-checked",
       bilingual_qc: "line-by-line-reviewed",
       reviewed_at: CHECKED,
       reviewer: "Codex source and bilingual audit",
-      notes: `Legacy QC batch 04. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte. ${manualIdentityResolutions[old.id] || statusOverride?.reason || ""}`.trim(),
+      notes: `${BATCH}. Exact-taxon identity and global category checked; bilingual templates compared line by line; ${geometryChanged ? "the clearly obsolete North American polygon was removed after the Eurasian/American Goshawk split, while the Eurasian and Japanese geometry was retained byte-for-byte" : "previous map geometry retained byte-for-byte"}. ${manualIdentityResolutions[old.id] || statusOverride?.reason || ""}`.trim(),
     } : { factual_qc: "pending", bilingual_qc: "pending" },
     conservation_status: {
       code,
@@ -124,13 +194,13 @@ function build(animalBaseline) {
         : `本次复核确认的物种级全球等级为${statusZh}；地区等级和法律地位可能不同。`,
     },
     description: b(
-      `${old.name_en} (${old.scientific_name}) is a ${dietTag.toLowerCase()} ${classEn} associated with ${habitatTag.toLowerCase()} habitat. It belongs to ${old.taxonomy.family.en}; this reviewed summary separates accepted identity and global conservation category from regional claims.`,
-      `${old.name_zh}（${old.scientific_name}）是与${habitatZh[habitatTag]}生境相关的${dietZh[dietTag]}${classZh}，属于${old.taxonomy.family.zh}。本次复核把接受的物种身份和全球保护等级与地区性说法区分开。`,
+      `${displayName.en} (${scientificName}) is a ${dietTag.toLowerCase()} ${classEn} associated with ${habitatTag.toLowerCase()} habitat. It belongs to ${taxonomy.family.en}; this reviewed summary separates accepted identity and global conservation category from regional claims.`,
+      `${displayName.zh}（${scientificName}）是与${habitatZh[habitatTag]}生境相关的${dietZh[dietTag]}${classZh}，属于${taxonomy.family.zh}。本次复核把接受的物种身份和全球保护等级与地区性说法区分开。`,
     ),
     encyclopedia: {
       anatomy: section(
-        `${old.name_en} is placed in genus ${old.taxonomy.genus.en}, family ${old.taxonomy.family.en}. Appearance can vary with age, sex, season and locality, so species-level identification should combine several visible characters, location and the accepted scientific name.`,
-        `${old.name_zh}归入${old.taxonomy.genus.zh}、${old.taxonomy.family.zh}。外形会随年龄、性别、季节和地点变化，因此物种级鉴定应结合多个可见特征、地点和接受学名。`,
+        `${displayName.en} is placed in genus ${taxonomy.genus.en}, family ${taxonomy.family.en}. Appearance can vary with age, sex, season and locality, so species-level identification should combine several visible characters, location and the accepted scientific name.`,
+        `${displayName.zh}归入${taxonomy.genus.zh}、${taxonomy.family.zh}。外形会随年龄、性别、季节和地点变化，因此物种级鉴定应结合多个可见特征、地点和接受学名。`,
         ["taxonomy", "general"],
       ),
       ecology_and_behavior: section(
@@ -139,24 +209,24 @@ function build(animalBaseline) {
         ["general", "ecology"],
       ),
       habitat_and_distribution: section(
-        `${old.habitat.text_en} The existing map is retained for orientation and is explicitly treated as approximate rather than a verified legal or survey boundary.`,
-        `${old.habitat.text_zh} 现有地图仅为定位参考，并明确作为近似示意，而不是经过核实的法律或调查边界。`,
+        `${habitatText.en} ${geometryChanged ? "The obsolete North American polygon was removed after the species split; the retained Eurasian geometry" : "The existing map"} is for orientation and is explicitly treated as approximate rather than a verified legal or survey boundary.`,
+        `${habitatText.zh} ${geometryChanged ? "物种拆分后已移除过时的北美多边形；保留的欧亚范围" : "现有地图"}仅为定位参考，并明确作为近似示意，而不是经过核实的法律或调查边界。`,
         ["range"],
       ),
     },
     rich_content: {
       quick_facts: [
-        fact("scientific_name", "Scientific name", "学名", old.scientific_name, old.scientific_name, ["taxonomy"]),
-        fact("class", "Class", "纲", old.taxonomy.class.en, old.taxonomy.class.zh, ["taxonomy"]),
-        fact("order", "Order", "目", old.taxonomy.order.en, old.taxonomy.order.zh, ["taxonomy"]),
-        fact("family", "Family", "科", old.taxonomy.family.en, old.taxonomy.family.zh, ["taxonomy"]),
+        fact("scientific_name", "Scientific name", "学名", scientificName, scientificName, ["taxonomy"]),
+        fact("class", "Class", "纲", taxonomy.class.en, taxonomy.class.zh, ["taxonomy"]),
+        fact("order", "Order", "目", taxonomy.order.en, taxonomy.order.zh, ["taxonomy"]),
+        fact("family", "Family", "科", taxonomy.family.en, taxonomy.family.zh, ["taxonomy"]),
         fact("habitat", "Habitat", "生境", habitatTag, habitatZh[habitatTag], ["range"]),
         fact("diet", "Diet", "食性", dietTag, dietZh[dietTag], ["ecology"]),
         fact("status", "IUCN status", "IUCN等级", statusEn, statusZh, ["conservation"]),
       ],
       life_cycle_and_reproduction: section(classLife(classTag).en, classLife(classTag).zh),
       adaptations: [
-        { title: b("Body plan", "身体结构"), detail: b(`Its body plan is evaluated within ${old.taxonomy.family.en}; age, sex and seasonal variation must be separated from species-level traits.`, `其身体结构按${old.taxonomy.family.zh}背景评估；年龄、性别和季节变化必须与物种级特征区分。`), source_keys: ["taxonomy", "general"] },
+        { title: b("Body plan", "身体结构"), detail: b(`Its body plan is evaluated within ${taxonomy.family.en}; age, sex and seasonal variation must be separated from species-level traits.`, `其身体结构按${taxonomy.family.zh}背景评估；年龄、性别和季节变化必须与物种级特征区分。`), source_keys: ["taxonomy", "general"] },
         { title: b("Feeding strategy", "取食策略"), detail: b(`The ${dietTag.toLowerCase()} category is a broad guide; exact foods and methods can vary by life stage, season and locality.`, `${dietZh[dietTag]}类别只是宽泛指引；具体食物和方式会随生活阶段、季节及地点变化。`), source_keys: ["ecology"] },
         { title: b("Habitat fit", "生境适配"), detail: b(`Use of ${habitatTag.toLowerCase()} habitat is interpreted from exact-taxon occurrence and range evidence, not from map shape alone.`, `对${habitatZh[habitatTag]}生境的利用依据精确分类单元的出现与分布证据解释，不能只看地图形状。`), source_keys: ["range"] },
       ],
@@ -175,43 +245,52 @@ function build(animalBaseline) {
         source_keys: ["conservation", "range"],
       },
       identification: {
-        key_features: b(`Confirm ${old.name_en} with multiple visible characters, location and an exact taxon-linked record; color or body shape alone may be insufficient.`, `确认${old.name_zh}时，应结合多个可见特征、地点和精确分类单元记录；仅凭颜色或体形可能不足。`),
+        key_features: b(`Confirm ${displayName.en} with multiple visible characters, location and an exact taxon-linked record; color or body shape alone may be insufficient.`, `确认${displayName.zh}时，应结合多个可见特征、地点和精确分类单元记录；仅凭颜色或体形可能不足。`),
         similar_species: b("Close relatives and regional look-alikes can share major features. A filename, common name or single trait is not enough for image approval.", "近缘种和地区性相似种可能共享主要特征。文件名、俗名或单一特征不足以批准图片。"),
         source_keys: ["taxonomy", "general"],
       },
       communication_and_senses: section("Communication and sensory channels are shaped by this species' habitat and class. A specific call, scent signal or sensory claim should be assigned only when the exact-taxon source supports it.", "交流与感官通道受该物种生境和类群塑造。只有精确分类单元来源支持时，才能指定具体叫声、气味信号或感官能力。"),
       seasonal_calendar: section("Breeding, movement, molt, dormancy or food use can shift with latitude, rainfall, temperature and resource pulses. A date from one population is not treated as universal.", "繁殖、移动、换羽、休眠或食物利用会随纬度、降雨、温度和资源脉冲变化。某一种群的日期不会被写成普遍规律。", ["ecology", "range"]),
       relationship_with_humans: section("Use, conflict, tourism and cultural relationships vary across the range. Safe observation avoids handling, feeding, playback and disturbance of nests, dens or natural behavior.", "利用、冲突、旅游和文化关系因分布区而异。安全观察应避免触摸、投喂、播放声音，以及干扰巢穴、洞穴或自然行为。", ["general", "conservation"]),
-      evolution: section(`${old.scientific_name} is placed in genus ${old.taxonomy.genus.en}, family ${old.taxonomy.family.en}, order ${old.taxonomy.order.en}. This review follows the accepted species match cited in the taxonomy evidence.`, `${old.scientific_name}归入${old.taxonomy.genus.zh}、${old.taxonomy.family.zh}、${old.taxonomy.order.zh}。本次复核遵循分类证据中的接受种匹配。`, ["taxonomy"]),
+      evolution: section(`${scientificName} is placed in genus ${taxonomy.genus.en}, family ${taxonomy.family.en}, order ${taxonomy.order.en}. This review follows the accepted species match cited in the taxonomy evidence.`, `${scientificName}归入${taxonomy.genus.zh}、${taxonomy.family.zh}、${taxonomy.order.zh}。本次复核遵循分类证据中的接受种匹配。`, ["taxonomy"]),
       field_signs: section("Tracks, calls, nests, feeding marks, molts or other indirect signs can narrow an identification but usually cannot confirm a species alone. Sensitive or dangerous animals require distance.", "足迹、叫声、巢、取食痕迹、蜕皮或其他间接线索可缩小鉴定范围，但通常不能单独确认物种。遇到敏感或危险动物应保持距离。"),
       did_you_know: [
-        { text: b(`The accepted scientific name used in this review is ${old.scientific_name}.`, `本次复核采用的接受学名是${old.scientific_name}。`), source_keys: ["taxonomy"] },
+        { text: b(`The accepted scientific name used in this review is ${scientificName}.`, `本次复核采用的接受学名是${scientificName}。`), source_keys: ["taxonomy"] },
         { text: b(code === "NE" ? "Not Evaluated means a confirmed global species assessment was unavailable, not that extinction risk is zero." : `${statusEn} is the checked global IUCN category, not a regional legal status.`, code === "NE" ? "未评估表示缺少经确认的全球物种评估，不代表灭绝风险为零。" : `${statusZh}是本次核对的全球IUCN等级，并非地区性法律地位。`), source_keys: ["conservation"] },
-        { text: b(hasPolygon ? "The map retains the previous approximate polygon and does not claim a newly verified boundary." : "The map retains a representative point and does not present it as the full range.", hasPolygon ? "地图保留原有近似多边形，并不声称这是新核实的边界。" : "地图保留代表点，并不把它当作完整分布范围。"), source_keys: ["range"] },
+        { text: b(geometryChanged ? "The obsolete North American polygon was removed after the Eurasian and American Goshawk split; the retained Eurasian geometry remains approximate." : hasPolygon ? "The map retains the previous approximate polygon and does not claim a newly verified boundary." : "The map retains a representative point and does not present it as the full range.", geometryChanged ? "在苍鹰与美洲苍鹰拆分后，过时的北美多边形已移除；保留的欧亚范围仍为近似示意。" : hasPolygon ? "地图保留原有近似多边形，并不声称这是新核实的边界。" : "地图保留代表点，并不把它当作完整分布范围。"), source_keys: ["range"] },
       ],
       class_specific: [{ title: classModule(classTag), content: classLife(classTag), source_keys: ["general"] }],
     },
     habitat: {
       ...old.habitat,
+      global_distribution_polygons: mapPolygons,
+      text_en: habitatText.en,
+      text_zh: habitatText.zh,
       range_review: {
         display_mode: hasPolygon ? "legacy-polygon-retained" : "representative-point",
-        previous_result: "retained",
+        previous_result: geometryReplacedNow ? "replaced" : "retained",
         source_keys: ["range"],
-        comparison_en: hasPolygon
+        comparison_en: geometryChanged
+          ? "The 2023 eBird/Clements split recognizes American Goshawk separately from the Eurasian species. The clearly obsolete North American polygon was removed; center, zoom, and the Eurasian and Japanese polygons are retained byte-for-byte and remain labelled approximate."
+          : hasPolygon
           ? "The previous center, zoom and every polygon coordinate are retained byte-for-byte. Exact-taxon range evidence supports the broad occurrence context, but no reusable authoritative boundary geometry was established; the polygon remains labelled approximate."
           : "The previous center and zoom are retained byte-for-byte. Exact-taxon range sources were checked, but no reusable authoritative polygon was established; the point is explicitly labelled as a representative location, not the full range.",
-        comparison_zh: hasPolygon
+        comparison_zh: geometryChanged
+          ? "2023年eBird/Clements分类更新将美洲苍鹰从欧亚苍鹰中拆分。已移除明确过时的北美多边形；中心点、缩放级别以及欧亚和日本多边形均逐字节保留，并继续标为近似范围。"
+          : hasPolygon
           ? "原有中心点、缩放级别和每个多边形坐标均逐字节保留。精确分类单元的分布证据支持大致出现背景，但未取得可复用的权威边界几何，因此多边形继续标为近似范围。"
           : "原有中心点和缩放级别逐字节保留。已检查精确分类单元的分布来源，但未取得可复用的权威多边形；页面明确把该点标为代表性地点，而非完整分布范围。",
         checked_at: CHECKED,
       },
     },
     sources: {
-      taxonomy: source("GBIF Backbone Taxonomy", evidence.gbif.query_url),
+      taxonomy: taxonomySourceOverrides[old.id] || source("GBIF Backbone Taxonomy", evidence.gbif.query_url),
       conservation: source(statusOverride?.authority || "GBIF–IUCN Red List category service", statusOverride?.url || evidence.iucn.query_url),
       general: source(evidence.inaturalist ? "iNaturalist exact taxon index" : "GBIF species record", generalUrl),
       ecology: source(evidence.inaturalist ? "iNaturalist exact taxon index" : "GBIF species record", generalUrl),
-      range: source("GBIF species occurrence and distribution record", evidence.gbif.species_page),
+      range: old.id === "northern-goshawk"
+        ? source("Cornell Lab eBird/Clements 2023 species split", "https://science.ebird.org/en/use-ebird-data/the-ebird-taxonomy/2023-ebird-taxonomy-update")
+        : source("GBIF species occurrence and distribution record", `https://api.gbif.org/v1/species/${evidence.gbif.usage_key}`),
     },
   };
 
@@ -232,4 +311,4 @@ function build(animalBaseline) {
 
 const draft = baseline.animals.map(build);
 fs.writeFileSync(path.join(ROOT, "_draft_animals.json"), `${JSON.stringify(draft, null, 2)}\n`, "utf8");
-console.log(`Built ${draft.length} ${reviewed ? "reviewed" : "pending-review"} batch 04 replacements.`);
+console.log(`Built ${draft.length} ${reviewed ? "reviewed" : "pending-review"} ${BATCH} replacements.`);

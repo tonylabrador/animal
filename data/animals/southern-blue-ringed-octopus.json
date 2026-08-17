@@ -35,26 +35,39 @@
     }
   },
   "conservation_status": {
-    "code": "NE",
-    "en": "Not Evaluated",
-    "zh": "未评估"
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The species-level global category checked for this review is Least Concern; regional and legal categories may differ.",
+    "note_zh": "本次复核确认的物种级全球等级为无危；地区等级和法律地位可能不同。"
   },
   "description": {
-    "en": "A temperate-water cousin of the lethal ringed family, possessing distinctly larger blue maculae (spots) and an exclusively southern territory.",
-    "zh": "作为致命蓝环家族的一名极其偏好温带水域的表亲，它拥有明显更大的蓝色斑块（而非完美的圆环），并且统治着一个专属的南方海域。"
+    "en": "Southern Blue-ringed Octopus (Hapalochlaena maculosa) is a carnivore mollusk associated with ocean habitat. It belongs to Octopodidae; this reviewed summary separates accepted identity and global conservation category from regional claims.",
+    "zh": "南方蓝环章鱼（Hapalochlaena maculosa）是与海洋生境相关的肉食性软体动物，属于章鱼科。本次复核把接受的物种身份和全球保护等级与地区性说法区分开。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "The Southern blue-ringed octopus is one of the larger species within its diminutive, deadly genus, reaching up to 20 cm (8 inches) when stretched. Unlike the perfect, disconnected rings of its northern tropical 'Greater' relative, when this animal is threatened, it flashes large, slightly irregular, bright azure maculae (spots) that often merge and clump together over its dark brown, highly textured skin. It is entirely devoid of an ink sac, abandoning distraction tactics entirely in favor of an aggressively visible venom warning system.",
-      "zh": "南方蓝环章鱼是其极其微小且致命的属中体型较大的一种，伸展时长达20厘米（8英寸）。与其北方的热带亲戚「大蓝环章鱼」那些极其完美且相互独立的圆环不同，当这只动物受到致命威胁时，它会闪烁出巨大、略显不规则但极其明亮的蔚蓝色斑块（斑点），这些极其密集的蓝斑经常在它深棕色且极具质感的皮肤上融合聚集在一起。它体内完全不含墨囊，彻底放弃了喷墨干扰战术，而是全盘依赖其极度激进且耀眼的毒液视觉预警系统。"
+      "en": "Southern Blue-ringed Octopus is placed in genus Hapalochlaena, family Octopodidae. Appearance can vary with age, sex, season and locality, so species-level identification should combine several visible characters, location and the accepted scientific name.",
+      "zh": "南方蓝环章鱼归入蓝环章鱼属、章鱼科。外形会随年龄、性别、季节和地点变化，因此物种级鉴定应结合多个可见特征、地点和接受学名。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "Like its relatives, it wields the incredibly deadly tetrodotoxin (TTX), a non-protein venom immune to heat degradation, meaning cooking will not neutralize it. It spends its days hiding strictly inside discarded bivalve shells, empty soda cans, or narrow crevices in rocky reefs. Females exhibit unparalleled maternal dedication; after laying a clutch of roughly 50 eggs, she holds the gelatinous mass constantly beneath her arms for up to six months. She fiercely refuses to eat during this entire incubation period and inevitably starves to death exactly as her offspring hatch.",
-      "zh": "与它的近亲完全一样，它同样挥舞着一种极其致命的神经毒素——河豚毒素(TTX)。这是一种非蛋白类毒素，对热降解免疫，这意味着即使极其高温烹饪也无法中和它的毒性。白天它永远极其严密地躲藏在废弃的极其坚硬双壳贝类内、海底的废弃汽水罐或极其狭窄的岩礁裂缝中。雌海怪表现出大自然中无与伦比的极其悲壮的母爱奉献精神；在产下一窝大约50枚卵后，她会将这一团极其脆弱的胶状卵紧紧抱在极其柔弱的触手下方长达极度漫长的六个月。在整个漫长极其耗损的孵化期内，她将极度固执地拒绝极其所有食物，并且必定会在极其饥饿的极度衰竭中，精准地随着极其最后一颗后代孵化破壳而悲壮饿死。"
+      "en": "This project classifies the species as carnivore in ocean habitat. Feeding, activity and social behavior can vary among populations and seasons; details should be tied to an exact-taxon account rather than generalized from one observation.",
+      "zh": "本项目把该物种归为海洋生境中的肉食性动物。取食、活动和社会行为会随种群与季节变化；细节应对应精确分类单元资料，不能从一次观察泛化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "This particular species is uniquely cold-tolerant and entirely geographically isolated from the rest of the blue-ringed family. It is strictly endemic only to the much cooler, temperate coastal waters fringing the entire southern edge of the Australian continent. The specific distribution polygon traces the rocky southern coastline from temperate Western Australia, carving directly across the Great Australian Bight, tightly wrapping around South Australia and Victoria, and extending cleanly down surrounding the island of Tasmania in shallow rocky tide pools.",
-      "zh": "这种极其特殊的蓝色海怪出人意料地因为具有极强的耐寒性而在地理极其分布上完全与极其家族中的极其其他热带亲属彻底物理隔离。它是一种极其严格的地方特有致命物种，只栖息在环绕整个极其开阔的澳大利亚大陆极南边缘、极其寒冷得多的温带沿海近水区域中。其非常极其具体的地理多边形精准并且严格地沿着凉爽极其温带西澳大利亚极其陡峭岩石极其曲折的南部海岸线无情下切，径直彻底横穿巨大的极其风暴大澳大利亚湾，极其紧密地极其完全包裹住南澳大利亚和维多利亚州的海边边境，并异常干净利落地极其最后极其极其无情地下向下极其极度扩张紧紧包围住极其最南端的塔斯马尼亚岛的所有极浅的致命岩石潮池。"
+      "en": "Temperate Australian Southern Coast The existing map is for orientation and is explicitly treated as approximate rather than a verified legal or survey boundary.",
+      "zh": "温带澳大利亚南部沿海 现有地图仅为定位参考，并明确作为近似示意，而不是经过核实的法律或调查边界。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -124,13 +137,320 @@
           112
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and every polygon coordinate are retained byte-for-byte. Exact-taxon range evidence supports the broad occurrence context, but no reusable authoritative boundary geometry was established; the polygon remains labelled approximate.",
+      "comparison_zh": "原有中心点、缩放级别和每个多边形坐标均逐字节保留。精确分类单元的分布证据支持大致出现背景，但未取得可复用的权威边界几何，因此多边形继续标为近似范围。",
+      "checked_at": "2026-08-17"
+    }
   },
   "image": "/images/animals/southern-blue-ringed-octopus.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
-      "checked_at": "2026-08-16"
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Hapalochlaena%20maculosa",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "GBIF–IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/2289331/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://api.inaturalist.org/v1/taxa/372111",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://api.inaturalist.org/v1/taxa/372111",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "GBIF species occurrence and distribution record",
+      "url": "https://api.gbif.org/v1/species/2289331",
+      "checked_at": "2026-08-17"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Hapalochlaena maculosa",
+          "zh": "Hapalochlaena maculosa"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Cephalopoda",
+          "zh": "头足纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "order",
+        "label": {
+          "en": "Order",
+          "zh": "目"
+        },
+        "value": {
+          "en": "Octopoda",
+          "zh": "八腕目"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "family",
+        "label": {
+          "en": "Family",
+          "zh": "科"
+        },
+        "value": {
+          "en": "Octopodidae",
+          "zh": "章鱼科"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat",
+          "zh": "生境"
+        },
+        "value": {
+          "en": "Ocean",
+          "zh": "海洋"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Carnivore",
+          "zh": "肉食性"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Least Concern",
+          "zh": "无危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Eggs and juvenile or larval stages precede the adult body form. Development, dispersal and survival depend on species-specific water or land conditions.",
+      "zh": "卵以及幼体阶段先于成体体制出现。发育、扩散和存活依赖物种特有的水域或陆地条件。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Body plan",
+          "zh": "身体结构"
+        },
+        "detail": {
+          "en": "Its body plan is evaluated within Octopodidae; age, sex and seasonal variation must be separated from species-level traits.",
+          "zh": "其身体结构按章鱼科背景评估；年龄、性别和季节变化必须与物种级特征区分。"
+        },
+        "source_keys": [
+          "taxonomy",
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Feeding strategy",
+          "zh": "取食策略"
+        },
+        "detail": {
+          "en": "The carnivore category is a broad guide; exact foods and methods can vary by life stage, season and locality.",
+          "zh": "肉食性类别只是宽泛指引；具体食物和方式会随生活阶段、季节及地点变化。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Habitat fit",
+          "zh": "生境适配"
+        },
+        "detail": {
+          "en": "Use of ocean habitat is interpreted from exact-taxon occurrence and range evidence, not from map shape alone.",
+          "zh": "对海洋生境的利用依据精确分类单元的出现与分布证据解释，不能只看地图形状。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a carnivore species in ocean habitat, it transfers energy through local food webs. Its exact ecological effect depends on abundance, food resources and interactions documented for each population.",
+      "zh": "作为海洋生境中的肉食性物种，它在当地食物网中传递能量。具体生态影响取决于各地种群数量、食物资源和有记录的相互作用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The Least Concern global category does not remove local risks from habitat change, direct mortality, disturbance, pollution or climate effects.",
+        "zh": "无危这一全球等级并不排除生境变化、直接死亡、干扰、污染或气候影响等地方风险。"
+      },
+      "actions": {
+        "en": "Protect the habitats and ecological processes identified by range authorities, reduce documented direct mortality and update management when monitoring or taxonomy changes.",
+        "zh": "应保护分布权威确认的生境和生态过程，减少有记录的直接死亡，并在监测或分类变化时更新管理。"
+      },
+      "source_keys": [
+        "conservation",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Confirm Southern Blue-ringed Octopus with multiple visible characters, location and an exact taxon-linked record; color or body shape alone may be insufficient.",
+        "zh": "确认南方蓝环章鱼时，应结合多个可见特征、地点和精确分类单元记录；仅凭颜色或体形可能不足。"
+      },
+      "similar_species": {
+        "en": "Close relatives and regional look-alikes can share major features. A filename, common name or single trait is not enough for image approval.",
+        "zh": "近缘种和地区性相似种可能共享主要特征。文件名、俗名或单一特征不足以批准图片。"
+      },
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Communication and sensory channels are shaped by this species' habitat and class. A specific call, scent signal or sensory claim should be assigned only when the exact-taxon source supports it.",
+      "zh": "交流与感官通道受该物种生境和类群塑造。只有精确分类单元来源支持时，才能指定具体叫声、气味信号或感官能力。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding, movement, molt, dormancy or food use can shift with latitude, rainfall, temperature and resource pulses. A date from one population is not treated as universal.",
+      "zh": "繁殖、移动、换羽、休眠或食物利用会随纬度、降雨、温度和资源脉冲变化。某一种群的日期不会被写成普遍规律。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Use, conflict, tourism and cultural relationships vary across the range. Safe observation avoids handling, feeding, playback and disturbance of nests, dens or natural behavior.",
+      "zh": "利用、冲突、旅游和文化关系因分布区而异。安全观察应避免触摸、投喂、播放声音，以及干扰巢穴、洞穴或自然行为。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Hapalochlaena maculosa is placed in genus Hapalochlaena, family Octopodidae, order Octopoda. This review follows the accepted species match cited in the taxonomy evidence.",
+      "zh": "Hapalochlaena maculosa归入蓝环章鱼属、章鱼科、八腕目。本次复核遵循分类证据中的接受种匹配。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks, calls, nests, feeding marks, molts or other indirect signs can narrow an identification but usually cannot confirm a species alone. Sensitive or dangerous animals require distance.",
+      "zh": "足迹、叫声、巢、取食痕迹、蜕皮或其他间接线索可缩小鉴定范围，但通常不能单独确认物种。遇到敏感或危险动物应保持距离。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The accepted scientific name used in this review is Hapalochlaena maculosa.",
+          "zh": "本次复核采用的接受学名是Hapalochlaena maculosa。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Least Concern is the checked global IUCN category, not a regional legal status.",
+          "zh": "无危是本次核对的全球IUCN等级，并非地区性法律地位。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "The map retains the previous approximate polygon and does not claim a newly verified boundary.",
+          "zh": "地图保留原有近似多边形，并不声称这是新核实的边界。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Mollusk life cycle",
+          "zh": "软体动物生活史"
+        },
+        "content": {
+          "en": "Eggs and juvenile or larval stages precede the adult body form. Development, dispersal and survival depend on species-specific water or land conditions.",
+          "zh": "卵以及幼体阶段先于成体体制出现。发育、扩散和存活依赖物种特有的水域或陆地条件。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

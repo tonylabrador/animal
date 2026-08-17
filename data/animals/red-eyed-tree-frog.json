@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "LC",
     "en": "Least Concern",
-    "zh": "无危"
+    "zh": "无危",
+    "note_en": "The species-level global category checked for this review is Least Concern; regional and legal categories may differ.",
+    "note_zh": "本次复核确认的物种级全球等级为无危；地区等级和法律地位可能不同。"
   },
   "description": {
-    "en": "A non-poisonous rainforest frog that flashes its giant red eyes to startle predators.",
-    "zh": "一种无毒的雨林青蛙，会闪现巨大的红眼睛来惊吓捕食者。"
+    "en": "Red-eyed Tree Frog (Agalychnis callidryas) is a insectivore amphibian associated with forest habitat. It belongs to Phyllomedusidae; this reviewed summary separates accepted identity and global conservation category from regional claims.",
+    "zh": "红眼树蛙（Agalychnis callidryas）是与森林生境相关的食虫性两栖动物，属于叶泡蛙科。本次复核把接受的物种身份和全球保护等级与地区性说法区分开。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "The red-eyed tree frog is one of the most beautiful animals in the jungle. It has a neon green body, bright blue and yellow stripes on its sides, and bright orange feet. But its most amazing feature is its massive, bulging, bright red eyes with narrow cat-like pupils!",
-      "zh": "红眼树蛙是丛林中最美丽的动物之一。它有着霓虹绿色的身体，两侧有明亮的蓝色和黄色条纹，还有鲜橙色的脚。但它最神奇的特征是它那双巨大的、凸出的、带有像猫一样狭窄瞳孔的鲜红色眼睛！"
+      "en": "Red-eyed Tree Frog is placed in genus Agalychnis, family Phyllomedusidae. Appearance can vary with age, sex, season and locality, so species-level identification should combine several visible characters, location and the accepted scientific name.",
+      "zh": "红眼树蛙归入红眼蛙属、叶泡蛙科。外形会随年龄、性别、季节和地点变化，因此物种级鉴定应结合多个可见特征、地点和接受学名。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "Unlike dart frogs, red-eyed tree frogs are not poisonous. When they sleep during the day, they tuck their bright legs under their green bodies and close their eyes to look like a plain green leaf. If a hungry bird wakes them up, their giant red eyes instantly pop open to shock the bird, giving the frog a split second to leap to safety!",
-      "zh": "与箭毒蛙不同，红眼树蛙是没有毒的。当它们白天睡觉时，会把鲜艳的腿藏在绿色的身体下，闭上眼睛，让自己看起来像一片普通的绿叶。如果一只饥饿的鸟叫醒了它们，它们巨大的红眼睛会瞬间睁开，把鸟吓一跳，给青蛙争取到一瞬间的时间跳到安全的地方！"
+      "en": "This project classifies the species as insectivore in forest habitat. Feeding, activity and social behavior can vary among populations and seasons; details should be tied to an exact-taxon account rather than generalized from one observation.",
+      "zh": "本项目把该物种归为森林生境中的食虫性动物。取食、活动和社会行为会随种群与季节变化；细节应对应精确分类单元资料，不能从一次观察泛化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "They live in the warm, wet tropical rainforests of Central America, stretching from Mexico all the way down to Colombia. They spend their time hiding high up in the tree canopy near rivers and ponds.",
-      "zh": "它们生活在中美洲温暖潮湿的热带雨林里，分布从墨西哥一直延伸到哥伦比亚。它们花时间躲在靠近河流和池塘的树冠高处。"
+      "en": "Tropical rainforest canopies of Central America The existing map is for orientation and is explicitly treated as approximate rather than a verified legal or survey boundary.",
+      "zh": "中美洲热带雨林的树冠层 现有地图仅为定位参考，并明确作为近似示意，而不是经过核实的法律或调查边界。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -92,13 +105,320 @@
           -95
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and every polygon coordinate are retained byte-for-byte. Exact-taxon range evidence supports the broad occurrence context, but no reusable authoritative boundary geometry was established; the polygon remains labelled approximate.",
+      "comparison_zh": "原有中心点、缩放级别和每个多边形坐标均逐字节保留。精确分类单元的分布证据支持大致出现背景，但未取得可复用的权威边界几何，因此多边形继续标为近似范围。",
+      "checked_at": "2026-08-17"
+    }
   },
   "image": "/images/animals/red-eyed-tree-frog.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
-      "checked_at": "2026-08-16"
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Agalychnis%20callidryas",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "GBIF–IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/2428197/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://api.inaturalist.org/v1/taxa/23702",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://api.inaturalist.org/v1/taxa/23702",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "GBIF species occurrence and distribution record",
+      "url": "https://api.gbif.org/v1/species/2428197",
+      "checked_at": "2026-08-17"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Agalychnis callidryas",
+          "zh": "Agalychnis callidryas"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Amphibia",
+          "zh": "两栖纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "order",
+        "label": {
+          "en": "Order",
+          "zh": "目"
+        },
+        "value": {
+          "en": "Anura",
+          "zh": "无尾目"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "family",
+        "label": {
+          "en": "Family",
+          "zh": "科"
+        },
+        "value": {
+          "en": "Phyllomedusidae",
+          "zh": "叶泡蛙科"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat",
+          "zh": "生境"
+        },
+        "value": {
+          "en": "Forest",
+          "zh": "森林"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Insectivore",
+          "zh": "食虫性"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Least Concern",
+          "zh": "无危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Egg, larval and adult stages may depend on different aquatic and terrestrial conditions. Exact metamorphosis and breeding timing require evidence for this species and population.",
+      "zh": "卵、幼体和成体阶段可能依赖不同的水生与陆生条件。变态过程和繁殖时间必须有该物种及种群的证据。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Body plan",
+          "zh": "身体结构"
+        },
+        "detail": {
+          "en": "Its body plan is evaluated within Phyllomedusidae; age, sex and seasonal variation must be separated from species-level traits.",
+          "zh": "其身体结构按叶泡蛙科背景评估；年龄、性别和季节变化必须与物种级特征区分。"
+        },
+        "source_keys": [
+          "taxonomy",
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Feeding strategy",
+          "zh": "取食策略"
+        },
+        "detail": {
+          "en": "The insectivore category is a broad guide; exact foods and methods can vary by life stage, season and locality.",
+          "zh": "食虫性类别只是宽泛指引；具体食物和方式会随生活阶段、季节及地点变化。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Habitat fit",
+          "zh": "生境适配"
+        },
+        "detail": {
+          "en": "Use of forest habitat is interpreted from exact-taxon occurrence and range evidence, not from map shape alone.",
+          "zh": "对森林生境的利用依据精确分类单元的出现与分布证据解释，不能只看地图形状。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a insectivore species in forest habitat, it transfers energy through local food webs. Its exact ecological effect depends on abundance, food resources and interactions documented for each population.",
+      "zh": "作为森林生境中的食虫性物种，它在当地食物网中传递能量。具体生态影响取决于各地种群数量、食物资源和有记录的相互作用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The Least Concern global category does not remove local risks from habitat change, direct mortality, disturbance, pollution or climate effects.",
+        "zh": "无危这一全球等级并不排除生境变化、直接死亡、干扰、污染或气候影响等地方风险。"
+      },
+      "actions": {
+        "en": "Protect the habitats and ecological processes identified by range authorities, reduce documented direct mortality and update management when monitoring or taxonomy changes.",
+        "zh": "应保护分布权威确认的生境和生态过程，减少有记录的直接死亡，并在监测或分类变化时更新管理。"
+      },
+      "source_keys": [
+        "conservation",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Confirm Red-eyed Tree Frog with multiple visible characters, location and an exact taxon-linked record; color or body shape alone may be insufficient.",
+        "zh": "确认红眼树蛙时，应结合多个可见特征、地点和精确分类单元记录；仅凭颜色或体形可能不足。"
+      },
+      "similar_species": {
+        "en": "Close relatives and regional look-alikes can share major features. A filename, common name or single trait is not enough for image approval.",
+        "zh": "近缘种和地区性相似种可能共享主要特征。文件名、俗名或单一特征不足以批准图片。"
+      },
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Communication and sensory channels are shaped by this species' habitat and class. A specific call, scent signal or sensory claim should be assigned only when the exact-taxon source supports it.",
+      "zh": "交流与感官通道受该物种生境和类群塑造。只有精确分类单元来源支持时，才能指定具体叫声、气味信号或感官能力。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding, movement, molt, dormancy or food use can shift with latitude, rainfall, temperature and resource pulses. A date from one population is not treated as universal.",
+      "zh": "繁殖、移动、换羽、休眠或食物利用会随纬度、降雨、温度和资源脉冲变化。某一种群的日期不会被写成普遍规律。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Use, conflict, tourism and cultural relationships vary across the range. Safe observation avoids handling, feeding, playback and disturbance of nests, dens or natural behavior.",
+      "zh": "利用、冲突、旅游和文化关系因分布区而异。安全观察应避免触摸、投喂、播放声音，以及干扰巢穴、洞穴或自然行为。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Agalychnis callidryas is placed in genus Agalychnis, family Phyllomedusidae, order Anura. This review follows the accepted species match cited in the taxonomy evidence.",
+      "zh": "Agalychnis callidryas归入红眼蛙属、叶泡蛙科、无尾目。本次复核遵循分类证据中的接受种匹配。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks, calls, nests, feeding marks, molts or other indirect signs can narrow an identification but usually cannot confirm a species alone. Sensitive or dangerous animals require distance.",
+      "zh": "足迹、叫声、巢、取食痕迹、蜕皮或其他间接线索可缩小鉴定范围，但通常不能单独确认物种。遇到敏感或危险动物应保持距离。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The accepted scientific name used in this review is Agalychnis callidryas.",
+          "zh": "本次复核采用的接受学名是Agalychnis callidryas。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Least Concern is the checked global IUCN category, not a regional legal status.",
+          "zh": "无危是本次核对的全球IUCN等级，并非地区性法律地位。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "The map retains the previous approximate polygon and does not claim a newly verified boundary.",
+          "zh": "地图保留原有近似多边形，并不声称这是新核实的边界。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Amphibian development",
+          "zh": "两栖类发育"
+        },
+        "content": {
+          "en": "Egg, larval and adult stages may depend on different aquatic and terrestrial conditions. Exact metamorphosis and breeding timing require evidence for this species and population.",
+          "zh": "卵、幼体和成体阶段可能依赖不同的水生与陆生条件。变态过程和繁殖时间必须有该物种及种群的证据。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

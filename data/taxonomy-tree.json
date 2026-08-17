@@ -1601,7 +1601,7 @@
                         },
                         {
                           "name": "Wild Bactrian Camel",
-                          "nameZh": "野双峰骆驼",
+                          "nameZh": "野骆驼",
                           "level": "Species",
                           "levelZh": "种",
                           "count": 1,
@@ -2426,22 +2426,22 @@
                   "count": 1,
                   "children": [
                     {
-                      "name": "Nycticebus",
-                      "nameZh": "懒猴属",
+                      "name": "Xanthonycticebus",
+                      "nameZh": "小懒猴属",
                       "level": "Genus",
                       "levelZh": "属",
                       "count": 1,
                       "children": [
                         {
-                          "name": "Pygmy Slow Loris",
-                          "nameZh": "小懒猴",
+                          "name": "Southern Pygmy Slow Loris",
+                          "nameZh": "南小懒猴",
                           "level": "Species",
                           "levelZh": "种",
                           "count": 1,
                           "children": [],
                           "animalId": "pygmy-slow-loris",
                           "image": "/images/animals/pygmy-slow-loris.jpg",
-                          "scientificName": "Nycticebus pygmaeus"
+                          "scientificName": "Xanthonycticebus pygmaeus"
                         }
                       ]
                     }
@@ -4332,7 +4332,7 @@
                       "nameZh": "王极乐鸟属",
                       "level": "Genus",
                       "levelZh": "属",
-                      "count": 2,
+                      "count": 1,
                       "children": [
                         {
                           "name": "King bird-of-paradise",
@@ -4344,7 +4344,16 @@
                           "animalId": "king-bird-of-paradise",
                           "image": "/images/animals/king-bird-of-paradise.jpg",
                           "scientificName": "Cicinnurus regius"
-                        },
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Diphyllodes",
+                      "nameZh": "辉极乐鸟属",
+                      "level": "Genus",
+                      "levelZh": "属",
+                      "count": 1,
+                      "children": [
                         {
                           "name": "Wilson's Bird-of-paradise",
                           "nameZh": "威氏极乐鸟",
@@ -4354,7 +4363,7 @@
                           "children": [],
                           "animalId": "wilsons-bird-of-paradise",
                           "image": "/images/animals/wilsons-bird-of-paradise.jpg",
-                          "scientificName": "Cicinnurus respublica"
+                          "scientificName": "Diphyllodes respublica"
                         }
                       ]
                     },
@@ -5495,14 +5504,14 @@
                       ]
                     },
                     {
-                      "name": "Accipiter",
-                      "nameZh": "鹰属",
+                      "name": "Astur",
+                      "nameZh": "苍鹰属",
                       "level": "Genus",
                       "levelZh": "属",
                       "count": 1,
                       "children": [
                         {
-                          "name": "Northern Goshawk",
+                          "name": "Eurasian Goshawk",
                           "nameZh": "苍鹰",
                           "level": "Species",
                           "levelZh": "种",
@@ -5510,7 +5519,7 @@
                           "children": [],
                           "animalId": "northern-goshawk",
                           "image": "/images/animals/northern-goshawk.jpg",
-                          "scientificName": "Accipiter gentilis"
+                          "scientificName": "Astur gentilis"
                         }
                       ]
                     },
@@ -6040,7 +6049,7 @@
                           "children": [],
                           "animalId": "kakapo",
                           "image": "/images/animals/kakapo.jpg",
-                          "scientificName": "Strigops habroptila"
+                          "scientificName": "Strigops habroptilus"
                         }
                       ]
                     }
@@ -9568,8 +9577,8 @@
                   "count": 1,
                   "children": [
                     {
-                      "name": "Ranoidea",
-                      "nameZh": "雨滨蛙属",
+                      "name": "Pelodryas",
+                      "nameZh": "澳洲树蛙属",
                       "level": "Genus",
                       "levelZh": "属",
                       "count": 1,
@@ -9583,7 +9592,7 @@
                           "children": [],
                           "animalId": "whites-tree-frog",
                           "image": "/images/animals/whites-tree-frog.jpg",
-                          "scientificName": "Ranoidea caerulea"
+                          "scientificName": "Pelodryas caerulea"
                         }
                       ]
                     }

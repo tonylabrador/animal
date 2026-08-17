@@ -99,7 +99,7 @@ const rows = entries.map((entry) => {
 }).join("\n");
 const markdown = `# Animal QC master to-do list
 
-此台账由 \`npm run report:animal-qc\` 生成，是 426 只现有动物逐条 QC 的唯一进度来源。\`complete\` 必须同时通过 Rich Content v2 事实与中英逐条审核、地图审核，以及人工确认且许可可验证的图片审核。
+此台账由 \`npm run report:animal-qc\` 生成，是 ${summary.total} 只现有动物逐条 QC 的唯一进度来源。\`complete\` 必须同时通过 Rich Content v2 事实与中英逐条审核、地图审核，以及人工确认且许可可验证的图片审核。
 
 ## Summary
 

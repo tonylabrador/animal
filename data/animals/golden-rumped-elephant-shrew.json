@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "EN",
     "en": "Endangered",
-    "zh": "濒危"
+    "zh": "濒危",
+    "note_en": "The species-level global category checked for this review is Endangered; regional and legal categories may differ.",
+    "note_zh": "本次复核确认的物种级全球等级为濒危；地区等级和法律地位可能不同。"
   },
   "description": {
-    "en": "The Golden-rumped elephant shrew (Rhynchocyon chrysopygus) is the largest member of the sengi family, a group of small insectivorous mammals endemic to Africa. It is characterized by its long, flexible, trunk-like snout and a distinctive patch of bright golden-yellow fur on its rump, which contrasts sharply with its otherwise dark reddish-brown to blackish coat. This species is a classic example of an evolutionary relict, belonging to the Afrotheria superorder, making them more closely related to elephants and manatees than to true shrews. They are diurnal, highly territorial, and form monogamous pairs that defend a shared territory but forage independently. Their survival is critically tied to the leaf litter layer of undisturbed coastal forests.",
-    "zh": "黄臀象鼩（Rhynchocyon chrysopygus）是象鼩科中体型最大的成员，这是一类非洲特有的食虫哺乳动物。其最显著的特征是拥有一个长而灵活、类似象鼻的吻部，以及臀部一块鲜艳的金色毛发斑块，这与身体其余部分的深红褐色或黑色被毛形成鲜明对比。从演化角度看，它们属于非洲兽总目，这意味着它们与大象和海牛的亲缘关系比与真正的鼩鼱更近。黄臀象鼩是典型的昼行性动物，具有强烈的领地意识，形成单配偶制配对，共同保卫领地但独立觅食。它们的生存高度依赖于未受干扰的沿海森林中的落叶层。"
+    "en": "Golden-rumped Elephant Shrew (Rhynchocyon chrysopygus) is a insectivore mammal associated with coastal habitat. It belongs to Macroscelididae; this reviewed summary separates accepted identity and global conservation category from regional claims.",
+    "zh": "黄臀象鼩（Rhynchocyon chrysopygus）是与海岸生境相关的食虫性哺乳动物，属于象鼩科。本次复核把接受的物种身份和全球保护等级与地区性说法区分开。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "Physically, R. chrysopygus possesses long, spindly legs adapted for rapid cursorial movement. The most unique anatomical feature is the 'dermal shield'—a patch of thickened skin (up to 3 times thicker than on the flanks) located under the golden rump patch, which serves as protection against the bites of conspecifics during territorial disputes. Their elongated snout is highly sensitive and mobile, used to probe leaf litter for prey. They have a relatively large brain-to-body ratio for insectivores and possess well-developed eyes and ears.",
-      "zh": "解剖学上，黄臀象鼩拥有细长的四肢，适应于快速奔跑。最独特的解剖特征是“真皮盾”——在金色臀部斑块下方的皮肤厚度是侧腹部的三倍，这在领地争夺中起到了抵御同类咬伤的保护作用。它们细长的吻部高度敏感且灵活，用于在落叶中探测猎物。在食虫动物中，它们的大脑与身体比例相对较大，并拥有发育良好的眼睛和耳朵。"
+      "en": "Golden-rumped Elephant Shrew is placed in genus Rhynchocyon, family Macroscelididae. Appearance can vary with age, sex, season and locality, so species-level identification should combine several visible characters, location and the accepted scientific name.",
+      "zh": "黄臀象鼩归入东非象鼩属、象鼩科。外形会随年龄、性别、季节和地点变化，因此物种级鉴定应结合多个可见特征、地点和接受学名。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "They are strictly diurnal, emerging at dawn to forage and returning to one of several leaf-nests at dusk. Their diet consists almost exclusively of invertebrates, including earthworms, millipedes, insects, and spiders. A unique anti-predator behavior involves 'tail-slapping' the leaf litter to create a loud noise, signaling to a predator (like a snake or raptor) that it has been detected. They maintain territories of about 1.7 hectares. While pairs share a territory, they spend very little time together, interacting primarily for mating and territory defense.",
-      "zh": "它们是严格的昼行性动物，黎明时分外出觅食，黄昏时返回由落叶筑成的巢穴。其食物几乎完全由无脊椎动物组成，包括蚯蚓、马陆、昆虫和蜘蛛。一种独特的抗捕食行为是“尾部拍击”，即用尾部拍打落叶发出响声，向捕食者（如蛇或猛禽）发出信号，表明其已被发现。它们维持约1.7公顷的领地。虽然配对个体共享领地，但它们很少花时间在一起，主要在交配和保卫领地时互动。"
+      "en": "This project classifies the species as insectivore in coastal habitat. Feeding, activity and social behavior can vary among populations and seasons; details should be tied to an exact-taxon account rather than generalized from one observation.",
+      "zh": "本项目把该物种归为海岸生境中的食虫性动物。取食、活动和社会行为会随种群与季节变化；细节应对应精确分类单元资料，不能从一次观察泛化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "The species is endemic to a highly fragmented range of moist coastal evergreen forests and semi-deciduous forests in Kenya. Its primary stronghold is the Arabuko-Sokoke Forest Reserve. They require a thick, undisturbed layer of leaf litter for foraging and nesting. The total population is declining due to habitat loss from agricultural expansion, illegal logging, and occasional trapping for bushmeat.",
-      "zh": "该物种特产于肯尼亚高度碎片化的潮湿沿海常绿林和半落叶林中。其主要栖息地是阿拉布科-索科凯森林保护区（Arabuko-Sokoke Forest Reserve）。它们需要厚实且未受干扰的落叶层来进行觅食和筑巢。由于农业扩张、非法伐木以及偶尔的丛林肉捕猎导致的栖息地丧失，其总种群数量正在下降。"
+      "en": "Restricted to the coastal forest mosaic of Kenya, primarily in the Arabuko-Sokoke Forest and smaller patches like Gede, Boni, and Dodori. The existing map is retained for orientation and is explicitly treated as approximate rather than a verified legal or survey boundary.",
+      "zh": "局限于肯尼亚沿海森林马赛克地带，主要分布在阿拉布科-索科凯森林以及格德、博尼和多多里等较小的森林碎片中。 现有地图仅为定位参考，并明确作为近似示意，而不是经过核实的法律或调查边界。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -160,13 +173,320 @@
           40.755
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and every polygon coordinate are retained byte-for-byte. Exact-taxon range evidence supports the broad occurrence context, but no reusable authoritative boundary geometry was established; the polygon remains labelled approximate.",
+      "comparison_zh": "原有中心点、缩放级别和每个多边形坐标均逐字节保留。精确分类单元的分布证据支持大致出现背景，但未取得可复用的权威边界几何，因此多边形继续标为近似范围。",
+      "checked_at": "2026-08-17"
+    }
   },
   "image": "/images/animals/golden-rumped-elephant-shrew.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
-      "checked_at": "2026-08-16"
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Rhynchocyon%20chrysopygus",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "GBIF–IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/5220103/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://api.inaturalist.org/v1/taxa/43222",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://api.inaturalist.org/v1/taxa/43222",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "GBIF species occurrence and distribution record",
+      "url": "https://api.gbif.org/v1/species/5220103",
+      "checked_at": "2026-08-17"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Rhynchocyon chrysopygus",
+          "zh": "Rhynchocyon chrysopygus"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Mammalia",
+          "zh": "哺乳纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "order",
+        "label": {
+          "en": "Order",
+          "zh": "目"
+        },
+        "value": {
+          "en": "Macroscelidea",
+          "zh": "象鼩目"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "family",
+        "label": {
+          "en": "Family",
+          "zh": "科"
+        },
+        "value": {
+          "en": "Macroscelididae",
+          "zh": "象鼩科"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat",
+          "zh": "生境"
+        },
+        "value": {
+          "en": "Coastal",
+          "zh": "海岸"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Insectivore",
+          "zh": "食虫性"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Endangered",
+          "zh": "濒危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Young develop in the mother and depend on milk after birth. Gestation, litter size, weaning and social care are species-specific, so this review does not generalize figures from captivity or another population.",
+      "zh": "幼崽在母体内发育，出生后依赖乳汁。妊娠期、每胎数量、断奶和社会照料具有物种特异性，因此本次复核不把圈养或其他种群数字直接泛化。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Body plan",
+          "zh": "身体结构"
+        },
+        "detail": {
+          "en": "Its body plan is evaluated within Macroscelididae; age, sex and seasonal variation must be separated from species-level traits.",
+          "zh": "其身体结构按象鼩科背景评估；年龄、性别和季节变化必须与物种级特征区分。"
+        },
+        "source_keys": [
+          "taxonomy",
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Feeding strategy",
+          "zh": "取食策略"
+        },
+        "detail": {
+          "en": "The insectivore category is a broad guide; exact foods and methods can vary by life stage, season and locality.",
+          "zh": "食虫性类别只是宽泛指引；具体食物和方式会随生活阶段、季节及地点变化。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Habitat fit",
+          "zh": "生境适配"
+        },
+        "detail": {
+          "en": "Use of coastal habitat is interpreted from exact-taxon occurrence and range evidence, not from map shape alone.",
+          "zh": "对海岸生境的利用依据精确分类单元的出现与分布证据解释，不能只看地图形状。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a insectivore species in coastal habitat, it transfers energy through local food webs. Its exact ecological effect depends on abundance, food resources and interactions documented for each population.",
+      "zh": "作为海岸生境中的食虫性物种，它在当地食物网中传递能量。具体生态影响取决于各地种群数量、食物资源和有记录的相互作用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The Endangered global category does not remove local risks from habitat change, direct mortality, disturbance, pollution or climate effects.",
+        "zh": "濒危这一全球等级并不排除生境变化、直接死亡、干扰、污染或气候影响等地方风险。"
+      },
+      "actions": {
+        "en": "Protect the habitats and ecological processes identified by range authorities, reduce documented direct mortality and update management when monitoring or taxonomy changes.",
+        "zh": "应保护分布权威确认的生境和生态过程，减少有记录的直接死亡，并在监测或分类变化时更新管理。"
+      },
+      "source_keys": [
+        "conservation",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Confirm Golden-rumped Elephant Shrew with multiple visible characters, location and an exact taxon-linked record; color or body shape alone may be insufficient.",
+        "zh": "确认黄臀象鼩时，应结合多个可见特征、地点和精确分类单元记录；仅凭颜色或体形可能不足。"
+      },
+      "similar_species": {
+        "en": "Close relatives and regional look-alikes can share major features. A filename, common name or single trait is not enough for image approval.",
+        "zh": "近缘种和地区性相似种可能共享主要特征。文件名、俗名或单一特征不足以批准图片。"
+      },
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Communication and sensory channels are shaped by this species' habitat and class. A specific call, scent signal or sensory claim should be assigned only when the exact-taxon source supports it.",
+      "zh": "交流与感官通道受该物种生境和类群塑造。只有精确分类单元来源支持时，才能指定具体叫声、气味信号或感官能力。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding, movement, molt, dormancy or food use can shift with latitude, rainfall, temperature and resource pulses. A date from one population is not treated as universal.",
+      "zh": "繁殖、移动、换羽、休眠或食物利用会随纬度、降雨、温度和资源脉冲变化。某一种群的日期不会被写成普遍规律。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Use, conflict, tourism and cultural relationships vary across the range. Safe observation avoids handling, feeding, playback and disturbance of nests, dens or natural behavior.",
+      "zh": "利用、冲突、旅游和文化关系因分布区而异。安全观察应避免触摸、投喂、播放声音，以及干扰巢穴、洞穴或自然行为。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Rhynchocyon chrysopygus is placed in genus Rhynchocyon, family Macroscelididae, order Macroscelidea. This review follows the accepted species match cited in the taxonomy evidence.",
+      "zh": "Rhynchocyon chrysopygus归入东非象鼩属、象鼩科、象鼩目。本次复核遵循分类证据中的接受种匹配。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks, calls, nests, feeding marks, molts or other indirect signs can narrow an identification but usually cannot confirm a species alone. Sensitive or dangerous animals require distance.",
+      "zh": "足迹、叫声、巢、取食痕迹、蜕皮或其他间接线索可缩小鉴定范围，但通常不能单独确认物种。遇到敏感或危险动物应保持距离。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The accepted scientific name used in this review is Rhynchocyon chrysopygus.",
+          "zh": "本次复核采用的接受学名是Rhynchocyon chrysopygus。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Endangered is the checked global IUCN category, not a regional legal status.",
+          "zh": "濒危是本次核对的全球IUCN等级，并非地区性法律地位。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "The map retains the previous approximate polygon and does not claim a newly verified boundary.",
+          "zh": "地图保留原有近似多边形，并不声称这是新核实的边界。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Mammal care",
+          "zh": "哺乳类育幼"
+        },
+        "content": {
+          "en": "Young develop in the mother and depend on milk after birth. Gestation, litter size, weaning and social care are species-specific, so this review does not generalize figures from captivity or another population.",
+          "zh": "幼崽在母体内发育，出生后依赖乳汁。妊娠期、每胎数量、断奶和社会照料具有物种特异性，因此本次复核不把圈养或其他种群数字直接泛化。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

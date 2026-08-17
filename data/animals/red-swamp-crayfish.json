@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "LC",
     "en": "Least Concern",
-    "zh": "无危"
+    "zh": "无危",
+    "note_en": "The species-level global category checked for this review is Least Concern; regional and legal categories may differ.",
+    "note_zh": "本次复核确认的物种级全球等级为无危；地区等级和法律地位可能不同。"
   },
   "description": {
-    "en": "Procambarus clarkii, commonly known as the red swamp crayfish or crawfish, is a freshwater decapod crustacean native to the southeastern United States and northern Mexico. It is one of the most adaptable and invasive freshwater species globally, characterized by its dark red coloration, robust tuberculated chelae, and exceptional tolerance for diverse environmental conditions, including low oxygen levels and temporary desiccation. It plays a significant role in both aquaculture and as a biological indicator, though its burrowing behavior often causes ecological and structural damage in non-native regions.",
-    "zh": "克氏原螯虾，俗称小龙虾或红螯虾，是一种原产于美国东南部和墨西哥北部的淡水十足目甲壳动物。它是全球最具适应性和侵略性的入侵物种之一，以其深红色的体色、粗壮且布满颗粒突起的螯足以及对低氧、干旱等极端环境的极强耐受力而著称。该物种在水产养殖中具有极高的经济价值，但在非原产地，其强大的掘洞习性常对水利设施和当地生态系统造成显著破坏。"
+    "en": "Red swamp crayfish (Procambarus clarkii) is a omnivore crustacean associated with freshwater habitat. It belongs to Cambaridae; this reviewed summary separates accepted identity and global conservation category from regional claims.",
+    "zh": "克氏原螯虾（Procambarus clarkii）是与淡水生境相关的杂食性甲壳动物，属于螯虾科。本次复核把接受的物种身份和全球保护等级与地区性说法区分开。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "The adult red swamp crayfish typically reaches 5.5 to 12 centimeters in length. Its body is divided into a fused cephalothorax and a segmented abdomen, encased in a hard, calcified exoskeleton. The primary identifying feature is the dark red to nearly black color of adults, while juveniles are often grey-green. The first pair of walking legs (pereiopods) are modified into large, powerful chelae (claws) which are covered in bright red tubercles. It possesses a long, pointed rostrum and a linear areola on the carapace. Sexual dimorphism is present, with males possessing specialized gonopods on the first two abdominal segments for internal fertilization.",
-      "zh": "成年克氏原螯虾体长通常在5.5至12厘米之间。身体分为由头胸甲覆盖的头胸部和分节的腹部，全身包裹着坚硬的钙化外骨骼。其主要识别特征是成体呈深红色至近乎黑色，而幼体常呈灰绿色。第一对步足特化为巨大的螯足，表面布满鲜红色的颗粒状突起。头胸甲前端有长而尖的额剑，背部具有狭窄的颈沟。该物种具有明显的雌雄异形，雄性腹部前两对附肢特化为交接器，用于体内受精。"
+      "en": "Red swamp crayfish is placed in genus Procambarus, family Cambaridae. Appearance can vary with age, sex, season and locality, so species-level identification should combine several visible characters, location and the accepted scientific name.",
+      "zh": "克氏原螯虾归入原螯虾属、螯虾科。外形会随年龄、性别、季节和地点变化，因此物种级鉴定应结合多个可见特征、地点和接受学名。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "P. clarkii is an opportunistic omnivore, consuming aquatic plants, detritus, mollusks, insects, and small fish. It is a 'r-strategist' with rapid growth, early sexual maturity, and high fecundity, allowing it to colonize new habitats quickly. One of its most distinctive behaviors is burrowing; it creates complex tunnels up to 1 meter deep to survive dry seasons or cold winters. These burrows provide a microhabitat for other species but can destabilize riverbanks and levees. It is also known for its aggressive territorial behavior and its ability to walk long distances over land during rainy periods to find new water bodies.",
-      "zh": "克氏原螯虾是典型的机会主义杂食动物，摄食水生植物、有机碎屑、软体动物、昆虫及小型鱼类。它属于r-选择策略生物，生长迅速、性成熟早且产卵量大，能迅速占领新栖息地。其最显著的行为是掘洞，在旱季或严冬时会挖掘深达1米的复杂洞穴以维持生存。这些洞穴虽为其他生物提供了微生境，却常导致堤坝和河岸失稳。此外，它具有强烈的领地意识，并能在雨季通过陆地长距离爬行以寻找新水源。"
+      "en": "This project classifies the species as omnivore in freshwater habitat. Feeding, activity and social behavior can vary among populations and seasons; details should be tied to an exact-taxon account rather than generalized from one observation.",
+      "zh": "本项目把该物种归为淡水生境中的杂食性动物。取食、活动和社会行为会随种群与季节变化；细节应对应精确分类单元资料，不能从一次观察泛化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Originally native to the Gulf Coast (Louisiana, Texas) and the Mississippi River drainage, it has been introduced to every continent except Antarctica. It thrives in warm, slow-moving freshwater environments such as swamps, marshes, rice paddies, and sluggish rivers. It is particularly successful in disturbed habitats and can tolerate moderate salinity and significant organic pollution. In many regions, including East Asia and Southern Europe, it has established massive wild populations that outcompete native crayfish species and alter local food webs.",
-      "zh": "原产于美国墨西哥湾沿岸（如路易斯安那州、德克萨斯州）及密西西比河流域，现已扩散至除南极洲外的各大洲。它偏好温暖、流速缓慢的淡水环境，如沼泽、湿地、稻田和缓流河段。该物种在受干扰的生境中表现尤为出色，能耐受中度盐度和严重的有机污染。在包括东亚和南欧在内的许多地区，它已建立起庞大的野生种群，竞争性地取代了当地原生螯虾物种，并改变了当地的食物网结构。"
+      "en": "Freshwater wetlands, swamps, rice paddies, and slow-moving river basins. The existing map is for orientation and is explicitly treated as approximate rather than a verified legal or survey boundary.",
+      "zh": "淡水湿地、沼泽、稻田以及流速缓慢的河流流域。 现有地图仅为定位参考，并明确作为近似示意，而不是经过核实的法律或调查边界。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -200,13 +213,320 @@
           135.5
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and every polygon coordinate are retained byte-for-byte. Exact-taxon range evidence supports the broad occurrence context, but no reusable authoritative boundary geometry was established; the polygon remains labelled approximate.",
+      "comparison_zh": "原有中心点、缩放级别和每个多边形坐标均逐字节保留。精确分类单元的分布证据支持大致出现背景，但未取得可复用的权威边界几何，因此多边形继续标为近似范围。",
+      "checked_at": "2026-08-17"
+    }
   },
   "image": "/images/animals/red-swamp-crayfish.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
-      "checked_at": "2026-08-16"
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Procambarus%20clarkii",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "GBIF–IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/2227300/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://api.inaturalist.org/v1/taxa/51221",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://api.inaturalist.org/v1/taxa/51221",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "GBIF species occurrence and distribution record",
+      "url": "https://api.gbif.org/v1/species/2227300",
+      "checked_at": "2026-08-17"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Procambarus clarkii",
+          "zh": "Procambarus clarkii"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Malacostraca",
+          "zh": "软甲纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "order",
+        "label": {
+          "en": "Order",
+          "zh": "目"
+        },
+        "value": {
+          "en": "Decapoda",
+          "zh": "十足目"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "family",
+        "label": {
+          "en": "Family",
+          "zh": "科"
+        },
+        "value": {
+          "en": "Cambaridae",
+          "zh": "螯虾科"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat",
+          "zh": "生境"
+        },
+        "value": {
+          "en": "Freshwater",
+          "zh": "淡水"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Omnivore",
+          "zh": "杂食性"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Least Concern",
+          "zh": "无危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Growth requires repeated molts, and eggs or larvae can occupy conditions different from adults. Temperature, depth, current and salinity can alter development.",
+      "zh": "生长需要反复蜕壳，卵或幼体所处条件可能不同于成体。温度、水深、水流和盐度会改变发育。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Body plan",
+          "zh": "身体结构"
+        },
+        "detail": {
+          "en": "Its body plan is evaluated within Cambaridae; age, sex and seasonal variation must be separated from species-level traits.",
+          "zh": "其身体结构按螯虾科背景评估；年龄、性别和季节变化必须与物种级特征区分。"
+        },
+        "source_keys": [
+          "taxonomy",
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Feeding strategy",
+          "zh": "取食策略"
+        },
+        "detail": {
+          "en": "The omnivore category is a broad guide; exact foods and methods can vary by life stage, season and locality.",
+          "zh": "杂食性类别只是宽泛指引；具体食物和方式会随生活阶段、季节及地点变化。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Habitat fit",
+          "zh": "生境适配"
+        },
+        "detail": {
+          "en": "Use of freshwater habitat is interpreted from exact-taxon occurrence and range evidence, not from map shape alone.",
+          "zh": "对淡水生境的利用依据精确分类单元的出现与分布证据解释，不能只看地图形状。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a omnivore species in freshwater habitat, it transfers energy through local food webs. Its exact ecological effect depends on abundance, food resources and interactions documented for each population.",
+      "zh": "作为淡水生境中的杂食性物种，它在当地食物网中传递能量。具体生态影响取决于各地种群数量、食物资源和有记录的相互作用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The Least Concern global category does not remove local risks from habitat change, direct mortality, disturbance, pollution or climate effects.",
+        "zh": "无危这一全球等级并不排除生境变化、直接死亡、干扰、污染或气候影响等地方风险。"
+      },
+      "actions": {
+        "en": "Protect the habitats and ecological processes identified by range authorities, reduce documented direct mortality and update management when monitoring or taxonomy changes.",
+        "zh": "应保护分布权威确认的生境和生态过程，减少有记录的直接死亡，并在监测或分类变化时更新管理。"
+      },
+      "source_keys": [
+        "conservation",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Confirm Red swamp crayfish with multiple visible characters, location and an exact taxon-linked record; color or body shape alone may be insufficient.",
+        "zh": "确认克氏原螯虾时，应结合多个可见特征、地点和精确分类单元记录；仅凭颜色或体形可能不足。"
+      },
+      "similar_species": {
+        "en": "Close relatives and regional look-alikes can share major features. A filename, common name or single trait is not enough for image approval.",
+        "zh": "近缘种和地区性相似种可能共享主要特征。文件名、俗名或单一特征不足以批准图片。"
+      },
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Communication and sensory channels are shaped by this species' habitat and class. A specific call, scent signal or sensory claim should be assigned only when the exact-taxon source supports it.",
+      "zh": "交流与感官通道受该物种生境和类群塑造。只有精确分类单元来源支持时，才能指定具体叫声、气味信号或感官能力。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding, movement, molt, dormancy or food use can shift with latitude, rainfall, temperature and resource pulses. A date from one population is not treated as universal.",
+      "zh": "繁殖、移动、换羽、休眠或食物利用会随纬度、降雨、温度和资源脉冲变化。某一种群的日期不会被写成普遍规律。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Use, conflict, tourism and cultural relationships vary across the range. Safe observation avoids handling, feeding, playback and disturbance of nests, dens or natural behavior.",
+      "zh": "利用、冲突、旅游和文化关系因分布区而异。安全观察应避免触摸、投喂、播放声音，以及干扰巢穴、洞穴或自然行为。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Procambarus clarkii is placed in genus Procambarus, family Cambaridae, order Decapoda. This review follows the accepted species match cited in the taxonomy evidence.",
+      "zh": "Procambarus clarkii归入原螯虾属、螯虾科、十足目。本次复核遵循分类证据中的接受种匹配。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks, calls, nests, feeding marks, molts or other indirect signs can narrow an identification but usually cannot confirm a species alone. Sensitive or dangerous animals require distance.",
+      "zh": "足迹、叫声、巢、取食痕迹、蜕皮或其他间接线索可缩小鉴定范围，但通常不能单独确认物种。遇到敏感或危险动物应保持距离。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The accepted scientific name used in this review is Procambarus clarkii.",
+          "zh": "本次复核采用的接受学名是Procambarus clarkii。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Least Concern is the checked global IUCN category, not a regional legal status.",
+          "zh": "无危是本次核对的全球IUCN等级，并非地区性法律地位。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "The map retains the previous approximate polygon and does not claim a newly verified boundary.",
+          "zh": "地图保留原有近似多边形，并不声称这是新核实的边界。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Crustacean molts",
+          "zh": "甲壳类蜕壳"
+        },
+        "content": {
+          "en": "Growth requires repeated molts, and eggs or larvae can occupy conditions different from adults. Temperature, depth, current and salinity can alter development.",
+          "zh": "生长需要反复蜕壳，卵或幼体所处条件可能不同于成体。温度、水深、水流和盐度会改变发育。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

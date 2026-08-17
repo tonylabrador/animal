@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "NE",
     "en": "Not Evaluated",
-    "zh": "未评估"
+    "zh": "未评估",
+    "note_en": "No species-level global IUCN assessment was confirmed; Not Evaluated does not mean secure or abundant.",
+    "note_zh": "未确认到物种级IUCN全球评估；未评估不代表安全或数量丰富。"
   },
   "description": {
-    "en": "A tiny but lethal species named after a victim to highlight the danger of Irukandji syndrome.",
-    "zh": "一种极小但致命的物种，以一名受害者命名，旨在强调伊鲁康吉综合征的危险性。"
+    "en": "King's box jellyfish (Malo kingi) is a carnivore cnidarian associated with ocean habitat. It belongs to Tamoyidae; this reviewed summary separates accepted identity and global conservation category from regional claims.",
+    "zh": "国王箱水母（Malo kingi）是与海洋生境相关的肉食性刺胞动物，属于单手水母科。本次复核把接受的物种身份和全球保护等级与地区性说法区分开。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "Malo kingi is a small carybdeid box jellyfish. The bell is only about 25 mm high. It is transparent and notoriously difficult to spot in the water. Its tentacles bear stinging cells (nematocysts) that contain a potent toxin. It is distinguished from other Malo species by its unique arrangement of nematocysts on the bell.",
-      "zh": "国王箱水母是一种小型立方水母。其伞部高度仅约25毫米。它是透明的，在水中极难被肉眼发现。它的触手布满了含有强力毒素的刺丝囊。通过伞盖上独特的刺丝囊排列方式，可以将其与其他玛罗水母属物种区分开来。"
+      "en": "King's box jellyfish is placed in genus Malo, family Tamoyidae. Appearance can vary with age, sex, season and locality, so species-level identification should combine several visible characters, location and the accepted scientific name.",
+      "zh": "国王箱水母归入玛罗水母属、单手水母科。外形会随年龄、性别、季节和地点变化，因此物种级鉴定应结合多个可见特征、地点和接受学名。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "This species is one of the primary causes of Irukandji syndrome, a condition characterized by severe pain, hypertension, and in some cases, heart failure. They are active during the warmer months. Due to their small size, they can pass through typical stinger nets intended to protect swimmers from larger box jellyfish.",
-      "zh": "该物种是引发伊鲁康吉综合征的主要原因之一，患者会出现剧痛、高血压，严重时会导致心力衰竭。它们在温暖的季节最为活跃。由于体型极小，它们可以穿过原本用于保护游泳者免受大型箱水母侵害的防蛰网。"
+      "en": "This project classifies the species as carnivore in ocean habitat. Feeding, activity and social behavior can vary among populations and seasons; details should be tied to an exact-taxon account rather than generalized from one observation.",
+      "zh": "本项目把该物种归为海洋生境中的肉食性动物。取食、活动和社会行为会随种群与季节变化；细节应对应精确分类单元资料，不能从一次观察泛化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Malo kingi is primarily found in the tropical waters off the coast of Queensland, Australia, particularly around the Whitsunday Islands. They inhabit offshore reef areas but can be drifted toward the coast by tides and currents.",
-      "zh": "国王箱水母主要发现于澳大利亚昆士兰州附近的热带海域，特别是降灵群岛（Whitsunday Islands）周边。它们栖息在离岸礁石区，但常随潮汐和海流漂向海岸。"
+      "en": "Tropical Coastal Waters and Reefs The existing map is retained for orientation and is explicitly treated as approximate rather than a verified legal or survey boundary.",
+      "zh": "热带沿海水域与珊瑚礁 现有地图仅为定位参考，并明确作为近似示意，而不是经过核实的法律或调查边界。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -108,13 +121,320 @@
           142
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and every polygon coordinate are retained byte-for-byte. Exact-taxon range evidence supports the broad occurrence context, but no reusable authoritative boundary geometry was established; the polygon remains labelled approximate.",
+      "comparison_zh": "原有中心点、缩放级别和每个多边形坐标均逐字节保留。精确分类单元的分布证据支持大致出现背景，但未取得可复用的权威边界几何，因此多边形继续标为近似范围。",
+      "checked_at": "2026-08-17"
+    }
   },
   "image": "/images/animals/kings-box-jellyfish.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
-      "checked_at": "2026-08-16"
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Malo%20kingi",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "GBIF–IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/5842340/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://api.inaturalist.org/v1/taxa/632185",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://api.inaturalist.org/v1/taxa/632185",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "GBIF species occurrence and distribution record",
+      "url": "https://api.gbif.org/v1/species/5842340",
+      "checked_at": "2026-08-17"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Malo kingi",
+          "zh": "Malo kingi"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Cubozoa",
+          "zh": "立方水母纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "order",
+        "label": {
+          "en": "Order",
+          "zh": "目"
+        },
+        "value": {
+          "en": "Carybdeida",
+          "zh": "加勒比水母目"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "family",
+        "label": {
+          "en": "Family",
+          "zh": "科"
+        },
+        "value": {
+          "en": "Tamoyidae",
+          "zh": "单手水母科"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat",
+          "zh": "生境"
+        },
+        "value": {
+          "en": "Ocean",
+          "zh": "海洋"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Carnivore",
+          "zh": "肉食性"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Not Evaluated",
+          "zh": "未评估"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Sexual and asexual stages can differ greatly in form and habitat. Colony growth, spawning and larval settlement must be interpreted from species-specific evidence.",
+      "zh": "有性与无性阶段在形态和生境上可能差异很大。群体生长、产卵和幼体附着必须依据物种级证据解释。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Body plan",
+          "zh": "身体结构"
+        },
+        "detail": {
+          "en": "Its body plan is evaluated within Tamoyidae; age, sex and seasonal variation must be separated from species-level traits.",
+          "zh": "其身体结构按单手水母科背景评估；年龄、性别和季节变化必须与物种级特征区分。"
+        },
+        "source_keys": [
+          "taxonomy",
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Feeding strategy",
+          "zh": "取食策略"
+        },
+        "detail": {
+          "en": "The carnivore category is a broad guide; exact foods and methods can vary by life stage, season and locality.",
+          "zh": "肉食性类别只是宽泛指引；具体食物和方式会随生活阶段、季节及地点变化。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Habitat fit",
+          "zh": "生境适配"
+        },
+        "detail": {
+          "en": "Use of ocean habitat is interpreted from exact-taxon occurrence and range evidence, not from map shape alone.",
+          "zh": "对海洋生境的利用依据精确分类单元的出现与分布证据解释，不能只看地图形状。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a carnivore species in ocean habitat, it transfers energy through local food webs. Its exact ecological effect depends on abundance, food resources and interactions documented for each population.",
+      "zh": "作为海洋生境中的肉食性物种，它在当地食物网中传递能量。具体生态影响取决于各地种群数量、食物资源和有记录的相互作用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "A missing confirmed global assessment creates uncertainty and must not be converted into a claim that the species is secure.",
+        "zh": "缺少经确认的全球评估意味着存在不确定性，不能据此宣称该物种安全。"
+      },
+      "actions": {
+        "en": "Protect the habitats and ecological processes identified by range authorities, reduce documented direct mortality and update management when monitoring or taxonomy changes.",
+        "zh": "应保护分布权威确认的生境和生态过程，减少有记录的直接死亡，并在监测或分类变化时更新管理。"
+      },
+      "source_keys": [
+        "conservation",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Confirm King's box jellyfish with multiple visible characters, location and an exact taxon-linked record; color or body shape alone may be insufficient.",
+        "zh": "确认国王箱水母时，应结合多个可见特征、地点和精确分类单元记录；仅凭颜色或体形可能不足。"
+      },
+      "similar_species": {
+        "en": "Close relatives and regional look-alikes can share major features. A filename, common name or single trait is not enough for image approval.",
+        "zh": "近缘种和地区性相似种可能共享主要特征。文件名、俗名或单一特征不足以批准图片。"
+      },
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Communication and sensory channels are shaped by this species' habitat and class. A specific call, scent signal or sensory claim should be assigned only when the exact-taxon source supports it.",
+      "zh": "交流与感官通道受该物种生境和类群塑造。只有精确分类单元来源支持时，才能指定具体叫声、气味信号或感官能力。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding, movement, molt, dormancy or food use can shift with latitude, rainfall, temperature and resource pulses. A date from one population is not treated as universal.",
+      "zh": "繁殖、移动、换羽、休眠或食物利用会随纬度、降雨、温度和资源脉冲变化。某一种群的日期不会被写成普遍规律。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Use, conflict, tourism and cultural relationships vary across the range. Safe observation avoids handling, feeding, playback and disturbance of nests, dens or natural behavior.",
+      "zh": "利用、冲突、旅游和文化关系因分布区而异。安全观察应避免触摸、投喂、播放声音，以及干扰巢穴、洞穴或自然行为。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Malo kingi is placed in genus Malo, family Tamoyidae, order Carybdeida. This review follows the accepted species match cited in the taxonomy evidence.",
+      "zh": "Malo kingi归入玛罗水母属、单手水母科、加勒比水母目。本次复核遵循分类证据中的接受种匹配。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks, calls, nests, feeding marks, molts or other indirect signs can narrow an identification but usually cannot confirm a species alone. Sensitive or dangerous animals require distance.",
+      "zh": "足迹、叫声、巢、取食痕迹、蜕皮或其他间接线索可缩小鉴定范围，但通常不能单独确认物种。遇到敏感或危险动物应保持距离。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The accepted scientific name used in this review is Malo kingi.",
+          "zh": "本次复核采用的接受学名是Malo kingi。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Not Evaluated means a confirmed global species assessment was unavailable, not that extinction risk is zero.",
+          "zh": "未评估表示缺少经确认的全球物种评估，不代表灭绝风险为零。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "The map retains the previous approximate polygon and does not claim a newly verified boundary.",
+          "zh": "地图保留原有近似多边形，并不声称这是新核实的边界。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Cnidarian stages",
+          "zh": "刺胞动物阶段"
+        },
+        "content": {
+          "en": "Sexual and asexual stages can differ greatly in form and habitat. Colony growth, spawning and larval settlement must be interpreted from species-specific evidence.",
+          "zh": "有性与无性阶段在形态和生境上可能差异很大。群体生长、产卵和幼体附着必须依据物种级证据解释。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

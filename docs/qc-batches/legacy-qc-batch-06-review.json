@@ -1,0 +1,2662 @@
+{
+  "batch": "legacy-qc-batch-06",
+  "audited_at": "2026-08-17T18:28:25.836Z",
+  "result": "pass",
+  "gates": {
+    "exact_batch_membership": true,
+    "identity": true,
+    "conservation": true,
+    "maps_retained": true,
+    "generation_state": {
+      "factual_qc": "source-checked",
+      "bilingual_qc": "line-by-line-reviewed"
+    },
+    "generation_state_matches": true,
+    "bilingual_pairs_checked": 8060
+  },
+  "manual_decisions": {
+    "northern-goshawk": "Updated to Eurasian Goshawk, Astur gentilis. Removed only the obsolete North American polygon after the American/Eurasian species split; retained all Eurasian and Japanese coordinates.",
+    "pygmy-slow-loris": "Updated to Southern Pygmy Slow Loris, Xanthonycticebus pygmaeus, following the Mammal Diversity Database; the prior map was retained.",
+    "vicuna": "Retained Vicugna vicugna and LC to remain aligned with the IUCN-assessed combination, while recording the Mammal Diversity Database's Lama vicugna treatment.",
+    "whites-tree-frog": "Updated the accepted combination to Pelodryas caerulea following Amphibian Species of the World; retained the IUCN category assessed under Ranoidea caerulea.",
+    "wild-bactrian-camel": "Used the current Mammal Diversity Database species account to retain Endangered; rejected the genus-only GBIF NE response.",
+    "wilsons-bird-of-paradise": "Updated the accepted combination to Diphyllodes respublica following the 2023 eBird/Clements taxonomy update."
+  },
+  "animals": [
+    {
+      "id": "mangrove-box-jellyfish",
+      "scientific_name": "Tripedalia cystophora",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "marabou-stork",
+      "scientific_name": "Leptoptilos crumenifer",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "marine-iguana",
+      "scientific_name": "Amblyrhynchus cristatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 4,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "meerkat",
+      "scientific_name": "Suricata suricatta",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "mohol-bushbaby",
+      "scientific_name": "Galago moholi",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "monarch-butterfly",
+      "scientific_name": "Danaus plexippus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "moose",
+      "scientific_name": "Alces alces",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 7,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "mountain-goat",
+      "scientific_name": "Oreamnos americanus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 9,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "mountain-lion",
+      "scientific_name": "Puma concolor",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 5,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "muskox",
+      "scientific_name": "Ovibos moschatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "mute-swan",
+      "scientific_name": "Cygnus olor",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "namaqua-sandgrouse",
+      "scientific_name": "Pterocles namaqua",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "narwhal",
+      "scientific_name": "Monodon monoceros",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "nevada-dampwood-termite",
+      "scientific_name": "Zootermopsis nevadensis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "nile-crocodile",
+      "scientific_name": "Crocodylus niloticus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "nine-banded-armadillo",
+      "scientific_name": "Dasypus novemcinctus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "noisy-pitta",
+      "scientific_name": "Pitta versicolor",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "north-american-deer-mouse",
+      "scientific_name": "Peromyscus maniculatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "northern-cardinal",
+      "scientific_name": "Cardinalis cardinalis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "northern-elephant-seal",
+      "scientific_name": "Mirounga angustirostris",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "northern-goshawk",
+      "scientific_name": "Astur gentilis",
+      "identity_result": "manual-authority-resolution",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "replaced-supported-split",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; the clearly obsolete North American polygon was removed after the Eurasian/American Goshawk split, while the Eurasian and Japanese geometry was retained byte-for-byte. The 2023 eBird/Clements split restricts this taxon to Eurasia and recognizes American Goshawk separately; the 2024 update places Eurasian Goshawk in Astur gentilis."
+      },
+      "issues": []
+    },
+    {
+      "id": "northern-potoo",
+      "scientific_name": "Nyctibius jamaicensis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "northern-river-terrapin",
+      "scientific_name": "Batagur baska",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "CR",
+      "reviewed_iucn": "CR",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "numbat",
+      "scientific_name": "Myrmecobius fasciatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 4,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "nurse-shark",
+      "scientific_name": "Ginglymostoma cirratum",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "ocean-sunfish",
+      "scientific_name": "Mola mola",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "ocellaris-clownfish",
+      "scientific_name": "Amphiprion ocellaris",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "ocelot",
+      "scientific_name": "Leopardus pardalis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "oilbird",
+      "scientific_name": "Steatornis caripensis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "orca",
+      "scientific_name": "Orcinus orca",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "DD",
+      "reviewed_iucn": "DD",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "orchid-mantis",
+      "scientific_name": "Hymenopus coronatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "pacific-angelshark",
+      "scientific_name": "Squatina californica",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "pallass-cat",
+      "scientific_name": "Otocolobus manul",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "paradise-tree-snake",
+      "scientific_name": "Chrysopelea paradisi",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 5,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "patagonian-mara",
+      "scientific_name": "Dolichotis patagonum",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "peacock-mantis-shrimp",
+      "scientific_name": "Odontodactylus scyllarus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "DD",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "pelican-eel",
+      "scientific_name": "Eurypharynx pelecanoides",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 4,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "peregrine-falcon",
+      "scientific_name": "Falco peregrinus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "perriers-sifaka",
+      "scientific_name": "Propithecus perrieri",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "CR",
+      "reviewed_iucn": "CR",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "philippine-flying-lemur",
+      "scientific_name": "Cynocephalus volans",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "pink-fairy-armadillo",
+      "scientific_name": "Chlamyphorus truncatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "DD",
+      "reviewed_iucn": "DD",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "plains-zebra",
+      "scientific_name": "Equus quagga",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "platypus",
+      "scientific_name": "Ornithorhynchus anatinus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "polar-bear",
+      "scientific_name": "Ursus maritimus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "portuguese-man-o-war",
+      "scientific_name": "Physalia physalis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "proboscis-monkey",
+      "scientific_name": "Nasalis larvatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "pronghorn",
+      "scientific_name": "Antilocapra americana",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "przewalskis-gazelle",
+      "scientific_name": "Procapra przewalskii",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "pygmy-slow-loris",
+      "scientific_name": "Xanthonycticebus pygmaeus",
+      "identity_result": "manual-authority-resolution",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte. The Mammal Diversity Database recognizes Xanthonycticebus pygmaeus as Southern Pygmy Slow Loris and separates X. intermedius."
+      },
+      "issues": []
+    },
+    {
+      "id": "quokka",
+      "scientific_name": "Setonix brachyurus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "raccoon",
+      "scientific_name": "Procyon lotor",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 4,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "raccoon-dog",
+      "scientific_name": "Nyctereutes procyonoides",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "red-crowned-crane",
+      "scientific_name": "Grus japonensis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 4,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "red-eyed-tree-frog",
+      "scientific_name": "Agalychnis callidryas",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "red-fox",
+      "scientific_name": "Vulpes vulpes",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "red-junglefowl",
+      "scientific_name": "Gallus gallus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "red-kangaroo",
+      "scientific_name": "Osphranter rufus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "red-legged-seriema",
+      "scientific_name": "Cariama cristata",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "red-lionfish",
+      "scientific_name": "Pterois volitans",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "red-panda",
+      "scientific_name": "Ailurus fulgens",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "red-squirrel",
+      "scientific_name": "Sciurus vulgaris",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "red-swamp-crayfish",
+      "scientific_name": "Procambarus clarkii",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 5,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "red-tailed-hawk",
+      "scientific_name": "Buteo jamaicensis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "reindeer",
+      "scientific_name": "Rangifer tarandus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "resplendent-quetzal",
+      "scientific_name": "Pharomachrus mocinno",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "reticulated-python",
+      "scientific_name": "Malayopython reticulatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "rhinoceros-hornbill",
+      "scientific_name": "Buceros rhinoceros",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "ring-legged-earwig",
+      "scientific_name": "Euborellia annulipes",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "ring-tailed-lemur",
+      "scientific_name": "Lemur catta",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "ruby-throated-hummingbird",
+      "scientific_name": "Archilochus colubris",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "rueppells-fox",
+      "scientific_name": "Vulpes rueppellii",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "saiga-antelope",
+      "scientific_name": "Saiga tatarica",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "saltwater-crocodile",
+      "scientific_name": "Crocodylus porosus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "sand-cat",
+      "scientific_name": "Felis margarita",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "sandhill-crane",
+      "scientific_name": "Antigone canadensis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 5,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "saola",
+      "scientific_name": "Pseudoryx nghetinhensis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "CR",
+      "reviewed_iucn": "CR",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "scarlet-ibis",
+      "scientific_name": "Eudocimus ruber",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "scarlet-macaw",
+      "scientific_name": "Ara macao",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "sea-otter",
+      "scientific_name": "Enhydra lutris",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 7,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "secretary-bird",
+      "scientific_name": "Sagittarius serpentarius",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "serval",
+      "scientific_name": "Leptailurus serval",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "shoebill-stork",
+      "scientific_name": "Balaeniceps rex",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "siberian-musk-deer",
+      "scientific_name": "Moschus moschiferus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "sika-deer",
+      "scientific_name": "Cervus nippon",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "silky-anteater",
+      "scientific_name": "Cyclopes didactylus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "silver-carp",
+      "scientific_name": "Hypophthalmichthys molitrix",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "sloth-bear",
+      "scientific_name": "Melursus ursinus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "snow-leopard",
+      "scientific_name": "Panthera uncia",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "snowshoe-hare",
+      "scientific_name": "Lepus americanus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "snowy-owl",
+      "scientific_name": "Bubo scandiacus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "south-american-tapir",
+      "scientific_name": "Tapirus terrestris",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "southern-black-widow",
+      "scientific_name": "Latrodectus mactans",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "southern-blue-ringed-octopus",
+      "scientific_name": "Hapalochlaena maculosa",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "southern-cassowary",
+      "scientific_name": "Casuarius casuarius",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "spectacled-bear",
+      "scientific_name": "Tremarctos ornatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "spinner-dolphin",
+      "scientific_name": "Stenella longirostris",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "spot-fin-porcupinefish",
+      "scientific_name": "Diodon hystrix",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "spotted-hyena",
+      "scientific_name": "Crocuta crocuta",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "strawberry-poison-dart-frog",
+      "scientific_name": "Oophaga pumilio",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "stresemanns-bristlefront",
+      "scientific_name": "Merulaxis stresemanni",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "CR",
+      "reviewed_iucn": "CR",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "striated-frogfish",
+      "scientific_name": "Antennarius striatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "striped-blue-ringed-octopus",
+      "scientific_name": "Hapalochlaena fasciata",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "striped-skunk",
+      "scientific_name": "Mephitis mephitis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "sugar-glider",
+      "scientific_name": "Petaurus breviceps",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "summer-tanager",
+      "scientific_name": "Piranga rubra",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "sunda-pangolin",
+      "scientific_name": "Manis javanica",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "CR",
+      "reviewed_iucn": "CR",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "superb-fairy-wren",
+      "scientific_name": "Malurus cyaneus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "surinam-horned-frog",
+      "scientific_name": "Ceratophrys cornuta",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "swan-goose",
+      "scientific_name": "Anser cygnoides",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "takin",
+      "scientific_name": "Budorcas taxicolor",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "tasmanian-devil",
+      "scientific_name": "Sarcophilus harrisii",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "temmincks-tragopan",
+      "scientific_name": "Tragopan temminckii",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "texas-horned-lizard",
+      "scientific_name": "Phrynosoma cornutum",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "thorn-bug",
+      "scientific_name": "Umbonia crassicornis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "three-banded-armadillo",
+      "scientific_name": "Tolypeutes tricinctus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "tibetan-antelope",
+      "scientific_name": "Pantholops hodgsonii",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "tiger",
+      "scientific_name": "Panthera tigris",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "tiger-puffer",
+      "scientific_name": "Takifugu rubripes",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "tiger-shark",
+      "scientific_name": "Galeocerdo cuvier",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 4,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "toco-toucan",
+      "scientific_name": "Ramphastos toco",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "tufted-deer",
+      "scientific_name": "Elaphodus cephalophus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "tufted-puffin",
+      "scientific_name": "Fratercula cirrhata",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "turkey-vulture",
+      "scientific_name": "Cathartes aura",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "two-toed-sloth",
+      "scientific_name": "Choloepus didactylus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "upland-buzzard",
+      "scientific_name": "Buteo hemilasius",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "vaquita",
+      "scientific_name": "Phocoena sinus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "CR",
+      "reviewed_iucn": "CR",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "veiled-chameleon",
+      "scientific_name": "Chamaeleo calyptratus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "victoria-crowned-pigeon",
+      "scientific_name": "Goura victoria",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "victorian-grassland-earless-dragon",
+      "scientific_name": "Tympanocryptis pinguicolla",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "CR",
+      "reviewed_iucn": "CR",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "vicuna",
+      "scientific_name": "Vicugna vicugna",
+      "identity_result": "manual-authority-resolution",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte. GBIF and the IUCN-linked category service retain Vicugna vicugna as Least Concern; the Mammal Diversity Database currently uses Lama vicugna, so the IUCN-assessed combination is retained explicitly."
+      },
+      "issues": []
+    },
+    {
+      "id": "virginia-opossum",
+      "scientific_name": "Didelphis virginiana",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "wallaces-flying-frog",
+      "scientific_name": "Rhacophorus nigropalmatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "wallaces-giant-bee",
+      "scientific_name": "Megachile pluto",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "walrus",
+      "scientific_name": "Odobenus rosmarus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "wandering-albatross",
+      "scientific_name": "Diomedea exulans",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "water-deer",
+      "scientific_name": "Hydropotes inermis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "west-indian-manatee",
+      "scientific_name": "Trichechus manatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 5,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "western-gorilla",
+      "scientific_name": "Gorilla gorilla",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "CR",
+      "reviewed_iucn": "CR",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "whale-shark",
+      "scientific_name": "Rhincodon typus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "whiskered-screech-owl",
+      "scientific_name": "Megascops trichopsis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "white-rhinoceros",
+      "scientific_name": "Ceratotherium simum",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "white-throated-dipper",
+      "scientific_name": "Cinclus cinclus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "white-winged-vampire-bat",
+      "scientific_name": "Diaemus youngii",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "whites-tree-frog",
+      "scientific_name": "Pelodryas caerulea",
+      "identity_result": "manual-authority-resolution",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte. Amphibian Species of the World currently recognizes Pelodryas caerulea; the global IUCN category remains the assessment published under Ranoidea caerulea."
+      },
+      "issues": []
+    },
+    {
+      "id": "whooping-crane",
+      "scientific_name": "Grus americana",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 4,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "wild-bactrian-camel",
+      "scientific_name": "Camelus ferus",
+      "identity_result": "manual-authority-resolution",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte. The Mammal Diversity Database recognizes Camelus ferus and lists the current global category as Endangered; the GBIF category response matched only the genus and is not used."
+      },
+      "issues": []
+    },
+    {
+      "id": "wild-boar",
+      "scientific_name": "Sus scrofa",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "wild-horse",
+      "scientific_name": "Equus ferus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "wilsons-bird-of-paradise",
+      "scientific_name": "Diphyllodes respublica",
+      "identity_result": "manual-authority-resolution",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte. The 2023 eBird/Clements taxonomy update places Wilson's Bird-of-paradise in Diphyllodes respublica; the IUCN-linked category remains Near Threatened."
+      },
+      "issues": []
+    },
+    {
+      "id": "wolverine",
+      "scientific_name": "Gulo gulo",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 6,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "yangtze-finless-porpoise",
+      "scientific_name": "Neophocaena asiaeorientalis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "yangtze-giant-softshell-turtle",
+      "scientific_name": "Rafetus swinhoei",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "CR",
+      "reviewed_iucn": "CR",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "yellow-bellied-sea-snake",
+      "scientific_name": "Hydrophis platurus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "yellow-warbler",
+      "scientific_name": "Setophaga petechia",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "zebra-jumping-spider",
+      "scientific_name": "Salticus scenicus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    }
+  ]
+}

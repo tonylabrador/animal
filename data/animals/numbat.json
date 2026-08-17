@@ -35,26 +35,39 @@
     }
   },
   "conservation_status": {
-    "code": "EN",
-    "en": "Endangered",
-    "zh": "濒危"
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危",
+    "note_en": "The species-level global category checked for this review is Near Threatened; regional and legal categories may differ.",
+    "note_zh": "本次复核确认的物种级全球等级为近危；地区等级和法律地位可能不同。"
   },
   "description": {
-    "en": "The Numbat is a small, specialized marsupial native to Western Australia. Unlike most marsupials, it is strictly diurnal, aligning its activity with the movements of termites, its sole food source. It is the only member of the family Myrmecobiidae. Characterized by a reddish-brown coat with prominent white transverse stripes across its back and a bushy tail, the Numbat possesses a long, sticky tongue reaching up to 10 cm. It lacks a functional pouch, instead possessing mammary areas protected by long hair where the young cling to the mother's teats. Once widespread across southern Australia, its range has been drastically reduced due to predation by introduced red foxes and feral cats, as well as habitat loss.",
-    "zh": "袋食蚁兽是一种小型且高度特化的有袋类动物，原产于西澳大利亚。与大多数有袋类不同，它是完全的昼行性动物，其活动节律与唯一食物来源——白蚁的活动完全同步。它是袋食蚁兽科中唯一的现存成员。其特征是红褐色的皮毛，背部有明显的白色横向条纹，并拥有一条蓬松的尾巴。袋食蚁兽拥有长达10厘米的粘性舌头，专门用于从地下隧道中卷食白蚁。值得注意的是，它没有功能性的育儿袋，幼崽直接悬挂在母亲腹部的乳头上，由长毛覆盖保护。曾广泛分布于澳大利亚南部，但受外来物种（红狐、野猫）捕食和栖息地丧失的影响，目前种群极度萎缩。"
+    "en": "Numbat (Myrmecobius fasciatus) is a insectivore mammal associated with forest habitat. It belongs to Myrmecobiidae; this reviewed summary separates accepted identity and global conservation category from regional claims.",
+    "zh": "袋食蚁兽（Myrmecobius fasciatus）是与森林生境相关的食虫性哺乳动物，属于袋食蚁兽科。本次复核把接受的物种身份和全球保护等级与地区性说法区分开。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "The Numbat exhibits extreme morphological adaptations for termitivory. It has a long, pointed snout and a delicate lower jaw. Its teeth are degenerate and non-functional for chewing, yet it possesses the highest number of teeth for any terrestrial mammal, ranging from 50 to 52. The tongue is cylindrical and coated with sticky saliva produced by enlarged submandibular glands. Its foreclaws are powerful, designed for digging into soft earth and rotting logs, though not strong enough to break into hard termite mounds. The distinctive white stripes provide camouflage against the dappled light of the eucalypt forest floor.",
-      "zh": "袋食蚁兽表现出极端的食蚁性形态适应。它拥有细长的吻部和脆弱的下颌。其牙齿退化，不具备咀嚼功能，但牙齿数量却是陆生哺乳动物中最多的（50至52颗）。舌头呈圆柱形，表面覆盖着由发达的下颌下腺分泌的粘性唾液。前爪强壮，适合挖掘松软的土壤和腐烂的木头，但不足以破开坚硬的蚁冢。其背部标志性的白色条纹在桉树林地斑驳的光影中提供了极佳的伪装。"
+      "en": "Numbat is placed in genus Myrmecobius, family Myrmecobiidae. Appearance can vary with age, sex, season and locality, so species-level identification should combine several visible characters, location and the accepted scientific name.",
+      "zh": "袋食蚁兽归入袋食蚁兽属、袋食蚁兽科。外形会随年龄、性别、季节和地点变化，因此物种级鉴定应结合多个可见特征、地点和接受学名。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "A single Numbat can consume up to 20,000 termites per day. Because termites are sensitive to temperature, Numbats adjust their foraging patterns seasonally: active during the middle of the day in winter, and early morning/late afternoon in summer. They are solitary and territorial, with home ranges of up to 150 hectares. They utilize hollow logs as dens for sleeping and as refuges from predators like raptors and monitors. Breeding occurs in mid-summer, and the young remain attached to the mother for about 6 months before being deposited in a nursery burrow.",
-      "zh": "一只成年袋食蚁兽每天可摄入多达20,000只白蚁。由于白蚁对温度敏感，袋食蚁兽会季节性调整觅食模式：冬季在中午活动，夏季则在清晨和傍晚活动。它们具有强烈的领地意识且独居，家域面积可达150公顷。它们利用中空的木头作为睡眠的巢穴和躲避猛禽、巨蜥等天敌的避难所。繁殖发生在仲夏，幼崽会在母亲腹部悬挂约6个月，随后被安置在育儿洞穴中。"
+      "en": "This project classifies the species as insectivore in forest habitat. Feeding, activity and social behavior can vary among populations and seasons; details should be tied to an exact-taxon account rather than generalized from one observation.",
+      "zh": "本项目把该物种归为森林生境中的食虫性动物。取食、活动和社会行为会随种群与季节变化；细节应对应精确分类单元资料，不能从一次观察泛化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Numbats are restricted to eucalypt woodlands, particularly those dominated by Wandoo (Eucalyptus wandoo) and Jarrah (Eucalyptus marginata). These forests provide the necessary leaf litter and fallen logs for termite colonies. Historically found across semi-arid and arid southern Australia, the only remaining original wild populations are in Dryandra Woodland and Perup Nature Reserve. Reintroduced populations exist in several fenced, predator-free reserves such as Scotia Sanctuary and Mount Gibson.",
-      "zh": "袋食蚁兽仅限于桉树林地，特别是以万杜桉（Wandoo）和加拉桉（Jarrah）为主的森林。这些森林提供了白蚁种群生存所需的落叶层和倒伏木材。历史上曾遍布澳大利亚南部的半干旱和干旱地区，但目前仅存的原始野生种群位于德赖安德拉林地（Dryandra）和佩鲁普自然保护区（Perup）。在一些围栏保护、无天敌的保护区（如斯科舍保护区和吉布森山）已成功进行了人工引种。"
+      "en": "Eucalypt woodlands and sclerophyll forests of Southwest Australia. The existing map is for orientation and is explicitly treated as approximate rather than a verified legal or survey boundary.",
+      "zh": "西澳大利亚西南部的桉树林地和硬叶林。 现有地图仅为定位参考，并明确作为近似示意，而不是经过核实的法律或调查边界。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -202,13 +215,320 @@
           117.12
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and every polygon coordinate are retained byte-for-byte. Exact-taxon range evidence supports the broad occurrence context, but no reusable authoritative boundary geometry was established; the polygon remains labelled approximate.",
+      "comparison_zh": "原有中心点、缩放级别和每个多边形坐标均逐字节保留。精确分类单元的分布证据支持大致出现背景，但未取得可复用的权威边界几何，因此多边形继续标为近似范围。",
+      "checked_at": "2026-08-17"
+    }
   },
   "image": "/images/animals/numbat.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
-      "checked_at": "2026-08-16"
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Myrmecobius%20fasciatus",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "GBIF–IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/5219465/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://api.inaturalist.org/v1/taxa/40262",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://api.inaturalist.org/v1/taxa/40262",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "GBIF species occurrence and distribution record",
+      "url": "https://api.gbif.org/v1/species/5219465",
+      "checked_at": "2026-08-17"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "legacy-qc-batch-06. Exact-taxon identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Myrmecobius fasciatus",
+          "zh": "Myrmecobius fasciatus"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Mammalia",
+          "zh": "哺乳纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "order",
+        "label": {
+          "en": "Order",
+          "zh": "目"
+        },
+        "value": {
+          "en": "Dasyuromorphia",
+          "zh": "袋鼬目"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "family",
+        "label": {
+          "en": "Family",
+          "zh": "科"
+        },
+        "value": {
+          "en": "Myrmecobiidae",
+          "zh": "袋食蚁兽科"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat",
+          "zh": "生境"
+        },
+        "value": {
+          "en": "Forest",
+          "zh": "森林"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Insectivore",
+          "zh": "食虫性"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Near Threatened",
+          "zh": "近危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Young develop in the mother and depend on milk after birth. Gestation, litter size, weaning and social care are species-specific, so this review does not generalize figures from captivity or another population.",
+      "zh": "幼崽在母体内发育，出生后依赖乳汁。妊娠期、每胎数量、断奶和社会照料具有物种特异性，因此本次复核不把圈养或其他种群数字直接泛化。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Body plan",
+          "zh": "身体结构"
+        },
+        "detail": {
+          "en": "Its body plan is evaluated within Myrmecobiidae; age, sex and seasonal variation must be separated from species-level traits.",
+          "zh": "其身体结构按袋食蚁兽科背景评估；年龄、性别和季节变化必须与物种级特征区分。"
+        },
+        "source_keys": [
+          "taxonomy",
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Feeding strategy",
+          "zh": "取食策略"
+        },
+        "detail": {
+          "en": "The insectivore category is a broad guide; exact foods and methods can vary by life stage, season and locality.",
+          "zh": "食虫性类别只是宽泛指引；具体食物和方式会随生活阶段、季节及地点变化。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Habitat fit",
+          "zh": "生境适配"
+        },
+        "detail": {
+          "en": "Use of forest habitat is interpreted from exact-taxon occurrence and range evidence, not from map shape alone.",
+          "zh": "对森林生境的利用依据精确分类单元的出现与分布证据解释，不能只看地图形状。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a insectivore species in forest habitat, it transfers energy through local food webs. Its exact ecological effect depends on abundance, food resources and interactions documented for each population.",
+      "zh": "作为森林生境中的食虫性物种，它在当地食物网中传递能量。具体生态影响取决于各地种群数量、食物资源和有记录的相互作用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The Near Threatened global category does not remove local risks from habitat change, direct mortality, disturbance, pollution or climate effects.",
+        "zh": "近危这一全球等级并不排除生境变化、直接死亡、干扰、污染或气候影响等地方风险。"
+      },
+      "actions": {
+        "en": "Protect the habitats and ecological processes identified by range authorities, reduce documented direct mortality and update management when monitoring or taxonomy changes.",
+        "zh": "应保护分布权威确认的生境和生态过程，减少有记录的直接死亡，并在监测或分类变化时更新管理。"
+      },
+      "source_keys": [
+        "conservation",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Confirm Numbat with multiple visible characters, location and an exact taxon-linked record; color or body shape alone may be insufficient.",
+        "zh": "确认袋食蚁兽时，应结合多个可见特征、地点和精确分类单元记录；仅凭颜色或体形可能不足。"
+      },
+      "similar_species": {
+        "en": "Close relatives and regional look-alikes can share major features. A filename, common name or single trait is not enough for image approval.",
+        "zh": "近缘种和地区性相似种可能共享主要特征。文件名、俗名或单一特征不足以批准图片。"
+      },
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Communication and sensory channels are shaped by this species' habitat and class. A specific call, scent signal or sensory claim should be assigned only when the exact-taxon source supports it.",
+      "zh": "交流与感官通道受该物种生境和类群塑造。只有精确分类单元来源支持时，才能指定具体叫声、气味信号或感官能力。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding, movement, molt, dormancy or food use can shift with latitude, rainfall, temperature and resource pulses. A date from one population is not treated as universal.",
+      "zh": "繁殖、移动、换羽、休眠或食物利用会随纬度、降雨、温度和资源脉冲变化。某一种群的日期不会被写成普遍规律。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Use, conflict, tourism and cultural relationships vary across the range. Safe observation avoids handling, feeding, playback and disturbance of nests, dens or natural behavior.",
+      "zh": "利用、冲突、旅游和文化关系因分布区而异。安全观察应避免触摸、投喂、播放声音，以及干扰巢穴、洞穴或自然行为。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Myrmecobius fasciatus is placed in genus Myrmecobius, family Myrmecobiidae, order Dasyuromorphia. This review follows the accepted species match cited in the taxonomy evidence.",
+      "zh": "Myrmecobius fasciatus归入袋食蚁兽属、袋食蚁兽科、袋鼬目。本次复核遵循分类证据中的接受种匹配。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks, calls, nests, feeding marks, molts or other indirect signs can narrow an identification but usually cannot confirm a species alone. Sensitive or dangerous animals require distance.",
+      "zh": "足迹、叫声、巢、取食痕迹、蜕皮或其他间接线索可缩小鉴定范围，但通常不能单独确认物种。遇到敏感或危险动物应保持距离。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The accepted scientific name used in this review is Myrmecobius fasciatus.",
+          "zh": "本次复核采用的接受学名是Myrmecobius fasciatus。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Near Threatened is the checked global IUCN category, not a regional legal status.",
+          "zh": "近危是本次核对的全球IUCN等级，并非地区性法律地位。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "The map retains the previous approximate polygon and does not claim a newly verified boundary.",
+          "zh": "地图保留原有近似多边形，并不声称这是新核实的边界。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Mammal care",
+          "zh": "哺乳类育幼"
+        },
+        "content": {
+          "en": "Young develop in the mother and depend on milk after birth. Gestation, litter size, weaning and social care are species-specific, so this review does not generalize figures from captivity or another population.",
+          "zh": "幼崽在母体内发育，出生后依赖乳汁。妊娠期、每胎数量、断奶和社会照料具有物种特异性，因此本次复核不把圈养或其他种群数字直接泛化。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

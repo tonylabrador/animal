@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "LC",
     "en": "Least Concern",
-    "zh": "无危"
+    "zh": "无危",
+    "note_en": "The species-level global category checked for this review is Least Concern; regional and legal categories may differ.",
+    "note_zh": "本次复核确认的物种级全球等级为无危；地区等级和法律地位可能不同。"
   },
   "description": {
-    "en": "The Leopard gecko is a crepuscular, ground-dwelling lizard native to the rocky dry grasslands and desert regions of South Asia. Unlike most geckos, members of the Eublepharidae family possess movable eyelids and lack adhesive toe pads (lamellae), meaning they cannot climb smooth vertical surfaces. They are characterized by their robust build, bumpy skin covered in small tubercles, and a thick, carrot-shaped tail used for fat storage. In the wild, they exhibit a yellow base color with numerous dark brown or black spots, providing excellent camouflage against sandy and rocky substrates.",
-    "zh": "豹纹守宫是一种原产于南亚岩石干旱草原和荒漠地带的晨昏性地栖蜥蜴。与大多数壁虎不同，睑虎科成员拥有可移动的眼睑，且脚趾末端缺乏吸盘（皮褶），因此无法在光滑的垂直表面攀爬。它们体型粗壮，皮肤表面布满细小的颗粒状突起，拥有肥大的“胡萝卜状”尾部用于储存脂肪以备不时之需。野生个体通常呈现黄色底色并布满深褐色或黑色斑点，这种体色在沙石环境中提供了极佳的伪装保护。"
+    "en": "Leopard gecko (Eublepharis macularius) is a insectivore reptile associated with desert habitat. It belongs to Eublepharidae; this reviewed summary separates accepted identity and global conservation category from regional claims.",
+    "zh": "豹纹守宫（Eublepharis macularius）是与沙漠生境相关的食虫性爬行动物，属于睑虎科。本次复核把接受的物种身份和全球保护等级与地区性说法区分开。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "Adults typically reach 20–28 cm in length. Their most distinctive anatomical feature is the presence of functional eyelids, allowing them to blink and sleep with closed eyes. Their skin is exceptionally tough and covered in small bumps called tubercles. The tail is a critical survival organ; it stores metabolic fat and can be autotomized (dropped) if the gecko is grabbed by a predator, later regenerating but with a different appearance. Their eyes have vertical pupils that expand in low light to enhance nocturnal vision.",
-      "zh": "成年个体体长通常在20至28厘米之间。其最显著的解剖特征是拥有功能性眼睑，能够眨眼并闭眼睡觉。皮肤异常坚韧，覆盖着被称为“结节”的小突起。尾部是关键的生存器官，不仅储存代谢脂肪，在受到捕食者攻击时还能通过“自割”脱落以逃生，随后会再生，但外观会变得更加圆钝。它们的眼睛具有垂直瞳孔，在光线昏暗时会扩大以增强夜视能力。"
+      "en": "Leopard gecko is placed in genus Eublepharis, family Eublepharidae. Appearance can vary with age, sex, season and locality, so species-level identification should combine several visible characters, location and the accepted scientific name.",
+      "zh": "豹纹守宫归入拟睑虎属、睑虎科。外形会随年龄、性别、季节和地点变化，因此物种级鉴定应结合多个可见特征、地点和接受学名。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "Leopard geckos are primarily crepuscular, being most active during dawn and dusk to avoid the extreme heat of the day. They are strict insectivores, preying on crickets, beetles, and scorpions. They exhibit temperature-dependent sex determination (TSD): eggs incubated at lower temperatures (around 26°C) predominantly produce females, while higher temperatures (around 32°C) produce males. They are known to be relatively vocal, producing squeaking or barking sounds when threatened or during social interactions.",
-      "zh": "豹纹守宫主要在晨昏时段活动，以避开白天的极端高温。它们是严格的食虫动物，捕食蟋蟀、甲虫甚至蝎子。该物种表现出温度依赖型性别决定（TSD）：在较低温度（约26°C）下孵化的卵多为雌性，而在较高温度（约32°C）下则多为雄性。它们具有一定的发声能力，在受到威胁或进行社交互动时会发出吱吱声或类似吠叫的声音。"
+      "en": "This project classifies the species as insectivore in desert habitat. Feeding, activity and social behavior can vary among populations and seasons; details should be tied to an exact-taxon account rather than generalized from one observation.",
+      "zh": "本项目把该物种归为沙漠生境中的食虫性动物。取食、活动和社会行为会随种群与季节变化；细节应对应精确分类单元资料，不能从一次观察泛化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Their natural range extends across the arid regions of Afghanistan, Pakistan, northwest India, and parts of Iran. They prefer rocky deserts, sparse grasslands, and scrub forests rather than shifting sand dunes. They spend the day hiding in deep crevices or under rocks to maintain hydration and regulate body temperature. Their habitat is characterized by significant seasonal temperature fluctuations, ranging from intense summer heat to near-freezing winter nights.",
-      "zh": "其自然分布范围横跨阿富汗、巴基斯坦、印度西北部以及伊朗部分地区的干旱地带。它们更倾向于栖息在岩石荒漠、稀疏草原和灌木丛林中，而非流动的沙丘。白天它们躲藏在深邃的岩缝或岩石下方，以保持水分并调节体温。其栖息地具有显著的季节性温差，从酷热的夏季到接近冰点的冬季夜晚不等。"
+      "en": "Arid rocky deserts and dry scrublands of South Asia. The existing map is retained for orientation and is explicitly treated as approximate rather than a verified legal or survey boundary.",
+      "zh": "南亚的干旱岩石荒漠和干燥灌木丛。 现有地图仅为定位参考，并明确作为近似示意，而不是经过核实的法律或调查边界。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -162,13 +175,320 @@
           61.5
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and every polygon coordinate are retained byte-for-byte. Exact-taxon range evidence supports the broad occurrence context, but no reusable authoritative boundary geometry was established; the polygon remains labelled approximate.",
+      "comparison_zh": "原有中心点、缩放级别和每个多边形坐标均逐字节保留。精确分类单元的分布证据支持大致出现背景，但未取得可复用的权威边界几何，因此多边形继续标为近似范围。",
+      "checked_at": "2026-08-17"
+    }
   },
   "image": "/images/animals/leopard-gecko.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
-      "checked_at": "2026-08-16"
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Eublepharis%20macularius",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "GBIF–IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/5221283/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://api.inaturalist.org/v1/taxa/34675",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://api.inaturalist.org/v1/taxa/34675",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "GBIF species occurrence and distribution record",
+      "url": "https://api.gbif.org/v1/species/5221283",
+      "checked_at": "2026-08-17"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Eublepharis macularius",
+          "zh": "Eublepharis macularius"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Reptilia",
+          "zh": "爬行纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "order",
+        "label": {
+          "en": "Order",
+          "zh": "目"
+        },
+        "value": {
+          "en": "Squamata",
+          "zh": "有鳞目"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "family",
+        "label": {
+          "en": "Family",
+          "zh": "科"
+        },
+        "value": {
+          "en": "Eublepharidae",
+          "zh": "睑虎科"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat",
+          "zh": "生境"
+        },
+        "value": {
+          "en": "Desert",
+          "zh": "沙漠"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Insectivore",
+          "zh": "食虫性"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Least Concern",
+          "zh": "无危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Development and reproduction depend strongly on temperature and local conditions. Egg laying or live birth, clutch size and maturity differ among species and are not inferred from the reptile label alone.",
+      "zh": "发育和繁殖强烈受温度及当地条件影响。卵生或胎生、窝卵数和成熟时间因物种而异，不能只凭爬行动物标签推断。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Body plan",
+          "zh": "身体结构"
+        },
+        "detail": {
+          "en": "Its body plan is evaluated within Eublepharidae; age, sex and seasonal variation must be separated from species-level traits.",
+          "zh": "其身体结构按睑虎科背景评估；年龄、性别和季节变化必须与物种级特征区分。"
+        },
+        "source_keys": [
+          "taxonomy",
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Feeding strategy",
+          "zh": "取食策略"
+        },
+        "detail": {
+          "en": "The insectivore category is a broad guide; exact foods and methods can vary by life stage, season and locality.",
+          "zh": "食虫性类别只是宽泛指引；具体食物和方式会随生活阶段、季节及地点变化。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Habitat fit",
+          "zh": "生境适配"
+        },
+        "detail": {
+          "en": "Use of desert habitat is interpreted from exact-taxon occurrence and range evidence, not from map shape alone.",
+          "zh": "对沙漠生境的利用依据精确分类单元的出现与分布证据解释，不能只看地图形状。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a insectivore species in desert habitat, it transfers energy through local food webs. Its exact ecological effect depends on abundance, food resources and interactions documented for each population.",
+      "zh": "作为沙漠生境中的食虫性物种，它在当地食物网中传递能量。具体生态影响取决于各地种群数量、食物资源和有记录的相互作用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The Least Concern global category does not remove local risks from habitat change, direct mortality, disturbance, pollution or climate effects.",
+        "zh": "无危这一全球等级并不排除生境变化、直接死亡、干扰、污染或气候影响等地方风险。"
+      },
+      "actions": {
+        "en": "Protect the habitats and ecological processes identified by range authorities, reduce documented direct mortality and update management when monitoring or taxonomy changes.",
+        "zh": "应保护分布权威确认的生境和生态过程，减少有记录的直接死亡，并在监测或分类变化时更新管理。"
+      },
+      "source_keys": [
+        "conservation",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Confirm Leopard gecko with multiple visible characters, location and an exact taxon-linked record; color or body shape alone may be insufficient.",
+        "zh": "确认豹纹守宫时，应结合多个可见特征、地点和精确分类单元记录；仅凭颜色或体形可能不足。"
+      },
+      "similar_species": {
+        "en": "Close relatives and regional look-alikes can share major features. A filename, common name or single trait is not enough for image approval.",
+        "zh": "近缘种和地区性相似种可能共享主要特征。文件名、俗名或单一特征不足以批准图片。"
+      },
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Communication and sensory channels are shaped by this species' habitat and class. A specific call, scent signal or sensory claim should be assigned only when the exact-taxon source supports it.",
+      "zh": "交流与感官通道受该物种生境和类群塑造。只有精确分类单元来源支持时，才能指定具体叫声、气味信号或感官能力。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding, movement, molt, dormancy or food use can shift with latitude, rainfall, temperature and resource pulses. A date from one population is not treated as universal.",
+      "zh": "繁殖、移动、换羽、休眠或食物利用会随纬度、降雨、温度和资源脉冲变化。某一种群的日期不会被写成普遍规律。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Use, conflict, tourism and cultural relationships vary across the range. Safe observation avoids handling, feeding, playback and disturbance of nests, dens or natural behavior.",
+      "zh": "利用、冲突、旅游和文化关系因分布区而异。安全观察应避免触摸、投喂、播放声音，以及干扰巢穴、洞穴或自然行为。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Eublepharis macularius is placed in genus Eublepharis, family Eublepharidae, order Squamata. This review follows the accepted species match cited in the taxonomy evidence.",
+      "zh": "Eublepharis macularius归入拟睑虎属、睑虎科、有鳞目。本次复核遵循分类证据中的接受种匹配。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks, calls, nests, feeding marks, molts or other indirect signs can narrow an identification but usually cannot confirm a species alone. Sensitive or dangerous animals require distance.",
+      "zh": "足迹、叫声、巢、取食痕迹、蜕皮或其他间接线索可缩小鉴定范围，但通常不能单独确认物种。遇到敏感或危险动物应保持距离。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The accepted scientific name used in this review is Eublepharis macularius.",
+          "zh": "本次复核采用的接受学名是Eublepharis macularius。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Least Concern is the checked global IUCN category, not a regional legal status.",
+          "zh": "无危是本次核对的全球IUCN等级，并非地区性法律地位。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "The map retains the previous approximate polygon and does not claim a newly verified boundary.",
+          "zh": "地图保留原有近似多边形，并不声称这是新核实的边界。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Thermal biology",
+          "zh": "体温调节"
+        },
+        "content": {
+          "en": "Development and reproduction depend strongly on temperature and local conditions. Egg laying or live birth, clutch size and maturity differ among species and are not inferred from the reptile label alone.",
+          "zh": "发育和繁殖强烈受温度及当地条件影响。卵生或胎生、窝卵数和成熟时间因物种而异，不能只凭爬行动物标签推断。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

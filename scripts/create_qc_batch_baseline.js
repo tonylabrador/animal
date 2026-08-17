@@ -12,6 +12,12 @@ const pendingCountFlag = argv.indexOf("--pending-count");
 const pendingCount = pendingCountFlag >= 0 ? Number(argv[pendingCountFlag + 1]) : null;
 if (pendingCountFlag >= 0) argv.splice(pendingCountFlag, 2);
 const root = path.resolve(__dirname, "..");
+const localDate = new Intl.DateTimeFormat("en-CA", {
+  timeZone: "America/Los_Angeles",
+  year: "numeric",
+  month: "2-digit",
+  day: "2-digit",
+}).format(new Date());
 const ids = pendingCount !== null
   ? fs.readdirSync(path.join(root, "data", "animals"))
     .filter((file) => file.endsWith(".json"))
@@ -46,7 +52,7 @@ const animals = ids.map((id) => {
 
 const output = {
   batch,
-  captured_at: "2026-08-16",
+  captured_at: localDate,
   preservation_rule: "Keep map_coordinates and global_distribution_polygons unchanged unless a clearly documented error is supported by authoritative range evidence.",
   animals,
 };

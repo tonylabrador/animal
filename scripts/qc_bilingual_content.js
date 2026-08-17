@@ -65,8 +65,8 @@ function checkPair(pair, errors, warnings) {
 
   const qualifierRules = [
     { en: /\b(?:roughly|approximately)\b|\babout\s+\d/i, zh: /约|大约|左右/, label: "approximation" },
-    { en: /\b(?:up to|as many as)\b/i, zh: /最多|可达|高达|长达/, label: "upper limit" },
-    { en: /\b(?:usually|commonly|typically)\b/i, zh: /通常|一般|往往|多为/, label: "frequency qualifier" },
+    { en: /\b(?:up to\s+(?:a|an|\d)|as many as)\b/i, zh: /最多|可达|高达|长达|深达|多达/, label: "upper limit" },
+    { en: /\b(?:usually|commonly|typically)\b/i, zh: /通常|一般|往往|多为|常见|常伴|常常/, label: "frequency qualifier" },
     { en: /\bunknown\b/i, zh: /未知|尚不清楚|数据不足/, label: "unknown qualifier" },
   ];
   for (const rule of qualifierRules) {

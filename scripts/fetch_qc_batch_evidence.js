@@ -7,6 +7,7 @@ const ROOT = path.resolve(__dirname, "..");
 const args = process.argv.slice(2);
 const batchFlag = args.indexOf("--batch");
 const batch = batchFlag >= 0 ? args[batchFlag + 1] : null;
+const retryErrors = args.includes("--retry-errors");
 if (!batch) {
   console.error("Usage: node scripts/fetch_qc_batch_evidence.js --batch legacy-qc-batch-04");
   process.exit(1);
@@ -94,9 +95,17 @@ async function fetchOne(animal) {
 }
 
 async function main() {
-  const results = [];
-  for (let index = 0; index < baseline.animals.length; index += 5) {
-    const group = baseline.animals.slice(index, index + 5);
+  const previous = retryErrors && fs.existsSync(outputPath)
+    ? JSON.parse(fs.readFileSync(outputPath, "utf8"))
+    : null;
+  const previousById = new Map((previous?.animals || []).map((animal) => [animal.id, animal]));
+  const targets = retryErrors
+    ? baseline.animals.filter((animal) => previousById.get(animal.id)?.identity_gate === "error")
+    : baseline.animals;
+  const fresh = [];
+  const groupSize = retryErrors ? 1 : 5;
+  for (let index = 0; index < targets.length; index += groupSize) {
+    const group = targets.slice(index, index + groupSize);
     const settled = await Promise.all(group.map(async (animal) => {
       try {
         return await fetchOne(animal);
@@ -109,9 +118,16 @@ async function main() {
         };
       }
     }));
-    results.push(...settled);
-    console.log(`Checked ${Math.min(index + group.length, baseline.animals.length)}/${baseline.animals.length}`);
+    fresh.push(...settled);
+    console.log(`Checked ${Math.min(index + group.length, targets.length)}/${targets.length}`);
+    if (retryErrors && index + group.length < targets.length) {
+      await new Promise((resolve) => setTimeout(resolve, 1500));
+    }
   }
+  const freshById = new Map(fresh.map((animal) => [animal.id, animal]));
+  const results = retryErrors
+    ? baseline.animals.map((animal) => freshById.get(animal.id) || previousById.get(animal.id))
+    : fresh;
   const evidence = {
     batch,
     checked_at: new Date().toISOString(),

@@ -14,7 +14,12 @@ const DELAY_MS = 1100;
 const ALLOWED_LICENSES = new Set(["cc0", "cc-by", "cc-by-sa"]);
 const TAXON_SEARCH_ALIASES = new Map([
   ["acipenser sinensis", "Sinosturio sinensis"],
+  ["accipiter gentilis", "Astur gentilis"],
+  ["cicinnurus respublica", "Diphyllodes respublica"],
   ["lagenorhynchus obscurus", "Aethalodelphis obscurus"],
+  ["nycticebus pygmaeus", "Xanthonycticebus pygmaeus"],
+  ["ranoidea caerulea", "Litoria caerulea"],
+  ["strigops habroptila", "Strigops habroptilus"],
   ["sus domesticus", "Sus scrofa"],
 ]);
 const USER_AGENT = `WildExplorer/2.0 (${process.env.INAT_CONTACT || "https://animal.prismbase.org"})`;

@@ -1,0 +1,1723 @@
+{
+  "batch": "legacy-qc-batch-05",
+  "audited_at": "2026-08-17T17:29:10.944Z",
+  "result": "pass",
+  "gates": {
+    "exact_batch_membership": true,
+    "identity": true,
+    "conservation": true,
+    "maps_retained": true,
+    "generation_state": {
+      "factual_qc": "source-checked",
+      "bilingual_qc": "line-by-line-reviewed"
+    },
+    "generation_state_matches": true,
+    "bilingual_pairs_checked": 5200
+  },
+  "manual_decisions": {
+    "kakapo": "Corrected spelling to Strigops habroptilus following IUCN, iNaturalist and New Zealand conservation usage; GBIF retains Strigops habroptila.",
+    "longsnout-catfish": "Retained the IUCN-assessed Leiocassis longirostris combination; GBIF treats it as a synonym and iNaturalist has no exact indexed taxon."
+  },
+  "animals": [
+    {
+      "id": "gila-monster",
+      "scientific_name": "Heloderma suspectum",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "giraffe",
+      "scientific_name": "Giraffa camelopardalis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "giraffe-stag-beetle",
+      "scientific_name": "Prosopocoilus girafa",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "glass-frog",
+      "scientific_name": "Hyalinobatrachium fleischmanni",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "goblin-shark",
+      "scientific_name": "Mitsukurina owstoni",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "golden-jackal",
+      "scientific_name": "Canis aureus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "golden-pheasant",
+      "scientific_name": "Chrysolophus pictus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "golden-poison-frog",
+      "scientific_name": "Phyllobates terribilis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "golden-rumped-elephant-shrew",
+      "scientific_name": "Rhynchocyon chrysopygus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "golden-snub-nosed-monkey",
+      "scientific_name": "Rhinopithecus roxellana",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "golden-tree-snake",
+      "scientific_name": "Chrysopelea ornata",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 4,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "goliath-birdeater",
+      "scientific_name": "Theraphosa blondi",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "gopher-snake",
+      "scientific_name": "Pituophis catenifer",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "grass-carp",
+      "scientific_name": "Ctenopharyngodon idella",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "gray-wolf",
+      "scientific_name": "Canis lupus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 12,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "great-argus",
+      "scientific_name": "Argusianus argus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "great-bittern",
+      "scientific_name": "Botaurus stellaris",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "great-blue-heron",
+      "scientific_name": "Ardea herodias",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "great-cormorant",
+      "scientific_name": "Phalacrocorax carbo",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 4,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "great-dusky-swift",
+      "scientific_name": "Cypseloides senex",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "great-gray-owl",
+      "scientific_name": "Strix nebulosa",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "great-hammerhead",
+      "scientific_name": "Sphyrna mokarran",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "CR",
+      "reviewed_iucn": "CR",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "great-white-pelican",
+      "scientific_name": "Pelecanus onocrotalus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "great-white-shark",
+      "scientific_name": "Carcharodon carcharias",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "greater-bird-of-paradise",
+      "scientific_name": "Paradisaea apoda",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "greater-blue-ringed-octopus",
+      "scientific_name": "Hapalochlaena lunulata",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "greater-flamingo",
+      "scientific_name": "Phoenicopterus roseus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "greater-honeyguide",
+      "scientific_name": "Indicator indicator",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "green-anaconda",
+      "scientific_name": "Eunectes murinus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "green-iguana",
+      "scientific_name": "Iguana iguana",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "green-peafowl",
+      "scientific_name": "Pavo muticus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "green-sea-turtle",
+      "scientific_name": "Chelonia mydas",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "grevys-zebra",
+      "scientific_name": "Equus grevyi",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "grey-fox",
+      "scientific_name": "Urocyon cinereoargenteus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "grey-headed-flying-fox",
+      "scientific_name": "Pteropus poliocephalus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "grey-partridge",
+      "scientific_name": "Perdix perdix",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "grooved-brain-coral",
+      "scientific_name": "Diploria labyrinthiformis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "CR",
+      "reviewed_iucn": "CR",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 4,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "guanaco",
+      "scientific_name": "Lama guanicoe",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "harbor-porpoise",
+      "scientific_name": "Phocoena phocoena",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 4,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "harpy-eagle",
+      "scientific_name": "Harpia harpyja",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "hawaiian-bobtail-squid",
+      "scientific_name": "Euprymna scolopes",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "DD",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "hectors-dolphin",
+      "scientific_name": "Cephalorhynchus hectori",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "himalayan-monal",
+      "scientific_name": "Lophophorus impejanus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "hippopotamus",
+      "scientific_name": "Hippopotamus amphibius",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "hoatzin",
+      "scientific_name": "Opisthocomus hoazin",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "honey-badger",
+      "scientific_name": "Mellivora capensis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "horse",
+      "scientific_name": "Equus caballus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "house-cricket",
+      "scientific_name": "Acheta domesticus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 4,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "house-finch",
+      "scientific_name": "Haemorhous mexicanus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "house-fly",
+      "scientific_name": "Musca domestica",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "house-sparrow",
+      "scientific_name": "Passer domesticus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "human",
+      "scientific_name": "Homo sapiens",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "humpback-anglerfish",
+      "scientific_name": "Melanocetus johnsonii",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "humpback-whale",
+      "scientific_name": "Megaptera novaeangliae",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "hyacinth-macaw",
+      "scientific_name": "Anodorhynchus hyacinthinus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "iiwi",
+      "scientific_name": "Drepanis coccinea",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "ili-pika",
+      "scientific_name": "Ochotona iliensis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "immortal-jellyfish",
+      "scientific_name": "Turritopsis dohrnii",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "DD",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "indian-flying-fox",
+      "scientific_name": "Pteropus medius",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "indian-peafowl",
+      "scientific_name": "Pavo cristatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "indochinese-spiky-lizard",
+      "scientific_name": "Acanthosaura coronata",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "irrawaddy-dolphin",
+      "scientific_name": "Orcaella brevirostris",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 6,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "island-scrub-jay",
+      "scientific_name": "Aphelocoma insularis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "ivory-billed-woodpecker",
+      "scientific_name": "Campephilus principalis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "CR",
+      "reviewed_iucn": "CR",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 4,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "jaguar",
+      "scientific_name": "Panthera onca",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "japanese-eel",
+      "scientific_name": "Anguilla japonica",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "japanese-spider-crab",
+      "scientific_name": "Macrocheira kaempferi",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "DD",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "javan-green-magpie",
+      "scientific_name": "Cissa thalassina",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "CR",
+      "reviewed_iucn": "CR",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "kakapo",
+      "scientific_name": "Strigops habroptilus",
+      "identity_result": "manual-authority-resolution",
+      "previous_iucn": "CR",
+      "reviewed_iucn": "CR",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte. GBIF accepts the spelling Strigops habroptila, while IUCN, iNaturalist and New Zealand conservation usage use Strigops habroptilus; this review adopts the latter spelling."
+      },
+      "issues": []
+    },
+    {
+      "id": "kea",
+      "scientific_name": "Nestor notabilis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "keel-billed-toucan",
+      "scientific_name": "Ramphastos sulfuratus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "king-bird-of-paradise",
+      "scientific_name": "Cicinnurus regius",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "king-cobra",
+      "scientific_name": "Ophiophagus hannah",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "king-penguin",
+      "scientific_name": "Aptenodytes patagonicus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "kings-box-jellyfish",
+      "scientific_name": "Malo kingi",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "kit-fox",
+      "scientific_name": "Vulpes macrotis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "koala",
+      "scientific_name": "Phascolarctos cinereus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "komodo-dragon",
+      "scientific_name": "Varanus komodoensis",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "lady-amhersts-pheasant",
+      "scientific_name": "Chrysolophus amherstiae",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "large-flying-fox",
+      "scientific_name": "Pteropus vampyrus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "laughing-kookaburra",
+      "scientific_name": "Dacelo novaeguineae",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "leafy-seadragon",
+      "scientific_name": "Phycodurus eques",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "leatherback-sea-turtle",
+      "scientific_name": "Dermochelys coriacea",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "leopard",
+      "scientific_name": "Panthera pardus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "leopard-gecko",
+      "scientific_name": "Eublepharis macularius",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "leopard-seal",
+      "scientific_name": "Hydrurga leptonyx",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "lion",
+      "scientific_name": "Panthera leo",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "VU",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "lions-mane-jellyfish",
+      "scientific_name": "Cyanea capillata",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NE",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "little-bee-eater",
+      "scientific_name": "Merops pusillus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "little-brown-bat",
+      "scientific_name": "Myotis lucifugus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "little-egret",
+      "scientific_name": "Egretta garzetta",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "little-spotted-kiwi",
+      "scientific_name": "Apteryx owenii",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "llama",
+      "scientific_name": "Lama glama",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "NE",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "long-tailed-tit",
+      "scientific_name": "Aegithalos caudatus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "longsnout-catfish",
+      "scientific_name": "Leiocassis longirostris",
+      "identity_result": "manual-authority-resolution",
+      "previous_iucn": "VU",
+      "reviewed_iucn": "DD",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte. IUCN assesses Leiocassis longirostris as a species; GBIF treats that combination as a synonym and iNaturalist has no exact indexed taxon, so the IUCN-assessed combination is retained explicitly."
+      },
+      "issues": []
+    },
+    {
+      "id": "lowland-streaked-tenrec",
+      "scientific_name": "Hemicentetes semispinosus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 0,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "malayan-tapir",
+      "scientific_name": "Tapirus indicus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "EN",
+      "reviewed_iucn": "EN",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 2,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "mallard",
+      "scientific_name": "Anas platyrhynchos",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 3,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "mandarin-duck",
+      "scientific_name": "Aix galericulata",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "LC",
+      "reviewed_iucn": "LC",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    },
+    {
+      "id": "maned-wolf",
+      "scientific_name": "Chrysocyon brachyurus",
+      "identity_result": "exact-gbif-and-inaturalist",
+      "previous_iucn": "NT",
+      "reviewed_iucn": "NT",
+      "map_result": "retained-byte-for-byte",
+      "polygon_count": 1,
+      "draft_review_state": {
+        "factual_qc": "source-checked",
+        "bilingual_qc": "line-by-line-reviewed",
+        "reviewed_at": "2026-08-17",
+        "reviewer": "Codex source and bilingual audit",
+        "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+      },
+      "issues": []
+    }
+  ]
+}

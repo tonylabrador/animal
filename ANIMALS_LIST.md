@@ -157,7 +157,7 @@
 
 **懒猴科**
 
-- 小懒猴 / Pygmy Slow Loris — *Nycticebus pygmaeus* `pygmy-slow-loris`
+- 南小懒猴 / Southern Pygmy Slow Loris — *Xanthonycticebus pygmaeus* `pygmy-slow-loris`
 
 **指猴科**
 
@@ -422,7 +422,7 @@
 - 原驼 / Guanaco — *Lama guanicoe* `guanaco`
 - 大羊驼 / Llama — *Lama glama* `llama`
 - 小羊驼 / Vicuña — *Vicugna vicugna* `vicuna`
-- 野双峰骆驼 / Wild Bactrian Camel — *Camelus ferus* `wild-bactrian-camel`
+- 野骆驼 / Wild Bactrian Camel — *Camelus ferus* `wild-bactrian-camel`
 
 **鹿科**
 
@@ -617,7 +617,7 @@
 
 - 大天堂鸟 / Greater Bird-of-paradise — *Paradisaea apoda* `greater-bird-of-paradise`
 - 王极乐鸟 / King bird-of-paradise — *Cicinnurus regius* `king-bird-of-paradise`
-- 威氏极乐鸟 / Wilson's Bird-of-paradise — *Cicinnurus respublica* `wilsons-bird-of-paradise`
+- 威氏极乐鸟 / Wilson's Bird-of-paradise — *Diphyllodes respublica* `wilsons-bird-of-paradise`
 
 **森莺科**
 
@@ -849,7 +849,7 @@
 
 **鸮鹦鹉科**
 
-- 鸮鹦鹉 / Kakapo — *Strigops habroptila* `kakapo`
+- 鸮鹦鹉 / Kakapo — *Strigops habroptilus* `kakapo`
 
 **鹦鹉科**
 
@@ -867,8 +867,8 @@
 
 - 白头海雕 / Bald Eagle — *Haliaeetus leucocephalus* `bald-eagle`
 - 胡兀鹫 / Bearded vulture — *Gypaetus barbatus* `bearded-vulture`
+- 苍鹰 / Eurasian Goshawk — *Astur gentilis* `northern-goshawk`
 - 角雕 / Harpy Eagle — *Harpia harpyja* `harpy-eagle`
-- 苍鹰 / Northern Goshawk — *Accipiter gentilis* `northern-goshawk`
 - 红尾鵟 / Red-tailed Hawk — *Buteo jamaicensis* `red-tailed-hawk`
 - 大鵟 / Upland Buzzard — *Buteo hemilasius* `upland-buzzard`
 
@@ -1039,7 +1039,7 @@
 
 **雨滨蛙科**
 
-- 白氏树蛙 / White's Tree Frog — *Ranoidea caerulea* `whites-tree-frog`
+- 白氏树蛙 / White's Tree Frog — *Pelodryas caerulea* `whites-tree-frog`
 
 ### 有尾目
 

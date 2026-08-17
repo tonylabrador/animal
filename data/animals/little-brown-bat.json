@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "EN",
     "en": "Endangered",
-    "zh": "濒危"
+    "zh": "濒危",
+    "note_en": "The species-level global category checked for this review is Endangered; regional and legal categories may differ.",
+    "note_zh": "本次复核确认的物种级全球等级为濒危；地区等级和法律地位可能不同。"
   },
   "description": {
-    "en": "Once North America's most common bat, it consumes half its body weight in insects nightly before retreating to warm domestic attics or deep caves.",
-    "zh": "曾是北美洲最常见的一种蝙蝠，每晚能吃掉相当于体重一半的昆虫量，然后在温暖的人类阁楼或深邃的洞穴中休息。"
+    "en": "Little Brown Bat (Myotis lucifugus) is a insectivore mammal associated with forest habitat. It belongs to Vespertilionidae; this reviewed summary separates accepted identity and global conservation category from regional claims.",
+    "zh": "小棕蝠（Myotis lucifugus）是与森林生境相关的食虫性哺乳动物，属于蝙蝠科。本次复核把接受的物种身份和全球保护等级与地区性说法区分开。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "The little brown bat is a microbat that weighs intensely small, roughly the same as a single US nickel piece, despite possessing a respectable wingspan. They are covered in glossy, pale-to-dark brown fur with a lighter underbelly. They use specialized muscles to shape their mouths, emitting ultra-high-frequency echolocation pulses up to 20 times a second to 'see' their surroundings and capture tiny rapidly moving mosquitoes and moths in total darkness.",
-      "zh": "小棕蝠属于微型蝙蝠，尽管拥有惊人的翼展，但其体重却极其微小，大概只相当于一枚美国5美分硬币重。它们覆盖着从浅色到深棕色富有光泽的皮毛，腹部颜色较浅。在完全黑暗的环境中，它们利用特化的肌肉改变嘴巴形状，发射每秒高达20次的超高频回声定位脉冲，以「看清」周围环境并精准捕捉微小且快速移动的蚊虫和飞蛾。"
+      "en": "Little Brown Bat is placed in genus Myotis, family Vespertilionidae. Appearance can vary with age, sex, season and locality, so species-level identification should combine several visible characters, location and the accepted scientific name.",
+      "zh": "小棕蝠归入鼠耳蝠属、蝙蝠科。外形会随年龄、性别、季节和地点变化，因此物种级鉴定应结合多个可见特征、地点和接受学名。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "During the summer, females form massive 'maternity colonies' often utilizing the radiating heat of human buildings. As ferocious insectivores, nursing mothers can consume their entire body weight in insects every single night, making them ecologically invaluable pest controllers. During the harsh winter, they undergo true hibernation in caves and abandoned mines, significantly dropping their body temperatures to barely above freezing to conserve fat reserves.",
-      "zh": "在夏季，雌性会形成庞大的「育种群」，通常利用人类建筑散发的辐射热。作为异常凶猛的食虫动物，哺乳期的母亲每晚可以吃掉相当于自身全部体重的昆虫，这使它们成为生态学上不可估量的害虫控制者。在严酷的冬季，它们会在洞穴和废弃矿井中进行真正的冬眠，将体温显著降低至勉强高于冰点，以极度节约脂肪储备。"
+      "en": "This project classifies the species as insectivore in forest habitat. Feeding, activity and social behavior can vary among populations and seasons; details should be tied to an exact-taxon account rather than generalized from one observation.",
+      "zh": "本项目把该物种归为森林生境中的食虫性动物。取食、活动和社会行为会随种群与季节变化；细节应对应精确分类单元资料，不能从一次观察泛化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Endemic to North America, they are found from high-altitude forests in Alaska stretching eastwards to the Atlantic coast. Sadly, their populations have been utterly devastated—in some regional caves suffering mortality rates of over 90%—by 'White-Nose Syndrome', a lethal invasive fungal disease that brutally awakens them during their deeply sensitive winter torpor.",
-      "zh": "特产于北美洲，它们的分布极广，从阿拉斯加的高海拔森林一直向东延伸到大西洋海岸。不幸的是，它们的种群遭到了毁灭性的打击——在某些区域的洞穴死亡率甚至超过90%——原因是一种称为「白鼻综合症」的致命入侵性真菌疾病，它会在蝙蝠高度敏感的冬季蛰伏期间将它们残忍唤醒。"
+      "en": "Deciduous Forests, Lakes, and Karst Caves The existing map is retained for orientation and is explicitly treated as approximate rather than a verified legal or survey boundary.",
+      "zh": "落叶林、湖泊与喀斯特洞穴 现有地图仅为定位参考，并明确作为近似示意，而不是经过核实的法律或调查边界。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -96,13 +109,320 @@
           -130
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and every polygon coordinate are retained byte-for-byte. Exact-taxon range evidence supports the broad occurrence context, but no reusable authoritative boundary geometry was established; the polygon remains labelled approximate.",
+      "comparison_zh": "原有中心点、缩放级别和每个多边形坐标均逐字节保留。精确分类单元的分布证据支持大致出现背景，但未取得可复用的权威边界几何，因此多边形继续标为近似范围。",
+      "checked_at": "2026-08-17"
+    }
   },
   "image": "/images/animals/little-brown-bat.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
-      "checked_at": "2026-08-16"
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Myotis%20lucifugus",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "GBIF–IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/2432406/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://api.inaturalist.org/v1/taxa/40346",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://api.inaturalist.org/v1/taxa/40346",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "GBIF species occurrence and distribution record",
+      "url": "https://api.gbif.org/v1/species/2432406",
+      "checked_at": "2026-08-17"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Myotis lucifugus",
+          "zh": "Myotis lucifugus"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Mammalia",
+          "zh": "哺乳纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "order",
+        "label": {
+          "en": "Order",
+          "zh": "目"
+        },
+        "value": {
+          "en": "Chiroptera",
+          "zh": "翼手目"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "family",
+        "label": {
+          "en": "Family",
+          "zh": "科"
+        },
+        "value": {
+          "en": "Vespertilionidae",
+          "zh": "蝙蝠科"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat",
+          "zh": "生境"
+        },
+        "value": {
+          "en": "Forest",
+          "zh": "森林"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Insectivore",
+          "zh": "食虫性"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Endangered",
+          "zh": "濒危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Young develop in the mother and depend on milk after birth. Gestation, litter size, weaning and social care are species-specific, so this review does not generalize figures from captivity or another population.",
+      "zh": "幼崽在母体内发育，出生后依赖乳汁。妊娠期、每胎数量、断奶和社会照料具有物种特异性，因此本次复核不把圈养或其他种群数字直接泛化。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Body plan",
+          "zh": "身体结构"
+        },
+        "detail": {
+          "en": "Its body plan is evaluated within Vespertilionidae; age, sex and seasonal variation must be separated from species-level traits.",
+          "zh": "其身体结构按蝙蝠科背景评估；年龄、性别和季节变化必须与物种级特征区分。"
+        },
+        "source_keys": [
+          "taxonomy",
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Feeding strategy",
+          "zh": "取食策略"
+        },
+        "detail": {
+          "en": "The insectivore category is a broad guide; exact foods and methods can vary by life stage, season and locality.",
+          "zh": "食虫性类别只是宽泛指引；具体食物和方式会随生活阶段、季节及地点变化。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Habitat fit",
+          "zh": "生境适配"
+        },
+        "detail": {
+          "en": "Use of forest habitat is interpreted from exact-taxon occurrence and range evidence, not from map shape alone.",
+          "zh": "对森林生境的利用依据精确分类单元的出现与分布证据解释，不能只看地图形状。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a insectivore species in forest habitat, it transfers energy through local food webs. Its exact ecological effect depends on abundance, food resources and interactions documented for each population.",
+      "zh": "作为森林生境中的食虫性物种，它在当地食物网中传递能量。具体生态影响取决于各地种群数量、食物资源和有记录的相互作用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The Endangered global category does not remove local risks from habitat change, direct mortality, disturbance, pollution or climate effects.",
+        "zh": "濒危这一全球等级并不排除生境变化、直接死亡、干扰、污染或气候影响等地方风险。"
+      },
+      "actions": {
+        "en": "Protect the habitats and ecological processes identified by range authorities, reduce documented direct mortality and update management when monitoring or taxonomy changes.",
+        "zh": "应保护分布权威确认的生境和生态过程，减少有记录的直接死亡，并在监测或分类变化时更新管理。"
+      },
+      "source_keys": [
+        "conservation",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Confirm Little Brown Bat with multiple visible characters, location and an exact taxon-linked record; color or body shape alone may be insufficient.",
+        "zh": "确认小棕蝠时，应结合多个可见特征、地点和精确分类单元记录；仅凭颜色或体形可能不足。"
+      },
+      "similar_species": {
+        "en": "Close relatives and regional look-alikes can share major features. A filename, common name or single trait is not enough for image approval.",
+        "zh": "近缘种和地区性相似种可能共享主要特征。文件名、俗名或单一特征不足以批准图片。"
+      },
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Communication and sensory channels are shaped by this species' habitat and class. A specific call, scent signal or sensory claim should be assigned only when the exact-taxon source supports it.",
+      "zh": "交流与感官通道受该物种生境和类群塑造。只有精确分类单元来源支持时，才能指定具体叫声、气味信号或感官能力。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding, movement, molt, dormancy or food use can shift with latitude, rainfall, temperature and resource pulses. A date from one population is not treated as universal.",
+      "zh": "繁殖、移动、换羽、休眠或食物利用会随纬度、降雨、温度和资源脉冲变化。某一种群的日期不会被写成普遍规律。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Use, conflict, tourism and cultural relationships vary across the range. Safe observation avoids handling, feeding, playback and disturbance of nests, dens or natural behavior.",
+      "zh": "利用、冲突、旅游和文化关系因分布区而异。安全观察应避免触摸、投喂、播放声音，以及干扰巢穴、洞穴或自然行为。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Myotis lucifugus is placed in genus Myotis, family Vespertilionidae, order Chiroptera. This review follows the accepted species match cited in the taxonomy evidence.",
+      "zh": "Myotis lucifugus归入鼠耳蝠属、蝙蝠科、翼手目。本次复核遵循分类证据中的接受种匹配。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks, calls, nests, feeding marks, molts or other indirect signs can narrow an identification but usually cannot confirm a species alone. Sensitive or dangerous animals require distance.",
+      "zh": "足迹、叫声、巢、取食痕迹、蜕皮或其他间接线索可缩小鉴定范围，但通常不能单独确认物种。遇到敏感或危险动物应保持距离。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The accepted scientific name used in this review is Myotis lucifugus.",
+          "zh": "本次复核采用的接受学名是Myotis lucifugus。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Endangered is the checked global IUCN category, not a regional legal status.",
+          "zh": "濒危是本次核对的全球IUCN等级，并非地区性法律地位。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "The map retains the previous approximate polygon and does not claim a newly verified boundary.",
+          "zh": "地图保留原有近似多边形，并不声称这是新核实的边界。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Mammal care",
+          "zh": "哺乳类育幼"
+        },
+        "content": {
+          "en": "Young develop in the mother and depend on milk after birth. Gestation, litter size, weaning and social care are species-specific, so this review does not generalize figures from captivity or another population.",
+          "zh": "幼崽在母体内发育，出生后依赖乳汁。妊娠期、每胎数量、断奶和社会照料具有物种特异性，因此本次复核不把圈养或其他种群数字直接泛化。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }

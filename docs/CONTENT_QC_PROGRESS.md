@@ -5,9 +5,9 @@
 ## Summary
 
 - Total animals: 436
-- Rich Content v2 with source QC and line-by-line bilingual QC: 181
-- Legacy records awaiting migration: 255
-- Completion: 41.5%
+- Rich Content v2 with source QC and line-by-line bilingual QC: 436
+- Legacy records awaiting migration: 0
+- Completion: 100.0%
 
 ## Reviewed records
 
@@ -78,6 +78,7 @@
 | Bolivian Anaconda | 玻利维亚森蚺 | Eunectes beniensis | 2026-08-16 | Codex source and bilingual audit |
 | Bornean Orangutan | 婆罗洲猩猩 | Pongo pygmaeus | 2026-08-16 | Codex source and bilingual audit |
 | Boulder brain coral | 巨型脑珊瑚 | Colpophyllia natans | 2026-08-16 | Codex source and bilingual audit |
+| Brazilian Three-banded Armadillo | 三带犰狳 | Tolypeutes tricinctus | 2026-08-17 | Codex source and bilingual audit |
 | Brown Bear | 棕熊 | Ursus arctos | 2026-08-16 | Codex source and bilingual audit |
 | Brown Eared Pheasant | 褐马鸡 | Crossoptilon mantchuricum | 2026-08-16 | Codex source and bilingual audit |
 | Brown pelican | 褐鹈鹕 | Pelecanus occidentalis | 2026-08-16 | Codex source and bilingual audit |
@@ -156,6 +157,7 @@
 | Eurasian Blue Tit | 蓝山雀 | Cyanistes caeruleus | 2026-08-16 | Codex source and bilingual audit |
 | Eurasian Coot | 骨顶鸡 | Fulica atra | 2026-08-16 | Codex source and bilingual audit |
 | Eurasian Golden Oriole | 金黄鹂 | Oriolus oriolus | 2026-08-16 | Codex source and bilingual audit |
+| Eurasian Goshawk | 苍鹰 | Astur gentilis | 2026-08-17 | Codex source and bilingual audit |
 | Eurasian Lynx | 欧亚猞猁 | Lynx lynx | 2026-08-16 | Codex source and bilingual audit |
 | Eurasian Magpie | 欧亚喜鹊 | Pica pica | 2026-08-16 | Codex source and bilingual audit |
 | European anglerfish | 欧洲鮟鱇 | Lophius piscatorius | 2026-08-16 | Codex source and bilingual audit |
@@ -183,32 +185,276 @@
 | Giant Otter | 巨獭 | Pteronura brasiliensis | 2026-08-16 | Codex source and bilingual audit |
 | Giant Pacific Octopus | 北太平洋巨型章鱼 | Enteroctopus dofleini | 2026-08-16 | Codex source and bilingual audit |
 | Giant Panda | 大熊猫 | Ailuropoda melanoleuca | 2026-08-16 | Codex source and bilingual audit |
+| Gila Monster | 毒蜥 | Heloderma suspectum | 2026-08-17 | Codex source and bilingual audit |
+| Giraffe | 长颈鹿 | Giraffa camelopardalis | 2026-08-17 | Codex source and bilingual audit |
+| Giraffe Stag Beetle | 长颈鹿锯锹甲 | Prosopocoilus girafa | 2026-08-17 | Codex source and bilingual audit |
+| Glass Frog | 玻璃蛙 | Hyalinobatrachium fleischmanni | 2026-08-17 | Codex source and bilingual audit |
+| Goblin Shark | 欧氏尖吻鲨 | Mitsukurina owstoni | 2026-08-17 | Codex source and bilingual audit |
+| Golden Jackal | 亚洲胡狼 | Canis aureus | 2026-08-17 | Codex source and bilingual audit |
+| Golden Pheasant | 红腹锦鸡 | Chrysolophus pictus | 2026-08-17 | Codex source and bilingual audit |
+| Golden Poison Frog | 黄金箭毒蛙 | Phyllobates terribilis | 2026-08-17 | Codex source and bilingual audit |
+| Golden Snub-nosed Monkey | 川金丝猴 | Rhinopithecus roxellana | 2026-08-17 | Codex source and bilingual audit |
+| Golden Tree Snake | 金花蛇 | Chrysopelea ornata | 2026-08-17 | Codex source and bilingual audit |
+| Golden-rumped Elephant Shrew | 黄臀象鼩 | Rhynchocyon chrysopygus | 2026-08-17 | Codex source and bilingual audit |
+| Goliath Birdeater | 歌利亚食鸟蛛 | Theraphosa blondi | 2026-08-17 | Codex source and bilingual audit |
+| Gopher Snake | 北美岸蛇 | Pituophis catenifer | 2026-08-17 | Codex source and bilingual audit |
+| Grass Carp | 草鱼 | Ctenopharyngodon idella | 2026-08-17 | Codex source and bilingual audit |
+| Gray Wolf | 灰狼 | Canis lupus | 2026-08-17 | Codex source and bilingual audit |
+| Great Argus | 大眼斑雉 | Argusianus argus | 2026-08-17 | Codex source and bilingual audit |
+| Great bittern | 大麻鳽 | Botaurus stellaris | 2026-08-17 | Codex source and bilingual audit |
+| Great Blue Heron | 大蓝鹭 | Ardea herodias | 2026-08-17 | Codex source and bilingual audit |
+| Great cormorant | 普通鸬鹚 | Phalacrocorax carbo | 2026-08-17 | Codex source and bilingual audit |
 | Great Crested Grebe | 凤头䴙䴘 | Podiceps cristatus | 2026-08-16 | Codex source and bilingual audit |
+| Great dusky swift | 大暗雨燕 | Cypseloides senex | 2026-08-17 | Codex source and bilingual audit |
+| Great Gray Owl | 乌林鸮 | Strix nebulosa | 2026-08-17 | Codex source and bilingual audit |
+| Great Hammerhead | 无刺锤头鲨 | Sphyrna mokarran | 2026-08-17 | Codex source and bilingual audit |
 | Great Hornbill | 双角犀鸟 | Buceros bicornis | 2026-08-16 | Codex source and bilingual audit |
+| Great White Pelican | 大白鹈鹕 | Pelecanus onocrotalus | 2026-08-17 | Codex source and bilingual audit |
+| Great White Shark | 大白鲨 | Carcharodon carcharias | 2026-08-17 | Codex source and bilingual audit |
+| Greater Bird-of-paradise | 大天堂鸟 | Paradisaea apoda | 2026-08-17 | Codex source and bilingual audit |
+| Greater Blue-ringed Octopus | 大蓝环章鱼 | Hapalochlaena lunulata | 2026-08-17 | Codex source and bilingual audit |
+| Greater Flamingo | 大红鹳 | Phoenicopterus roseus | 2026-08-17 | Codex source and bilingual audit |
+| Greater honeyguide | 大响蜜鴷 | Indicator indicator | 2026-08-17 | Codex source and bilingual audit |
 | Greater Rhea | 大美洲鸵 | Rhea americana | 2026-08-16 | Codex source and bilingual audit |
+| Green Anaconda | 森蚺 | Eunectes murinus | 2026-08-17 | Codex source and bilingual audit |
+| Green Iguana | 绿鬣蜥 | Iguana iguana | 2026-08-17 | Codex source and bilingual audit |
+| Green peafowl | 绿孔雀 | Pavo muticus | 2026-08-17 | Codex source and bilingual audit |
+| Green Sea Turtle | 绿海龟 | Chelonia mydas | 2026-08-17 | Codex source and bilingual audit |
+| Grevy's Zebra | 细纹斑马 | Equus grevyi | 2026-08-17 | Codex source and bilingual audit |
+| Grey Fox | 灰狐 | Urocyon cinereoargenteus | 2026-08-17 | Codex source and bilingual audit |
+| Grey Partridge | 灰山鹑 | Perdix perdix | 2026-08-17 | Codex source and bilingual audit |
+| Grey-headed Flying Fox | 灰头狐蝠 | Pteropus poliocephalus | 2026-08-17 | Codex source and bilingual audit |
+| Grooved brain coral | 迷宫脑珊瑚 | Diploria labyrinthiformis | 2026-08-17 | Codex source and bilingual audit |
+| Guanaco | 原驼 | Lama guanicoe | 2026-08-17 | Codex source and bilingual audit |
+| Harbor Porpoise | 港湾鼠海豚 | Phocoena phocoena | 2026-08-17 | Codex source and bilingual audit |
+| Harpy Eagle | 角雕 | Harpia harpyja | 2026-08-17 | Codex source and bilingual audit |
+| Hawaiian Bobtail Squid | 夏威夷短尾乌贼 | Euprymna scolopes | 2026-08-17 | Codex source and bilingual audit |
+| Hector's dolphin | 赫氏矮海豚 | Cephalorhynchus hectori | 2026-08-17 | Codex source and bilingual audit |
+| Himalayan Monal | 棕尾虹雉 | Lophophorus impejanus | 2026-08-17 | Codex source and bilingual audit |
+| Hippopotamus | 河马 | Hippopotamus amphibius | 2026-08-17 | Codex source and bilingual audit |
+| Hoatzin | 麝雉 | Opisthocomus hoazin | 2026-08-17 | Codex source and bilingual audit |
+| Honey Badger | 蜜獾 | Mellivora capensis | 2026-08-17 | Codex source and bilingual audit |
+| Horse | 马 | Equus caballus | 2026-08-17 | Codex source and bilingual audit |
+| House Cricket | 家蟋蟀 | Acheta domesticus | 2026-08-17 | Codex source and bilingual audit |
+| House Finch | 家朱雀 | Haemorhous mexicanus | 2026-08-17 | Codex source and bilingual audit |
+| House Fly | 家蝇 | Musca domestica | 2026-08-17 | Codex source and bilingual audit |
+| House Sparrow | 家麻雀 | Passer domesticus | 2026-08-17 | Codex source and bilingual audit |
+| Human | 人 | Homo sapiens | 2026-08-17 | Codex source and bilingual audit |
+| Humpback Anglerfish | 黑角鮟鱇 | Melanocetus johnsonii | 2026-08-17 | Codex source and bilingual audit |
+| Humpback Whale | 座头鲸 | Megaptera novaeangliae | 2026-08-17 | Codex source and bilingual audit |
+| Hyacinth Macaw | 紫蓝金刚鹦鹉 | Anodorhynchus hyacinthinus | 2026-08-17 | Codex source and bilingual audit |
+| I'iwi | 镰嘴管舌鸟 | Drepanis coccinea | 2026-08-17 | Codex source and bilingual audit |
+| Ili Pika | 伊犁鼠兔 | Ochotona iliensis | 2026-08-17 | Codex source and bilingual audit |
+| Immortal Jellyfish | 灯塔水母 | Turritopsis dohrnii | 2026-08-17 | Codex source and bilingual audit |
+| Indian Flying Fox | 印度狐蝠 | Pteropus medius | 2026-08-17 | Codex source and bilingual audit |
+| Indian Peafowl | 蓝孔雀 | Pavo cristatus | 2026-08-17 | Codex source and bilingual audit |
+| Indochinese spiky lizard | 冠棘蜥 | Acanthosaura coronata | 2026-08-17 | Codex source and bilingual audit |
+| Irrawaddy dolphin | 伊河海豚 | Orcaella brevirostris | 2026-08-17 | Codex source and bilingual audit |
+| Island scrub jay | 岛丛鸦 | Aphelocoma insularis | 2026-08-17 | Codex source and bilingual audit |
+| Ivory-billed Woodpecker | 象牙喙啄木鸟 | Campephilus principalis | 2026-08-17 | Codex source and bilingual audit |
+| Jaguar | 美洲豹 | Panthera onca | 2026-08-17 | Codex source and bilingual audit |
+| Japanese Eel | 日本鳗鲡 | Anguilla japonica | 2026-08-17 | Codex source and bilingual audit |
+| Japanese Spider Crab | 甘氏巨螯蟹 | Macrocheira kaempferi | 2026-08-17 | Codex source and bilingual audit |
+| Javan green magpie | 爪哇绿鹊 | Cissa thalassina | 2026-08-17 | Codex source and bilingual audit |
+| Kakapo | 鸮鹦鹉 | Strigops habroptilus | 2026-08-17 | Codex source and bilingual audit |
+| Kea | 啄羊鹦鹉 | Nestor notabilis | 2026-08-17 | Codex source and bilingual audit |
+| Keel-billed Toucan | 彩虹巨嘴鸟 | Ramphastos sulfuratus | 2026-08-17 | Codex source and bilingual audit |
+| King bird-of-paradise | 王极乐鸟 | Cicinnurus regius | 2026-08-17 | Codex source and bilingual audit |
+| King Cobra | 眼镜王蛇 | Ophiophagus hannah | 2026-08-17 | Codex source and bilingual audit |
+| King Penguin | 王企鹅 | Aptenodytes patagonicus | 2026-08-17 | Codex source and bilingual audit |
+| King's box jellyfish | 国王箱水母 | Malo kingi | 2026-08-17 | Codex source and bilingual audit |
+| Kit Fox | 敏狐 | Vulpes macrotis | 2026-08-17 | Codex source and bilingual audit |
+| Koala | 考拉 | Phascolarctos cinereus | 2026-08-17 | Codex source and bilingual audit |
+| Komodo Dragon | 科莫多巨蜥 | Varanus komodoensis | 2026-08-17 | Codex source and bilingual audit |
+| Lady Amherst's Pheasant | 白腹锦鸡 | Chrysolophus amherstiae | 2026-08-17 | Codex source and bilingual audit |
+| Large Flying Fox | 马来大狐蝠 | Pteropus vampyrus | 2026-08-17 | Codex source and bilingual audit |
+| Laughing Kookaburra | 笑翠鸟 | Dacelo novaeguineae | 2026-08-17 | Codex source and bilingual audit |
 | Leaf sheep | 黑岛长足海蛞蝓 | Costasiella kuroshimae | 2026-08-16 | Codex source and bilingual audit |
+| Leafy Seadragon | 叶海龙 | Phycodurus eques | 2026-08-17 | Codex source and bilingual audit |
+| Leatherback Sea Turtle | 棱皮龟 | Dermochelys coriacea | 2026-08-17 | Codex source and bilingual audit |
+| Leopard | 豹 | Panthera pardus | 2026-08-17 | Codex source and bilingual audit |
+| Leopard gecko | 豹纹守宫 | Eublepharis macularius | 2026-08-17 | Codex source and bilingual audit |
+| Leopard seal | 豹海豹 | Hydrurga leptonyx | 2026-08-17 | Codex source and bilingual audit |
+| Linnaeus's Two-toed Sloth | 二趾树懒 | Choloepus didactylus | 2026-08-17 | Codex source and bilingual audit |
+| Lion | 狮子 | Panthera leo | 2026-08-17 | Codex source and bilingual audit |
+| Lion's Mane Jellyfish | 狮鬃水母 | Cyanea capillata | 2026-08-17 | Codex source and bilingual audit |
+| Little bee-eater | 小蜂虎 | Merops pusillus | 2026-08-17 | Codex source and bilingual audit |
+| Little Brown Bat | 小棕蝠 | Myotis lucifugus | 2026-08-17 | Codex source and bilingual audit |
+| Little Egret | 小白鹭 | Egretta garzetta | 2026-08-17 | Codex source and bilingual audit |
+| Little spotted kiwi | 小斑几维鸟 | Apteryx owenii | 2026-08-17 | Codex source and bilingual audit |
+| Llama | 大羊驼 | Lama glama | 2026-08-17 | Codex source and bilingual audit |
+| Long-tailed Tit | 北长尾山雀 | Aegithalos caudatus | 2026-08-17 | Codex source and bilingual audit |
+| Longsnout Catfish | 长吻鮠 | Leiocassis longirostris | 2026-08-17 | Codex source and bilingual audit |
+| Lowland Streaked Tenrec | 低地斑纹马岛猬 | Hemicentetes semispinosus | 2026-08-17 | Codex source and bilingual audit |
+| Malayan tapir | 马来貘 | Tapirus indicus | 2026-08-17 | Codex source and bilingual audit |
+| Mallard | 绿头鸭 | Anas platyrhynchos | 2026-08-17 | Codex source and bilingual audit |
+| Mandarin Duck | 鸳鸯 | Aix galericulata | 2026-08-17 | Codex source and bilingual audit |
+| Maned Wolf | 鬃狼 | Chrysocyon brachyurus | 2026-08-17 | Codex source and bilingual audit |
+| Mangrove box jellyfish | 红树林箱水母 | Tripedalia cystophora | 2026-08-17 | Codex source and bilingual audit |
+| Marabou stork | 非洲秃鹳 | Leptoptilos crumenifer | 2026-08-17 | Codex source and bilingual audit |
+| Marine Iguana | 海鬣蜥 | Amblyrhynchus cristatus | 2026-08-17 | Codex source and bilingual audit |
+| Meerkat | 细尾獴 | Suricata suricatta | 2026-08-17 | Codex source and bilingual audit |
+| Mohol Bushbaby | 南非丛猴 | Galago moholi | 2026-08-17 | Codex source and bilingual audit |
+| Monarch butterfly | 帝王斑蝶 | Danaus plexippus | 2026-08-17 | Codex source and bilingual audit |
+| Moose | 驼鹿 | Alces alces | 2026-08-17 | Codex source and bilingual audit |
+| Mountain Goat | 雪羊 | Oreamnos americanus | 2026-08-17 | Codex source and bilingual audit |
+| Mountain Lion | 美洲狮 | Puma concolor | 2026-08-17 | Codex source and bilingual audit |
+| Muskox | 麝牛 | Ovibos moschatus | 2026-08-17 | Codex source and bilingual audit |
+| Mute Swan | 疣鼻天鹅 | Cygnus olor | 2026-08-17 | Codex source and bilingual audit |
+| Namaqua sandgrouse | 纳马夸沙鸡 | Pterocles namaqua | 2026-08-17 | Codex source and bilingual audit |
+| Narwhal | 独角鲸 | Monodon monoceros | 2026-08-17 | Codex source and bilingual audit |
+| Nevada dampwood termite | 内华达湿木白蚁 | Zootermopsis nevadensis | 2026-08-17 | Codex source and bilingual audit |
+| Nile Crocodile | 尼罗鳄 | Crocodylus niloticus | 2026-08-17 | Codex source and bilingual audit |
+| Nine-banded Armadillo | 九带犰狳 | Dasypus novemcinctus | 2026-08-17 | Codex source and bilingual audit |
+| Noisy pitta | 噪八色鸫 | Pitta versicolor | 2026-08-17 | Codex source and bilingual audit |
+| North American Deer Mouse | 北美鹿鼠 | Peromyscus maniculatus | 2026-08-17 | Codex source and bilingual audit |
+| Northern Cardinal | 北美红雀 | Cardinalis cardinalis | 2026-08-17 | Codex source and bilingual audit |
+| Northern elephant seal | 北象海豹 | Mirounga angustirostris | 2026-08-17 | Codex source and bilingual audit |
+| Northern Potoo | 北方林鸱 | Nyctibius jamaicensis | 2026-08-17 | Codex source and bilingual audit |
+| Northern river terrapin | 潮龟 | Batagur baska | 2026-08-17 | Codex source and bilingual audit |
+| Numbat | 袋食蚁兽 | Myrmecobius fasciatus | 2026-08-17 | Codex source and bilingual audit |
+| Nurse shark | 铰口鲨 | Ginglymostoma cirratum | 2026-08-17 | Codex source and bilingual audit |
+| Ocean Sunfish | 翻车鱼 | Mola mola | 2026-08-17 | Codex source and bilingual audit |
+| Ocellaris Clownfish | 眼斑双锯鱼(小丑鱼) | Amphiprion ocellaris | 2026-08-17 | Codex source and bilingual audit |
+| Ocelot | 虎猫 | Leopardus pardalis | 2026-08-17 | Codex source and bilingual audit |
+| Oilbird | 油鸱 | Steatornis caripensis | 2026-08-17 | Codex source and bilingual audit |
+| Orca | 虎鲸 | Orcinus orca | 2026-08-17 | Codex source and bilingual audit |
+| Orchid Mantis | 兰花螳螂 | Hymenopus coronatus | 2026-08-17 | Codex source and bilingual audit |
+| Pacific Angelshark | 加州扁鲨 | Squatina californica | 2026-08-17 | Codex source and bilingual audit |
+| Pallas's Cat | 兔狲 | Otocolobus manul | 2026-08-17 | Codex source and bilingual audit |
+| Paradise tree snake | 天堂金花蛇 | Chrysopelea paradisi | 2026-08-17 | Codex source and bilingual audit |
+| Patagonian mara | 巴塔哥尼亚豚鼠 | Dolichotis patagonum | 2026-08-17 | Codex source and bilingual audit |
+| Peacock Mantis Shrimp | 雀尾螳螂虾 | Odontodactylus scyllarus | 2026-08-17 | Codex source and bilingual audit |
+| Pelican eel | 吞噬鳗 | Eurypharynx pelecanoides | 2026-08-17 | Codex source and bilingual audit |
+| Peregrine Falcon | 游隼 | Falco peregrinus | 2026-08-17 | Codex source and bilingual audit |
+| Perrier's Sifaka | 佩氏跳狐猴 | Propithecus perrieri | 2026-08-17 | Codex source and bilingual audit |
+| Philippine Flying Lemur | 斑鼯猴 | Cynocephalus volans | 2026-08-17 | Codex source and bilingual audit |
+| Pink Fairy Armadillo | 粉红犰狳 | Chlamyphorus truncatus | 2026-08-17 | Codex source and bilingual audit |
+| Plains Zebra | 平原斑马 | Equus quagga | 2026-08-17 | Codex source and bilingual audit |
+| Platypus | 鸭嘴兽 | Ornithorhynchus anatinus | 2026-08-17 | Codex source and bilingual audit |
+| Polar Bear | 北极熊 | Ursus maritimus | 2026-08-17 | Codex source and bilingual audit |
+| Portuguese man o' war | 僧帽水母 | Physalia physalis | 2026-08-17 | Codex source and bilingual audit |
+| Proboscis monkey | 长鼻猴 | Nasalis larvatus | 2026-08-17 | Codex source and bilingual audit |
+| Pronghorn | 叉角羚 | Antilocapra americana | 2026-08-17 | Codex source and bilingual audit |
+| Przewalski's Gazelle | 普氏原羚 | Procapra przewalskii | 2026-08-17 | Codex source and bilingual audit |
 | Purple Frog | 紫蛙 | Nasikabatrachus sahyadrensis | 2026-08-16 | Codex source and bilingual audit |
+| Quokka | 短尾矮袋鼠 | Setonix brachyurus | 2026-08-17 | Codex source and bilingual audit |
+| Raccoon | 浣熊 | Procyon lotor | 2026-08-17 | Codex source and bilingual audit |
+| Raccoon Dog | 貉 | Nyctereutes procyonoides | 2026-08-17 | Codex source and bilingual audit |
+| Red Fox | 赤狐 | Vulpes vulpes | 2026-08-17 | Codex source and bilingual audit |
+| Red Junglefowl | 原鸡 | Gallus gallus | 2026-08-17 | Codex source and bilingual audit |
+| Red Kangaroo | 红袋鼠 | Osphranter rufus | 2026-08-17 | Codex source and bilingual audit |
+| Red Lionfish | 蓑鲉 | Pterois volitans | 2026-08-17 | Codex source and bilingual audit |
+| Red Panda | 小熊猫 | Ailurus fulgens | 2026-08-17 | Codex source and bilingual audit |
 | Red Ruffed Lemur | 红领狐猴 | Varecia rubra | 2026-08-16 | Codex source and bilingual audit |
+| Red squirrel | 红松鼠 | Sciurus vulgaris | 2026-08-17 | Codex source and bilingual audit |
+| Red swamp crayfish | 克氏原螯虾 | Procambarus clarkii | 2026-08-17 | Codex source and bilingual audit |
+| Red-crowned crane | 丹顶鹤 | Grus japonensis | 2026-08-17 | Codex source and bilingual audit |
+| Red-eyed Tree Frog | 红眼树蛙 | Agalychnis callidryas | 2026-08-17 | Codex source and bilingual audit |
+| Red-legged seriema | 红腿叫鹤 | Cariama cristata | 2026-08-17 | Codex source and bilingual audit |
+| Red-tailed Hawk | 红尾鵟 | Buteo jamaicensis | 2026-08-17 | Codex source and bilingual audit |
+| Reindeer | 驯鹿 | Rangifer tarandus | 2026-08-17 | Codex source and bilingual audit |
+| Resplendent quetzal | 凤尾绿咬鹃 | Pharomachrus mocinno | 2026-08-17 | Codex source and bilingual audit |
+| Reticulated python | 网纹蟒 | Malayopython reticulatus | 2026-08-17 | Codex source and bilingual audit |
+| Rhinoceros Hornbill | 马来犀鸟 | Buceros rhinoceros | 2026-08-17 | Codex source and bilingual audit |
+| Ring-legged earwig | 环足蠼螋 | Euborellia annulipes | 2026-08-17 | Codex source and bilingual audit |
+| Ring-tailed Lemur | 环尾狐猴 | Lemur catta | 2026-08-17 | Codex source and bilingual audit |
 | Rock Hyrax | 岩蹄兔 | Procavia capensis | 2026-08-16 | Codex source and bilingual audit |
+| Ruby-throated Hummingbird | 红喉蜂鸟 | Archilochus colubris | 2026-08-17 | Codex source and bilingual audit |
+| Rüppell's Fox | 吕氏狐 | Vulpes rueppellii | 2026-08-17 | Codex source and bilingual audit |
+| Saiga Antelope | 高鼻羚羊 | Saiga tatarica | 2026-08-17 | Codex source and bilingual audit |
+| Saltwater Crocodile | 湾鳄 | Crocodylus porosus | 2026-08-17 | Codex source and bilingual audit |
+| Sand Cat | 沙猫 | Felis margarita | 2026-08-17 | Codex source and bilingual audit |
+| Sandhill crane | 沙丘鹤 | Antigone canadensis | 2026-08-17 | Codex source and bilingual audit |
+| Saola | 中南大羚 | Pseudoryx nghetinhensis | 2026-08-17 | Codex source and bilingual audit |
+| Scarlet Ibis | 美洲红鹮 | Eudocimus ruber | 2026-08-17 | Codex source and bilingual audit |
+| Scarlet Macaw | 绯红金刚鹦鹉 | Ara macao | 2026-08-17 | Codex source and bilingual audit |
+| Sea Otter | 海獭 | Enhydra lutris | 2026-08-17 | Codex source and bilingual audit |
+| Secretary Bird | 秘书鸟 | Sagittarius serpentarius | 2026-08-17 | Codex source and bilingual audit |
+| Serval | 薮猫 | Leptailurus serval | 2026-08-17 | Codex source and bilingual audit |
+| Shoebill Stork | 鲸头鹳 | Balaeniceps rex | 2026-08-17 | Codex source and bilingual audit |
 | Short-beaked Echidna | 短吻针鼹 | Tachyglossus aculeatus | 2026-08-16 | Codex source and bilingual audit |
+| Siberian Musk Deer | 原麝 | Moschus moschiferus | 2026-08-17 | Codex source and bilingual audit |
+| Sika Deer | 梅花鹿 | Cervus nippon | 2026-08-17 | Codex source and bilingual audit |
+| Silky Anteater | 侏食蚁兽 | Cyclopes didactylus | 2026-08-17 | Codex source and bilingual audit |
+| Silver Carp | 鲢 | Hypophthalmichthys molitrix | 2026-08-17 | Codex source and bilingual audit |
+| Sloth Bear | 懒熊 | Melursus ursinus | 2026-08-17 | Codex source and bilingual audit |
+| Snow Leopard | 雪豹 | Panthera uncia | 2026-08-17 | Codex source and bilingual audit |
+| Snowshoe Hare | 雪鞋兔 | Lepus americanus | 2026-08-17 | Codex source and bilingual audit |
+| Snowy Owl | 雪鸮 | Bubo scandiacus | 2026-08-17 | Codex source and bilingual audit |
+| South American tapir | 南美貘 | Tapirus terrestris | 2026-08-17 | Codex source and bilingual audit |
+| Southern Black Widow | 南方黑寡妇 | Latrodectus mactans | 2026-08-17 | Codex source and bilingual audit |
+| Southern Blue-ringed Octopus | 南方蓝环章鱼 | Hapalochlaena maculosa | 2026-08-17 | Codex source and bilingual audit |
+| Southern Cassowary | 南方鹤鸵 | Casuarius casuarius | 2026-08-17 | Codex source and bilingual audit |
+| Southern Pygmy Slow Loris | 南小懒猴 | Xanthonycticebus pygmaeus | 2026-08-17 | Codex source and bilingual audit |
+| Spectacled Bear | 眼镜熊 | Tremarctos ornatus | 2026-08-17 | Codex source and bilingual audit |
+| Spinner Dolphin | 长吻飞旋海豚 | Stenella longirostris | 2026-08-17 | Codex source and bilingual audit |
+| Spot-fin porcupinefish | 密斑刺鲀 | Diodon hystrix | 2026-08-17 | Codex source and bilingual audit |
+| Spotted Hyena | 斑鬣狗 | Crocuta crocuta | 2026-08-17 | Codex source and bilingual audit |
 | Star-nosed Mole | 星鼻鼹 | Condylura cristata | 2026-08-16 | Codex source and bilingual audit |
+| Strawberry Poison Dart Frog | 草莓箭毒蛙 | Oophaga pumilio | 2026-08-17 | Codex source and bilingual audit |
+| Stresemann's Bristlefront | 斯特雷泽曼须额穴鸟 | Merulaxis stresemanni | 2026-08-17 | Codex source and bilingual audit |
+| Striated Frogfish | 条纹躄鱼 | Antennarius striatus | 2026-08-17 | Codex source and bilingual audit |
+| Striped Blue-ringed Octopus | 条纹蓝环章鱼 | Hapalochlaena fasciata | 2026-08-17 | Codex source and bilingual audit |
+| Striped Skunk | 条纹臭鼬 | Mephitis mephitis | 2026-08-17 | Codex source and bilingual audit |
+| Sugar glider | 蜜袋鼯 | Petaurus breviceps | 2026-08-17 | Codex source and bilingual audit |
+| Summer Tanager | 夏唐纳雀 | Piranga rubra | 2026-08-17 | Codex source and bilingual audit |
+| Sunda Pangolin | 马来穿山甲 | Manis javanica | 2026-08-17 | Codex source and bilingual audit |
+| Superb Fairy-wren | 壮丽细尾鹩莺 | Malurus cyaneus | 2026-08-17 | Codex source and bilingual audit |
+| Surinam Horned Frog | 哥伦比亚角蛙 | Ceratophrys cornuta | 2026-08-17 | Codex source and bilingual audit |
+| Swan Goose | 鸿雁 | Anser cygnoides | 2026-08-17 | Codex source and bilingual audit |
+| Takin | 羚牛 | Budorcas taxicolor | 2026-08-17 | Codex source and bilingual audit |
+| Tasmanian Devil | 袋獾 | Sarcophilus harrisii | 2026-08-17 | Codex source and bilingual audit |
+| Temminck's Tragopan | 红腹角雉 | Tragopan temminckii | 2026-08-17 | Codex source and bilingual audit |
+| Texas Horned Lizard | 德克萨斯角蜥 | Phrynosoma cornutum | 2026-08-17 | Codex source and bilingual audit |
+| Thorn Bug | 刺角蝉 | Umbonia crassicornis | 2026-08-17 | Codex source and bilingual audit |
+| Tibetan Antelope | 藏羚羊 | Pantholops hodgsonii | 2026-08-17 | Codex source and bilingual audit |
+| Tiger | 老虎 | Panthera tigris | 2026-08-17 | Codex source and bilingual audit |
+| Tiger Puffer | 红鳍东方鲀 | Takifugu rubripes | 2026-08-17 | Codex source and bilingual audit |
+| Tiger shark | 鼬鲨 | Galeocerdo cuvier | 2026-08-17 | Codex source and bilingual audit |
+| Toco Toucan | 巨嘴鸟 | Ramphastos toco | 2026-08-17 | Codex source and bilingual audit |
 | Tuatara | 斑点楔齿蜥 | Sphenodon punctatus | 2026-08-16 | Codex source and bilingual audit |
+| Tufted deer | 毛冠鹿 | Elaphodus cephalophus | 2026-08-17 | Codex source and bilingual audit |
+| Tufted puffin | 簇绒海鹦 | Fratercula cirrhata | 2026-08-17 | Codex source and bilingual audit |
+| Turkey Vulture | 红头美洲鹫 | Cathartes aura | 2026-08-17 | Codex source and bilingual audit |
+| Upland Buzzard | 大鵟 | Buteo hemilasius | 2026-08-17 | Codex source and bilingual audit |
+| Vaquita | 小头鼠海豚 | Phocoena sinus | 2026-08-17 | Codex source and bilingual audit |
+| Veiled Chameleon | 高冠变色龙 | Chamaeleo calyptratus | 2026-08-17 | Codex source and bilingual audit |
+| Victoria Crowned Pigeon | 维多利亚冠鸠 | Goura victoria | 2026-08-17 | Codex source and bilingual audit |
+| Victorian grassland earless dragon | 维多利亚草原无耳龙 | Tympanocryptis pinguicolla | 2026-08-17 | Codex source and bilingual audit |
+| Vicuña | 小羊驼 | Vicugna vicugna | 2026-08-17 | Codex source and bilingual audit |
+| Virginia Opossum | 北美负鼠 | Didelphis virginiana | 2026-08-17 | Codex source and bilingual audit |
+| Wallace's Flying Frog | 华莱士飞蛙 | Rhacophorus nigropalmatus | 2026-08-17 | Codex source and bilingual audit |
+| Wallace's Giant Bee | 华莱士巨蜂 | Megachile pluto | 2026-08-17 | Codex source and bilingual audit |
+| Walrus | 海象 | Odobenus rosmarus | 2026-08-17 | Codex source and bilingual audit |
+| Wandering Albatross | 漂泊信天翁 | Diomedea exulans | 2026-08-17 | Codex source and bilingual audit |
+| Water Deer | 獐 | Hydropotes inermis | 2026-08-17 | Codex source and bilingual audit |
+| West Indian Manatee | 西印度海牛 | Trichechus manatus | 2026-08-17 | Codex source and bilingual audit |
+| Western Gorilla | 大猩猩 | Gorilla gorilla | 2026-08-17 | Codex source and bilingual audit |
+| Whale Shark | 鲸鲨 | Rhincodon typus | 2026-08-17 | Codex source and bilingual audit |
+| Whiskered Screech Owl | 须角鸮 | Megascops trichopsis | 2026-08-17 | Codex source and bilingual audit |
+| White Rhinoceros | 白犀牛 | Ceratotherium simum | 2026-08-17 | Codex source and bilingual audit |
+| White-throated dipper | 河乌 | Cinclus cinclus | 2026-08-17 | Codex source and bilingual audit |
+| White-winged vampire bat | 白翼吸血蝠 | Diaemus youngii | 2026-08-17 | Codex source and bilingual audit |
+| White's Tree Frog | 白氏树蛙 | Pelodryas caerulea | 2026-08-17 | Codex source and bilingual audit |
+| Whooping Crane | 美洲鹤 | Grus americana | 2026-08-17 | Codex source and bilingual audit |
+| Wild Bactrian Camel | 野骆驼 | Camelus ferus | 2026-08-17 | Codex source and bilingual audit |
+| Wild Boar | 野猪 | Sus scrofa | 2026-08-17 | Codex source and bilingual audit |
+| Wild Horse | 野马 | Equus ferus | 2026-08-17 | Codex source and bilingual audit |
 | Wildcat | 斑猫 | Felis silvestris | 2026-08-16 | Codex source and bilingual audit |
+| Wilson's Bird-of-paradise | 威氏极乐鸟 | Diphyllodes respublica | 2026-08-17 | Codex source and bilingual audit |
+| Wolverine | 狼獾 | Gulo gulo | 2026-08-17 | Codex source and bilingual audit |
+| Yangtze finless porpoise | 长江江豚 | Neophocaena asiaeorientalis | 2026-08-17 | Codex source and bilingual audit |
+| Yangtze giant softshell turtle | 斑鳖 | Rafetus swinhoei | 2026-08-17 | Codex source and bilingual audit |
+| Yellow Warbler | 黄林莺 | Setophaga petechia | 2026-08-17 | Codex source and bilingual audit |
+| Yellow-bellied Sea Snake | 黄腹海蛇 | Hydrophis platurus | 2026-08-17 | Codex source and bilingual audit |
+| Zebra jumping spider | 斑马跳蛛 | Salticus scenicus | 2026-08-17 | Codex source and bilingual audit |
 
 ## Remaining legacy records by class
 
 | Class | Pending |
 |---|---:|
-| Mammal | 105 |
-| Bird | 76 |
-| Reptile | 22 |
-| Fish | 20 |
-| Insect | 9 |
-| Amphibian | 7 |
-| Cnidarian | 6 |
-| Mollusk | 4 |
-| Arachnid | 3 |
-| Crustacean | 3 |
+
 
 ## Required completion gate
 

@@ -2,7 +2,7 @@
 
 - Scope: 100 existing records, `brown-pelican` through `giant-panda`
 - Review date: 2026-08-16
-- Batch result: content and map gates passed; 98 image decisions resolved, 2 remain on the image follow-up list
+- Batch result: content and map gates passed; all records have a published image, with 2 remaining on the image replacement list
 - Permanent status source: `docs/qc-batches/animal-qc-ledger.json`
 
 ## Completed gates
@@ -30,14 +30,14 @@
 ## Open image follow-ups
 
 - `cebu-flowerpecker`: original image retained and labeled `replacement-needed`; no exact, visually suitable candidate met the minimum image-size gate.
-- `galapagos-tortoise`: old image hidden because it depicts a living generic Galápagos tortoise and is not valid evidence for the extinct Floreana taxon. The page intentionally shows the no-image state until a defensible historical image is found.
+- `galapagos-tortoise`: original living Galápagos tortoise image restored at the owner's request so the page is never blank. It is representative only, not verified as the extinct pure Floreana taxon, and remains labeled `replacement-needed` until a defensible historical image is found.
 
 ## Browser and map verification
 
 - Chinese primary path: Amap domestic route loaded valid tiles with the retained range overlay and center marker.
 - Chinese failover: a controlled primary-route failure switched automatically to the Amap backup route; tiles, polygon, and marker remained visible.
 - English path: CARTO loaded valid tiles with the retained range overlay and center marker.
-- Corrected Floreana Giant Tortoise page rendered the corrected bilingual identity and EX status without a broken image or browser console errors.
+- Corrected Floreana Giant Tortoise page rendered the corrected bilingual identity, EX status, and restored representative image without browser console errors.
 
 ## Progress after this batch
 

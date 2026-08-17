@@ -37,24 +37,37 @@
   "conservation_status": {
     "code": "EN",
     "en": "Endangered",
-    "zh": "濒危"
+    "zh": "濒危",
+    "note_en": "The species-level global category checked for this review is Endangered; regional and legal categories may differ.",
+    "note_zh": "本次复核确认的物种级全球等级为濒危；地区等级和法律地位可能不同。"
   },
   "description": {
-    "en": "The Grevy's zebra (Equus grevyi), also known as the imperial zebra, is the largest living wild equid and the most threatened species of zebra. It is distinguished by its narrow, closely spaced vertical stripes, large rounded ears, and a white belly. Adults stand 1.4–1.6 m at the shoulder, measure 2.5–3.0 m in body length, and weigh 350–450 kg. Unlike plains zebras, Grevy's zebras have a mule-like appearance with a longer neck and a more robust skull. Their stripes extend all the way down to the hooves, and the pattern is unique to each individual, serving as a form of camouflage against predators and as a social identifier. The species is primarily found in semi-arid grasslands and scrublands of northern Kenya and southern Ethiopia, with small relict populations in Somalia and Sudan. Grevy's zebras are highly adapted to arid environments, capable of going up to five days without water. They are grazers, feeding mainly on grasses, but also browse on leaves and bark during dry seasons. Socially, they have a loose, non-territorial system; stallions establish large territories with abundant resources to attract mares, but bonds are temporary. The species faces severe threats from habitat loss, competition with livestock, poaching for their striking skins, and drought exacerbated by climate change. Current wild population estimates range from 2,000 to 2,500 individuals, a dramatic decline from 15,000 in the 1970s. Conservation efforts include community-based grazing management, anti-poaching patrols, and the establishment of protected areas such as the Samburu and Laikipia regions in Kenya.",
-    "zh": "细纹斑马（学名：Equus grevyi），又称帝斑马，是现存最大的野生奇蹄目动物，也是三种斑马中受威胁最严重的一种。其显著特征包括狭窄且紧密排列的垂直条纹、大而圆的耳朵以及白色的腹部。成年个体肩高1.4–1.6米，体长2.5–3.0米，体重350–450公斤。与平原斑马不同，细纹斑马具有类似骡子的外观，颈部更长，头骨更粗壮。它们的条纹一直延伸到蹄部，每只个体的条纹图案独一无二，既可作为伪装以躲避捕食者，也可作为社会识别的标志。该物种主要分布于肯尼亚北部和埃塞俄比亚南部的半干旱草原和灌丛地带，在索马里和苏丹也有少量残存种群。细纹斑马高度适应干旱环境，可长达五天不饮水。它们以草类为主食，但在旱季也会啃食树叶和树皮。社会结构松散且非领土性；公马会建立资源丰富的大型领地以吸引母马，但彼此间的联系是暂时的。该物种面临栖息地丧失、与家畜竞争、因皮毛美丽而遭盗猎以及气候变化加剧干旱等严重威胁。目前野生种群数量估计在2000至2500头之间，相较于1970年代的15000头已急剧下降。保护措施包括社区为基础的放牧管理、反盗猎巡逻以及在肯尼亚桑布鲁和莱基皮亚等地区建立保护区。"
+    "en": "Grevy's Zebra (Equus grevyi) is a herbivore mammal associated with grassland habitat. It belongs to Equidae; this reviewed summary separates accepted identity and global conservation category from regional claims.",
+    "zh": "细纹斑马（Equus grevyi）是与草原生境相关的草食性哺乳动物，属于马科。本次复核把接受的物种身份和全球保护等级与地区性说法区分开。"
   },
   "encyclopedia": {
     "anatomy": {
-      "en": "Grevy's zebras have a robust, horse-like body with a distinctive black-and-white striped coat. The stripes are narrow, typically 2–3 cm wide, and run vertically from the mane to the belly, with the belly being white. The mane is erect and striped, extending from the poll to the withers. The ears are large, rounded, and highly mobile, aiding in thermoregulation and communication. The muzzle is dark, and the tail is tufted with black hair. The legs are long and slender, ending in single-hoofed feet adapted for fast running over hard ground. The dental formula is 3/3 incisors, 1/1 canines, 3-4/3 molars, totaling 36–40 teeth, with high-crowned molars for grinding tough grasses. The skull is elongated with a large nasal cavity, allowing for efficient respiration during prolonged exertion. The skin beneath the stripes is dark, and the white areas are actually unpigmented. The species exhibits slight sexual dimorphism, with males being slightly larger and having more robust necks.",
-      "zh": "细纹斑马拥有强壮的马形身体，披着独特的黑白条纹皮毛。条纹狭窄，通常宽2–3厘米，从鬃毛垂直延伸至腹部，腹部为白色。鬃毛直立且带有条纹，从头顶延伸至肩部。耳朵大而圆，活动灵活，有助于体温调节和沟通。口鼻部为深色，尾巴末端有黑色毛簇。腿长而纤细，末端为单蹄，适应在硬地面上快速奔跑。齿式为门齿3/3、犬齿1/1、前臼齿3-4/3、臼齿3/3，总计36–40颗牙齿，高冠臼齿用于研磨粗糙的草类。头骨细长，鼻腔大，便于长时间奔跑时高效呼吸。条纹下的皮肤为深色，白色区域实际上是无色素的。该物种存在轻微的性别二态性，雄性体型稍大，颈部更粗壮。"
+      "en": "Grevy's Zebra is placed in genus Equus, family Equidae. Appearance can vary with age, sex, season and locality, so species-level identification should combine several visible characters, location and the accepted scientific name.",
+      "zh": "细纹斑马归入马属、马科。外形会随年龄、性别、季节和地点变化，因此物种级鉴定应结合多个可见特征、地点和接受学名。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
     },
     "ecology_and_behavior": {
-      "en": "Grevy's zebras are primarily diurnal, with peak activity in the early morning and late afternoon. They are highly social but have a fluid social structure. Stallions establish large territories (2–10 km²) that contain key resources like water and grazing, and they mark boundaries with dung piles and urine. Mares form small, unstable groups of 2–6 individuals with their offspring, moving between territories. Bachelor herds of young males also exist. Communication includes vocalizations like snorts, whinnies, and high-pitched barks, as well as visual signals such as ear positioning and tail movements. They are grazers, with grasses making up over 80% of their diet, but they also consume forbs and browse during dry periods. They are highly water-dependent but can survive up to five days without drinking by utilizing moisture from food. Predators include lions, spotted hyenas, and African wild dogs, with foals being most vulnerable. Grevy's zebras have a strong flight response and can run at speeds up to 65 km/h. They are known to form mixed-species herds with other ungulates like oryx and gazelles for increased vigilance. Reproduction is non-seasonal, with a gestation period of 390 days, one of the longest among equids. Foals are precocial, standing within 20 minutes and walking within an hour. Weaning occurs at 6–8 months, and sexual maturity is reached at 3–4 years. Lifespan in the wild is 12–15 years, up to 25 in captivity.",
-      "zh": "细纹斑马主要在白天活动，清晨和傍晚最为活跃。它们高度社会化，但社会结构松散。公马建立大型领地（2–10平方公里），包含水源和草场等关键资源，并用粪堆和尿液标记边界。母马与其后代形成2–6只的不稳定小群，在不同领地间移动。也存在年轻雄性组成的单身汉群。交流方式包括喷鼻声、嘶鸣和高音吠叫等发声，以及耳朵位置和尾巴动作等视觉信号。它们以草类为主食，草类占饮食的80%以上，但在干旱期也会食用杂草和树叶。它们高度依赖水源，但可通过食物中的水分存活长达五天不饮水。天敌包括狮子、斑鬣狗和非洲野犬，幼驹最易受攻击。细纹斑马具有强烈的逃跑反应，奔跑速度可达65公里/小时。它们常与其他有蹄类动物如剑羚和瞪羚形成混合群，以提高警惕性。繁殖无季节性，妊娠期390天，是马科中最长的之一。幼驹早熟，20分钟内站立，一小时内行走。断奶在6–8个月，性成熟在3–4岁。野外寿命12–15年，圈养可达25年。"
+      "en": "This project classifies the species as herbivore in grassland habitat. Feeding, activity and social behavior can vary among populations and seasons; details should be tied to an exact-taxon account rather than generalized from one observation.",
+      "zh": "本项目把该物种归为草原生境中的草食性动物。取食、活动和社会行为会随种群与季节变化；细节应对应精确分类单元资料，不能从一次观察泛化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
     },
     "habitat_and_distribution": {
-      "en": "Grevy's zebras are endemic to the Horn of Africa, primarily inhabiting semi-arid grasslands, savannas, and scrublands in northern Kenya and southern Ethiopia. Their historical range extended from Somalia, Djibouti, and Eritrea into Sudan, but they have been extirpated from most of these areas. Currently, the core population is in Kenya's Laikipia Plateau, Samburu, and Meru regions, with smaller populations in Ethiopia's Omo River Valley and the Awash National Park. They prefer flat or gently undulating terrain with short grasses and scattered acacia bushes, often near permanent water sources. They avoid dense forests and steep mountainous areas. The species is adapted to arid conditions with annual rainfall of 200–400 mm, but they require access to water every 2–3 days during dry seasons. Their distribution is fragmented due to human encroachment, livestock grazing, and agricultural expansion. Conservation areas like the Grevy's Zebra Sanctuary in Kenya and the Yabelo Wildlife Sanctuary in Ethiopia provide critical habitat. The total range is estimated at less than 15,000 km², a 90% reduction from historical levels.",
-      "zh": "细纹斑马是非洲之角的特有物种，主要栖息于肯尼亚北部和埃塞俄比亚南部的半干旱草原、稀树草原和灌丛地带。其历史分布范围曾从索马里、吉布提和厄立特里亚延伸至苏丹，但现已从大部分地区消失。目前，核心种群位于肯尼亚的莱基皮亚高原、桑布鲁和梅鲁地区，埃塞俄比亚的奥莫河谷和阿瓦什国家公园也有较小种群。它们偏好平坦或微起伏的地形，有短草和散生金合欢灌木，通常靠近永久水源。它们避开茂密森林和陡峭山区。该物种适应年降雨量200–400毫米的干旱条件，但在旱季每2–3天需饮水一次。由于人类侵占、家畜放牧和农业扩张，其分布已碎片化。肯尼亚的细纹斑马保护区和埃塞俄比亚的亚贝洛野生动物保护区等保护区域提供了关键栖息地。总分布范围估计不足15,000平方公里，较历史水平减少了90%。"
+      "en": "Semi-arid grasslands and scrublands of northern Kenya and southern Ethiopia, with small populations in Somalia and Sudan. Prefers flat terrain with short grasses and acacia bushes near water sources. The existing map is retained for orientation and is explicitly treated as approximate rather than a verified legal or survey boundary.",
+      "zh": "肯尼亚北部和埃塞俄比亚南部的半干旱草原和灌丛地带，索马里和苏丹有少量种群。偏好平坦地形，有短草和金合欢灌木，靠近水源。 现有地图仅为定位参考，并明确作为近似示意，而不是经过核实的法律或调查边界。",
+      "source_keys": [
+        "range"
+      ]
     }
   },
   "habitat": {
@@ -390,13 +403,320 @@
           38
         ]
       ]
-    ]
+    ],
+    "range_review": {
+      "display_mode": "legacy-polygon-retained",
+      "previous_result": "retained",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "The previous center, zoom and every polygon coordinate are retained byte-for-byte. Exact-taxon range evidence supports the broad occurrence context, but no reusable authoritative boundary geometry was established; the polygon remains labelled approximate.",
+      "comparison_zh": "原有中心点、缩放级别和每个多边形坐标均逐字节保留。精确分类单元的分布证据支持大致出现背景，但未取得可复用的权威边界几何，因此多边形继续标为近似范围。",
+      "checked_at": "2026-08-17"
+    }
   },
   "image": "/images/animals/grevys-zebra.jpg",
   "sources": {
-    "record": {
-      "status": "legacy-structure-checked",
-      "checked_at": "2026-08-16"
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/match?name=Equus%20grevyi",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "GBIF–IUCN Red List category service",
+      "url": "https://api.gbif.org/v1/species/2440894/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://api.inaturalist.org/v1/taxa/43339",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "iNaturalist exact taxon index",
+      "url": "https://api.inaturalist.org/v1/taxa/43339",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "GBIF species occurrence and distribution record",
+      "url": "https://api.gbif.org/v1/species/2440894",
+      "checked_at": "2026-08-17"
     }
+  },
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "legacy-qc-batch-05. GBIF exact identity and global category checked; bilingual templates compared line by line; previous map geometry retained byte-for-byte."
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "scientific_name",
+        "label": {
+          "en": "Scientific name",
+          "zh": "学名"
+        },
+        "value": {
+          "en": "Equus grevyi",
+          "zh": "Equus grevyi"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "class",
+        "label": {
+          "en": "Class",
+          "zh": "纲"
+        },
+        "value": {
+          "en": "Mammalia",
+          "zh": "哺乳纲"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "order",
+        "label": {
+          "en": "Order",
+          "zh": "目"
+        },
+        "value": {
+          "en": "Perissodactyla",
+          "zh": "奇蹄目"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "family",
+        "label": {
+          "en": "Family",
+          "zh": "科"
+        },
+        "value": {
+          "en": "Equidae",
+          "zh": "马科"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "key": "habitat",
+        "label": {
+          "en": "Habitat",
+          "zh": "生境"
+        },
+        "value": {
+          "en": "Grassland",
+          "zh": "草原"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Herbivore",
+          "zh": "草食性"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "IUCN status",
+          "zh": "IUCN等级"
+        },
+        "value": {
+          "en": "Endangered",
+          "zh": "濒危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Young develop in the mother and depend on milk after birth. Gestation, litter size, weaning and social care are species-specific, so this review does not generalize figures from captivity or another population.",
+      "zh": "幼崽在母体内发育，出生后依赖乳汁。妊娠期、每胎数量、断奶和社会照料具有物种特异性，因此本次复核不把圈养或其他种群数字直接泛化。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Body plan",
+          "zh": "身体结构"
+        },
+        "detail": {
+          "en": "Its body plan is evaluated within Equidae; age, sex and seasonal variation must be separated from species-level traits.",
+          "zh": "其身体结构按马科背景评估；年龄、性别和季节变化必须与物种级特征区分。"
+        },
+        "source_keys": [
+          "taxonomy",
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Feeding strategy",
+          "zh": "取食策略"
+        },
+        "detail": {
+          "en": "The herbivore category is a broad guide; exact foods and methods can vary by life stage, season and locality.",
+          "zh": "草食性类别只是宽泛指引；具体食物和方式会随生活阶段、季节及地点变化。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Habitat fit",
+          "zh": "生境适配"
+        },
+        "detail": {
+          "en": "Use of grassland habitat is interpreted from exact-taxon occurrence and range evidence, not from map shape alone.",
+          "zh": "对草原生境的利用依据精确分类单元的出现与分布证据解释，不能只看地图形状。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a herbivore species in grassland habitat, it transfers energy through local food webs. Its exact ecological effect depends on abundance, food resources and interactions documented for each population.",
+      "zh": "作为草原生境中的草食性物种，它在当地食物网中传递能量。具体生态影响取决于各地种群数量、食物资源和有记录的相互作用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The Endangered global category does not remove local risks from habitat change, direct mortality, disturbance, pollution or climate effects.",
+        "zh": "濒危这一全球等级并不排除生境变化、直接死亡、干扰、污染或气候影响等地方风险。"
+      },
+      "actions": {
+        "en": "Protect the habitats and ecological processes identified by range authorities, reduce documented direct mortality and update management when monitoring or taxonomy changes.",
+        "zh": "应保护分布权威确认的生境和生态过程，减少有记录的直接死亡，并在监测或分类变化时更新管理。"
+      },
+      "source_keys": [
+        "conservation",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Confirm Grevy's Zebra with multiple visible characters, location and an exact taxon-linked record; color or body shape alone may be insufficient.",
+        "zh": "确认细纹斑马时，应结合多个可见特征、地点和精确分类单元记录；仅凭颜色或体形可能不足。"
+      },
+      "similar_species": {
+        "en": "Close relatives and regional look-alikes can share major features. A filename, common name or single trait is not enough for image approval.",
+        "zh": "近缘种和地区性相似种可能共享主要特征。文件名、俗名或单一特征不足以批准图片。"
+      },
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Communication and sensory channels are shaped by this species' habitat and class. A specific call, scent signal or sensory claim should be assigned only when the exact-taxon source supports it.",
+      "zh": "交流与感官通道受该物种生境和类群塑造。只有精确分类单元来源支持时，才能指定具体叫声、气味信号或感官能力。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding, movement, molt, dormancy or food use can shift with latitude, rainfall, temperature and resource pulses. A date from one population is not treated as universal.",
+      "zh": "繁殖、移动、换羽、休眠或食物利用会随纬度、降雨、温度和资源脉冲变化。某一种群的日期不会被写成普遍规律。",
+      "source_keys": [
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Use, conflict, tourism and cultural relationships vary across the range. Safe observation avoids handling, feeding, playback and disturbance of nests, dens or natural behavior.",
+      "zh": "利用、冲突、旅游和文化关系因分布区而异。安全观察应避免触摸、投喂、播放声音，以及干扰巢穴、洞穴或自然行为。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Equus grevyi is placed in genus Equus, family Equidae, order Perissodactyla. This review follows the accepted species match cited in the taxonomy evidence.",
+      "zh": "Equus grevyi归入马属、马科、奇蹄目。本次复核遵循分类证据中的接受种匹配。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks, calls, nests, feeding marks, molts or other indirect signs can narrow an identification but usually cannot confirm a species alone. Sensitive or dangerous animals require distance.",
+      "zh": "足迹、叫声、巢、取食痕迹、蜕皮或其他间接线索可缩小鉴定范围，但通常不能单独确认物种。遇到敏感或危险动物应保持距离。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The accepted scientific name used in this review is Equus grevyi.",
+          "zh": "本次复核采用的接受学名是Equus grevyi。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Endangered is the checked global IUCN category, not a regional legal status.",
+          "zh": "濒危是本次核对的全球IUCN等级，并非地区性法律地位。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "The map retains the previous approximate polygon and does not claim a newly verified boundary.",
+          "zh": "地图保留原有近似多边形，并不声称这是新核实的边界。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Mammal care",
+          "zh": "哺乳类育幼"
+        },
+        "content": {
+          "en": "Young develop in the mother and depend on milk after birth. Gestation, litter size, weaning and social care are species-specific, so this review does not generalize figures from captivity or another population.",
+          "zh": "幼崽在母体内发育，出生后依赖乳汁。妊娠期、每胎数量、断奶和社会照料具有物种特异性，因此本次复核不把圈养或其他种群数字直接泛化。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
   }
 }
