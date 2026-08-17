@@ -1,0 +1,585 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit"
+  },
+  "id": "sunda-colugo",
+  "name_zh": "巽他鼯猴",
+  "name_en": "Sunda Colugo",
+  "scientific_name": "Galeopterus variegatus",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Dermoptera",
+      "zh": "皮翼目"
+    },
+    "family": {
+      "en": "Cynocephalidae",
+      "zh": "鼯猴科"
+    },
+    "genus": {
+      "en": "Galeopterus",
+      "zh": "鼯猴属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "Current global IUCN category checked on 2026-08-17 through the IUCN-linked GBIF endpoint.",
+    "note_zh": "已于2026-08-17通过关联IUCN的GBIF接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The Sunda colugo, also called the Sunda flying lemur, is a small gliding mammal that lives in the rainforests of Southeast Asia. Despite its name, it is not a lemur and cannot fly. It glides between trees using a large skin membrane that stretches from its neck to its tail and between all of its limbs.",
+    "zh": "巽他鼯猴，又称巽他飞狐猴，是一种生活在东南亚雨林中的小型滑翔哺乳动物。尽管名字里带有“狐猴”，它并不是狐猴，也不能飞行。它利用从颈部延伸至尾部并连于四肢之间的大片皮膜在树木间滑翔。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The Sunda colugo has a long, slender body, a short snout, and very large, forward-facing eyes for night vision. Its most distinctive feature is a huge gliding membrane (patagium) that stretches from the neck to the fingertips and toes, all the way to the tail, giving it a parachute-like shape.",
+      "zh": "巽他鼯猴身形修长，吻部短，眼睛非常大且朝前，适于夜间视物。最显著的特征是巨大的滑翔皮膜（翼膜），从颈部一直延伸到手指、脚趾和尾部，使身体呈降落伞状。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Colugos are strictly nocturnal and spend the day sleeping in tree hollows or on branches. They are careful leaf-eaters, selecting young leaves and sometimes fruits and flowers, and they may feed in the same trees as other colugos. At night they climb or spiral up tree trunks and glide long distances to reach food trees, moving up to several hundred meters in a single evening.",
+      "zh": "鼯猴严格夜行，白天在树洞或树枝上睡觉。它们是挑剔的食叶动物，会选择嫩叶，有时也吃花果，可能与其他个体在同一棵树上觅食。夜间它们沿树干攀爬或旋转上升，并滑翔很远的距离以到达食源树，一夜可移动数百米。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Sunda colugos live in tropical and submontane forests, from lowland rainforests to plantations, and are found in southern Myanmar, southern Thailand, the Malay Peninsula, Sumatra, Java, and Borneo. They prefer undisturbed forests but can also survive in degraded habitats with enough trees.",
+      "zh": "巽他鼯猴栖息于热带和亚山地森林，从低地雨林到人工林都有分布，出现在缅甸南部、泰国南部、马来半岛、苏门答腊、爪哇和加里曼丹。它们偏好未被干扰的森林，但也能在树木足够的退化栖息地生存。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Head-body length: 33–42 cm (13–16.5 in); tail: 18–27 cm (7–10.5 in)",
+          "zh": "头体长33–42厘米（13–16.5英寸）；尾长18–27厘米（7–10.5英寸）"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "0.9–1.3 kg (2–2.9 lb)",
+          "zh": "0.9–1.3千克（2–2.9磅）"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Leaves, shoots, flowers, and fruits",
+          "zh": "树叶、嫩芽、花朵和果实"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动习性"
+        },
+        "value": {
+          "en": "Nocturnal; sleeps in trees by day",
+          "zh": "夜行性；白天在树上睡觉"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会单元"
+        },
+        "value": {
+          "en": "Mostly solitary; sometimes in small groups",
+          "zh": "多独居；有时成小群"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "reproduction",
+        "label": {
+          "en": "Litter size",
+          "zh": "胎仔数"
+        },
+        "value": {
+          "en": "One young per litter (rarely two)",
+          "zh": "每胎一仔（偶有两仔）"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "gestation",
+        "label": {
+          "en": "Gestation",
+          "zh": "妊娠期"
+        },
+        "value": {
+          "en": "About 60 days",
+          "zh": "约60天"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "glide_distance",
+        "label": {
+          "en": "Maximum glide",
+          "zh": "最长滑翔距离"
+        },
+        "value": {
+          "en": "Up to 100 m (330 ft)",
+          "zh": "可达100米（330英尺）"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "After a gestation of about 60 days, a female gives birth to a single young (or occasionally twins). The newborn is tiny and climbs onto the mother's belly, where it clings to her fur and glides with her. The young is nursed for several months and may stay with the mother for for an extended period, even as she travels between trees.",
+      "zh": "妊娠约60天后，雌性产下一只幼仔（偶尔为双胞胎）。新生儿很小，会爬到母亲腹部，紧紧抓住毛皮并随母亲一起滑翔。幼仔吃奶数月，可能留在母亲身边长达两年，甚至在她于树间移动时也不离开。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Gliding membrane (patagium)",
+          "zh": "滑翔皮膜（翼膜）"
+        },
+        "detail": {
+          "en": "The skin membrane running from face to tail and between all limbs acts like a large wing, allowing the colugo to glide more than 100 meters, which saves energy and helps travel between dispersed food trees.",
+          "zh": "从面部到尾部并连于四肢之间的皮膜像一个大翅膀，使鼯猴能滑翔超过100米，节省能量并有助于在分散的食源树之间移动。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Comb-like lower teeth",
+          "zh": "梳状下齿"
+        },
+        "detail": {
+          "en": "The lower front teeth are arranged like a fine comb, used both for grooming and for scraping the soft surfaces of leaves, helping it feed efficiently.",
+          "zh": "下前牙排列成细梳状，既用于梳理皮毛，也用于刮取叶片柔软部分，便于高效摄食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Large, forward-facing eyes",
+          "zh": "大而朝前的眼睛"
+        },
+        "detail": {
+          "en": "Colugos have enormous eyes that boost night vision, letting them navigate and land safely in the dark forest.",
+          "zh": "鼯猴的眼睛极大，增强夜视能力，使它们在黑暗森林中能够安全导航和着陆。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Strong curved claws",
+          "zh": "强壮的弯爪"
+        },
+        "detail": {
+          "en": "Sharp, large claws give a firm grip on tree trunks and branches, even while upside-down, making them excellent climbers.",
+          "zh": "锋利的大爪使它们能够牢固地抓住树干和树枝，即使倒挂也能抓稳，非常适合攀爬。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Sunda colugos are important seed dispersers because they eat fruit and move between trees, depositing seeds in their droppings. They are also prey for canopy raptors, such as the changeable hawk-eagle, and for marbled cats and other tree-level carnivores.",
+      "zh": "巽他鼯猴是重要的种子传播者，因为它们在采食果实后会在树间移动，通过粪便散布种子。它们也是林冠猛禽（如凤头鹰雕）以及大理石纹猫等树栖食肉动物的猎物。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Massive lowland deforestation for oil palm, timber, and agriculture, as well as hunting for meat and fur.",
+        "zh": "为油棕、木材和农业而大规模砍伐低地森林，以及为获取肉和皮毛而捕猎。"
+      },
+      "actions": {
+        "en": "Protection of large forest reserves, reforestation, and law enforcement to reduce hunting.",
+        "zh": "保护大型森林保护区，植树造林，并加强执法以减少捕猎。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Large gliding membrane, big eyes, short face, moderate size (about the size of a house cat).",
+        "zh": "大滑翔皮膜，大眼睛，面部短，体型中等（约家猫大小）。"
+      },
+      "similar_species": {
+        "en": "In Southeast Asia, the only other colugo is the Philippine flying lemur, which is found only in the southern Philippines; the Sunda colugo is the only colugo in its extensive mainland and island range.",
+        "zh": "在东南亚，另一种鼯猴是菲律宾飞狐猴，仅分布于菲律宾南部；巽他鼯猴是其在广阔大陆和岛屿分布区内唯一的鼯猴。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Colugos are mostly silent, but they use scent markings from a gland on the chest to communicate, especially between mother and offspring. Their large eyes and sensitive ears are adapted for nocturnal life.",
+      "zh": "鼯猴大多不发声，但会利用胸部腺体分泌的气味标记进行交流，尤其在母亲与幼仔之间。它们的大眼睛和灵敏的耳朵适应夜行生活。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding can occur in many months, but in parts of the range, births seem to peak during the wetter season when young leaves are abundant. In some areas, females may have two litters a year.",
+      "zh": "繁殖可在多个月份发生，但在部分分布区，出生高峰期似乎在嫩叶丰富的雨季。有些地区雌性可能一年产两胎。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "In many areas, colugos are hunted for their meat and fur, and habitat loss from agriculture is the main threat. They occasionally enter plantations and orchards to feed, causing conflicts with farmers.",
+      "zh": "许多地区捕猎鼯猴以获得肉和皮毛，农业导致的栖息地丧失是主要威胁。它们偶尔进入种植园和果园觅食，因此与农民产生冲突。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Colugos belong to an ancient mammalian lineage called Dermoptera, which split from the ancestors of primates tens of millions of years ago. Modern genetic studies show that colugos are the closest living relatives of primates, though their first fossils are still poorly known.",
+      "zh": "鼯猴属于古老的哺乳动物类群皮翼目，该目在数千万年前从灵长类的祖先分离开来。现代遗传学研究表明，鼯猴是灵长类现存近亲，但其最早化石仍所知甚少。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for characteristic leaf damage where the animal has snipped leaves, and for small, dry droppings that consist mainly of leaf fiber. Tree trunks may show scrape marks from their claws, and they are sometimes found when their typical two-tone mewing call is heard at night.",
+      "zh": "可寻找动物咬断叶片的典型痕迹，以及主要含叶片纤维的干燥小粪便。树干上可能留有爪痕，夜间听到特有的双音喵叫时有时可发现它们。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "A colugo's gliding membrane allows it to travel more than 100 meters (330 feet) in one glide, the longest gliding distance of any mammal.",
+          "zh": "鼯猴的滑翔皮膜使其一次滑翔可达100多米（330英尺），这是哺乳动物中最长的滑翔距离。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Despite the name 'flying lemur', colugos are not lemurs and do not truly fly; they are gliding mammals from a different order.",
+          "zh": "尽管被称为“飞狐猴”，鼯猴并不是狐猴，也不会真正飞行；它们是另一个目的滑翔哺乳动物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Only two living species of colugo exist: the Sunda colugo and the Philippine flying lemur.",
+          "zh": "现存只有两种鼯猴：巽他鼯猴和菲律宾飞狐猴。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "A baby colugo clings to its mother's belly and is carried along even during her long glides, often fastening its mouth to a nipple for the whole journey.",
+          "zh": "幼仔紧抓母亲腹部，甚至在长途滑翔时也被带着，常常全程叼住乳头。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Maternal care and lactation",
+          "zh": "母性照顾与哺乳"
+        },
+        "content": {
+          "en": "Female colugos give birth to a very undeveloped young, which immediately plants itself on the mother's belly. It remains there for months, feeding on milk and traveling with her, even as she leaps and glides, providing extra safety in the treetops.",
+          "zh": "雌性鼯猴产出非常不成熟的幼仔，幼仔会立即固定在母亲腹部。它会在那里待上数月，吃奶并随母亲移动，甚至在母亲跳跃和滑翔时也不离开，从而在树冠中获得额外安全。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Gliding as an adaptation",
+          "zh": "滑翔适应性"
+        },
+        "content": {
+          "en": "The colugo is a gliding specialist, not a flyer. Its large membrane lets it drop and then glide upward to a lower elevation, using lift, and it can turn and steer by moving its limbs. This allows it to travel between scattered trees without going to the ground.",
+          "zh": "鼯猴是滑翔专家，而非飞行动物。它的巨大皮膜使其下落并利用升力滑翔至较低高度，还可通过移动四肢转向和操控。这使得它能在散生树木间移动而无需下到地面。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Nocturnal adaptations",
+          "zh": "夜行适应"
+        },
+        "content": {
+          "en": "Eyes that are up to 2 centimeters wide, coupled with a high density of rod cells, give the colugo excellent night vision. Its ears and whiskers also help it navigate in the dark forest.",
+          "zh": "眼睛宽度可达2厘米，加上高密度视杆细胞，使鼯猴具有优秀的夜视能力。耳朵和胡须也帮助它在黑暗森林中导航。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Sunda colugos inhabit tropical evergreen forests, including lowland rainforests and submontane forests, and can also be found in rubber plantations and orchards. They are distributed from southern Myanmar and Thailand through the Malay Peninsula to Sumatra, Java and Borneo, preferring areas with tall trees that provide continuous forest cover.",
+    "text_zh": "巽他鼯猴栖息于热带常绿林，包括低地雨林和亚山地森林，也能出现在橡胶种植园和果园。它们分布于缅甸南部和泰国經马来半岛至苏门答腊、爪哇和加里曼丹，偏好拥有高大树木、林冠连续的林地。",
+    "map_coordinates": [
+      4,
+      102
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          17,
+          96
+        ],
+        [
+          19,
+          101
+        ],
+        [
+          15,
+          105
+        ],
+        [
+          9,
+          105
+        ],
+        [
+          6,
+          102
+        ],
+        [
+          1,
+          104
+        ],
+        [
+          1,
+          100
+        ],
+        [
+          7,
+          98
+        ],
+        [
+          12,
+          97
+        ],
+        [
+          17,
+          96
+        ]
+      ],
+      [
+        [
+          5,
+          95
+        ],
+        [
+          3,
+          98
+        ],
+        [
+          -1,
+          101
+        ],
+        [
+          -5,
+          104
+        ],
+        [
+          -6,
+          102
+        ],
+        [
+          -3,
+          99
+        ],
+        [
+          1,
+          96
+        ],
+        [
+          5,
+          95
+        ]
+      ],
+      [
+        [
+          7,
+          115
+        ],
+        [
+          5,
+          119
+        ],
+        [
+          1,
+          119
+        ],
+        [
+          -4,
+          116
+        ],
+        [
+          -3,
+          109
+        ],
+        [
+          1,
+          109
+        ],
+        [
+          5,
+          112
+        ],
+        [
+          7,
+          115
+        ]
+      ],
+      [
+        [
+          -5.8,
+          105
+        ],
+        [
+          -6,
+          114
+        ],
+        [
+          -8.5,
+          114
+        ],
+        [
+          -8.8,
+          106
+        ],
+        [
+          -5.8,
+          105
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed polygons are simplified from the cited institutional range map for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的多边形依据所引机构分布图简化，以便在世界地图上清晰呈现；边界为概括性范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-17"
+    }
+  },
+  "image": "/images/animals/sunda-colugo.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2432087",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2432087/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Galeopterus_variegatus/",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Galeopterus_variegatus/",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Galeopterus_variegatus/",
+      "checked_at": "2026-08-17"
+    }
+  }
+}

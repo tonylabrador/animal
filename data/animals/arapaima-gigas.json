@@ -1,0 +1,421 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit"
+  },
+  "id": "arapaima-gigas",
+  "name_zh": "巨骨舌鱼",
+  "name_en": "Arapaima",
+  "scientific_name": "Arapaima gigas",
+  "ui_tags": [
+    "Fish",
+    "Freshwater",
+    "Piscivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "辐鳍鱼纲"
+    },
+    "order": {
+      "en": "Osteoglossiformes",
+      "zh": "骨舌鱼目"
+    },
+    "family": {
+      "en": "Arapaimidae",
+      "zh": "巨骨舌鱼科"
+    },
+    "genus": {
+      "en": "Arapaima",
+      "zh": "巨骨舌鱼属"
+    }
+  },
+  "conservation_status": {
+    "code": "DD",
+    "en": "Data Deficient",
+    "zh": "数据缺乏",
+    "note_en": "Current global IUCN category checked on 2026-08-17 through the IUCN-linked GBIF endpoint.",
+    "note_zh": "已于2026-08-17通过关联IUCN的GBIF接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The arapaima is one of the largest freshwater fish in the world, found in the Amazon and Essequibo river basins of South America. It has a streamlined, armored body and can breathe air at the surface. This giant fish has been a vital food source for local people for centuries.",
+    "zh": "巨骨舌鱼是世界上最大的淡水鱼之一，分布在南美洲的亚马逊河和埃塞奎博河流域。它身体流线型且覆盖铠甲般的鳞片，并能浮出水面呼吸空气。几个世纪来，这种巨鱼一直是当地人的重要食物来源。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The arapaima can grow up to 3 meters long and weigh as much as 200 kilograms. Its body is covered with massive, ridged scales that act like armor, protecting it from piranha bites. Instead of relying only on gills, it has a modified swim bladder that works like a lung, allowing it to gulp air at the surface. Its mouth is large and tilted upward, with a fleshy 'tongue' that has small teeth.",
+      "zh": "巨骨舌鱼可长达3米，重达200公斤。它的身体覆盖着巨大的有脊鳞片，如同铠甲，可保护它免受食人鱼撕咬。它并不完全依赖鳃呼吸，而是有一个特化的鱼鳔，像肺一样工作，使其能在水面吞咽空气。它的口大且向上翘，舌头上还有牙齿。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "The arapaima is a fast and powerful predator. It feeds mainly on fish, but also eats insects and crustaceans that float on the water. It must come to the surface to breathe every few minutes, making distinctive gulp or cough sounds. Adults are usually solitary and territorial, while young arapaimas school together in shallow, still waters.",
+      "zh": "巨骨舌鱼是一种快速而强大的捕食者。它主要以鱼类为食，也吃水面的昆虫和甲壳动物。它每几分钟就需要浮出水面呼吸，并发出独特的吞咽或咳嗽声。成鱼通常独居且具有领域性，而幼鱼则会聚集在浅而平静的水域中活动。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "The arapaima lives in the Amazon and Essequibo river systems across Brazil, Peru, Colombia, Guyana, and part of Bolivia. It prefers slow-moving rivers, oxbow lakes, and seasonally flooded forests. During the rainy season, it swims into the flooded forest to feed; when waters recede, it returns to deeper channels and nests.",
+      "zh": "巨骨舌鱼生活在亚马逊河和埃塞奎博河流域，分布于巴西、秘鲁、哥伦比亚、圭亚那和玻利维亚部分地区。它偏爱水流缓慢的江河、牛轭湖和季节性淹没的森林。雨季时它会游入被淹没的森林觅食；水位退去后，它会回到较深的河道并筑巢。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Up to 3 m (10 ft) long; more commonly 1.5–2 m.",
+          "zh": "最长可达3米（10英尺），常见体长约1.5–2米。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "Up to 200 kg (440 lb); commonly around 50–100 kg.",
+          "zh": "最大可达200公斤（440磅），常见体重约50–100公斤。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "About 15–20 years in the wild.",
+          "zh": "野生寿命约15–20年。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Predatory: fish, insects, crustaceans, and other small animals.",
+          "zh": "肉食性：捕食鱼类、昆虫、甲壳类及其他小动物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Diurnal; active during the day, surfacing to breathe.",
+          "zh": "昼行性：白天活动，定时浮出水面呼吸。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会行为"
+        },
+        "value": {
+          "en": "Adults solitary; juvenile groups may be seen.",
+          "zh": "成鱼独居；可见幼鱼结群。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Arapaimas breed during the low-water season. The male excavates a nest about 30 cm deep and 50 cm wide in the muddy bottom. The female lays tens of thousands of eggs, and the male guards and mouthbroods the eggs and fry. After two weeks, the fry hatch; the male continues to protect them for several weeks, releasing them to feed at night and taking them back into his mouth when threatened.",
+      "zh": "巨骨舌鱼在枯水期繁殖。雄鱼在泥质底部挖一个约30厘米深、50厘米宽的巢穴。雌鱼产下数万枚卵，雄鱼负责保护并在口中孵化卵和幼鱼。两周后幼鱼孵出，雄鱼继续保护它们数周，夜间放出幼鱼觅食，遇到威胁便将它们含回口中。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Air-breathing swim bladder",
+          "zh": "呼吸用的鱼鳔"
+        },
+        "detail": {
+          "en": "The swim bladder is modified to absorb oxygen, allowing the arapaima to survive in stagnant, oxygen-poor water. It surfaces every few minutes to gulp air.",
+          "zh": "鱼鳔特化后能吸收氧气，使巨骨舌鱼能在缺氧的死水中生存。它每隔几分钟就要浮出水面吞咽空气。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Armored scales",
+          "zh": "铠甲般鳞片"
+        },
+        "detail": {
+          "en": "The thick, ridged scales on its body can resist piranha bites, offering protection from predators that share its habitat.",
+          "zh": "体表厚而带脊的鳞片能抵挡食人鱼的咬噬，为它提供对抗同域捕食者的保护。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Mouthbrooding care",
+          "zh": "口孵化育儿"
+        },
+        "detail": {
+          "en": "Males hold eggs and then fry in their mouth, greatly increasing offspring survival in a dangerous environment.",
+          "zh": "雄鱼将卵和幼鱼含在口中，在危险的环境中大幅提高后代的成活率。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Surface-gulp behavior",
+          "zh": "水面吞咽行为"
+        },
+        "detail": {
+          "en": "Its lungs-like air bladder forces it to surface, but this also lets it communicate through a loud, distinctive cough-like sound.",
+          "zh": "它肺状的鱼鳔迫使它频繁浮出水面，同时也让它能通过响亮的类似咳嗽的声音进行交流。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As one of the top predators in its ecosystem, the arapaima helps balance fish populations in the Amazon. When it moves between river channels and flooded forests, it transports nutrients and may shape the communities of smaller fish. Its feeding also controls the abundance of piranhas and other prey species.",
+      "zh": "作为生态系统中的顶级捕食者之一，巨骨舌鱼有助于维持亚马逊河鱼类种群的平衡。当它在河道和淹没森林间迁徙时，会输送养分，并可能影响小型鱼类的群落结构。它还通过捕食控制食人鱼等猎物物种的数量。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Overfishing, especially in the dry season when the fish are concentrated, and habitat loss from deforestation and river development.",
+        "zh": "过度捕捞（尤其旱季鱼类聚集时）以及森林砍伐和河流开发导致的栖息地丧失。"
+      },
+      "actions": {
+        "en": "Some countries have fishing bans and minimum size limits. Arapaima is also raised in aquaculture to reduce pressure on wild populations.",
+        "zh": "一些国家实行禁渔和最小捕捞尺寸规定。巨骨舌鱼也通过养殖来减轻野生种群的压力。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Huge size; elongated body; massive, ridged scales; dark gray-green back and red-orange tail; up-turned mouth with a toothed tongue.",
+        "zh": "体型巨大；身体细长；鳞片巨大且有脊；背部深灰绿色，尾部红橙色；口朝上，舌头带齿。"
+      },
+      "similar_species": {
+        "en": "Other Arapaima species (e.g., Arapaima mapae) look alike but are smaller and have subtle scale differences. Arapaima may also be confused with large catfish at a glance.",
+        "zh": "其他巨骨舌鱼类（如纹巨骨舌鱼）外形相似，但体型更小，鳞片有细微差别。巨骨舌鱼有时也会与大鲶鱼相混淆。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "The arapaima has good vision and smell for hunting. It produces low-frequency sounds, especially a 'cough' when surfacing to breathe. During breeding, males make grunting calls to attract females. Its swim bladder may also help it detect vibrations in the water.",
+      "zh": "巨骨舌鱼拥有良好的视觉和嗅觉用于捕猎。它会发出低频声音，尤其是浮出水面呼吸时的“咳嗽声”。繁殖期间，雄鱼会发出呼噜声来吸引雌鱼。它的鱼鳔也可能帮助它感知水中的振动。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "In the rainy season (roughly December–May), the arapaima moves into flooded forests to feed and grow. In the dry season (June–November), it retreats to main river channels and breeds, building nests in the mud. Low water levels make adults easier for fishermen to catch.",
+      "zh": "雨季（大约十二月至次年五月），巨骨舌鱼进入淹没森林觅食和生长。旱季（六月至十一月），它退回主河道并繁殖，在泥中筑巢。水位下降使成鱼更容易被渔民捕获。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The arapaima has been a key food fish in the Amazon for centuries and is sometimes called 'the cod of the Amazon'. Overfishing drove some populations down, but today it is also farmed and managed by fishing communities. Its scales are used as files and knives in traditional crafts.",
+      "zh": "几个世纪以来，巨骨舌鱼一直是亚马逊地区的重要食用鱼，有时被称为“亚马逊的鳕鱼”。过度捕捞曾使一些种群数量下降，如今它也被人工养殖，并受到渔业社区的限量捕捞管理。它的鳞片可在传统工艺中用作锉刀或刀具。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Arapaima belongs to Osteoglossiformes, an old branch of living bony fishes. Fossils and modern relatives occur on more than one southern continent, but the living species has continued to evolve and should not be described as unchanged.",
+      "zh": "巨骨舌鱼属于骨舌鱼目，这是现生硬骨鱼类中的古老支系。其化石和现生近亲见于多个南方大陆，但现生物种仍在持续演化，不应描述为一成不变。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "Listen for a loud, explosive 'cough' when a large fish surfaces; this is the arapaima exhaling. Look for oval mud nests along riverbanks in the low-water season. The fish may be seen basking near the surface or swimming with a thumb-like snout above water.",
+      "zh": "注意听大型鱼类上浮时发出的响亮爆发式“咳嗽声”，这是巨骨舌鱼在呼气。枯水期可在河岸边的泥质底部寻找椭圆形巢穴。巨骨舌鱼有时就在水面附近活动，或露出拇指状吻部在水中游动。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The arapaima's tongue is bony and covered with small teeth, used to hold slippery prey.",
+          "zh": "巨骨舌鱼的舌头是硬骨质的，上面布满细齿，用来抓住滑溜的猎物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "It can store air in its swim bladder and survive for a few days out of water if its skin stays moist.",
+          "zh": "它的鱼鳔可以储存空气，如果皮肤保持湿润，它离水后能存活数日。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The name 'pirarucu' in Brazilian Portuguese means 'red fish' in the Tupi language, referring to its reddish tail.",
+          "zh": "在巴西葡萄牙语中，“pirarucu”一词源自图皮语，意为“红色之鱼”，指它红色的尾部。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Some arapaimas are now farmed in ponds and lakes outside South America for food.",
+          "zh": "如今南美洲以外也有人在池塘和湖泊中养殖巨骨舌鱼作为食物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its large, ridged scales are so tough that they have been used as nail files.",
+          "zh": "它巨大而带脊的鳞片非常坚韧，曾被用作指甲锉。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Air-breathing fish",
+          "zh": "呼吸空气的鱼"
+        },
+        "content": {
+          "en": "Arapaima must surface to gulp air, making them depend on access to the surface. Their swim bladder is highly vascularized and functions like a lung.",
+          "zh": "巨骨舌鱼必须浮出水面吞咽空气，因此依赖水面的通道。它们的鱼鳔血管高度发达，功能类似肺。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Mouthbrooding",
+          "zh": "口孵行为"
+        },
+        "content": {
+          "en": "Males hold eggs and fry in their mouths, a rare care strategy among fish that increases juvenile survival.",
+          "zh": "雄鱼将卵和幼鱼含在口中，这是鱼类中罕见的育幼策略，能提高幼鱼的成活率。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "The arapaima is native to the Amazon and Essequibo basins in tropical South America. It occurs in Brazil, Peru, Colombia, Bolivia, Ecuador, and Guyana, favoring slow-moving floodplains and lakes.",
+    "text_zh": "巨骨舌鱼原产于南美洲热带地区的亚马逊河和埃塞奎博河流域，分布于巴西、秘鲁、哥伦比亚、玻利维亚、厄瓜多尔和圭亚那，偏好水流缓慢的泛滥平原和湖泊。",
+    "map_coordinates": [
+      -3,
+      -60
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This new record has no previous geometry. Authoritative sources were checked, but a reusable polygon would misstate the species because its range is ocean-wide, taxonomically unresolved, or insufficiently mapped; the map therefore shows a clearly labelled representative point rather than a guessed boundary.",
+      "comparison_zh": "这是没有旧几何的新记录。已检查权威来源，但由于其范围跨越广阔海域、分类界定刚发生变化或分布资料不足，绘制多边形会造成误导；因此地图显示明确标注的代表点，而不猜测边界。",
+      "checked_at": "2026-08-17"
+    }
+  },
+  "image": "/images/animals/arapaima-gigas.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/5212877",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/5212877/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "FishBase",
+      "url": "https://www.fishbase.se/summary/Arapaima-gigas.html",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "FishBase",
+      "url": "https://www.fishbase.se/summary/Arapaima-gigas.html",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "FishBase",
+      "url": "https://www.fishbase.se/summary/Arapaima-gigas.html",
+      "checked_at": "2026-08-17"
+    }
+  }
+}

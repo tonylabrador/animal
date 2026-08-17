@@ -1,0 +1,512 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit"
+  },
+  "id": "gelada",
+  "name_zh": "狮尾狒狒",
+  "name_en": "Gelada",
+  "scientific_name": "Theropithecus gelada",
+  "ui_tags": [
+    "Mammal",
+    "Grassland",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Primates",
+      "zh": "灵长目"
+    },
+    "family": {
+      "en": "Cercopithecidae",
+      "zh": "猴科"
+    },
+    "genus": {
+      "en": "Theropithecus",
+      "zh": "狮尾狒属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "Current global IUCN category checked on 2026-08-17 through the IUCN-linked GBIF endpoint.",
+    "note_zh": "已于2026-08-17通过关联IUCN的GBIF接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The gelada is a monkey that lives only in the high mountains of Ethiopia. It has a long, shaggy brown coat and a bright red patch of bare skin on its chest. Unlike most monkeys, it spends much of its time eating grass on the ground. Geladas live in large groups and are very social animals.",
+    "zh": "狮尾狒是一种只生活在埃塞俄比亚高山的猴子。它有长而蓬松的棕色毛发，胸前有一块明亮的红色裸皮。与大多数猴子不同，它大部分时间在地面吃草。狮尾狒成群生活，是非常社会化的动物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Geladas have a stocky body, a dark face, and a long tail. Their most distinctive feature is the red hourglass-shaped patch of skin on the chest, which is larger and brighter in males. Their fingers are short and strong, adapted for pulling grass. They also have thick pads on their rear end for sitting on rocks.",
+      "zh": "狮尾狒身体粗壮，脸黑，尾巴长。最显著的特征是胸部红色沙漏形皮肤斑块，雄性更大更亮。它们的手指短而有力，适于拔草。臀部有厚垫，便于坐在岩石上。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Geladas are active during the day, spending most of their time grazing on grasses. They live in one-male units that join to form huge herds of hundreds of animals, especially when grazing. They communicate with many calls and facial expressions. At night they retreat to cliffs for safety.",
+      "zh": "狮尾狒白天活动，大部分时间吃草。它们生活在一雄多雌单元中，多个单元会聚集成数百只的大群，尤其是在吃草时。它们通过多种叫声和面部表情交流。夜晚回到悬崖上躲避危险。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Geladas are endemic to the Ethiopian highlands, found from the Simien Mountains to the Bale Mountains. They prefer grassy plateaus and meadows between 1800 and 4400 meters. They sleep on steep cliffs and feed on open grassland.",
+      "zh": "狮尾狒是埃塞俄比亚高地的特有种，分布于塞米恩山到贝尔山。它们偏好海拔1800至4400米的草甸和高原。它们在陡峭的悬崖上睡觉，在开阔草地上觅食。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "Unknown in the wild; up to 30 years in captivity",
+          "zh": "野外未知；人工饲养可达30年"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Head and body length: 50–75 cm (males larger than females); tail: 30–50 cm",
+          "zh": "头体长50–75厘米（雄大于雌）；尾长30–50厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "Males: 15–20 kg; females: 10–15 kg",
+          "zh": "雄性：15–20千克；雌性：10–15千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Herbivore – mainly grasses, also seeds and roots",
+          "zh": "草食性——主要吃草，也吃种子和根"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Diurnal (daytime)",
+          "zh": "昼行性（白天活动）"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会单位"
+        },
+        "value": {
+          "en": "Large herds with smaller one-male units",
+          "zh": "大群，内含多个一雄多雌小单元"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "reproduction",
+        "label": {
+          "en": "Reproduction",
+          "zh": "繁殖"
+        },
+        "value": {
+          "en": "One offspring after about 6-month gestation; births mostly in the wet season",
+          "zh": "妊娠约6个月，每胎一仔；多在雨季出生"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Females give birth to a single infant after about six months of pregnancy. Mothers carry and nurse their young, which grow quickly. Young males leave their birth group when they mature, while females usually stay. Births happen throughout the year but peak in the rainy season when food is plentiful.",
+      "zh": "雌性怀孕约六个月后产下一只幼仔。母亲携带并哺乳幼仔，幼仔生长迅速。雄性成熟后离开出生群体，雌性通常留下。分娩全年均可发生，但在食物充足的雨季达到高峰。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Red heart patch",
+          "zh": "红色心形斑"
+        },
+        "detail": {
+          "en": "The bare red patch on the chest is used for communication. It gets brighter when the animal is excited or during social displays, helping others read its mood.",
+          "zh": "胸前的红色裸皮用于交流。当动物兴奋或进行社交展示时，它变得更亮，帮助其他个体了解其情绪。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Grass-grabbing fingers",
+          "zh": "抓草的手指"
+        },
+        "detail": {
+          "en": "Their fingers have special pads that let them grip and pull tufts of grass efficiently, making them the only primates that live mostly on grass.",
+          "zh": "它们的手指有特殊垫，能高效抓住并拔起草丛，使它们成为唯一主要吃草的灵长类。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Nonskid sitting pads",
+          "zh": "防滑坐垫"
+        },
+        "detail": {
+          "en": "Hard, bare pads on their rear (ischial callosities) let them sit comfortably on rocky ledges for hours while they feed.",
+          "zh": "臀部坚硬裸露的垫状结构（胼胝体）让它们能在岩石上舒适地坐数小时进食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Cliff sleepers",
+          "zh": "悬崖睡眠者"
+        },
+        "detail": {
+          "en": "At night, geladas sleep on steep cliffs to avoid predators like leopards and hyenas – even though they feed far away during the day.",
+          "zh": "夜晚，狮尾狒在陡峭的悬崖上睡觉以躲避豹子和鬣狗等捕食者——尽管它们白天在远处觅食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Loud calls",
+          "zh": "响亮的叫声"
+        },
+        "detail": {
+          "en": "Geladas have a unique 'washing-bubbles' call and complex vocalizations that keep one-male groups together even in huge herds.",
+          "zh": "狮尾狒有独特的'吹泡泡'般叫声和复杂的发声，即使在巨大群体中也能让一雄多雌的小单元保持联系。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Geladas are important grass-eaters in the Ethiopian highlands. They prune the grass, which can help new growth, and they spread seeds in their dung. They are also prey for leopards, hyenas, and eagles.",
+      "zh": "狮尾狒是埃塞俄比亚高地重要的食草动物。它们啃食草类，有助于新草生长，并通过粪便传播种子。它们也是豹子、鬣狗和猛禽的猎物。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Habitat loss from agriculture and settlement, overgrazing by livestock, hunting, and disease.",
+        "zh": "栖息地因农业和定居而丧失，家畜过度放牧，以及捕猎和疾病。"
+      },
+      "actions": {
+        "en": "Protected in national parks such as Simien Mountains National Park; research and community conservation programs are ongoing.",
+        "zh": "在塞米恩国家公园等保护区内受保护；研究和社区保护项目正在进行。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "The most striking feature is the red bare hourglass-shaped patch on the chest. They have a shaggy brown coat, a black face, and small eyes. Males have a mane-like cape.",
+        "zh": "最显著的特征是胸前红色裸皮的沙漏形斑块。它们有蓬松的棕色毛、黑色的脸和小眼睛。雄性有类似鬃毛的披肩。"
+      },
+      "similar_species": {
+        "en": "They are sometimes confused with baboons, but geladas are more compact, have a chest patch, and are mainly grazers. Their heads are held close to the ground while feeding.",
+        "zh": "它们有时与狒狒混淆，但狮尾狒体型更紧凑，有胸部斑块，且主要是食草动物。进食时头部贴近地面。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Geladas use a mix of vocalizations, facial expressions, and body postures. They have a special 'washing' sound, and can send silent signals by eye and mouth movements. Their eyesight and hearing are excellent, useful for spotting predators on the open grasslands.",
+      "zh": "狮尾狒使用叫声、面部表情和身体姿势进行交流。它们有特殊的'洗涤'声，并能通过眼睛和嘴部动作传递无声信号。它们的视觉和听觉出色，有助于在开阔草原上发现捕食者。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding can happen throughout the year, but most births occur during the rainy season (roughly June–September), when grass is green and plentiful. The dry season brings more time for resting and grooming.",
+      "zh": "繁殖可全年进行，但大多数幼仔在雨季（六月至九月左右）出生，此时牧草青翠茂盛。旱季则有更多时间休息和互相梳理毛发。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Geladas are a national treasure of Ethiopia and attract many tourists. In some areas they are hunted for meat, and farmers may compete with them for land. People sometimes harm them, but they are protected in national parks.",
+      "zh": "狮尾狒是埃塞俄比亚的国宝，吸引众多游客。在一些地区它们被猎杀取肉，农民也可能与它们争夺土地。人们有时会伤害它们，但它们在国家公园内受到保护。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Theropithecus is a very old lineage of monkeys. Fossil relatives were once widespread across Africa and Asia, but today only the gelada remains. They are closely related to baboons and mandrills.",
+      "zh": "狮尾狒属是一个非常古老的猴类支系。它们的化石亲戚曾广泛分布于非洲和亚洲，但如今只有狮尾狒存活。它们与狒狒和山魈关系较近。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for patches of short cropped grass, piles of seeds, and flat sleeping ledges on cliffs. Listen for their loud, noisy calls. Dung heaps may be found near sleep sites.",
+      "zh": "寻找被啃短的草地、堆积的种子和悬崖上平坦的睡台。注意听它们响亮的叫声。粪便堆可能出现在睡觉地点附近。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The red patch on a gelada's chest looks like a heart, so people sometimes call them 'bleeding-heart monkeys'.",
+          "zh": "狮尾狒胸前的红色斑块看起来像一颗心，因此人们有时称它们为'流血的心猴'。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Geladas are the only living monkeys that eat mostly grass.",
+          "zh": "狮尾狒是唯一主要以草为食的现生猴子。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The gelada is the only species in its entire genus Theropithecus.",
+          "zh": "狮尾狒是狮尾狒属中唯一的现存物种。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "They can form groups of over 650 individuals – some of the biggest groups of any monkey.",
+          "zh": "它们可以组成超过650只的大群——这是猴子中最大的群体之一。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "The grass-eating lifestyle",
+          "zh": "食草生活方式"
+        },
+        "content": {
+          "en": "Unlike most primates, which eat fruit or leaves, geladas spend 50-60% of their day feeding on grass. They use a special three-axis rotation of their jaw to chew grass quickly, and they are able to pull grass with their fingers.",
+          "zh": "与大多数吃果实或树叶的灵长类不同，狮尾狒有50%–60%的时间都在吃草。它们用特殊的颚部三轴旋转快速咀嚼草，并能用手指拔草。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "One-male groups and big herds",
+          "zh": "一雄多雌小单元与大群体"
+        },
+        "content": {
+          "en": "Gelada society is built around 'reproductive units' with one adult male, several females and their young. Many units gather into herds of hundreds or even thousands on the highland plateaus.",
+          "zh": "狮尾狒的社会围绕'生殖单元'构建：一只成年雄性、多只雌性及它们的幼仔。许多单元在高地高原上聚集成为数百甚至数千只的大群。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Living in the cold highlands",
+          "zh": "在寒冷高海拔生活"
+        },
+        "content": {
+          "en": "Geladas live high in the Ethiopian mountains, where nights can be cold. They sleep on cliffs and huddle together for warmth. Their long, shaggy fur keeps them insulated.",
+          "zh": "狮尾狒生活在埃塞俄比亚高山，夜晚寒冷。它们在悬崖上睡觉并挤在一起取暖。长而蓬松的毛发提供保温。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Geladas live only in the high mountains of Ethiopia, usually between 1800 and 4400 meters above sea level. They sleep on cliffs and feed on grassy plateaus, meadows, and alpine grassland.",
+    "text_zh": "狮尾狒只生活在埃塞俄比亚的高山上，通常海拔1800至4400米。它们在悬崖上睡觉，在草甸和高山草原等长草的平原上觅食。",
+    "map_coordinates": [
+      13.2,
+      38.4
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          14.7,
+          37.4
+        ],
+        [
+          14.6,
+          39.1
+        ],
+        [
+          12.8,
+          39.8
+        ],
+        [
+          10.7,
+          39.7
+        ],
+        [
+          9.4,
+          39
+        ],
+        [
+          10.4,
+          38
+        ],
+        [
+          12.6,
+          37.5
+        ],
+        [
+          14.7,
+          37.4
+        ]
+      ],
+      [
+        [
+          8.1,
+          38.8
+        ],
+        [
+          7.8,
+          40
+        ],
+        [
+          6.3,
+          40.6
+        ],
+        [
+          5.5,
+          39.4
+        ],
+        [
+          6.4,
+          38.8
+        ],
+        [
+          8.1,
+          38.8
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed polygons are simplified from the cited institutional range map for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的多边形依据所引机构分布图简化，以便在世界地图上清晰呈现；边界为概括性范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-17"
+    }
+  },
+  "image": "/images/animals/gelada.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2436553",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2436553/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Theropithecus_gelada/",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Theropithecus_gelada/",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Theropithecus_gelada/",
+      "checked_at": "2026-08-17"
+    }
+  }
+}

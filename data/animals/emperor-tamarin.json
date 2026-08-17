@@ -1,0 +1,425 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit"
+  },
+  "id": "emperor-tamarin",
+  "name_zh": "黑颏皇狨猴",
+  "name_en": "Black-chinned Emperor Tamarin",
+  "scientific_name": "Saguinus imperator",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Primates",
+      "zh": "灵长目"
+    },
+    "family": {
+      "en": "Callitrichidae",
+      "zh": "狨科"
+    },
+    "genus": {
+      "en": "Saguinus",
+      "zh": "柽柳猴属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估",
+    "note_en": "Current accepted species concept checked on 2026-08-17; the post-split species has not yet received a global IUCN assessment.",
+    "note_zh": "已于2026-08-17核对当前接受的物种界定；拆分后的该物种尚未获得全球IUCN评估。"
+  },
+  "description": {
+    "en": "The Black-chinned Emperor Tamarin is a small Amazonian monkey with a long white moustache and a dark chin. Current mammal taxonomy treats it as Saguinus imperator, distinct from the bearded emperor tamarin that older references often included within the same species.",
+    "zh": "黑颏皇狨猴是一种小型亚马孙猴，具有长长的白色胡须和深色下颏。现行哺乳动物分类把它作为Saguinus imperator，并与旧资料常归入同一物种的须皇狨猴区分开来。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Emperor tamarins have a head-body length of about 23–26 cm and a tail of 35–42 cm. Their silky fur is grayish with a reddish-brown back and a white chest. They have sharp claws on all digits except the big toe, which help them cling to tree bark.",
+      "zh": "皇狨猴头体长约23–26厘米，尾长35–42厘米。它们的毛发丝滑，身体灰褐色，背部红棕色，胸部白色。除大趾外，它们的手指和脚趾都有锐利的爪子，帮助抓握树皮。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Emperor tamarins live in small family groups of 2–8 individuals, led by a dominant female. They are diurnal and arboreal, moving by walking along branches and making long leaps. Their diet consists of fruit, insects, and tree sap, and they sometimes forage in mixed-species groups.",
+      "zh": "皇狨猴生活在2–8只的小家庭群体中，由一只优势雌性领导。它们昼行性且树栖，在树枝上行走并进行长距离跳跃。饮食包括水果、昆虫和树汁，有时也会与其他物种混群觅食。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "The emperor tamarin is found in the Amazon rainforest of southeastern Peru, western Brazil, and northern Bolivia. It prefers lowland forests, especially seasonally flooded forests and areas along rivers.",
+      "zh": "皇狨猴分布在秘鲁东南部、巴西西部和玻利维亚北部的亚马逊雨林。它们偏好低地森林，特别是季节性洪溢林和河流沿岸地区。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Head-body 23–26 cm; tail 35–42 cm",
+          "zh": "头体长23–26厘米；尾长35–42厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "300–400 g",
+          "zh": "300–400克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Fruit, insects, tree sap",
+          "zh": "果实、昆虫、树汁"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动"
+        },
+        "value": {
+          "en": "Diurnal",
+          "zh": "昼行性"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会单位"
+        },
+        "value": {
+          "en": "Family groups of 2–8",
+          "zh": "2–8只的家庭群体"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "reproduction",
+        "label": {
+          "en": "Reproduction",
+          "zh": "繁殖"
+        },
+        "value": {
+          "en": "Usually twins after ~140–145 days gestation",
+          "zh": "通常每胎两仔，妊娠期约140–145天"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "Up to 17 years in captivity",
+          "zh": "圈养条件下可达17年"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Emperor tamarins usually give birth to twins after a gestation of about 140–145 days. The father and older offspring help carry the infants, which cling to their mother's back or other group members. Young become independent at around 2 months and reach sexual maturity at about 2 years.",
+      "zh": "皇狨猴通常在约140–145天妊娠后生下双胞胎。父亲和较年长的幼崽会帮助携带幼崽，幼崽依附在母亲或其他群体成员的背上。幼崽约2个月大时独立，约2岁达到性成熟。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Sharp claws for climbing",
+          "zh": "锐利的爪子用于攀爬"
+        },
+        "detail": {
+          "en": "Unlike many primates, emperor tamarins have pointed claws on their fingers and toes (except the big toe), which allow them to cling vertically to tree trunks and feed on sap.",
+          "zh": "与许多灵长类不同，皇狨猴的手指和脚趾（除大趾外）有尖爪，使它们能垂直抓握树干并取食树汁。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Specialized teeth for sap feeding",
+          "zh": "特化的牙齿用于取食树汁"
+        },
+        "detail": {
+          "en": "Their long lower incisors act like chisels, enabling them to gouge holes in tree bark and stimulate sap flow, a valuable food source.",
+          "zh": "它们长长的下门齿像凿子一样，能在树皮上凿洞并刺激树汁流出，这是宝贵的食物来源。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Small body size",
+          "zh": "小型身体"
+        },
+        "detail": {
+          "en": "Weighing only 300–400 g, they can move along thin branches and use forest layers that heavier monkeys cannot access.",
+          "zh": "它们仅重300–400克，能够在细树枝上活动，并利用较重的猴子无法进入的森林层次。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Long tail for balance",
+          "zh": "长尾巴用于平衡"
+        },
+        "detail": {
+          "en": "Their long, non-prehensile tail acts as a counterbalance during leaps along branches.",
+          "zh": "它们长且不能卷握的尾巴在树枝间跳跃时起到平衡作用。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Emperor tamarins disperse seeds through their fruit-based diet and serve as prey for forest-dwelling predators such as eagles, snakes, and small cats. Their sap-gouging may also create holes that other animals use.",
+      "zh": "皇狨猴通过以果实为主的饮食散播种子，并作为森林捕食者（如鹰、蛇和小型猫科动物）的猎物。它们凿开的树汁洞也可能成为其他动物的资源。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Deforestation and fragmentation of the Amazon for agriculture, cattle ranching, and infrastructure are the main threats.",
+        "zh": "亚马逊森林的砍伐和碎片化，以及农业、牧场和基础设施建设是主要威胁。"
+      },
+      "actions": {
+        "en": "The species occurs in several protected areas; conservation efforts focus on forest preservation and enforcing laws against the illegal pet trade.",
+        "zh": "该物种分布于多个保护区；保护工作包括森林保护以及加强防止非法宠物贸易的执法。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Look for a very small tamarin with a sweeping white moustache, a dark chin and face, a grey-brown body, and an orange-toned tail. The dark chin is important for separating this species from the bearded emperor tamarin under the current split.",
+        "zh": "识别时留意体型很小、白色长胡须、深色下颏和面部、灰褐色身体及带橙色调的尾巴。按当前物种拆分，深色下颏是与须皇狨猴区分的重要特征。"
+      },
+      "similar_species": {
+        "en": "The bearded emperor tamarin has a conspicuous pale beard below the mouth, whereas this species has a dark chin. Other tamarins may have pale facial hair but lack the same long moustache-and-dark-chin combination.",
+        "zh": "须皇狨猴的嘴下有明显浅色胡须，而本种下颏深色。其他狨猴也可能有浅色面毛，但缺少同样的白色长胡须与深色下颏组合。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Emperor tamarins use a variety of high-pitched contact calls and also scent mark with glands on their chests to communicate with group members and mark territories.",
+      "zh": "皇狨猴使用多种高频联络叫声，并通过胸部的腺体进行气味标记，以与群体成员交流并标记领地。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "They may breed seasonally; births often occur at the start of the rainy season when fruit is abundant.",
+      "zh": "它们可能季节性繁殖；幼崽常在雨季开始时出生，此时果实丰富。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Habitat loss is driven by human development, and in some regions they are captured for the exotic pet trade. Ecotourism provides a non-consumptive way for people to see these monkeys in the wild.",
+      "zh": "栖息地丧失由人类活动造成，在一些地区它们被捕获用于异域宠物贸易。生态旅游为人们提供了一种非消耗性的方式在野外观察这些猴子。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Recent genetic and morphological studies changed emperor-tamarin boundaries. This record follows the current Mammal Diversity Database concept of Saguinus imperator and does not merge the separately recognized bearded emperor tamarin into the page.",
+      "zh": "近期遗传与形态研究改变了皇狨猴的物种边界。本条目采用哺乳动物多样性数据库当前对Saguinus imperator的界定，不把另行承认的须皇狨猴合并进本页面。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Listen for their high-pitched contact calls; you may also see scratched bark where they have gouged for sap.",
+      "zh": "注意聆听它们的高频联络叫声；也可能看到它们挖掘树汁留下的刮痕。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The name 'imperator' refers to the mustache, which reminded scientists of Kaiser Wilhelm II.",
+          "zh": "名字‘imperator’源于胡须，它让科学家联想到威廉二世皇帝。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Emperor tamarins often give birth to twins, and the father carries the infants.",
+          "zh": "皇狨猴通常产双胞胎，由父亲携带幼崽。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "They sometimes forage with saddleback tamarins, perhaps because the larger emperor tamarins can reach better sap sources.",
+          "zh": "它们有时与鞍背狨一起觅食，可能是为了利用较大的体型获得更好的树汁资源。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "Their claws, not nails, are a unique trait that helps them cling to tree trunks.",
+          "zh": "它们拥有爪子而非指甲，这有助于它们抓住树干。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Cooperative breeding",
+          "zh": "合作繁殖"
+        },
+        "content": {
+          "en": "In emperor tamarin groups, the dominant female breeds, while other group members help carry and protect the infants. This shared care raises the survival chances of the young.",
+          "zh": "在皇狨猴群体中，优势雌性繁殖，其他成员帮助携带和保护幼崽。这种共同照顾提高了幼崽的存活率。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Scent communication",
+          "zh": "气味交流"
+        },
+        "content": {
+          "en": "They rub their chest glands on branches to leave scent marks, which help define territory and keep the group together.",
+          "zh": "它们用胸部腺体在树枝上留下气味标记，帮助划定领地和维持群体。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Emperor tamarins inhabit lowland and riverine forests in the western Amazon, including várzea and terra firme forests, often near rivers.",
+    "text_zh": "皇狨猴栖息于西亚马逊的低地和河岸森林，包括洪溢林和非洪溢林，常靠近河流。",
+    "map_coordinates": [
+      -9,
+      -70
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This new record has no previous geometry. Authoritative sources were checked, but a reusable polygon would misstate the species because its range is ocean-wide, taxonomically unresolved, or insufficiently mapped; the map therefore shows a clearly labelled representative point rather than a guessed boundary.",
+      "comparison_zh": "这是没有旧几何的新记录。已检查权威来源，但由于其范围跨越广阔海域、分类界定刚发生变化或分布资料不足，绘制多边形会造成误导；因此地图显示明确标注的代表点，而不猜测边界。",
+      "checked_at": "2026-08-17"
+    }
+  },
+  "image": "/images/animals/emperor-tamarin.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Mammal Diversity Database",
+      "url": "https://www.mammaldiversity.org/taxon/1000812/",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2436471/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Saguinus_imperator/",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Saguinus_imperator/",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "Mammal Diversity Database country distribution map",
+      "url": "https://www.mammaldiversity.org/taxon/1000812/",
+      "checked_at": "2026-08-17"
+    }
+  }
+}

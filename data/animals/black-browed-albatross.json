@@ -1,0 +1,425 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit"
+  },
+  "id": "black-browed-albatross",
+  "name_zh": "黑眉信天翁",
+  "name_en": "Black-browed Albatross",
+  "scientific_name": "Thalassarche melanophris",
+  "ui_tags": [
+    "Bird",
+    "Ocean",
+    "Piscivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Procellariiformes",
+      "zh": "鹱形目"
+    },
+    "family": {
+      "en": "Diomedeidae",
+      "zh": "信天翁科"
+    },
+    "genus": {
+      "en": "Thalassarche",
+      "zh": "灰信天翁属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "Current global IUCN category checked on 2026-08-17 through the IUCN-linked GBIF endpoint.",
+    "note_zh": "已于2026-08-17通过关联IUCN的GBIF接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The Black-browed Albatross is a large, oceanic seabird with a wingspan that can exceed two meters. Its name comes from the dark stripe that runs over each eye, giving it a frowning look. The body is white with dark grey wings and back, and a yellowish-pink bill.",
+    "zh": "黑眉信天翁是一种大型远洋海鸟，翼展可超过两米。其名字来源于每只眼睛上方的一道黑色条纹，使它看起来好像在皱眉。身体白色，翅膀和背部为深灰色，嘴呈黄粉色。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "This albatross has a heavy, hooked bill made up of plates, and long narrow wings adapted for gliding. Adults weigh between 2.9 and 4.7 kg and are 80 to 96 cm long. Its tubular nostrils help it smell food over the ocean.",
+      "zh": "这种信天翁的嘴厚重带钩，由数片角质板组成，翅膀又长又窄，适于滑翔。成鸟体重约2.9至4.7千克，体长80至96厘米。管状的鼻孔帮助它在海上闻出食物的气味。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Black-browed Albatrosses fly huge distances over the open ocean, using wind to glide with minimal flapping. They feed on fish, squid, and krill, often seizing food near the surface. They also follow fishing boats to scavenge discarded catches.",
+      "zh": "黑眉信天翁在开阔海洋上空飞行很远的距离，利用风力滑翔，很少扇动翅膀。它们以鱼类、鱿鱼和磷虾为食，常在水面附近捕食。它们也会跟随渔船觅食，搜寻被丢弃的渔获。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "They nest in dense colonies on steep cliffs and slopes of sub-Antarctic islands, such as the Falkland Islands and South Georgia. Outside the breeding season they wander widely across the southern oceans, from the tropics to the ice edge.",
+      "zh": "它们在亚南极岛屿的陡峭悬崖和坡地上密集营巢，例如福克兰群岛和南乔治亚岛。在繁殖季节之外，它们会广泛游荡于南大洋，从热带到冰缘地区。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "Up to 50 years or more",
+          "zh": "可达50年以上"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "wingspan",
+        "label": {
+          "en": "Wingspan",
+          "zh": "翼展"
+        },
+        "value": {
+          "en": "2.1–2.5 m",
+          "zh": "2.1–2.5米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "2.9–4.7 kg",
+          "zh": "2.9–4.7公斤"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Fish, squid, krill",
+          "zh": "鱼类、鱿鱼、磷虾"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "incubation",
+        "label": {
+          "en": "Incubation period",
+          "zh": "孵化期"
+        },
+        "value": {
+          "en": "About 68 days",
+          "zh": "约68天"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "population",
+        "label": {
+          "en": "Global population",
+          "zh": "全球种群"
+        },
+        "value": {
+          "en": "More than one million mature individuals",
+          "zh": "超过一百万只成熟个体"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Black-browed Albatrosses form long-term pair bonds and breed annually or biennially. They lay a single egg in a nest built on a cliff or slope. Both parents take turns incubating for about 68 days, then feed the chick for several months until it fledges at around 120 days.",
+      "zh": "黑眉信天翁形成长期伴侣关系，每年或每隔一年繁殖一次。它们在悬崖或坡地上用泥和草筑巢，产一枚卵。父母轮流孵卵约68天，之后喂养雏鸟约120天直至其离巢。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Dynamic soaring",
+          "zh": "动力滑翔"
+        },
+        "detail": {
+          "en": "Long, narrow wings allow the bird to use wind energy to glide vast distances with almost no flapping.",
+          "zh": "又长又窄的翅膀使它能利用风能滑翔很远，几乎不用扇翅。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Salt gland",
+          "zh": "盐腺"
+        },
+        "detail": {
+          "en": "A special gland above the eyes removes excess salt swallowed with seawater, excreting it through the bill.",
+          "zh": "眼睛上方有一种特殊腺体，能排出随海水吞下的多余盐分，并通过嘴部排出。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Hooked bill",
+          "zh": "钩状嘴"
+        },
+        "detail": {
+          "en": "The sharp, hooked tip helps grasp and tear slippery prey like squid and fish.",
+          "zh": "锐利的钩状尖端有助于抓住并撕裂鱿鱼和鱼等光滑的猎物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Olfactory sense",
+          "zh": "嗅觉"
+        },
+        "detail": {
+          "en": "Tubular nostrils give them a keen sense of smell, which helps detect food across long distances.",
+          "zh": "管状鼻孔让它们具有敏锐的嗅觉，能远距离察觉食物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As predators, they help control populations of fish and squid. Their feeding behavior also contributes to nutrient cycling in the ocean, and they provide hosts for several species of parasites.",
+      "zh": "作为捕食者，它们帮助控制鱼类和鱿鱼的数量。它们的取食行为还促进海洋中的营养循环，并为若干寄生虫提供宿主。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Major threats include accidental catch (bycatch) in longline and trawl fisheries, plastic pollution, and introduced predators at breeding colonies. Climate change also affects their food supply.",
+        "zh": "主要威胁包括延绳钓和拖网渔业中的意外捕获（兼捕）、塑料污染，以及繁殖地引入的天敌。气候变化也影响它们的食物供应。"
+      },
+      "actions": {
+        "en": "Many breeding colonies are protected, and measures such as bird-scaring lines over fishing vessels help reduce bycatch. International agreements, like ACAP, coordinate conservation efforts.",
+        "zh": "许多繁殖地受到保护，渔船上使用吓鸟绳等措施减少兼捕。国际协议如ACAP协调保护工作。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "White head with a dark eyebrow mark, dark grey back and upperwings, white underparts, and a distinctive yellow bill with an orange tip.",
+        "zh": "头部白色，有黑色眉纹，背部及翅上为深灰色，下体白色，嘴呈独特的黄色且尖端橙色。"
+      },
+      "similar_species": {
+        "en": "Grey-headed Albatross has a grey head and darker bill. White-capped Albatross has a pale bill and no dark brow.",
+        "zh": "灰头信天翁头部灰色，嘴色更深。白顶信天翁嘴色淡，无黑眉纹。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "These albatrosses produce a variety of croaking, bill-clattering, and whistling calls, especially on breeding grounds. They rely on keen eyesight and smell to locate food.",
+      "zh": "这些信天翁会发出多种啁啾声、嘴喙敲击声和哨声，特别是在繁殖地。它们依靠敏锐的视力和嗅觉来寻找食物。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "They arrive at colonies in September–October, lay eggs in October–November, and chicks fledge by April–May. Outside the breeding season, they migrate to feeding areas across vast ocean regions.",
+      "zh": "它们在九月至十月抵达殖民地，十月至十一月产卵，雏鸟到四月至五月离巢。繁殖季之外，它们迁徙到广阔的海洋觅食区。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Black-browed Albatrosses often approach fishing vessels to feed on discards, which puts them at risk of being caught on hooks. They are iconic birds for seabird-watchers and are the subject of long-term research.",
+      "zh": "黑眉信天翁常靠近渔船觅食废弃物，这也使它们面临被钩住的风险。它们是海鸟观察者的标志性鸟类，也是长期研究的对象。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Black-browed albatrosses belong to the mollymawk genus Thalassarche. Their long, narrow wings and dynamic-soaring flight are living specializations for travelling over windy southern oceans, not signs that the lineage stopped evolving.",
+      "zh": "黑眉信天翁属于小型信天翁类群Thalassarche属。狭长翅膀与动态滑翔是适应南方多风海域的现生特化，并不意味着这一谱系已经停止演化。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "At sea, look for a distinctive black eyebrow, black-tipped yellow bill, and dark grey wings. They often glide close to the water in strong winds.",
+      "zh": "在海上，可识别独特的黑眉纹、黄嘴黑尖以及深灰色翅膀。它们常在强风中贴近水面滑翔。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The black brow is actually a dark marking that extends from each eye backwards, making the bird look angry.",
+          "zh": "这条黑眉实际上是从每只眼睛向后延伸的深色斑纹，让这种鸟看起来气呼呼的。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A bird may cover tens of thousands of kilometres while foraging in a year.",
+          "zh": "一只鸟一年觅食飞行距离可能达到数万公里。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "The Black-browed Albatross is the most widespread and numerous albatross species.",
+          "zh": "黑眉信天翁是分布最广、数量最多的信天翁物种。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "Chicks identify their parents by the sound of their calls.",
+          "zh": "雏鸟通过声音辨认亲鸟。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Nesting and colony life",
+          "zh": "筑巢与群体生活"
+        },
+        "content": {
+          "en": "They build a nest of mud and grass on steep cliffs. Colonies can have thousands of pairs, and they defend a small territory around the nest.",
+          "zh": "它们在陡峭悬崖上用泥和草筑巢。群落可能有数千对，它们会保卫巢周围的一小块领地。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Migration and dispersal",
+          "zh": "迁徙与扩散"
+        },
+        "content": {
+          "en": "After breeding, they disperse across the southern oceans, with some crossing the equator. Young birds often spend years at sea before returning to their natal colony.",
+          "zh": "繁殖结束后，它们会分散到南大洋各处，有些甚至越过赤道。幼鸟往往在海上一待多年，然后才回到出生地。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Foraging trips",
+          "zh": "觅食之旅"
+        },
+        "content": {
+          "en": "During chick rearing, parents alternate short and long foraging trips, traveling hundreds to thousands of kilometers to find food.",
+          "zh": "在育雏期间，亲鸟交替进行短途和长途觅食之旅，航行数百至数千公里寻找食物。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "This species breeds on sub-Antarctic islands like the Falklands, South Georgia, and Kerguelen, and forages across the southern oceans. It is most often found over continental shelf waters and near oceanic fronts.",
+    "text_zh": "该物种在南极幅合带附近的亚南极岛屿（如福克兰群岛、南乔治亚岛和凯尔盖朗群岛）繁殖，并在南大洋觅食。它常出现于大陆架水域及海洋锋面附近。",
+    "map_coordinates": [
+      -51.8,
+      -59.5
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This new record has no previous geometry. Authoritative sources were checked, but a reusable polygon would misstate the species because its range is ocean-wide, taxonomically unresolved, or insufficiently mapped; the map therefore shows a clearly labelled representative point rather than a guessed boundary.",
+      "comparison_zh": "这是没有旧几何的新记录。已检查权威来源，但由于其范围跨越广阔海域、分类界定刚发生变化或分布资料不足，绘制多边形会造成误导；因此地图显示明确标注的代表点，而不猜测边界。",
+      "checked_at": "2026-08-17"
+    }
+  },
+  "image": "/images/animals/black-browed-albatross.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2481410",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2481410/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "BirdLife International DataZone",
+      "url": "http://datazone.birdlife.org/species/factsheet/black-browed-albatross-thalassarche-melanophris",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "BirdLife International DataZone",
+      "url": "http://datazone.birdlife.org/species/factsheet/black-browed-albatross-thalassarche-melanophris",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "BirdLife International DataZone range map",
+      "url": "http://datazone.birdlife.org/species/factsheet/black-browed-albatross-thalassarche-melanophris",
+      "checked_at": "2026-08-17"
+    }
+  }
+}

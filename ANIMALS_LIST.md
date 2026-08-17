@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **436** 种动物
+**统计**：共 **451** 种动物
 
 ---
 
@@ -56,6 +56,7 @@
 
 **袋鼠科**
 
+- 古氏树袋鼠 / Goodfellow's Tree-kangaroo — *Dendrolagus goodfellowi* `goodfellows-tree-kangaroo`
 - 短尾矮袋鼠 / Quokka — *Setonix brachyurus* `quokka`
 - 红袋鼠 / Red Kangaroo — *Osphranter rufus* `red-kangaroo`
 
@@ -84,6 +85,10 @@
 - 水豚 / Capybara — *Hydrochoerus hydrochaeris* `capybara`
 - 巴塔哥尼亚豚鼠 / Patagonian mara — *Dolichotis patagonum* `patagonian-mara`
 
+**跳鼠科**
+
+- 长耳跳鼠 / Long-eared Jerboa — *Euchoreutes naso* `long-eared-jerboa`
+
 ### 奇蹄目
 
 **犀科**
@@ -93,6 +98,7 @@
 **貘科**
 
 - 马来貘 / Malayan tapir — *Tapirus indicus* `malayan-tapir`
+- 山貘 / Mountain Tapir — *Tapirus pinchaque* `mountain-tapir`
 - 南美貘 / South American tapir — *Tapirus terrestris* `south-american-tapir`
 
 **马科**
@@ -168,9 +174,15 @@
 - 红领狐猴 / Red Ruffed Lemur — *Varecia rubra* `red-ruffed-lemur`
 - 环尾狐猴 / Ring-tailed Lemur — *Lemur catta* `ring-tailed-lemur`
 
+**狨科**
+
+- 黑颏皇狨猴 / Black-chinned Emperor Tamarin — *Saguinus imperator* `emperor-tamarin`
+
 **猴科**
 
+- 狮尾狒狒 / Gelada — *Theropithecus gelada* `gelada`
 - 川金丝猴 / Golden Snub-nosed Monkey — *Rhinopithecus roxellana* `golden-snub-nosed-monkey`
+- 日本猕猴 / Japanese Macaque — *Macaca fuscata* `japanese-macaque`
 - 长鼻猴 / Proboscis monkey — *Nasalis larvatus* `proboscis-monkey`
 
 **蜘蛛猴科**
@@ -182,6 +194,7 @@
 **鼯猴科**
 
 - 斑鼯猴 / Philippine Flying Lemur — *Cynocephalus volans* `philippine-flying-lemur`
+- 巽他鼯猴 / Sunda Colugo — *Galeopterus variegatus* `sunda-colugo`
 
 ### 真盲缺目
 
@@ -204,6 +217,7 @@
 **叶口蝠科**
 
 - 吸血蝠 / Common Vampire Bat — *Desmodus rotundus* `common-vampire-bat`
+- 洪都拉斯白蝠 / Honduran White Bat — *Ectophylla alba* `honduran-white-bat`
 - 白翼吸血蝠 / White-winged vampire bat — *Diaemus youngii* `white-winged-vampire-bat`
 
 **狐蝠科**
@@ -277,6 +291,10 @@
 
 - 豹海豹 / Leopard seal — *Hydrurga leptonyx* `leopard-seal`
 - 北象海豹 / Northern elephant seal — *Mirounga angustirostris* `northern-elephant-seal`
+
+**灵猫科**
+
+- 熊狸 / Binturong — *Arctictis binturong* `arctictis-binturong`
 
 **熊科**
 
@@ -572,6 +590,12 @@
 - 安第斯神鹫 / Andean condor — *Vultur gryphus* `andean-condor`
 - 红头美洲鹫 / Turkey Vulture — *Cathartes aura* `turkey-vulture`
 
+### 蕉鹃目
+
+**蕉鹃科**
+
+- 大蓝蕉鹃 / Great Blue Turaco — *Corythaeola cristata* `great-blue-turaco`
+
 ### 隼形目
 
 **隼科**
@@ -750,6 +774,12 @@
 - 原鸡 / Red Junglefowl — *Gallus gallus* `red-junglefowl`
 - 红腹角雉 / Temminck's Tragopan — *Tragopan temminckii* `temmincks-tragopan`
 
+### 鸨形目
+
+**鸨科**
+
+- 灰颈鹭鸨 / Kori Bustard — *Ardeotis kori* `kori-bustard`
+
 ### 鸮形目
 
 **鸱鸮科**
@@ -854,6 +884,7 @@
 **鹦鹉科**
 
 - 虎皮鹦鹉 / Budgerigar — *Melopsittacus undulatus* `budgerigar`
+- 灰鹦鹉 / Grey Parrot — *Psittacus erithacus* `grey-parrot`
 - 紫蓝金刚鹦鹉 / Hyacinth Macaw — *Anodorhynchus hyacinthinus* `hyacinth-macaw`
 - 绯红金刚鹦鹉 / Scarlet Macaw — *Ara macao* `scarlet-macaw`
 
@@ -876,6 +907,7 @@
 
 **信天翁科**
 
+- 黑眉信天翁 / Black-browed Albatross — *Thalassarche melanophris* `black-browed-albatross`
 - 漂泊信天翁 / Wandering Albatross — *Diomedea exulans* `wandering-albatross`
 
 ### 鹳形目
@@ -1050,6 +1082,7 @@
 **隐鳃鲵科**
 
 - 中国大鲵 / Chinese Giant Salamander — *Andrias davidianus* `chinese-giant-salamander`
+- 日本大鲵 / Japanese Giant Salamander — *Andrias japonicus* `japanese-giant-salamander`
 
 ---
 
@@ -1389,6 +1422,12 @@
 **裸背电鳗科**
 
 - 电鳗 / Electric eel — *Electrophorus electricus* `electric-eel`
+
+### 骨舌鱼目
+
+**巨骨舌鱼科**
+
+- 巨骨舌鱼 / Arapaima — *Arapaima gigas* `arapaima-gigas`
 
 ### 鮟鱇目
 

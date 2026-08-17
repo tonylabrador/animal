@@ -1,0 +1,497 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit"
+  },
+  "id": "japanese-giant-salamander",
+  "name_zh": "日本大鲵",
+  "name_en": "Japanese Giant Salamander",
+  "scientific_name": "Andrias japonicus",
+  "ui_tags": [
+    "Amphibian",
+    "Freshwater",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Amphibia",
+      "zh": "两栖纲"
+    },
+    "order": {
+      "en": "Caudata",
+      "zh": "有尾目"
+    },
+    "family": {
+      "en": "Cryptobranchidae",
+      "zh": "隐鳃鲵科"
+    },
+    "genus": {
+      "en": "Andrias",
+      "zh": "大鲵属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危",
+    "note_en": "Current global IUCN category checked on 2026-08-17 through the IUCN-linked GBIF endpoint.",
+    "note_zh": "已于2026-08-17通过关联IUCN的GBIF接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The Japanese giant salamander is one of the world’s largest amphibians, reaching up to 1.5 meters long. With its wrinkled skin and flat body, it slips beneath rocks in cold mountain streams. It breathes mostly through its skin and uses sensitive receptors to hunt in dark, slow-moving water.",
+    "zh": "日本大鲵是世界上最大的两栖动物之一，体长可达1.5米。它拥有褶皱的皮肤和扁平的身体，会藏在山间溪流的岩石下。它主要通过皮肤呼吸，并利用灵敏的感受器在黑暗、缓慢流动的水中捕食。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Its body is wide and flattened, with a large head and tiny eyes. The dark brown skin is covered in lumps and wrinkles that help it blend with stones. A long, paddle-shaped tail provides strong swimming power.",
+      "zh": "它的身体宽而扁平，头大且眼睛很小。深棕色的皮肤上布满疙瘩和褶皱，有助于它和石头融为一体。长而像桨一样的尾巴提供了强大的游泳力量。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "The salamander is mostly nocturnal, hiding under rocks by day and hunting at night. It feasts on fish, crayfish, worms, and even small mammals. It usually stays in one stretch of river and defends its territory from rivals.",
+      "zh": "大鲵主要在夜间活动，白天躲在岩石下，夜晚捕食。它捕食鱼类、小龙虾、蠕虫，甚至小型哺乳动物。它通常只待在河流的一小段，并会保护自己的领地免受竞争对手的侵扰。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "This species lives only in Japan, on the islands of Honshu, Shikoku, and Kyushu. It prefers clear, cool, fast-flowing mountain streams and rivers. It hides under large boulders or in rock crevices along the banks.",
+      "zh": "该物种仅分布在日本，见于本州、四国和九州各岛。它偏好清澈、凉爽、水流湍急的山间溪流和河流。它隐藏在大石头下或河岸的岩石缝隙中。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Up to 150 cm (4.9 ft) long; most adults are 60–100 cm.",
+          "zh": "可达150厘米（4.9英尺），多数成体为60–100厘米。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "Up to 25 kg (55 lb), though most are much lighter.",
+          "zh": "可达25公斤（55磅），但大多数要轻得多。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Carnivorous: feeds on fish, insects, crustaceans, worms, and small mammals.",
+          "zh": "肉食性：以鱼类、昆虫、甲壳动物、蠕虫和小型哺乳动物为食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动习性"
+        },
+        "value": {
+          "en": "Nocturnal; hides under rocks during the day and hunts at night.",
+          "zh": "夜行性；白天藏于岩石下，夜间捕食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会单位"
+        },
+        "value": {
+          "en": "Solitary, except during the breeding season when males guard nests.",
+          "zh": "独居，繁殖季节雄性守护巢穴时除外。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "reproduction",
+        "label": {
+          "en": "Reproduction",
+          "zh": "繁殖"
+        },
+        "value": {
+          "en": "Females lay 200–500 eggs in an underwater burrow; the male protects them until hatching.",
+          "zh": "雌性在水下巢穴中产下200–500枚卵，雄性守护至孵化。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "Over 50 years in captivity; wild lifespan is not precisely known.",
+          "zh": "人工饲养下可超过50年；野外寿命尚不明确。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Breeding occurs from late summer to early autumn. A male digs a nest under a large rock, then courts a female to lay her egg strings inside. He guards the eggs for weeks until the tiny larvae hatch. The larvae have feathery external gills and slowly grow into adults over several years.",
+      "zh": "繁殖发生从夏末到初秋。雄性在大石头下挖巢，然后吸引雌性在巢内产下一串串卵。它会守护卵数周，直到微小的幼体孵化。幼体有羽状外鳃，经过数年后逐渐长成成体。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Skin breathing",
+          "zh": "皮肤呼吸"
+        },
+        "detail": {
+          "en": "The salamander’s skin is highly vascular and absorbs oxygen directly from water, so it can stay submerged for hours without using its lungs.",
+          "zh": "大鲵的皮肤血管丰富，能直接从水中吸收氧气，因此可以数小时潜伏在水中而不需用肺呼吸。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Camouflage",
+          "zh": "伪装"
+        },
+        "detail": {
+          "en": "Its lumpy, mottled skin perfectly matches mossy rocks, making it nearly invisible to prey and predators.",
+          "zh": "它疙疙瘩瘩、斑驳的皮肤与长满苔藓的岩石完美匹配，使它在猎物和天敌面前几乎隐形。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Lateral-line system",
+          "zh": "侧线系统"
+        },
+        "detail": {
+          "en": "A row of sensory pits along its head and body detects water pressure and vibrations, helping it find prey in dark, murky water.",
+          "zh": "头部和身体上的一排感觉孔可以感知水压和振动，帮助它在黑暗、浑浊的水中找到猎物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Tail power",
+          "zh": "尾部力量"
+        },
+        "detail": {
+          "en": "The strong, oar-like tail lets it lunge quickly from a still position to capture fast-moving prey.",
+          "zh": "强壮的桨状尾巴使其能在静止状态下快速冲刺，捕捉游动迅速的猎物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a top predator in mountain streams, the giant salamander helps keep populations of fish, insects, and crustaceans in balance. Its larvae also provide food for larger fish and birds. Its burrowing activity churns riverbeds, which may benefit other stream life.",
+      "zh": "作为山溪中的顶级捕食者，大鲵有助于维持鱼类、昆虫和甲壳动物种群的平衡。它的幼体也为大型鱼类和鸟类提供食物。其掘穴活动会翻动河床，可能对溪流中的其他生物有利。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Habitat loss from dam construction, river channelization, water pollution, and predation by introduced species. Hybridization with Chinese giant salamanders is also a serious risk.",
+        "zh": "大坝建设、河流渠道化、水污染导致的栖息地丧失，以及外来物种的捕食。与中国大鲵杂交也是一个严重风险。"
+      },
+      "actions": {
+        "en": "In Japan, it is protected as a special natural monument. Captive breeding programs and habitat restoration are underway.",
+        "zh": "在日本，它被指定为特别天然纪念物受到保护，并开展人工繁育和栖息地恢复项目。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Very large size, wrinkled dark skin, broad flat head, small eyes, and a long tail.",
+        "zh": "体型非常大，皮肤褶皱且呈深色，头宽而扁平，眼睛小，尾巴长。"
+      },
+      "similar_species": {
+        "en": "The Chinese giant salamander (Andrias davidianus) looks similar but has a rougher head texture and is found in China, not Japan.",
+        "zh": "中国大鲵（Andrias davidianus）外形相似，但头部纹理更粗糙，且分布在中国而非日本。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "It sees poorly but has an excellent lateral-line system for sensing water motion. During breeding, males may emit barks or grunts to attract females. Chemicals in its skin also help it detect mates.",
+      "zh": "它的视力不佳，但具有出色的侧线系统来感知水流运动。繁殖期雄性会发出叫声或咕噜声以吸引雌性。它皮肤中的化学物质也有助于识别配偶。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Active mostly in spring to autumn, with breeding in late summer. In winter, it becomes less active and may stay hidden under rocks, but it does not truly hibernate in the mild Japanese climate.",
+      "zh": "主要在春季到秋季活跃，繁殖发生在夏末。冬季活动减少，可能藏于岩石下，但在日本温和的气候下并不真正冬眠。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The Japanese giant salamander holds cultural significance and is a symbol of conservation in Japan. It has been featured in local folklore. Fishing nets can occasionally catch them, but they are now protected by law.",
+      "zh": "日本大鲵具有文化意义，是日本保护的象征。它出现在当地民间传说中。渔网偶尔会误捕到它们，但现在它们受法律保护。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Japanese giant salamanders belong to Cryptobranchidae, a lineage with a long fossil history. They share ancient anatomical features with their relatives, but modern populations continue to evolve and are not literally unchanged living fossils.",
+      "zh": "日本大鲵属于隐鳃鲵科，这一谱系拥有漫长的化石记录。它们与近亲共享一些古老解剖特征，但现代种群仍在持续演化，并非字面意义上一成不变的“活化石”。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for large rocks with hollows underneath in clear streams, and occasionally sheds of skin. Frog-like calls in late summer may indicate breeding males. The presence of fish bones or chewed shells near rock piles can indicate feeding activity.",
+      "zh": "在清澈溪流中寻找下方有空隙的大岩石，偶尔能看到蜕下的皮肤。夏末的蛙鸣声可能表明有繁殖的雄性。岩石堆附近的鱼骨或咀嚼过的贝壳痕迹表明有摄食活动。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The Japanese giant salamander is one of the world's largest living amphibians.",
+          "zh": "日本大鲵是世界上体型最大的现生两栖动物之一。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "It can regenerate lost body parts, including parts of its heart and brain, making it important in medical research.",
+          "zh": "它可以再生失去的身体部位，包括心脏和大脑的一部分，这让它在医学研究中很重要。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "In 1951, it was the first animal to be designated a 'special natural monument' in Japan.",
+          "zh": "1951年，它是日本首个被指定为“特别天然纪念物”的动物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "It has an incredibly slow metabolism and can go for weeks without eating.",
+          "zh": "它的新陈代谢极其缓慢，可以数周不进食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Metamorphosis",
+          "zh": "变态发育"
+        },
+        "content": {
+          "en": "Unlike frogs, giant salamanders do not go through a dramatic metamorphosis. Larvae keep their external gills until they mature, and adults still rely heavily on skin breathing.",
+          "zh": "与蛙类不同，大鲵不会经历剧烈的变态发育。幼体保留其外鳃直到成熟，而成体仍然高度依赖皮肤呼吸。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "External gills",
+          "zh": "外鳃"
+        },
+        "content": {
+          "en": "Young salamanders breathe with bushy, bright-red external gills. As they grow, the gills shrink and are replaced by skin and lung respiration.",
+          "zh": "幼鲵用浓密的亮红色外鳃呼吸。随着成长，外鳃会萎缩，并逐渐被皮肤和肺呼吸所取代。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Found in clear, cool, fast-flowing mountain streams and rivers on the Japanese islands of Honshu, Shikoku, and Kyushu.",
+    "text_zh": "见于日本本州、四国和九州岛上清澈、凉爽、水流湍急的山间溪流和河流。",
+    "map_coordinates": [
+      35,
+      136
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [
+        [
+          36,
+          133
+        ],
+        [
+          36.2,
+          137.2
+        ],
+        [
+          34.3,
+          137.2
+        ],
+        [
+          33.6,
+          134.7
+        ],
+        [
+          34.2,
+          132.4
+        ],
+        [
+          36,
+          133
+        ]
+      ],
+      [
+        [
+          34.6,
+          132.2
+        ],
+        [
+          34.6,
+          134.8
+        ],
+        [
+          33.3,
+          134.6
+        ],
+        [
+          33,
+          132.7
+        ],
+        [
+          34.6,
+          132.2
+        ]
+      ],
+      [
+        [
+          33.8,
+          130.2
+        ],
+        [
+          33.8,
+          132
+        ],
+        [
+          32.5,
+          131.6
+        ],
+        [
+          32.2,
+          130.4
+        ],
+        [
+          33.8,
+          130.2
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed polygons are simplified from the cited institutional range map for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的多边形依据所引机构分布图简化，以便在世界地图上清晰呈现；边界为概括性范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-17"
+    }
+  },
+  "image": "/images/animals/japanese-giant-salamander.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2432039",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2432039/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Andrias_japonicus/",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "AmphibiaWeb, University of California, Berkeley",
+      "url": "https://amphibiaweb.org/cgi/amphib_query?where-genus=Andrias&where-species=japonicus",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "AmphibiaWeb, University of California, Berkeley",
+      "url": "https://amphibiaweb.org/cgi/amphib_query?where-genus=Andrias&where-species=japonicus",
+      "checked_at": "2026-08-17"
+    }
+  }
+}

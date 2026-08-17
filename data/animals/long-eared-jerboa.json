@@ -1,0 +1,460 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit"
+  },
+  "id": "long-eared-jerboa",
+  "name_zh": "长耳跳鼠",
+  "name_en": "Long-eared Jerboa",
+  "scientific_name": "Euchoreutes naso",
+  "ui_tags": [
+    "Mammal",
+    "Desert",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Rodentia",
+      "zh": "啮齿目"
+    },
+    "family": {
+      "en": "Dipodidae",
+      "zh": "跳鼠科"
+    },
+    "genus": {
+      "en": "Euchoreutes",
+      "zh": "长耳跳鼠属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "Current global IUCN category checked on 2026-08-17 through the IUCN-linked GBIF endpoint.",
+    "note_zh": "已于2026-08-17通过关联IUCN的GBIF接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The long-eared jerboa is a tiny, desert-dwelling rodent in Mongolia and northern China, known for its enormous ears and kangaroo-like hopping. It is a quiet, nocturnal animal that survives in some of the harshest drylands on Earth.",
+    "zh": "长耳跳鼠是一种生活在蒙古和中国北部沙漠中的小型啮齿动物，以巨大的耳朵和类似袋鼠的跳跃方式著称。它是一种安静的夜行性动物，能在地球上最严酷的干旱地区生存。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The long-eared jerboa is a tiny rodent, with a head-body length of only 7–9 cm and a tail of 15–16 cm. Its most striking feature is its huge ears, which can be as long as 4–5 cm—about half the length of its body. The hind legs are long and powerful, adapted for jumping, while the front legs are short and used for digging. The ears are thought to help regulate body temperature and improve hearing in the desert.",
+      "zh": "长耳跳鼠是一种小型啮齿动物，头体长仅7–9厘米，尾长15–16厘米。其最显著的特征是巨大的耳朵，最长可达4–5厘米，约相当于体长的一半。后腿长而有力，适应跳跃；前腿较短，用于挖洞。耳朵被认为有助于调节体温并改善沙漠中的听觉。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Long-eared jerboas are nocturnal and solitary. They spend the day in burrows and come out at night to forage. Their diet consists mainly of insects, such as beetles and grasshoppers, as well as some plant material. They move by hopping on their hind legs, sometimes covering long distances in search of food. They are well adapted to life in dry deserts and can go long periods without drinking water, obtaining moisture from their food.",
+      "zh": "长耳跳鼠是夜行性独居动物。白天在洞穴中休息，夜间出来觅食。它们的食物主要为昆虫，如甲虫和蝗虫，也吃一些植物。它们用后腿跳跃移动，有时会跳很长的距离寻找食物。它们非常适应干燥的沙漠生活，可以长时间不喝水，从食物中获取水分。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "This species is found in the Gobi Desert region of southern Mongolia and northern China, including parts of Inner Mongolia, Xinjiang, and Gansu. It prefers arid areas with sparse vegetation, such as sandy valleys, gravel plains, and desert steppes. The long-eared jerboa is rarely seen due to its remote habitat and nocturnal habits. Its exact range boundaries are not well known, which contributes to its Data Deficient status.",
+      "zh": "该物种分布于蒙古南部和中国北部的戈壁沙漠地区，包括内蒙古、新疆和甘肃的部分地区。它偏好干旱、植被稀疏的环境，如沙质谷地、砾石平原和荒漠草原。由于栖息地偏远且夜行性，长耳跳鼠很少被观察到。其确切分布范围尚未完全清楚，这也是其被列为数据缺乏的原因之一。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Head-body 7–9 cm; tail 15–16 cm; ear up to 5 cm",
+          "zh": "头体长7–9厘米；尾长15–16厘米；耳长可达5厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "24–38 g",
+          "zh": "24–38克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Insects (beetles, grasshoppers) and some plant matter",
+          "zh": "昆虫（甲虫、蝗虫）及一些植物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Nocturnal",
+          "zh": "夜行性"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会单元"
+        },
+        "value": {
+          "en": "Solitary",
+          "zh": "独居"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "reproduction",
+        "label": {
+          "en": "Reproduction",
+          "zh": "繁殖"
+        },
+        "value": {
+          "en": "Little known; likely 1–2 litters per year, 2–6 young per litter",
+          "zh": "鲜为人知；可能每年1–2胎，每胎2–6仔"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "Unknown in the wild",
+          "zh": "野外寿命未知"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Very little is known about the reproduction of long-eared jerboas in the wild. Based on studies of related jerboas, they likely breed in spring and summer, producing one or two litters per year. Gestation is thought to last about 25 to 35 days, and litters contain around 2 to 6 young. The young are born helpless and grow quickly, becoming independent after a few weeks. More research is needed to confirm these details.",
+      "zh": "关于长耳跳鼠在野外的繁殖情况知之甚少。根据对相关跳鼠的研究，它们可能在春季和夏季繁殖，每年产一至两胎。妊娠期估计约为25至35天，每胎约2至6只幼崽。幼崽出生时无自理能力，但生长迅速，几周后即可独立。需要更多研究来确认这些细节。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Giant ears",
+          "zh": "巨大的耳朵"
+        },
+        "detail": {
+          "en": "The extremely long ears have a large surface area that helps dissipate heat, keeping the animal cool in the hot desert. They may also enhance hearing to detect predators and prey.",
+          "zh": "极长的耳朵拥有较大的表面积，有助于散热，使动物在炎热的沙漠中保持凉爽。它们也可能增强听觉，用来察觉捕食者和猎物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Powerful hind legs",
+          "zh": "强壮的后腿"
+        },
+        "detail": {
+          "en": "Strong, elongated hind legs allow the jerboa to hop rapidly over vast distances, escaping predators and covering ground efficiently while expending less energy.",
+          "zh": "强壮而细长的后腿使跳鼠能够快速跳跃很远的距离，既能躲避捕食者，又能以较低的能量消耗高效行经地面。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Fur-covered feet",
+          "zh": "毛茸茸的脚底"
+        },
+        "detail": {
+          "en": "The soles of the feet have fur, which provides insulation against hot sand and improves traction on loose surfaces.",
+          "zh": "脚掌上生有毛发，既能隔热，防止烫伤，又能在松散的沙地上增强抓地力。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Water conservation",
+          "zh": "节约水分"
+        },
+        "detail": {
+          "en": "Their kidneys and metabolic processes are efficient at extracting moisture from their food and reducing water loss, enabling them to survive in arid conditions.",
+          "zh": "它们的肾脏和新陈代谢过程能高效地从食物中提取水分并减少水分流失，从而使它们能够在干旱环境中生存。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As small omnivores, long-eared jerboas help control insect populations and disperse plant seeds. They are also prey for desert predators such as owls, foxes, and snakes. Their burrowing activity aerates the soil and creates habitats for other small animals.",
+      "zh": "作为小型杂食动物，长耳跳鼠有助于控制昆虫种群并传播植物种子。它们也是猫头鹰、狐狸和蛇等沙漠捕食者的猎物。其挖洞行为可以翻松土壤，并为其他小动物创造栖息环境。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The main threats are thought to be habitat loss and degradation from overgrazing, mining, and infrastructure development in desert regions. Climate change is also a potential future threat. However, because the species is so poorly studied, specific impacts remain unclear.",
+        "zh": "主要威胁被认为是过度放牧、矿业和沙漠地区基础设施建设导致的栖息地丧失和退化。气候变化也是一个潜在的未来威胁。然而，由于该物种研究不足，具体影响尚不清楚。"
+      },
+      "actions": {
+        "en": "There are no specific conservation actions for this species. It occurs in some protected areas, such as the Great Gobi Strictly Protected Area in Mongolia. Further research is needed to estimate population sizes, distribution, and threats to inform future conservation.",
+        "zh": "目前对该物种没有专门的保护措施。它出现在一些保护区，如蒙古的大戈壁特别保护区。需要进一步研究以估算种群数量、分布和威胁，为未来的保护提供信息。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Huge ears (up to 5 cm), long tail (about twice body length), small sandy-colored body, long hind feet, hopping gait.",
+        "zh": "巨大的耳朵（可达5厘米）、长尾巴（约为体长两倍）、沙色的小身体、长后足、跳跃式步态。"
+      },
+      "similar_species": {
+        "en": "Other jerboas, but the long-eared jerboa is distinguished by its exceptionally long ears, which are much larger relative to body size than in other jerboas. Also, its tail has no dark tuft at the end, unlike some species.",
+        "zh": "与其他跳鼠相似，但长耳跳鼠的耳朵特别长，相对于体型而言远大于其他跳鼠。此外，它的尾巴末端没有深色毛簇，与某些种类不同。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Long-eared jerboas rely heavily on hearing and touch. Their large ears likely give them excellent hearing, allowing them to detect the faint sounds of insects and the approach of predators. They may communicate with conspecifics through vocalizations, foot thumping, and scent markings, but these behaviors are poorly documented. They use their whiskers to navigate in the dark when digging.",
+      "zh": "长耳跳鼠主要依赖听觉和触觉。大耳朵可能赋予它们敏锐的听力，能够察觉昆虫的微弱声音和捕食者的接近。它们可能通过发声、拍打后足和气味标记与同类交流，但这些行为记录很少。它们利用胡须在黑暗中挖掘时导航。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Activity is likely highest in the warmer months from spring to autumn. During the coldest winter months, long-eared jerboas may become less active or enter torpor to save energy. Their reproduction is likely timed to coincide with food availability in late spring and summer.",
+      "zh": "在春季至秋季的温暖月份，活动可能最为频繁。在冬季最寒冷的几个月里，长耳跳鼠可能会减少活动或进入蛰眠状态以节省能量。其繁殖时间可能与晚春和夏季的食物供应相关。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Long-eared jerboas are rarely seen by people due to their remote, arid habitats and nocturnal lifestyle. They have become icons of desert biodiversity and have been featured in wildlife documentaries. Little conflict exists with humans, but their habitats may be affected by human activities such as mining and livestock grazing.",
+      "zh": "由于栖息地偏远干旱且夜行性，长耳跳鼠很少被人类看到。它们已成为沙漠生物多样性的标志，并出现在野生动物纪录片中。与人类的冲突很少，但其栖息地可能受到采矿和牲畜放牧等人类活动的影响。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "The long-eared jerboa is the only living species in the genus Euchoreutes, which diverged from other jerboas millions of years ago. Its unique ears and hopping locomotion are evolutionary adaptations to the desert environment. Genetic studies have shown it to be one of the most evolutionarily distinct rodents, leading to conservation attention from organizations like the EDGE programme.",
+      "zh": "长耳跳鼠是长耳跳鼠属唯一的现存物种，该属在数百万年前与其他跳鼠分化。其独特的耳朵和跳跃方式是适应沙漠环境的演化结果。遗传研究显示，它是进化上最独特的啮齿动物之一，因此引起了如EDGE计划等保护组织的关注。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "In the wild, field signs include small burrow openings, tiny footprints with comma-shaped marks from the hind feet, and scattered insect remains. The jerboas themselves are rarely seen. Their tracks can often be found in sandy soils near daytime burrows.",
+      "zh": "在野外，地面痕迹包括小洞穴口、带有逗号状后足痕迹的微小脚印，以及散落的昆虫残骸。跳鼠本身很难见到。它们的足迹常见于白天洞穴附近的沙质土壤中。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The long-eared jerboa was selected as one of the EDGE (Evolutionarily Distinct and Globally Endangered) mammals, bringing it international conservation attention.",
+          "zh": "长耳跳鼠被选为EDGE（进化独特且全球濒危）哺乳动物之一，引起了国际保护关注。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "text": {
+          "en": "Relative to its body size, the long-eared jerboa has some of the largest ears of any mammal.",
+          "zh": "相对于体型而言，长耳跳鼠拥有哺乳动物中最大的耳朵之一。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "It can leap distances many times its own body length, and its tail helps it balance during high jumps.",
+          "zh": "它能跳出相当于自己体长多倍的距离，尾巴有助于在高跳中保持平衡。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The scientific name Euchoreutes naso comes from Greek and Latin roots meaning 'good jumper' and 'nose'.",
+          "zh": "其学名Euchoreutes naso起源于希腊语和拉丁语，意为‘优秀的跳跃者’和‘鼻子’。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Thermoregulating ears",
+          "zh": "调节温度的耳朵"
+        },
+        "content": {
+          "en": "Like many desert mammals, long-eared jerboas have large ears filled with blood vessels. Blood flowing through the ears releases heat, helping the animal cool down in the hot desert. This is especially important for a tiny mammal that lives in an environment where temperatures can swing dramatically between day and night.",
+          "zh": "和许多沙漠哺乳动物一样，长耳跳鼠拥有布满血管的大耳朵。流经耳朵的血液会散热，帮助动物在炎热的沙漠中降温。这对生活在昼夜温差极大环境中的小型哺乳动物尤为重要。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Kangaroo-like locomotion",
+          "zh": "袋鼠式运动"
+        },
+        "content": {
+          "en": "The long-eared jerboa moves by hopping on its hind legs, much like a miniature kangaroo. Its long tail acts as a counterbalance, allowing it to change direction quickly while jumping. This mode of travel is highly energy-efficient for covering large areas of desert in search of food.",
+          "zh": "长耳跳鼠用后腿跳跃移动，就像一只微型袋鼠。它的长尾巴作为平衡器，使其在跳跃时能快速转向。这种移动方式在沙漠中寻找食物时能高效节省能量地覆盖大范围区域。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "The long-eared jerboa lives in the cold deserts and semi-deserts of southern Mongolia and northern China. It prefers sandy valleys, gravel plains, and sparse desert steppes, often near low scrub. They are rarely found in areas with dense vegetation or extreme rocky terrain.",
+    "text_zh": "长耳跳鼠生活在蒙古南部和中国北部的寒冷沙漠和半沙漠地带。它偏好沙质谷地、砾石平原和植被稀疏的荒漠草原，常靠近低矮灌木丛。在植被茂密或岩石地形极端的地方很少发现它们。",
+    "map_coordinates": [
+      44.5,
+      103.5
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          48,
+          88
+        ],
+        [
+          49,
+          100
+        ],
+        [
+          47,
+          111
+        ],
+        [
+          43,
+          116
+        ],
+        [
+          39,
+          107
+        ],
+        [
+          38,
+          96
+        ],
+        [
+          41,
+          88
+        ],
+        [
+          48,
+          88
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed polygons are simplified from the cited institutional range map for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的多边形依据所引机构分布图简化，以便在世界地图上清晰呈现；边界为概括性范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-17"
+    }
+  },
+  "image": "/images/animals/long-eared-jerboa.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2439475",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2439475/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Euchoreutes_naso/",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Euchoreutes_naso/",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Euchoreutes_naso/",
+      "checked_at": "2026-08-17"
+    }
+  }
+}

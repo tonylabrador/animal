@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T18:57:09.525Z",
+  "generated_at": "2026-08-17T22:33:36.900Z",
   "completion_rule": "A record is complete only when Rich Content v2 factual/bilingual review, map review, and a human-approved verified-license image all pass.",
   "summary": {
-    "total": 436,
-    "content_reviewed": 436,
+    "total": 451,
+    "content_reviewed": 451,
     "content_pending": 0,
-    "images_verified": 397,
-    "release_complete": 397,
+    "images_verified": 412,
+    "release_complete": 412,
     "release_todo": 39
   },
   "animals": [
@@ -419,6 +419,21 @@
       "issues": []
     },
     {
+      "id": "arapaima-gigas",
+      "name_en": "Arapaima",
+      "name_zh": "巨骨舌鱼",
+      "scientific_name": "Arapaima gigas",
+      "class": "Fish",
+      "content_status": "reviewed-v2",
+      "map_status": "representative-point",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-17",
+      "reviewer": "Codex source and bilingual audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "arctic-fox",
       "name_en": "Arctic Fox",
       "name_zh": "北极狐",
@@ -433,6 +448,21 @@
       "batches": [
         "legacy-qc-batch-03"
       ],
+      "issues": []
+    },
+    {
+      "id": "arctictis-binturong",
+      "name_en": "Binturong",
+      "name_zh": "熊狸",
+      "scientific_name": "Arctictis binturong",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-17",
+      "reviewer": "Codex source and bilingual audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -790,6 +820,21 @@
       "batches": [
         "legacy-qc-batch-03"
       ],
+      "issues": []
+    },
+    {
+      "id": "black-browed-albatross",
+      "name_en": "Black-browed Albatross",
+      "name_zh": "黑眉信天翁",
+      "scientific_name": "Thalassarche melanophris",
+      "class": "Bird",
+      "content_status": "reviewed-v2",
+      "map_status": "representative-point",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-17",
+      "reviewer": "Codex source and bilingual audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -2395,6 +2440,21 @@
       "issues": []
     },
     {
+      "id": "emperor-tamarin",
+      "name_en": "Black-chinned Emperor Tamarin",
+      "name_zh": "黑颏皇狨猴",
+      "scientific_name": "Saguinus imperator",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "representative-point",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-17",
+      "reviewer": "Codex source and bilingual audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "emu",
       "name_en": "Emu",
       "name_zh": "鸸鹋",
@@ -2786,6 +2846,21 @@
       "issues": []
     },
     {
+      "id": "gelada",
+      "name_en": "Gelada",
+      "name_zh": "狮尾狒狒",
+      "scientific_name": "Theropithecus gelada",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-17",
+      "reviewer": "Codex source and bilingual audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "giant-anteater",
       "name_en": "Giant Anteater",
       "name_zh": "大食蚁兽",
@@ -3143,6 +3218,21 @@
       "issues": []
     },
     {
+      "id": "goodfellows-tree-kangaroo",
+      "name_en": "Goodfellow's Tree-kangaroo",
+      "name_zh": "古氏树袋鼠",
+      "scientific_name": "Dendrolagus goodfellowi",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-17",
+      "reviewer": "Codex source and bilingual audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "gopher-snake",
       "name_en": "Gopher Snake",
       "name_zh": "北美岸蛇",
@@ -3242,6 +3332,21 @@
       "batches": [
         "legacy-qc-batch-05"
       ],
+      "issues": []
+    },
+    {
+      "id": "great-blue-turaco",
+      "name_en": "Great Blue Turaco",
+      "name_zh": "大蓝蕉鹃",
+      "scientific_name": "Corythaeola cristata",
+      "class": "Bird",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-17",
+      "reviewer": "Codex source and bilingual audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -3581,6 +3686,21 @@
       "issues": []
     },
     {
+      "id": "grey-parrot",
+      "name_en": "Grey Parrot",
+      "name_zh": "灰鹦鹉",
+      "scientific_name": "Psittacus erithacus",
+      "class": "Bird",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-17",
+      "reviewer": "Codex source and bilingual audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "grey-partridge",
       "name_en": "Grey Partridge",
       "name_zh": "灰山鹑",
@@ -3748,6 +3868,21 @@
       "batches": [
         "legacy-qc-batch-05"
       ],
+      "issues": []
+    },
+    {
+      "id": "honduran-white-bat",
+      "name_en": "Honduran White Bat",
+      "name_zh": "洪都拉斯白蝠",
+      "scientific_name": "Ectophylla alba",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-17",
+      "reviewer": "Codex source and bilingual audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -4116,6 +4251,36 @@
       "issues": []
     },
     {
+      "id": "japanese-giant-salamander",
+      "name_en": "Japanese Giant Salamander",
+      "name_zh": "日本大鲵",
+      "scientific_name": "Andrias japonicus",
+      "class": "Amphibian",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-17",
+      "reviewer": "Codex source and bilingual audit",
+      "batches": [],
+      "issues": []
+    },
+    {
+      "id": "japanese-macaque",
+      "name_en": "Japanese Macaque",
+      "name_zh": "日本猕猴",
+      "scientific_name": "Macaca fuscata",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-17",
+      "reviewer": "Codex source and bilingual audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "japanese-spider-crab",
       "name_en": "Japanese Spider Crab",
       "name_zh": "甘氏巨螯蟹",
@@ -4321,6 +4486,21 @@
       "batches": [
         "legacy-qc-batch-05"
       ],
+      "issues": []
+    },
+    {
+      "id": "kori-bustard",
+      "name_en": "Kori Bustard",
+      "name_zh": "灰颈鹭鸨",
+      "scientific_name": "Ardeotis kori",
+      "class": "Bird",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-17",
+      "reviewer": "Codex source and bilingual audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -4578,6 +4758,21 @@
       "batches": [
         "legacy-qc-batch-05"
       ],
+      "issues": []
+    },
+    {
+      "id": "long-eared-jerboa",
+      "name_en": "Long-eared Jerboa",
+      "name_zh": "长耳跳鼠",
+      "scientific_name": "Euchoreutes naso",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-17",
+      "reviewer": "Codex source and bilingual audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -4858,6 +5053,21 @@
       "batches": [
         "legacy-qc-batch-06"
       ],
+      "issues": []
+    },
+    {
+      "id": "mountain-tapir",
+      "name_en": "Mountain Tapir",
+      "name_zh": "山貘",
+      "scientific_name": "Tapirus pinchaque",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-17",
+      "reviewer": "Codex source and bilingual audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -6593,6 +6803,21 @@
       "batches": [
         "legacy-qc-batch-06"
       ],
+      "issues": []
+    },
+    {
+      "id": "sunda-colugo",
+      "name_en": "Sunda Colugo",
+      "name_zh": "巽他鼯猴",
+      "scientific_name": "Galeopterus variegatus",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-17",
+      "reviewer": "Codex source and bilingual audit",
+      "batches": [],
       "issues": []
     },
     {

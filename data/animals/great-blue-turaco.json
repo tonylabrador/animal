@@ -1,0 +1,471 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit"
+  },
+  "id": "great-blue-turaco",
+  "name_zh": "大蓝蕉鹃",
+  "name_en": "Great Blue Turaco",
+  "scientific_name": "Corythaeola cristata",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Frugivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Musophagiformes",
+      "zh": "蕉鹃目"
+    },
+    "family": {
+      "en": "Musophagidae",
+      "zh": "蕉鹃科"
+    },
+    "genus": {
+      "en": "Corythaeola",
+      "zh": "蓝蕉鹃属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "Current global IUCN category checked on 2026-08-17 through the IUCN-linked GBIF endpoint.",
+    "note_zh": "已于2026-08-17通过关联IUCN的GBIF接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The great blue turaco is a large, long-tailed bird with mostly purplish-blue plumage, a golden-yellow chest, a black-tipped yellow bill, and a tall black-tipped crest. It is about 70–76 cm long, making it the largest turaco species. It lives in the canopies of rainforests across equatorial Africa and is rarely seen on the ground.",
+    "zh": "大蓝蕉鹃是大型长尾鸟类，全身主要为紫蓝色，胸部金黄，喙黄色而末端黑色，头顶有高耸的黑色尖端冠羽。体长约70-76厘米，是蕉鹃科中体型最大的种类。它们栖息于赤道非洲雨林的树冠层，很少在地面活动。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The great blue turaco has a bulky body, a long tail, and broad, rounded wings. Its plumage is unique among birds: the green and red colors come from special copper-based pigments (turacoverdin and turacin) instead of ordinary feather pigments. The outer toes are semi-zygodactyl and can be turned forward or backward for a strong grip while climbing.",
+      "zh": "大蓝蕉鹃体型圆胖，尾长，翅膀宽而圆。它的羽毛颜色在鸟类中很独特：绿色和红色来自特殊的含铜色素（蕉鹃绿素和蕉鹃红素），而不是普通的羽毛色素。其外趾呈半对趾型，可以向前或向后转动，便于在树枝上紧紧抓握。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Great blue turacos are social birds that live in small family groups, often in the upper canopy. They are mostly sedentary, moving from tree to tree in search of ripe fruit. They are not strong fliers but use short gliding flights between trees. Their calls are loud, guttural 'kok-kok-kok' sounds that carry through the forest.",
+      "zh": "大蓝蕉鹃是群居鸟类，通常以小家庭群体活动，常待在森林上层树冠。它们大多不迁徙，在树木间移动寻找成熟果实。它们不擅长长途飞行，但会在树间进行短距离滑翔。它们的叫声响亮而深沉，'kok-kok-kok'的声音能传遍森林。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "This turaco is found in the rainforests and forest edges of central and western equatorial Africa, ranging from Guinea and Sierra Leone east to South Sudan and western Kenya, and south to Angola and Zambia. It prefers dense, tall forests and is often seen near rivers and clearings.",
+      "zh": "该鸟分布于非洲中西部赤道地区的雨林和林缘，从几内亚和塞拉利昂往东到南苏丹和肯尼亚西部，往南到安哥拉和赞比亚。它们偏好茂密高大的森林，常出现在河流和空地附近。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "70-76 cm long",
+          "zh": "体长70-76厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "800-1000 g",
+          "zh": "800-1000克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Frugivore; fruits, leaves, flowers",
+          "zh": "食果性；果实、叶、花"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动"
+        },
+        "value": {
+          "en": "Diurnal",
+          "zh": "昼行性"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会单位"
+        },
+        "value": {
+          "en": "Small family groups",
+          "zh": "小家庭群"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "reproduction",
+        "label": {
+          "en": "Reproduction",
+          "zh": "繁殖"
+        },
+        "value": {
+          "en": "2 eggs per clutch",
+          "zh": "每窝产2枚卵"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Great blue turacos breed seasonally, varying with local rainfall. Both parents build a platform nest of sticks high in a tree. The female lays two whitish eggs, which both parents incubate for about 24 days. Chicks are born helpless and are fed by both parents; they leave the nest after 3-4 weeks and become independent after a few months.",
+      "zh": "大蓝蕉鹃的繁殖季节随当地降雨变化。亲鸟在树上高处用树枝筑成平台状巢穴。雌鸟每窝产两枚发白的卵，由双亲轮流孵化约24天。雏鸟出生时无力，双亲共同喂养，约3-4周后离巢，几个月后独立。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Tall crest",
+          "zh": "高冠羽"
+        },
+        "detail": {
+          "en": "The black-tipped crest can be raised or lowered to express mood and alarm, helping the birds communicate in dense foliage.",
+          "zh": "末端黑色的冠羽可以竖起或放下，以表达情绪和警告，帮助它们在茂密的树叶中交流。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Semi-zygodactyl feet",
+          "zh": "半对趾足"
+        },
+        "detail": {
+          "en": "The flexible outer toe can rotate forward or backward, giving the turaco a secure grasp on branches and allowing agile climbing in the canopy.",
+          "zh": "灵活的外趾可以向前或向后旋转，使蕉鹃能牢牢抓住树枝，在树冠中敏捷攀爬。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Copper-based pigments",
+          "zh": "含铜色素"
+        },
+        "detail": {
+          "en": "The striking green and red feathers are colored by turacoverdin and turacin, which contain copper. This is unique among birds and may make colors more visible in the dim forest light.",
+          "zh": "鲜艳的绿色和红色羽毛来自含有铜的蕉鹃绿素和蕉鹃红素。这在鸟类中独一无二，可能使颜色在暗淡的森林光线中更加显眼。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Efficient fruit digestion",
+          "zh": "高效的果实消化"
+        },
+        "detail": {
+          "en": "A specially adapted gut processes large amounts of fruit quickly, allowing the turaco to extract nutrients and disperse many seeds across the forest.",
+          "zh": "特化的肠道能快速处理大量果实，让蕉鹃能获取营养并在森林中传播大量种子。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As frugivores, great blue turacos are important seed dispersers. They eat fruits from many trees and spread seeds in their droppings, helping to maintain forest diversity. Their feeding also helps control insect populations when they occasionally eat invertebrates.",
+      "zh": "作为食果动物，大蓝蕉鹃是重要的种子传播者。它们吃掉许多树木的果实，并通过粪便传播种子，有助于维持森林多样性。它们偶尔捕食无脊椎动物，也可能帮助调节昆虫种群。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "stable",
+      "threats": {
+        "en": "Deforestation and agricultural expansion cause habitat loss and fragmentation. In some areas they are hunted for meat and captured for the pet trade.",
+        "zh": "森林砍伐和农业扩张导致栖息地丧失和破碎化。在一些地区，它们被猎杀食肉或被捕获用于宠物贸易。"
+      },
+      "actions": {
+        "en": "The species is found in many protected areas. Conservation focuses on preserving rainforest habitat, enforcing anti-hunting laws, and monitoring populations.",
+        "zh": "该物种存在于许多保护区。保护工作重点在于保护雨林栖息地、执行反偷猎法律并监测种群。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Large size, mostly blue body, golden-yellow chest, yellow bill with black tip, and a tall black-tipped crest. Also the largest turaco.",
+        "zh": "体型大，身体多为蓝色，胸部金黄，喙黄色且尖端黑色，头顶有高耸的黑色尖端冠羽。是蕉鹃中体型最大者。"
+      },
+      "similar_species": {
+        "en": "Other turacos, such as the violet turaco, are smaller and have different head patterns. The great blue turaco is the only one with a blue body and black-tipped crest in its range.",
+        "zh": "其他蕉鹃如紫蕉鹃体型更小，头部花纹不同。在分布区内，只有大蓝蕉鹃具有蓝色身体和黑色尖端冠羽。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Great blue turacos use a variety of calls, including a deep 'kok-kok-kok' and softer rattles. Visual signals like crest raising and head bobbing also help communicate in the forest.",
+      "zh": "大蓝蕉鹃会发出多种叫声，包括深沉的低音'kok-kok-kok'和较柔和的嘎嘎声。冠羽竖起和点头等视觉信号也有助于在森林中进行交流。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding peaks during the rainy season when fruit is abundant. In some regions, they may raise two broods per year.",
+      "zh": "繁殖期在雨季达到高峰，此时果实丰富。在部分地区，它们每年可能养育两窝雏鸟。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Great blue turacos sometimes eat cultivated fruits, which can bring them into conflict with farmers. They are culturally significant in Africa and appear in art and folklore. They are also common in zoos.",
+      "zh": "大蓝蕉鹃有时会取食种植的果实，这可能引起农民的不满。在非洲它们具有文化意义，常出现在艺术和民间传说中。它们在动物园里也很常见。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Turacos are an ancient African bird family related to cuckoos and bustards. The great blue turaco's unique copper-based pigments are considered an ancestral trait of the family Musophagidae.",
+      "zh": "蕉鹃是古老的非洲鸟类家族，与杜鹃和鸨类有亲缘关系。大蓝蕉鹃独特的含铜色素被认为是蕉鹃科的祖传特征。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for fallen, partly-eaten fruits beneath trees, and listen for loud calls at dawn and dusk. Droppings containing fruit seeds are also common signs.",
+      "zh": "在树下寻找掉落、被部分食用的果实，并在黎明和黄昏听响亮的叫声。含果实种子的粪便也是常见迹象。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The great blue turaco is the largest of all turaco species.",
+          "zh": "大蓝蕉鹃是所有蕉鹃中体型最大的种类。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Unlike most birds, turacos have red and green feathers colored by copper pigments, not just structural colors.",
+          "zh": "与大多数鸟类不同，蕉鹃的红色和绿色羽毛由含铜色素着色，而不仅是结构色。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its outer toe can rotate backward, helping it climb tree trunks and branches.",
+          "zh": "它的外趾可以向后旋转，帮助它在树干和树枝上攀爬。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The species name 'cristata' means 'crested' in Latin, referring to its prominent crest.",
+          "zh": "种名'cristata'在拉丁语中意为'有冠的'，指其显著的冠羽。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Vocalization",
+          "zh": "鸣声"
+        },
+        "content": {
+          "en": "Great blue turacos produce deep, resonant calls often heard at dawn and dusk. These calls help family groups stay in contact and defend territories.",
+          "zh": "大蓝蕉鹃会在黎明和黄昏发出深沉、共鸣的叫声。这些叫声有助于群体保持联系并保卫领地。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Nesting",
+          "zh": "筑巢"
+        },
+        "content": {
+          "en": "They build flimsy-looking stick nests hidden in dense foliage. Both parents share incubation and feeding duties.",
+          "zh": "它们用树枝建造看似单薄的巢，隐藏在茂密树叶中。双亲共同承担孵化与喂养职责。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Arboreal lifestyle",
+          "zh": "树栖习性"
+        },
+        "content": {
+          "en": "Adapted to life in the treetops, they hop along branches using their specialized feet and rarely descend to the ground.",
+          "zh": "专于树冠生活，它们用特化的足在树枝上跳跃，很少下到地面。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "This turaco inhabits lowland and montane rainforests, forest edges, and clearings across equatorial Africa, from West Africa to East Africa and south to the Congo Basin.",
+    "text_zh": "该蕉鹃栖息于赤道非洲的低地与山地雨林、林缘和空地，从西非到东非，南至刚果盆地。",
+    "map_coordinates": [
+      0,
+      25
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          10,
+          -10
+        ],
+        [
+          11,
+          2
+        ],
+        [
+          8,
+          13
+        ],
+        [
+          6,
+          24
+        ],
+        [
+          4,
+          31
+        ],
+        [
+          -4,
+          30
+        ],
+        [
+          -8,
+          20
+        ],
+        [
+          -7,
+          10
+        ],
+        [
+          -2,
+          2
+        ],
+        [
+          5,
+          -5
+        ],
+        [
+          10,
+          -10
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed polygons are simplified from the cited institutional range map for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的多边形依据所引机构分布图简化，以便在世界地图上清晰呈现；边界为概括性范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-17"
+    }
+  },
+  "image": "/images/animals/great-blue-turaco.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2475223",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2475223/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Corythaeola_cristata/",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "BirdLife International DataZone",
+      "url": "http://datazone.birdlife.org/species/factsheet/great-blue-turaco-corythaeola-cristata",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "BirdLife International DataZone range map",
+      "url": "http://datazone.birdlife.org/species/factsheet/great-blue-turaco-corythaeola-cristata",
+      "checked_at": "2026-08-17"
+    }
+  }
+}

@@ -20,7 +20,7 @@ const esc = (value) => String(value).replace(/[<>&'\"]/g, (character) => ({
 async function animalRow(id) {
   const directory = path.join(ROOT, ".image-review", id);
   const review = JSON.parse(fs.readFileSync(path.join(directory, "review.json"), "utf8"));
-  const width = includePublished ? 1500 : 1200;
+  const width = includePublished ? 2100 : 1800;
   const height = 220;
   const candidateWidth = 300;
   const candidates = [];
@@ -50,7 +50,7 @@ async function animalRow(id) {
     const pageIds = ids.slice(offset, offset + perPage);
     const rows = await Promise.all(pageIds.map(animalRow));
     const output = path.join(ROOT, ".image-review", `all-candidates-${pages.length + 1}.jpg`);
-    await sharp({ create: { width: includePublished ? 1500 : 1200, height: rows.length * 220, channels: 3, background: "#ffffff" } })
+    await sharp({ create: { width: includePublished ? 2100 : 1800, height: rows.length * 220, channels: 3, background: "#ffffff" } })
       .composite(rows.map((input, index) => ({ input, left: 0, top: index * 220 })))
       .jpeg({ quality: 90 }).toFile(output);
     pages.push(output);

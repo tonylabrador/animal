@@ -1,0 +1,472 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit"
+  },
+  "id": "grey-parrot",
+  "name_zh": "灰鹦鹉",
+  "name_en": "Grey Parrot",
+  "scientific_name": "Psittacus erithacus",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Frugivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Psittaciformes",
+      "zh": "鹦形目"
+    },
+    "family": {
+      "en": "Psittacidae",
+      "zh": "鹦鹉科"
+    },
+    "genus": {
+      "en": "Psittacus",
+      "zh": "灰鹦鹉属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危",
+    "note_en": "Current global IUCN category checked on 2026-08-17 through the IUCN-linked GBIF endpoint.",
+    "note_zh": "已于2026-08-17通过关联IUCN的GBIF接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The grey parrot is a medium-sized parrot with mostly grey plumage, a striking red tail, and a black bill. It is famous for its high intelligence and remarkable ability to mimic human speech and other sounds.",
+    "zh": "灰鹦鹉是一种中型鹦鹉，羽毛主要为灰色，尾巴呈醒目的红色，喙为黑色。它以高智商和惊人的模仿人类语言及其他声音的能力而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Grey parrots measure about 33 cm from head to tail and weigh 400–600 g. Their body feathers are ash grey with paler edges, giving a scalloped appearance. They have a short, square tail with a bright red tail. The bare white skin on the face forms a mask around the eyes, and the bill is strong, curved, and black. Their feet are zygodactyl, with two toes pointing forward and two backward, perfect for grasping branches and food.",
+      "zh": "灰鹦鹉从头到尾长约33厘米，体重400–600克。身体羽毛为灰白色，羽缘较浅，形成鳞状花纹。尾巴短而方正，尾下覆羽为鲜红色。脸部裸露的白色皮肤在眼周形成面具，喙强壮且弯曲，呈黑色。脚为对趾型，两趾向前，两趾向后，非常适合抓握树枝和食物。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Grey parrots live in flocks that can number in the hundreds. They are highly social and communicate with a wide range of calls, whistles, and screams. Their diet consists mainly of fruits, nuts, seeds, and berries, occasionally supplemented by bark, flowers, and insects. They are diurnal, feeding in the morning and evening, and spend the midday resting and preening. They are also known for their problem-solving abilities and have been observed using tools in the wild.",
+      "zh": "灰鹦鹉成群生活，群体可达数百只。它们高度社会化，通过多种叫声、哨音和尖叫进行交流。食物主要包括果实、坚果、种子和浆果，偶尔也吃树皮、花朵和昆虫。它们是昼行性动物，早晨和傍晚觅食，中午休息和梳理羽毛。它们还以解决问题的能力著称，在野外有人观察到它们使用工具。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Grey parrots are found in lowland rainforests, forest edges, clearings, and sometimes in wooded savannas and mangroves. Their range spans West and Central Africa, from Guinea and Sierra Leone east to Kenya, and south to Angola and Tanzania. They prefer mature forests with large trees for nesting and roosting.",
+      "zh": "灰鹦鹉分布于低地雨林、森林边缘、林间空地，有时也出现在稀树草原和林地红树林中。其分布范围包括西非和中非，从几内亚和塞拉利昂向东至肯尼亚，向南到安哥拉和坦桑尼亚。它们偏好拥有大树的大型成熟森林，用于筑巢和栖息。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "About 33 cm in length",
+          "zh": "体长约33厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "400–600 g",
+          "zh": "400-600克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Frugivore; fruits, nuts, seeds, berries",
+          "zh": "食果性；水果、坚果、种子、浆果"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动习性"
+        },
+        "value": {
+          "en": "Diurnal",
+          "zh": "昼行性"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会单位"
+        },
+        "value": {
+          "en": "Flocks",
+          "zh": "群体"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "Up to 40–60 years in captivity",
+          "zh": "圈养情况下可达40-60年"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Grey parrots breed once a year, with the season varying by region but often coinciding with the dry season. They nest in natural tree cavities, usually high above the ground. The female lays 2–5 white eggs, which are incubated for about 28–30 days. Chicks fledge at 12–14 weeks, but remain dependent on their parents for several more months.",
+      "zh": "灰鹦鹉每年繁殖一次，繁殖季节因地区而异，但通常与旱季一致。它们在天然树洞中筑巢，通常位置较高。雌鸟每次产2-5枚白色卵，孵化期约28-30天。雏鸟在12-14周龄时离巢，但在之后的几个月里仍需依赖父母。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Strong curved bill",
+          "zh": "强壮的弯喙"
+        },
+        "detail": {
+          "en": "The powerful, hooked bill can crack hard nuts and seeds, while also being used for climbing and manipulating objects.",
+          "zh": "强壮且呈钩状的喙能咬开硬坚果和种子，同时也可用于攀爬和操作物体。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Zygodactyl feet",
+          "zh": "对趾型足"
+        },
+        "detail": {
+          "en": "Two toes face forward and two backward, allowing a secure grip on branches and precise foot-eye coordination for handling food.",
+          "zh": "两趾向前，两趾向后，能在树枝上稳固抓握，并能精确地进行足眼协调来抓取食物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Vocal mimicry",
+          "zh": "声音模仿"
+        },
+        "detail": {
+          "en": "A specialized vocal organ, the syrinx, allows them to reproduce a vast array of sounds, including human speech, useful for social bonding and communication.",
+          "zh": "特殊的发声器官——鸣管，使它们能发出各种各样的声音，包括人类的语言，在社交联络和信息交流中非常有用。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Camouflage plumage",
+          "zh": "伪装羽毛"
+        },
+        "detail": {
+          "en": "The grey feathers blend perfectly with the dappled light of the forest canopy, helping the parrot avoid predators while feeding.",
+          "zh": "灰色羽毛与森林树冠间的斑驳光线完美融合，帮助鹦鹉在觅食时避开捕食者。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Grey parrots are important seed dispersers in African forests. They feed on a wide variety of fruits and then travel considerable distances, excreting seeds in new locations. Their presence in large flocks can also influence forest structure and regeneration.",
+      "zh": "灰鹦鹉是非洲森林中重要的种子传播者。它们取食多种果实，随后飞行相当远的距离，将种子随粪便排泄在新的地方。它们结成大群的活动还可能影响森林结构和更新。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "The main threats are illegal capture for the pet trade, habitat loss due to deforestation and agricultural expansion, and to a lesser extent, hunting for meat and feathers.",
+        "zh": "主要威胁包括为宠物贸易而非法捕捉、森林砍伐和农业扩张导致的栖息地破坏，以及少量捕食为食肉和羽毛。"
+      },
+      "actions": {
+        "en": "The grey parrot is listed under CITES Appendix I, and many range countries have established protected areas and stricter law enforcement. International campaigns aim to curb the illegal trade.",
+        "zh": "灰鹦鹉被列入《濒危野生动植物种国际贸易公约》附录I，许多分布国建立了保护区和加强执法。国际行动旨在遏制非法贸易。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Grey plumage with a bright red tail, black curved bill, and bare white skin on the face. The head and neck are slightly paler. The eyes are light yellow in adults.",
+        "zh": "灰色羽毛，尾羽鲜红色，喙黑色弯曲，脸部裸露皮肤白色。头部和颈部颜色稍浅。成鸟眼睛呈淡黄色。"
+      },
+      "similar_species": {
+        "en": "The Timneh parrot (Psittacus timneh) is smaller with darker grey feathers, a horn-colored upper mandible, and a dark maroon tail. The grey parrot's red tail is unique among parrots in its range.",
+        "zh": "提姆那灰鹦鹉（Psittacus timneh）体型较小，羽毛较深，上喙呈角褐色，尾部为暗红褐色。灰鹦鹉的红色尾巴在其分布区内是独有的。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Grey parrots have complex vocal communication, including contact calls, alarm calls, and mimicked sounds. They have acute eyesight and hearing, which help them detect predators and locate fruits. They also use body language, such as ruffling feathers or flashing their red tails.",
+      "zh": "灰鹦鹉有复杂的发声交流，包括联络叫声、报警叫声和模仿的声音。它们视觉和听觉敏锐，有助于发现捕食者和定位果实。它们还使用肢体语言，如竖起羽毛或摆动红色尾巴。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding often occurs during the dry season when fruit is abundant. In West Africa, nesting typically peaks from July to December, while in Central Africa it may be from January to July. Local movements occur in response to fruit availability.",
+      "zh": "繁殖通常在果实丰富的旱季进行。在西非，筑巢高峰期通常是七月至十二月，而在中非可能是一月至七月。它们会根据果实的可用性进行局部迁移。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Grey parrots have been kept as pets for thousands of years due to their ability to mimic speech and their charming personalities. In Africa, they are also valued as symbols of intelligence. However, heavy trapping for the pet trade has devastated wild populations.",
+      "zh": "灰鹦鹉因模仿语言的能力和可爱的性格，多年来被作为宠物饲养。在非洲，它们也被视为智慧的象征。然而，宠物贸易的大量捕捉严重威胁了野生种群。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "The Grey Parrot belongs to the African parrot genus Psittacus. Current species-level treatments also recognize the smaller, darker Timneh Parrot, so the two must not be merged when identifying photographs or describing range.",
+      "zh": "灰鹦鹉属于非洲鹦鹉类群Psittacus属。当前种级分类还承认体型较小、颜色较深的非洲灰鹦鹉，因此核对照片和描述分布时不能把两者合并。",
+      "source_keys": [
+        "taxonomy",
+        "general"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for partially opened nuts or fruit on the ground, chewed vegetation, and white droppings with seed remains. Listen for their loud, squawking calls, often heard early morning and late afternoon. In roosting areas, large flocks can be seen flying overhead.",
+      "zh": "观察地面上的半开坚果或果实、被啃食的植物，以及含有种子残渣的白色粪便。留意它们响亮的叫声，常于清晨和傍晚听到。在栖息地，可以看到大群灰鹦鹉从头顶飞过。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "A famous grey parrot named Alex could identify over 100 objects, understand colors, shapes, and even grasp the concept of zero.",
+          "zh": "一只名叫亚历克斯的著名灰鹦鹉能识别100多种物体，理解颜色、形状，甚至掌握“零”的概念。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Grey parrots have a highly developed cognitive ability, similar to that of a 4- to 6-year-old human child in some tasks.",
+          "zh": "灰鹦鹉具有高度发达的认知能力，在某些任务中相当于4至6岁的人类儿童。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Their bright red tail is not just for show; it may act as a signal to other parrots in dense forest.",
+          "zh": "它们鲜红的尾羽不只是为了好看，它可能是在茂密森林中向其他鹦鹉发出的信号。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Grey parrots can learn to use human words in context, making them one of the most accomplished animal mimics.",
+          "zh": "灰鹦鹉能学会在语境中使用人类的词语，是世界上最擅长模仿的动物之一。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Vocal and imitative skills",
+          "zh": "发声与模仿能力"
+        },
+        "content": {
+          "en": "As birds, grey parrots produce sounds using their syrinx, a unique vocal organ. They can imitate human speech, other bird calls, and even mechanical sounds with remarkable accuracy, a skill used to bond with flock members.",
+          "zh": "作为鸟类，灰鹦鹉借助独特的发声器官鸣管发出声音。它们能高度逼真地模仿人类语言、其他鸟类的叫声甚至机械声音，这种技能用于与群体成员建立联系。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Nesting and parental care",
+          "zh": "筑巢与亲代抚育"
+        },
+        "content": {
+          "en": "Grey parrots are cavity nesters, relying on large, old trees with holes. Both parents care for the eggs and chicks. The young stay with the parents for several months, learning survival skills.",
+          "zh": "灰鹦鹉是洞巢鸟，依赖高大老龄树木的树洞筑巢。雌雄双亲共同照顾卵和雏鸟。幼鸟在父母身边停留数月，学习生存技能。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Flocking behavior",
+          "zh": "群体行为"
+        },
+        "content": {
+          "en": "Like many parrots, grey parrots are highly gregarious. They roost together in large numbers, sometimes in colonies of hundreds or even thousands, which provides safety and allows social learning.",
+          "zh": "与许多鹦鹉一样，灰鹦鹉非常合群。它们大量聚集栖息，有时形成数百甚至数千只的群体，这提供了安全性并促进了社交学习。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Grey parrots inhabit lowland rainforests and forest edges across West and Central Africa, from Guinea to Kenya and south to Angola. They depend on old-growth forests with suitable nesting hollows and abundant fruit trees.",
+    "text_zh": "灰鹦鹉栖息于西非和中非的低地雨林及森林边缘，从几内亚到肯尼亚，南至安哥拉。它们依赖具有合适巢穴和丰富果树的原始森林。",
+    "map_coordinates": [
+      1.5,
+      18
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          7,
+          -8
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          6,
+          14
+        ],
+        [
+          5,
+          23
+        ],
+        [
+          4,
+          31
+        ],
+        [
+          -2,
+          31
+        ],
+        [
+          -7,
+          20
+        ],
+        [
+          -8,
+          12
+        ],
+        [
+          -4,
+          5
+        ],
+        [
+          1,
+          -3
+        ],
+        [
+          7,
+          -8
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed polygons are simplified from the cited institutional range map for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的多边形依据所引机构分布图简化，以便在世界地图上清晰呈现；边界为概括性范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-17"
+    }
+  },
+  "image": "/images/animals/grey-parrot.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2480181",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2480181/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Psittacus_erithacus/",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "BirdLife International DataZone",
+      "url": "http://datazone.birdlife.org/species/factsheet/grey-parrot-psittacus-erithacus",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "BirdLife International DataZone range map",
+      "url": "http://datazone.birdlife.org/species/factsheet/grey-parrot-psittacus-erithacus",
+      "checked_at": "2026-08-17"
+    }
+  }
+}

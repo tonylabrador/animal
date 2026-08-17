@@ -1,0 +1,503 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit"
+  },
+  "id": "japanese-macaque",
+  "name_zh": "日本猕猴",
+  "name_en": "Japanese Macaque",
+  "scientific_name": "Macaca fuscata",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Primates",
+      "zh": "灵长目"
+    },
+    "family": {
+      "en": "Cercopithecidae",
+      "zh": "猴科"
+    },
+    "genus": {
+      "en": "Macaca",
+      "zh": "猕猴属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "Current global IUCN category checked on 2026-08-17 through the IUCN-linked GBIF endpoint.",
+    "note_zh": "已于2026-08-17通过关联IUCN的GBIF接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The Japanese macaque, also known as the snow monkey, is a medium-sized monkey with a sturdy body, a short tail, and a face that turns pink or red in adults. It is famous for living farther north than any other non-human primate and for bathing in hot springs during cold winters.",
+    "zh": "日本猕猴又称雪猴，是一种中型猴类，身体粗壮，尾巴短，成年个体面部呈粉红色或红色。它以生活在所有非人类灵长类中最靠北的地区以及冬天泡温泉而闻名。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Japanese macaques have thick, grayish-brown fur that keeps them warm in snowy mountains, and their bare faces and buttocks turn reddish when they are excited or as they mature. Their cheek pouches let them quickly stuff food into their mouths and carry it to a safer spot to eat. Adult males weigh about 11 kg, while females weigh about 8 kg, and they have a short, stubby tail.",
+      "zh": "日本猕猴有着厚实的灰褐色皮毛，能在雪山中保暖；裸露的面部和臀部在兴奋或成熟时会变红。它们的颊囊可以快速把食物塞进嘴里，带到安全的地方再吃。成年雄性体重约11千克，雌性约8千克，尾巴短而粗。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Japanese macaques live in social groups called troops, which usually contain 10 to over 100 individuals with a clear female-centered hierarchy. They spend much of the day foraging, grooming, and playing, and they are known for passing on cultural behaviors, such as washing sweet potatoes and bathing in hot springs, from one generation to another.",
+      "zh": "日本猕猴群居生活，称为猴群，通常由10到100多只个体组成，具有以雌性为中心的社会等级。它们白天大部分时间都在觅食、理毛和玩耍，并且以文化行为闻名，比如洗红薯和泡温泉，这些行为会代代相传。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Japanese macaques are found only in Japan, from the northern tip of Honshu to Yakushima Island in the south. They live in a wide range of forests, including subtropical, deciduous, and subalpine forests, and some populations endure heavy snowfall and freezing temperatures.",
+      "zh": "日本猕猴仅分布于日本，从本州岛北端到南方的屋久岛。它们生活在多种森林中，包括亚热带、落叶和亚高山森林，部分种群还要忍受大雪和严寒。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Head-body length 47–60 cm; tail about 10 cm.",
+          "zh": "头体长47–60厘米；尾长约10厘米。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "Males about 11 kg; females about 8 kg.",
+          "zh": "雄性约11千克；雌性约8千克。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Omnivorous: fruits, seeds, leaves, bark, fungi, insects, and small animals.",
+          "zh": "杂食：果实、种子、树叶、树皮、真菌、昆虫和小动物。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Mainly diurnal, active during the day.",
+          "zh": "主要在白天活动。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会单位"
+        },
+        "value": {
+          "en": "Troops of 10–100+ individuals with female-bonded hierarchies.",
+          "zh": "10到100多只的猴群，具有雌性纽带等级制度。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "Up to 32 years in the wild; longer in captivity.",
+          "zh": "野外可达32年；圈养环境下更长。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Japanese macaques breed in autumn and winter, and after a gestation of about 170 days, a female gives birth to a single infant in spring. Infants cling to their mother's belly and later ride on her back, and they grow up in a social troop where siblings and other females help care for them. Females stay in their birth troop for life, while males usually leave when they mature.",
+      "zh": "日本猕猴在秋冬繁殖，经过约170天的怀孕期后，雌性在春天产下一只幼崽。幼崽先紧贴在母亲的腹部，之后骑在母亲背上，在猴群中成长，兄弟姐妹和其他雌猴也会帮助照顾它们。雌性一生都留在出生的猴群中，雄性通常在成熟后离开。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Thick winter coat",
+          "zh": "厚实的冬毛"
+        },
+        "detail": {
+          "en": "In cold regions, their fur becomes denser and longer in winter, and they fluff it up to trap body heat, letting them survive temperatures far below freezing.",
+          "zh": "在寒冷地区，冬季它们的毛发变得更密更长，并通过蓬松来锁住体温，使它们能在零度以下的环境中生存。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Cheek pouches",
+          "zh": "颊囊"
+        },
+        "detail": {
+          "en": "These pouches are an extendable part of the mouth that lets a monkey stuff several mouthfuls of food rapidly, then move to avoid competition or predators before eating.",
+          "zh": "颊囊是口腔的可扩展部分，让猴子能迅速塞进好几口食物，然后转移到安全处躲避竞争或天敌后再进食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Hot-spring bathing",
+          "zh": "泡温泉"
+        },
+        "detail": {
+          "en": "In snowy areas, some troops soak in natural hot springs to keep warm. This learned behavior is passed down and can reduce stress and cold stress during harsh winters.",
+          "zh": "在雪地地区，一些猴群会泡天然温泉取暖。这种行为会代代相传，有助于在严冬中减轻寒冷带来的压力。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Semi-terrestrial locomotion",
+          "zh": "半地面运动"
+        },
+        "detail": {
+          "en": "Unlike many monkeys that live only in trees, Japanese macaques spend a lot of time on the ground and can walk on two legs while carrying objects, which helps them forage across large seasonal ranges.",
+          "zh": "与许多只在树上生活的猴子不同，日本猕猴大量时间在地面活动，还能在携带物品时用两条腿走路，这有助于它们在季节变化的大范围区域内觅食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Japanese macaques are important seed dispersers; they eat fruits and then deposit seeds at other locations, helping forest regeneration. They also serve as prey for large carnivores such as wolves (though wolves are now extinct in Japan), bears, and eagles, and they can influence plant communities through their feeding choices.",
+      "zh": "日本猕猴是重要的种子传播者；它们吃果实后将种子排泄到其他地方，帮助森林再生。它们也是大型食肉动物的猎物，如狼（狼虽已在日本灭绝）、熊和鹰，它们的取食选择还会影响植物群落。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Habitat loss and fragmentation from logging and development are major threats, especially for southern and isolated populations. In some areas, they are culled or managed as agricultural pests, and climate change may affect the forests they depend on.",
+        "zh": "伐木和开发造成的栖息地丧失和破碎化是主要威胁，特别是对南方和孤立种群而言。在一些地区，它们被视为农业害兽而遭到捕杀或管理；气候变化也可能影响它们赖以生存的森林。"
+      },
+      "actions": {
+        "en": "Protected areas, wildlife management plans, and research on population health help conserve the species. Measures to reduce human–macaque conflict, such as electric fences and better garbage management, are used in many parts of Japan.",
+        "zh": "保护区、野生动物管理计划和对种群健康的研究有助于保护该物种。日本许多地区还采取减少人猴冲突的措施，如架设电网围栏和改善垃圾管理。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Look for a stocky, medium-sized monkey with a gray-brown body, a short tail, and a bare pinkish face. In snow country, they are often seen in large groups near hot springs.",
+        "zh": "寻找一种粗壮的中型猴，身体灰褐色，尾巴短，面部裸露呈粉红色。在雪国，它们常成群出现在温泉附近。"
+      },
+      "similar_species": {
+        "en": "The rhesus macaque (Macaca mulatta) is similar but has a longer tail and no continuous white fur patch around the face. Japanese macaques are the only non-human primates native to Japan, so geographic location is the easiest clue.",
+        "zh": "恒河猴（Macaca mulatta）与之相似，但尾巴较长，面部周围没有连续的白色毛斑。日本猕猴是日本唯一的原生非人灵长类，因此地理位置是最容易的辨识线索。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Japanese macaques communicate with facial expressions, body postures, grooming, and a variety of calls, including grunts, squeaks, and screams that help coordinate troop movements and warn of danger. They have excellent color vision and can recognize individual faces and voices, which is vital for living in large social groups.",
+      "zh": "日本猕猴通过面部表情、身体姿态、理毛和多种叫声交流，包括咕噜声、吱吱声和尖叫声，用于协调群体行动和警示危险。它们具有出色的色觉，能识别个体的面孔和声音，这对大型群居生活至关重要。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "In spring, babies are born and new leaves appear; summer is a time of abundant food such as fruits and insects. In autumn, they build fat reserves by eating seeds and acorns, and in winter they rely on bark, buds, and stored energy, with northern troops often bathing in hot springs.",
+      "zh": "春天是幼崽出生和新叶生长的季节；夏天食物丰富，如水果和昆虫。秋天它们吃种子和橡子储备脂肪；冬天则依靠树皮、嫩芽和储存的能量过冬，北方猴群常常泡温泉。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Japanese macaques appear in Japanese art, folklore, and religion as the 'snow monkey' or the 'third monkey' (see no evil, hear no evil, speak no evil). Some troops are famous tourist attractions, but crop raiding brings them into conflict with farmers, leading to varied public attitudes toward them.",
+      "zh": "日本猕猴以“雪猴”或“三不猴”（不看、不听、不说）的形象出现在日本艺术、民间传说和宗教中。一些猴群是著名的旅游景点，但盗食农作物也导致与农民的冲突，使得公众对它们的态度各不相同。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Japanese macaques are the northernmost non-human primates in the world. Fossil and genetic evidence suggests they arrived in Japan from the Asian mainland during glacial periods, possibly over a land bridge, and evolved in isolation to become a distinct species. They are classified in the genus Macaca, which includes many other macaques across Asia and North Africa.",
+      "zh": "日本猕猴是全球分布最北的非人灵长类。化石和遗传证据表明，它们在冰期从亚洲大陆可能通过陆桥到达日本，并在隔离环境中演化成独立物种。它们属于猕猴属，该属还包括遍布亚洲和北非的许多其他猕猴。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for footprints with distinct fingers and toes, droppings that look like small dark pellets, partly eaten fruits or barks, and muddy hot springs with hair tufts around the edge. Listening for their loud, high-pitched calls can often reveal a troop before you see it.",
+      "zh": "寻找具有明显手指和脚趾印的足迹、看起来像小黑丸的粪便、被啃过的果实或树皮，以及周围沾有毛发的泥泞温泉。聆听它们响亮高亢的叫声，往往还没看到猴群就已知道它们的位置。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Japanese macaques washing sweet potatoes was one of the first documented examples of cultural behavior in non-human animals.",
+          "zh": "日本猕猴洗红薯是人类以外动物文化行为的首批有记录例子之一。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "In 2019, a Japanese macaque was spotted using a discarded metal lid as a tool to obtain food, showing flexible problem-solving skills.",
+          "zh": "2019年，有人观察到一只日本猕猴使用废弃金属盖作为工具获取食物，显示出灵活的问题解决能力。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The famous Jigokudani Monkey Park in Nagano became hot-spring bathing famous because an inventive young female named Mukubii first entered the water in 1963.",
+          "zh": "长野的地狱谷野猿公苑以猴子泡温泉闻名，因为一只富有创造力的年轻雌猴“Mukubii”于1963年率先下水。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "Their face and buttocks turn redder when they are excited or in mating season; this color change is linked to blood flow.",
+          "zh": "它们在兴奋或交配季节时面部和臀部会变得更红；这种颜色变化与血流量有关。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Primate social intelligence",
+          "zh": "灵长类的社会智力"
+        },
+        "content": {
+          "en": "Japanese macaques can recognize faces and voices of many individuals, remember social relationships, and even learn new behaviors from troop mates. This social intelligence helps them cooperate, form alliances, and resolve conflicts within large groups.",
+          "zh": "日本猕猴能识别许多个体的面孔和声音，记住社会关系，甚至能从同伴那里学习新行为。这种社会智力帮助它们在大群体中合作、结盟和化解冲突。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Mother–infant bond",
+          "zh": "母幼纽带"
+        },
+        "content": {
+          "en": "Newborn macaques cling to their mother's fur and nurse for about a year. The mother carries, protects, and grooms the infant, and grandmothers or other females sometimes help care for it, a behavior called allomothering.",
+          "zh": "新生猕猴紧紧抓住母猴的皮毛，哺乳约一年。母猴携带、保护和理毛幼崽，祖母或其他雌猴有时也会帮忙照顾，这种行为称为异母照料。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Cultural transmission",
+          "zh": "文化传承"
+        },
+        "content": {
+          "en": "Behaviors such as sweet-potato washing and hot-spring bathing are passed from older to younger monkeys through observation and imitation. This is a rare example of non-human animal culture and shows how social learning shapes adaptation.",
+          "zh": "洗红薯和泡温泉等行为通过观察和模仿由年长猴子传给年轻猴子。这是非人动物文化的罕见例子，也展示了社会学习如何塑造适应。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Japanese macaques range across Japan's main islands, from the Shimokita Peninsula at the northern tip of Honshu to Yakushima Island in the south. They occupy subtropical, temperate, and subalpine forests and are frequently found near rocky coasts or hot springs in snowy regions.",
+    "text_zh": "日本猕猴分布遍及日本主要岛屿，从本州岛北端的下北半岛直到南方的屋久岛。它们栖息于亚热带、温带和亚高山森林，在雪国地区常出现在岩石海岸或温泉附近。",
+    "map_coordinates": [
+      36.5,
+      138.3
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          40.8,
+          139.5
+        ],
+        [
+          41.2,
+          141.5
+        ],
+        [
+          37,
+          141.6
+        ],
+        [
+          34.2,
+          138.8
+        ],
+        [
+          34.3,
+          135
+        ],
+        [
+          36.4,
+          135.4
+        ],
+        [
+          39,
+          139
+        ],
+        [
+          40.8,
+          139.5
+        ]
+      ],
+      [
+        [
+          34.6,
+          132.2
+        ],
+        [
+          34.6,
+          134.8
+        ],
+        [
+          33.2,
+          134.6
+        ],
+        [
+          33,
+          132.6
+        ],
+        [
+          34.6,
+          132.2
+        ]
+      ],
+      [
+        [
+          33.8,
+          129.5
+        ],
+        [
+          33.7,
+          132
+        ],
+        [
+          31,
+          131.4
+        ],
+        [
+          31.2,
+          129.8
+        ],
+        [
+          33.8,
+          129.5
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed polygons are simplified from the cited institutional range map for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的多边形依据所引机构分布图简化，以便在世界地图上清晰呈现；边界为概括性范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-17"
+    }
+  },
+  "image": "/images/animals/japanese-macaque.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2436608",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2436608/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Macaca_fuscata/",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "Primate Info Net, Wisconsin National Primate Research Center",
+      "url": "https://primate.wisc.edu/primate-info-net/pin-factsheets/pin-factsheet-japanese-macaque/",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "Primate Info Net, Wisconsin National Primate Research Center",
+      "url": "https://primate.wisc.edu/primate-info-net/pin-factsheets/pin-factsheet-japanese-macaque/",
+      "checked_at": "2026-08-17"
+    }
+  }
+}

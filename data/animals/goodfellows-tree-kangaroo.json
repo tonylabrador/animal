@@ -1,0 +1,438 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit"
+  },
+  "id": "goodfellows-tree-kangaroo",
+  "name_zh": "古氏树袋鼠",
+  "name_en": "Goodfellow's Tree-kangaroo",
+  "scientific_name": "Dendrolagus goodfellowi",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Diprotodontia",
+      "zh": "双门齿目"
+    },
+    "family": {
+      "en": "Macropodidae",
+      "zh": "袋鼠科"
+    },
+    "genus": {
+      "en": "Dendrolagus",
+      "zh": "树袋鼠属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危",
+    "note_en": "Current global IUCN category checked on 2026-08-17 through the IUCN-linked GBIF endpoint.",
+    "note_zh": "已于2026-08-17通过关联IUCN的GBIF接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "Goodfellow's tree-kangaroo is a large, long-tailed kangaroo that lives in the rainforest canopy. It has a reddish-brown coat with pale stripes and a long, fluffy tail. These tree-kangaroos are excellent climbers and can leap between branches high above the forest floor.",
+    "zh": "古氏树袋鼠是一种大型长尾袋鼠，生活在雨林的树冠层。它有着红棕色的皮毛，带有浅色条纹，还有一条长而蓬松的尾巴。这些树袋鼠是出色的攀爬者，能在离地面很高的树枝间跳跃。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "This tree-kangaroo has strong front limbs and gripping claws for climbing. Its back legs are shorter than those of ground-dwelling kangaroos, and its long tail helps it balance on branches. The fur is thick and woolly, with a striped back and a paler belly.",
+      "zh": "这种树袋鼠前肢强壮，爪子有抓握力，适合攀爬。它的后腿比生活在陆地上的袋鼠短，长尾巴帮助它在树枝上保持平衡。它的皮毛厚而柔软，背部有条纹，腹部颜色较浅。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Goodfellow's tree-kangaroos are mostly solitary and active during the day. They spend most of their time in trees, where they feed on leaves, fruits, and flowers. They move carefully on tree branches but can also hop on the ground when needed.",
+      "zh": "古氏树袋鼠大多独居，白天活动。它们大部分时间待在树上，以树叶、水果和花朵为食。它们在树枝上移动时很小心，但需要时也能在地面上跳跃。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "This species is found in the mountainous tropical rainforests of central and eastern Papua New Guinea, typically between 1000 and 2800 meters above sea level. The habitat is under threat from deforestation and conversion of forest to farmland.",
+      "zh": "该物种分布于巴布亚新几内亚中部和东部的山地热带雨林中，通常海拔在1000至2800米之间。栖息地正受到森林砍伐和转为农用地的威胁。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "Up to about 14 years in captivity; wild lifespan not well documented.",
+          "zh": "人工饲养下可达约14年；野外寿命记录不详。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Head-body length about 50–70 cm; tail about 50–70 cm.",
+          "zh": "头体长约50–70厘米；尾长约50–70厘米。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "6–10 kg.",
+          "zh": "6–10公斤。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "饮食"
+        },
+        "value": {
+          "en": "Leaves, fruits, flowers, and other plant material.",
+          "zh": "树叶、水果、花朵及其他植物。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动"
+        },
+        "value": {
+          "en": "Diurnal (active during the day).",
+          "zh": "昼行性（白天活动）。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会单位"
+        },
+        "value": {
+          "en": "Largely solitary; together mainly when mating or raising young.",
+          "zh": "大多独居；主要在交配或抚养幼崽时在一起。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "After a short pregnancy, a tiny, underdeveloped joey is born and climbs into the mother's pouch. It attaches to a teat and grows for several months. The joey remains in the pouch for about 9–12 months, and may stay with its mother for another year after that.",
+      "zh": "经过短暂怀孕后，一只非常小、发育不健全的幼崽出生并爬进妈妈的育儿袋。它附着在乳头上生长数月。幼崽在育儿袋中待约9至12个月，之后可能再跟母亲生活一年。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Strong claws and flexible ankles",
+          "zh": "强壮的爪子和灵活的脚踝"
+        },
+        "detail": {
+          "en": "These help the tree-kangaroo grip and climb tree trunks and branches.",
+          "zh": "这些帮助树袋鼠抓住并攀爬树干和树枝。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Long tail for balance",
+          "zh": "用于平衡的长尾巴"
+        },
+        "detail": {
+          "en": "The tail is as long as the body and acts like a counterweight when moving in the canopy.",
+          "zh": "尾巴与身体一样长，在树冠中移动时起到平衡作用。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Muscular forelimbs",
+          "zh": "肌肉发达的前肢"
+        },
+        "detail": {
+          "en": "Unlike ground kangaroos, their front legs are strong, allowing them to support their weight while climbing.",
+          "zh": "与地面袋鼠不同，它们的前腿强壮，能支撑身体重量进行攀爬。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Thick woolly fur",
+          "zh": "厚实的毛"
+        },
+        "detail": {
+          "en": "The dense fur insulates them from the cool mountain rainforest climate.",
+          "zh": "浓密的毛发让它们抵御山地雨林的寒冷气候。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Tree-kangaroos help disperse seeds through their diet of fruits. They are prey for large snakes, eagles, and other predators. Their movements through the canopy also affect the structure of the forest.",
+      "zh": "树袋鼠通过取食水果帮助传播种子。它们是大型蛇类、鹰类等捕食者的猎物。它们在树冠间的活动也影响森林的结构。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Habitat loss due to logging and conversion to agriculture, and hunting for food.",
+        "zh": "由于伐木和转为农业用途导致的栖息地丧失，以及因食物而进行的捕猎。"
+      },
+      "actions": {
+        "en": "The species is protected by law in Papua New Guinea, and some populations occur in protected areas. More conservation efforts are needed to protect remaining forest.",
+        "zh": "该物种在巴布亚新几内亚受到法律保护，部分种群生活在保护区内。需要更多保育努力来保护剩余的森林。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Reddish-brown fur with clear pale stripes on the back; cream or pale belly; long, thick tail; face with a pale cheek stripe.",
+        "zh": "红棕色皮毛，背部有明显的浅色条纹；腹部浅色；尾巴长而粗；脸颊有浅色条纹。"
+      },
+      "similar_species": {
+        "en": "The Huon tree-kangaroo and Doria's tree-kangaroo are similar but differ in fur color and size. The best way to tell them apart is by the stripes on the back.",
+        "zh": "相比之下，胡恩树袋鼠和多里亚树袋鼠在毛色和大小上不同。最明显的区别是背部的条纹。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "They make a range of vocalizations, including grunts and hisses, especially when threatened. Their eyesight and hearing are well developed for spotting predators and finding food in the dim forest light.",
+      "zh": "它们会发出各种叫声，包括咕噜声和嘶嘶声，尤其在受到威胁时。它们的视力和听力发达，能在昏暗的森林光线下发现捕食者和寻找食物。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "In the mountainous regions, tree-kangaroos may breed year-round. However, more births occur during the wet season when food is abundant. Juvenile kangaroos may leave the mother at the start of the dry season.",
+      "zh": "在山地地区，树袋鼠可能全年繁殖。然而，在食物丰富的雨季，出生更多。幼崽可能在旱季开始时离开母亲。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Tree-kangaroos are hunted for food in parts of Papua New Guinea. They also face habitat loss from logging. However, they are an important symbol of forest conservation and attract tourism in some protected areas.",
+      "zh": "在巴布亚新几内亚部分地区，树袋鼠被猎食。它们也面临因伐木导致的栖息地丧失。然而，它们是森林保护的重要象征，并在一些保护区吸引游客。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Tree-kangaroos evolved from ground-dwelling kangaroo ancestors. They are part of the macropod family and adapted to life in trees over time. Their shorter back legs and stronger front limbs are key evolutionary changes for climbing.",
+      "zh": "树袋鼠从地面生活的袋鼠祖先进化而来。它们属于袋鼠科，并逐渐适应了树上生活。较短的後腿和更强壮的前肢是适应攀爬的关键进化改变。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "You might find scratch marks on tree trunks from their claws, or droppings made up of plant remains. Also listen for rustling leaves or their calls in the forest canopy.",
+      "zh": "你可能在树干上发现它们爪子的抓痕，或者由植物残渣组成的粪便。还可以在森林树冠中听到树叶沙沙声或它们的叫声。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Unlike ground kangaroos, tree-kangaroos can move their hind legs independently for climbing.",
+          "zh": "与地面袋鼠不同，树袋鼠可以独立移动后腿以便攀爬。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Their tail is as long as their body and is used for balance, not for grasping.",
+          "zh": "它们的尾巴与身体一样长，用于平衡，而非抓握。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Goodfellow's tree-kangaroo is one of several species of tree-kangaroo, all of which live in New Guinea or northeastern Australia.",
+          "zh": "古氏树袋鼠是多种树袋鼠之一，所有树袋鼠都生活在新几内亚或澳大利亚东北部。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "text": {
+          "en": "The joey stays in the mother’s pouch for nearly a year, which is long for a marsupial.",
+          "zh": "幼崽在妈妈育儿袋中待近一年，这相对于有袋类来说是很长的。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "A marsupial life",
+          "zh": "有袋类的生活"
+        },
+        "content": {
+          "en": "Like other marsupials, the female has a pouch where the tiny, helpless young develops after birth. The baby, called a joey, sucks milk from a teat inside the pouch for many months.",
+          "zh": "与其他有袋类动物一样，雌性有一个育儿袋，幼崽出生后在其中发育。幼崽在袋内吸食乳头上的乳汁数月。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Climbing specialists",
+          "zh": "攀爬专家"
+        },
+        "content": {
+          "en": "Tree-kangaroos have a different skeleton from ground kangaroos: a flexible spine, shorter back legs, and long, curved claws. These features let them climb almost vertically and leap between branches.",
+          "zh": "树袋鼠的骨骼与地面袋鼠不同：脊柱灵活，后腿较短，爪子长而弯曲。这些特征使它们能几乎垂直攀爬并在树枝间跳跃。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Mountainous tropical rainforest of central and eastern Papua New Guinea, at elevations of 1000–2800 m.",
+    "text_zh": "巴布亚新几内亚中部和东部的山地热带雨林，海拔1000–2800米。",
+    "map_coordinates": [
+      -5.5,
+      144.5
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -3.5,
+          141.5
+        ],
+        [
+          -3.8,
+          147.5
+        ],
+        [
+          -6.5,
+          147
+        ],
+        [
+          -8,
+          144
+        ],
+        [
+          -7,
+          141.5
+        ],
+        [
+          -3.5,
+          141.5
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed polygons are simplified from the cited institutional range map for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的多边形依据所引机构分布图简化，以便在世界地图上清晰呈现；边界为概括性范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-17"
+    }
+  },
+  "image": "/images/animals/goodfellows-tree-kangaroo.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2440222",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2440222/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Dendrolagus_goodfellowi/",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Dendrolagus_goodfellowi/",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Dendrolagus_goodfellowi/",
+      "checked_at": "2026-08-17"
+    }
+  }
+}

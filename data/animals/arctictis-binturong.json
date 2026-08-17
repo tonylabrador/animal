@@ -1,0 +1,497 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit"
+  },
+  "id": "arctictis-binturong",
+  "name_zh": "熊狸",
+  "name_en": "Binturong",
+  "scientific_name": "Arctictis binturong",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Frugivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Viverridae",
+      "zh": "灵猫科"
+    },
+    "genus": {
+      "en": "Arctictis",
+      "zh": "熊狸属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危",
+    "note_en": "Current global IUCN category checked on 2026-08-17 through the IUCN-linked GBIF endpoint.",
+    "note_zh": "已于2026-08-17通过关联IUCN的GBIF接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The binturong, or bearcat, is a large, shaggy mammal that spends most of its life in the treetops of Southeast Asian forests. It is one of the few carnivorans with a prehensile tail, which it uses like an extra arm to climb and hold onto branches.",
+    "zh": "熊狸又称熊猫，是一种大型毛发蓬松的哺乳动物，大部分时间生活在东南亚森林的树冠中。它是少数拥有能卷握尾巴的食肉目动物，能像额外的手臂一样用来攀爬和抓住树枝。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Binturongs have long bodies, short legs, and small rounded ears with white rims. Their most distinctive feature is a muscular, prehensile tail that can support their full weight while they reach for fruit. They have strong claws and coarse, dark brown or black fur often grizzled with tipped hairs.",
+      "zh": "熊狸身体修长，腿短，双耳小而圆且带有白边。它们最显著的特征是强壮可卷握的尾巴，能在伸手取果时支撑全身重量。它们有强壮的爪子和粗糙的深棕色或黑色毛发，毛尖常呈花白色。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Binturongs are mostly nocturnal and spend the day sleeping in tree forks. They are skilled climbers and move deliberately through the canopy, using their tail for balance and support. They are omnivorous, eating fruits such as figs, but also leaves, eggs, insects, and small birds or mammals.",
+      "zh": "熊狸主要在夜间活动，白天在树杈上睡觉。它们是熟练的攀爬者，在树冠中平稳而缓慢地移动，用尾巴保持平衡和支撑。它们是杂食性动物，吃无花果等果实，也吃树叶、蛋、昆虫以及小型鸟类或哺乳动物。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Binturongs live in tropical rainforests, evergreen forests, and sometimes secondary forests across Southeast Asia. Their range includes parts of Nepal, India, Bangladesh, southern China, mainland Southeast Asia, Sumatra, Borneo, and the Philippines. They are almost wholly arboreal, rarely descending to the ground.",
+      "zh": "熊狸生活在东南亚的热带雨林、常绿林，有时也在次生林中。其分布区包括尼泊尔、印度、孟加拉国、中国南部、东南亚大陆、苏门答腊、加里曼丹和菲律宾的部分地区。它们几乎完全树栖，很少下到地面。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "Up to 25 years in captivity; wild lifespan not well known.",
+          "zh": "人工饲养下可达25年；野外寿命尚不十分清楚。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Head-body length about 60–97 cm",
+          "zh": "头体长约60–97厘米。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "9–20 kg",
+          "zh": "9–20公斤。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Frugivorous omnivore (fruits, insects, small animals).",
+          "zh": "果食性杂食动物（果实、昆虫、小动物）。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Nocturnal.",
+          "zh": "夜行性。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "reproduction",
+        "label": {
+          "en": "Reproduction",
+          "zh": "繁殖"
+        },
+        "value": {
+          "en": "Gestation about 91 days; usually one to three young per litter",
+          "zh": "妊娠期约91天；通常每胎一至三只幼仔"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Female binturongs can breed several times a year and give birth in hollow trees or dense vegetation. The young are born blind and helpless and cling to their mother's fur for the first few months. They become independent at around 8 months and reach sexual maturity at about 2 years of age.",
+      "zh": "雌熊狸一年可繁殖数次，在树洞或茂密植被中生产。幼仔出生时失明且无助，头几个月紧贴在母兽毛皮上。它们约8个月大时独立，约2岁时达到性成熟。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Prehensile tail",
+          "zh": "卷握尾巴"
+        },
+        "detail": {
+          "en": "The tail is strong and flexible, able to grasp branches like a fifth limb. This helps the binturong stay stable while reaching for fruit in high, fragile branches.",
+          "zh": "尾巴强壮而灵活，能像第五条肢体一样抓住树枝。这也有助于熊狸在又高又细的树枝上采果时保持稳定。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Scent marking",
+          "zh": "气味标记"
+        },
+        "detail": {
+          "en": "Binturongs mark their territory with a scent that smells like popcorn. They rub glands near their tail and anus on branches to communicate with other binturongs.",
+          "zh": "熊狸用闻起来像爆米花的气味标记领地。它们将靠近尾巴和肛门的腺体分泌物擦在树枝上，与其他熊狸交流。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Strong claws",
+          "zh": "强壮的爪子"
+        },
+        "detail": {
+          "en": "Their long, curved claws are excellent for climbing trunks and gripping rough bark, even though they cannot retract like a cat's claws.",
+          "zh": "它们长而弯曲的爪子非常适合攀爬树干和抓住粗糙的树皮，虽然不能像猫爪那样缩回。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As frugivores, binturongs swallow seeds and disperse them in their droppings, helping to regenerate the forest. Their movements through the canopy also spread nutrients, making them important seed dispersers for many rainforest trees.",
+      "zh": "作为食果动物，熊狸吞下种子并通过粪便传播，帮助森林更新。它们在树冠中的活动也传播养分，因此是许多雨林树木的重要种子传播者。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "The main threats are habitat loss from deforestation and conversion to oil palm plantations, as well as hunting for the illegal wildlife trade. Binturongs are also killed as pests or captured for the pet trade.",
+        "zh": "主要威胁是森林砍伐和转为油棕种植园造成的栖息地丧失，以及因非法野生动物贸易而被捕猎。熊狸也被当作害兽猎杀或被捕捉用于宠物贸易。"
+      },
+      "actions": {
+        "en": "The species is listed in CITES Appendix III and is protected by law in many countries. Conservation groups work with local communities to reduce deforestation, combat poaching, and raise awareness.",
+        "zh": "该物种被列入《濒危野生动植物种国际贸易公约》附录三，并在许多国家受法律保护。保护组织与当地社区合作，减少砍伐，打击盗猎，并提高保护意识。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Look for a long body, short legs, and a thick, muscular tail that can curl around branches. The face has long white or gray whiskers and ears fringed with white. Coarse, dark fur gives a shaggy appearance.",
+        "zh": "识别要点：身体长，腿短，尾巴粗壮有力，可缠绕树枝。面部有白色或灰色长须，耳朵有白边。粗硬的深色毛发外观蓬松。"
+      },
+      "similar_species": {
+        "en": "Palm civets are sometimes confused with binturongs, but they are smaller and lack a prehensile tail. The binturong is also larger and more heavily built than other civets.",
+        "zh": "椰子狸有时会被误认为熊狸，但它们体型更小且没有卷尾。熊狸也比其他灵猫更大、更壮。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Binturongs make sounds like chuckles, growls, and hisses. They have an excellent sense of smell and use scent marks to find each other. Their vision is adapted for night activity, though their ears are small.",
+      "zh": "熊狸会发出轻笑、咆哮和嘶嘶声。它们嗅觉灵敏，用气味标记来寻找彼此。它们视力适应夜间活动，耳朵虽小。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Binturongs are active year-round. In parts of their range they may breed throughout the year, while in more seasonal areas births often occur during the wet season when food is abundant.",
+      "zh": "熊狸全年活跃。在其分布区的部分地区可能全年繁殖，而在季节性较强的区域，幼仔常在食物丰富的雨季出生。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Binturongs are sometimes kept as exotic pets, but they have specialized diets and needs. In some cultures they are hunted for meat or trapped for the pet trade. Conservation efforts aim to reduce these pressures.",
+      "zh": "熊狸有时作为异域宠物饲养，但它们有特殊饮食需求。在某些文化中，它们被猎食或被捕捉用于宠物贸易。保护工作旨在减少这些压力。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Binturongs belong to the family Viverridae, which includes civets and genets. They are the only species in the genus Arctictis. Fossil evidence suggests their lineage split from other viverrids millions of years ago.",
+      "zh": "熊狸属于灵猫科，该科还包括麝猫和獛。它们是熊狸属中的唯一物种。化石证据表明它们的谱系在数百万年前与其他灵猫分化。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for claw marks on tree bark, scats containing fruit seeds, and a popcorn-like scent on branches within their territory. They may also leave footprints in soft mud.",
+      "zh": "注意树干上的爪痕、含果实的粪便，以及它们领地树枝上爆米花似的气味。它们也可能在软泥中留下足迹。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "A binturong's scent smells like buttered popcorn, produced by a gland near its tail.",
+          "zh": "熊狸的气味闻起来像黄油爆米花，这来自尾巴附近的腺体。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Even though binturongs belong to the order Carnivora, fruits make up a large part of their diet.",
+          "zh": "尽管熊狸属于食肉目，但果实占了它们饮食的很大一部分。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Binturongs can hang by their tail alone while using their front paws to eat.",
+          "zh": "熊狸可以仅靠尾巴悬挂，同时用前爪进食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "They are sometimes called 'bearcats' because they look like a bear with a cat's face.",
+          "zh": "它们有时被称为“熊猫”，因为它们看起来像熊，但脸像猫。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Mammal care",
+          "zh": "哺乳养育"
+        },
+        "content": {
+          "en": "Like all mammals, female binturongs nurse their young. The mother is the sole caretaker, and the cubs drink milk until they can eat solid food.",
+          "zh": "和所有哺乳动物一样，雌熊狸为幼仔哺乳。母兽是唯一的照料者，幼仔吃奶直到能吃固体食物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Social system",
+          "zh": "社会结构"
+        },
+        "content": {
+          "en": "Binturongs are usually solitary but share territories and sometimes travel in small family groups. They communicate with neighbors through scent marks.",
+          "zh": "熊狸通常独居，但共享领地，有时会组成小家庭群活动。它们通过气味标记与邻居交流。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Binturongs are found in tropical and subtropical forests across Southeast Asia, from the foothills of Nepal and India to the islands of Sumatra and Borneo. They are almost wholly arboreal and rely on large trees for food and shelter.",
+    "text_zh": "熊狸分布于东南亚的热带和亚热带森林，从尼泊尔和印度的山麓到苏门答腊和加里曼丹的岛屿。它们几乎完全树栖，依赖大树获取食物和庇护。",
+    "map_coordinates": [
+      15,
+      102
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          28,
+          83
+        ],
+        [
+          28,
+          98
+        ],
+        [
+          23,
+          105
+        ],
+        [
+          16,
+          108
+        ],
+        [
+          8,
+          106
+        ],
+        [
+          1,
+          104
+        ],
+        [
+          1,
+          99
+        ],
+        [
+          8,
+          96
+        ],
+        [
+          17,
+          91
+        ],
+        [
+          24,
+          86
+        ],
+        [
+          28,
+          83
+        ]
+      ],
+      [
+        [
+          6,
+          95
+        ],
+        [
+          3,
+          99
+        ],
+        [
+          -5,
+          104
+        ],
+        [
+          -6,
+          102
+        ],
+        [
+          -2,
+          98
+        ],
+        [
+          6,
+          95
+        ]
+      ],
+      [
+        [
+          7,
+          113
+        ],
+        [
+          5,
+          119
+        ],
+        [
+          -3,
+          118
+        ],
+        [
+          -4,
+          110
+        ],
+        [
+          2,
+          109
+        ],
+        [
+          7,
+          113
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed polygons are simplified from the cited institutional range map for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的多边形依据所引机构分布图简化，以便在世界地图上清晰呈现；边界为概括性范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-17"
+    }
+  },
+  "image": "/images/animals/arctictis-binturong.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2434615",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2434615/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Arctictis_binturong/",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "San Diego Zoo Wildlife Alliance",
+      "url": "https://animals.sandiegozoo.org/animals/binturong",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Arctictis_binturong/",
+      "checked_at": "2026-08-17"
+    }
+  }
+}

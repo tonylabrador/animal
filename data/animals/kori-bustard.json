@@ -1,0 +1,511 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit"
+  },
+  "id": "kori-bustard",
+  "name_zh": "灰颈鹭鸨",
+  "name_en": "Kori Bustard",
+  "scientific_name": "Ardeotis kori",
+  "ui_tags": [
+    "Bird",
+    "Savanna",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Otidiformes",
+      "zh": "鸨形目"
+    },
+    "family": {
+      "en": "Otididae",
+      "zh": "鸨科"
+    },
+    "genus": {
+      "en": "Ardeotis",
+      "zh": "鹭鸨属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危",
+    "note_en": "Current global IUCN category checked on 2026-08-17 through the IUCN-linked GBIF endpoint.",
+    "note_zh": "已于2026-08-17通过关联IUCN的GBIF接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The kori bustard is the heaviest flying bird native to Africa. It lives on the ground in open grasslands and savannas, using its long legs to walk long distances in search of food. Males are much larger than females and can weigh almost as much as a small dog.",
+    "zh": "灰颈鹭鸨是非洲最重的飞鸟。它们生活在地面上，出没于开阔的草原和稀树草原，用长腿长途行走觅食。雄性比雌性大得多，体重可接近一只小狗。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "A male kori bustard stands about 120–150 cm tall and weighs 11–19 kg, making it one of the world's heaviest flying birds. It has a long neck, a robust body, and mottled gray-and-buff plumage that blends into the dry grass. Its powerful legs are adapted for walking, and its wings are broad for occasional flight.",
+      "zh": "雄性灰颈鹭鸨身高约120–150厘米，体重11–19公斤，是世界上最重的飞鸟之一。它们脖子长、身体粗壮，斑驳的灰褐色羽毛与干草融为一体。强壮的双腿适合步行，宽阔的翅膀用于偶尔飞行。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Kori bustards are opportunistic omnivores. They eat a wide range of items, including insects, grasshoppers, seeds, berries, and occasionally small reptiles or rodents. They typically forage by walking slowly, and they are most active during the cooler parts of the day. During the breeding season, males put on dramatic displays with an inflatable throat sac.",
+      "zh": "灰颈鹭鸨是机会主义的杂食动物。它们吃各种各样的食物，包括昆虫、蚱蜢、种子、浆果，偶尔也吃小型爬行动物或啮齿动物。它们通常边慢走边觅食，在一天中较凉爽的时候最为活跃。繁殖季节，雄鸟会展示可膨胀的喉囊，进行壮观的求偶表演。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Kori bustards inhabit open grasslands, savannas, and semi-arid plains across eastern and southern Africa. Their range extends from southern Ethiopia and Kenya through Tanzania and Zambia, and south to Botswana, Namibia, and South Africa. They are absent from dense forests and deserts.",
+      "zh": "灰颈鹭鸨栖息在非洲东部和南部的开阔草原、稀树草原和半干旱平原。其分布范围从埃塞俄比亚南部和肯尼亚，经过坦桑尼亚和赞比亚，一直延伸到南部的博茨瓦纳、纳米比亚和南非。它们不在茂密森林和沙漠中生活。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "Up to 20–30 years in captivity; unknown in the wild.",
+          "zh": "圈养条件下可达20–30年；野外未知。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Length 100–150 cm (males); wingspan 230–275 cm.",
+          "zh": "体长100–150厘米（雄性）；翼展230–275厘米。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "Males 11–19 kg; females 4–7 kg.",
+          "zh": "雄性11–19公斤；雌性4–7公斤。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Omnivorous: insects, seeds, berries, small vertebrates.",
+          "zh": "杂食：昆虫、种子、浆果、小型脊椎动物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动"
+        },
+        "value": {
+          "en": "Diurnal; most active in early morning and late afternoon.",
+          "zh": "昼行性；在清晨和傍晚最活跃。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "reproduction",
+        "label": {
+          "en": "Reproduction",
+          "zh": "繁殖"
+        },
+        "value": {
+          "en": "Clutch of 1–2 eggs; incubation 23–24 days.",
+          "zh": "每窝产1–2枚卵；孵化期为23–24天。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社群"
+        },
+        "value": {
+          "en": "Solitary or in small groups; occasionally loose flocks.",
+          "zh": "独居或小群活动；偶尔松散成群。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Kori bustards breed during the rainy season. Females make a simple scrape on the ground and lay one or two eggs. The female incubates alone, while the male departs after mating. Chicks are precocial and leave the nest soon after hatching, following their mother to feed.",
+      "zh": "灰颈鹭鸨在雨季繁殖。雌鸟在地面挖一个简单的浅坑，产下一两枚卵。雌鸟独自孵卵，雄鸟在交配后离开。雏鸟属于早成鸟，孵化后很快离巢，跟随母鸟觅食。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Cryptic plumage",
+          "zh": "伪装羽毛"
+        },
+        "detail": {
+          "en": "The mottled gray, brown, and buff feathers mirror the dry grasses and bare soil of their habitat, making them incredibly hard to spot even in open terrain.",
+          "zh": "斑驳的灰、棕和米色羽毛与栖息地的干草和裸土相似，使它们即使在开阔地带也极难被发现。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Inflatable throat sac",
+          "zh": "可膨胀的喉囊"
+        },
+        "detail": {
+          "en": "Males have a special inflatable pouch in their throat that can expand dramatically, allowing them to produce deep, resonant booming calls that travel long distances to attract females.",
+          "zh": "雄鸟喉部有一个特殊的可膨胀气囊，可以显著扩大，使它们发出低沉、洪亮的轰鸣声，传至远方以吸引雌鸟。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Strong legs",
+          "zh": "强壮的腿"
+        },
+        "detail": {
+          "en": "Long, powerful legs enable them to walk long distances to find food and escape danger; they can also deliver a strong kick when threatened.",
+          "zh": "长而有力的腿使它们能够长途行走寻找食物和躲避危险；受到威胁时还能发出强有力的一踢。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Thermoregulation",
+          "zh": "体温调节"
+        },
+        "detail": {
+          "en": "They are adapted to hot, arid environments and can tolerate high temperatures; they often pant and raise their feathers to cool down.",
+          "zh": "它们适应炎热干旱的环境，能耐受高温；它们常通过喘气和竖起羽毛来降温。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As omnivores, kori bustards help control insect populations, and by eating fruits and seeds they may disperse seeds across the landscape.",
+      "zh": "作为杂食动物，灰颈鹭鸨有助于控制昆虫数量，通过食用果实和种子，它们可能将种子传播到各地。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Primary threats include habitat loss to agriculture and infrastructure development, hunting, and collisions with power lines. Poisoning from pesticides can also occur.",
+        "zh": "主要威胁包括农业和基础设施发展导致的栖息地丧失、捕猎以及电线碰撞。也可能因农药中毒。"
+      },
+      "actions": {
+        "en": "Conservation measures include protection of key habitats in national parks and reserves, hunting regulations, and public awareness campaigns. Many populations occur in protected areas.",
+        "zh": "保护措施包括在国家和公园、保护区保护关键栖息地，制定狩猎法规，开展公众意识宣传。许多种群生活在保护区内。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A very large ground-dwelling bird with a long neck, mottled gray-brown body, and white and black underparts. Males have a black breast band during display and a prominent inflatable throat sac.",
+        "zh": "一种非常大型的地栖鸟类，脖子长，身体灰褐色斑驳，腹部黑白相间。雄鸟在求偶时胸部有黑色带，喉囊显著膨胀。"
+      },
+      "similar_species": {
+        "en": "The smaller Denham's bustard (Neotis denhami) overlaps in range but has a darker cap and different neck pattern; the kori bustard is larger and bulkier.",
+        "zh": "体形较小的丹氏鸨（Neotis denhami）分布重叠，但顶部羽毛较深，颈斑不同；灰颈鹭鸨更大更粗壮。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Males use deep, booming calls amplified by their throat sac during courtship. They also use visual displays such as puffing up feathers. Their large eyes provide excellent vision for spotting predators.",
+      "zh": "雄性在求偶时利用喉囊扩大低沉轰鸣的叫声。它们也会竖起羽毛等视觉展示。大眼睛提供出色的视力，便于发现捕食者。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding is typically timed with the rainy season, which varies by region. In southern Africa, nesting often occurs from September to December; in East Africa, it may occur almost year-round with peaks after rains.",
+      "zh": "繁殖通常与雨季同步，因地区而异。在南部非洲，筑巢常在九月至十二月；在东非，可能几乎全年繁殖，雨后达到高峰。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Kori bustards are threatened by overhunting in some areas but are also a flagship species for birders and ecotourism. In parts of Africa they historically appear in folklore.",
+      "zh": "在一些地区，灰颈鹭鸨受到过度捕猎的威胁，但它们也是观鸟和生态旅游的旗舰物种。在非洲部分地区，它们在民间传说中出现过。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Bustards are an ancient group of terrestrial birds. The genus Ardeotis is likely of African origin, with some species also in Asia. No specific fossil record is known for Ardeotis kori.",
+      "zh": "鸨是古老的地栖鸟类群。鹭鸨属可能起源于非洲，一些种类也分布在亚洲。目前没有明确的灰颈鹭鸨化石记录。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for large, broad footprints in soft soil or mud, and droppings with seeds and insect remains. During display season, listen for the male's deep, far-carrying booming call.",
+      "zh": "在松软的土壤或泥土中寻找大而宽的足迹，以及含有种子和昆虫残骸的粪便。繁殖季节可听到雄性低沉、传得很远的轰鸣声。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The kori bustard is the heaviest flying bird in Africa, and males can weigh over 18 kg.",
+          "zh": "灰颈鹭鸨是非洲最重的飞鸟，雄性体重可超过18公斤。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Despite their weight, they are capable of flight, though they prefer to walk.",
+          "zh": "尽管体重很大，它们仍能飞行，但更喜欢步行。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "They sometimes forage near wildfires, catching insects that flee from the flames.",
+          "zh": "它们有时在野火附近觅食，捕捉逃离火焰的昆虫。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A male's throat sac can expand to the size of a football during display.",
+          "zh": "雄鸟的喉囊在求偶时可膨胀到足球大小。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Courtship display",
+          "zh": "求偶展示"
+        },
+        "content": {
+          "en": "To attract a mate, a male kori bustard inflates his throat sac, lifts his tail, and walks in a stiff posture while producing a deep, drumming call. This dramatic display can be seen from far away.",
+          "zh": "为了吸引配偶，雄性灰颈鹭鸨会鼓起喉囊，翘起尾巴，以僵硬的姿态行走，同时发出低沉、击鼓般的叫声。这一戏剧性的表演从很远就能看到。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Ground nesting",
+          "zh": "地面筑巢"
+        },
+        "content": {
+          "en": "Kori bustards nest directly on the ground. The female creates a simple scrape and relies on camouflage to hide the eggs and chicks. The chicks leave the nest shortly after hatching.",
+          "zh": "灰颈鹭鸨直接在地面上筑巢。雌鸟挖一个简单的浅坑，依靠伪装来隐藏卵和雏鸟。雏鸟在孵化后不久便离巢。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Precocial chicks",
+          "zh": "早成雏"
+        },
+        "content": {
+          "en": "Kori bustard chicks are covered in down and can walk and feed themselves almost immediately after hatching, following their mother for protection and guidance.",
+          "zh": "灰颈鹭鸨雏鸟全身被绒羽，孵化后几乎立即可以行走和自行取食，跟随母鸟以获得保护和引导。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Kori bustards are found in open, dry habitats from the Horn of Africa to South Africa, including grasslands, savannas, and semi-arid shrublands. They are missing from dense forests and true deserts.",
+    "text_zh": "灰颈鹭鸨分布在从非洲之角到南非的开阔干燥环境中，包括草原、稀树草原和半干旱灌木丛。它们不见于茂密森林和真正的沙漠。",
+    "map_coordinates": [
+      -20,
+      24
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          14,
+          37
+        ],
+        [
+          12,
+          43
+        ],
+        [
+          5,
+          45
+        ],
+        [
+          -5,
+          40
+        ],
+        [
+          -13,
+          36
+        ],
+        [
+          -12,
+          29
+        ],
+        [
+          -2,
+          29
+        ],
+        [
+          7,
+          34
+        ],
+        [
+          14,
+          37
+        ]
+      ],
+      [
+        [
+          -16,
+          12
+        ],
+        [
+          -15,
+          27
+        ],
+        [
+          -20,
+          35
+        ],
+        [
+          -30,
+          33
+        ],
+        [
+          -35,
+          25
+        ],
+        [
+          -31,
+          17
+        ],
+        [
+          -22,
+          14
+        ],
+        [
+          -16,
+          12
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed polygons are simplified from the cited institutional range map for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的多边形依据所引机构分布图简化，以便在世界地图上清晰呈现；边界为概括性范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-17"
+    }
+  },
+  "image": "/images/animals/kori-bustard.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2474909",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2474909/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Ardeotis_kori/",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "BirdLife International DataZone",
+      "url": "http://datazone.birdlife.org/species/factsheet/kori-bustard-ardeotis-kori",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "BirdLife International DataZone range map",
+      "url": "http://datazone.birdlife.org/species/factsheet/kori-bustard-ardeotis-kori",
+      "checked_at": "2026-08-17"
+    }
+  }
+}

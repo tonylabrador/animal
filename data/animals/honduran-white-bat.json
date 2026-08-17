@@ -1,0 +1,437 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit"
+  },
+  "id": "honduran-white-bat",
+  "name_zh": "洪都拉斯白蝠",
+  "name_en": "Honduran White Bat",
+  "scientific_name": "Ectophylla alba",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Frugivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Chiroptera",
+      "zh": "翼手目"
+    },
+    "family": {
+      "en": "Phyllostomidae",
+      "zh": "叶口蝠科"
+    },
+    "genus": {
+      "en": "Ectophylla",
+      "zh": "白蝠属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危",
+    "note_en": "Current global IUCN category checked on 2026-08-17 through the IUCN-linked GBIF endpoint.",
+    "note_zh": "已于2026-08-17通过关联IUCN的GBIF接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The Honduran white bat is a tiny fruit bat covered in snow-white fur, with a yellow noseleaf and ears. It roosts in groups inside leaf tents it builds, earning it the nickname 'tent-making bat.'",
+    "zh": "洪都拉斯白蝠是一种全身雪白的小型食果蝙蝠，鼻叶和耳朵为黄色。它们成小群栖息在自己搭建的叶片帐篷中，因此也得名‘搭帐篷蝙蝠’。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "This small bat is only about 4 cm long and weighs as much as a pencil. Its most striking feature is its white fur, which contrasts with a bright yellow noseleaf, ears, and wing edges. It has large dark eyes and a small nose shaped like a leaf.",
+      "zh": "这种小型蝙蝠身长约4厘米，体重约一支铅笔的重量。最引人注目的是它的白色皮毛，与亮黄色的鼻叶、耳朵和翼缘形成鲜明对比。它还有乌黑的大眼睛和形似叶片的凸起小鼻叶。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Honduran white bats are nocturnal and spend the day hidden in tents made from large leaves. They cut the leaf's veins so it folds into a canopy that shelters them from rain and predators. At night they fly out to feed on juicy figs, returning to the tent before sunrise.",
+      "zh": "洪都拉斯白蝠夜行性，白天藏匿在大叶片搭建的帐篷中。它们切断叶脉使叶片折叠成遮蔽蓬，以躲避风雨和天敌。夜晚它们飞出觅食多汁的榕果，并在日出前回到帐篷。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "These bats live in lowland rainforests along the Caribbean coast of Central America, from eastern Honduras through Nicaragua and Costa Rica to western Panama. They typically stay below 700 m elevation and rely on forests that contain the plants and fig trees they need.",
+      "zh": "这种蝙蝠生活在中美洲加勒比海沿岸的低地雨林中，从洪都拉斯东部经尼加拉瓜和哥斯达黎加，一直到巴拿马西部。它们一般生活在海拔700米以下，赖以为生的榕树和搭建帐篷的植物都必须在林中找到。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Head-body length 3.7–4.7 cm; wingspan about 18–20 cm",
+          "zh": "头体长3.7–4.7厘米；翼展约18–20厘米。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "5–6 g",
+          "zh": "5–6克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Mostly figs and other soft fruits",
+          "zh": "主要吃榕果和其他软质水果"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Nocturnal; sleeps during the day in leaf tents",
+          "zh": "夜行性；白天在叶帐篷中睡觉"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会群体"
+        },
+        "value": {
+          "en": "Small groups of 2–15, usually 4–6 individuals",
+          "zh": "2–15只的小群，通常4–6只"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "roost",
+        "label": {
+          "en": "Roost",
+          "zh": "栖息所"
+        },
+        "value": {
+          "en": "Leaf tents made from Heliconia or other large leaves",
+          "zh": "用赫蕉属或其他大叶片搭建的叶帐篷"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "The reproductive habits of this bat are not well studied, but they are thought to have a low birth rate. Females likely care for their young in the safety of the leaf tent, much like other leaf-nosed bats.",
+      "zh": "这种蝙蝠的繁殖习性尚未被充分研究，但估计出生率不高。雌蝠可能像其他叶口蝠一样，在安全的叶帐篷中照顾幼崽。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Tent building",
+          "zh": "搭帐篷"
+        },
+        "detail": {
+          "en": "By cutting the midrib and side veins of a large leaf, the bat makes the leaf collapse into a tent shape. This creates a dry, camouflaged shelter that keeps the group hidden during the day.",
+          "zh": "通过咬断大叶片的中脉和侧脉，蝙蝠使叶片折叠成帐篷状。这能营造一个干燥且隐蔽的庇护所，让群体在白天不被发现。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "White camouflage",
+          "zh": "白色伪装"
+        },
+        "detail": {
+          "en": "When a group huddles inside the tent, their white bodies look like a wasp nest or speckled sunlight, which may confuse predators. The white color may also reflect heat and keep the bats cool.",
+          "zh": "一群白蝠挤在帐篷里时，它们白色的身体看起来就像马蜂窝或斑驳的阳光，可能使捕食者困惑。白色皮毛也可能反射热量，帮助蝙蝠保持凉爽。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Pointed noseleaf",
+          "zh": "尖鼻叶"
+        },
+        "detail": {
+          "en": "The fleshy noseleaf around the nostrils helps shape the bat's echolocation calls into a focused beam, allowing it to navigate and find fruits in the dark forest.",
+          "zh": "鼻孔周围凸起的鼻叶有助于将回声定位的呼叫塑造为聚焦束，使蝙蝠能在黑暗中导航并找到果实。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As fruit-eaters, Honduran white bats are important seed dispersers. When they eat figs and other fruits, they fly to new areas and drop the seeds with their droppings, helping forests grow.",
+      "zh": "作为食果动物，洪都拉斯白蝠是重要的种子传播者。它们吞食榕果等果实后，飞到新地方，将种子随粪便排出，从而帮助森林更新。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "The main threat is deforestation of lowland tropical forests for farming and development, which destroys their roosting trees and food supply.",
+        "zh": "主要威胁是为农业和发展而砍伐低地热带森林，这破坏了它们的栖息树和食物来源。"
+      },
+      "actions": {
+        "en": "Protected areas in Central America that conserve lowland rainforests help maintain the bat's habitat. More research is needed on their population size and trends.",
+        "zh": "中美洲保护低地雨林的保护区有助于维持蝙蝠的栖息地。需要更多关于其种群数量和趋势的研究。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Look for a tiny bat with pure white fur and bright yellow ears, noseleaf, and wing edges. It has large dark eyes and a small nose shaped like a leaf.",
+        "zh": "识别要点为纯白毛色的微型蝙蝠，耳朵、鼻叶和翼缘亮黄色，乌黑的大眼睛，鼻子上有叶片状小凸起。"
+      },
+      "similar_species": {
+        "en": "No other bat in its range is pure white, so it is easy to tell apart from other bats. Some white flowering plants could be mistaken for it, but its yellow noseleaf is unique.",
+        "zh": "在其分布区内没有其他纯白色的蝙蝠，因此容易区分。某些白色花朵可能被误认，但其黄色鼻叶是独一无二的特征。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "They use echolocation to navigate and find fruit in the dark. In the tent, they also make social calls to stay in contact with each other.",
+      "zh": "它们在黑暗中利用回声定位导航和寻找果实。在帐篷内，它们也会发出社交叫声以保持联系。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "There is no known strong seasonal change. They roost year-round, but they may move tents frequently as leaves age and decay.",
+      "zh": "没有已知的强烈季节变化。它们全年栖息，但随着叶片老化腐烂，可能会频繁更换帐篷。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "These bats are not dangerous and feed only on fruit. Local people may see their leaf tents in gardens and forests, but the bats prefer untouched lowland forest.",
+      "zh": "这种蝙蝠不具危险性，只以水果为食。当地人会看到它们在花园和森林中的叶帐篷，但它们更偏好原始的天然低地森林。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Ectophylla alba belongs to the leaf-nosed bat family, a large group of American bats with great diversity in food and behavior. Its white fur and tent-roosting behavior set it apart from its relatives.",
+      "zh": "白蝠属于叶口蝠科，这是美洲一大类具有多样食性和行为的蝙蝠。其白色皮毛和搭帐篷习性使它在其近亲中显得突出。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "You may find folded Heliconia leaves that form little green tents hanging from stems. Beneath them, look for seeds, droppings, and small fruit remains.",
+      "zh": "你可能会在茎上发现折叠的赫蕉叶形成的小绿帐篷。在它们下方，可看到种子、粪便和残余的细小果渣。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The Honduran white bat is so small it can sit comfortably on a human finger.",
+          "zh": "洪都拉斯白蝠非常小，可以轻松地坐在人的手指上。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "It is one of the very few bats known to build and use leaf tents.",
+          "zh": "它是极少数已知会建造并利用叶帐篷的蝙蝠之一。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its yellow noseleaf and ears are made of skin, not fur.",
+          "zh": "它黄色的鼻叶和耳朵由皮肤构成，并非皮毛。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "These bats often return to the same tent night after night, but may move if the leaf wilts.",
+          "zh": "它们常常夜复一夜地回到同一个帐篷，但如果叶片枯萎，它们可能会搬家。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Echolocation",
+          "zh": "回声定位"
+        },
+        "content": {
+          "en": "Like many bats, they send out high-pitched sounds that bounce off objects and return as echoes. The large ears and noseleaf help them catch these echoes and build a 'sound picture' of their surroundings.",
+          "zh": "像许多蝙蝠一样，它们发出高频声音，声音遇到物体后反弹产生回声。大耳朵和鼻叶帮助它们接收回声，从而构建周围环境的‘声像’。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Leaf tents",
+          "zh": "叶帐篷"
+        },
+        "content": {
+          "en": "Only a few bats make tents. Ectophylla alba uses sharp teeth to sever the veins of Heliconia leaves, making them fold downward into a roof. This gives the whole group a safe home that is hard for predators to see.",
+          "zh": "只有少数蝙蝠会搭帐篷。白蝠用利齿切断赫蕉叶的叶脉，使叶片向下折叠成屋顶，为整个群体提供一个隐蔽且难以被天敌发现的安全之家。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Honduran white bats live in lowland tropical forests up to about 700 m above sea level, on the Caribbean side of Central America from Honduras to Panama.",
+    "text_zh": "洪都拉斯白蝠生活在中美洲东海岸以及加勒比海一侧的低地热带森林中，海拔可达约700米，分布范围从洪都拉斯到巴拿马。",
+    "map_coordinates": [
+      9.5,
+      -84
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          15.5,
+          -87.8
+        ],
+        [
+          15.2,
+          -84.8
+        ],
+        [
+          13.2,
+          -83.2
+        ],
+        [
+          10.7,
+          -82.7
+        ],
+        [
+          8,
+          -77.6
+        ],
+        [
+          7.1,
+          -79.7
+        ],
+        [
+          9.1,
+          -84.5
+        ],
+        [
+          11.3,
+          -87
+        ],
+        [
+          15.5,
+          -87.8
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed polygons are simplified from the cited institutional range map for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的多边形依据所引机构分布图简化，以便在世界地图上清晰呈现；边界为概括性范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-17"
+    }
+  },
+  "image": "/images/animals/honduran-white-bat.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2433222",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2433222/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Ectophylla_alba/",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Ectophylla_alba/",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Ectophylla_alba/",
+      "checked_at": "2026-08-17"
+    }
+  }
+}

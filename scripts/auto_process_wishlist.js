@@ -31,6 +31,21 @@ const EDITORIAL_TAG_OVERRIDES = {
   "Podiceps cristatus": ["Bird", "Freshwater", "Piscivore"],
   "Buceros bicornis": ["Bird", "Forest", "Frugivore"],
   "Nasikabatrachus sahyadrensis": ["Amphibian", "Forest", "Insectivore"],
+  "Galeopterus variegatus": ["Mammal", "Forest", "Herbivore"],
+  "Ectophylla alba": ["Mammal", "Forest", "Frugivore"],
+  "Ardeotis kori": ["Bird", "Savanna", "Omnivore"],
+  "Psittacus erithacus": ["Bird", "Forest", "Frugivore"],
+  "Arapaima gigas": ["Fish", "Freshwater", "Piscivore"],
+  "Euchoreutes naso": ["Mammal", "Desert", "Omnivore"],
+  "Theropithecus gelada": ["Mammal", "Grassland", "Herbivore"],
+  "Corythaeola cristata": ["Bird", "Forest", "Frugivore"],
+  "Thalassarche melanophris": ["Bird", "Ocean", "Piscivore"],
+  "Andrias japonicus": ["Amphibian", "Freshwater", "Carnivore"],
+  "Macaca fuscata": ["Mammal", "Forest", "Omnivore"],
+  "Saguinus imperator": ["Mammal", "Forest", "Omnivore"],
+  "Dendrolagus goodfellowi": ["Mammal", "Forest", "Herbivore"],
+  "Arctictis binturong": ["Mammal", "Forest", "Frugivore"],
+  "Tapirus pinchaque": ["Mammal", "Mountains", "Herbivore"],
 };
 
 const GENERATE_PROMPT = `You create source-backed bilingual species records for Wild Explorer, a children's wildlife encyclopedia.

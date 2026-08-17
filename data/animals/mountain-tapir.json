@@ -1,0 +1,464 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-17",
+    "reviewer": "Codex source and bilingual audit"
+  },
+  "id": "mountain-tapir",
+  "name_zh": "山貘",
+  "name_en": "Mountain Tapir",
+  "scientific_name": "Tapirus pinchaque",
+  "ui_tags": [
+    "Mammal",
+    "Mountains",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Perissodactyla",
+      "zh": "奇蹄目"
+    },
+    "family": {
+      "en": "Tapiridae",
+      "zh": "貘科"
+    },
+    "genus": {
+      "en": "Tapirus",
+      "zh": "貘属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危",
+    "note_en": "Current global IUCN category checked on 2026-08-17 through the IUCN-linked GBIF endpoint.",
+    "note_zh": "已于2026-08-17通过关联IUCN的GBIF接口核对当前全球等级。"
+  },
+  "description": {
+    "en": "The mountain tapir is the smallest and most woolly of the world's four tapir species. It has a thick, dark brown coat that protects it from the cold high-altitude climate, and a distinctive pale patch around its lips. Its flexible nose and sharp senses help it forage in dense mountain forests.",
+    "zh": "山貘是世界上四种貘中最细小、毛最浓密的一种。它长有厚实的深褐色皮毛，用以抵御高海拔地带寒冷的天气，嘴唇周围有一块明显的浅色斑纹。其灵活的鼻子和敏锐的感官帮助它们在茂密的山林中觅食。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Mountain tapirs measure about 1.8 meters in length and weigh between 130 and 225 kilograms. They have a short, prehensile trunk that comes from the nose and upper lip, used for grasping leaves and pulling food into the mouth. Their toes help them climb steep, slippery slopes, and their dense woolly coat protects them from rain and cold.",
+      "zh": "山貘体长约1.8米，体重在130至225公斤之间。它们有一条由鼻子和上唇共同形成的较短、能灵活抓握的鼻子，用来卷住树叶并把食物送入口中。它们的脚趾有助于在陡峭湿滑的山坡上行走，浓密的绒毛能抵御雨水和寒冷。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Mountain tapirs are shy, solitary animals outside the mother-calf relationship. They feed mainly on leaves, stems, and fruits, moving along forest trails to forage. They are excellent swimmers and often escape danger in water, and they may be active during both day and night depending on weather.",
+      "zh": "山貘性情害羞，除母仔关系外通常单独活动。它们主要以树叶、嫩枝和果实为食，沿着林间小径觅食。它们是出色的游泳者，常通过躲入水中避开危险；根据天气情况，它们可能在白天和夜晚都会活动。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "The mountain tapir lives only in the northern Andes, in high-altitude cloud forests, montane forests, and paramo grasslands from roughly 1400 to 4800 meters. It is found in Colombia and Ecuador, with occasional records in Peru. The species needs forests with water sources and dense vegetation.",
+      "zh": "山貘只分布于安第斯山脉北部的高海拔云雾林、山区森林和帕拉莫草原，海拔大约在1400至4800米之间。在哥伦比亚和厄瓜多尔可见其踪迹，在秘鲁也有零星记录。它们需要拥有丰富水源和茂密植被的森林。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_size",
+        "label": {
+          "en": "Body size",
+          "zh": "体型"
+        },
+        "value": {
+          "en": "Total length about 1.8 m",
+          "zh": "全长约1.8米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "130–225 kg",
+          "zh": "130至225公斤"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Leaves, stems, fruit, and other plant material",
+          "zh": "树叶、嫩枝、果实及其他植物性食物"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动"
+        },
+        "value": {
+          "en": "Dusk and night, sometimes daytime",
+          "zh": "黄昏和夜间活动，有时白天也活动"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会结构"
+        },
+        "value": {
+          "en": "Mostly solitary; mother with calf",
+          "zh": "多半独居；母仔成伴"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "reproduction",
+        "label": {
+          "en": "Reproduction",
+          "zh": "繁殖"
+        },
+        "value": {
+          "en": "One calf after about 13 months gestation",
+          "zh": "妊娠约13个月，一胎一仔"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "lifespan",
+        "label": {
+          "en": "Lifespan",
+          "zh": "寿命"
+        },
+        "value": {
+          "en": "Up to 30 years in captivity",
+          "zh": "人工饲养下可达30年"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "A female mountain tapir gives birth to a single calf after a gestation of about 13 months. The young has a brown coat with pale stripes and spots, gradually blending into adult color by about one year. The calf stays with its mother for up to 18 months. Lifespan in the wild is not precisely known.",
+      "zh": "雌性山貘在约13个月的妊娠后产下一只幼仔。幼貘的皮毛带有浅色条纹和斑点，约一岁时逐渐变为成年毛色。幼貘会跟随母貘最多18个月。野生寿命尚未确切知晓。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Woolly coat",
+          "zh": "蓬松的毛皮"
+        },
+        "detail": {
+          "en": "A thick, dense fur layer traps air and keeps the tapir warm in the freezing nights of the high Andes.",
+          "zh": "厚实的浓密皮毛能保存空气，使貘在安第斯高海拔的寒冷夜晚保持温暖。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Prehensile trunk",
+          "zh": "能卷握的鼻子"
+        },
+        "detail": {
+          "en": "The flexible nose and upper lip work as a small grasping organ, letting the tapir pick leaves and fruit precisely.",
+          "zh": "灵活的鼻子和上唇可当作小型抓握器官，让貘能精准地摘取树叶和果实。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Sure-footed toes",
+          "zh": "稳健的脚趾"
+        },
+        "detail": {
+          "en": "Four toes on the front feet and three on the back spread the tapir's weight and help it climb muddy, rocky slopes.",
+          "zh": "前脚四趾、后脚三趾可分散体重，帮助它在泥泞多石的山坡上行走。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Keen senses",
+          "zh": "敏锐的感官"
+        },
+        "detail": {
+          "en": "Excellent hearing and smell allow the tapir to detect predators long before they approach, even in dense vegetation.",
+          "zh": "灵敏的听觉和嗅觉让貘能在捕食者靠近前很久就发现它们，即使是在茂密植被中。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As large herbivores, mountain tapirs disperse seeds through their droppings and help maintain forest diversity. Their browsing and pathways can create gaps where seedlings take root. They are potential prey for spectacled bears and pumas, although adults are rarely attacked.",
+      "zh": "作为大型食草动物，山貘通过粪便传播种子，有助于维持森林多样性。它们的取食和行走路线可形成空隙，使新苗得以扎根。它们是眼镜熊和美洲狮的潜在猎物，但成年貘很少受到攻击。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Habitat destruction and fragmentation from agriculture, mining, and roads; hunting for meat; and climate change affecting highland environments.",
+        "zh": "农业、采矿和道路造成的栖息地破坏与破碎化；为获取肉类而捕猎；以及气候变化对高地环境的影响。"
+      },
+      "actions": {
+        "en": "Protected areas and national parks in Colombia and Ecuador, anti-poaching enforcement, ecological corridors, and captive-breeding programs.",
+        "zh": "哥伦比亚和厄瓜多尔设立保护区和国家公园，执行反盗猎法律，建立生态廊道，并开展人工繁殖项目。"
+      },
+      "source_keys": [
+        "conservation"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A small tapir with a thick woolly dark coat; whitish lips and sometimes cheek patches; a short manelike crest on the back of the neck; no obvious ridge on the back.",
+        "zh": "体型较小的貘，毛厚而蓬松，深褐色；嘴唇白色，有时脸颊也有白斑；颈后有短鬃状突起；背部没有明显的脊。"
+      },
+      "similar_species": {
+        "en": "The lowland tapir (Tapirus terrestris) and Baird's tapir (Tapirus bairdii) are larger, have shorter hair, and live at lower elevations. The mountain tapir is the only tapir with a heavy woolly coat adapted to the high Andes.",
+        "zh": "低地貘（Tapirus terrestris）和白氏貘（Tapirus bairdii）体型更大、毛较短，分布在海拔较低处。山貘是唯一具有适应安第斯高海拔环境的浓厚毛皮的貘。"
+      },
+      "source_keys": [
+        "general"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Mountain tapirs have a good sense of smell and hearing. They communicate with whistles, snorts, and clicks, especially between mothers and calves. They mark trails with urine and feces, and may rub against trees to leave scent.",
+      "zh": "山貘嗅觉和听觉灵敏。它们通过口哨声、喷鼻声和咔哒声进行交流，尤其在母幼之间。它们会以尿液和粪便标记路线，也会在树干上摩擦留下气味。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding may occur at any time of year, but births often peak at the start of the rainy season. In the Andes, the rainy season (roughly October to May) provides abundant food for nursing mothers and growing calves.",
+      "zh": "山貘可在一年中任何时候繁殖，但分娩常集中在雨季开始时。在安第斯地区，雨季（约十月至次年五月）为哺乳母貘和成长中的幼貘提供充足的食物。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Indigenous and rural communities have hunted mountain tapirs for meat and used their skin for traditional purposes. In recent decades, ecotourism and scientific research have increased their recognition as a flagship species for mountain conservation.",
+      "zh": "原住民和农村社区曾为获取肉类而捕猎山貘，并利用其皮毛用于传统用途。近几十年来，生态旅游和科学研究使山貘作为山地保护旗舰物种的认知度有所提高。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "evolution": {
+      "en": "Tapirs belong to the order Perissodactyla, which also includes horses and rhinoceroses. The family Tapiridae once lived across the Americas, Europe, and Asia; only four species remain today. Mountain tapirs likely adapted to high-altitude life as the Andes formed.",
+      "zh": "貘属于奇蹄目，与马和犀牛同属这一类奇蹄兽类。貘科曾分布于美洲、欧洲和亚洲；如今仅存四种。随着安第斯山脉隆起，山貘可能逐渐适应了高海拔生活。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for clear, three-toed footprints in muddy patches, oval dung piles near resting sites, and trails leading to water. Chewed or broken vegetation may indicate feeding sites. A musty scent may be noticeable where tapirs have marked their territory.",
+      "zh": "在泥泞处可看到明显的三趾脚印；休息地点附近常有椭圆形粪便堆；通往水边的小道也是线索。被啃食或折断的植物表明是取食点。在貘标记领地的区域可能闻到霉味。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The mountain tapir is the smallest of the four living tapir species.",
+          "zh": "山貘是现存四种貘中体型最小的。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "It is the only tapir with a thick woolly coat, which makes it look a bit like a hairy hippo.",
+          "zh": "它是唯一拥有厚重毛皮的貘，看起来有点像毛茸茸的河马。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Mountain tapirs are excellent swimmers and often take to rivers to escape danger.",
+          "zh": "山貘是出色的游泳者，经常跳入河中躲避危险。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "Their fossil relatives lived in Europe and North America millions of years ago.",
+          "zh": "它们的化石近亲数百万年前曾在欧洲和北美生活。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "A long pregnancy",
+          "zh": "漫长的妊娠期"
+        },
+        "content": {
+          "en": "Mountain tapirs have one of the longest pregnancies of any land mammal of comparable size, lasting about 13 months. The single calf is well developed at birth and can walk within a few hours.",
+          "zh": "山貘的妊娠期在体型相近的陆生哺乳动物中名列前茅，约为13个月。幼仔出生时发育良好，几小时内就能行走。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Striped baby coat",
+          "zh": "条纹幼崽毛色"
+        },
+        "content": {
+          "en": "Newborn mountain tapirs have light brown fur with pale stripes and spots, which helps camouflage them in the dappled forest light. These markings fade by around one year of age.",
+          "zh": "新生山貘长有浅棕色并带有浅色条纹和斑点的皮毛，有助于它们在斑驳的森林光线中伪装。这些斑纹到一岁左右会逐渐消失。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Mountain tapirs occupy humid cloud forests and adjoining paramo grasslands along the northern Andes. They prefer areas with rivers or ponds and dense cover. Their range in Colombia and Ecuador is fragmented, with fewer confirmed records in extreme northern Peru.",
+    "text_zh": "山貘栖息于安第斯山脉北部的湿润云雾林及毗邻的帕拉莫草原。它们偏好拥有溪流或池塘、植被茂密的区域。其在哥伦比亚和厄瓜多尔的分布已碎片化，在秘鲁最北端仅有少数确认记录。",
+    "map_coordinates": [
+      1.3,
+      -77.4
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          7,
+          -76.8
+        ],
+        [
+          5,
+          -74.8
+        ],
+        [
+          1,
+          -76.5
+        ],
+        [
+          -2,
+          -77.3
+        ],
+        [
+          -5,
+          -79.5
+        ],
+        [
+          -6,
+          -78.8
+        ],
+        [
+          -3,
+          -76
+        ],
+        [
+          2,
+          -74
+        ],
+        [
+          7,
+          -76.8
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "conservation"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed polygons are simplified from the cited institutional range map for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的多边形依据所引机构分布图简化，以便在世界地图上清晰呈现；边界为概括性范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-17"
+    }
+  },
+  "image": "/images/animals/mountain-tapir.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2440899",
+      "checked_at": "2026-08-17"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2440899/iucnRedListCategory",
+      "checked_at": "2026-08-17"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Tapirus_pinchaque/",
+      "checked_at": "2026-08-17"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Tapirus_pinchaque/",
+      "checked_at": "2026-08-17"
+    },
+    "range": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Tapirus_pinchaque/",
+      "checked_at": "2026-08-17"
+    }
+  }
+}
