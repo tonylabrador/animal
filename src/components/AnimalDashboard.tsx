@@ -9,6 +9,7 @@ import type { Animal } from "@/types/animal";
 import type { LatestRelease } from "@/lib/getAnimals";
 import WishlistSection from "@/components/WishlistSection";
 import MessageBoard from "@/components/MessageBoard";
+import SubscribeBanner from "@/components/SubscribeBanner";
 import { getTagColor } from "@/lib/animalPresentation";
 
 type Language = "en" | "zh";
@@ -117,6 +118,11 @@ function formatReleaseDate(date: string, lang: "en" | "zh") {
     day: "numeric",
     timeZone: "UTC",
   }).format(new Date(`${date}T00:00:00Z`));
+}
+
+function formatReleaseDateRange(startDate: string, endDate: string, lang: "en" | "zh") {
+  if (startDate === endDate) return formatReleaseDate(endDate, lang);
+  return `${formatReleaseDate(startDate, lang)}–${formatReleaseDate(endDate, lang)}`;
 }
 
 export default function AnimalDashboard({ animals, latestRelease }: AnimalDashboardProps) {
@@ -281,15 +287,17 @@ export default function AnimalDashboard({ animals, latestRelease }: AnimalDashbo
       {latestRelease && <div className="bg-gradient-to-r from-amber-500 to-orange-500 text-white text-center py-2 px-4 shadow-sm font-bold text-sm sm:text-base tracking-wide flex flex-wrap items-center justify-center gap-x-2 gap-y-1">
         <span className="animate-pulse">✨</span>
         <span className="rounded-full bg-white/20 px-2.5 py-0.5 text-xs sm:text-sm tabular-nums">
-          {formatReleaseDate(latestRelease.date, lang)}
+          {formatReleaseDateRange(latestRelease.startDate, latestRelease.date, lang)}
         </span>
         <span>
           {lang === "en"
-            ? `${latestRelease.animalCount} new animals added — now with bilingual Quick Facts!`
-            : `新增${latestRelease.animalCount}种动物，并加入中英双语 Quick Facts！`}
+            ? `${latestRelease.animalCount} new animals added${latestRelease.startDate !== latestRelease.date ? " over two days" : ""} — now with bilingual Quick Facts!`
+            : `${latestRelease.startDate !== latestRelease.date ? "两日" : ""}新增${latestRelease.animalCount}种动物，并加入中英双语 Quick Facts！`}
         </span>
         <span className="animate-pulse">✨</span>
       </div>}
+
+      <SubscribeBanner lang={lang} />
 
       {/* ── Hero ── */}
       <section className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-4 pb-6 lg:pt-12 lg:pb-12">

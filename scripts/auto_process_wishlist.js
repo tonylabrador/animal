@@ -10,6 +10,7 @@
 require("dotenv").config({ path: ".env.local" });
 const fs = require("fs");
 const path = require("path");
+const crypto = require("crypto");
 const { execFileSync } = require("child_process");
 const { validateAnimal } = require("./lib/animal-schema");
 
@@ -19,6 +20,7 @@ const RECENT_PATH = path.join(ROOT, "RECENTLY_ADDED.md");
 const DRAFT_PATH = path.join(ROOT, "_draft_animals.json");
 const ANIMALS_DIR = path.join(ROOT, "data", "animals");
 const MANIFEST_PATH = path.join(ROOT, "data", "image-attribution.json");
+const RELEASES_PATH = path.join(ROOT, "data", "releases.json");
 const DEFAULT_BATCH_SIZE = 5;
 const EDITORIAL_TAG_OVERRIDES = {
   "Tachyglossus aculeatus": ["Mammal", "Forest", "Insectivore"],
@@ -227,6 +229,18 @@ function renderRecentlyAdded(rows) {
   return `${header}\n${body}\n`;
 }
 
+function recordRelease(date, animalIds) {
+  const digest = crypto.createHash("sha256").update(animalIds.join(",")).digest("hex").slice(0, 12);
+  const id = `${date}-${digest}`;
+  const releases = fs.existsSync(RELEASES_PATH) ? JSON.parse(fs.readFileSync(RELEASES_PATH, "utf8")) : [];
+  if (!Array.isArray(releases)) throw new Error("data/releases.json must be an array");
+  if (releases.some((release) => release.id === id)) return id;
+
+  releases.unshift({ id, date, animal_ids: animalIds });
+  writeAtomic(RELEASES_PATH, `${JSON.stringify(releases, null, 2)}\n`);
+  return id;
+}
+
 async function prepareDraft(batchSize) {
   const existingDraft = JSON.parse(fs.readFileSync(DRAFT_PATH, "utf8"));
   if (!Array.isArray(existingDraft) || existingDraft.length > 0) {
@@ -307,7 +321,8 @@ function finalize(ids) {
     id: animal.id,
   }));
   writeAtomic(RECENT_PATH, renderRecentlyAdded([...newRows, ...priorRows]));
-  console.log(`✅ Finalized ${ids.length} approved animals and removed only their exact wishlist rows.`);
+  const releaseId = recordRelease(date, newRows.map((row) => row.id));
+  console.log(`✅ Finalized ${ids.length} approved animals and removed only their exact wishlist rows (release ${releaseId}).`);
 }
 
 const args = parseArgs();

@@ -10,6 +10,7 @@ const IMAGE_ATTRIBUTION_FILE = path.join(process.cwd(), "data", "image-attributi
 type ImageAttribution = NonNullable<Animal["image_attribution"]>;
 
 export interface LatestRelease {
+  startDate: string;
   date: string;
   animalCount: number;
 }
@@ -22,16 +23,26 @@ function getImageAttributions(): Record<string, ImageAttribution> {
 export function getLatestRelease(): LatestRelease | null {
   if (!fs.existsSync(RECENTLY_ADDED_FILE)) return null;
   let latestDate: string | null = null;
-  let animalCount = 0;
+  const countsByDate = new Map<string, number>();
   for (const line of fs.readFileSync(RECENTLY_ADDED_FILE, "utf8").split("\n")) {
     if (!line.trim().startsWith("|") || line.includes("|---") || line.includes("加入日期")) continue;
     const columns = line.split("|").slice(1, -1).map((column) => column.trim());
     const date = columns.length >= 6 ? columns[1] : null;
     if (!date || !/^\d{4}-\d{2}-\d{2}$/.test(date)) continue;
     if (!latestDate) latestDate = date;
-    if (date === latestDate) animalCount += 1;
+    countsByDate.set(date, (countsByDate.get(date) || 0) + 1);
   }
-  return latestDate ? { date: latestDate, animalCount } : null;
+  if (!latestDate) return null;
+
+  const previous = new Date(`${latestDate}T00:00:00Z`);
+  previous.setUTCDate(previous.getUTCDate() - 1);
+  const previousDate = previous.toISOString().slice(0, 10);
+  const includesPreviousDay = countsByDate.has(previousDate);
+  return {
+    startDate: includesPreviousDay ? previousDate : latestDate,
+    date: latestDate,
+    animalCount: (countsByDate.get(latestDate) || 0) + (countsByDate.get(previousDate) || 0),
+  };
 }
 
 /** 读取 data/animals/ 下所有 .json 文件，返回 Animal 数组（若某文件为数组则取首项） */

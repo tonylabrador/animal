@@ -14,7 +14,8 @@
     "validate:draft": "node validate_animals.js --draft",
     "validate:data": "node validate_animals.js",
     "qc": "npm run test:schema && npm run validate:data && npm run qc:bilingual && npm run lint && npm run build",
-    "process-wishlist": "node scripts/auto_process_wishlist.js"
+    "process-wishlist": "node scripts/auto_process_wishlist.js",
+    "email:release": "node scripts/send_release_email.js"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",
@@ -25,7 +26,8 @@
     "next": "^16.1.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-leaflet": "^5.0.0"
+    "react-leaflet": "^5.0.0",
+    "resend": "^6.20.0"
   },
   "devDependencies": {
     "@types/d3": "^7.4.3",
