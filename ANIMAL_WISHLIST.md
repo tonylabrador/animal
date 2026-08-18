@@ -5,3 +5,4 @@
 | # | 中文名 | English Name | Scientific Name | 状态 |
 |---|--------|-------------|-----------------|------|
 | 1 | 暗眼灯草鹀 | Dark-eyed Junco | Junco hyemalis | ⏳ Pending |
+| 2 | 开普短头蛙 | Cape Rain Frog | Breviceps gibbosus | ⏳ Pending |
