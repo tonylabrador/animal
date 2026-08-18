@@ -1,0 +1,2379 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-18",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Exact taxonomy, current global status, numeric claims, seasonal scope, distribution text and partial USGS range geometry were checked; every English/Chinese section was compared line by line."
+  },
+  "id": "dark-eyed-junco",
+  "name_zh": "暗眼灯草鹀",
+  "name_en": "Dark-eyed Junco",
+  "scientific_name": "Junco hyemalis",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Passeriformes",
+      "zh": "雀形目"
+    },
+    "family": {
+      "en": "Passerellidae",
+      "zh": "美洲雀科"
+    },
+    "genus": {
+      "en": "Junco",
+      "zh": "灯草鹀属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current global IUCN category was checked against the 2021.3 species assessment on 2026-08-18.",
+    "note_zh": "已于2026-08-18依据IUCN 2021.3物种评估核对当前全球等级。"
+  },
+  "description": {
+    "en": "The Dark-eyed Junco is a small, highly variable North American sparrow. Its regional forms range from smooth slate gray to brown-backed and hooded, but a small pale bill and white outer tail feathers unite them. Many northern and mountain birds move south or downhill in winter, when flocks often visit gardens and feeders.",
+    "zh": "暗眼灯草鹀是一种体型较小、外观地域变化很大的北美雀鸟。不同地区的类型可呈纯净石板灰色、棕背色或深色头罩，但都具有小而浅色的喙和白色外侧尾羽。许多北方及山地个体冬季会南迁或下移，此时常成群出现在花园和喂鸟器附近。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are about 14–16 cm long, weigh 18–30 g, and span 18–25 cm across the wings. They have a rounded head, a short stout pale pinkish bill, and a fairly long tail whose white outer feathers flash in flight. Plumage differs strikingly among regional forms.",
+      "zh": "成鸟体长约14至16厘米，体重18至30克，翼展18至25厘米。它们头部圆润，喙短粗、呈浅粉色，尾巴较长，飞行时白色外侧尾羽会明显闪现。不同地域类型的羽色差异十分显著。",
+      "source_keys": [
+        "identification"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Juncos hop and scratch through leaf litter for seeds and insects. Seeds make up most of the annual diet, while beetles, caterpillars, ants, wasps, flies and other insects become especially important in the breeding season. Males defend territories in summer; winter birds gather in flocks with recognizable dominance ranks.",
+      "zh": "暗眼灯草鹀会在落叶层中跳跃、刨抓，寻找种子和昆虫。种子构成全年食物的大部分，而甲虫、毛虫、蚂蚁、黄蜂、苍蝇等昆虫在繁殖季尤其重要。雄鸟夏季保卫领地；冬季则结群，并形成可辨认的等级秩序。",
+      "source_keys": [
+        "life_history"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "The species occurs across North America from Alaska and Canada south through the United States into Mexico. It breeds mainly in coniferous and mixed forests, including mountain forests, and in winter also uses open woods, fields, roadsides, parks and backyards. The map polygons show the documented range within the conterminous United States; the species' full range extends beyond them.",
+      "zh": "本种广布北美，从阿拉斯加和加拿大向南，经美国延伸至墨西哥。它主要在针叶林和混交林（包括山地森林）繁殖，冬季也利用疏林、田野、路边、公园和庭院。地图多边形显示美国本土有记录的范围；本种完整分布还延伸到这些范围之外。",
+      "source_keys": [
+        "range",
+        "range_geometry"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_length",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "14–16 cm",
+          "zh": "14至16厘米"
+        },
+        "source_keys": [
+          "identification"
+        ]
+      },
+      {
+        "key": "weight",
+        "label": {
+          "en": "Weight",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "18–30 g",
+          "zh": "18至30克"
+        },
+        "source_keys": [
+          "identification"
+        ]
+      },
+      {
+        "key": "wingspan",
+        "label": {
+          "en": "Wingspan",
+          "zh": "翼展"
+        },
+        "value": {
+          "en": "18–25 cm",
+          "zh": "18至25厘米"
+        },
+        "source_keys": [
+          "identification"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Mostly seeds; insects increase in the breeding season",
+          "zh": "以种子为主；繁殖季增加昆虫"
+        },
+        "source_keys": [
+          "life_history"
+        ]
+      },
+      {
+        "key": "clutch",
+        "label": {
+          "en": "Clutch",
+          "zh": "窝卵数"
+        },
+        "value": {
+          "en": "3–6 eggs",
+          "zh": "3至6枚卵"
+        },
+        "source_keys": [
+          "life_history"
+        ]
+      },
+      {
+        "key": "incubation",
+        "label": {
+          "en": "Incubation",
+          "zh": "孵化期"
+        },
+        "value": {
+          "en": "12–13 days",
+          "zh": "12至13天"
+        },
+        "source_keys": [
+          "life_history"
+        ]
+      },
+      {
+        "key": "nestling_period",
+        "label": {
+          "en": "Nestling period",
+          "zh": "巢内育雏期"
+        },
+        "value": {
+          "en": "10–13 days",
+          "zh": "10至13天"
+        },
+        "source_keys": [
+          "life_history"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "The female selects the nest site and builds a cup, usually in a depression, among exposed roots, or beneath cover on the ground, though some nests are placed on structures or low branches. A clutch contains 3–6 eggs. Incubation lasts 12–13 days and young remain in the nest for about 10–13 days; a pair may raise 1–3 broods in a season.",
+      "zh": "雌鸟选择巢址并筑成杯状巢，通常位于地面凹处、外露树根间或遮蔽物下，也有少数巢设在建筑物或低枝上。每窝产3至6枚卵，孵化期12至13天，雏鸟在巢内约停留10至13天；一对成鸟一季可繁殖1至3窝。",
+      "source_keys": [
+        "life_history"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "White tail flash",
+          "zh": "白尾闪现"
+        },
+        "detail": {
+          "en": "White outer tail feathers become conspicuous when the bird spreads its tail or flies, providing a durable field mark across its many plumage forms.",
+          "zh": "展开尾羽或飞行时，白色外侧尾羽十分醒目；即使不同地域类型羽色多变，这仍是稳定的野外识别特征。"
+        },
+        "source_keys": [
+          "identification"
+        ]
+      },
+      {
+        "title": {
+          "en": "Ground-foraging build",
+          "zh": "地面觅食体态"
+        },
+        "detail": {
+          "en": "A compact body, short stout bill and hopping, scratching behavior suit a bird that collects fallen seeds and small invertebrates from litter and low vegetation.",
+          "zh": "紧凑的体形、短粗的喙以及跳跃刨抓的行为，适合从落叶层和低矮植被中取食落下的种子与小型无脊椎动物。"
+        },
+        "source_keys": [
+          "identification",
+          "life_history"
+        ]
+      },
+      {
+        "title": {
+          "en": "Flexible seasonal movement",
+          "zh": "灵活的季节迁移"
+        },
+        "detail": {
+          "en": "Populations use different strategies: many northern birds migrate south, some mountain birds move downhill, and other populations remain near breeding areas year-round.",
+          "zh": "不同种群采取不同策略：许多北方个体向南迁徙，一些山地个体冬季下移，另一些种群则全年留在繁殖地附近。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "title": {
+          "en": "Regional plumage variation",
+          "zh": "地域羽色变化"
+        },
+        "detail": {
+          "en": "Strong geographic variation produces several readily recognizable forms, while the pale bill and white outer tail feathers remain shared clues to species identity.",
+          "zh": "显著的地理变异形成多个容易辨认的类型，而浅色喙和白色外侧尾羽仍是共同的物种识别线索。"
+        },
+        "source_keys": [
+          "identification"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Dark-eyed Juncos are abundant consumers of grass and weed seeds and seasonal predators of insects. They also form part of forest and edge food webs as prey for raptors and other predators. Their winter use of open ground connects forest birds with gardens, parks and agricultural edges.",
+      "zh": "暗眼灯草鹀大量取食草本和杂草种子，并在特定季节捕食昆虫；同时也会成为猛禽及其他捕食者的猎物，是森林和林缘食物网的一环。它们冬季利用开阔地面，使森林鸟类与花园、公园和农田边缘生态环境发生联系。",
+      "source_keys": [
+        "life_history"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Although globally listed as Least Concern and still abundant, long-term North American monitoring and recent eBird models show a range-wide decline. Loss or alteration of breeding forest and changes to winter habitat can affect local populations.",
+        "zh": "本种全球等级为无危且仍很常见，但北美长期监测和近期eBird模型均显示其全分布范围呈下降趋势。繁殖森林的丧失或改变，以及越冬栖息地变化，都可能影响局部种群。"
+      },
+      "actions": {
+        "en": "Continue broad-scale population monitoring, protect diverse breeding forests and understory, and maintain winter ground cover and low-risk urban habitat. Keeping cats indoors and reducing window collisions also benefits small songbirds.",
+        "zh": "持续开展大范围种群监测，保护多样的繁殖森林及林下层，并维持越冬地的地面覆盖和低风险城市栖息地。将家猫留在室内并减少鸟撞玻璃，也有助于保护小型鸣禽。"
+      },
+      "source_keys": [
+        "conservation",
+        "trend",
+        "life_history"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A medium-small sparrow with a rounded head, pale pinkish bill, fairly long tail and white outer tail feathers. Plumage may be gray, brown-backed, hooded, pink-sided or red-backed depending on region and sex.",
+        "zh": "中小型雀鸟，头圆、喙呈浅粉色、尾巴较长，外侧尾羽白色。羽色会随地域和性别呈灰色、棕背、深色头罩、粉褐色体侧或红棕背等变化。"
+      },
+      "similar_species": {
+        "en": "Yellow-eyed Junco has conspicuously yellow eyes and a more restricted Mexican and southeastern Arizona range. Spotted Towhee is larger, has a heavier bill and typically shows rufous sides; juvenile Dark-eyed Juncos can be streaky but retain the overall small-billed shape and white outer tail feathers.",
+        "zh": "黄眼灯草鹀具有醒目的黄色眼睛，主要局限于墨西哥和亚利桑那州东南部；斑唧鹀体形更大、喙更粗重，通常有棕红色体侧。暗眼灯草鹀幼鸟虽有纵纹，但仍保留小喙体态和白色外侧尾羽。"
+      },
+      "source_keys": [
+        "identification"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "The male's simple song is an even musical trill lasting about two seconds. Birds also give high, thin chip notes while foraging or when alert, and excited calls accompany territorial chases. Vision and hearing guide ground foraging and flock coordination.",
+      "zh": "雄鸟的鸣唱是持续约两秒、节奏均匀的音乐性颤音。觅食或警戒时会发出高而细的“chip”叫声，保卫领地追逐时叫声更急促。视觉和听觉帮助它们在地面觅食并协调群体行动。",
+      "source_keys": [
+        "identification",
+        "life_history"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Spring and summer are the main territorial and nesting period in northern and mountain forests. In autumn many birds move south or to lower elevations. Winter flocks occupy open woodland, fields, roadsides, parks and backyards, before migrants return north or uphill in spring.",
+      "zh": "春夏是北方和山地森林中主要的占区与筑巢期。秋季许多个体向南或向低海拔迁移；冬季鸟群活动于疏林、田野、路边、公园和庭院，翌春再向北或向高海拔返回。",
+      "source_keys": [
+        "range",
+        "life_history"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Juncos readily feed on millet and other seeds scattered on or beneath feeders, making them familiar winter visitors in many North American neighborhoods. Their winter arrival inspired the nickname “snowbird.” People can help by offering clean ground-feeding areas and reducing common urban bird hazards.",
+      "zh": "暗眼灯草鹀常取食撒在地面或喂鸟器下方的小米等种子，因此是北美许多社区熟悉的冬季访客。它们随冬季到来，因而获得“雪鸟”的昵称。人们可通过保持地面取食区清洁并减少常见城市鸟类风险来帮助它们。",
+      "source_keys": [
+        "general",
+        "life_history"
+      ]
+    },
+    "evolution": {
+      "en": "The Dark-eyed Junco belongs to the New World sparrow family Passerellidae. About 15 named races show unusually strong geographic variation; 6 forms are readily recognized in the field, and several were treated as separate species until the 1980s. This variation has made the junco an important model for studying rapid diversification.",
+      "zh": "暗眼灯草鹀属于美洲雀科。约15个已命名亚种呈现格外显著的地理变异，其中6种类型可在野外较容易辨认；直到1980年代，其中多个类型仍被视为独立物种。这种变异使灯草鹀成为研究快速分化的重要模型。",
+      "source_keys": [
+        "taxonomy",
+        "identification",
+        "evolution"
+      ]
+    },
+    "field_signs": {
+      "en": "Watch for small flocks hopping beneath shrubs or feeders, scratching leaf litter with quick backward motions. When flushed, the birds make short low flights and flash white outer tail feathers. Thin chip notes and a neat two-second trill often reveal them before their variable plumage does.",
+      "zh": "可留意在灌木或喂鸟器下成小群跳跃的个体；它们会迅速向后刨抓落叶。受惊时常作短距离低飞，并闪现白色外侧尾羽。细高的“chip”声和整齐、约两秒的颤音，常比多变的羽色更早暴露它们。",
+      "source_keys": [
+        "identification",
+        "life_history"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The oldest recorded Dark-eyed Junco was at least 11 years and 4 months old when recaptured and released.",
+          "zh": "有记录的最老暗眼灯草鹀在再次捕获并放归时至少已有11岁4个月。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "6 regional forms are readily recognizable, even though they are treated as one species.",
+          "zh": "尽管都归为同一物种，仍有6种地域类型可在野外较容易辨认。"
+        },
+        "source_keys": [
+          "identification"
+        ]
+      },
+      {
+        "text": {
+          "en": "White outer tail feathers are present even in streaky juveniles and flash most clearly in flight.",
+          "zh": "即使纵纹明显的幼鸟也有白色外侧尾羽，飞行时最为醒目。"
+        },
+        "source_keys": [
+          "identification"
+        ]
+      },
+      {
+        "text": {
+          "en": "Winter flocks establish dominance hierarchies, and birds that arrive earlier often rank above later arrivals.",
+          "zh": "冬季鸟群会形成等级秩序，较早到达的个体往往排在后来者之上。"
+        },
+        "source_keys": [
+          "life_history"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Nesting strategy",
+          "zh": "筑巢策略"
+        },
+        "content": {
+          "en": "Most nests are on or very near the ground, tucked into slopes, roots or cover. The female chooses the site and builds the cup.",
+          "zh": "大多数巢位于地面或非常接近地面，藏在坡面、树根或遮蔽物中；由雌鸟选址并筑成杯状巢。"
+        },
+        "source_keys": [
+          "life_history"
+        ]
+      },
+      {
+        "title": {
+          "en": "Plumage forms",
+          "zh": "羽色类型"
+        },
+        "content": {
+          "en": "Slate-colored, Oregon, pink-sided, gray-headed, red-backed and white-winged forms can look strikingly different, so the pale bill and white outer tail are especially useful shared clues.",
+          "zh": "石板色型、俄勒冈型、粉肋型、灰头型、红背型和白翅型外观可有显著差异，因此浅色喙与白色外侧尾羽是特别有用的共同线索。"
+        },
+        "source_keys": [
+          "identification"
+        ]
+      },
+      {
+        "title": {
+          "en": "Seasonal movement",
+          "zh": "季节迁移"
+        },
+        "content": {
+          "en": "The species combines long-distance migration, shorter elevational movement and year-round residency, depending on population and location.",
+          "zh": "本种会因种群和地点不同，采取长距离迁徙、较短的垂直迁移或全年留居等多种策略。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Breeding coniferous and mixed forests across northern and western North America and the Appalachians; winter habitats also include open woods, fields, roadsides, parks and backyards. The polygons are a verified but partial USGS depiction for the conterminous United States, not the full continental range.",
+    "text_zh": "繁殖地包括北美北部、西部及阿巴拉契亚地区的针叶林和混交林；冬季还利用疏林、田野、路边、公园和庭院。多边形是经核验但仅覆盖美国本土的USGS范围，并非完整大陆分布。",
+    "map_coordinates": [
+      46,
+      -108
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          26.5314,
+          -98.7142
+        ],
+        [
+          26.4179,
+          -98.7397
+        ],
+        [
+          26.2354,
+          -98.6646
+        ],
+        [
+          26.227,
+          -98.5117
+        ],
+        [
+          26.073,
+          -98.2449
+        ],
+        [
+          26.0639,
+          -97.8759
+        ],
+        [
+          26.034,
+          -97.6716
+        ],
+        [
+          25.9379,
+          -97.5826
+        ],
+        [
+          25.8401,
+          -97.3729
+        ],
+        [
+          26.0635,
+          -97.154
+        ],
+        [
+          26.1306,
+          -97.4355
+        ],
+        [
+          26.0872,
+          -97.684
+        ],
+        [
+          26.293,
+          -97.8357
+        ],
+        [
+          26.16,
+          -97.9752
+        ],
+        [
+          26.2562,
+          -98.4814
+        ],
+        [
+          26.4594,
+          -98.5944
+        ],
+        [
+          26.5314,
+          -98.7142
+        ]
+      ],
+      [
+        [
+          27.3077,
+          -99.3896
+        ],
+        [
+          27.023,
+          -99.4465
+        ],
+        [
+          26.8432,
+          -99.2686
+        ],
+        [
+          26.5361,
+          -99.1667
+        ],
+        [
+          26.6015,
+          -99.0248
+        ],
+        [
+          26.7037,
+          -99.1835
+        ],
+        [
+          26.8165,
+          -99.1597
+        ],
+        [
+          26.8633,
+          -99.283
+        ],
+        [
+          26.9953,
+          -99.2822
+        ],
+        [
+          27.0439,
+          -99.3901
+        ],
+        [
+          27.1632,
+          -99.2743
+        ],
+        [
+          27.3077,
+          -99.3896
+        ]
+      ],
+      [
+        [
+          42.4568,
+          -79.9019
+        ],
+        [
+          42.3921,
+          -80.0666
+        ],
+        [
+          42.3159,
+          -80.5662
+        ],
+        [
+          42.2069,
+          -81.2577
+        ],
+        [
+          41.6772,
+          -82.4123
+        ],
+        [
+          41.6776,
+          -82.6816
+        ],
+        [
+          41.8626,
+          -83.0685
+        ],
+        [
+          42.0421,
+          -83.1496
+        ],
+        [
+          42.2366,
+          -83.1311
+        ],
+        [
+          42.3213,
+          -83.0532
+        ],
+        [
+          42.3712,
+          -82.8333
+        ],
+        [
+          42.549,
+          -82.658
+        ],
+        [
+          42.6262,
+          -82.516
+        ],
+        [
+          42.9061,
+          -82.461
+        ],
+        [
+          43.5872,
+          -82.1165
+        ],
+        [
+          45.3441,
+          -82.5248
+        ],
+        [
+          45.8185,
+          -83.5917
+        ],
+        [
+          45.9964,
+          -83.4355
+        ],
+        [
+          46.1027,
+          -83.571
+        ],
+        [
+          46.1163,
+          -83.8247
+        ],
+        [
+          46.056,
+          -83.9535
+        ],
+        [
+          46.2409,
+          -84.1028
+        ],
+        [
+          46.4982,
+          -84.1107
+        ],
+        [
+          46.5029,
+          -84.3884
+        ],
+        [
+          46.4614,
+          -84.5598
+        ],
+        [
+          46.6339,
+          -84.7662
+        ],
+        [
+          46.8882,
+          -84.8617
+        ],
+        [
+          48.2363,
+          -88.206
+        ],
+        [
+          48.3042,
+          -88.3725
+        ],
+        [
+          48.239,
+          -88.6928
+        ],
+        [
+          47.9767,
+          -89.3389
+        ],
+        [
+          48.0219,
+          -89.734
+        ],
+        [
+          47.9881,
+          -89.8991
+        ],
+        [
+          48.1121,
+          -90.1362
+        ],
+        [
+          48.0923,
+          -90.7534
+        ],
+        [
+          48.2455,
+          -90.8847
+        ],
+        [
+          48.0926,
+          -91.2345
+        ],
+        [
+          48.0457,
+          -91.569
+        ],
+        [
+          48.196,
+          -91.7114
+        ],
+        [
+          48.2677,
+          -92.0056
+        ],
+        [
+          48.3555,
+          -92.0529
+        ],
+        [
+          48.3539,
+          -92.2626
+        ],
+        [
+          48.2233,
+          -92.3706
+        ],
+        [
+          48.4472,
+          -92.5088
+        ],
+        [
+          48.4442,
+          -92.6914
+        ],
+        [
+          48.5408,
+          -92.7356
+        ],
+        [
+          48.6102,
+          -92.9461
+        ],
+        [
+          48.6254,
+          -93.3503
+        ],
+        [
+          48.5455,
+          -93.4663
+        ],
+        [
+          48.5149,
+          -93.791
+        ],
+        [
+          48.6289,
+          -93.8443
+        ],
+        [
+          48.6476,
+          -94.2263
+        ],
+        [
+          48.6971,
+          -94.2632
+        ],
+        [
+          48.7176,
+          -94.5871
+        ],
+        [
+          48.8846,
+          -94.6831
+        ],
+        [
+          49.2943,
+          -94.8252
+        ],
+        [
+          49.3702,
+          -94.9575
+        ],
+        [
+          49.3844,
+          -95.1533
+        ],
+        [
+          48.9989,
+          -95.1537
+        ],
+        [
+          49,
+          -96.3737
+        ],
+        [
+          49.0003,
+          -98.1254
+        ],
+        [
+          48.9991,
+          -99.9401
+        ],
+        [
+          48.9986,
+          -102.217
+        ],
+        [
+          48.9991,
+          -103.3777
+        ],
+        [
+          48.999,
+          -104.8755
+        ],
+        [
+          48.9991,
+          -106.1121
+        ],
+        [
+          48.9994,
+          -107.441
+        ],
+        [
+          48.9991,
+          -108.8396
+        ],
+        [
+          48.997,
+          -111.5008
+        ],
+        [
+          48.9986,
+          -113.078
+        ],
+        [
+          48.9992,
+          -115.2079
+        ],
+        [
+          48.9989,
+          -117.1261
+        ],
+        [
+          49.0003,
+          -118.1748
+        ],
+        [
+          48.9994,
+          -120.0012
+        ],
+        [
+          48.9974,
+          -121.7513
+        ],
+        [
+          49.0009,
+          -123.3158
+        ],
+        [
+          48.8287,
+          -123.0073
+        ],
+        [
+          48.7674,
+          -123.0076
+        ],
+        [
+          48.6936,
+          -123.2688
+        ],
+        [
+          48.4219,
+          -123.1139
+        ],
+        [
+          48.2861,
+          -123.2481
+        ],
+        [
+          48.223,
+          -123.5527
+        ],
+        [
+          48.2949,
+          -124.0055
+        ],
+        [
+          48.4963,
+          -124.7501
+        ],
+        [
+          48.3136,
+          -124.7448
+        ],
+        [
+          48.1625,
+          -124.8262
+        ],
+        [
+          47.9976,
+          -124.7949
+        ],
+        [
+          47.6335,
+          -124.4521
+        ],
+        [
+          47.3934,
+          -124.4256
+        ],
+        [
+          47.2503,
+          -124.2888
+        ],
+        [
+          46.6409,
+          -124.1333
+        ],
+        [
+          46.2647,
+          -124.1466
+        ],
+        [
+          46.0122,
+          -123.9937
+        ],
+        [
+          45.9623,
+          -124.054
+        ],
+        [
+          45.7084,
+          -124.0039
+        ],
+        [
+          45.1197,
+          -124.0466
+        ],
+        [
+          44.768,
+          -124.1386
+        ],
+        [
+          44.6438,
+          -124.1277
+        ],
+        [
+          44.0974,
+          -124.1865
+        ],
+        [
+          43.591,
+          -124.2871
+        ],
+        [
+          43.266,
+          -124.4476
+        ],
+        [
+          42.9165,
+          -124.5699
+        ],
+        [
+          42.7898,
+          -124.6682
+        ],
+        [
+          42.5466,
+          -124.4604
+        ],
+        [
+          42.48,
+          -124.5558
+        ],
+        [
+          42.0786,
+          -124.4097
+        ],
+        [
+          41.978,
+          -124.2676
+        ],
+        [
+          41.8526,
+          -124.2803
+        ],
+        [
+          41.4632,
+          -124.1262
+        ],
+        [
+          41.1312,
+          -124.2254
+        ],
+        [
+          41.0026,
+          -124.176
+        ],
+        [
+          40.8633,
+          -124.2304
+        ],
+        [
+          40.4454,
+          -124.4737
+        ],
+        [
+          40.2188,
+          -124.3953
+        ],
+        [
+          40.0694,
+          -124.1522
+        ],
+        [
+          39.8043,
+          -123.9053
+        ],
+        [
+          39.5511,
+          -123.828
+        ],
+        [
+          39.3412,
+          -123.8855
+        ],
+        [
+          39.0475,
+          -123.7524
+        ],
+        [
+          38.898,
+          -123.7792
+        ],
+        [
+          38.682,
+          -123.5019
+        ],
+        [
+          38.5294,
+          -123.3676
+        ],
+        [
+          38.4214,
+          -123.1812
+        ],
+        [
+          38.1505,
+          -123.0082
+        ],
+        [
+          37.7812,
+          -123.1629
+        ],
+        [
+          37.654,
+          -123.0319
+        ],
+        [
+          37.5921,
+          -122.7655
+        ],
+        [
+          37.4482,
+          -122.502
+        ],
+        [
+          37.1754,
+          -122.4556
+        ],
+        [
+          36.9404,
+          -122.1871
+        ],
+        [
+          36.9252,
+          -121.9285
+        ],
+        [
+          36.8032,
+          -121.8478
+        ],
+        [
+          36.6649,
+          -121.8825
+        ],
+        [
+          36.6008,
+          -122.0296
+        ],
+        [
+          36.3068,
+          -121.959
+        ],
+        [
+          36.1174,
+          -121.7039
+        ],
+        [
+          35.8706,
+          -121.5182
+        ],
+        [
+          35.764,
+          -121.3873
+        ],
+        [
+          35.6241,
+          -121.3122
+        ],
+        [
+          35.5896,
+          -121.196
+        ],
+        [
+          35.4201,
+          -121.0276
+        ],
+        [
+          35.4023,
+          -120.9293
+        ],
+        [
+          35.2308,
+          -120.948
+        ],
+        [
+          35.1097,
+          -120.6885
+        ],
+        [
+          34.8809,
+          -120.7199
+        ],
+        [
+          34.6982,
+          -120.6585
+        ],
+        [
+          34.5646,
+          -120.705
+        ],
+        [
+          34.4926,
+          -120.5535
+        ],
+        [
+          34.2446,
+          -120.4866
+        ],
+        [
+          34.0188,
+          -120.5144
+        ],
+        [
+          33.9763,
+          -120.2954
+        ],
+        [
+          33.8286,
+          -120.0918
+        ],
+        [
+          33.6433,
+          -119.9052
+        ],
+        [
+          33.2207,
+          -119.6083
+        ],
+        [
+          33.0259,
+          -119.0466
+        ],
+        [
+          32.7482,
+          -118.4148
+        ],
+        [
+          32.7475,
+          -118.2368
+        ],
+        [
+          32.6201,
+          -117.2672
+        ],
+        [
+          32.5293,
+          -117.1784
+        ],
+        [
+          32.7188,
+          -114.7196
+        ],
+        [
+          32.6162,
+          -114.8096
+        ],
+        [
+          32.4943,
+          -114.8136
+        ],
+        [
+          31.9728,
+          -113.126
+        ],
+        [
+          31.3322,
+          -111.0748
+        ],
+        [
+          31.3322,
+          -109.0006
+        ],
+        [
+          31.3334,
+          -108.2086
+        ],
+        [
+          31.7836,
+          -108.2084
+        ],
+        [
+          31.7839,
+          -106.5285
+        ],
+        [
+          31.7321,
+          -106.381
+        ],
+        [
+          31.4665,
+          -106.2064
+        ],
+        [
+          31.3647,
+          -105.9539
+        ],
+        [
+          31.168,
+          -105.7739
+        ],
+        [
+          31.1139,
+          -105.6467
+        ],
+        [
+          30.9886,
+          -105.5554
+        ],
+        [
+          30.8132,
+          -105.3035
+        ],
+        [
+          30.7498,
+          -105.1187
+        ],
+        [
+          30.4948,
+          -104.8671
+        ],
+        [
+          30.3911,
+          -104.8595
+        ],
+        [
+          30.179,
+          -104.6872
+        ],
+        [
+          29.9206,
+          -104.6797
+        ],
+        [
+          29.6466,
+          -104.5126
+        ],
+        [
+          29.4967,
+          -104.2358
+        ],
+        [
+          29.3805,
+          -104.1425
+        ],
+        [
+          29.2651,
+          -103.7834
+        ],
+        [
+          29.1814,
+          -103.7192
+        ],
+        [
+          29.1374,
+          -103.525
+        ],
+        [
+          29.0421,
+          -103.4284
+        ],
+        [
+          28.9804,
+          -103.2505
+        ],
+        [
+          29.191,
+          -102.9207
+        ],
+        [
+          29.5229,
+          -102.8084
+        ],
+        [
+          29.7422,
+          -102.6765
+        ],
+        [
+          29.7648,
+          -102.4053
+        ],
+        [
+          29.8771,
+          -102.2997
+        ],
+        [
+          29.7867,
+          -102.0728
+        ],
+        [
+          29.8122,
+          -101.9662
+        ],
+        [
+          29.7617,
+          -101.7106
+        ],
+        [
+          29.788,
+          -101.4558
+        ],
+        [
+          29.6407,
+          -101.3
+        ],
+        [
+          29.5368,
+          -101.2612
+        ],
+        [
+          29.4587,
+          -101.0602
+        ],
+        [
+          29.366,
+          -101.0066
+        ],
+        [
+          29.2612,
+          -100.8136
+        ],
+        [
+          29.0998,
+          -100.6747
+        ],
+        [
+          28.9434,
+          -100.6515
+        ],
+        [
+          28.7392,
+          -100.5073
+        ],
+        [
+          28.662,
+          -100.5004
+        ],
+        [
+          28.4302,
+          -100.3362
+        ],
+        [
+          28.2844,
+          -100.2943
+        ],
+        [
+          28.1468,
+          -100.0869
+        ],
+        [
+          27.8992,
+          -99.8935
+        ],
+        [
+          27.7953,
+          -99.8723
+        ],
+        [
+          27.6662,
+          -99.7215
+        ],
+        [
+          27.5406,
+          -99.4128
+        ],
+        [
+          27.6809,
+          -99.3609
+        ],
+        [
+          27.6146,
+          -99.1963
+        ],
+        [
+          27.7551,
+          -99.1454
+        ],
+        [
+          27.6989,
+          -98.9936
+        ],
+        [
+          27.8497,
+          -98.8823
+        ],
+        [
+          27.8076,
+          -98.6684
+        ],
+        [
+          27.8715,
+          -98.5746
+        ],
+        [
+          27.914,
+          -98.2398
+        ],
+        [
+          27.9113,
+          -97.9355
+        ],
+        [
+          27.7471,
+          -97.8567
+        ],
+        [
+          27.761,
+          -97.6267
+        ],
+        [
+          27.6198,
+          -97.4981
+        ],
+        [
+          27.4072,
+          -97.3984
+        ],
+        [
+          27.2715,
+          -97.4325
+        ],
+        [
+          27.2257,
+          -97.3091
+        ],
+        [
+          27.3763,
+          -97.2634
+        ],
+        [
+          27.6746,
+          -97.1098
+        ],
+        [
+          27.8814,
+          -96.9632
+        ],
+        [
+          28.0887,
+          -96.7438
+        ],
+        [
+          28.296,
+          -96.377
+        ],
+        [
+          28.4528,
+          -96.1929
+        ],
+        [
+          28.8237,
+          -95.3644
+        ],
+        [
+          29.0883,
+          -95.032
+        ],
+        [
+          29.2491,
+          -94.7582
+        ],
+        [
+          29.3929,
+          -94.6423
+        ],
+        [
+          29.6044,
+          -94.113
+        ],
+        [
+          29.6283,
+          -93.8614
+        ],
+        [
+          29.7636,
+          -93.6967
+        ],
+        [
+          29.9645,
+          -93.629
+        ],
+        [
+          29.9635,
+          -93.3971
+        ],
+        [
+          29.8236,
+          -93.384
+        ],
+        [
+          29.8082,
+          -93.1623
+        ],
+        [
+          29.937,
+          -93.1138
+        ],
+        [
+          29.9718,
+          -92.8103
+        ],
+        [
+          29.9188,
+          -92.4602
+        ],
+        [
+          29.8046,
+          -92.2535
+        ],
+        [
+          29.8763,
+          -92.2186
+        ],
+        [
+          29.909,
+          -91.9893
+        ],
+        [
+          29.8368,
+          -91.8317
+        ],
+        [
+          29.9789,
+          -91.7574
+        ],
+        [
+          29.8775,
+          -91.5888
+        ],
+        [
+          29.8766,
+          -91.3852
+        ],
+        [
+          29.9391,
+          -91.1753
+        ],
+        [
+          29.8822,
+          -90.9396
+        ],
+        [
+          29.9123,
+          -90.7463
+        ],
+        [
+          30.0523,
+          -90.6517
+        ],
+        [
+          30.0183,
+          -90.4511
+        ],
+        [
+          30.1488,
+          -90.3279
+        ],
+        [
+          30.1892,
+          -90.1532
+        ],
+        [
+          30.1614,
+          -89.8114
+        ],
+        [
+          30.3066,
+          -89.5005
+        ],
+        [
+          30.4018,
+          -88.9762
+        ],
+        [
+          30.4744,
+          -87.7384
+        ],
+        [
+          30.4075,
+          -87.4717
+        ],
+        [
+          30.4732,
+          -87.3549
+        ],
+        [
+          30.3336,
+          -87.1806
+        ],
+        [
+          30.3863,
+          -87.1079
+        ],
+        [
+          30.4085,
+          -86.882
+        ],
+        [
+          30.3316,
+          -86.8774
+        ],
+        [
+          30.3514,
+          -86.6534
+        ],
+        [
+          30.2851,
+          -86.1845
+        ],
+        [
+          30.2995,
+          -86.0279
+        ],
+        [
+          30.253,
+          -85.6882
+        ],
+        [
+          30.3061,
+          -85.583
+        ],
+        [
+          30.2714,
+          -85.1058
+        ],
+        [
+          30.1365,
+          -84.8908
+        ],
+        [
+          30.2006,
+          -84.573
+        ],
+        [
+          30.12,
+          -84.3288
+        ],
+        [
+          30.1646,
+          -84.2708
+        ],
+        [
+          29.9304,
+          -83.8045
+        ],
+        [
+          30.0668,
+          -83.7766
+        ],
+        [
+          30.0839,
+          -83.3939
+        ],
+        [
+          30.0322,
+          -83.1676
+        ],
+        [
+          29.9615,
+          -83.0866
+        ],
+        [
+          30.0583,
+          -82.9577
+        ],
+        [
+          30.0483,
+          -82.7109
+        ],
+        [
+          29.9411,
+          -82.6368
+        ],
+        [
+          30.0274,
+          -82.39
+        ],
+        [
+          29.9347,
+          -82.2961
+        ],
+        [
+          29.9893,
+          -82.1945
+        ],
+        [
+          29.8827,
+          -82.017
+        ],
+        [
+          29.9699,
+          -81.8538
+        ],
+        [
+          29.9513,
+          -81.5698
+        ],
+        [
+          29.8801,
+          -81.5035
+        ],
+        [
+          29.8939,
+          -81.3452
+        ],
+        [
+          29.759,
+          -81.3563
+        ],
+        [
+          29.7283,
+          -81.1791
+        ],
+        [
+          30.309,
+          -81.3399
+        ],
+        [
+          30.7512,
+          -81.4081
+        ],
+        [
+          30.9071,
+          -81.3523
+        ],
+        [
+          31.0877,
+          -81.3487
+        ],
+        [
+          31.1812,
+          -81.2325
+        ],
+        [
+          31.3946,
+          -81.2027
+        ],
+        [
+          31.7267,
+          -81.0432
+        ],
+        [
+          31.9348,
+          -80.8289
+        ],
+        [
+          32.0857,
+          -80.7563
+        ],
+        [
+          32.2072,
+          -80.6027
+        ],
+        [
+          32.2795,
+          -80.4032
+        ],
+        [
+          32.3972,
+          -80.3751
+        ],
+        [
+          32.5554,
+          -80.0837
+        ],
+        [
+          32.6477,
+          -79.853
+        ],
+        [
+          32.7158,
+          -79.8187
+        ],
+        [
+          32.9632,
+          -79.3467
+        ],
+        [
+          33.1495,
+          -79.1424
+        ],
+        [
+          33.3697,
+          -79.0943
+        ],
+        [
+          33.6012,
+          -78.9065
+        ],
+        [
+          33.7613,
+          -78.6872
+        ],
+        [
+          33.8612,
+          -78.3406
+        ],
+        [
+          33.8515,
+          -78.0631
+        ],
+        [
+          33.8885,
+          -77.8978
+        ],
+        [
+          34.1414,
+          -77.781
+        ],
+        [
+          34.3816,
+          -77.5237
+        ],
+        [
+          34.5646,
+          -77.185
+        ],
+        [
+          34.6494,
+          -76.8106
+        ],
+        [
+          34.6273,
+          -76.455
+        ],
+        [
+          34.8181,
+          -76.2798
+        ],
+        [
+          35.0104,
+          -76.0262
+        ],
+        [
+          35.1371,
+          -75.766
+        ],
+        [
+          35.2178,
+          -75.4731
+        ],
+        [
+          35.5999,
+          -75.4056
+        ],
+        [
+          35.7251,
+          -75.4361
+        ],
+        [
+          36.2416,
+          -75.7184
+        ],
+        [
+          36.7734,
+          -75.8952
+        ],
+        [
+          37.0111,
+          -75.943
+        ],
+        [
+          37.1769,
+          -75.7502
+        ],
+        [
+          37.5519,
+          -75.5417
+        ],
+        [
+          37.8275,
+          -75.4178
+        ],
+        [
+          37.85,
+          -75.3003
+        ],
+        [
+          38.1175,
+          -75.1221
+        ],
+        [
+          38.4004,
+          -74.9992
+        ],
+        [
+          38.7389,
+          -75.0205
+        ],
+        [
+          38.8364,
+          -74.9799
+        ],
+        [
+          38.9577,
+          -74.7555
+        ],
+        [
+          39.2166,
+          -74.569
+        ],
+        [
+          39.4372,
+          -74.26
+        ],
+        [
+          39.736,
+          -74.0482
+        ],
+        [
+          40.373,
+          -73.912
+        ],
+        [
+          40.4994,
+          -73.9303
+        ],
+        [
+          40.6159,
+          -73.0684
+        ],
+        [
+          40.7949,
+          -72.4618
+        ],
+        [
+          41.0113,
+          -71.8486
+        ],
+        [
+          41.0785,
+          -71.7403
+        ],
+        [
+          41.1912,
+          -71.1998
+        ],
+        [
+          41.2153,
+          -70.7649
+        ],
+        [
+          41.296,
+          -70.7054
+        ],
+        [
+          41.3042,
+          -70.406
+        ],
+        [
+          41.1982,
+          -70.1285
+        ],
+        [
+          41.2589,
+          -69.9007
+        ],
+        [
+          41.4775,
+          -69.9805
+        ],
+        [
+          41.6882,
+          -69.8679
+        ],
+        [
+          41.9111,
+          -69.905
+        ],
+        [
+          42.0294,
+          -69.972
+        ],
+        [
+          42.1252,
+          -70.2251
+        ],
+        [
+          41.8225,
+          -70.0646
+        ],
+        [
+          41.774,
+          -70.263
+        ],
+        [
+          41.7997,
+          -70.4374
+        ],
+        [
+          41.9485,
+          -70.486
+        ],
+        [
+          42.2915,
+          -70.7274
+        ],
+        [
+          42.4055,
+          -70.8441
+        ],
+        [
+          42.5211,
+          -70.7237
+        ],
+        [
+          42.6053,
+          -70.5303
+        ],
+        [
+          42.7201,
+          -70.712
+        ],
+        [
+          42.8869,
+          -70.7499
+        ],
+        [
+          42.9524,
+          -70.5554
+        ],
+        [
+          43.0758,
+          -70.5684
+        ],
+        [
+          43.2956,
+          -70.4971
+        ],
+        [
+          43.3412,
+          -70.3606
+        ],
+        [
+          43.4883,
+          -70.2831
+        ],
+        [
+          43.615,
+          -70.0108
+        ],
+        [
+          43.7835,
+          -69.1852
+        ],
+        [
+          43.7394,
+          -68.8735
+        ],
+        [
+          44.0605,
+          -68.4369
+        ],
+        [
+          44.1356,
+          -68.1817
+        ],
+        [
+          44.3091,
+          -68.1169
+        ],
+        [
+          44.291,
+          -67.9919
+        ],
+        [
+          44.4185,
+          -67.769
+        ],
+        [
+          44.3902,
+          -67.6276
+        ],
+        [
+          44.5102,
+          -67.4499
+        ],
+        [
+          44.5715,
+          -67.2196
+        ],
+        [
+          44.7833,
+          -66.9047
+        ],
+        [
+          45.1483,
+          -67.1471
+        ],
+        [
+          45.126,
+          -67.3451
+        ],
+        [
+          45.2581,
+          -67.4738
+        ],
+        [
+          45.3911,
+          -67.4278
+        ],
+        [
+          45.4883,
+          -67.5046
+        ],
+        [
+          45.5824,
+          -67.428
+        ],
+        [
+          45.6779,
+          -67.8057
+        ],
+        [
+          45.943,
+          -67.7811
+        ],
+        [
+          47.0679,
+          -67.7905
+        ],
+        [
+          47.1961,
+          -67.9523
+        ],
+        [
+          47.3602,
+          -68.2828
+        ],
+        [
+          47.2867,
+          -68.3831
+        ],
+        [
+          47.2872,
+          -68.58
+        ],
+        [
+          47.1788,
+          -68.9024
+        ],
+        [
+          47.2444,
+          -69.0394
+        ],
+        [
+          47.4149,
+          -69.0346
+        ],
+        [
+          47.4597,
+          -69.2244
+        ],
+        [
+          46.6917,
+          -69.998
+        ],
+        [
+          46.4169,
+          -70.0564
+        ],
+        [
+          46.3313,
+          -70.2074
+        ],
+        [
+          46.0191,
+          -70.3176
+        ],
+        [
+          45.9437,
+          -70.2402
+        ],
+        [
+          45.7953,
+          -70.4169
+        ],
+        [
+          45.7332,
+          -70.3856
+        ],
+        [
+          45.6071,
+          -70.6447
+        ],
+        [
+          45.3906,
+          -70.7123
+        ],
+        [
+          45.2349,
+          -70.885
+        ],
+        [
+          45.3391,
+          -70.9528
+        ],
+        [
+          45.2454,
+          -71.132
+        ],
+        [
+          45.299,
+          -71.2971
+        ],
+        [
+          45.2337,
+          -71.3843
+        ],
+        [
+          45.0135,
+          -71.502
+        ],
+        [
+          45.0038,
+          -72.3101
+        ],
+        [
+          45.0153,
+          -73.0908
+        ],
+        [
+          44.9914,
+          -74.1502
+        ],
+        [
+          44.9984,
+          -74.5278
+        ],
+        [
+          45.0148,
+          -74.8343
+        ],
+        [
+          44.8778,
+          -75.2202
+        ],
+        [
+          44.5101,
+          -75.7727
+        ],
+        [
+          44.3782,
+          -75.8989
+        ],
+        [
+          44.2734,
+          -76.164
+        ],
+        [
+          44.0804,
+          -76.451
+        ],
+        [
+          43.6313,
+          -76.8041
+        ],
+        [
+          43.6316,
+          -76.8435
+        ],
+        [
+          43.6329,
+          -77.0167
+        ],
+        [
+          43.6335,
+          -78.6875
+        ],
+        [
+          43.45,
+          -79.204
+        ],
+        [
+          43.2196,
+          -79.0499
+        ],
+        [
+          42.9574,
+          -78.9404
+        ],
+        [
+          42.7907,
+          -79.0375
+        ],
+        [
+          42.7143,
+          -79.2373
+        ],
+        [
+          42.6886,
+          -79.3044
+        ],
+        [
+          42.4568,
+          -79.9019
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "range_geometry"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed polygons are simplified from the USGS CC0 range dataset based on 2001 ground conditions and cover only the conterminous United States. They are a verified partial range layer; Cornell's current range account is cited for the broader Alaska–Canada–United States–Mexico distribution.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的多边形由USGS依据2001年地表状况制作的CC0范围数据简化而来，仅覆盖美国本土；它是经核验的局部分布层。更广的阿拉斯加—加拿大—美国—墨西哥分布依据康奈尔当前范围资料说明。",
+      "checked_at": "2026-08-18"
+    }
+  },
+  "image": "/images/animals/dark-eyed-junco.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/9362842",
+      "checked_at": "2026-08-18"
+    },
+    "conservation": {
+      "authority": "IUCN Red List of Threatened Species 2021.3",
+      "url": "https://doi.org/10.2305/IUCN.UK.2021-3.RLTS.T22721097A138466281.en",
+      "checked_at": "2026-08-18"
+    },
+    "general": {
+      "authority": "Cornell Lab of Ornithology, All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Dark-eyed_Junco/overview",
+      "checked_at": "2026-08-18"
+    },
+    "identification": {
+      "authority": "Cornell Lab of Ornithology, All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Dark-eyed_Junco/id",
+      "checked_at": "2026-08-18"
+    },
+    "life_history": {
+      "authority": "Cornell Lab of Ornithology, All About Birds",
+      "url": "https://www.allaboutbirds.org/guide/Dark-eyed_Junco/lifehistory",
+      "checked_at": "2026-08-18"
+    },
+    "range": {
+      "authority": "Cornell Lab of Ornithology, eBird Status and Trends",
+      "url": "https://science.ebird.org/en/status-and-trends/species/daejun/range-map",
+      "release": "Data Version 2023",
+      "checked_at": "2026-08-18"
+    },
+    "range_geometry": {
+      "authority": "U.S. Geological Survey ScienceBase",
+      "url": "https://doi.org/10.5066/F7FQ9VRH",
+      "release": "bDEJUx_CONUS_2001v1; CC0 1.0",
+      "checked_at": "2026-08-18"
+    },
+    "trend": {
+      "authority": "Cornell Lab of Ornithology, eBird Status and Trends",
+      "url": "https://science.ebird.org/en/status-and-trends/species/daejun/trends-map",
+      "release": "2012–2022 range-wide model",
+      "checked_at": "2026-08-18"
+    },
+    "evolution": {
+      "authority": "Oxford University Press, G3 Genes|Genomes|Genetics",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9157146/",
+      "checked_at": "2026-08-18"
+    }
+  }
+}

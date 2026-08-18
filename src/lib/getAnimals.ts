@@ -13,6 +13,7 @@ export interface LatestRelease {
   startDate: string;
   date: string;
   animalCount: number;
+  dayCount: number;
 }
 
 function getImageAttributions(): Record<string, ImageAttribution> {
@@ -34,14 +35,25 @@ export function getLatestRelease(): LatestRelease | null {
   }
   if (!latestDate) return null;
 
-  const previous = new Date(`${latestDate}T00:00:00Z`);
-  previous.setUTCDate(previous.getUTCDate() - 1);
-  const previousDate = previous.toISOString().slice(0, 10);
-  const includesPreviousDay = countsByDate.has(previousDate);
+  let startDate = latestDate;
+  let animalCount = countsByDate.get(latestDate) || 0;
+  let cursor = new Date(`${latestDate}T00:00:00Z`);
+  while (true) {
+    cursor.setUTCDate(cursor.getUTCDate() - 1);
+    const candidate = cursor.toISOString().slice(0, 10);
+    const count = countsByDate.get(candidate);
+    if (!count) break;
+    startDate = candidate;
+    animalCount += count;
+  }
+  const dayCount = Math.round(
+    (Date.parse(`${latestDate}T00:00:00Z`) - Date.parse(`${startDate}T00:00:00Z`)) / 86_400_000,
+  ) + 1;
   return {
-    startDate: includesPreviousDay ? previousDate : latestDate,
+    startDate,
     date: latestDate,
-    animalCount: (countsByDate.get(latestDate) || 0) + (countsByDate.get(previousDate) || 0),
+    animalCount,
+    dayCount,
   };
 }
 

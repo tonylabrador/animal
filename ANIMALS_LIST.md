@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **451** 种动物
+**统计**：共 **453** 种动物
 
 ---
 
@@ -680,6 +680,7 @@
 
 **美洲雀科**
 
+- 暗眼灯草鹀 / Dark-eyed Junco — *Junco hyemalis* `dark-eyed-junco`
 - 北美红雀 / Northern Cardinal — *Cardinalis cardinalis* `northern-cardinal`
 - 夏唐纳雀 / Summer Tanager — *Piranga rubra* `summer-tanager`
 
@@ -1055,6 +1056,10 @@
 **瞻星蛙科**
 
 - 玻璃蛙 / Glass Frog — *Hyalinobatrachium fleischmanni* `glass-frog`
+
+**短头蛙科**
+
+- 开普短头蛙 / Cape Rain Frog — *Breviceps gibbosus* `cape-rain-frog`
 
 **箭毒蛙科**
 

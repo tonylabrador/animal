@@ -1,0 +1,534 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-18",
+    "reviewer": "Codex source and bilingual audit",
+    "notes": "Exact taxonomy, IUCN 2025.2 global status, numeric claims, direct development, seasonal scope and SANBI exact-taxon range geometry were checked; every English/Chinese section was compared line by line."
+  },
+  "id": "cape-rain-frog",
+  "name_zh": "开普短头蛙",
+  "name_en": "Cape Rain Frog",
+  "scientific_name": "Breviceps gibbosus",
+  "ui_tags": [
+    "Amphibian",
+    "Grassland",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Amphibia",
+      "zh": "两栖纲"
+    },
+    "order": {
+      "en": "Anura",
+      "zh": "无尾目"
+    },
+    "family": {
+      "en": "Brevicipitidae",
+      "zh": "短头蛙科"
+    },
+    "genus": {
+      "en": "Breviceps",
+      "zh": "短头蛙属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危",
+    "note_en": "The current global IUCN category was checked against the 2025.2 species assessment on 2026-08-18.",
+    "note_zh": "已于2026-08-18依据IUCN 2025.2物种评估核对当前全球等级。"
+  },
+  "description": {
+    "en": "The Cape Rain Frog is a round-bodied burrowing frog found only in South Africa's southwestern Western Cape. It spends most of its life underground and emerges around winter rains to feed and breed. Unlike pond-breeding frogs, it lays eggs in a burrow and the young develop directly into froglets without a free-swimming tadpole stage.",
+    "zh": "开普短头蛙是一种圆滚、善于掘洞的蛙，只分布于南非西开普省西南部。它一生大部分时间待在地下，会在冬季降雨前后出土觅食和繁殖。与在池塘繁殖的蛙不同，它把卵产在洞穴中，幼体不经历自由游泳的蝌蚪期，而是直接发育成幼蛙。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults reach about 45 mm in length. The body and head are rounded, the eyes face forward, and the coarse brown-and-cream skin is spotted underneath. Legs are shorter than the body; toes are short, thick and unwebbed. Males have rougher throat skin and are much smaller than females.",
+      "zh": "成体体长可达约45毫米。身体和头部圆鼓，双眼朝前，粗糙的棕色与乳白色皮肤在腹面带有斑点。腿短于身体，趾短粗且无蹼；雄蛙喉部皮肤更粗糙，体形也远小于雌蛙。",
+      "source_keys": [
+        "biology"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "This frog is fossorial and spends most of its life below ground in fynbos, renosterveld, gardens, plantations and agricultural landscapes. It waddles rather than jumps far, feeds mainly on worms, termites and other insects, and emerges during wet weather. If threatened it inflates its body into a ball.",
+      "zh": "这种蛙穴居，在凡波斯植被、瑞诺斯特草原、花园、人工林和农业景观的地下度过大部分时间。它多以蹒跚行走而非远跳，主要取食蠕虫、白蚁及其他昆虫，并在潮湿天气出土；受威胁时会把身体鼓成球状。",
+      "source_keys": [
+        "biology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "The Cape Rain Frog is endemic to the southwestern Western Cape of South Africa, from the central Cape Peninsula north to west of Citrusdal, from sea level to about 1000 m. It inhabits renosterveld and fynbos heathland but also persists in some altered habitats. The SANBI polygon layer shows a fragmented range rather than a single guessed point.",
+      "zh": "开普短头蛙是南非西开普省西南部特有种，从开普半岛中部向北分布至锡特勒斯达尔以西，海拔由海平面至约1000米。它栖息于瑞诺斯特植被和凡波斯灌丛，也能在部分受改造生境中生存。SANBI多边形图层显示其破碎化范围，而不是用单个猜测坐标代替。",
+      "source_keys": [
+        "range",
+        "range_geometry"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "adult_length",
+        "label": {
+          "en": "Adult length",
+          "zh": "成体体长"
+        },
+        "value": {
+          "en": "Up to about 45 mm",
+          "zh": "可达约45毫米"
+        },
+        "source_keys": [
+          "biology"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Worms, termites and other insects",
+          "zh": "蠕虫、白蚁及其他昆虫"
+        },
+        "source_keys": [
+          "biology"
+        ]
+      },
+      {
+        "key": "clutch",
+        "label": {
+          "en": "Egg group",
+          "zh": "产卵数"
+        },
+        "value": {
+          "en": "About 22 eggs in an underground nest",
+          "zh": "地下巢中约22枚卵"
+        },
+        "source_keys": [
+          "biology"
+        ]
+      },
+      {
+        "key": "development",
+        "label": {
+          "en": "Development",
+          "zh": "发育方式"
+        },
+        "value": {
+          "en": "Direct development; no free-swimming tadpole",
+          "zh": "直接发育；无自由游泳蝌蚪期"
+        },
+        "source_keys": [
+          "biology",
+          "range"
+        ]
+      },
+      {
+        "key": "elevation",
+        "label": {
+          "en": "Elevation",
+          "zh": "海拔"
+        },
+        "value": {
+          "en": "Sea level to about 1000 m",
+          "zh": "海平面至约1000米"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Surface activity",
+          "zh": "地表活动"
+        },
+        "value": {
+          "en": "Mostly around winter rains",
+          "zh": "主要在冬季降雨前后"
+        },
+        "source_keys": [
+          "biology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Before and during the winter rainy season, males call from beneath vegetation or from burrows. Because the male is too small and short-limbed to grip the female securely, the female secretes an adhesive that holds him on her back. She lays a group of about 22 eggs in a burrow and stays nearby; the young complete development there and emerge as froglets without a free-living tadpole stage.",
+      "zh": "冬季雨季到来前和雨季中，雄蛙会从植被下或洞穴中鸣叫。由于雄蛙体形太小、四肢太短，难以牢牢抱住雌蛙，雌蛙会分泌黏液把雄蛙固定在背上。雌蛙在洞中产下约22枚卵并留守附近；幼体在洞内完成发育，不经历自由生活的蝌蚪期，直接成为幼蛙。",
+      "source_keys": [
+        "biology",
+        "range"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Defensive inflation",
+          "zh": "充气防御"
+        },
+        "detail": {
+          "en": "When alarmed, the frog inflates its round body, making itself look larger and harder for a predator to handle.",
+          "zh": "受惊时会把圆滚的身体鼓起，使自己看起来更大，也更难被捕食者吞咬。"
+        },
+        "source_keys": [
+          "biology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Burrowing limbs",
+          "zh": "掘洞四肢"
+        },
+        "detail": {
+          "en": "Short, powerful legs and thick unwebbed toes help it dig backward and spend long periods sheltered underground.",
+          "zh": "短而有力的腿和粗壮无蹼的趾帮助它向后掘洞，并长期躲在地下。"
+        },
+        "source_keys": [
+          "biology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Adhesive mating",
+          "zh": "黏附式交配"
+        },
+        "detail": {
+          "en": "The female's adhesive secretion keeps the much smaller male attached during mating despite his short limbs.",
+          "zh": "雌蛙分泌的黏液能在交配时固定体形小得多的雄蛙，弥补其四肢过短、无法抱紧的问题。"
+        },
+        "source_keys": [
+          "biology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Water-independent development",
+          "zh": "不依赖水体的发育"
+        },
+        "detail": {
+          "en": "Eggs develop in a moist underground nest and hatch as froglets, removing the need for a pond and a free-swimming tadpole stage.",
+          "zh": "卵在湿润的地下巢中发育并孵化成幼蛙，无需池塘，也没有自由游泳的蝌蚪阶段。"
+        },
+        "source_keys": [
+          "biology",
+          "range"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "By burrowing, Cape Rain Frogs aerate soil and help water and nutrients move through it. They consume worms, termites and insects, and in turn are eaten by lizards, snakes, bush pigs and other predators. These links make them both underground ecosystem engineers and part of the local food web.",
+      "zh": "开普短头蛙掘洞可使土壤通气，并帮助水分和养分在土壤中移动。它们取食蠕虫、白蚁和昆虫，同时也会被蜥蜴、蛇、丛林猪等捕食者捕食，因此既是地下生态环境的“工程师”，也是当地食物网的一环。",
+      "source_keys": [
+        "biology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Agricultural expansion and urban development have reduced and fragmented habitat across much of the limited range. Pesticides and herbicides may also contribute to losses from renosterveld fragments, while continuing decline in habitat extent and quality remains the central concern.",
+        "zh": "农业扩张和城市开发已在其有限分布区的大部分范围内造成栖息地减少与破碎化。农药和除草剂也可能导致它从部分瑞诺斯特植被斑块中消失；栖息地面积和质量持续下降仍是核心威胁。"
+      },
+      "actions": {
+        "en": "Protect and connect remaining fynbos and renosterveld habitat, manage known populations in protected areas, monitor transformed landscapes, and study pesticide effects. Table Mountain National Park, Helderberg Nature Reserve and Paarl Mountain Nature Reserve hold populations.",
+        "zh": "保护并连通残存的凡波斯和瑞诺斯特生境，管理保护地内已知种群，监测土地转化地区，并研究农药影响。桌山国家公园、赫尔德堡自然保护区和帕尔山自然保护区均有种群分布。"
+      },
+      "source_keys": [
+        "conservation",
+        "range",
+        "biology"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A stout, nearly spherical frog with a bloated head, forward-facing eyes, coarse brown-and-cream skin, a spotted underside, very short legs and thick unwebbed toes. Adults reach about 45 mm.",
+        "zh": "身体粗壮近球形，头部鼓起、双眼朝前，皮肤粗糙并呈棕色与乳白色，腹面有斑点；腿极短，趾粗且无蹼，成体可达约45毫米。"
+      },
+      "similar_species": {
+        "en": "Several other Breviceps rain frogs occur in the Western Cape, including black, Rose's, mountain and strawberry rain frogs. Color alone can be misleading; exact locality, body texture, size and especially the male's call should be considered together for species-level identification.",
+        "zh": "西开普还有黑短头蛙、罗斯短头蛙、山地短头蛙和草莓短头蛙等同属种。仅凭颜色可能误判；物种级识别应综合准确地点、体表质感、体形，尤其是雄蛙叫声。"
+      },
+      "source_keys": [
+        "biology",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Males produce a harsh squawking call at short intervals during the winter mating season, often from a burrow or beneath vegetation. The call lets females locate a mostly hidden male. Forward-facing eyes and sensitivity to moist conditions support brief surface activity after rain.",
+      "zh": "冬季交配季中，雄蛙会以短间隔发出粗哑的鸣叫，通常藏在洞穴或植被下。叫声帮助雌蛙定位隐蔽的雄蛙。朝前的眼睛和对湿润条件的敏感性，有助于它在雨后短暂进行地表活动。",
+      "source_keys": [
+        "biology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Cape Rain Frogs spend most of the year underground. Calling begins in winter just before the rains and intensifies during wet weather, when feeding and breeding occur. Eggs and developing young remain in moist subterranean nests rather than seasonal ponds.",
+      "zh": "开普短头蛙一年中大部分时间待在地下。冬季降雨开始前会开始鸣叫，潮湿天气中鸣叫增强，并进行觅食和繁殖。卵和发育中的幼体留在湿润地下巢穴，而不是季节性池塘中。",
+      "source_keys": [
+        "biology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The frog's Afrikaans name blaasoppie refers to its habit of inflating like a little ball. Its appearance with rainy weather has inspired beliefs that rain frogs bring rain or signal good luck. The species can persist in gardens and farms, but development and chemical use can still remove suitable soil habitat.",
+      "zh": "其南非荷兰语名称“blaasoppie”指它会像小球一样鼓起。它在雨天出现，使人们产生“雨蛙带来降雨”或预示好运的说法。它可在花园和农田中生存，但土地开发和化学品使用仍可能破坏适宜的土壤生境。",
+      "source_keys": [
+        "biology"
+      ]
+    },
+    "evolution": {
+      "en": "Breviceps gibbosus belongs to the African short-headed frog family Brevicipitidae. Linnaeus described it in 1758 as Rana gibbosa, making it the first African frog entered into the Linnaean naming system; it was later placed in Breviceps, a name meaning “short head.”",
+      "zh": "开普短头蛙属于非洲的短头蛙科。林奈于1758年以Rana gibbosa之名描述它，使其成为最早进入林奈命名体系的非洲蛙；之后它被归入Breviceps属，该属名意为“短头”。",
+      "source_keys": [
+        "taxonomy",
+        "biology"
+      ]
+    },
+    "field_signs": {
+      "en": "After or just before winter rain, listen for harsh, repeated calls from beneath low vegetation or the ground. A surfaced animal waddles on short legs and may inflate when approached. Avoid relying on a single color pattern because soil, lighting and related rain-frog species can complicate visual identification.",
+      "zh": "冬季降雨前后，可留意低矮植被下方或地下传出的粗哑重复叫声。出土个体以短腿蹒跚行走，接近时可能鼓起身体。不要只凭单一颜色判断，因为土壤、光线和近缘短头蛙都会增加目视识别难度。",
+      "source_keys": [
+        "biology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The Cape Rain Frog was the first African frog species formally described by Linnaeus, in 1758.",
+          "zh": "开普短头蛙是林奈于1758年正式描述的第一种非洲蛙。"
+        },
+        "source_keys": [
+          "biology",
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "It can inflate and float briefly but cannot swim well and may drown if it cannot reach land.",
+          "zh": "它可鼓起身体短暂漂浮，却不擅长游泳；若无法及时到达陆地，甚至可能溺水。"
+        },
+        "source_keys": [
+          "biology"
+        ]
+      },
+      {
+        "text": {
+          "en": "The much smaller male is held to the female's back by an adhesive secretion during mating.",
+          "zh": "交配时，体形小得多的雄蛙会借助雌蛙分泌的黏液固定在其背上。"
+        },
+        "source_keys": [
+          "biology"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its young skip the free-swimming tadpole stage and emerge from the underground nest as froglets.",
+          "zh": "幼体跳过自由游泳的蝌蚪阶段，直接以幼蛙形态离开地下巢穴。"
+        },
+        "source_keys": [
+          "biology",
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Direct development",
+          "zh": "直接发育"
+        },
+        "content": {
+          "en": "Embryos develop inside large, moist eggs in an underground nest and emerge as froglets, so reproduction is not tied to open water.",
+          "zh": "胚胎在地下巢穴中湿润的大型卵内发育，并以幼蛙形态孵出，因此繁殖不依赖开放水体。"
+        },
+        "source_keys": [
+          "biology",
+          "range"
+        ]
+      },
+      {
+        "title": {
+          "en": "Fossorial life",
+          "zh": "穴居生活"
+        },
+        "content": {
+          "en": "Most of the year is spent underground. Surface activity is concentrated around cool winter rain, reducing exposure to the region's dry periods.",
+          "zh": "一年中大部分时间生活在地下，地表活动集中于凉爽的冬季降雨前后，从而减少在当地干旱期暴露。"
+        },
+        "source_keys": [
+          "biology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Breeding call",
+          "zh": "繁殖鸣声"
+        },
+        "content": {
+          "en": "A harsh, repeated squawk carries from a concealed burrow and guides females to males that are rarely visible above ground.",
+          "zh": "粗哑重复的鸣声会从隐蔽洞穴中传出，引导雌蛙找到很少在地表现身的雄蛙。"
+        },
+        "source_keys": [
+          "biology"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Endemic to southwestern Western Cape, South Africa, in fynbos and renosterveld from sea level to about 1000 m, including some gardens, plantations and agricultural land. SANBI's exact-taxon feature layer provides the displayed fragmented polygons.",
+    "text_zh": "南非西开普省西南部特有，分布于海平面至约1000米的凡波斯和瑞诺斯特植被，也见于部分花园、人工林和农地。地图显示的是SANBI精确到本物种的破碎化多边形图层。",
+    "map_coordinates": [
+      -33.4,
+      18.5
+    ],
+    "map_zoom_level": 7,
+    "global_distribution_polygons": [
+      [
+        [
+          -34.1214,
+          18.8988
+        ],
+        [
+          -33.9742,
+          18.8902
+        ],
+        [
+          -33.5885,
+          19.1249
+        ],
+        [
+          -33.322,
+          19.0194
+        ],
+        [
+          -33.2986,
+          18.8537
+        ],
+        [
+          -33.423,
+          18.6748
+        ],
+        [
+          -33.5926,
+          18.7371
+        ],
+        [
+          -33.8116,
+          18.7213
+        ],
+        [
+          -33.9211,
+          18.5616
+        ],
+        [
+          -34.0747,
+          18.7279
+        ],
+        [
+          -34.1214,
+          18.8988
+        ]
+      ],
+      [
+        [
+          -33.0077,
+          19.1111
+        ],
+        [
+          -32.8032,
+          19.0682
+        ],
+        [
+          -32.4666,
+          18.9255
+        ],
+        [
+          -32.4576,
+          18.761
+        ],
+        [
+          -32.6887,
+          18.6951
+        ],
+        [
+          -32.7324,
+          18.5416
+        ],
+        [
+          -32.8946,
+          18.6164
+        ],
+        [
+          -32.9329,
+          18.7925
+        ],
+        [
+          -32.6334,
+          18.8989
+        ],
+        [
+          -33.0077,
+          19.1111
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range",
+        "range_geometry"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed polygons are simplified directly from SANBI Environmental Screening Tool layer 60 for Breviceps gibbosus. The source layer still carries an older NT status attribute, so it is used only for geometry; current status is checked separately against IUCN 2025.2.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的多边形直接由SANBI环境筛查工具中Breviceps gibbosus的第60号图层简化而来。源图层仍带有较旧的NT状态字段，因此这里只用于几何；当前保护等级另依据IUCN 2025.2核对。",
+      "checked_at": "2026-08-18"
+    }
+  },
+  "image": "/images/animals/cape-rain-frog.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Amphibian Species of the World 6.2, American Museum of Natural History",
+      "url": "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Brevicipitidae/Breviceps/Breviceps-gibbosus",
+      "checked_at": "2026-08-18"
+    },
+    "conservation": {
+      "authority": "IUCN Red List of Threatened Species 2025.2",
+      "url": "https://doi.org/10.2305/IUCN.UK.2025-2.RLTS.T3069A247842971.en",
+      "checked_at": "2026-08-18"
+    },
+    "biology": {
+      "authority": "South African National Biodiversity Institute",
+      "url": "https://www.sanbi.org/animal-of-the-week/cape-rain-frog/",
+      "checked_at": "2026-08-18"
+    },
+    "range": [
+      {
+        "authority": "South African National Biodiversity Institute, Biodiversity Series 19",
+        "url": "https://www.sanbi.org/wp-content/uploads/2024/05/2011_BioSeries19.pdf",
+        "release": "Cape Rain Frog species account, pages 47–48",
+        "checked_at": "2026-08-18"
+      },
+      {
+        "authority": "Amphibian Species of the World 6.2, American Museum of Natural History",
+        "url": "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Brevicipitidae/Breviceps/Breviceps-gibbosus",
+        "checked_at": "2026-08-18"
+      }
+    ],
+    "range_geometry": {
+      "authority": "South African National Biodiversity Institute Environmental Screening Tool",
+      "url": "https://bgismaps.sanbi.org/server/rest/services/SANBI_EWT/Environmental_Screening_Tool/MapServer/60",
+      "release": "Breviceps gibbosus overview feature layer",
+      "checked_at": "2026-08-18"
+    }
+  }
+}

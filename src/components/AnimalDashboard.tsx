@@ -292,8 +292,8 @@ export default function AnimalDashboard({ animals, latestRelease, subscriptionEn
         </span>
         <span>
           {lang === "en"
-            ? `${latestRelease.animalCount} new animals added${latestRelease.startDate !== latestRelease.date ? " over two days" : ""} — now with bilingual Quick Facts!`
-            : `${latestRelease.startDate !== latestRelease.date ? "两日" : ""}新增${latestRelease.animalCount}种动物，并加入中英双语 Quick Facts！`}
+            ? `${latestRelease.animalCount} new animals added${latestRelease.dayCount > 1 ? ` over ${latestRelease.dayCount} days` : ""} — now with bilingual Quick Facts!`
+            : `${latestRelease.dayCount > 1 ? `连续${latestRelease.dayCount}日` : ""}新增${latestRelease.animalCount}种动物，并加入中英双语 Quick Facts！`}
         </span>
         <span className="animate-pulse">✨</span>
       </div>}

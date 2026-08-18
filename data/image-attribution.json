@@ -7174,5 +7174,37 @@
     "sha256": "11f35a9c30ff1941bfd6aa3f8ccef339ea9dc8544d9d9c88cb5d62571b8cbe77",
     "width": 2000,
     "height": 1333
+  },
+  "dark-eyed-junco": {
+    "source": "iNaturalist",
+    "source_url": "https://www.inaturalist.org/observations/36149727",
+    "taxon_url": "https://www.inaturalist.org/taxa/10094",
+    "taxon_id": 10094,
+    "taxon_name": "Junco hyemalis",
+    "photo_id": 57107825,
+    "attribution": "(c) Joe Brewer, some rights reserved (CC BY)",
+    "license_code": "cc-by",
+    "license_status": "verified",
+    "review_status": "human-approved",
+    "reviewed_at": "2026-08-18T21:59:14.372Z",
+    "sha256": "fc5bb0f392f4c1b3efea87fba91a43e9b9c3a7731c25d3e8bc6d5b958c838bc1",
+    "width": 1024,
+    "height": 1024
+  },
+  "cape-rain-frog": {
+    "source": "iNaturalist",
+    "source_url": "https://www.inaturalist.org/observations/249967823",
+    "taxon_url": "https://www.inaturalist.org/taxa/24999",
+    "taxon_id": 24999,
+    "taxon_name": "Breviceps gibbosus",
+    "photo_id": 446948904,
+    "attribution": "no rights reserved",
+    "license_code": "cc0",
+    "license_status": "verified",
+    "review_status": "human-approved",
+    "reviewed_at": "2026-08-18T21:59:14.461Z",
+    "sha256": "7837d02e66555b899bf2b97ad165ac71c3e38a22ae9b3edfc07e51ab64e1e317",
+    "width": 715,
+    "height": 1024
   }
 }
