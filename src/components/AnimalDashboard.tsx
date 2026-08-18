@@ -104,6 +104,7 @@ function AnimalCard({ animal, lang, eager = false }: AnimalCardProps) {
 interface AnimalDashboardProps {
   animals: Animal[];
   latestRelease: LatestRelease | null;
+  subscriptionEnabled: boolean;
 }
 
 function formatReleaseDate(date: string, lang: "en" | "zh") {
@@ -125,7 +126,7 @@ function formatReleaseDateRange(startDate: string, endDate: string, lang: "en" |
   return `${formatReleaseDate(startDate, lang)}–${formatReleaseDate(endDate, lang)}`;
 }
 
-export default function AnimalDashboard({ animals, latestRelease }: AnimalDashboardProps) {
+export default function AnimalDashboard({ animals, latestRelease, subscriptionEnabled }: AnimalDashboardProps) {
   const { lang, toggleLang } = useLanguage();
   const [query, setQuery] = useState("");
   const [sortMode, setSortMode] = useState<"newest" | "alpha" | "random">("newest");
@@ -297,7 +298,7 @@ export default function AnimalDashboard({ animals, latestRelease }: AnimalDashbo
         <span className="animate-pulse">✨</span>
       </div>}
 
-      <SubscribeBanner lang={lang} />
+      <SubscribeBanner lang={lang} enabled={subscriptionEnabled} />
 
       {/* ── Hero ── */}
       <section className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-4 pb-6 lg:pt-12 lg:pb-12">

@@ -6,7 +6,7 @@ import { CheckCircle2, Loader2, Mail, Send } from "lucide-react";
 type Language = "en" | "zh";
 type Notice = "idle" | "sent" | "subscribed" | "confirmed" | "invalid" | "unavailable" | "error";
 
-export default function SubscribeBanner({ lang }: { lang: Language }) {
+export default function SubscribeBanner({ lang, enabled }: { lang: Language; enabled: boolean }) {
   const [email, setEmail] = useState("");
   const [website, setWebsite] = useState("");
   const [notice, setNotice] = useState<Notice>("idle");
@@ -25,6 +25,7 @@ export default function SubscribeBanner({ lang }: { lang: Language }) {
 
   async function subscribe(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
+    if (!enabled) return;
     setLoading(true);
     setNotice("idle");
     setErrorMessage("");
@@ -93,11 +94,12 @@ export default function SubscribeBanner({ lang }: { lang: Language }) {
                 inputMode="email"
                 autoComplete="email"
                 required
+                disabled={!enabled}
                 maxLength={254}
                 value={email}
                 onChange={(event) => setEmail(event.target.value)}
                 placeholder={lang === "en" ? "you@example.com" : "输入你的邮箱"}
-                className="min-w-0 flex-1 rounded-xl border border-white/20 bg-white px-4 py-3 text-base text-slate-900 shadow-sm outline-none placeholder:text-slate-400 focus:border-amber-300 focus:ring-4 focus:ring-amber-300/25"
+                className="min-w-0 flex-1 rounded-xl border border-white/20 bg-white px-4 py-3 text-base text-slate-900 shadow-sm outline-none placeholder:text-slate-400 focus:border-amber-300 focus:ring-4 focus:ring-amber-300/25 disabled:cursor-not-allowed disabled:bg-white/80"
               />
               <div className="absolute -left-[10000px]" aria-hidden="true">
                 <label htmlFor="subscriber-website">Website</label>
@@ -105,15 +107,21 @@ export default function SubscribeBanner({ lang }: { lang: Language }) {
               </div>
               <button
                 type="submit"
-                disabled={loading}
+                disabled={loading || !enabled}
                 className="inline-flex min-h-12 items-center justify-center gap-2 rounded-xl bg-amber-400 px-5 py-3 font-extrabold text-slate-900 shadow-md transition hover:bg-amber-300 focus:outline-none focus:ring-4 focus:ring-amber-200/40 disabled:cursor-wait disabled:opacity-70"
               >
                 {loading ? <Loader2 size={18} className="animate-spin" aria-hidden="true" /> : <Send size={18} aria-hidden="true" />}
-                {loading ? (lang === "en" ? "Sending…" : "发送中…") : (lang === "en" ? "Subscribe" : "订阅通知")}
+                {loading
+                  ? (lang === "en" ? "Sending…" : "发送中…")
+                  : enabled
+                    ? (lang === "en" ? "Subscribe" : "订阅通知")
+                    : (lang === "en" ? "Coming soon" : "即将开放")}
               </button>
             </div>
             <div aria-live="polite" className={`mt-2 min-h-5 text-sm font-medium ${positive ? "text-emerald-50" : "text-amber-100"}`}>
-              {notice !== "idle" && (
+              {!enabled ? (
+                <span>{lang === "en" ? "Email alerts are being configured." : "邮件通知服务正在配置中。"}</span>
+              ) : notice !== "idle" && (
                 <span className="inline-flex items-center gap-1.5">
                   {positive && <CheckCircle2 size={16} aria-hidden="true" />}
                   {noticeText[notice]}
