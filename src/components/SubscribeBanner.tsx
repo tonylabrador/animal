@@ -59,35 +59,30 @@ export default function SubscribeBanner({ lang, enabled }: { lang: Language; ena
   const positive = notice === "sent" || notice === "subscribed" || notice === "confirmed";
 
   return (
-    <section aria-labelledby="subscribe-heading" className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-5">
-      <div className="relative overflow-hidden rounded-2xl sm:rounded-3xl bg-gradient-to-br from-emerald-800 via-teal-700 to-cyan-700 px-5 py-5 sm:px-7 sm:py-6 text-white shadow-xl shadow-emerald-900/10">
-        <div aria-hidden="true" className="absolute -right-12 -top-20 h-48 w-48 rounded-full bg-white/10" />
-        <div aria-hidden="true" className="absolute -bottom-24 left-1/3 h-48 w-48 rounded-full bg-amber-300/10" />
-        <div className="relative flex flex-col gap-5 lg:flex-row lg:items-center lg:justify-between">
-          <div className="flex items-start gap-4 lg:max-w-xl">
-            <div className="hidden sm:flex h-12 w-12 shrink-0 items-center justify-center rounded-2xl bg-white/15 ring-1 ring-white/20">
-              <Mail size={25} aria-hidden="true" />
+    <section aria-labelledby="subscribe-heading" className="mx-auto max-w-7xl px-4 pt-3 sm:px-6 lg:px-8">
+      <div className="rounded-2xl bg-gradient-to-r from-emerald-800 to-teal-700 px-4 py-3 text-white shadow-md shadow-emerald-900/10 sm:px-5">
+        <div className="flex flex-col gap-2.5 md:flex-row md:items-center md:gap-5">
+          <div className="flex min-w-0 items-center gap-3 md:max-w-[42%]">
+            <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-white/15 ring-1 ring-white/20">
+              <Mail size={19} aria-hidden="true" />
             </div>
-            <div>
-              <p className="mb-1 text-xs font-bold uppercase tracking-[0.18em] text-emerald-100">
-                {lang === "en" ? "New animal alerts" : "新动物上线通知"}
-              </p>
-              <h2 id="subscribe-heading" className="text-xl font-extrabold leading-tight sm:text-2xl">
-                {lang === "en" ? "Meet every new animal, right from your inbox" : "每次新动物加入，第一时间发到你的邮箱"}
+            <div className="min-w-0">
+              <h2 id="subscribe-heading" className="text-sm font-extrabold leading-tight sm:text-base">
+                {lang === "en" ? "New animal email alerts" : "新动物邮件提醒"}
               </h2>
-              <p className="mt-2 text-sm leading-relaxed text-emerald-50/90">
-                {lang === "en"
-                  ? "One bilingual email per release. Confirm once, unsubscribe anytime."
-                  : "每次更新发送一封中英双语邮件；确认后生效，可随时退订。"}
+              <p className="mt-0.5 text-[11px] leading-snug text-emerald-50/85 sm:text-xs">
+                {enabled
+                  ? (lang === "en" ? "One bilingual email per release. Unsubscribe anytime." : "中英双语，每批一封，可随时退订。")
+                  : (lang === "en" ? "Email service setup is in progress." : "邮件服务配置中，完成后即可订阅。")}
               </p>
             </div>
           </div>
 
-          <form onSubmit={subscribe} className="w-full lg:max-w-xl" noValidate>
+          <form onSubmit={subscribe} className="min-w-0 flex-1" noValidate>
             <label htmlFor="subscriber-email" className="sr-only">
               {lang === "en" ? "Email address" : "邮箱地址"}
             </label>
-            <div className="flex flex-col gap-2 sm:flex-row">
+            <div className="flex gap-2">
               <input
                 id="subscriber-email"
                 type="email"
@@ -99,7 +94,7 @@ export default function SubscribeBanner({ lang, enabled }: { lang: Language; ena
                 value={email}
                 onChange={(event) => setEmail(event.target.value)}
                 placeholder={lang === "en" ? "you@example.com" : "输入你的邮箱"}
-                className="min-w-0 flex-1 rounded-xl border border-white/20 bg-white px-4 py-3 text-base text-slate-900 shadow-sm outline-none placeholder:text-slate-400 focus:border-amber-300 focus:ring-4 focus:ring-amber-300/25 disabled:cursor-not-allowed disabled:bg-white/80"
+                className="h-10 min-w-0 flex-1 rounded-xl border border-white/20 bg-white px-3 text-sm text-slate-900 shadow-sm outline-none placeholder:text-slate-400 focus:border-amber-300 focus:ring-4 focus:ring-amber-300/25 disabled:cursor-not-allowed disabled:bg-white/80"
               />
               <div className="absolute -left-[10000px]" aria-hidden="true">
                 <label htmlFor="subscriber-website">Website</label>
@@ -108,21 +103,19 @@ export default function SubscribeBanner({ lang, enabled }: { lang: Language; ena
               <button
                 type="submit"
                 disabled={loading || !enabled}
-                className="inline-flex min-h-12 items-center justify-center gap-2 rounded-xl bg-amber-400 px-5 py-3 font-extrabold text-slate-900 shadow-md transition hover:bg-amber-300 focus:outline-none focus:ring-4 focus:ring-amber-200/40 disabled:cursor-wait disabled:opacity-70"
+                className="inline-flex h-10 shrink-0 items-center justify-center gap-1.5 whitespace-nowrap rounded-xl bg-amber-400 px-3 text-sm font-extrabold text-slate-900 shadow-sm transition hover:bg-amber-300 focus:outline-none focus:ring-4 focus:ring-amber-200/40 disabled:cursor-not-allowed disabled:opacity-70 sm:px-4"
               >
-                {loading ? <Loader2 size={18} className="animate-spin" aria-hidden="true" /> : <Send size={18} aria-hidden="true" />}
+                {loading ? <Loader2 size={15} className="animate-spin" aria-hidden="true" /> : <Send size={15} aria-hidden="true" />}
                 {loading
                   ? (lang === "en" ? "Sending…" : "发送中…")
                   : enabled
-                    ? (lang === "en" ? "Subscribe" : "订阅通知")
-                    : (lang === "en" ? "Coming soon" : "即将开放")}
+                    ? (lang === "en" ? "Subscribe" : "订阅")
+                    : (lang === "en" ? "Setting up" : "配置中")}
               </button>
             </div>
-            <div aria-live="polite" className={`mt-2 min-h-5 text-sm font-medium ${positive ? "text-emerald-50" : "text-amber-100"}`}>
-              {!enabled ? (
-                <span>{lang === "en" ? "Email alerts are being configured." : "邮件通知服务正在配置中。"}</span>
-              ) : notice !== "idle" && (
-                <span className="inline-flex items-center gap-1.5">
+            <div aria-live="polite">
+              {enabled && notice !== "idle" && (
+                <span className={`mt-1 inline-flex items-center gap-1.5 text-xs font-medium ${positive ? "text-emerald-50" : "text-amber-100"}`}>
                   {positive && <CheckCircle2 size={16} aria-hidden="true" />}
                   {noticeText[notice]}
                 </span>
