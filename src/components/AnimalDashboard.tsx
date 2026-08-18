@@ -52,15 +52,6 @@ function AnimalCard({ animal, lang, eager = false }: AnimalCardProps) {
             <span className="text-xs text-slate-400 font-medium">No image</span>
           </div>
         )}
-        {/* Gradient overlay（仅图片存在时叠加） */}
-        {imageUrl && (
-          <div className="absolute inset-0 bg-gradient-to-t from-black/30 via-transparent to-transparent" />
-        )}
-        {/* Habitat badge */}
-        <div className="absolute bottom-3 left-3 flex items-center gap-1 bg-white/80 backdrop-blur-sm text-slate-700 text-xs font-medium px-2.5 py-1 rounded-full">
-          <MapPin size={11} strokeWidth={2.5} />
-          <span>{habitatText}</span>
-        </div>
       </div>
 
       {/* Body */}
@@ -89,6 +80,21 @@ function AnimalCard({ animal, lang, eager = false }: AnimalCardProps) {
               {tag}
             </span>
           ))}
+        </div>
+
+        {/* Range summary — kept outside the image so animal photos remain unobstructed. */}
+        <div className="flex items-start gap-2.5 rounded-2xl border border-sky-100 bg-gradient-to-r from-sky-50 to-cyan-50/60 px-3 py-2.5">
+          <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-lg bg-white text-sky-600 shadow-sm ring-1 ring-sky-100">
+            <MapPin size={13} strokeWidth={2.5} />
+          </span>
+          <div className="min-w-0">
+            <p className="mb-0.5 text-[10px] font-bold uppercase tracking-[0.12em] text-sky-700">
+              {lang === "en" ? "Range" : "分布范围"}
+            </p>
+            <p className="line-clamp-2 text-xs leading-relaxed text-slate-600">
+              {habitatText}
+            </p>
+          </div>
         </div>
 
         {/* Description */}
