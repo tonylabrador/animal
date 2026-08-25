@@ -1,0 +1,484 @@
+{
+  "batch": "priority-b-2026-08-24",
+  "reviewed_at": "2026-08-25T03:39:59.704Z",
+  "reviewer": "Codex human visual review",
+  "criteria": "Exact species taxon and provenance, diagnostic visible morphology, living-animal relevance, composition and clarity, minimum dimensions, and verified CC0/CC BY/CC BY-SA or public-domain licensing were all required. Near-identical taxa, maps, skeletal material, isolated parts, distant silhouettes, handled animals when a natural alternative existed, stranded jellyfish and unclear subjects were rejected.",
+  "approvals": [
+    {
+      "id": "south-african-springhare",
+      "candidate": 4,
+      "selection": "south-african-springhare:4",
+      "scientific_name": "Pedetes capensis",
+      "exact_taxon": {
+        "id": 45929,
+        "name": "Pedetes capensis",
+        "url": "https://www.inaturalist.org/taxa/45929"
+      },
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/341681138",
+      "attribution": "(c) Sameer Shaik, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "downloaded_width": 1024,
+      "downloaded_height": 1024,
+      "sha256": "9c24adf758577b6ed73c97040e473e7f10875235b4d962567a32f31fc66ca903",
+      "visual_result": "Full lateral living animal in native-range Kruger habitat; long hind limbs, long balancing tail and rabbit-like ears are all visible."
+    },
+    {
+      "id": "indian-giant-squirrel",
+      "candidate": 5,
+      "selection": "indian-giant-squirrel:5",
+      "scientific_name": "Ratufa indica",
+      "exact_taxon": {
+        "id": 46030,
+        "name": "Ratufa indica",
+        "url": "https://www.inaturalist.org/taxa/46030"
+      },
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/3649601",
+      "attribution": "(c) Ashwin Srinivasan, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "downloaded_width": 1024,
+      "downloaded_height": 576,
+      "sha256": "0803a38ac1d6e195fbdca29b864271f47792d2111cb817f4a5d58d5cc5d82b77",
+      "visual_result": "Sharp living animal from Andhra Pradesh; multicolored coat, large arboreal body and long bushy tail are visible."
+    },
+    {
+      "id": "north-american-porcupine",
+      "candidate": 5,
+      "selection": "north-american-porcupine:5",
+      "scientific_name": "Erethizon dorsatum",
+      "exact_taxon": {
+        "id": 44026,
+        "name": "Erethizon dorsatum",
+        "url": "https://www.inaturalist.org/taxa/44026"
+      },
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Erethizon_dorsatum_217919484.jpg",
+      "attribution": "Steven Lamonde",
+      "license": "cc-by-4.0",
+      "downloaded_width": 1920,
+      "downloaded_height": 1373,
+      "sha256": "637a57064bf2f5e3c42d0fc92f3383d026be6225dc786ed395b3744c3047f699",
+      "visual_result": "Sharp full living animal; fur-covered body, pale-tipped quills, blunt face and thick tail are visible without handling."
+    },
+    {
+      "id": "alpine-marmot",
+      "candidate": 2,
+      "selection": "alpine-marmot:2",
+      "scientific_name": "Marmota marmota",
+      "exact_taxon": {
+        "id": 46082,
+        "name": "Marmota marmota",
+        "url": "https://www.inaturalist.org/taxa/46082"
+      },
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/223075477",
+      "attribution": "(c) Nils, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "downloaded_width": 768,
+      "downloaded_height": 1024,
+      "sha256": "2db2970712f8688f287267bbf2b85033bbccc267c979b968e5fb23a0afea8571",
+      "visual_result": "Sharp upright living animal in Alpine meadow; broad head, compact body and dark-tipped tail are visible."
+    },
+    {
+      "id": "egyptian-fruit-bat",
+      "candidate": 5,
+      "selection": "egyptian-fruit-bat:5",
+      "scientific_name": "Rousettus aegyptiacus",
+      "exact_taxon": {
+        "id": 75042,
+        "name": "Rousettus aegyptiacus",
+        "url": "https://www.inaturalist.org/taxa/75042"
+      },
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/138552630",
+      "attribution": "(c) Шальнов Кирилл, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "downloaded_width": 1024,
+      "downloaded_height": 683,
+      "sha256": "6757edd344081229c29bd67457545c8bc14be9661a1535b4911c79069e4e913e",
+      "visual_result": "Close living fruit-feeding bat within native range; fox-like muzzle, large eyes, rounded ears and plain gray fur are visible."
+    },
+    {
+      "id": "greater-bulldog-bat",
+      "candidate": 1,
+      "selection": "greater-bulldog-bat:1",
+      "scientific_name": "Noctilio leporinus",
+      "exact_taxon": {
+        "id": 41200,
+        "name": "Noctilio leporinus",
+        "url": "https://www.inaturalist.org/taxa/41200"
+      },
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/95562852",
+      "attribution": "(c) Guilherme Siniciato Terra Garbino, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "downloaded_width": 1024,
+      "downloaded_height": 984,
+      "sha256": "0c49152271a54f1071f287c2aa8f2d016022648097507f89df1adfa1d9d3d3ee",
+      "visual_result": "Exact-taxon living portrait from Brazil; wrinkled bulldog muzzle, robust head and reddish pelage are sharply visible."
+    },
+    {
+      "id": "philippine-tarsier",
+      "candidate": 4,
+      "selection": "philippine-tarsier:4",
+      "scientific_name": "Carlito syrichta",
+      "exact_taxon": {
+        "id": 1369286,
+        "name": "Carlito syrichta",
+        "url": "https://www.inaturalist.org/taxa/1369286"
+      },
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/202938165",
+      "attribution": "no rights reserved",
+      "license": "cc0",
+      "downloaded_width": 1024,
+      "downloaded_height": 771,
+      "sha256": "823fc40e6575956f7010bbed5156c5b0ab8e23c5e5adf3431697f1048cf8b07d",
+      "visual_result": "Sharp living Philippine individual; immense eyes, large membranous ears, gripping digits and long tail are visible."
+    },
+    {
+      "id": "southern-hairy-nosed-wombat",
+      "candidate": 3,
+      "selection": "southern-hairy-nosed-wombat:3",
+      "scientific_name": "Lasiorhinus latifrons",
+      "exact_taxon": {
+        "id": 43007,
+        "name": "Lasiorhinus latifrons",
+        "url": "https://www.inaturalist.org/taxa/43007"
+      },
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/184651706",
+      "attribution": "no rights reserved",
+      "license": "cc0",
+      "downloaded_width": 1024,
+      "downloaded_height": 683,
+      "sha256": "2c2b873b59b7cbb3b5d704351186341191ea887c14c822e6e66863be6e910745",
+      "visual_result": "Sharp full living animal in South Australia; pointed ears, broad hairy muzzle and gray coat are visible."
+    },
+    {
+      "id": "kinkajou",
+      "candidate": 3,
+      "selection": "kinkajou:3",
+      "scientific_name": "Potos flavus",
+      "exact_taxon": {
+        "id": 41678,
+        "name": "Potos flavus",
+        "url": "https://www.inaturalist.org/taxa/41678"
+      },
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Potos_flavus_3zz.jpg",
+      "attribution": "Photo by David J. Stang",
+      "license": "cc-by-sa-4.0",
+      "downloaded_width": 1000,
+      "downloaded_height": 909,
+      "sha256": "bae2afa0d9cfef27a456cfbb9c2924e1977da9f27699da637264c243d43d631f",
+      "visual_result": "Sharp exact-taxon living portrait; golden fur, round face, large eyes and small rounded ears are visible; specimen and skull alternatives rejected."
+    },
+    {
+      "id": "black-necked-stilt",
+      "candidate": 5,
+      "selection": "black-necked-stilt:5",
+      "scientific_name": "Himantopus mexicanus",
+      "exact_taxon": {
+        "id": 4836,
+        "name": "Himantopus mexicanus",
+        "url": "https://www.inaturalist.org/taxa/4836"
+      },
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/62596895",
+      "attribution": "no rights reserved",
+      "license": "cc0",
+      "downloaded_width": 1024,
+      "downloaded_height": 981,
+      "sha256": "008b172236cd367c43855d155ae35609a260914a2bdf35160527d8d1ffc5e825",
+      "visual_result": "Sharp full adult in California wetland; straight black bill, black-and-white plumage and extremely long pink legs are visible."
+    },
+    {
+      "id": "nicobar-pigeon",
+      "candidate": 1,
+      "selection": "nicobar-pigeon:1",
+      "scientific_name": "Caloenas nicobarica",
+      "exact_taxon": {
+        "id": 3643,
+        "name": "Caloenas nicobarica",
+        "url": "https://www.inaturalist.org/taxa/3643"
+      },
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/105024063",
+      "attribution": "(c) Forest Botial-Jarvis, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "downloaded_width": 1024,
+      "downloaded_height": 648,
+      "sha256": "cb12370dad895efbfad1a267f805e3eb55835946c1c185a750c4b03ec01aa46c",
+      "visual_result": "Full living bird in the Philippines; metallic body, long neck hackles, red legs and white tail are visible."
+    },
+    {
+      "id": "gyrfalcon",
+      "candidate": 5,
+      "selection": "gyrfalcon:5",
+      "scientific_name": "Falco rusticolus",
+      "exact_taxon": {
+        "id": 4657,
+        "name": "Falco rusticolus",
+        "url": "https://www.inaturalist.org/taxa/4657"
+      },
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Falco_rusticolus_white_cropped.jpg",
+      "attribution": "Falco_rusticolus_white.jpg : Ólafur Larsen derivative work: Bogbumper ( talk )",
+      "license": "cc-by-sa-2.0",
+      "downloaded_width": 813,
+      "downloaded_height": 918,
+      "sha256": "9e262374ba7f1acaca7c8420953ef39d20dc690a9f28e41bfa7935650d0df420",
+      "visual_result": "Sharp perched white-morph living bird; very large falcon build, broad chest, weak moustache and barred white plumage are visible; map and distant-flight alternatives rejected."
+    },
+    {
+      "id": "spectacled-owl",
+      "candidate": 5,
+      "selection": "spectacled-owl:5",
+      "scientific_name": "Pulsatrix perspicillata",
+      "exact_taxon": {
+        "id": 20020,
+        "name": "Pulsatrix perspicillata",
+        "url": "https://www.inaturalist.org/taxa/20020"
+      },
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/195338949",
+      "attribution": "(c) Laurel Meredyk, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "downloaded_width": 1024,
+      "downloaded_height": 768,
+      "sha256": "db4bc9426487a6d0135faaac8cb39c88face801df403d2af4acb7e75254fc5fc",
+      "visual_result": "Sharp living adult in Costa Rica; cream spectacles, yellow eyes, dark mask, pale throat and lack of ear tufts are visible."
+    },
+    {
+      "id": "blue-and-yellow-macaw",
+      "candidate": 1,
+      "selection": "blue-and-yellow-macaw:1",
+      "scientific_name": "Ara ararauna",
+      "exact_taxon": {
+        "id": 19018,
+        "name": "Ara ararauna",
+        "url": "https://www.inaturalist.org/taxa/19018"
+      },
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/40927241",
+      "attribution": "(c) Frank Dietze, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "downloaded_width": 1024,
+      "downloaded_height": 683,
+      "sha256": "181f643f862ce341b499feb2efc419a590cd2b5d4878c147aded0e4a5696384a",
+      "visual_result": "Sharp living pair in Brazil; blue upperparts, golden underparts, green forehead, black throat and lined white face are visible."
+    },
+    {
+      "id": "great-frigatebird",
+      "candidate": 1,
+      "selection": "great-frigatebird:1",
+      "scientific_name": "Fregata minor",
+      "exact_taxon": {
+        "id": 4636,
+        "name": "Fregata minor",
+        "url": "https://www.inaturalist.org/taxa/4636"
+      },
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Great_Frigatebird_at_Genovesa.JPG",
+      "attribution": "Jason Corriveau",
+      "license": "public-domain",
+      "downloaded_width": 1920,
+      "downloaded_height": 1276,
+      "sha256": "c2cae429f7c396b45578603a3c2c5758b70f2d899d56d7c4cc516f8bf92e8b96",
+      "visual_result": "Sharp exact-taxon adult male at Genovesa; huge scarlet gular sac, glossy dark plumage, hooked bill and long-winged build are visible."
+    },
+    {
+      "id": "king-eider",
+      "candidate": 3,
+      "selection": "king-eider:3",
+      "scientific_name": "Somateria spectabilis",
+      "exact_taxon": {
+        "id": 7030,
+        "name": "Somateria spectabilis",
+        "url": "https://www.inaturalist.org/taxa/7030"
+      },
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Somateria_spectabilis_(King_Eider_-_Prachteiderente)_-_Weltvogelpark_Walsrode_2012-37.jpg",
+      "attribution": "Olaf Oliviero Riemer",
+      "license": "cc-by-sa-3.0",
+      "downloaded_width": 1920,
+      "downloaded_height": 1272,
+      "sha256": "d28e66dfff093fbc7668cac0d00dda2313c7e3a6cc27da3386222f40f7a60e4a",
+      "visual_result": "Sharp adult breeding male; blue crown, green cheek, orange frontal shield and black-white body make species identity unambiguous."
+    },
+    {
+      "id": "roseate-spoonbill",
+      "candidate": 2,
+      "selection": "roseate-spoonbill:2",
+      "scientific_name": "Platalea ajaja",
+      "exact_taxon": {
+        "id": 62529,
+        "name": "Platalea ajaja",
+        "url": "https://www.inaturalist.org/taxa/62529"
+      },
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/104079965",
+      "attribution": "(c) Jared Shorma, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "downloaded_width": 1024,
+      "downloaded_height": 768,
+      "sha256": "25b31242d7b914dc48849265146fb610dca4a06a557a1f77e7d304c376a7f7fa",
+      "visual_result": "Sharp full living adult; spatulate bill, bare head, pink plumage, long legs and carmine wing coverts are visible."
+    },
+    {
+      "id": "olm",
+      "candidate": 4,
+      "selection": "olm:4",
+      "scientific_name": "Proteus anguinus",
+      "exact_taxon": {
+        "id": 27677,
+        "name": "Proteus anguinus",
+        "url": "https://www.inaturalist.org/taxa/27677"
+      },
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/115165481",
+      "attribution": "(c) Robin Fokker, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "downloaded_width": 1024,
+      "downloaded_height": 1024,
+      "sha256": "28ee332308b89b9d4193866459851e9155f49f57359afdf349c701542cecc736",
+      "visual_result": "Living animal underwater in Slovenia; pale eel-like body, tiny limbs and red external gills are visible; handled-animal alternative rejected."
+    },
+    {
+      "id": "mata-mata",
+      "candidate": 4,
+      "selection": "mata-mata:4",
+      "scientific_name": "Chelus fimbriata",
+      "exact_taxon": {
+        "id": 539453,
+        "name": "Chelus fimbriata",
+        "url": "https://www.inaturalist.org/taxa/539453"
+      },
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/189221383",
+      "attribution": "(c) hr_dragonfly, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "downloaded_width": 1024,
+      "downloaded_height": 712,
+      "sha256": "2e41c2e8f35a5a89dac0cfa02efeea2e8438e1b5f9cfaae3b9c3f280db4d1f28",
+      "visual_result": "Sharp full living Amazon-basin animal; triangular leaf-like head, tubular snout, neck fringes and knobby shell are visible."
+    },
+    {
+      "id": "mandarinfish",
+      "candidate": 5,
+      "selection": "mandarinfish:5",
+      "scientific_name": "Synchiropus splendidus",
+      "exact_taxon": {
+        "id": 56072,
+        "name": "Synchiropus splendidus",
+        "url": "https://www.inaturalist.org/taxa/56072"
+      },
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/189503916",
+      "attribution": "(c) Pauline Walsh Jacobson, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "downloaded_width": 960,
+      "downloaded_height": 720,
+      "sha256": "dc2cdb2ad2a98bb3098a7e42c4a6ea5fcc7ca3d32241ce59103d689b50a0b4fb",
+      "visual_result": "Sharp full living fish in native-range reef habitat; continuous blue-orange scroll pattern, broad pectoral fins and male dorsal spine are visible."
+    },
+    {
+      "id": "atlas-moth",
+      "candidate": 1,
+      "selection": "atlas-moth:1",
+      "scientific_name": "Attacus atlas",
+      "exact_taxon": {
+        "id": 125071,
+        "name": "Attacus atlas",
+        "url": "https://www.inaturalist.org/taxa/125071"
+      },
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/38181000",
+      "attribution": "(c) Oleg Kosterin, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "downloaded_width": 1024,
+      "downloaded_height": 767,
+      "sha256": "96b5e7132ed4102c9b10c58118dc24142c7dd8edee15aafe501ca530177e6711",
+      "visual_result": "Full dorsal living adult from Cambodia; four triangular windows, reddish-brown pattern and hooked snake-head-like forewing tips are visible."
+    },
+    {
+      "id": "peacock-spider",
+      "candidate": 1,
+      "selection": "peacock-spider:1",
+      "scientific_name": "Maratus volans",
+      "exact_taxon": {
+        "id": 53605,
+        "name": "Maratus volans",
+        "url": "https://www.inaturalist.org/taxa/53605"
+      },
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/96670293",
+      "attribution": "(c) Nigel Main, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "downloaded_width": 1024,
+      "downloaded_height": 684,
+      "sha256": "e3e22009136114efc035ed9d0ed2145d25fb28c00278e30722e6c6d52382c2da",
+      "visual_result": "Sharp mature displaying male; exact red-blue-black abdominal fan pattern, white edging and raised decorated third legs are visible."
+    },
+    {
+      "id": "coconut-crab",
+      "candidate": 5,
+      "selection": "coconut-crab:5",
+      "scientific_name": "Birgus latro",
+      "exact_taxon": {
+        "id": 51727,
+        "name": "Birgus latro",
+        "url": "https://www.inaturalist.org/taxa/51727"
+      },
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/2839",
+      "attribution": "(c) Drew Avery, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "downloaded_width": 1024,
+      "downloaded_height": 682,
+      "sha256": "4b733b94aa12ec5cd1d3d35515b3199ca595146e5e30b36ec50d91d2d10367a8",
+      "visual_result": "Full adult on natural ground substrate; hardened exposed abdomen, massive claws and long armored legs are visible; handled and juvenile alternatives rejected."
+    },
+    {
+      "id": "common-cuttlefish",
+      "candidate": 5,
+      "selection": "common-cuttlefish:5",
+      "scientific_name": "Sepia officinalis",
+      "exact_taxon": {
+        "id": 151429,
+        "name": "Sepia officinalis",
+        "url": "https://www.inaturalist.org/taxa/151429"
+      },
+      "source": "iNaturalist",
+      "source_url": "https://www.inaturalist.org/observations/30927192",
+      "attribution": "(c) Katerina Kalogerini, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "downloaded_width": 1024,
+      "downloaded_height": 768,
+      "sha256": "28f4695e5a3424cf1b31a0f3b3583a153f7e213824d5e541ce6aa31e61748688",
+      "visual_result": "Full living animal in Greek benthic habitat; broad oval mantle, continuous fin, arms and natural camouflage are visible."
+    },
+    {
+      "id": "pacific-sea-nettle",
+      "candidate": 3,
+      "selection": "pacific-sea-nettle:3",
+      "scientific_name": "Chrysaora fuscescens",
+      "exact_taxon": {
+        "id": 48479,
+        "name": "Chrysaora fuscescens",
+        "url": "https://www.inaturalist.org/taxa/48479"
+      },
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sea_nettle_(Chrysaora_fuscescens)_2.jpg",
+      "attribution": "Ed Bierman from Redwood City, USA",
+      "license": "cc-by-2.0",
+      "downloaded_width": 1600,
+      "downloaded_height": 1280,
+      "sha256": "1863acccbbdebf1ac4715397654dd740799fdebeef06198fcb026c97c3612ef2",
+      "visual_result": "Clear intact swimming medusa; amber bell, radial dark pattern, long fine tentacles and frilly oral arms are visible; stranded specimens rejected."
+    }
+  ],
+  "unresolved": []
+}

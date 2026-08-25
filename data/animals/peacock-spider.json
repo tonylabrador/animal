@@ -1,0 +1,391 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "peacock-spider",
+  "name_zh": "孔雀跳蛛",
+  "name_en": "Peacock Spider",
+  "scientific_name": "Maratus volans",
+  "ui_tags": [
+    "Arachnid",
+    "Grassland",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Arachnida",
+      "zh": "蛛形纲"
+    },
+    "order": {
+      "en": "Araneae",
+      "zh": "蜘蛛目"
+    },
+    "family": {
+      "en": "Salticidae",
+      "zh": "跳蛛科"
+    },
+    "genus": {
+      "en": "Maratus",
+      "zh": "孔雀跳蛛属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估",
+    "note_en": "No species-level global IUCN assessment was confirmed. Not Evaluated means assessment is absent, not that the species is secure or abundant.",
+    "note_zh": "未确认到物种级IUCN全球评估。未评估表示缺少评估，并不表示该物种安全或数量丰富。"
+  },
+  "description": {
+    "en": "Maratus volans is the classic Peacock Spider: a tiny eastern Australian jumping spider whose male unfolds red, blue and black abdominal flaps and waves his third legs in a precise courtship dance. Females are cryptically brown and far harder to identify from photographs.",
+    "zh": "Maratus volans是经典孔雀跳蛛：一种澳大利亚东部微小跳蛛，雄蛛求偶时展开红蓝黑色腹部侧瓣并挥动第三对足，完成精确舞蹈。雌蛛为隐蔽棕色，单凭照片更难鉴定。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are only about 4–5 mm long. Males have iridescent scale-like hairs and expandable lateral flaps on the abdomen plus conspicuous brushes on the raised third legs; females lack the fan and are mottled brown.",
+      "zh": "成蛛仅约4–5毫米。雄蛛腹部有虹彩鳞片状毛和可展开侧瓣，抬起的第三对足有醒目毛刷；雌蛛没有扇面，呈斑驳棕色。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "A diurnal visual hunter, it stalks small insects and other arthropods on low vegetation and leaf litter rather than using a prey-catching web. Silk is used for safety lines, retreats and egg sacs.",
+      "zh": "它是日行视觉猎手，在低植被和落叶层追踪小昆虫及其他节肢动物，而不用捕猎网。丝用于安全绳、隐蔽巢和卵囊。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Confirmed from eastern Australia, especially coastal and near-coastal southern Queensland and New South Wales, with records extending into nearby southeastern regions. Peacock spiders have small and species-specific ranges; broad Australia-wide genus maps must not be substituted for M. volans.",
+      "zh": "确认分布于澳大利亚东部，尤以昆士兰南部和新南威尔士沿海及近海地区为主，并延伸到邻近东南区域。孔雀跳蛛各物种范围小且特异，不能用整个属的澳洲广布图代替M. volans。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "length",
+        "label": {
+          "en": "Adult length",
+          "zh": "成体长度"
+        },
+        "value": {
+          "en": "About 4–5 mm",
+          "zh": "约4–5毫米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "hunting",
+        "label": {
+          "en": "Hunting",
+          "zh": "捕猎"
+        },
+        "value": {
+          "en": "Active visual pursuit; no prey-catching web",
+          "zh": "主动视觉追猎；不用捕猎网"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "male_display",
+        "label": {
+          "en": "Male display",
+          "zh": "雄蛛展示"
+        },
+        "value": {
+          "en": "Abdominal fan plus raised third legs",
+          "zh": "展开腹扇并抬起第三对足"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "assessment",
+        "label": {
+          "en": "Global assessment",
+          "zh": "全球评估"
+        },
+        "value": {
+          "en": "Not Evaluated by IUCN",
+          "zh": "IUCN未评估"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "A male approaches a female with vibrations, raised legs and a fully expanded abdominal fan. If accepted, mating follows; the female later encloses eggs in a silk retreat and guards them until spiderlings emerge.",
+      "zh": "雄蛛以振动、抬足和完全展开的腹扇接近雌蛛。若被接受便交配；雌蛛之后把卵包在丝质隐蔽巢中，并守护至幼蛛出现。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "High-resolution jumping-spider eyes",
+          "zh": "高分辨率跳蛛眼"
+        },
+        "detail": {
+          "en": "Large forward eyes resolve prey and the fine movements of a courtship partner.",
+          "zh": "大型前向眼能分辨猎物和求偶对象的细微动作。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Expandable visual fan",
+          "zh": "可展开视觉扇"
+        },
+        "detail": {
+          "en": "Abdominal side flaps transform a tiny male into a broad, colorful signal during courtship.",
+          "zh": "腹部侧瓣在求偶时把微小雄蛛变成宽阔鲜艳的视觉信号。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Silk safety line",
+          "zh": "丝质安全绳"
+        },
+        "detail": {
+          "en": "A trailing dragline arrests a fall after a leap from vegetation.",
+          "zh": "跳离植被后，拖曳丝线可在跌落时提供保护。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a small arthropod predator, it removes springtails, flies and other tiny prey from ground-layer communities and in turn feeds larger spiders, insects, reptiles and birds.",
+      "zh": "作为小型节肢动物捕食者，它捕食落叶层中的跳虫、蝇类等微小猎物，同时又供更大的蜘蛛、昆虫、爬行动物和鸟类取食。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Not Evaluated globally. Because records are localized, habitat clearing, frequent burning, pesticide use and collection could matter even when no formal population trend exists.",
+        "zh": "全球未评估。由于记录局限，生境清除、频繁火烧、农药和采集即使在没有正式种群趋势时也可能产生重要影响。"
+      },
+      "actions": {
+        "en": "Retain diverse low vegetation and litter, avoid indiscriminate pesticides, document exact localities without exposing fragile micro-sites, and base photography or collection on permits and minimal disturbance.",
+        "zh": "应保留多样低植被和落叶层，避免无差别农药，记录准确地点但不暴露脆弱微地点，并在许可和最小干扰原则下摄影或采集。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Adult male: red-and-blue patterned abdominal fan edged in white, black bands and long decorated third legs raised during display. The fan pattern of M. volans must match exactly.",
+        "zh": "成年雄蛛：腹部扇面红蓝相间、白边并有黑带，求偶时抬起装饰延长的第三对足。M. volans的扇面图案必须准确匹配。"
+      },
+      "similar_species": {
+        "en": "Dozens of Maratus species have colorful fans, and females can be nearly inseparable without genital examination. A colorful peacock spider photo is not sufficient: exact male pattern and southeastern locality must agree.",
+        "zh": "数十种孔雀跳蛛都有彩色扇面，雌蛛若不检查生殖器可能几乎无法区分。仅有“彩色孔雀蛛”照片不够；雄蛛精确图案和东南部地点都必须一致。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Forward principal eyes provide detailed color vision, while side eyes detect movement. Males combine visual choreography with substrate vibrations that females perceive through their legs.",
+      "zh": "前方主眼提供精细色觉，侧眼探测运动。雄蛛把视觉舞步与基质振动结合，雌蛛通过足部感知。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Adult courtship is most visible in warm spring and summer when prey and mates are active. Eggs develop in guarded silk retreats; timing varies with local temperature and rainfall.",
+      "zh": "温暖春夏猎物和配偶活跃时最容易见到成蛛求偶。卵在受守护的丝巢中发育，时间随当地温度和降雨变化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Viral dance videos made peacock spiders conservation ambassadors, but they also encourage mislabeling and collecting. Macro photographers should avoid trampling tiny habitat patches or repeatedly provoking displays.",
+      "zh": "求偶舞蹈视频让孔雀跳蛛成为保护明星，也带来误标和采集。微距摄影者应避免踩踏微小生境或反复刺激展示。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Peacock Spider is placed in genus Maratus, family Salticidae, order Araneae. This record follows the accepted binomial Maratus volans and does not transfer claims or images from look-alike species.",
+      "zh": "孔雀跳蛛归入孔雀跳蛛属、跳蛛科、蜘蛛目。本条目采用接受学名Maratus volans，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Search sunny low vegetation slowly for a 4–5 mm jumping spider that turns toward movement. Species-level confirmation usually requires a mature displaying male photographed sharply from above and the side with locality data.",
+      "zh": "应在阳光下低矮植被中缓慢寻找会转向运动目标的4–5毫米跳蛛。物种级确认通常需要清晰拍摄成熟展示雄蛛的背面和侧面，并有地点数据。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The name volans means 'flying,' based on an old mistaken idea that the flaps aided flight.",
+          "zh": "种加词volans意为“飞行”，源自早期误以为侧瓣能帮助飞行。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "The male's dance is both visual and vibrational.",
+          "zh": "雄蛛的舞蹈同时包含视觉和振动信号。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A female may attack a poorly performing male, so courtship precision has real survival stakes.",
+          "zh": "雌蛛可能攻击表现不佳的雄蛛，因此求偶精度直接关系生存。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Jumping without a web",
+          "zh": "不用蛛网的跳跃捕猎"
+        },
+        "content": {
+          "en": "Hydraulic pressure rapidly extends the legs for a leap, while muscle flexes them again. A silk dragline remains attached as insurance during the jump.",
+          "zh": "体液压力迅速伸展腿部完成跳跃，肌肉再使腿弯曲；跳跃时仍连接丝质拖线作为保险。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Confirmed from eastern Australia, especially coastal and near-coastal southern Queensland and New South Wales, with records extending into nearby southeastern regions. Peacock spiders have small and species-specific ranges; broad Australia-wide genus maps must not be substituted for M. volans.",
+    "text_zh": "确认分布于澳大利亚东部，尤以昆士兰南部和新南威尔士沿海及近海地区为主，并延伸到邻近东南区域。孔雀跳蛛各物种范围小且特异，不能用整个属的澳洲广布图代替M. volans。",
+    "map_coordinates": [
+      -32,
+      151
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -24.5,
+          151
+        ],
+        [
+          -27,
+          153.5
+        ],
+        [
+          -34.5,
+          151.5
+        ],
+        [
+          -37.5,
+          149
+        ],
+        [
+          -36,
+          147
+        ],
+        [
+          -31,
+          149
+        ],
+        [
+          -27,
+          151
+        ],
+        [
+          -24.5,
+          151
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/peacock-spider.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2176160",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2176160/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Australian Museum",
+      "url": "https://australian.museum/learn/animals/spiders/jumping-spiders/",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Peckhamia scientific catalogue for Maratus volans",
+      "url": "https://peckhamia.com/peckhamia/PECKHAMIA_148.3.pdf",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Peckhamia distribution account",
+      "url": "https://peckhamia.com/peckhamia/PECKHAMIA_148.3.pdf",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

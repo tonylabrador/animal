@@ -1,0 +1,407 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "north-american-porcupine",
+  "name_zh": "北美豪猪",
+  "name_en": "North American Porcupine",
+  "scientific_name": "Erethizon dorsatum",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Rodentia",
+      "zh": "啮齿目"
+    },
+    "family": {
+      "en": "Erethizontidae",
+      "zh": "美洲豪猪科"
+    },
+    "genus": {
+      "en": "Erethizon",
+      "zh": "北美豪猪属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The North American Porcupine is the continent's second-largest rodent and its only native porcupine north of Mexico. Its back and tail carry tens of thousands of detachable, barbed quills used for defense—not projectiles.",
+    "zh": "北美豪猪是北美洲第二大啮齿动物，也是墨西哥以北唯一的原生豪猪。它的背部和尾部有数万根可脱落的倒钩棘刺用于防御，但不会把棘刺发射出去。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are roughly 60–90 cm long and commonly weigh 5–14 kg. A stocky body, small head, strong curved claws and about 30,000 modified hairs called quills suit slow climbing and close-range defense.",
+      "zh": "成体体长约60–90厘米，通常重5–14千克。粗壮身体、小头、强而弯曲的爪和约30,000根由毛发特化而来的棘刺，适合缓慢攀爬和近距离防御。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Mostly nocturnal, it eats leaves, twigs, bark, buds and other vegetation. It climbs well and may spend considerable time in trees, but also walks on the ground and uses rock crevices, hollow trees or simple dens.",
+      "zh": "它主要夜行，取食叶、嫩枝、树皮、芽和其他植物。它善于爬树，可能长时间待在树上，也会在地面行走，并利用岩缝、空心树或简易洞穴。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Widespread from Alaska through most of Canada and the western and northeastern United States, with the range extending into northern Mexico. It occupies boreal, temperate and montane forests, shrublands and rocky country where woody food and shelter occur.",
+      "zh": "广布于阿拉斯加、加拿大大部以及美国西部和东北部，分布南达墨西哥北部。它生活在北方林、温带林、山地林、灌丛及具有木本食物与藏身处的岩石地带。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_length",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "About 60–90 cm",
+          "zh": "约60–90厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Mass",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "Commonly 5–14 kg",
+          "zh": "通常5–14千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "quills",
+        "label": {
+          "en": "Quills",
+          "zh": "棘刺"
+        },
+        "value": {
+          "en": "Roughly 30,000 modified hairs",
+          "zh": "约30,000根特化毛发"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "litter",
+        "label": {
+          "en": "Typical litter",
+          "zh": "通常每胎"
+        },
+        "value": {
+          "en": "One young after a 205–217 day gestation",
+          "zh": "妊娠205–217天后通常产一仔"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Mating peaks in autumn. After an unusually long rodent gestation of about 205–217 days, the female generally bears one precocial young in spring; its soft quills harden soon after birth.",
+      "zh": "交配高峰在秋季。经过啮齿动物中异常漫长、约205–217天的妊娠期，雌性通常于春季产下一只早成幼仔；幼仔柔软的棘刺出生后不久会变硬。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Barbed quills",
+          "zh": "倒钩棘刺"
+        },
+        "detail": {
+          "en": "Quills detach on contact and their microscopic barbs make them difficult for a predator to remove.",
+          "zh": "棘刺接触后可脱落，微小倒钩使捕食者难以拔出。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Climbing feet",
+          "zh": "攀爬足"
+        },
+        "detail": {
+          "en": "Long curved claws and textured pads give a slow but secure grip on trunks and branches.",
+          "zh": "长弯爪和有纹理的足垫让它缓慢但稳固地抓住树干与树枝。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Winter wood diet",
+          "zh": "冬季木本食物"
+        },
+        "detail": {
+          "en": "A robust digestive system extracts energy from bark, cambium and conifer needles when green food is scarce.",
+          "zh": "在绿色食物稀少时，强健消化系统能从树皮、形成层和针叶中获取能量。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Browsing and bark feeding alter individual trees and create deadwood and cavities used by other organisms. Porcupines are also prey for fishers, which can attack the relatively unprotected face and underside.",
+      "zh": "啃食嫩枝与树皮会改变单株树木，并促进形成其他生物利用的枯木和树洞。豪猪也是渔貂等捕食者的猎物，后者会攻击其防护较弱的脸部和腹面。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "stable",
+      "threats": {
+        "en": "The species is globally Least Concern and broadly secure, though road mortality, localized control, forest practices and cyclic population declines can matter regionally.",
+        "zh": "该物种全球为无危，整体较安全，但道路死亡、局部灭杀、森林经营和周期性种群下降在地区尺度上仍有影响。"
+      },
+      "actions": {
+        "en": "Retain structurally diverse forest and den sites, reduce vehicle collisions in known crossings, and resolve tree-damage conflicts with targeted nonlethal methods when possible.",
+        "zh": "应保留结构多样的森林和藏身地点，在已知通道减少车辆碰撞，并尽可能以针对性的非致死方式处理林木损害冲突。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A slow, heavy rodent with black-to-brown fur, pale-tipped quills over the back and rump, a blunt face and a thick, muscular tail.",
+        "zh": "行动缓慢而粗壮，毛色黑至棕色，背部和臀部棘刺尖端较浅，脸钝圆，尾巴粗壮有力。"
+      },
+      "similar_species": {
+        "en": "Old World porcupines have a different distribution and often much longer, more conspicuous spines; the North American species is more fully furred and is an accomplished climber.",
+        "zh": "旧大陆豪猪分布不同，棘刺往往更长更显眼；北美豪猪毛被更丰富，也更善于爬树。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Smell and hearing are important in its mostly nocturnal life. When threatened it chatters its teeth, raises quills, releases a strong odor and may swing its quilled tail.",
+      "zh": "嗅觉和听觉对夜间生活很重要。受威胁时会磨牙作响、竖起棘刺、释放强烈气味，并可能甩动带刺的尾巴。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Autumn courtship is followed by spring birth. Winter diets shift toward bark, cambium and evergreen foliage, while summer offers more leaves, herbs and aquatic plants.",
+      "zh": "秋季求偶后在春季产仔。冬季食物转向树皮、形成层和常绿植物，夏季则有更多叶片、草本和水生植物。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "People sometimes control porcupines where bark feeding damages timber, orchards or buildings. Quills have long been used in Indigenous art; respectful sourcing and cultural context matter.",
+      "zh": "豪猪啃树皮损害木材、果园或建筑时，人们有时会进行控制。其棘刺长期用于原住民艺术，使用时应尊重来源与文化语境。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "North American Porcupine is placed in genus Erethizon, family Erethizontidae, order Rodentia. This record follows the accepted binomial Erethizon dorsatum and does not transfer claims or images from look-alike species.",
+      "zh": "北美豪猪归入北美豪猪属、美洲豪猪科、啮齿目。本条目采用接受学名Erethizon dorsatum，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Gnawed bark high on trunks, paired tracks with long claws, pellet-like droppings and sheltered dens can reveal presence. A quill found on a trail is strong evidence but should not be handled carelessly.",
+      "zh": "树干高处的啃痕、带长爪的成对足迹、颗粒状粪便和隐蔽洞穴可提示其存在。路上发现棘刺是有力证据，但不应随意徒手触碰。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Porcupines cannot shoot their quills; the quills detach only after contact.",
+          "zh": "豪猪不会发射棘刺；棘刺是在接触后脱落。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A newborn's quills are soft at birth and harden shortly afterward.",
+          "zh": "幼仔出生时棘刺柔软，随后不久便会硬化。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The long gestation is exceptional among rodents and usually produces just one young.",
+          "zh": "其妊娠期在啮齿动物中异常漫长，通常只产一仔。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Quill defense",
+          "zh": "棘刺防御"
+        },
+        "content": {
+          "en": "Quills are keratinized hairs with backward-facing barbs. The animal presents its armored back and tail to danger while protecting the unquilled face and belly.",
+          "zh": "棘刺是角蛋白化毛发，带有向后的倒钩。遇到危险时，豪猪把有甲的背部和尾部朝向威胁，同时保护无棘刺的脸和腹部。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Widespread from Alaska through most of Canada and the western and northeastern United States, with the range extending into northern Mexico. It occupies boreal, temperate and montane forests, shrublands and rocky country where woody food and shelter occur.",
+    "text_zh": "广布于阿拉斯加、加拿大大部以及美国西部和东北部，分布南达墨西哥北部。它生活在北方林、温带林、山地林、灌丛及具有木本食物与藏身处的岩石地带。",
+    "map_coordinates": [
+      52,
+      -112
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          71,
+          -166
+        ],
+        [
+          72,
+          -120
+        ],
+        [
+          67,
+          -74
+        ],
+        [
+          53,
+          -53
+        ],
+        [
+          44,
+          -67
+        ],
+        [
+          39,
+          -77
+        ],
+        [
+          31,
+          -106
+        ],
+        [
+          23,
+          -106
+        ],
+        [
+          29,
+          -116
+        ],
+        [
+          45,
+          -124
+        ],
+        [
+          58,
+          -138
+        ],
+        [
+          71,
+          -166
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/north-american-porcupine.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Mammal Diversity Database",
+      "url": "https://www.mammaldiversity.org/taxon/1001254/",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/6066824/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Erethizon_dorsatum/",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Erethizon_dorsatum/",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "NatureServe Explorer",
+      "url": "https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.101195/Erethizon_dorsatum",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

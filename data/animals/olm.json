@@ -1,0 +1,391 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "olm",
+  "name_zh": "洞螈",
+  "name_en": "Olm",
+  "scientific_name": "Proteus anguinus",
+  "ui_tags": [
+    "Amphibian",
+    "Cave",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Amphibia",
+      "zh": "两栖纲"
+    },
+    "order": {
+      "en": "Caudata",
+      "zh": "有尾目"
+    },
+    "family": {
+      "en": "Proteidae",
+      "zh": "洞螈科"
+    },
+    "genus": {
+      "en": "Proteus",
+      "zh": "洞螈属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Vulnerable; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为易危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Olm is a permanently aquatic cave salamander of the Dinaric karst. Pale skin, external gills and tiny hidden eyes persist into adulthood, while exceptional chemical and mechanical senses guide a life spent in darkness.",
+    "zh": "洞螈是迪纳里克喀斯特地下水系中终生水栖的洞穴蝾螈。苍白皮肤、外鳃和隐藏的微小眼睛保留至成年，卓越化学与机械感知引导其黑暗生活。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The slender eel-like body is commonly 20–30 cm long, with short limbs, three toes on each forefoot and two on each hind foot. Unpigmented forms look pinkish white because blood shows through the skin; red feathery gills project behind the head.",
+      "zh": "细长鳗形身体通常20–30厘米，四肢短，前足各三趾、后足各两趾。无色素型因血液透过皮肤而呈粉白色，头后伸出红色羽状外鳃。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It inhabits cold, oxygenated subterranean streams and lakes, sheltering among cracks and sediment. Olms eat small crustaceans, insect larvae, snails and other cave animals and can endure extraordinarily long periods without food.",
+      "zh": "它栖息在寒冷、含氧的地下河流和湖泊，藏于裂隙与沉积物间。洞螈取食小型甲壳类、昆虫幼体、螺和其他洞穴动物，并能忍受异常漫长的断食。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Native to underground waters of the Dinaric karst from northeastern Italy and Slovenia through Croatia and Bosnia and Herzegovina toward Montenegro. Surface records can reflect flood washout; the true habitat is connected subterranean karst water.",
+      "zh": "原生于迪纳里克喀斯特地下水系，从意大利东北部和斯洛文尼亚，经克罗地亚、波斯尼亚和黑塞哥维那延伸向黑山。地表记录可能是洪水冲出；真正生境是连通的地下喀斯特水体。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "length",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "Usually about 20–30 cm",
+          "zh": "通常约20–30厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Environment",
+          "zh": "生活环境"
+        },
+        "value": {
+          "en": "Permanent darkness in cold subterranean water",
+          "zh": "寒冷地下水中的永久黑暗"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "development",
+        "label": {
+          "en": "Adult form",
+          "zh": "成体形态"
+        },
+        "value": {
+          "en": "Retains external gills and larval features",
+          "zh": "保留外鳃和幼体特征"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Cave crustaceans, larvae, snails and other small prey",
+          "zh": "洞穴甲壳类、幼体、螺及其他小型猎物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Females attach eggs individually beneath submerged rocks, and development is extremely slow in cold cave water. Larvae hatch with gills and retain aquatic juvenile traits through adulthood; sexual maturity can take many years.",
+      "zh": "雌性把卵逐枚附在水下岩石底部，寒冷洞水使发育极慢。幼体带鳃孵化，并终生保留水生幼体特征；达到性成熟可能需要许多年。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Permanent neoteny",
+          "zh": "永久幼态"
+        },
+        "detail": {
+          "en": "Adults keep external gills and an aquatic body instead of transforming into a land salamander.",
+          "zh": "成体保留外鳃和水生身体，不变态为陆栖蝾螈。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Darkness senses",
+          "zh": "黑暗感知"
+        },
+        "detail": {
+          "en": "Smell, taste, vibration, electric-field and magnetic sensitivity compensate for reduced eyes.",
+          "zh": "嗅觉、味觉、振动、电场和磁场感知补偿退化视觉。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Famine endurance",
+          "zh": "耐长期饥饿"
+        },
+        "detail": {
+          "en": "Low metabolism and energy storage allow survival through long intervals between cave prey encounters.",
+          "zh": "低代谢和能量储存使其能熬过洞穴猎物出现之间的漫长间隔。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "The Olm is a top predator within sparse groundwater communities and a sentinel for karst-water quality. Its eggs and young also feed larger cave predators where they overlap.",
+      "zh": "洞螈是稀疏地下水群落中的高级捕食者，也是喀斯特水质哨兵；在与更大洞穴捕食者重叠处，其卵和幼体也会成为猎物。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Vulnerable and decreasing. Groundwater pollution, water extraction, altered cave hydrology, illegal collection and disturbance of accessible caves threaten populations that recover very slowly.",
+        "zh": "易危且呈下降趋势。地下水污染、取水、洞穴水文改变、非法采集和可进入洞穴的干扰，威胁恢复极慢的种群。"
+      },
+      "actions": {
+        "en": "Protect entire karst catchments rather than cave entrances alone, prevent agricultural and sewage contamination, regulate groundwater extraction, and restrict access to sensitive localities.",
+        "zh": "保护应覆盖整个喀斯特集水区而非仅洞口，防止农业和污水污染，管理地下水开采，并限制进入敏感地点。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A long pale cave salamander with tiny limbs, flattened tail, red external gills and eyes hidden beneath skin. The naturally pigmented black olm is a localized form with visible dark coloration.",
+        "zh": "细长苍白的洞穴蝾螈，四肢微小，尾侧扁，有红色外鳃，眼睛藏在皮肤下。天然带色素的黑洞螈是局部分布型，身体明显深色。"
+      },
+      "similar_species": {
+        "en": "Axolotls also retain external gills but are stouter, have four toes behind and occur naturally in Mexico. Aquarium leucistic salamanders must never be labeled Olm without provenance from the Dinaric karst.",
+        "zh": "美西螈也保留外鳃，但体型更粗、后足四趾，天然分布于墨西哥。水族馆白化蝾螈若无迪纳里克喀斯特来源，绝不能标为洞螈。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Although eyes are reduced, the animal detects dissolved chemicals, water movement and faint mechanical vibration. These cues locate prey and shelter in complete darkness.",
+      "zh": "虽然眼睛退化，它能探测溶解化学物、水流和微弱机械振动，借此在完全黑暗中寻找猎物与藏身处。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Stable cave temperatures dampen surface seasons, but groundwater level and food input still respond to rain and flood pulses. Sudden high flow can displace animals into springs or surface streams.",
+      "zh": "稳定洞温削弱地表季节性，但地下水位和食物输入仍响应降雨与洪峰。突发强流可能把个体冲到泉口或地表溪流。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Known locally as the 'human fish,' the Olm is a Slovenian conservation symbol and a focus of cave tourism and research. Exact wild sites should not be publicized because collection and disturbance are risks.",
+      "zh": "洞螈在当地被称为“人鱼”，是斯洛文尼亚保护象征，也是洞穴旅游和研究焦点。因采集和干扰风险，不应公开精确野外地点。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Olm is placed in genus Proteus, family Proteidae, order Caudata. This record follows the accepted binomial Proteus anguinus and does not transfer claims or images from look-alike species.",
+      "zh": "洞螈归入洞螈属、洞螈科、有尾目。本条目采用接受学名Proteus anguinus，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Detection requires authorized cave or groundwater surveys using visual search, environmental DNA or traps designed to avoid injury. Surface sightings after floods should be documented and reported to local experts, not collected.",
+      "zh": "探测需经许可，在洞穴或地下水中使用目视、环境DNA或无伤陷阱。洪水后的地表发现应记录并报告当地专家，不能采集。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "An Olm may live for many decades—possibly close to a century.",
+          "zh": "洞螈可活数十年，可能接近一个世纪。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "It can survive years without feeding under extreme experimental conditions.",
+          "zh": "在极端实验条件下，它可数年不进食仍存活。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The pink color is blood visible through translucent, pigment-poor skin.",
+          "zh": "粉红色来自血液透过半透明、缺少色素的皮肤。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Paedomorphosis",
+          "zh": "幼态延续"
+        },
+        "content": {
+          "en": "Instead of completing a typical terrestrial salamander metamorphosis, the Olm reproduces while retaining aquatic larval traits. This is an evolutionary specialization, not an unfinished individual.",
+          "zh": "洞螈不完成典型陆栖蝾螈变态，而是在保留水生幼体特征时繁殖。这是进化特化，并非个体“尚未长成”。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Native to underground waters of the Dinaric karst from northeastern Italy and Slovenia through Croatia and Bosnia and Herzegovina toward Montenegro. Surface records can reflect flood washout; the true habitat is connected subterranean karst water.",
+    "text_zh": "原生于迪纳里克喀斯特地下水系，从意大利东北部和斯洛文尼亚，经克罗地亚、波斯尼亚和黑塞哥维那延伸向黑山。地表记录可能是洪水冲出；真正生境是连通的地下喀斯特水体。",
+    "map_coordinates": [
+      44.5,
+      15
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          46.7,
+          12.2
+        ],
+        [
+          46.6,
+          15.8
+        ],
+        [
+          45.5,
+          17.3
+        ],
+        [
+          43,
+          18.8
+        ],
+        [
+          42.3,
+          17
+        ],
+        [
+          43.5,
+          14
+        ],
+        [
+          45,
+          12.5
+        ],
+        [
+          46.7,
+          12.2
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/olm.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Amphibian Species of the World, American Museum of Natural History",
+      "url": "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Proteidae/Proteus/Proteus-anguinus",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2432042/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Proteus_anguinus/",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Proteus_anguinus/",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Amphibian Species of the World distribution account",
+      "url": "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Proteidae/Proteus/Proteus-anguinus",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "indian-giant-squirrel",
+  "name_zh": "印度巨松鼠",
+  "name_en": "Indian Giant Squirrel",
+  "scientific_name": "Ratufa indica",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Frugivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Rodentia",
+      "zh": "啮齿目"
+    },
+    "family": {
+      "en": "Sciuridae",
+      "zh": "松鼠科"
+    },
+    "genus": {
+      "en": "Ratufa",
+      "zh": "巨松鼠属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Indian Giant Squirrel is a large, vividly colored tree squirrel endemic to India. It spends almost all of its time high in forest canopies, where a very long tail and powerful limbs let it cross gaps without descending to the ground.",
+    "zh": "印度巨松鼠是印度特有的大型彩色树栖松鼠。它几乎一生都在森林树冠层活动，凭借极长尾巴和有力四肢跨越林冠空隙，很少下到地面。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Head-body length is about 25–46 cm and the tail is roughly as long or longer; adults commonly weigh about 1.5–2 kg. Coat color varies geographically from cream and tan to maroon, brown and black, while the underparts are paler.",
+      "zh": "头体长约25–46厘米，尾巴与身体相近或更长；成体通常重约1.5–2千克。毛色随地区不同，可由奶油色和棕褐色到栗红、深棕或黑色，腹面较浅。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "A diurnal canopy specialist, it feeds mainly on fruits, seeds, flowers and bark and occasionally takes insects or bird eggs. Individuals often feed alone or in pairs and build several large leafy nests in tree forks.",
+      "zh": "它是日行性树冠专家，主要吃果实、种子、花和树皮，偶尔也吃昆虫或鸟卵。个体常独自或成对觅食，并在树杈上搭建多个大型叶巢。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to peninsular and central India, with separated populations in the Western Ghats and forested parts of central and eastern India. It depends on mature, connected moist and dry deciduous or evergreen forest canopy.",
+      "zh": "特有于印度半岛及中部，在西高止山脉以及印度中部和东部的森林中形成若干分离种群。它依赖成熟、连通的湿润或干燥落叶林和常绿林树冠。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_length",
+        "label": {
+          "en": "Head-body length",
+          "zh": "头体长"
+        },
+        "value": {
+          "en": "About 25–46 cm",
+          "zh": "约25–46厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Mass",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "Usually about 1.5–2 kg",
+          "zh": "通常约1.5–2千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Main foods",
+          "zh": "主要食物"
+        },
+        "value": {
+          "en": "Fruit, seeds, flowers and bark",
+          "zh": "果实、种子、花和树皮"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Diurnal and strongly arboreal",
+          "zh": "日行且高度树栖"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Breeding timing varies among regions. A female builds a large leaf nest high in a tree; one or two young are usual, and the young remain dependent in the canopy nest before beginning independent travel.",
+      "zh": "繁殖时间因地区而异。雌性在高大树木上搭建大型叶巢，通常产一至两仔；幼仔会在树冠巢中依赖母亲一段时间后才开始独立移动。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Counterbalancing tail",
+          "zh": "平衡长尾"
+        },
+        "detail": {
+          "en": "The long bushy tail stabilizes leaps and rapid turns in the canopy.",
+          "zh": "长而蓬松的尾巴能稳定林冠间跳跃和急转。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Reversible hind feet",
+          "zh": "灵活后足"
+        },
+        "detail": {
+          "en": "Strong ankle rotation and curved claws help it descend trunks headfirst and cling to bark.",
+          "zh": "灵活的踝部旋转与弯曲爪有助于头朝下爬树并抓牢树皮。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Canopy gap crossing",
+          "zh": "跨越林冠空隙"
+        },
+        "detail": {
+          "en": "Powerful limbs allow long leaps between branches, reducing the need to visit the ground.",
+          "zh": "有力四肢可在树枝间远跳，减少下地需要。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a major fruit and seed consumer, it disperses some seeds and also preys on others. Nest building and feeding link it closely to mature canopy trees and make it a useful indicator of forest continuity.",
+      "zh": "作为重要的果实和种子消费者，它会传播一部分种子，也会捕食另一部分。筑巢和取食使它与成熟树冠紧密相连，可作为森林连通性的指示物种。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Although globally Least Concern, the population is considered decreasing. Forest fragmentation, canopy loss, hunting and road development can isolate local populations.",
+        "zh": "虽然全球等级为无危，但种群趋势被认为在下降。森林破碎化、树冠丧失、猎捕和道路建设会使局部种群相互隔离。"
+      },
+      "actions": {
+        "en": "Protect large native trees and continuous canopy corridors, limit hunting, and monitor isolated regional populations rather than relying only on the broad global category.",
+        "zh": "应保护大型乡土树木和连续树冠廊道，限制猎捕，并监测孤立的地区种群，而不能只依赖宽泛的全球等级。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A very large squirrel with a long bushy tail, rounded ears and a sharply contrasting multicolored coat—often dark maroon or brown above with cream or tan areas below.",
+        "zh": "体型很大的松鼠，具有长蓬松尾、圆耳和对比鲜明的多色毛皮，背部常为深栗红或棕色，腹部带奶油色或棕褐色。"
+      },
+      "similar_species": {
+        "en": "The grizzled giant squirrel is generally grayer and has a different southern distribution; Malabar color forms vary strongly, so location and the full coat pattern are both important.",
+        "zh": "灰巨松鼠总体更灰，且在南部的分布不同；印度巨松鼠各地色型变化很大，因此地点和完整毛色图案都很重要。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Sharp vision and hearing help an animal judge gaps and detect predators in the canopy. Calls include loud staccato alarm notes; scent also marks routes and reproductive condition.",
+      "zh": "敏锐视觉和听觉帮助它判断林冠空隙并发现捕食者。叫声包括响亮、短促的警报音；气味也用于标记路线和繁殖状态。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Fruit supply and regional monsoons shape daily movement and breeding. Animals may shift among tree species as fruiting and flowering peaks move through the forest.",
+      "zh": "果实供应和地区季风会影响日常移动与繁殖。随着不同树种开花结果高峰变化，个体会在林内转换取食树种。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The species is a celebrated emblem of Indian forests and Maharashtra's state animal, yet is locally hunted and loses canopy to development. Responsible viewing should avoid disturbing active nests.",
+      "zh": "它是印度森林的代表动物，也是马哈拉施特拉邦的邦兽，但局部仍遭猎捕，树冠也因开发而减少。负责任观察应避免干扰正在使用的巢。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Indian Giant Squirrel is placed in genus Ratufa, family Sciuridae, order Rodentia. This record follows the accepted binomial Ratufa indica and does not transfer claims or images from look-alike species.",
+      "zh": "印度巨松鼠归入巨松鼠属、松鼠科、啮齿目。本条目采用接受学名Ratufa indica，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Look high for a bulky squirrel crossing broad branches, large spherical leaf nests in tall forks, and loud alarm calls. Color alone is insufficient because subspecies and individuals vary.",
+      "zh": "应在高处寻找沿粗枝活动的大型松鼠、树杈上的大型球状叶巢及响亮警报声。由于亚种和个体毛色变化大，不能仅凭颜色判断。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "It may leap roughly six metres between trees.",
+          "zh": "它在树间一次跳跃可达约六米。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Several leaf nests may be built within one animal's home range.",
+          "zh": "一只个体的活动范围内可能建有多个叶巢。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its spectacular coat is naturally variable rather than a single fixed pattern.",
+          "zh": "它醒目的毛色天然变化很大，并非只有一种固定图案。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Arboreal locomotion",
+          "zh": "树栖运动"
+        },
+        "content": {
+          "en": "Strong claws, flexible ankles and a long balancing tail form an integrated canopy-travel system. The species can feed while hanging from a branch and cross gaps with long leaps.",
+          "zh": "强爪、灵活踝部与平衡长尾共同构成林冠移动系统；它能悬挂在树枝上取食，也能以远跳跨越空隙。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Endemic to peninsular and central India, with separated populations in the Western Ghats and forested parts of central and eastern India. It depends on mature, connected moist and dry deciduous or evergreen forest canopy.",
+    "text_zh": "特有于印度半岛及中部，在西高止山脉以及印度中部和东部的森林中形成若干分离种群。它依赖成熟、连通的湿润或干燥落叶林和常绿林树冠。",
+    "map_coordinates": [
+      16,
+      76
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          20.5,
+          72.7
+        ],
+        [
+          22.5,
+          77
+        ],
+        [
+          21,
+          82.5
+        ],
+        [
+          17,
+          82
+        ],
+        [
+          14,
+          78.5
+        ],
+        [
+          8.5,
+          77
+        ],
+        [
+          10,
+          74
+        ],
+        [
+          15,
+          73
+        ],
+        [
+          20.5,
+          72.7
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/indian-giant-squirrel.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2437565",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2437565/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Ratufa_indica/",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Ratufa_indica/",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Animal Diversity Web range account",
+      "url": "https://animaldiversity.org/accounts/Ratufa_indica/",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

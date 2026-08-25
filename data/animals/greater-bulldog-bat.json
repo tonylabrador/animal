@@ -1,0 +1,419 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "greater-bulldog-bat",
+  "name_zh": "大兔唇蝠",
+  "name_en": "Greater Bulldog Bat",
+  "scientific_name": "Noctilio leporinus",
+  "ui_tags": [
+    "Mammal",
+    "Wetland",
+    "Piscivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Chiroptera",
+      "zh": "翼手目"
+    },
+    "family": {
+      "en": "Noctilionidae",
+      "zh": "兔唇蝠科"
+    },
+    "genus": {
+      "en": "Noctilio",
+      "zh": "兔唇蝠属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Greater Bulldog Bat is a large fishing bat of tropical American rivers, lakes, estuaries and coasts. It uses echolocation to detect tiny disturbances at the water surface, then rakes the water with oversized feet and curved claws.",
+    "zh": "大兔唇蝠是热带美洲河流、湖泊、河口和海岸的大型食鱼蝙蝠。它用回声定位探测水面微小扰动，再以巨大的脚和弯爪掠过水面抓取猎物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Head-body length is about 10–13 cm; males average heavier than females and may reach roughly 75–80 g. The species has long hind legs, enormous feet, strongly curved claws and cheek pouches for carrying prey.",
+      "zh": "头体长约10–13厘米；雄性平均比雌性重，可达约75–80克。它具有长后腿、巨足、强弯爪和用于携带猎物的颊囊。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It roosts in hollow trees, caves or buildings near water. At night it flies low over calm surfaces, eating fish and aquatic insects; it may also hunt over the sea and carry captured prey to a perch.",
+      "zh": "它栖息在水边的树洞、洞穴或建筑中。夜间贴近平静水面飞行，取食鱼和水生昆虫；也可能在海面捕猎，并把猎物带到栖处。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Occurs from western and southern Mexico through Central America and much of tropical South America to northern Argentina and southeastern Brazil, as well as many Caribbean islands. Suitable areas combine open water with nearby daytime roosts.",
+      "zh": "从墨西哥西部和南部经中美洲，广布至南美热带地区、阿根廷北部和巴西东南部，也见于许多加勒比岛屿。适宜地点需同时具有开阔水面和附近的日间栖息处。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_length",
+        "label": {
+          "en": "Head-body length",
+          "zh": "头体长"
+        },
+        "value": {
+          "en": "About 10–13 cm",
+          "zh": "约10–13厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Adult mass",
+          "zh": "成体体重"
+        },
+        "value": {
+          "en": "About 60–80 g; males are usually heavier",
+          "zh": "约60–80克；雄性通常更重"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "main_prey",
+        "label": {
+          "en": "Main prey",
+          "zh": "主要猎物"
+        },
+        "value": {
+          "en": "Fish and aquatic insects",
+          "zh": "鱼类和水生昆虫"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "hunting",
+        "label": {
+          "en": "Hunting method",
+          "zh": "捕猎方式"
+        },
+        "value": {
+          "en": "Echolocation plus feet raked across the surface",
+          "zh": "回声定位并以双足掠过水面"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Breeding is seasonal and varies regionally. Females generally bear one young; maternity groups shelter in warm roosts, and the juvenile is nursed until it can fly and capture its own prey.",
+      "zh": "繁殖具有季节性且因地区而异。雌性通常产一仔；育幼群栖息在温暖隐蔽处，幼仔吃奶直至能够飞行并自行捕猎。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Oversized fishing feet",
+          "zh": "巨型捕鱼足"
+        },
+        "detail": {
+          "en": "Long toes and hook-like claws sweep just below the surface and close around prey.",
+          "zh": "长趾和钩状爪在水面下方掠过并扣住猎物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Surface-reading sonar",
+          "zh": "读取水面的声呐"
+        },
+        "detail": {
+          "en": "Echolocation can detect ripples made by prey close to the surface.",
+          "zh": "回声定位可探测猎物在水面附近造成的涟漪。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Cheek pouches",
+          "zh": "颊囊"
+        },
+        "detail": {
+          "en": "Expandable cheek pouches help hold fish while the bat remains in flight.",
+          "zh": "可扩张颊囊有助在飞行中暂存鱼类。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "It connects aquatic and terrestrial food webs by removing fish and insects from the water and depositing remains and guano at roosts. It is also prey for owls, snakes and other nocturnal predators.",
+      "zh": "它从水中捕食鱼和昆虫，并在栖息地留下残骸与粪便，从而连接水生和陆生食物网；它也会成为猫头鹰、蛇及其他夜行捕食者的猎物。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Globally Least Concern, but local colonies can be lost through roost destruction, wetland degradation, water pollution and deliberate bat control.",
+        "zh": "全球为无危，但局部群体可能因栖息地毁坏、湿地退化、水污染和人为灭蝠而消失。"
+      },
+      "actions": {
+        "en": "Protect hollow trees and cave roosts near clean waterways, reduce pesticide and contaminant inputs, and retain calm shoreline foraging zones.",
+        "zh": "应保护清洁水域附近的树洞与洞穴栖息地，减少农药和污染物输入，并保留平静的岸边觅食区。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A large reddish or gray-brown bat with a wrinkled, bulldog-like muzzle, narrow pointed wings, very long legs and conspicuously oversized feet.",
+        "zh": "大型、红褐或灰褐色蝙蝠，吻部皱褶似斗牛犬，翼狭尖，后腿很长，脚异常巨大醒目。"
+      },
+      "similar_species": {
+        "en": "The Lesser Bulldog Bat is smaller, has proportionally smaller feet and relies more heavily on insects. Exact photographs should show the large feet and robust body, not merely a bat over water.",
+        "zh": "小兔唇蝠体型更小，脚相对较小，更偏食昆虫。可靠照片应能看到巨足和粗壮体型，不能只凭“水面上的蝙蝠”判断。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Rapid ultrasonic calls guide flight and locate surface prey. Smell and social calls are important within crowded roosts, while tactile feedback from feet helps secure a catch.",
+      "zh": "快速超声叫声用于导航和定位水面猎物。嗅觉和社会叫声在拥挤栖息地中很重要，足部触觉反馈则帮助抓稳猎物。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Foraging follows local fish, insect and rainfall cycles. Reproductive timing differs among regions, so a single month range should not be applied across its entire tropical distribution.",
+      "zh": "觅食随当地鱼类、昆虫和降雨周期变化。各地繁殖时间不同，不能把单一月份范围套用于整个热带分布区。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Its fishing behavior fascinates observers, but colonies in roofs or structures may create conflict. Exclusion should occur only outside maternity periods and preserve alternative roosts.",
+      "zh": "其捕鱼行为很受关注，但在屋顶或建筑中栖息可能引发冲突。封堵应避开育幼期，并保留替代栖息地。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Greater Bulldog Bat is placed in genus Noctilio, family Noctilionidae, order Chiroptera. This record follows the accepted binomial Noctilio leporinus and does not transfer claims or images from look-alike species.",
+      "zh": "大兔唇蝠归入兔唇蝠属、兔唇蝠科、翼手目。本条目采用接受学名Noctilio leporinus，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "At dusk, look for a large bat flying repeated low passes over open water and briefly dragging both feet across the surface. Roost droppings may contain fish scales or insect remains.",
+      "zh": "黄昏时可寻找在开阔水面反复低飞、短暂用双足划过水面的较大蝙蝠；栖息地粪便中可能含鱼鳞或昆虫残片。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "It can detect a fish's wake with echolocation even when the fish is just below the surface.",
+          "zh": "即使鱼只在水面下方游动，它也能用回声定位探测其尾流。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The hind feet are proportionally among the largest of any bat.",
+          "zh": "它的后足相对体型而言在蝙蝠中名列前茅。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Most food is caught by the bat itself; fishing is not limited to scavenging dead fish.",
+          "zh": "其食物大多由自己捕获，捕鱼并非只捡食死鱼。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "A mammal that fishes in flight",
+          "zh": "飞行捕鱼的哺乳动物"
+        },
+        "content": {
+          "en": "The bat remains airborne while its feet trace the surface. Once the claws hook prey, the tail membrane and cheek pouches help control the catch before it is eaten.",
+          "zh": "蝙蝠保持飞行，让双足划过水面。爪钩住猎物后，尾膜和颊囊帮助控制猎物，再将其吃掉。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Occurs from western and southern Mexico through Central America and much of tropical South America to northern Argentina and southeastern Brazil, as well as many Caribbean islands. Suitable areas combine open water with nearby daytime roosts.",
+    "text_zh": "从墨西哥西部和南部经中美洲，广布至南美热带地区、阿根廷北部和巴西东南部，也见于许多加勒比岛屿。适宜地点需同时具有开阔水面和附近的日间栖息处。",
+    "map_coordinates": [
+      5,
+      -73
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          31,
+          -116
+        ],
+        [
+          27,
+          -97
+        ],
+        [
+          18,
+          -85
+        ],
+        [
+          24,
+          -81
+        ],
+        [
+          20,
+          -74
+        ],
+        [
+          10,
+          -61
+        ],
+        [
+          4,
+          -51
+        ],
+        [
+          -5,
+          -35
+        ],
+        [
+          -24,
+          -42
+        ],
+        [
+          -35,
+          -58
+        ],
+        [
+          -25,
+          -68
+        ],
+        [
+          -8,
+          -78
+        ],
+        [
+          8,
+          -82
+        ],
+        [
+          18,
+          -105
+        ],
+        [
+          31,
+          -116
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/greater-bulldog-bat.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2433343",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2433343/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Noctilio_leporinus/",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Noctilio_leporinus/",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Animal Diversity Web range account",
+      "url": "https://animaldiversity.org/accounts/Noctilio_leporinus/",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

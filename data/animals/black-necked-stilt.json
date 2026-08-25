@@ -1,0 +1,447 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "black-necked-stilt",
+  "name_zh": "黑颈长脚鹬",
+  "name_en": "Black-necked Stilt",
+  "scientific_name": "Himantopus mexicanus",
+  "ui_tags": [
+    "Bird",
+    "Wetland",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Charadriiformes",
+      "zh": "鸻形目"
+    },
+    "family": {
+      "en": "Recurvirostridae",
+      "zh": "反嘴鹬科"
+    },
+    "genus": {
+      "en": "Himantopus",
+      "zh": "长脚鹬属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The project follows the species-level treatment Himantopus mexicanus. The linked current global IUCN category is Least Concern under a broader Himantopus himantopus treatment, so it is not presented as a separate global assessment of H. mexicanus.",
+    "note_zh": "本项目采用物种级处理Himantopus mexicanus。关联的当前IUCN全球无危等级来自更宽泛的Himantopus himantopus处理，因此不把它表述为对H. mexicanus的独立全球评估。"
+  },
+  "description": {
+    "en": "The Black-necked Stilt is an exceptionally long-legged shorebird of shallow wetlands in the Americas. It wades through water on pink legs, picking or sweeping small aquatic animals with a straight, needle-like bill.",
+    "zh": "黑颈长脚鹬是美洲浅水湿地中腿极长的涉禽。它以粉红长腿涉水，用笔直针状喙啄取或扫捕小型水生动物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are about 35–40 cm long but stand much taller because of extremely elongated pink legs. The upperparts and narrow wings are black, the underparts are white, and the straight black bill is thin and slightly upturned at most.",
+      "zh": "成鸟体长约35–40厘米，但因粉红色长腿极度延长而显得高得多。上体和狭长双翼为黑色，下体白色，黑喙细直，最多仅轻微上翘。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It forages in salt ponds, sewage lagoons, flooded fields, marshes and shallow lake edges, taking aquatic insects, crustaceans, worms, snails and small fish. Pairs defend nesting territories vigorously.",
+      "zh": "它在盐池、污水塘、淹水农田、沼泽和浅湖岸觅食，捕食水生昆虫、甲壳类、蠕虫、螺和小鱼。繁殖配偶会强烈保卫巢区。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Resident or migratory across suitable wetlands from the western and southern United States through Mexico, Central America, the Caribbean and much of South America. Distribution is patchy because the species follows shallow water rather than continuous land habitat.",
+      "zh": "在美国西部和南部、墨西哥、中美洲、加勒比及南美大部的适宜湿地中留居或迁徙。由于它追随浅水环境而非连续陆地，分布天然呈斑块状。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "length",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "About 35–40 cm",
+          "zh": "约35–40厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "clutch",
+        "label": {
+          "en": "Clutch",
+          "zh": "窝卵数"
+        },
+        "value": {
+          "en": "Usually 2–5 eggs",
+          "zh": "通常2–5枚卵"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "incubation",
+        "label": {
+          "en": "Incubation",
+          "zh": "孵化期"
+        },
+        "value": {
+          "en": "About 24–29 days",
+          "zh": "约24–29天"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Aquatic invertebrates and small fish",
+          "zh": "水生无脊椎动物和小鱼"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Pairs scrape a shallow ground nest on an island, dike or open shore and usually lay two to five eggs. Both parents incubate for about 24–29 days; downy chicks leave the nest quickly and feed themselves while guarded by adults.",
+      "zh": "配偶在小岛、堤岸或开阔岸边刨出浅地巢，通常产两至五枚卵。双亲共同孵化约24–29天；绒羽雏鸟很快离巢自行觅食，但仍受成鸟保护。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Extra-long legs",
+          "zh": "超长腿"
+        },
+        "detail": {
+          "en": "Long legs reach feeding water too deep for many smaller shorebirds while keeping feathers dry.",
+          "zh": "长腿能进入许多小型涉禽无法利用的较深水域，并让羽毛保持干燥。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Needle bill",
+          "zh": "针状喙"
+        },
+        "detail": {
+          "en": "The slender bill picks prey from the surface and probes or sweeps through shallow water.",
+          "zh": "细喙可从水面啄取猎物，也能在浅水中探取或扫捕。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Distraction defense",
+          "zh": "诱敌防巢"
+        },
+        "detail": {
+          "en": "Adults circle, call and perform conspicuous distraction displays to draw predators from eggs or chicks.",
+          "zh": "成鸟会盘旋、鸣叫并作醒目的诱敌展示，把捕食者从卵或雏鸟处引开。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "By feeding on aquatic invertebrates and small vertebrates, stilts transfer energy from shallow-water communities to higher trophic levels. Their nesting success also reflects water depth, salinity and disturbance.",
+      "zh": "通过捕食水生无脊椎动物和小型脊椎动物，长脚鹬把浅水群落能量传递到更高营养级；其繁殖成功也反映水深、盐度与干扰状况。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "stable",
+      "threats": {
+        "en": "The broader global taxon is Least Concern and the North American population is generally stable, but nesting colonies can fail after rapid water-level change, pollution, predators or human disturbance.",
+        "zh": "较宽泛的全球分类单元为无危，北美种群总体稳定，但水位骤变、污染、捕食者或人类干扰可导致巢群繁殖失败。"
+      },
+      "actions": {
+        "en": "Manage shallow-water mosaics through the breeding season, protect small nesting islands from disturbance and introduced predators, and monitor contaminants in managed wetlands.",
+        "zh": "应在繁殖期维持浅水镶嵌生境，保护小型筑巢岛免受干扰和外来捕食者影响，并监测人工湿地污染物。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Very long bubblegum-pink legs, white underparts, black back and wings, and a straight thin black bill. In flight the legs project far beyond the tail.",
+        "zh": "泡泡糖粉色的超长腿、白色下体、黑色背翼和细直黑喙；飞行时双腿远伸出尾后。"
+      },
+      "similar_species": {
+        "en": "American Avocets have a strongly upturned bill and different seasonal plumage. White-backed Stilt and Hawaiian Stilt differ in back or head pattern and range; geographic provenance is essential.",
+        "zh": "美洲反嘴鹬的喙明显上翘，季节羽色也不同。白背长脚鹬和夏威夷长脚鹬在背部或头部图案及分布上不同，地点来源至关重要。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Vision guides precise prey capture in shallow water. Sharp yelping calls coordinate territorial defense and warn chicks, which crouch or hide when adults alarm.",
+      "zh": "视觉引导浅水中精确捕食。尖锐吠叫用于协同领地防御和警告雏鸟，雏鸟听到警报会伏低或躲藏。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Northern breeders migrate or disperse after nesting, while many tropical populations remain local and follow changing water levels. A drying basin can concentrate prey briefly before becoming unusable.",
+      "zh": "北方繁殖个体繁殖后迁徙或扩散，许多热带种群则留居并追随水位变化。正在干涸的水盆可短期集中猎物，之后便失去利用价值。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The species readily uses saltworks, treatment ponds and flooded fields, bringing it close to people. Access around active ground nests should be restricted because eggs and chicks are easily trampled.",
+      "zh": "它常利用盐场、污水处理塘和淹水农田，因而接近人类。活跃地巢周围应限制进入，因为卵和雏鸟很容易被踩踏。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Black-necked Stilt is placed in genus Himantopus, family Recurvirostridae, order Charadriiformes. This record follows the accepted binomial Himantopus mexicanus and does not transfer claims or images from look-alike species.",
+      "zh": "黑颈长脚鹬归入长脚鹬属、反嘴鹬科、鸻形目。本条目采用接受学名Himantopus mexicanus，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for high, yelping calls over shallow open water, long paired footprints in mud and simple pebble-lined scrapes on low islands. Defensive adults usually reveal a nest area before the nest itself is seen.",
+      "zh": "可寻找浅水上空尖锐高叫、泥地长而成对的足迹及低矮小岛上铺少量砾石的浅巢。防御性成鸟往往在巢被看到前就暴露巢区。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Relative to body size, its legs are among the longest of any bird.",
+          "zh": "相对体型而言，它的腿在鸟类中属于最长之列。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The chicks can walk and feed soon after hatching.",
+          "zh": "雏鸟孵化后不久便能行走和自行取食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Adults may dive-bomb mammals and people that approach a nest.",
+          "zh": "哺乳动物或人接近巢时，成鸟可能俯冲驱赶。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Precocial wetland chicks",
+          "zh": "早成型湿地雏鸟"
+        },
+        "content": {
+          "en": "Camouflaged downy chicks leave the scrape soon after hatching. Parents do not deliver food; instead they guard, brood and guide chicks to shallow feeding areas.",
+          "zh": "具伪装绒羽的雏鸟孵化后很快离开浅巢。双亲不直接喂食，而是守护、保温并引导雏鸟到浅水觅食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Resident or migratory across suitable wetlands from the western and southern United States through Mexico, Central America, the Caribbean and much of South America. Distribution is patchy because the species follows shallow water rather than continuous land habitat.",
+    "text_zh": "在美国西部和南部、墨西哥、中美洲、加勒比及南美大部的适宜湿地中留居或迁徙。由于它追随浅水环境而非连续陆地，分布天然呈斑块状。",
+    "map_coordinates": [
+      15,
+      -85
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          50,
+          -127
+        ],
+        [
+          49,
+          -95
+        ],
+        [
+          35,
+          -75
+        ],
+        [
+          24,
+          -80
+        ],
+        [
+          18,
+          -105
+        ],
+        [
+          32,
+          -118
+        ],
+        [
+          50,
+          -127
+        ]
+      ],
+      [
+        [
+          30,
+          -111
+        ],
+        [
+          28,
+          -80
+        ],
+        [
+          9,
+          -76
+        ],
+        [
+          6,
+          -90
+        ],
+        [
+          18,
+          -105
+        ],
+        [
+          30,
+          -111
+        ]
+      ],
+      [
+        [
+          12,
+          -78
+        ],
+        [
+          5,
+          -52
+        ],
+        [
+          -8,
+          -36
+        ],
+        [
+          -38,
+          -57
+        ],
+        [
+          -52,
+          -70
+        ],
+        [
+          -22,
+          -78
+        ],
+        [
+          1,
+          -82
+        ],
+        [
+          12,
+          -78
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/black-necked-stilt.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/5229128",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/5229128/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "U.S. Fish & Wildlife Service species-habitat account",
+      "url": "https://www.fws.gov/sites/default/files/documents/2024-04/1976.pdf",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "U.S. Fish & Wildlife Service species-habitat account",
+      "url": "https://www.fws.gov/sites/default/files/documents/2024-04/1976.pdf",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "U.S. Fish & Wildlife Service distribution account",
+      "url": "https://www.fws.gov/sites/default/files/documents/2024-04/1976.pdf",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

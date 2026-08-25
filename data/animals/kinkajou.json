@@ -1,0 +1,403 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "kinkajou",
+  "name_zh": "蜜熊",
+  "name_en": "Kinkajou",
+  "scientific_name": "Potos flavus",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Frugivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Procyonidae",
+      "zh": "浣熊科"
+    },
+    "genus": {
+      "en": "Potos",
+      "zh": "蜜熊属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Kinkajou is a nocturnal rainforest mammal related to raccoons, not monkeys. A fully prehensile tail, rotating ankles and flexible spine let it travel headfirst and hang beneath tropical American canopies while searching for fruit and nectar.",
+    "zh": "蜜熊是与浣熊近缘、而非猴类的夜行雨林哺乳动物。完全可缠握的尾巴、可旋转踝部和灵活脊柱，让它能在热带美洲树冠中头朝下移动、悬挂取食果实和花蜜。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults weigh about 2–4.6 kg and measure roughly 82–133 cm including the long tail. Dense golden-brown fur, a round face, large eyes, small rounded ears and a long protrusible tongue suit nocturnal canopy feeding.",
+      "zh": "成体重约2–4.6千克，连长尾全长约82–133厘米。浓密金棕毛、圆脸、大眼、小圆耳和可伸出的长舌适合夜间树冠取食。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Kinkajous sleep in tree cavities by day and forage after dark, mostly for ripe fruit but also nectar, flowers, insects and occasional small vertebrates. They are agile climbers and can be social at feeding or sleeping sites.",
+      "zh": "蜜熊白天睡在树洞中，夜间主要寻找成熟果实，也吃花蜜、花、昆虫和偶尔的小型脊椎动物。它们攀爬灵活，在取食或睡眠地点可能表现出社会性。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Found from southern Mexico through Central America and across much of tropical South America east of the Andes to southern Brazil. It depends on forest canopy in lowland rainforest, seasonally dry forest and some secondary growth.",
+      "zh": "从墨西哥南部经中美洲，广布至安第斯山以东的大部分南美热带地区，南达巴西南部。它依赖低地雨林、季节性干林及部分次生林的树冠。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "total_length",
+        "label": {
+          "en": "Total length",
+          "zh": "全长"
+        },
+        "value": {
+          "en": "About 82–133 cm including tail",
+          "zh": "连尾约82–133厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Mass",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 2–4.6 kg",
+          "zh": "约2–4.6千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Main diet",
+          "zh": "主要食物"
+        },
+        "value": {
+          "en": "Ripe fruit, with nectar and animal prey",
+          "zh": "成熟果实，也取食花蜜和动物性猎物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "tail",
+        "label": {
+          "en": "Tail",
+          "zh": "尾巴"
+        },
+        "value": {
+          "en": "Fully prehensile and used as a fifth limb",
+          "zh": "完全可缠握，可作第五肢"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Breeding may occur year-round in some regions. After a gestation of about four months, a female usually gives birth to one young in a tree cavity; the juvenile is carried and guarded until it can follow through the canopy.",
+      "zh": "部分地区全年都可能繁殖。妊娠约四个月后，雌性通常在树洞中产一仔；幼仔会被携带和保护，直至能跟随母亲穿行树冠。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Prehensile tail",
+          "zh": "缠握尾"
+        },
+        "detail": {
+          "en": "The muscular tail wraps securely around branches and supports the body while feeding.",
+          "zh": "肌肉发达的尾巴可牢牢缠住树枝，在取食时支撑身体。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Reversible ankles",
+          "zh": "可旋转踝部"
+        },
+        "detail": {
+          "en": "Hind feet can turn backward, allowing controlled headfirst descent down trunks.",
+          "zh": "后足可向后转，使它能头朝下受控地沿树干下降。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Long nectar tongue",
+          "zh": "长花蜜舌"
+        },
+        "detail": {
+          "en": "A narrow extensible tongue reaches nectar and soft fruit in places the muzzle cannot enter.",
+          "zh": "细长可伸舌能舔取吻部无法进入处的花蜜和软果肉。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Kinkajous disperse seeds after eating fruit and may pollinate flowers while taking nectar. As medium-sized canopy mammals they also serve as prey and competitors within tropical forest food webs.",
+      "zh": "蜜熊食果后传播种子，取食花蜜时也可能帮助授粉。作为中型树冠哺乳动物，它们在热带森林食物网中也是猎物和竞争者。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Globally Least Concern but decreasing. Forest loss, hunting for meat or skins and capture for the pet trade remove animals and hollow-tree den sites.",
+        "zh": "全球为无危但呈下降趋势。森林丧失、为肉或毛皮而猎捕，以及宠物贸易捕捉都会减少个体和树洞巢址。"
+      },
+      "actions": {
+        "en": "Maintain connected canopy and large hollow trees, enforce wildlife-trade controls, and discourage private ownership of animals whose nocturnal and social needs are difficult to meet.",
+        "zh": "应维持连通树冠和大型树洞，执行野生动物贸易管制，并劝阻私人饲养这种夜行且社会需求难以满足的动物。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A golden-brown, round-faced mammal with large dark eyes, tiny rounded ears and a very long uniformly furred prehensile tail, often hanging below a branch.",
+        "zh": "金棕色圆脸哺乳动物，大而深色的眼睛、小圆耳和全长均匀覆毛的缠握长尾，常悬挂在树枝下方。"
+      },
+      "similar_species": {
+        "en": "Olingos are usually slimmer with a more pointed face and a tail that is not fully prehensile. Coatis have a visibly ringed tail and spend more time on the ground.",
+        "zh": "长鼻浣熊近亲小型犬浣熊通常更纤细、脸更尖，尾巴不能完全缠握；南美浣熊尾巴有明显环纹，也更多在地面活动。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Large eyes and sensitive hearing support nocturnal travel; scent marking communicates reproductive and social information. Soft calls, whistles and barks help maintain contact in darkness.",
+      "zh": "大眼和敏锐听觉支持夜间活动；气味标记传递繁殖和社会信息。柔和叫声、口哨和吠声帮助在黑暗中保持联系。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Daily routes follow changing fruit and flower crops. Where rainfall creates strong seasons, home-range use shifts among trees rather than following one fixed annual migration.",
+      "zh": "日常路线随果实和花朵供应改变。降雨季节性强的地区，其活动范围会在不同树木间转移，而不是进行固定年度迁徙。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Kinkajous are sometimes sold as exotic pets, but they are nocturnal, strong, long-lived wild carnivorans capable of painful bites. Rescue imagery should not be mistaken for evidence that they make suitable pets.",
+      "zh": "蜜熊有时被当作异宠出售，但它们是夜行、强壮、寿命长且能严重咬伤人的野生食肉目动物。救助照片不能被误读为适合私人饲养的证据。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Kinkajou is placed in genus Potos, family Procyonidae, order Carnivora. This record follows the accepted binomial Potos flavus and does not transfer claims or images from look-alike species.",
+      "zh": "蜜熊归入蜜熊属、浣熊科、食肉目。本条目采用接受学名Potos flavus，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Nighttime eye-shine high in the canopy, fruit remains under feeding trees, musky scent marks and soft contact calls can indicate presence. A thermal camera is less disruptive than bright spotlighting.",
+      "zh": "夜间树冠高处的眼光、取食树下果实残片、麝香气味标记和轻柔联系叫声可提示存在。热成像比强光照射干扰更小。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Its tail can support its full body weight but is not used to grasp food.",
+          "zh": "它的尾巴可支撑全身体重，但并不用来抓取食物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Although it looks monkey-like, it belongs to the raccoon family.",
+          "zh": "虽然外形像猴，它其实属于浣熊科。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "The spine can twist unusually far, helping the animal reverse direction on narrow branches.",
+          "zh": "其脊柱可大幅扭转，帮助在狭窄树枝上改变方向。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Canopy mammal mechanics",
+          "zh": "树冠哺乳动物力学"
+        },
+        "content": {
+          "en": "The prehensile tail anchors the body while all four paws manipulate footing. Rotating ankles then allow a controlled headfirst descent instead of an awkward backward climb.",
+          "zh": "缠握尾固定身体，四足调整落点；可旋转踝部让它能受控地头朝下下树，而不必笨拙倒退。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Found from southern Mexico through Central America and across much of tropical South America east of the Andes to southern Brazil. It depends on forest canopy in lowland rainforest, seasonally dry forest and some secondary growth.",
+    "text_zh": "从墨西哥南部经中美洲，广布至安第斯山以东的大部分南美热带地区，南达巴西南部。它依赖低地雨林、季节性干林及部分次生林的树冠。",
+    "map_coordinates": [
+      1,
+      -66
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          23,
+          -106
+        ],
+        [
+          18,
+          -86
+        ],
+        [
+          10,
+          -77
+        ],
+        [
+          4,
+          -52
+        ],
+        [
+          -10,
+          -45
+        ],
+        [
+          -28,
+          -50
+        ],
+        [
+          -27,
+          -63
+        ],
+        [
+          -15,
+          -74
+        ],
+        [
+          0,
+          -79
+        ],
+        [
+          13,
+          -91
+        ],
+        [
+          23,
+          -106
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/kinkajou.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2433573",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2433573/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Potos_flavus/",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Potos_flavus/",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Animal Diversity Web range account",
+      "url": "https://animaldiversity.org/accounts/Potos_flavus/",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

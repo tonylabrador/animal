@@ -1,0 +1,465 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "nicobar-pigeon",
+  "name_zh": "尼柯巴鸠",
+  "name_en": "Nicobar Pigeon",
+  "scientific_name": "Caloenas nicobarica",
+  "ui_tags": [
+    "Bird",
+    "Island",
+    "Frugivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Columbiformes",
+      "zh": "鸽形目"
+    },
+    "family": {
+      "en": "Columbidae",
+      "zh": "鸠鸽科"
+    },
+    "genus": {
+      "en": "Caloenas",
+      "zh": "尼柯巴鸠属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Near Threatened; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为近危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Nicobar Pigeon is a large ground-feeding island pigeon with shimmering green, blue and copper plumage and a white tail. It moves among small forested islands of the eastern Indian Ocean and western Pacific in search of fruit and seeds.",
+    "zh": "尼柯巴鸠是大型岛屿地栖鸽，羽毛闪耀绿、蓝和铜色光泽，尾巴白色。它在东印度洋和西太平洋的小型森林岛屿间移动，寻找果实和种子。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are about 32–40 cm long and weigh roughly 460–600 g. Long neck hackles, metallic dark body feathers, reddish legs, a black bill with a small knob and a conspicuous white tail identify adults.",
+      "zh": "成鸟体长约32–40厘米，体重约460–600克。长颈饰羽、带金属光泽的深色体羽、红腿、带小瘤的黑喙和醒目白尾是成鸟特征。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It walks on the forest floor at dawn and dusk, swallowing fallen fruit and seeds and also taking invertebrates. Birds may commute over sea between predator-free breeding islets and larger feeding islands.",
+      "zh": "它在黎明和黄昏于林地地面行走，吞食落果和种子，也取食无脊椎动物。个体可能跨海往返于无捕食者的繁殖小岛和较大的取食岛。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Occurs discontinuously from the Nicobar and Andaman region through the Malay Archipelago and Philippines to New Guinea, Palau and the Solomon Islands. It relies on intact lowland island forest and safe colony sites.",
+      "zh": "从尼科巴—安达曼地区经马来群岛和菲律宾，至新几内亚、帕劳和所罗门群岛呈不连续分布。它依赖完整的低地岛屿森林和安全繁殖群址。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "length",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "About 32–40 cm",
+          "zh": "约32–40厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Mass",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 460–600 g",
+          "zh": "约460–600克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "clutch",
+        "label": {
+          "en": "Typical clutch",
+          "zh": "通常窝卵数"
+        },
+        "value": {
+          "en": "One egg",
+          "zh": "一枚卵"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Fallen fruit, seeds and invertebrates",
+          "zh": "落果、种子和无脊椎动物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "A flimsy twig nest is built in a tree or shrub at a colony, and a single white egg is usual. Both parents incubate for about a month and feed the chick crop milk before it begins taking solid food.",
+      "zh": "繁殖群中会在树或灌木上搭建简陋枝巢，通常产一枚白卵。双亲共同孵化约一个月，并先以嗉囊乳喂养雏鸟，之后才逐渐给予固体食物。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Island commuting",
+          "zh": "岛间通勤"
+        },
+        "detail": {
+          "en": "Strong direct flight lets birds separate safe nesting islands from richer feeding islands.",
+          "zh": "强劲直线飞行让它能把安全筑巢岛与食物更丰富的取食岛分开利用。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Ground-fruit body plan",
+          "zh": "地面食果体型"
+        },
+        "detail": {
+          "en": "Powerful legs and a robust bill suit walking through litter and swallowing large fallen seeds.",
+          "zh": "强健双腿和粗壮喙适合穿行落叶层并吞食较大落地种子。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "White tail signal",
+          "zh": "白尾信号"
+        },
+        "detail": {
+          "en": "The bright tail is conspicuous when a dark bird takes flight in dim forest and may help flock members maintain contact.",
+          "zh": "深色鸟在昏暗林中起飞时，亮白尾十分醒目，可能帮助群体保持联系。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "By swallowing fruit and moving between islands, Nicobar Pigeons disperse seeds over distances that many terrestrial animals cannot cross. Their colony guano also transfers marine-island nutrients locally.",
+      "zh": "尼柯巴鸠吞食果实并在岛间飞行，可把种子传播到许多陆生动物无法跨越的距离；繁殖群粪便也在局部转移岛屿养分。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Near Threatened and decreasing because of hunting, forest loss, trapping for trade and introduced rats, cats and other predators at nesting colonies.",
+        "zh": "近危且呈下降趋势，威胁包括猎捕、森林丧失、贸易捕捉，以及繁殖群岛上的外来鼠、猫和其他捕食者。"
+      },
+      "actions": {
+        "en": "Protect connected feeding and nesting islands, eradicate or control invasive predators at colonies, enforce hunting and trade rules, and monitor colony occupancy after storms or development.",
+        "zh": "应同时保护相互联系的取食岛和繁殖岛，在巢群控制或清除外来捕食者，执行猎捕与贸易法规，并在风暴或开发后监测巢群占用。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A heavy pigeon with long loose neck hackles, metallic green-blue-copper upperparts, red legs and a clean white tail contrasting with the dark body.",
+        "zh": "体型粗壮，颈部有长而松散的饰羽，上体呈金属绿蓝铜色，腿红，纯白尾与深色身体形成鲜明对比。"
+      },
+      "similar_species": {
+        "en": "Imperial pigeons may share island forests but lack the combination of long hackles and a white tail. Captive images must show the exact adult pattern; juveniles are duller and have a less distinct white tail.",
+        "zh": "皇鸠也生活在岛屿森林，但没有“长颈饰羽加白尾”的组合。圈养照片必须显示成鸟准确图案；幼鸟更暗淡，白尾不那么明显。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Vision locates fruit and flock members on the forest floor. Soft coos and flight signals maintain contact, while the white tail flashes conspicuously during departure.",
+      "zh": "视觉用于寻找果实和地面群伴；低沉咕咕声与飞行信号保持联系，起飞时白尾会明显闪现。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding timing differs among island groups and food supply follows local fruiting seasons. Daily activity often peaks in the cooler light of dawn and dusk.",
+      "zh": "不同岛群繁殖时间不同，食物供应随当地结果季变化。日常活动常在较凉爽的黎明和黄昏达到高峰。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The striking plumage drives zoo interest and illegal trade, while island communities may hunt the birds. Conservation must protect both feeding forest and the small colony islands that can be overlooked.",
+      "zh": "醒目羽色带来动物园关注，也刺激非法贸易，岛屿社区还可能猎食。保护必须兼顾取食森林和容易被忽视的小型繁殖群岛。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Nicobar Pigeon is placed in genus Caloenas, family Columbidae, order Columbiformes. This record follows the accepted binomial Caloenas nicobarica and does not transfer claims or images from look-alike species.",
+      "zh": "尼柯巴鸠归入尼柯巴鸠属、鸠鸽科、鸽形目。本条目采用接受学名Caloenas nicobarica，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "On a feeding island, look for large pigeon tracks, swallowed-fruit droppings and birds walking quietly at dawn. At colonies, observe only from a distance because ground predators and disturbance can cause nesting failure.",
+      "zh": "在取食岛可寻找大型鸽足迹、含果实残留的粪便及黎明安静步行的鸟。繁殖群只能远距离观察，因为地面捕食者和干扰会造成失败。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "It is the closest living relative commonly cited for the extinct dodo within modern phylogenetic studies.",
+          "zh": "现代系统发育研究通常把它列为灭绝渡渡鸟最近的现生近亲之一。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Birds may cross open sea every day between sleeping or nesting and feeding islands.",
+          "zh": "个体可能每天跨越开阔海面，在睡眠或筑巢岛与取食岛之间往返。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The iridescent colors come from feather structure interacting with light, not simply green pigment.",
+          "zh": "其虹彩来自羽毛微结构与光线作用，而不只是绿色色素。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Crop milk",
+          "zh": "嗉囊乳"
+        },
+        "content": {
+          "en": "Like other pigeons, both parents produce nutrient-rich crop milk for the chick. This lets a single nestling grow quickly before transitioning to softened solid food.",
+          "zh": "与其他鸽类一样，双亲都为雏鸟产生富营养的嗉囊乳，使单只雏鸟快速生长，再逐渐过渡到软化固体食物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Occurs discontinuously from the Nicobar and Andaman region through the Malay Archipelago and Philippines to New Guinea, Palau and the Solomon Islands. It relies on intact lowland island forest and safe colony sites.",
+    "text_zh": "从尼科巴—安达曼地区经马来群岛和菲律宾，至新几内亚、帕劳和所罗门群岛呈不连续分布。它依赖完整的低地岛屿森林和安全繁殖群址。",
+    "map_coordinates": [
+      7,
+      114
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          14,
+          92
+        ],
+        [
+          12,
+          96
+        ],
+        [
+          6,
+          98
+        ],
+        [
+          4,
+          94
+        ],
+        [
+          8,
+          91
+        ],
+        [
+          14,
+          92
+        ]
+      ],
+      [
+        [
+          8,
+          99
+        ],
+        [
+          10,
+          118
+        ],
+        [
+          2,
+          123
+        ],
+        [
+          -8,
+          116
+        ],
+        [
+          -8,
+          103
+        ],
+        [
+          1,
+          98
+        ],
+        [
+          8,
+          99
+        ]
+      ],
+      [
+        [
+          20,
+          118
+        ],
+        [
+          19,
+          127
+        ],
+        [
+          6,
+          128
+        ],
+        [
+          5,
+          119
+        ],
+        [
+          14,
+          117
+        ],
+        [
+          20,
+          118
+        ]
+      ],
+      [
+        [
+          3,
+          130
+        ],
+        [
+          6,
+          147
+        ],
+        [
+          -5,
+          156
+        ],
+        [
+          -11,
+          145
+        ],
+        [
+          -7,
+          132
+        ],
+        [
+          3,
+          130
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/nicobar-pigeon.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/5231891",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/5231891/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Oregon Zoo",
+      "url": "https://www.oregonzoo.org/animals/nicobar-pigeon",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Sarawak Forestry Corporation",
+      "url": "https://forestry.sarawak.gov.my/web/subpage/webpage_view/908",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Taipei Zoo",
+      "url": "https://www.zoo.gov.taipei/News_Content.aspx?n=E8B711DCCEA7FB27&s=B4FCBB825D8B49C4&sms=22DFAAE8435F6CED",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

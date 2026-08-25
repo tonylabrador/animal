@@ -1,0 +1,409 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "philippine-tarsier",
+  "name_zh": "菲律宾眼镜猴",
+  "name_en": "Philippine Tarsier",
+  "scientific_name": "Carlito syrichta",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Primates",
+      "zh": "灵长目"
+    },
+    "family": {
+      "en": "Tarsiidae",
+      "zh": "眼镜猴科"
+    },
+    "genus": {
+      "en": "Carlito",
+      "zh": "菲律宾眼镜猴属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Near Threatened; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为近危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Philippine Tarsier is a tiny nocturnal primate found only in the southern and eastern Philippines. Enormous fixed eyes, mobile ears and elongated ankle bones help it detect and pounce on insects among dense branches.",
+    "zh": "菲律宾眼镜猴是仅见于菲律宾南部和东部的微小夜行灵长类。巨大的固定眼球、灵活耳朵和细长跗骨帮助它在密集枝叶中发现并扑捉昆虫。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The body is only about 8–16 cm long and commonly weighs 85–165 g, but the tail is much longer. Each eye is roughly as large as the animal's brain, and the head can rotate widely because the eyes do not swivel in their sockets.",
+      "zh": "身体仅约8–16厘米长，通常重85–165克，但尾巴远长于身体。每只眼睛约与其大脑相当大；由于眼球不能在眼窝内转动，头部可以大幅旋转。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It is nocturnal, vertical-clinging and leaping, and feeds on live animal prey such as insects and spiders, with small lizards or other vertebrates also taken. It rests by day in dense low vegetation.",
+      "zh": "它夜行，善于垂直攀附和跳跃，取食昆虫、蜘蛛等活动的动物猎物，也会捕食小蜥蜴等脊椎动物。白天藏在低矮茂密植被中休息。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to Mindanao, Samar, Leyte, Bohol and several nearby Philippine islands. It uses primary and secondary lowland forest, scrub and mixed vegetation where dense vertical supports remain.",
+      "zh": "特有于棉兰老岛、萨马岛、莱特岛、薄荷岛及附近若干菲律宾岛屿。它利用低地原生林、次生林、灌丛和仍保留密集垂直支撑的混合植被。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_length",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "About 8–16 cm",
+          "zh": "约8–16厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Mass",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 85–165 g",
+          "zh": "约85–165克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Live insects and other small animal prey",
+          "zh": "活昆虫及其他小型动物猎物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Nocturnal; rests in dense cover by day",
+          "zh": "夜行；白天在密植被中休息"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "A female generally gives birth to one relatively large, furred young after a gestation of about six months. The newborn can cling and is carried or parked on vegetation while the mother forages.",
+      "zh": "雌性经过约六个月妊娠，通常产下一只体型相对较大且已长毛的幼仔。新生幼仔能抓附，母亲觅食时会携带它或把它暂放在植被上。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Huge night eyes",
+          "zh": "巨型夜眼"
+        },
+        "detail": {
+          "en": "Large retinas collect scarce light; head rotation compensates for eyes that cannot move in their sockets.",
+          "zh": "大视网膜收集微弱光线；由于眼球不能转动，头部旋转作出补偿。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Elongated tarsus",
+          "zh": "细长跗骨"
+        },
+        "detail": {
+          "en": "Lengthened ankle bones and powerful hind limbs launch precise leaps between vertical stems.",
+          "zh": "加长的踝部跗骨和强劲后肢可在直立枝干间精确跳跃。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Mobile ears",
+          "zh": "灵活耳朵"
+        },
+        "detail": {
+          "en": "Thin independently moving ears help pinpoint rustling insect prey in darkness.",
+          "zh": "薄而可独立转动的耳朵帮助在黑暗中定位昆虫窸窣声。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a small predator, it removes large numbers of insects and other arthropods and transfers that energy to snakes, owls and other predators. Its habitat needs also make it sensitive to forest structure.",
+      "zh": "作为小型捕食者，它捕食大量昆虫和其他节肢动物，并把能量传递给蛇、猫头鹰等捕食者。它对植被结构的需求也使其对森林变化敏感。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Near Threatened and decreasing, with pressure from forest clearing, fragmentation, hunting and capture for the pet or tourist-photo trade. Stress and improper captivity cause severe welfare problems.",
+        "zh": "近危且呈下降趋势，威胁包括森林清除与破碎化、猎捕以及宠物或游客合影贸易。压力和不当圈养会造成严重福利问题。"
+      },
+      "actions": {
+        "en": "Protect connected native and secondary forest, enforce wildlife-trade restrictions, and support observation venues that keep visitors quiet, distant and away from animals' daytime refuges.",
+        "zh": "应保护连通的原生林和次生林，执行野生动物贸易限制，并支持让游客保持安静、距离且不进入日间隐蔽处的观察方式。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A tiny primate with immense round eyes, very large membranous ears, long hind legs, suction-like fingertip pads and a long mostly bare tail with a tufted end.",
+        "zh": "微小灵长类，具有巨大圆眼、很大的膜质耳、长后腿、吸盘状指垫和末端有毛簇、其余多裸露的长尾。"
+      },
+      "similar_species": {
+        "en": "Other tarsiers occur on different Southeast Asian islands and can look very similar. Exact island locality and accepted species range are essential; a captive photo without provenance is not enough.",
+        "zh": "其他眼镜猴分布在东南亚不同岛屿，外形可能极相似。必须结合确切岛屿地点和物种分布；没有来源信息的圈养照片不足以鉴定。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Vision and directional hearing dominate nocturnal hunting. Tarsiers communicate with calls, including very high-frequency sounds, and use scent marks and tactile contact at close range.",
+      "zh": "视觉和定向听觉主导夜间捕猎。眼镜猴以叫声交流，其中包括很高频率的声音，也在近距离使用气味标记和触觉接触。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding and prey availability follow local rainfall rather than a single uniform season across all islands. Day roosts remain important year-round and should not be disturbed.",
+      "zh": "繁殖和猎物供应随当地降雨变化，而非所有岛屿共有一个统一季节。日间休息点全年都重要，不应受扰。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The species is a flagship for Philippine ecotourism, but handling, flash photography and forced daytime display can be harmful. Ethical visits observe naturally resting animals quietly and briefly.",
+      "zh": "它是菲律宾生态旅游的旗舰物种，但抓握、闪光灯和强迫日间展示会造成伤害。负责任参观应安静、短暂地观察自然休息个体。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Philippine Tarsier is placed in genus Carlito, family Tarsiidae, order Primates. This record follows the accepted binomial Carlito syrichta and does not transfer claims or images from look-alike species.",
+      "zh": "菲律宾眼镜猴归入菲律宾眼镜猴属、眼镜猴科、灵长目。本条目采用接受学名Carlito syrichta，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "At night, eye-shine low in dense vegetation, short leaps between upright stems and insect-prey remains may reveal presence. Detection should use dim red light and no playback at close range.",
+      "zh": "夜间在茂密低植被中出现的眼光、直立枝干间短跳及昆虫猎物残片可提示其存在。观察应使用微弱红光，近距离不播放叫声。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Its eyes are fixed in their sockets, so it turns its head to redirect its gaze.",
+          "zh": "它的眼球固定在眼窝中，因此要转头改变视线方向。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Tarsiers are the only living primates that are entirely predatory on animal prey.",
+          "zh": "眼镜猴是现存唯一完全以动物性猎物为食的灵长类。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A newborn is unusually large and well developed relative to its mother.",
+          "zh": "新生幼仔相对母体而言异常大且发育成熟。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Primate without a grasping tail",
+          "zh": "不靠尾抓握的灵长类"
+        },
+        "content": {
+          "en": "The tail balances leaps but is not prehensile. Hands and feet grip narrow supports, while the elongated hind limb supplies most of the launch force.",
+          "zh": "尾巴用于平衡跳跃但不能缠握；手足抓住细枝，细长后肢提供主要起跳力量。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Endemic to Mindanao, Samar, Leyte, Bohol and several nearby Philippine islands. It uses primary and secondary lowland forest, scrub and mixed vegetation where dense vertical supports remain.",
+    "text_zh": "特有于棉兰老岛、萨马岛、莱特岛、薄荷岛及附近若干菲律宾岛屿。它利用低地原生林、次生林、灌丛和仍保留密集垂直支撑的混合植被。",
+    "map_coordinates": [
+      8.5,
+      125
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          13,
+          124
+        ],
+        [
+          13,
+          126
+        ],
+        [
+          9,
+          126
+        ],
+        [
+          9,
+          123.5
+        ],
+        [
+          11,
+          123
+        ],
+        [
+          13,
+          124
+        ]
+      ],
+      [
+        [
+          10,
+          122
+        ],
+        [
+          10,
+          126.5
+        ],
+        [
+          5,
+          126
+        ],
+        [
+          5,
+          122.5
+        ],
+        [
+          7,
+          121.5
+        ],
+        [
+          10,
+          122
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/philippine-tarsier.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Mammal Diversity Database",
+      "url": "https://www.mammaldiversity.org/taxon/1000915/",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/8008808/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Tarsius_syrichta/",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Tarsius_syrichta/",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Mammal Diversity Database",
+      "url": "https://www.mammaldiversity.org/taxon/1000915/",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

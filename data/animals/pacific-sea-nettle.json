@@ -1,0 +1,439 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "pacific-sea-nettle",
+  "name_zh": "太平洋海刺水母",
+  "name_en": "Pacific Sea Nettle",
+  "scientific_name": "Chrysaora fuscescens",
+  "ui_tags": [
+    "Cnidarian",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Cnidaria",
+      "zh": "刺胞动物门"
+    },
+    "class": {
+      "en": "Scyphozoa",
+      "zh": "钵水母纲"
+    },
+    "order": {
+      "en": "Semaeostomeae",
+      "zh": "旗口水母目"
+    },
+    "family": {
+      "en": "Pelagiidae",
+      "zh": "游水母科"
+    },
+    "genus": {
+      "en": "Chrysaora",
+      "zh": "海刺水母属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估",
+    "note_en": "No species-level global IUCN assessment was confirmed. Not Evaluated means assessment is absent, not that the species is secure or abundant.",
+    "note_zh": "未确认到物种级IUCN全球评估。未评估表示缺少评估，并不表示该物种安全或数量丰富。"
+  },
+  "description": {
+    "en": "The Pacific Sea Nettle is a large golden-brown jelly of the northeastern Pacific. 24 ribbonlike tentacles and long frilly oral arms trail below the bell, where millions of stinging cells capture zooplankton, larval fish and other jellies.",
+    "zh": "太平洋海刺水母是东北太平洋大型金棕色水母。钟体下拖着24条带状触手和长而褶皱的口腕，数百万刺细胞捕获浮游动物、仔鱼和其他水母。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The bell can reach about 45 cm across. 24 marginal tentacles alternate with sensory structures, while four oral arms may trail several metres; dark radial markings divide the amber bell into a sunburst pattern.",
+      "zh": "钟体直径可达约45厘米。边缘有24条触手与感觉结构交替排列，四条口腕可拖曳数米；深色放射纹把琥珀钟体分成太阳状图案。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It pulses vertically but drifts mainly with currents in coastal and offshore waters. Tentacles stun zooplankton, crustaceans, larval fish, fish eggs and other gelatinous prey, which oral arms move to the central mouth.",
+      "zh": "它可脉动升降，但主要随沿岸和外海水流漂移。触手麻痹浮游动物、甲壳类、仔鱼、鱼卵和其他胶质猎物，再由口腕送到中央口部。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Most characteristic along the Pacific coast of North America from Alaska and British Columbia to California, with related records across the North Pacific toward Japan and the Bering region. Occurrence shifts strongly with currents, temperature and plankton blooms.",
+      "zh": "最具代表性的分布是北美太平洋岸，从阿拉斯加和不列颠哥伦比亚至加利福尼亚；北太平洋向日本和白令地区也有相关记录。出现位置随海流、温度和浮游生物暴发强烈变化。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "bell_width",
+        "label": {
+          "en": "Bell diameter",
+          "zh": "钟体直径"
+        },
+        "value": {
+          "en": "Up to about 45 cm",
+          "zh": "可达约45厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "tentacles",
+        "label": {
+          "en": "Marginal tentacles",
+          "zh": "边缘触手"
+        },
+        "value": {
+          "en": "24",
+          "zh": "24条"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "oral_arms",
+        "label": {
+          "en": "Oral arms",
+          "zh": "口腕"
+        },
+        "value": {
+          "en": "Four, trailing for several metres in large adults",
+          "zh": "四条；大型成体可拖曳数米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "assessment",
+        "label": {
+          "en": "Global assessment",
+          "zh": "全球评估"
+        },
+        "value": {
+          "en": "Not Evaluated by IUCN",
+          "zh": "IUCN未评估"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Adults release eggs and sperm into the water. A ciliated planula larva settles as a tiny polyp, which can reproduce asexually and later strobilate into juvenile ephyrae; these grow into free-swimming medusae.",
+      "zh": "成体把卵和精子释放入水。带纤毛的浮浪幼体附着成微小水螅体，可无性繁殖，之后横裂释放幼小碟状体，再长成自由游泳的水母体。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Nematocyst fishing lines",
+          "zh": "刺细胞钓线"
+        },
+        "detail": {
+          "en": "Long tentacles carry microscopic capsules that fire barbed, venom-bearing threads on contact.",
+          "zh": "长触手布满微小刺囊，接触时射出带倒钩和毒液的丝。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Radial water-jet bell",
+          "zh": "放射式喷水钟"
+        },
+        "detail": {
+          "en": "Coordinated bell contraction expels water and permits vertical movement or orientation in currents.",
+          "zh": "钟体协调收缩排水，可在海流中升降或调整方向。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Two body stages",
+          "zh": "双体型生活史"
+        },
+        "detail": {
+          "en": "A bottom-attached polyp persists and buds, while the medusa disperses and reproduces sexually in open water.",
+          "zh": "附底水螅体长期存在并出芽，水母体则在开放水中扩散并有性繁殖。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Sea nettles are predators of plankton and eggs and also prey for leatherback turtles, ocean sunfish and other gelatinous feeders. Small crabs sometimes shelter on the bell or oral arms and eat captured food.",
+      "zh": "海刺水母捕食浮游生物和卵，也被棱皮龟、翻车鱼及其他胶质食者捕食。小蟹有时躲在钟体或口腕上，并分享被捕食物。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Not Evaluated globally. Jelly abundance varies naturally and can respond to warming, currents, hypoxia, prey supply and coastal change; absence of an IUCN category is not a population assessment.",
+        "zh": "全球未评估。水母丰度天然波动，也会响应变暖、海流、缺氧、猎物供应和海岸变化；没有IUCN等级不等于已评估种群。"
+      },
+      "actions": {
+        "en": "Track blooms with standardized monitoring, reduce plastic and nutrient pollution, protect broader food-web function and avoid claiming that every increase is caused by one environmental factor.",
+        "zh": "应以标准化监测追踪暴发，减少塑料和营养盐污染，保护整体食物网功能，并避免把每次增加都归因于单一环境因素。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Amber-to-golden bell with dark radiating stripes, 24 long thin tentacles and four much broader frilly oral arms. Large individuals may appear reddish brown in deep or turbid water.",
+        "zh": "琥珀至金色钟体有深色放射条纹，带24条长细触手和四条宽得多、褶皱的口腕。大型个体在深水或浑水中可能显红棕色。"
+      },
+      "similar_species": {
+        "en": "Other Chrysaora species share striped bells and long tentacles. Exact tentacle count, bell pattern, oral-arm form and northeastern Pacific provenance are required; generic 'sea nettle' aquarium photos are insufficient.",
+        "zh": "其他海刺水母属也有条纹钟体和长触手。必须核对触手数、钟纹、口腕形态和东北太平洋来源；仅标“海刺水母”的水族馆照片不足。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Marginal rhopalia detect light, gravity and water movement, coordinating bell pulses. The nerve net has no central brain but integrates touch and orientation around the radial body.",
+      "zh": "钟缘感觉器探测光、重力和水流，协调钟体脉动。神经网没有中央大脑，却能在放射身体周围整合触觉和方向。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Numbers can surge when temperature, currents and prey favor polyp strobilation and medusa survival. Coastal blooms often appear seasonally but timing changes among years.",
+      "zh": "当温度、海流和猎物有利于水螅体横裂及水母体存活时，数量可激增。沿岸暴发常有季节性，但不同年份时间会变化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The sting is painful to people and detached tentacles can still fire. Swimmers should follow local beach guidance, avoid touching stranded jellies and use regional medical advice after significant exposure.",
+      "zh": "蜇伤会给人带来疼痛，脱落触手仍能发射刺细胞。游泳者应遵从当地海滩提示，不触碰搁浅水母，严重接触后按地区医疗建议处理。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Pacific Sea Nettle is placed in genus Chrysaora, family Pelagiidae, order Semaeostomeae. This record follows the accepted binomial Chrysaora fuscescens and does not transfer claims or images from look-alike species.",
+      "zh": "太平洋海刺水母归入海刺水母属、游水母科、旗口水母目。本条目采用接受学名Chrysaora fuscescens，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "From boats or shore, look for golden striped bells pulsing beneath the surface and trailing fine tentacles far beyond the visible body. Do not net or touch an animal merely to count tentacles.",
+      "zh": "从船上或岸边可寻找水面下脉动的金色条纹钟体，细触手会拖到可见身体之外很远。不能为了数触手而网捕或触摸。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "A jellyfish has no heart, lungs or centralized brain.",
+          "zh": "水母没有心脏、肺或中央大脑。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The attached polyp and swimming medusa look so different that they seem like separate animals.",
+          "zh": "附着水螅体和游泳水母体外形差异极大，仿佛两种动物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A commensal crab may ride among the stinging arms without being captured.",
+          "zh": "共栖小蟹可在带刺口腕间搭便车而不被捕获。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Stinging-cell mechanics",
+          "zh": "刺细胞力学"
+        },
+        "content": {
+          "en": "A nematocyst stores pressure inside a microscopic capsule. Mechanical and chemical triggers release a coiled thread in a fraction of a second, piercing or entangling prey.",
+          "zh": "刺囊在微小囊体内储存压力；机械与化学刺激在极短时间释放盘卷丝，刺穿或缠住猎物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Most characteristic along the Pacific coast of North America from Alaska and British Columbia to California, with related records across the North Pacific toward Japan and the Bering region. Occurrence shifts strongly with currents, temperature and plankton blooms.",
+    "text_zh": "最具代表性的分布是北美太平洋岸，从阿拉斯加和不列颠哥伦比亚至加利福尼亚；北太平洋向日本和白令地区也有相关记录。出现位置随海流、温度和浮游生物暴发强烈变化。",
+    "map_coordinates": [
+      42,
+      -125
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          62,
+          -170
+        ],
+        [
+          61,
+          -132
+        ],
+        [
+          48,
+          -124
+        ],
+        [
+          32,
+          -117
+        ],
+        [
+          28,
+          -128
+        ],
+        [
+          42,
+          -145
+        ],
+        [
+          55,
+          -173
+        ],
+        [
+          62,
+          -170
+        ]
+      ],
+      [
+        [
+          58,
+          142
+        ],
+        [
+          62,
+          179
+        ],
+        [
+          49,
+          179
+        ],
+        [
+          38,
+          151
+        ],
+        [
+          45,
+          140
+        ],
+        [
+          58,
+          142
+        ]
+      ],
+      [
+        [
+          55,
+          -179
+        ],
+        [
+          60,
+          -165
+        ],
+        [
+          50,
+          -155
+        ],
+        [
+          45,
+          -170
+        ],
+        [
+          55,
+          -179
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/pacific-sea-nettle.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/5185415",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/5185415/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Aquarium of the Pacific",
+      "url": "https://www.aquariumofpacific.org/onlinelearningcenter/species/pacific_sea_nettle",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Aquarium of the Pacific",
+      "url": "https://www.aquariumofpacific.org/onlinelearningcenter/species/pacific_sea_nettle",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Aquarium of the Pacific range account",
+      "url": "https://www.aquariumofpacific.org/onlinelearningcenter/species/pacific_sea_nettle",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

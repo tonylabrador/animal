@@ -1,0 +1,407 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "spectacled-owl",
+  "name_zh": "眼镜鸮",
+  "name_en": "Spectacled Owl",
+  "scientific_name": "Pulsatrix perspicillata",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Strigiformes",
+      "zh": "鸮形目"
+    },
+    "family": {
+      "en": "Strigidae",
+      "zh": "鸱鸮科"
+    },
+    "genus": {
+      "en": "Pulsatrix",
+      "zh": "眼镜鸮属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Spectacled Owl is a large, ear-tuftless forest owl from tropical America. Pale feather rings around its yellow eyes resemble spectacles, while a dark crown and broad pale throat patch give adults a distinctive masked face.",
+    "zh": "眼镜鸮是热带美洲大型、无耳羽簇的森林鸮。黄色双眼周围的浅色羽圈像眼镜，深色头顶和宽阔浅色喉斑构成成鸟独特面具。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are roughly 41–52 cm long, with females larger than males. The head is round without ear tufts; upperparts are dark brown, underparts buff, and the face has pale brows and eye rings surrounding yellow irises.",
+      "zh": "成鸟体长约41–52厘米，雌性大于雄性。头圆且无耳羽簇，上体深棕，下体黄褐，脸部有浅色眉纹和眼圈包围黄色虹膜。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "A nocturnal sit-and-wait predator, it hunts from forest perches and takes mammals, birds, bats, frogs and large insects. It roosts in dense shade by day and nests in natural tree cavities.",
+      "zh": "它是夜行伏击型捕食者，从林中栖枝出击，捕食哺乳动物、鸟、蝙蝠、蛙和大型昆虫。白天在浓荫中休息，利用天然树洞筑巢。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Occurs from southern Mexico through Central America and across much of tropical South America to northern Argentina, mainly east of the Andes. It uses lowland and foothill rainforest, swamp forest, gallery forest and mature secondary woodland.",
+      "zh": "从墨西哥南部经中美洲，广布至南美热带地区和阿根廷北部，主要位于安第斯山以东。它利用低地与山麓雨林、沼泽林、河岸廊道林和成熟次生林。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "length",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "About 41–52 cm",
+          "zh": "约41–52厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Nocturnal; shaded roost by day",
+          "zh": "夜行；白天在阴蔽处休息"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "nest",
+        "label": {
+          "en": "Nest",
+          "zh": "巢址"
+        },
+        "value": {
+          "en": "Natural cavity in a large tree",
+          "zh": "大型树木的天然洞穴"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Small vertebrates and large insects",
+          "zh": "小型脊椎动物和大型昆虫"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "A pair uses a large tree cavity and usually raises a small brood. The female incubates while the male supplies food; after fledging, the young remain dependent and may retain striking pale juvenile plumage for months.",
+      "zh": "配偶利用大型树洞，通常育成少量幼鸟。雌性孵卵，雄性供食；幼鸟离巢后仍依赖双亲，并可能数月保持醒目的浅色幼羽。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Facial sound collector",
+          "zh": "面盘集声"
+        },
+        "detail": {
+          "en": "The rounded facial disc channels faint prey sounds toward the ears.",
+          "zh": "圆形面盘把猎物微弱声音引向耳部。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Silent approach",
+          "zh": "静音接近"
+        },
+        "detail": {
+          "en": "Soft-edged flight feathers reduce turbulence noise during an ambush.",
+          "zh": "边缘柔软的飞羽减少伏击飞行产生的湍流噪声。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Large forest talons",
+          "zh": "森林强爪"
+        },
+        "detail": {
+          "en": "Powerful feet seize vertebrate prey ranging from rodents to bats and birds.",
+          "zh": "有力双足可抓住从啮齿动物到蝙蝠和鸟类等脊椎猎物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a mid-to-large nocturnal predator, it regulates rodents and other forest prey and competes with other cavity-using owls. Old hollow trees are therefore both hunting infrastructure and reproductive habitat.",
+      "zh": "作为中大型夜行捕食者，它调节啮齿动物等森林猎物，也与其他利用树洞的鸮类竞争；古老空心树同时是捕猎基础和繁殖生境。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Globally Least Concern but decreasing. Forest clearing, removal of large cavity trees, road mortality and capture or killing around settlements reduce local populations.",
+        "zh": "全球为无危但呈下降趋势。森林清除、大型树洞木移除、道路死亡以及居民点周边捕捉或捕杀会减少局部种群。"
+      },
+      "actions": {
+        "en": "Retain large hollow trees and connected nocturnal hunting forest, reduce vehicle speed near forest edges, and discourage capture or persecution through community education.",
+        "zh": "应保留大型空心树和连通的夜间捕猎森林，在林缘降低车速，并通过社区教育减少捕捉和迫害。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A large brown owl without ear tufts, with yellow eyes framed by cream spectacles, a dark mask and crown, and a broad pale throat or upper-breast patch.",
+        "zh": "大型棕色鸮，无耳羽簇；黄色双眼被奶油色“眼镜”包围，脸和头顶深色，喉部或上胸有宽阔浅斑。"
+      },
+      "similar_species": {
+        "en": "Juveniles are mostly white with a dark face and can look unlike adults. Band-bellied Owl is smaller and barred below; Crested Owl has prominent ear tufts. Exact age and facial pattern are essential.",
+        "zh": "幼鸟大多白色而脸深，与成鸟差异很大。横斑腹鸮更小、腹面有横纹；冠鸮有明显耳羽簇。必须结合年龄和面部图案。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Forward-facing eyes provide binocular depth perception and the facial disc enhances hearing. A deep, pulsing call advertises territory, while pairs and dependent young use softer contact notes.",
+      "zh": "前向眼提供双眼立体视觉，面盘增强听觉。深沉脉冲式叫声宣告领地，配偶和依赖期幼鸟则使用较轻柔联系声。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding timing follows regional rainfall and prey cycles, varying across the huge tropical range. Large cavities and shaded daytime roosts remain necessary in every season.",
+      "zh": "繁殖时间随地区降雨与猎物周期变化，在广阔热带分布区并不一致。大型树洞和阴蔽日栖点全年都不可缺少。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Its deep calls are familiar around some forest settlements, where owls can be viewed with fear or fascination. Keeping mature trees and avoiding playback near active nests supports coexistence.",
+      "zh": "在部分森林居民点周围，人们熟悉其深沉叫声，对鸮类既畏惧又着迷。保留成熟树木、活跃巢旁不播放叫声有助共存。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Spectacled Owl is placed in genus Pulsatrix, family Strigidae, order Strigiformes. This record follows the accepted binomial Pulsatrix perspicillata and does not transfer claims or images from look-alike species.",
+      "zh": "眼镜鸮归入眼镜鸮属、鸱鸮科、鸮形目。本条目采用接受学名Pulsatrix perspicillata，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Listen after dusk for a series of deep rhythmic hoots and inspect large trunks for whitewash, pellets and prey remains. Day roosts should not be approached repeatedly because a flushed owl becomes exposed to mobbing birds.",
+      "zh": "黄昏后可听一连串深沉有节奏的鸣声，并检查大树干附近的白色排泄痕、食丸和猎物残骸。不应反复接近日栖点，以免惊飞后遭群鸟围攻。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Young Spectacled Owls can be mostly white, the reverse impression of the dark adult.",
+          "zh": "眼镜鸮幼鸟可大部分呈白色，与深色成鸟给人的印象几乎相反。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The 'spectacles' are feathers around the eyes, not bare skin.",
+          "zh": "所谓“眼镜”是眼周羽毛，并非裸露皮肤。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "It can take bats and birds as well as ground-dwelling rodents.",
+          "zh": "除地栖啮齿动物外，它也能捕食蝙蝠和鸟。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Owl hearing and silent flight",
+          "zh": "鸮类听觉与静音飞行"
+        },
+        "content": {
+          "en": "A facial disc focuses sound while specialized feather edges quiet the approach. Together these systems let the owl strike prey that it has heard under a dark canopy.",
+          "zh": "面盘聚焦声音，特化羽缘让接近过程更安静；两套系统结合，使它能在黑暗树冠下攻击仅凭声音定位的猎物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Occurs from southern Mexico through Central America and across much of tropical South America to northern Argentina, mainly east of the Andes. It uses lowland and foothill rainforest, swamp forest, gallery forest and mature secondary woodland.",
+    "text_zh": "从墨西哥南部经中美洲，广布至南美热带地区和阿根廷北部，主要位于安第斯山以东。它利用低地与山麓雨林、沼泽林、河岸廊道林和成熟次生林。",
+    "map_coordinates": [
+      2,
+      -67
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          24,
+          -103
+        ],
+        [
+          21,
+          -86
+        ],
+        [
+          9,
+          -77
+        ],
+        [
+          8,
+          -60
+        ],
+        [
+          2,
+          -50
+        ],
+        [
+          -18,
+          -40
+        ],
+        [
+          -33,
+          -57
+        ],
+        [
+          -22,
+          -67
+        ],
+        [
+          -9,
+          -79
+        ],
+        [
+          7,
+          -82
+        ],
+        [
+          16,
+          -96
+        ],
+        [
+          24,
+          -103
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/spectacled-owl.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2497878",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2497878/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Tulsa Zoo",
+      "url": "https://tulsazoo.org/animals/animal/speckled-owl",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Smithsonian's National Zoo owl conservation education",
+      "url": "https://nationalzoo.si.edu/animals/news/owls-silent-hunters",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Tulsa Zoo species range account",
+      "url": "https://tulsazoo.org/animals/animal/speckled-owl",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

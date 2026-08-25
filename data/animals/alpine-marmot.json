@@ -1,0 +1,435 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "alpine-marmot",
+  "name_zh": "阿尔卑斯旱獭",
+  "name_en": "Alpine Marmot",
+  "scientific_name": "Marmota marmota",
+  "ui_tags": [
+    "Mammal",
+    "Mountains",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Rodentia",
+      "zh": "啮齿目"
+    },
+    "family": {
+      "en": "Sciuridae",
+      "zh": "松鼠科"
+    },
+    "genus": {
+      "en": "Marmota",
+      "zh": "旱獭属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Alpine Marmot is a heavy-bodied ground squirrel of European alpine meadows. Family groups dig extensive burrow systems, post sentinels and survive long snowy winters through deep communal hibernation.",
+    "zh": "阿尔卑斯旱獭是生活在欧洲高山草甸的粗壮地松鼠。家庭群体会挖掘复杂洞系、安排警戒，并通过集体深度冬眠度过漫长雪季。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are about 40–60 cm long and can weigh up to roughly 5 kg, with mass peaking before hibernation. The compact body, small ears, powerful digging claws and short, furry tail reduce heat loss and aid underground life.",
+      "zh": "成体体长约40–60厘米，体重可达约5千克，冬眠前最重。紧凑身体、小耳、强壮掘洞爪和较短多毛的尾巴有助减少热量损失并适应地下生活。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Diurnal marmots graze grasses, herbs, flowers and roots near their burrows. They live in territorial family groups, use whistles to warn of danger and retreat underground when raptors or terrestrial predators approach.",
+      "zh": "旱獭日间在洞口附近取食草、草本、花和根。它们组成有领地的家庭群，以口哨声警告危险，猛禽或陆生捕食者接近时迅速入洞。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Native to the Alps and Carpathians and introduced to several other European mountain systems, including the Pyrenees. It occupies open subalpine and alpine meadows with deep soils suitable for permanent burrows.",
+      "zh": "原生于阿尔卑斯山和喀尔巴阡山，并被引入比利牛斯等其他欧洲山系。它生活在土层足以挖掘永久洞穴的亚高山和高山开阔草甸。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_length",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "About 40–60 cm",
+          "zh": "约40–60厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Peak mass",
+          "zh": "最大体重"
+        },
+        "value": {
+          "en": "Up to roughly 5 kg before hibernation",
+          "zh": "冬眠前可达约5千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "hibernation",
+        "label": {
+          "en": "Hibernation",
+          "zh": "冬眠"
+        },
+        "value": {
+          "en": "As long as about seven months",
+          "zh": "可长达约七个月"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "social_unit",
+        "label": {
+          "en": "Social unit",
+          "zh": "社会单位"
+        },
+        "value": {
+          "en": "Territorial family groups, sometimes up to about 20",
+          "zh": "有领地的家庭群，有时可达约20只"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Mating occurs soon after emergence in spring. Females usually produce one litter underground after about a month of gestation; pups emerge weeks later and must grow rapidly during the short summer before their first hibernation.",
+      "zh": "春季出洞后不久即交配。雌性在约一个月妊娠后通常于地下产一窝幼仔；幼仔数周后出洞，必须在短暂夏季迅速生长，准备第一次冬眠。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Deep hibernation",
+          "zh": "深度冬眠"
+        },
+        "detail": {
+          "en": "Fat reserves and a strongly reduced metabolic rate carry the animal through months without feeding.",
+          "zh": "脂肪储备与大幅降低的代谢率帮助它数月不进食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Communal warmth",
+          "zh": "群体保温"
+        },
+        "detail": {
+          "en": "Family members hibernate together, helping smaller juveniles conserve heat.",
+          "zh": "家庭成员共同冬眠，帮助体型较小的幼仔保存热量。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Burrow engineering",
+          "zh": "洞穴工程"
+        },
+        "detail": {
+          "en": "Powerful forelimbs create separate summer, winter and escape chambers in deep soil.",
+          "zh": "强壮前肢在深土中挖出夏季、冬季和逃生用途不同的洞室。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Marmots crop alpine plants, disperse nutrients in dung and mix soil while excavating. Their burrows alter drainage and microhabitats, and marmots are important prey for golden eagles and foxes.",
+      "zh": "旱獭啃食高山植物、通过粪便输送养分，并在挖洞时混合土壤。其洞穴改变排水和微生境，旱獭也是金雕和狐狸的重要猎物。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "stable",
+      "threats": {
+        "en": "Globally Least Concern, but local colonies can be affected by persecution, tourism pressure and climate-driven shifts in snow cover and vegetation. Introduced populations are managed differently from native ones.",
+        "zh": "全球为无危，但局部群落可能受捕杀、旅游干扰以及气候变化导致的积雪和植被改变影响。引入种群与原生种群的管理目标不同。"
+      },
+      "actions": {
+        "en": "Protect native alpine meadow mosaics and undisturbed winter burrows, manage dogs and visitors around colonies, and monitor hibernation success as climate and snow regimes change.",
+        "zh": "应保护原生高山草甸镶嵌格局和不受干扰的冬眠洞穴，在群落附近管理犬只和游客，并随气候与积雪制度改变监测冬眠成功率。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A stout, short-eared ground squirrel with grizzled brown-gray fur, a broad head and a moderately short, dark-tipped tail, usually seen upright near a burrow.",
+        "zh": "粗壮、短耳的地松鼠，毛色为杂灰棕色，头宽，尾中等偏短且末端深色，通常在洞口附近直立警戒。"
+      },
+      "similar_species": {
+        "en": "European ground squirrels are slimmer and smaller with longer-looking tails; other Marmota species are separated mostly by geography and detailed pelage or skull characters.",
+        "zh": "欧洲黄鼠更瘦小，尾巴看起来更长；其他旱獭属物种主要依据地理位置以及更细致的毛色或头骨特征区分。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "A sharp whistle functions as an alarm signal, while vision is used to scan open slopes. Family members also exchange scent and close-contact signals around burrow entrances.",
+      "zh": "尖锐口哨是警报信号，视觉用于扫描开阔山坡。家庭成员也会在洞口附近交换气味和近距离接触信号。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "The annual cycle is sharply divided: emergence and mating in spring, intense feeding and juvenile growth in summer, fattening in early autumn, then up to seven months of hibernation.",
+      "zh": "年周期分界鲜明：春季出洞交配，夏季集中取食和幼仔生长，初秋积累脂肪，随后进入最长约七个月的冬眠。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Marmots are highly visible icons of Alpine parks and can become habituated to people. Feeding them changes behavior and diet; visitors should observe from a distance and keep dogs controlled.",
+      "zh": "旱獭是阿尔卑斯保护区醒目的标志动物，也容易习惯人类。投喂会改变其行为和食性，游客应保持距离并控制犬只。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Alpine Marmot is placed in genus Marmota, family Sciuridae, order Rodentia. This record follows the accepted binomial Marmota marmota and does not transfer claims or images from look-alike species.",
+      "zh": "阿尔卑斯旱獭归入旱獭属、松鼠科、啮齿目。本条目采用接受学名Marmota marmota，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Freshly excavated soil, broad burrow mouths, clipped vegetation and sentry whistles reveal colonies. Winter burrows are sealed and should not be approached or excavated.",
+      "zh": "新翻土堆、宽阔洞口、被啃短的植被和警戒口哨可指示群落。冬眠洞穴会被封闭，不应靠近或挖掘。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "A marmot's body temperature and heart rate fall dramatically during hibernation.",
+          "zh": "旱獭冬眠时体温和心率都会大幅下降。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Adults may huddle around juveniles in the winter chamber.",
+          "zh": "成体可能在冬眠室中围住幼仔共同保温。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The familiar whistle is an alarm, not casual singing.",
+          "zh": "人们熟悉的口哨声是警报，而不是随意鸣唱。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Hibernation physiology",
+          "zh": "冬眠生理"
+        },
+        "content": {
+          "en": "Before winter, marmots store body fat rather than food caches. During multi-month torpor they periodically arouse, and survival depends on adequate autumn reserves and a stable insulated chamber.",
+          "zh": "入冬前，旱獭主要储存体脂而不是囤积食物。在数月蛰眠中会周期性苏醒，存活取决于足够的秋季脂肪储备和稳定保温的洞室。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Native to the Alps and Carpathians and introduced to several other European mountain systems, including the Pyrenees. It occupies open subalpine and alpine meadows with deep soils suitable for permanent burrows.",
+    "text_zh": "原生于阿尔卑斯山和喀尔巴阡山，并被引入比利牛斯等其他欧洲山系。它生活在土层足以挖掘永久洞穴的亚高山和高山开阔草甸。",
+    "map_coordinates": [
+      46.5,
+      10.5
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          48.2,
+          5.8
+        ],
+        [
+          48.5,
+          14.5
+        ],
+        [
+          46.5,
+          17
+        ],
+        [
+          44,
+          15
+        ],
+        [
+          43.5,
+          7
+        ],
+        [
+          45.5,
+          5
+        ],
+        [
+          48.2,
+          5.8
+        ]
+      ],
+      [
+        [
+          50.2,
+          18
+        ],
+        [
+          49.8,
+          26
+        ],
+        [
+          46,
+          26
+        ],
+        [
+          45,
+          21
+        ],
+        [
+          47,
+          18
+        ],
+        [
+          50.2,
+          18
+        ]
+      ],
+      [
+        [
+          43.5,
+          -1.8
+        ],
+        [
+          43.2,
+          3
+        ],
+        [
+          42,
+          3
+        ],
+        [
+          41.5,
+          -0.5
+        ],
+        [
+          43.5,
+          -1.8
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/alpine-marmot.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2437377",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2437377/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Alpenzoo Innsbruck",
+      "url": "https://alpenzoo.at/en/alpenmurmeltier/",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Swiss National Park",
+      "url": "https://nationalpark.ch/en/flora-and-fauna/marmot/",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Pyrenees National Park",
+      "url": "https://www.pyrenees-parcnational.fr/fr/des-connaissances/le-patrimoine-naturel/faune/marmotte",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

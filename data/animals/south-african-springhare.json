@@ -1,0 +1,395 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "south-african-springhare",
+  "name_zh": "南非跳兔",
+  "name_en": "South African Springhare",
+  "scientific_name": "Pedetes capensis",
+  "ui_tags": [
+    "Mammal",
+    "Savanna",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Rodentia",
+      "zh": "啮齿目"
+    },
+    "family": {
+      "en": "Pedetidae",
+      "zh": "跳兔科"
+    },
+    "genus": {
+      "en": "Pedetes",
+      "zh": "跳兔属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The South African Springhare is a large nocturnal rodent of dry southern African grasslands and savannas. Despite its rabbit-like ears and kangaroo-like leaps, it is neither a hare nor a marsupial: it is the only living species in its genus.",
+    "zh": "南非跳兔是生活在非洲南部干燥草原和稀树草原的大型夜行啮齿动物。它虽然长着兔子般的耳朵、以袋鼠般的跳跃前进，却既不是兔也不是有袋类，而是跳兔属现存的唯一物种。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults have a head-body length of about 35–45 cm, a 37–48 cm tail and a mass commonly around 3–4 kg. Very long hind limbs power bipedal bounds, while shorter forefeet with strong claws excavate burrows; the long tail balances the body in motion.",
+      "zh": "成体头体长约35–45厘米，尾长37–48厘米，体重通常约3–4千克。极长的后肢推动双足跳跃，较短而具强爪的前足用于掘洞，长尾则在运动时保持平衡。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It spends daylight in a burrow and emerges after dark to feed mainly on grasses, roots and other plant material, with some insects also taken. Individuals can cover ground rapidly in long bounds when alarmed.",
+      "zh": "它白天躲在洞穴中，入夜后外出，主要取食草、根和其他植物性食物，也会吃少量昆虫。受惊时能以长距离跳跃快速逃离。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Native to southern and parts of south-central Africa, including South Africa, Namibia, Botswana, Zimbabwe, Zambia, Mozambique, Angola and the southern Democratic Republic of the Congo. It favors open country with dry, friable sandy soil suitable for burrowing.",
+      "zh": "原产于非洲南部及中南部部分地区，包括南非、纳米比亚、博茨瓦纳、津巴布韦、赞比亚、莫桑比克、安哥拉和刚果民主共和国南部。它偏好土壤干燥、松散且适于打洞的开阔地。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_length",
+        "label": {
+          "en": "Head-body length",
+          "zh": "头体长"
+        },
+        "value": {
+          "en": "About 35–45 cm",
+          "zh": "约35–45厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "tail_length",
+        "label": {
+          "en": "Tail length",
+          "zh": "尾长"
+        },
+        "value": {
+          "en": "About 37–48 cm",
+          "zh": "约37–48厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Mass",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "Commonly about 3–4 kg",
+          "zh": "通常约3–4千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Nocturnal; rests in burrows by day",
+          "zh": "夜行；白天在洞穴中休息"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Breeding can occur through much of the year where conditions allow. Gestation lasts about 78–82 days and a single, well-developed young is usual; the juvenile remains in the burrow at first and is nursed before emerging.",
+      "zh": "在条件允许的地区，它一年中多数时间都可能繁殖。妊娠期约78–82天，通常每胎一只发育较成熟的幼仔；幼仔起初留在洞内吃奶，之后才出洞。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Long hind limbs",
+          "zh": "强劲后肢"
+        },
+        "detail": {
+          "en": "Elongated hind legs propel rapid bipedal bounds across open ground.",
+          "zh": "细长后腿可推动快速的双足跳跃，适合穿越开阔地。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Burrow tools",
+          "zh": "掘洞工具"
+        },
+        "detail": {
+          "en": "Strong foreclaws and incisors help excavate shelter in friable soil.",
+          "zh": "强壮前爪和门齿帮助在松散土壤中挖掘住所。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Night-active senses",
+          "zh": "夜间感知"
+        },
+        "detail": {
+          "en": "Large eyes and ears support vigilance and foraging after dark.",
+          "zh": "大眼和大耳有助于在黑暗中警戒和觅食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "By clipping vegetation and moving soil while burrowing, springhares influence plant structure and soil turnover. Their burrows also create shelter opportunities for smaller animals, and springhares are prey for large nocturnal predators.",
+      "zh": "跳兔通过啃食植被和打洞翻动土壤，影响植物结构与土壤更新；其洞穴也能为较小动物提供庇护机会，而跳兔本身又是大型夜行捕食者的猎物。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The species has a broad range and is globally assessed as Least Concern, but local populations can be affected by hunting, land conversion and persecution where regarded as a crop pest.",
+        "zh": "该物种分布广，全球评估为无危，但局部种群仍可能受到猎捕、土地转化以及因被视为农作物害兽而遭捕杀的影响。"
+      },
+      "actions": {
+        "en": "Maintain connected open habitats and burrow-friendly soils, monitor heavily hunted populations, and use nonlethal crop-protection measures where conflict occurs.",
+        "zh": "应维护连通的开阔生境和适合打洞的土壤，监测猎捕压力较高的种群，并在发生农作物冲突时采用非致死防护。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Look for a large rabbit-eared rodent with very long hind legs, short forelegs and a long, dark-tipped tail, moving in kangaroo-like bounds.",
+        "zh": "可凭大型兔状耳、极长后腿、短前腿和末端较深的长尾识别，运动方式呈袋鼠般跳跃。"
+      },
+      "similar_species": {
+        "en": "Hares have a different body plan and run on all four feet; jerboas are much smaller. Confirm southern African location and the springhare's heavy body and long balancing tail.",
+        "zh": "野兔体型结构不同，通常四足奔跑；跳鼠则小得多。应结合非洲南部地点、跳兔较沉重的身体和长平衡尾确认。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Large ears detect sounds around the burrow and large eyes aid night vision. Alarmed animals flee in powerful bounds rather than relying on a loud social alarm call.",
+      "zh": "大耳可侦听洞穴周围的声音，大眼有助夜视。受惊个体多以强力跳跃逃离，而不是依赖响亮的群体警报。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Activity and breeding respond to rainfall and food availability. In dry periods animals remain closely tied to burrows and forage at night when heat and water loss are lower.",
+      "zh": "活动和繁殖会随降雨与食物供应变化。干旱期个体更依赖洞穴，并在热量和水分损失较低的夜间觅食。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Springhares are hunted for meat in parts of their range and may be killed where their feeding conflicts with crops. Their unusual locomotion also makes them a familiar species in regional wildlife education.",
+      "zh": "在部分分布区，跳兔会被猎作食物，也可能因取食农作物而被捕杀。其独特运动方式使它成为当地自然教育中常见的代表动物。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "South African Springhare is placed in genus Pedetes, family Pedetidae, order Rodentia. This record follows the accepted binomial Pedetes capensis and does not transfer claims or images from look-alike species.",
+      "zh": "南非跳兔归入跳兔属、跳兔科、啮齿目。本条目采用接受学名Pedetes capensis，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Field evidence includes large burrow entrances in sandy ground, paired impressions from the hind feet and a long tail drag that may appear between bounds. Tracks must be interpreted with local substrate and other burrowing mammals in mind.",
+      "zh": "野外迹象包括沙地上的大型洞口、成对后足印，以及跳跃间可能留下的长尾拖痕；判读时需结合当地基质和其他穴居哺乳动物。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "A springhare can clear several metres in a single escape bound.",
+          "zh": "跳兔逃跑时一次跳跃可跨越数米。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its common name describes its jumping style, not a close relationship to true hares.",
+          "zh": "它的英文俗名源自跳跃方式，并不表示与真正的兔类关系密切。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The species is the sole living member of genus Pedetes.",
+          "zh": "它是跳兔属唯一现存物种。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Rodent teeth and burrows",
+          "zh": "啮齿类门齿与洞穴"
+        },
+        "content": {
+          "en": "Ever-growing incisors are used in feeding and digging. Burrows buffer daytime heat and provide a protected site for the unusually well-developed single young.",
+          "zh": "不断生长的门齿既用于取食也用于掘洞；洞穴能缓冲白天高温，并为发育较成熟的单只幼仔提供保护。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Native to southern and parts of south-central Africa, including South Africa, Namibia, Botswana, Zimbabwe, Zambia, Mozambique, Angola and the southern Democratic Republic of the Congo. It favors open country with dry, friable sandy soil suitable for burrowing.",
+    "text_zh": "原产于非洲南部及中南部部分地区，包括南非、纳米比亚、博茨瓦纳、津巴布韦、赞比亚、莫桑比克、安哥拉和刚果民主共和国南部。它偏好土壤干燥、松散且适于打洞的开阔地。",
+    "map_coordinates": [
+      -25,
+      24
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          -10,
+          14
+        ],
+        [
+          -8,
+          28
+        ],
+        [
+          -13,
+          37
+        ],
+        [
+          -24,
+          35
+        ],
+        [
+          -35,
+          28
+        ],
+        [
+          -34,
+          18
+        ],
+        [
+          -27,
+          13
+        ],
+        [
+          -18,
+          16
+        ],
+        [
+          -10,
+          14
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/south-african-springhare.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/5219942",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/5219942/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Pedetes_capensis/",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Pedetes_capensis/",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Mammal Diversity Database",
+      "url": "https://www.mammaldiversity.org/taxon/1001845/",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **453** 种动物
+**统计**：共 **478** 种动物
 
 ---
 
@@ -53,6 +53,7 @@
 **袋熊科**
 
 - 普通袋熊 / Common Wombat — *Vombatus ursinus* `common-wombat`
+- 南澳毛鼻袋熊 / Southern Hairy-nosed Wombat — *Lasiorhinus latifrons* `southern-hairy-nosed-wombat`
 
 **袋鼠科**
 
@@ -72,18 +73,28 @@
 
 **松鼠科**
 
+- 阿尔卑斯旱獭 / Alpine Marmot — *Marmota marmota* `alpine-marmot`
 - 美洲红松鼠 / American Red Squirrel — *Tamiasciurus hudsonicus* `american-red-squirrel`
 - 黑尾土拨鼠 / Black-tailed Prairie Dog — *Cynomys ludovicianus* `black-tailed-prairie-dog`
+- 印度巨松鼠 / Indian Giant Squirrel — *Ratufa indica* `indian-giant-squirrel`
 - 红松鼠 / Red squirrel — *Sciurus vulgaris* `red-squirrel`
 
 **河狸科**
 
 - 美洲河狸 / American Beaver — *Castor canadensis* `american-beaver`
 
+**美洲豪猪科**
+
+- 北美豪猪 / North American Porcupine — *Erethizon dorsatum* `north-american-porcupine`
+
 **豚鼠科**
 
 - 水豚 / Capybara — *Hydrochoerus hydrochaeris* `capybara`
 - 巴塔哥尼亚豚鼠 / Patagonian mara — *Dolichotis patagonum* `patagonian-mara`
+
+**跳兔科**
+
+- 南非跳兔 / South African Springhare — *Pedetes capensis* `south-african-springhare`
 
 **跳鼠科**
 
@@ -185,6 +196,10 @@
 - 日本猕猴 / Japanese Macaque — *Macaca fuscata* `japanese-macaque`
 - 长鼻猴 / Proboscis monkey — *Nasalis larvatus* `proboscis-monkey`
 
+**眼镜猴科**
+
+- 菲律宾眼镜猴 / Philippine Tarsier — *Carlito syrichta* `philippine-tarsier`
+
 **蜘蛛猴科**
 
 - 黑头蜘蛛猴 / Black-headed Spider Monkey — *Ateles chamek* `black-headed-spider-monkey`
@@ -214,6 +229,10 @@
 
 ### 翼手目
 
+**兔唇蝠科**
+
+- 大兔唇蝠 / Greater Bulldog Bat — *Noctilio leporinus* `greater-bulldog-bat`
+
 **叶口蝠科**
 
 - 吸血蝠 / Common Vampire Bat — *Desmodus rotundus* `common-vampire-bat`
@@ -222,6 +241,7 @@
 
 **狐蝠科**
 
+- 埃及果蝠 / Egyptian Fruit Bat — *Rousettus aegyptiacus* `egyptian-fruit-bat`
 - 灰头狐蝠 / Grey-headed Flying Fox — *Pteropus poliocephalus* `grey-headed-flying-fox`
 - 印度狐蝠 / Indian Flying Fox — *Pteropus medius* `indian-flying-fox`
 - 马来大狐蝠 / Large Flying Fox — *Pteropus vampyrus* `large-flying-fox`
@@ -281,6 +301,7 @@
 
 **浣熊科**
 
+- 蜜熊 / Kinkajou — *Potos flavus* `kinkajou`
 - 浣熊 / Raccoon — *Procyon lotor* `raccoon`
 
 **海象科**
@@ -600,6 +621,7 @@
 
 **隼科**
 
+- 矛隼 / Gyrfalcon — *Falco rusticolus* `gyrfalcon`
 - 游隼 / Peregrine Falcon — *Falco peregrinus* `peregrine-falcon`
 
 ### 雀形目
@@ -715,6 +737,7 @@
 
 - 黑天鹅 / Black Swan — *Cygnus atratus* `black-swan`
 - 加拿大雁 / Canada Goose — *Branta canadensis* `canada-goose`
+- 王绒鸭 / King Eider — *Somateria spectabilis* `king-eider`
 - 绿头鸭 / Mallard — *Anas platyrhynchos* `mallard`
 - 鸳鸯 / Mandarin Duck — *Aix galericulata* `mandarin-duck`
 - 疣鼻天鹅 / Mute Swan — *Cygnus olor* `mute-swan`
@@ -734,6 +757,10 @@
 - 大暗雨燕 / Great dusky swift — *Cypseloides senex* `great-dusky-swift`
 
 ### 鲣鸟目
+
+**军舰鸟科**
+
+- 大军舰鸟 / Great Frigatebird — *Fregata minor* `great-frigatebird`
 
 **蛇鹈科**
 
@@ -788,6 +815,7 @@
 - 姬鸮 / Elf owl — *Micrathene whitneyi* `elf-owl`
 - 乌林鸮 / Great Gray Owl — *Strix nebulosa* `great-gray-owl`
 - 雪鸮 / Snowy Owl — *Bubo scandiacus* `snowy-owl`
+- 眼镜鸮 / Spectacled Owl — *Pulsatrix perspicillata* `spectacled-owl`
 - 须角鸮 / Whiskered Screech Owl — *Megascops trichopsis* `whiskered-screech-owl`
 
 ### 鸵鸟目
@@ -797,6 +825,10 @@
 - 非洲鸵鸟 / Common Ostrich — *Struthio camelus* `common-ostrich`
 
 ### 鸻形目
+
+**反嘴鹬科**
+
+- 黑颈长脚鹬 / Black-necked Stilt — *Himantopus mexicanus* `black-necked-stilt`
 
 **海雀科**
 
@@ -811,6 +843,7 @@
 
 **鸠鸽科**
 
+- 尼柯巴鸠 / Nicobar Pigeon — *Caloenas nicobarica* `nicobar-pigeon`
 - 维多利亚冠鸠 / Victoria Crowned Pigeon — *Goura victoria* `victoria-crowned-pigeon`
 
 ### 鹃形目
@@ -846,6 +879,7 @@
 **鹮科**
 
 - 朱鹮 / Crested Ibis — *Nipponia nippon* `crested-ibis`
+- 粉红琵鹭 / Roseate Spoonbill — *Platalea ajaja* `roseate-spoonbill`
 - 美洲红鹮 / Scarlet Ibis — *Eudocimus ruber* `scarlet-ibis`
 
 ### 鹤形目
@@ -884,6 +918,7 @@
 
 **鹦鹉科**
 
+- 蓝黄金刚鹦鹉 / Blue-and-yellow Macaw — *Ara ararauna* `blue-and-yellow-macaw`
 - 虎皮鹦鹉 / Budgerigar — *Melopsittacus undulatus* `budgerigar`
 - 灰鹦鹉 / Grey Parrot — *Psittacus erithacus* `grey-parrot`
 - 紫蓝金刚鹦鹉 / Hyacinth Macaw — *Anodorhynchus hyacinthinus* `hyacinth-macaw`
@@ -1031,6 +1066,10 @@
 
 - 绿海龟 / Green Sea Turtle — *Chelonia mydas* `green-sea-turtle`
 
+**蛇颈龟科**
+
+- 枯叶龟 / Mata Mata — *Chelus fimbriata* `mata-mata`
+
 **陆龟科**
 
 - 弗洛雷亚纳象龟 / Floreana Giant Tortoise — *Chelonoidis niger* `galapagos-tortoise`
@@ -1080,6 +1119,10 @@
 
 ### 有尾目
 
+**洞螈科**
+
+- 洞螈 / Olm — *Proteus anguinus* `olm`
+
 **钝口螈科**
 
 - 墨西哥钝口螈 / Axolotl — *Ambystoma mexicanum* `axolotl`
@@ -1092,6 +1135,12 @@
 ---
 
 ## 头足纲
+
+### 乌贼目
+
+**乌贼科**
+
+- 普通乌贼 / Common Cuttlefish — *Sepia officinalis* `common-cuttlefish`
 
 ### 八腕目
 
@@ -1198,6 +1247,10 @@
 **凤蝶科**
 
 - 黑凤蝶 / Black Swallowtail — *Papilio polyxenes* `black-swallowtail`
+
+**天蚕蛾科**
+
+- 皇蛾 / Atlas Moth — *Attacus atlas* `atlas-moth`
 
 **粉蝶科**
 
@@ -1317,6 +1370,7 @@
 
 **跳蛛科**
 
+- 孔雀跳蛛 / Peacock Spider — *Maratus volans* `peacock-spider`
 - 斑马跳蛛 / Zebra jumping spider — *Salticus scenicus* `zebra-jumping-spider`
 
 ### 蝎目
@@ -1346,6 +1400,10 @@
 **螯虾科**
 
 - 克氏原螯虾 / Red swamp crayfish — *Procambarus clarkii* `red-swamp-crayfish`
+
+**陆寄居蟹科**
+
+- 椰子蟹 / Coconut Crab — *Birgus latro* `coconut-crab`
 
 ### 口足目
 
@@ -1464,6 +1522,10 @@
 
 ### 鲈形目
 
+**䲗科**
+
+- 花斑连鳍䲗 / Mandarinfish — *Synchiropus splendidus* `mandarinfish`
+
 **雀鲷科**
 
 - 眼斑双锯鱼(小丑鱼) / Ocellaris Clownfish — *Amphiprion ocellaris* `ocellaris-clownfish`
@@ -1522,6 +1584,10 @@
 ## 钵水母纲
 
 ### 旗口水母目
+
+**游水母科**
+
+- 太平洋海刺水母 / Pacific Sea Nettle — *Chrysaora fuscescens* `pacific-sea-nettle`
 
 **羊须水母科**
 

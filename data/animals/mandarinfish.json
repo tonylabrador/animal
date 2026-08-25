@@ -1,0 +1,399 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "mandarinfish",
+  "name_zh": "花斑连鳍䲗",
+  "name_en": "Mandarinfish",
+  "scientific_name": "Synchiropus splendidus",
+  "ui_tags": [
+    "Fish",
+    "Coral Reef",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "辐鳍鱼纲"
+    },
+    "order": {
+      "en": "Perciformes",
+      "zh": "鲈形目"
+    },
+    "family": {
+      "en": "Callionymidae",
+      "zh": "䲗科"
+    },
+    "genus": {
+      "en": "Synchiropus",
+      "zh": "连鳍䲗属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Mandarinfish is a tiny western Pacific reef fish covered in electric blue, orange and green scrollwork. It spends daylight close to silty coral rubble, protected by a toxic, foul-tasting mucus instead of ordinary fish scales.",
+    "zh": "花斑连鳍䲗是西太平洋小型珊瑚礁鱼，身披电蓝、橙和绿色卷纹。白天贴近淤泥珊瑚碎石活动，以有毒且味苦的黏液而非普通鱼鳞保护身体。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults reach only about 7 cm. The body is scaleless and coated in thick mucus; broad rounded pectoral fins support bottom-hugging movement, while males have an elongated first dorsal spine.",
+      "zh": "成鱼仅约7厘米。身体无鳞并覆厚黏液；宽圆胸鳍支持贴底移动，雄鱼第一背鳍棘延长。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It lives in sheltered lagoons and inshore reefs, picking tiny crustaceans, worms and other benthic invertebrates from coral rubble. Small groups shelter by day and pairs rise above the reef at dusk to spawn.",
+      "zh": "它生活在受保护的潟湖和近岸礁，啄食珊瑚碎石中的小型甲壳类、蠕虫及其他底栖无脊椎动物。小群白天藏匿，配偶黄昏升离礁面产卵。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Western Pacific from the Ryukyu Islands and Philippines through Indonesia, Palau and Papua New Guinea to northern Australia. It is most associated with shallow silty reef flats, rubble and branching coral, usually from about 1–18 m depth.",
+      "zh": "西太平洋从琉球群岛和菲律宾，经印度尼西亚、帕劳和巴布亚新几内亚至澳大利亚北部。最常见于约1–18米深的浅水淤泥礁坪、碎石和枝状珊瑚。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "length",
+        "label": {
+          "en": "Maximum length",
+          "zh": "最大体长"
+        },
+        "value": {
+          "en": "About 7 cm",
+          "zh": "约7厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "depth",
+        "label": {
+          "en": "Typical depth",
+          "zh": "常见水深"
+        },
+        "value": {
+          "en": "About 1–18 m",
+          "zh": "约1–18米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "skin",
+        "label": {
+          "en": "Body covering",
+          "zh": "体表"
+        },
+        "value": {
+          "en": "Scaleless, with thick defensive mucus",
+          "zh": "无鳞，覆厚防御黏液"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Tiny benthic crustaceans and worms",
+          "zh": "微小底栖甲壳类和蠕虫"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "At dusk a male and female press together and rise into the water column, releasing buoyant eggs and sperm near the peak of the ascent. Eggs drift as plankton; larvae later settle back into shallow reef habitat.",
+      "zh": "黄昏时雌雄贴靠并上升到水层，在接近最高点时释放浮性卵和精子。卵随浮游生物漂流，幼鱼之后重新定居于浅水礁区。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Defensive mucus",
+          "zh": "防御黏液"
+        },
+        "detail": {
+          "en": "A thick, bad-tasting and potentially toxic coating discourages predators despite the lack of scales.",
+          "zh": "尽管没有鳞片，厚而味苦、可能有毒的黏液能阻止捕食者。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Rubble camouflage",
+          "zh": "碎礁伪装"
+        },
+        "detail": {
+          "en": "Complex colored lines break the outline among coral fragments, sponges and low reef growth.",
+          "zh": "复杂彩色线纹在珊瑚碎块、海绵和低矮礁生物间打散轮廓。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Dusk spawning ascent",
+          "zh": "黄昏上升产卵"
+        },
+        "detail": {
+          "en": "A synchronized rise carries gametes away from bottom predators and into dispersing currents.",
+          "zh": "同步上升让配子远离底栖捕食者并进入扩散水流。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Mandarinfish consume tiny benthic invertebrates within reef rubble and provide prey to larger reef predators. Their dependence on complex shallow structure makes them sensitive to destructive collection and habitat flattening.",
+      "zh": "花斑连鳍䲗捕食礁石碎屑中的微小底栖无脊椎动物，也供更大礁区捕食者取食。它们依赖复杂浅水结构，易受破坏性采集和生境平坦化影响。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "stable",
+      "threats": {
+        "en": "Globally Least Concern and considered stable, but heavy aquarium collection, destructive fishing, coastal sedimentation and coral-rubble loss can reduce local populations.",
+        "zh": "全球为无危且被认为稳定，但水族贸易高强度采集、破坏性渔法、沿岸沉积和珊瑚碎石生境丧失会减少局部种群。"
+      },
+      "actions": {
+        "en": "Use traceable captive-bred aquarium fish, regulate collection sites and methods, and protect shallow rubble and lagoon habitats rather than only visually spectacular coral heads.",
+        "zh": "应选用可追溯人工繁育水族鱼，管理采集地点和方式，并保护浅水碎礁与潟湖，而不只关注醒目的珊瑚块。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A tiny bottom-dwelling fish with psychedelic blue lines over orange and green, large fanlike pectoral fins, thick lips and no visible scales; males often show a long first dorsal spine.",
+        "zh": "微小底栖鱼，橙绿底色上有迷幻蓝线，胸鳍扇形很大，唇厚且看不到鳞片；雄鱼常有延长的第一背鳍棘。"
+      },
+      "similar_species": {
+        "en": "The Spotted Mandarinfish has distinct round spots rather than continuous scroll-like stripes. Juveniles and aquarium color morphs still require exact pattern and locality checks.",
+        "zh": "圆斑连鳍䲗具有明显圆点，而不是连续卷曲条纹。幼鱼和水族色型仍需核对准确图案与来源地点。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Eyes scan close substrate for minute prey and rivals. Chemical cues help locate food and mates, while males display their dorsal fin during close-range dusk courtship.",
+      "zh": "眼睛贴近底质寻找微小猎物与竞争者；化学线索帮助定位食物和配偶，雄鱼在黄昏近距离求偶时展示背鳍。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Spawning can occur repeatedly where warm reef conditions and food persist. Daily timing is more predictable than a single annual season: courtship peaks near dusk.",
+      "zh": "温暖礁区条件和食物持续时可反复产卵。日周期比单一年度季节更稳定：求偶高峰接近黄昏。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "It is highly prized in marine aquaria but often starves if a tank lacks abundant live microfauna. Captive-bred individuals reduce collection pressure and usually adapt better to prepared food.",
+      "zh": "它在海水水族中很受欢迎，但缸内若缺乏丰富活微型动物常会饿死。人工繁育个体能降低采集压力，也通常更适应人工饲料。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Mandarinfish is placed in genus Synchiropus, family Callionymidae, order Perciformes. This record follows the accepted binomial Synchiropus splendidus and does not transfer claims or images from look-alike species.",
+      "zh": "花斑连鳍䲗归入连鳍䲗属、䲗科、鲈形目。本条目采用接受学名Synchiropus splendidus，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Search slowly at dusk over silty rubble, where the fish makes short hopping movements and pairs rise briefly above the bottom. Bright flash should be minimized during courtship.",
+      "zh": "黄昏时在淤泥碎礁上慢慢寻找，它会作短促跳动，配偶短暂升离底部。求偶期间应尽量减少强闪光。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "It is one of the few vertebrates whose blue color is produced by cellular pigment rather than structural reflection alone.",
+          "zh": "它是少数蓝色主要由细胞色素而非仅结构反光产生的脊椎动物之一。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The body has no ordinary scales.",
+          "zh": "它的身体没有普通鱼鳞。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A spawning pair rises together like a tiny underwater dance at dusk.",
+          "zh": "产卵配偶在黄昏同步上升，像一场微型水下舞蹈。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Pelagic eggs, benthic adults",
+          "zh": "浮性卵与底栖成鱼"
+        },
+        "content": {
+          "en": "Adults stay close to the reef floor, but fertilized eggs rise and drift in open water. This brief pelagic stage can connect separated shallow-reef populations.",
+          "zh": "成鱼贴近礁底，受精卵却上浮并在开放水中漂流。短暂浮游阶段可连接彼此分离的浅礁种群。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Western Pacific from the Ryukyu Islands and Philippines through Indonesia, Palau and Papua New Guinea to northern Australia. It is most associated with shallow silty reef flats, rubble and branching coral, usually from about 1–18 m depth.",
+    "text_zh": "西太平洋从琉球群岛和菲律宾，经印度尼西亚、帕劳和巴布亚新几内亚至澳大利亚北部。最常见于约1–18米深的浅水淤泥礁坪、碎石和枝状珊瑚。",
+    "map_coordinates": [
+      5,
+      130
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          30,
+          123
+        ],
+        [
+          27,
+          133
+        ],
+        [
+          12,
+          146
+        ],
+        [
+          -8,
+          153
+        ],
+        [
+          -23,
+          149
+        ],
+        [
+          -18,
+          130
+        ],
+        [
+          -5,
+          115
+        ],
+        [
+          12,
+          115
+        ],
+        [
+          25,
+          119
+        ],
+        [
+          30,
+          123
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/mandarinfish.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "FishBase",
+      "url": "https://www.fishbase.se/summary/12644",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2386640/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "FishBase species summary",
+      "url": "https://www.fishbase.se/summary/12644",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "FishBase species summary",
+      "url": "https://www.fishbase.se/summary/12644",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "FishBase distribution map",
+      "url": "https://www.fishbase.se/summary/12644",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

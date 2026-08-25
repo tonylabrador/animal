@@ -1,0 +1,425 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "common-cuttlefish",
+  "name_zh": "普通乌贼",
+  "name_en": "Common Cuttlefish",
+  "scientific_name": "Sepia officinalis",
+  "ui_tags": [
+    "Mollusk",
+    "Coastal",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Mollusca",
+      "zh": "软体动物门"
+    },
+    "class": {
+      "en": "Cephalopoda",
+      "zh": "头足纲"
+    },
+    "order": {
+      "en": "Sepiida",
+      "zh": "乌贼目"
+    },
+    "family": {
+      "en": "Sepiidae",
+      "zh": "乌贼科"
+    },
+    "genus": {
+      "en": "Sepia",
+      "zh": "乌贼属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Common Cuttlefish is a coastal eastern Atlantic and Mediterranean cephalopod that can change color, pattern and skin texture in seconds. An internal cuttlebone controls buoyancy, while two hidden feeding tentacles shoot out to seize prey.",
+    "zh": "普通乌贼是东大西洋和地中海沿岸头足类，可在数秒内改变颜色、图案和皮肤纹理。内部海螵蛸控制浮力，两条隐藏捕食触腕会突然射出抓住猎物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Most adults have a mantle about 20–30 cm long, though large males can approach 49 cm. Eight arms surround the mouth, two longer tentacles retract into pockets, a fin runs around the mantle and W-shaped pupils characterize the eyes.",
+      "zh": "多数成体胴长约20–30厘米，大型雄性可接近49厘米。口周有八腕，两条更长触腕可缩入囊中，胴部环绕鳍，眼睛瞳孔呈W形。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It lives over sand, mud, seagrass and rocky coastal bottoms and hunts crabs, shrimp, mollusks, fish and other cuttlefish. By day it often hides or camouflages; active stalking and feeding increase at low light.",
+      "zh": "它生活在沙、泥、海草和岩石海岸底质上，捕食蟹、虾、软体动物、鱼及其他乌贼。白天常隐藏或伪装，低光时更积极追踪和取食。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Native to the eastern Atlantic from the North and Baltic Seas south to northwestern Africa, including the Mediterranean. Seasonal migrants move between deeper winter grounds and shallower coastal spawning habitat.",
+      "zh": "原生于东大西洋，从北海和波罗的海向南至非洲西北，并包括地中海。季节性迁移在较深越冬区与较浅海岸产卵地之间进行。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "mantle_length",
+        "label": {
+          "en": "Mantle length",
+          "zh": "胴长"
+        },
+        "value": {
+          "en": "Usually about 20–30 cm; large males near 49 cm",
+          "zh": "通常约20–30厘米；大型雄性接近49厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "arms",
+        "label": {
+          "en": "Appendages",
+          "zh": "附肢"
+        },
+        "value": {
+          "en": "Eight arms plus two retractile feeding tentacles",
+          "zh": "八腕加两条可伸缩捕食触腕"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Crustaceans, mollusks, fish and other cuttlefish",
+          "zh": "甲壳类、软体动物、鱼及其他乌贼"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "Global status",
+          "zh": "全球等级"
+        },
+        "value": {
+          "en": "Least Concern",
+          "zh": "无危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Adults migrate into shallow water to court and spawn. Males display and transfer spermatophores; females attach grape-like black eggs to seafloor structure. Hatchlings emerge as miniature predators, and most adults die after the reproductive season.",
+      "zh": "成体迁入浅水求偶产卵。雄性展示并转移精荚，雌性把葡萄状黑卵附在海底结构上。幼体孵出即为微型捕食者，多数成体在繁殖季后死亡。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Dynamic camouflage",
+          "zh": "动态伪装"
+        },
+        "detail": {
+          "en": "Chromatophores, reflective cells and muscular skin papillae change color, brightness and texture almost instantly.",
+          "zh": "色素细胞、反光细胞和肌肉控制的皮肤乳突几乎瞬间改变颜色、明暗与纹理。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Cuttlebone buoyancy",
+          "zh": "海螵蛸浮力"
+        },
+        "detail": {
+          "en": "Gas and liquid in the chambered internal shell are regulated to hover with little effort.",
+          "zh": "多室内壳中的气体和液体可调节，使其低耗能悬浮。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Ballistic tentacles",
+          "zh": "弹射触腕"
+        },
+        "detail": {
+          "en": "Two tentacles extend rapidly from hidden pockets and club prey before the arms secure it.",
+          "zh": "两条触腕从隐藏囊中快速射出，以触腕棒击中猎物，再由八腕固定。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Common Cuttlefish are both active predators and important prey for fish, marine mammals and seabirds. Their rapid growth and seasonal movement transfer energy between benthic prey and coastal predators.",
+      "zh": "普通乌贼既是积极捕食者，也是鱼、海洋哺乳动物和海鸟的重要猎物。快速生长和季节迁移把底栖猎物能量传给海岸捕食者。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Globally Least Concern, but heavily fished in many regions. Local stocks can be affected by overharvest, damage to egg-laying habitat, warming, oxygen loss and pollution.",
+        "zh": "全球为无危，但许多地区捕捞量大。过度捕捞、产卵基质损坏、变暖、缺氧和污染会影响局部资源。"
+      },
+      "actions": {
+        "en": "Manage fisheries with seasonal and size data, protect shallow spawning grounds and egg attachments, reduce bycatch and monitor climate-driven shifts in recruitment.",
+        "zh": "应依据季节和体型数据管理渔业，保护浅水产卵场及卵附着物，减少兼捕，并监测气候驱动的补充量变化。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Broad oval mantle with a continuous rippling side fin, W-shaped pupils, eight short arms and two hidden long tentacles. A pale cuttlebone may be visible internally or found washed ashore.",
+        "zh": "宽椭圆胴部两侧有连续波动鳍，瞳孔W形，有八条短腕和两条隐藏长触腕。体内有浅色海螵蛸，海岸也常能捡到。"
+      },
+      "similar_species": {
+        "en": "Other Sepia species overlap regionally and can share stripes or mottling. Exact mantle proportions, cuttlebone, arm structures and capture locality are more reliable than the animal's changeable color.",
+        "zh": "其他乌贼属物种在部分地区重叠，也可能有条纹或斑驳。准确胴部比例、海螵蛸、腕部结构和采集地点比可变化体色更可靠。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Large camera-type eyes detect contrast and polarization, while arms and suckers taste and touch objects. Skin patterns communicate threat, courtship and deception even though cuttlefish are color-blind by current evidence.",
+      "zh": "大型相机式眼睛探测对比与偏振光，腕和吸盘则触摸并“尝”物体。尽管现有证据认为乌贼色盲，皮肤图案仍用于威胁、求偶和欺骗交流。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Adults commonly move inshore as water warms for spring and summer spawning, then deeper in colder months. Timing varies with latitude and temperature.",
+      "zh": "成体通常随春夏水温上升迁入近岸产卵，寒冷月份转到更深水域；时间随纬度和温度而变。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The species supports important European fisheries and supplies cuttlebone used for pet birds and craft. Sustainable harvest must protect spawning aggregations rather than relying on its current global LC label.",
+      "zh": "它支撑欧洲重要渔业，海螵蛸也用于宠物鸟补钙和工艺。可持续捕捞需保护产卵集群，不能只依赖当前全球无危标签。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Common Cuttlefish is placed in genus Sepia, family Sepiidae, order Sepiida. This record follows the accepted binomial Sepia officinalis and does not transfer claims or images from look-alike species.",
+      "zh": "普通乌贼归入乌贼属、乌贼科、乌贼目。本条目采用接受学名Sepia officinalis，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Divers may see rippling fin movement, sudden texture changes or paired feeding-tentacle strikes over sand and seagrass. Washed-up cuttlebones indicate cuttlefish but require morphology to confirm species.",
+      "zh": "潜水者可在沙地和海草床看到鳍波动、皮肤纹理突变或成对捕食触腕弹射。漂上海岸的海螵蛸说明有乌贼，但需形态才能确认物种。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "A cuttlefish can pattern the two sides of its body differently at the same time.",
+          "zh": "一只乌贼可以同时让身体两侧显示不同图案。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The cuttlebone is a chambered internal shell, not a bone.",
+          "zh": "海螵蛸是多室内壳，并不是真正的骨头。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its W-shaped pupil remains recognizable even when body color changes completely.",
+          "zh": "即使全身颜色完全改变，W形瞳孔仍可辨认。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Cephalopod neural control",
+          "zh": "头足类神经控制"
+        },
+        "content": {
+          "en": "A large brain coordinates eyes, arms, skin muscles and millions of chromatophore organs. Much local control also occurs through peripheral nerves in the arms and skin.",
+          "zh": "大脑协调眼、腕、皮肤肌肉和数百万色素器官；大量局部控制也由腕与皮肤中的周围神经完成。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Native to the eastern Atlantic from the North and Baltic Seas south to northwestern Africa, including the Mediterranean. Seasonal migrants move between deeper winter grounds and shallower coastal spawning habitat.",
+    "text_zh": "原生于东大西洋，从北海和波罗的海向南至非洲西北，并包括地中海。季节性迁移在较深越冬区与较浅海岸产卵地之间进行。",
+    "map_coordinates": [
+      39,
+      5
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          63,
+          -9
+        ],
+        [
+          61,
+          12
+        ],
+        [
+          54,
+          18
+        ],
+        [
+          47,
+          15
+        ],
+        [
+          36,
+          11
+        ],
+        [
+          30,
+          1
+        ],
+        [
+          21,
+          -18
+        ],
+        [
+          37,
+          -16
+        ],
+        [
+          51,
+          -7
+        ],
+        [
+          63,
+          -9
+        ]
+      ],
+      [
+        [
+          46,
+          -6
+        ],
+        [
+          45,
+          35
+        ],
+        [
+          31,
+          37
+        ],
+        [
+          30,
+          10
+        ],
+        [
+          36,
+          -1
+        ],
+        [
+          46,
+          -6
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/common-cuttlefish.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2290849",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2290849/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Marine Life Information Network (Marine Biological Association)",
+      "url": "https://www.marlin.ac.uk/species/detail/1098",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Marine Biological Laboratory",
+      "url": "https://new-www.mbl.edu/research/research-organisms/common-cuttlefish",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Marine Life Information Network distribution account",
+      "url": "https://www.marlin.ac.uk/species/detail/1098",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

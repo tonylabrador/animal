@@ -1,0 +1,439 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "roseate-spoonbill",
+  "name_zh": "粉红琵鹭",
+  "name_en": "Roseate Spoonbill",
+  "scientific_name": "Platalea ajaja",
+  "ui_tags": [
+    "Bird",
+    "Wetland",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Pelecaniformes",
+      "zh": "鹈形目"
+    },
+    "family": {
+      "en": "Threskiornithidae",
+      "zh": "鹮科"
+    },
+    "genus": {
+      "en": "Platalea",
+      "zh": "琵鹭属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Roseate Spoonbill is a pink American wading bird whose flattened spoon-shaped bill sweeps side to side through shallow water. Sensitive touch receptors snap the bill shut when it contacts shrimp, insects or small fish.",
+    "zh": "粉红琵鹭是美洲粉红色涉禽，扁平匙状喙在浅水中左右扫动。敏感触觉感受器一碰到虾、昆虫或小鱼，喙便迅速闭合。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are about 71–86 cm long with a wingspan near 120–133 cm. They have long pink legs, a white neck and back, deep pink wings and rump, a bare greenish head and a broad gray spoon-tip bill.",
+      "zh": "成鸟体长约71–86厘米，翼展约120–133厘米。腿长而粉红，颈背白色，翼和臀深粉，头部裸露呈绿灰色，灰喙末端宽扁如匙。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It feeds in fresh, brackish and salt shallow wetlands by sweeping its partly open bill while walking. Diet includes aquatic insects, crustaceans, snails and small fish; birds roost and nest colonially in shrubs or trees.",
+      "zh": "它在淡水、半咸水和咸水浅湿地中边走边以半张的喙左右扫捕。食物包括水生昆虫、甲壳类、螺和小鱼；它们群体夜栖，并在灌木或树上成群筑巢。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Occurs from the Gulf Coast and Florida through Mexico, Central America and the Caribbean to much of tropical South America and northern Argentina. Distribution follows productive shallow lagoons, mangroves, marshes and flooded plains.",
+      "zh": "从墨西哥湾沿岸和佛罗里达，经墨西哥、中美洲和加勒比，分布至南美热带大部和阿根廷北部。分布追随生产力高的浅潟湖、红树林、沼泽和洪泛平原。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "length",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "About 71–86 cm",
+          "zh": "约71–86厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "wingspan",
+        "label": {
+          "en": "Wingspan",
+          "zh": "翼展"
+        },
+        "value": {
+          "en": "About 120–133 cm",
+          "zh": "约120–133厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "clutch",
+        "label": {
+          "en": "Clutch",
+          "zh": "窝卵数"
+        },
+        "value": {
+          "en": "Usually 1–5 eggs",
+          "zh": "通常1–5枚卵"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "incubation",
+        "label": {
+          "en": "Incubation",
+          "zh": "孵化期"
+        },
+        "value": {
+          "en": "About 22 days",
+          "zh": "约22天"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Pairs build stick platforms in colony shrubs or trees and usually lay one to five eggs. Both parents incubate for about 22 days and feed chicks by regurgitation; young climb around the colony before their first sustained flight.",
+      "zh": "配偶在群落灌木或树上搭建枝条平台，通常产一至五枚卵。双亲共同孵化约22天并反刍喂雏；幼鸟在能持续飞行前会在巢群枝条间攀爬。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Touch-sensitive spoon bill",
+          "zh": "触敏匙状喙"
+        },
+        "detail": {
+          "en": "The broad bill detects prey by touch, allowing feeding in cloudy water where sight is limited.",
+          "zh": "宽喙靠触觉探测猎物，因此能在能见度低的浑水中取食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Long wading legs",
+          "zh": "长涉水腿"
+        },
+        "detail": {
+          "en": "Long legs keep the body dry while the head and bill sweep a broad shallow-water arc.",
+          "zh": "长腿让身体保持干燥，同时头和喙可扫过宽阔浅水弧线。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Carotenoid plumage",
+          "zh": "类胡萝卜素羽色"
+        },
+        "detail": {
+          "en": "Pink coloration derives from pigments obtained through a diet rich in aquatic animals.",
+          "zh": "粉红羽色来自通过富含水生动物的食物获得的色素。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Spoonbills remove small aquatic prey and move nutrients between feeding wetlands and nesting colonies. Because successful feeding requires suitable shallow depth, their distribution responds quickly to hydrologic change.",
+      "zh": "琵鹭捕食小型水生动物，并在取食湿地与繁殖群之间搬运营养。成功觅食需要适宜浅水深度，因此其分布会快速响应水文变化。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Globally Least Concern and increasing overall after historical recovery, but colonies remain vulnerable to wetland drainage, altered water timing, contamination, disturbance and loss of mangrove nesting sites.",
+        "zh": "全球为无危且总体上升，已从历史低谷恢复，但巢群仍受湿地排水、水文时序改变、污染、干扰和红树林巢址丧失威胁。"
+      },
+      "actions": {
+        "en": "Maintain seasonal shallow-water habitat, protect mangrove and shrub nesting colonies from boat or foot traffic, and control contaminants that accumulate in wetland food webs.",
+        "zh": "应维持季节性浅水生境，防止船只或步行干扰红树林与灌木巢群，并控制在湿地食物网中累积的污染物。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Large pink wader with a bare greenish head, white neck, deep carmine shoulder and rump patches, and an unmistakable long bill ending in a flat rounded spoon.",
+        "zh": "大型粉红涉禽，头部裸露绿灰，颈白，肩和臀有深胭脂红斑，长喙末端扁圆如匙，极醒目。"
+      },
+      "similar_species": {
+        "en": "Flamingos are taller, feed upside down and have a sharply bent bill; Wood Storks are mostly white with black flight feathers and a downcurved pointed bill. Juvenile spoonbills are paler but retain the spoon tip.",
+        "zh": "火烈鸟更高，倒置滤食且喙急弯；林鹳多白色、飞羽黑且喙尖下弯。幼琵鹭更浅色，但仍有匙状喙端。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "The bill relies heavily on touch, while vision guides flock spacing and flight. Nest colonies are noisy with grunts and bill clattering, though feeding birds are often quiet.",
+      "zh": "喙高度依赖触觉，视觉用于保持群体间距和飞行。繁殖群充满咕哝与碰喙声，而觅食鸟常较安静。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Water levels drive feeding concentrations and nesting success. Birds disperse as wetlands dry or flood too deeply, and breeding timing varies from subtropical spring to tropical rainfall cycles.",
+      "zh": "水位决定觅食集中与繁殖成功。湿地过干或淹得太深时鸟会扩散；繁殖时间可从亚热带春季到热带降雨周期不等。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Plume hunting nearly eliminated some U.S. populations in the 19th century, but protection enabled recovery. Today photographers should keep far enough away that colony birds remain settled.",
+      "zh": "19世纪羽饰猎捕曾使美国部分种群几乎消失，保护后得以恢复。如今摄影者应保持足够距离，确保巢群中的鸟不离巢。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Roseate Spoonbill is placed in genus Platalea, family Threskiornithidae, order Pelecaniformes. This record follows the accepted binomial Platalea ajaja and does not transfer claims or images from look-alike species.",
+      "zh": "粉红琵鹭归入琵鹭属、鹮科、鹈形目。本条目采用接受学名Platalea ajaja，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for groups walking slowly in shallow water while sweeping their bills rhythmically side to side. In flight, the neck and legs are extended and pink wings alternate with black tips.",
+      "zh": "可寻找在浅水中缓慢行走、喙有节奏左右扫动的群体。飞行时颈腿伸直，粉红翼与黑色翼尖相间。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The bill snaps shut through touch before the bird necessarily sees the prey.",
+          "zh": "它往往在看清猎物前，就凭触觉让喙迅速闭合。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Young birds are almost white and become pinker as dietary pigments accumulate.",
+          "zh": "幼鸟近乎白色，随着食物色素累积而逐渐变粉。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Roseate Spoonbills are the only spoonbill native to the Americas.",
+          "zh": "粉红琵鹭是美洲唯一原生的琵鹭。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Colonial nesting",
+          "zh": "群体筑巢"
+        },
+        "content": {
+          "en": "Many pairs nest close together in woody wetland vegetation. The colony can dilute some predator risk, but it also makes many nests vulnerable to one disturbance or water-level failure.",
+          "zh": "许多配偶在湿地木本植被中密集筑巢。群聚可分散部分捕食风险，却也使大量巢同时暴露于一次干扰或水位失败。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Occurs from the Gulf Coast and Florida through Mexico, Central America and the Caribbean to much of tropical South America and northern Argentina. Distribution follows productive shallow lagoons, mangroves, marshes and flooded plains.",
+    "text_zh": "从墨西哥湾沿岸和佛罗里达，经墨西哥、中美洲和加勒比，分布至南美热带大部和阿根廷北部。分布追随生产力高的浅潟湖、红树林、沼泽和洪泛平原。",
+    "map_coordinates": [
+      10,
+      -75
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          33,
+          -100
+        ],
+        [
+          32,
+          -80
+        ],
+        [
+          23,
+          -76
+        ],
+        [
+          18,
+          -97
+        ],
+        [
+          26,
+          -103
+        ],
+        [
+          33,
+          -100
+        ]
+      ],
+      [
+        [
+          24,
+          -88
+        ],
+        [
+          22,
+          -61
+        ],
+        [
+          8,
+          -59
+        ],
+        [
+          5,
+          -78
+        ],
+        [
+          14,
+          -92
+        ],
+        [
+          24,
+          -88
+        ]
+      ],
+      [
+        [
+          12,
+          -79
+        ],
+        [
+          8,
+          -51
+        ],
+        [
+          -9,
+          -39
+        ],
+        [
+          -31,
+          -55
+        ],
+        [
+          -27,
+          -69
+        ],
+        [
+          -4,
+          -81
+        ],
+        [
+          12,
+          -79
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/roseate-spoonbill.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2480803",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2480803/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Audubon Field Guide",
+      "url": "https://www.audubon.org/field-guide/bird/roseate-spoonbill",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Smithsonian's National Zoo",
+      "url": "https://nationalzoo.si.edu/animals/roseate-spoonbill",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Audubon Field Guide range account",
+      "url": "https://www.audubon.org/field-guide/bird/roseate-spoonbill",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

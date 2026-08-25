@@ -1,0 +1,391 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "mata-mata",
+  "name_zh": "枯叶龟",
+  "name_en": "Mata Mata",
+  "scientific_name": "Chelus fimbriata",
+  "ui_tags": [
+    "Reptile",
+    "Freshwater",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Testudines",
+      "zh": "龟鳖目"
+    },
+    "family": {
+      "en": "Chelidae",
+      "zh": "蛇颈龟科"
+    },
+    "genus": {
+      "en": "Chelus",
+      "zh": "枯叶龟属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "This record follows the currently accepted combination Chelus fimbriata used by GBIF and the IUCN-linked assessment. Some institutional pages use the historical or alternate spelling Chelus fimbriatus.",
+    "note_zh": "本条目采用GBIF和关联IUCN评估当前使用的接受组合Chelus fimbriata。部分机构页面使用历史或异写Chelus fimbriatus。"
+  },
+  "description": {
+    "en": "The Mata Mata is a bottom-dwelling South American freshwater turtle disguised as submerged bark and dead leaves. Skin fringes break up its outline, and a snorkel-like snout lets it breathe before it suddenly expands its throat to suction in fish.",
+    "zh": "枯叶龟是南美洲底栖淡水龟，伪装成水下树皮和枯叶。皮肤流苏打散轮廓，吸管状吻端让它伸出水面呼吸，捕猎时突然扩张咽部把鱼吸入口中。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The rough flattened shell can reach about 45 cm and large adults roughly 17 kg. A broad triangular head, tiny eyes, long tubular snout, ragged neck flaps and knobby carapace make the species extraordinarily leaf-like.",
+      "zh": "粗糙扁平背甲可达约45厘米，大型成体约17千克。宽三角头、小眼、长管状吻、颈部参差皮瓣和多瘤背甲使它极像枯叶。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It rests almost motionless on muddy bottoms in slow rivers, oxbows, swamps and pools. Mainly nocturnal, it uses sensory cues and camouflage to ambush fish and other small aquatic prey rather than chasing them.",
+      "zh": "它几乎不动地伏在缓流河、牛轭湖、沼泽和水池的泥底。主要夜行，凭感知与伪装伏击鱼和其他小型水生猎物，而不是追逐。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Occurs in the Amazon and Guianas drainage systems of northern South America, including Brazil, Peru, Ecuador, Colombia, Venezuela, Guyana, Suriname and French Guiana. It favors shallow, warm, slow or still water with soft substrate and cover.",
+      "zh": "分布于南美洲北部亚马孙和圭亚那水系，包括巴西、秘鲁、厄瓜多尔、哥伦比亚、委内瑞拉、圭亚那、苏里南和法属圭亚那。偏好温暖浅水、缓流或静水以及柔软底质和遮蔽物。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "shell_length",
+        "label": {
+          "en": "Shell length",
+          "zh": "背甲长"
+        },
+        "value": {
+          "en": "Up to about 45 cm",
+          "zh": "可达约45厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Large adult mass",
+          "zh": "大型成体体重"
+        },
+        "value": {
+          "en": "Up to about 17 kg",
+          "zh": "可达约17千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "clutch",
+        "label": {
+          "en": "Clutch",
+          "zh": "窝卵数"
+        },
+        "value": {
+          "en": "Usually about 12–28 eggs",
+          "zh": "通常约12–28枚卵"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "feeding",
+        "label": {
+          "en": "Feeding method",
+          "zh": "取食方式"
+        },
+        "value": {
+          "en": "Rapid suction ambush",
+          "zh": "快速吸入式伏击"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Females leave the water to nest on land, often during the drier season, and lay roughly 12–28 brittle-shelled eggs. Incubation can approach 200 days; hatchlings enter water already carrying the species' cryptic head and shell form.",
+      "zh": "雌龟离水上岸筑巢，常在较干季节产下约12–28枚脆壳卵。孵化可接近200天；幼龟入水时已具有该种隐蔽的头部和背甲形态。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Leaf-litter disguise",
+          "zh": "枯叶伪装"
+        },
+        "detail": {
+          "en": "A flattened knobby shell and ragged skin flaps match submerged wood and decomposing leaves.",
+          "zh": "扁平多瘤背甲与参差皮瓣模仿水下木块和腐叶。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Suction strike",
+          "zh": "吸入攻击"
+        },
+        "detail": {
+          "en": "Rapid mouth and throat expansion pulls prey and water inward before a fish can turn away.",
+          "zh": "口腔和咽部迅速扩张，把猎物与水一同吸入，使鱼来不及转身。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Snorkel snout",
+          "zh": "吸管状吻"
+        },
+        "detail": {
+          "en": "The long narrow nose reaches the surface so the hidden body can remain submerged.",
+          "zh": "细长鼻端伸至水面呼吸，让隐蔽身体继续浸在水下。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "A specialized ambush predator, the Mata Mata removes small fish and aquatic invertebrates from quiet-water communities. Its dependence on muddy, vegetated backwaters links it to floodplain habitat quality.",
+      "zh": "作为特化伏击捕食者，枯叶龟捕食静水群落中的小鱼和水生无脊椎动物。它依赖泥底、有植被的回水区，因而与洪泛平原生境质量密切相关。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Globally Least Concern, but local capture for the pet trade, wetland alteration, water pollution and collection of unusual-looking turtles can reduce populations.",
+        "zh": "全球为无危，但为宠物贸易捕捉、湿地改变、水污染和因外形奇特而采集会减少局部种群。"
+      },
+      "actions": {
+        "en": "Protect slow-water floodplain habitats, enforce traceable wildlife trade, prevent release of captive turtles outside their native drainage and maintain water quality.",
+        "zh": "应保护缓流洪泛平原生境，执行可追溯野生动物贸易，防止圈养龟被放生到原生流域之外，并维护水质。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A flat, bark-colored turtle with a triangular leaf-like head, tiny eyes, a tubular nose and rows of knobs on the shell; long ragged flaps fringe the head and neck.",
+        "zh": "扁平树皮色龟，头呈三角枯叶状，眼小，鼻管状，背甲排列瘤突，头颈边缘有长而参差的皮瓣。"
+      },
+      "similar_species": {
+        "en": "The closely related Orinoco Mata Mata, Chelus orinocensis, differs genetically and in shell and head pattern and occupies the Orinoco system. Exact drainage and diagnostic pattern must be checked for images.",
+        "zh": "近缘奥里诺科枯叶龟Chelus orinocensis在遗传、甲壳与头部图案上不同，分布于奥里诺科水系。图片需核对具体流域和诊断图案。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Vision is modest; skin tubercles and mechanoreceptors detect water displacement from nearby prey. Chemical cues also help orient the nearly motionless turtle.",
+      "zh": "视觉能力有限；皮肤突起和机械感受器探测附近猎物造成的水流变化，化学线索也帮助几乎不动的龟定向。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Flood pulses open new backwaters and redistribute fish, while falling water concentrates prey. Nesting occurs on land and is timed differently among regions, so exposed banks remain important.",
+      "zh": "洪水脉冲打开新回水区并重新分配鱼类，退水则集中猎物。各地上岸筑巢时间不同，因此裸露河岸仍很重要。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Its bizarre appearance makes it popular in the aquarium trade, but adults become large and require warm, clean, spacious water. Wild-caught specimens and releases outside native basins create conservation and welfare risks.",
+      "zh": "奇异外形使它在水族贸易中很受欢迎，但成体很大，需要温暖、洁净且宽敞水体。野捕和异地放生都会造成保护与福利风险。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Mata Mata is placed in genus Chelus, family Chelidae, order Testudines. This record follows the accepted binomial Chelus fimbriata and does not transfer claims or images from look-alike species.",
+      "zh": "枯叶龟归入枯叶龟属、蛇颈龟科、龟鳖目。本条目采用接受学名Chelus fimbriata，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "The animal is extremely cryptic; a snorkel tip, eye movement or a sudden suction strike may be the only clue among submerged leaves. Surveyors should avoid dragging gear through soft-bottom refuge habitat.",
+      "zh": "它极难发现，枯叶间可能只露出鼻管尖端、眼部动作或突然吸食。调查者应避免拖动器材破坏柔软底质藏身地。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "It does not chew fish; the entire prey is swallowed after being sucked in.",
+          "zh": "它不咀嚼鱼，而是在吸入口后整只吞下。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The nose can reach air while almost the whole turtle remains camouflaged underwater.",
+          "zh": "鼻端可触及空气，而几乎整个身体仍伪装在水下。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The Amazon and Orinoco forms are now treated as separate species.",
+          "zh": "亚马孙和奥里诺科型如今被视为不同物种。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Side-necked turtle",
+          "zh": "侧颈龟"
+        },
+        "content": {
+          "en": "As a chelid side-neck, it bends the head sideways under the front shell margin rather than retracting it straight backward like many other turtles.",
+          "zh": "作为蛇颈龟科侧颈类，它把头向侧面弯入甲缘下，而不像许多其他龟那样直向后缩。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Occurs in the Amazon and Guianas drainage systems of northern South America, including Brazil, Peru, Ecuador, Colombia, Venezuela, Guyana, Suriname and French Guiana. It favors shallow, warm, slow or still water with soft substrate and cover.",
+    "text_zh": "分布于南美洲北部亚马孙和圭亚那水系，包括巴西、秘鲁、厄瓜多尔、哥伦比亚、委内瑞拉、圭亚那、苏里南和法属圭亚那。偏好温暖浅水、缓流或静水以及柔软底质和遮蔽物。",
+    "map_coordinates": [
+      -2,
+      -62
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          8,
+          -78
+        ],
+        [
+          9,
+          -58
+        ],
+        [
+          5,
+          -49
+        ],
+        [
+          -8,
+          -47
+        ],
+        [
+          -17,
+          -60
+        ],
+        [
+          -12,
+          -72
+        ],
+        [
+          -2,
+          -79
+        ],
+        [
+          8,
+          -78
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/mata-mata.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2441927",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2441927/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Smithsonian's National Zoo",
+      "url": "https://nationalzoo.si.edu/animals/matamata-turtle",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Smithsonian's National Zoo",
+      "url": "https://nationalzoo.si.edu/animals/matamata-turtle",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Smithsonian's National Zoo range account",
+      "url": "https://nationalzoo.si.edu/animals/matamata-turtle",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

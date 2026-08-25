@@ -1,0 +1,449 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "egyptian-fruit-bat",
+  "name_zh": "埃及果蝠",
+  "name_en": "Egyptian Fruit Bat",
+  "scientific_name": "Rousettus aegyptiacus",
+  "ui_tags": [
+    "Mammal",
+    "Cave",
+    "Frugivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Chiroptera",
+      "zh": "翼手目"
+    },
+    "family": {
+      "en": "Pteropodidae",
+      "zh": "狐蝠科"
+    },
+    "genus": {
+      "en": "Rousettus",
+      "zh": "果蝠属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Egyptian Fruit Bat is a cave-roosting fruit bat from Africa and the Middle East. Unlike most other fruit bats, it supplements vision and smell with tongue-click echolocation to navigate dark caves.",
+    "zh": "埃及果蝠是分布于非洲和中东、栖息洞穴的食果蝙蝠。与多数其他果蝠不同，它除视觉和嗅觉外还会用舌头发出点击声进行回声定位，在黑暗洞穴中导航。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are roughly 12–19 cm long, weigh up to about 170 g and have a wingspan near 60 cm. A fox-like muzzle, large eyes, rounded ears and gray-brown fur distinguish this medium-sized fruit bat.",
+      "zh": "成体体长约12–19厘米，体重可达约170克，翼展接近60厘米。狐样吻部、大眼、圆耳和灰棕毛色是这种中型果蝠的特征。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Large colonies roost in caves, ruins and tunnels and leave after dusk to locate ripe fruit. Individuals often carry fruit to feeding perches, swallowing pulp and juice while discarding larger seeds and fiber.",
+      "zh": "大型群体栖息在洞穴、遗迹和隧道中，黄昏后外出寻找成熟果实。个体常把果实带到取食栖处，吞咽果肉和汁液，同时吐掉较大的种子与纤维。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Distributed discontinuously across much of sub-Saharan and northeastern Africa, the Nile region, the Levant, Arabian Peninsula and nearby parts of southwest Asia. Roosts require dark sheltered cavities within nightly flight distance of fruiting vegetation.",
+      "zh": "在撒哈拉以南和非洲东北部、尼罗河地区、黎凡特、阿拉伯半岛及西南亚邻近地区呈不连续分布。栖息地需要黑暗、受保护的洞穴，并位于夜间可飞抵的结果植被附近。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_length",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "About 12–19 cm",
+          "zh": "约12–19厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Mass",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "Up to about 170 g",
+          "zh": "可达约170克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "wingspan",
+        "label": {
+          "en": "Wingspan",
+          "zh": "翼展"
+        },
+        "value": {
+          "en": "Around 60 cm",
+          "zh": "约60厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "navigation",
+        "label": {
+          "en": "Cave navigation",
+          "zh": "洞穴导航"
+        },
+        "value": {
+          "en": "Vision, smell and tongue-click echolocation",
+          "zh": "视觉、嗅觉与舌击回声定位"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Breeding timing varies across the wide range and may include one or two seasonal peaks. After roughly four months of gestation, a female usually bears one young and carries it at first before leaving it in the roost nursery.",
+      "zh": "繁殖时间在广阔分布区内各不相同，可能有一至两个季节性高峰。妊娠约四个月后，雌性通常产一仔，最初随身携带，之后把幼仔留在栖息地育幼群中。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Tongue-click sonar",
+          "zh": "舌击声呐"
+        },
+        "detail": {
+          "en": "Clicks produced by the tongue yield echoes that help avoid walls inside dark caves.",
+          "zh": "舌头发出的点击声产生回声，帮助它在黑暗洞穴中避开墙壁。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Fruit-processing teeth",
+          "zh": "果实处理牙齿"
+        },
+        "detail": {
+          "en": "Broad cheek teeth crush soft fruit so juice and pulp can be extracted efficiently.",
+          "zh": "宽阔颊齿可压碎软果，高效摄取果汁和果肉。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Powerful nightly flight",
+          "zh": "强劲夜间飞行"
+        },
+        "detail": {
+          "en": "Long wings carry the bat between secure cave roosts and scattered fruiting trees.",
+          "zh": "长翼帮助它在安全洞穴与分散结果树之间往返。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "By carrying fruit and passing or dropping seeds, colonies can contribute to seed movement and forest regeneration. They also transfer nutrients into caves through guano, supporting cave invertebrate communities.",
+      "zh": "果蝠携带果实并排出或丢落种子，可促进种子移动和森林更新。它们还通过粪便把养分带入洞穴，为洞穴无脊椎动物群落提供资源。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Globally Least Concern, but colonies are vulnerable to roost disturbance, deliberate killing over orchard damage, cave tourism and habitat loss. Dense roosts can decline quickly when repeatedly disturbed.",
+        "zh": "全球为无危，但群体容易受到洞穴干扰、因果园损失而遭捕杀、洞穴旅游和生境丧失影响。密集栖息群若反复受扰可迅速衰退。"
+      },
+      "actions": {
+        "en": "Protect major cave roosts, regulate visitor access during sensitive periods, preserve fruiting-tree networks and use netting or other nonlethal orchard protection rather than colony destruction.",
+        "zh": "应保护重要洞穴栖息地，在敏感期管理游客进入，保留结果树网络，并使用防护网等非致死果园措施而非毁灭群落。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A medium-sized fruit bat with a dog-like face, large dark eyes, rounded ears and plain gray-brown fur; there is no elaborate noseleaf.",
+        "zh": "中型果蝠，具有犬样脸、大而深色的眼睛、圆耳和朴素灰棕毛色，没有复杂鼻叶。"
+      },
+      "similar_species": {
+        "en": "Other Rousettus species can look extremely similar. Confirm geographic range, body proportions and—where safely observable—the characteristic cave-roosting, tongue-clicking behavior; photographs alone may not separate every species.",
+        "zh": "其他果蝠属物种外形可能极相似。应结合地理范围、身体比例以及在不干扰情况下观察到的洞栖和舌击行为；单张照片未必能区分所有物种。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Large eyes and keen smell locate fruit, while audible tongue clicks provide short-range echolocation in caves. Social roosts are noisy, with calls used in close-range recognition and disputes.",
+      "zh": "大眼和灵敏嗅觉用于寻找果实，可听见的舌击声在洞穴中提供短程回声定位。群栖地十分嘈杂，叫声用于近距离识别和争执。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Colony size, birth periods and nightly routes follow regional fruiting and rainfall cycles. Where food becomes scarce, animals may travel farther or shift among roosts.",
+      "zh": "群体规模、产仔期和夜间路线会随当地结果与降雨周期变化。食物短缺时，个体可能飞得更远或在不同栖息地之间转换。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "This bat can consume cultivated fruit and is sometimes persecuted, yet it also moves seeds and is valuable for cave-ecosystem education. People should never enter a roost merely to photograph it.",
+      "zh": "它会取食栽培果实，因而有时遭迫害，但也传播种子并具有洞穴生态教育价值。人们不应仅为拍照进入其栖息洞穴。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Egyptian Fruit Bat is placed in genus Rousettus, family Pteropodidae, order Chiroptera. This record follows the accepted binomial Rousettus aegyptiacus and does not transfer claims or images from look-alike species.",
+      "zh": "埃及果蝠归入果蝠属、狐蝠科、翼手目。本条目采用接受学名Rousettus aegyptiacus，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Large piles of fruit pulp, seeds and guano beneath a cave roost, together with noisy dusk emergence, can indicate a colony. Roost entry should be observed from outside to avoid disturbance and disease exposure.",
+      "zh": "洞穴下方大量果渣、种子和粪便，以及黄昏时嘈杂的出洞活动，可提示群体存在。应从洞外观察，避免干扰和疾病暴露。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "It is one of the few fruit bats known to use echolocation made with the tongue.",
+          "zh": "它是少数已知用舌头发声进行回声定位的果蝠之一。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A colony may include hundreds or thousands of bats.",
+          "zh": "一个栖息群可包含数百乃至数千只。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Fruit is often carried away from the source tree to a feeding perch.",
+          "zh": "果实常被带离原树，在固定取食栖处处理。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Bat flight and nursing",
+          "zh": "蝙蝠飞行与哺乳"
+        },
+        "content": {
+          "en": "The forelimb is transformed into a wing supported by elongated fingers. A mother gives live birth and nurses a single young, initially carrying it before nursery care in the roost.",
+          "zh": "前肢转化为由细长手指支撑的翼。雌性产下活仔并哺乳，最初会携带单只幼仔，随后把它留在栖息地育幼群。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Distributed discontinuously across much of sub-Saharan and northeastern Africa, the Nile region, the Levant, Arabian Peninsula and nearby parts of southwest Asia. Roosts require dark sheltered cavities within nightly flight distance of fruiting vegetation.",
+    "text_zh": "在撒哈拉以南和非洲东北部、尼罗河地区、黎凡特、阿拉伯半岛及西南亚邻近地区呈不连续分布。栖息地需要黑暗、受保护的洞穴，并位于夜间可飞抵的结果植被附近。",
+    "map_coordinates": [
+      5,
+      30
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          34,
+          -17
+        ],
+        [
+          37,
+          10
+        ],
+        [
+          32,
+          38
+        ],
+        [
+          28,
+          51
+        ],
+        [
+          16,
+          50
+        ],
+        [
+          10,
+          43
+        ],
+        [
+          -5,
+          42
+        ],
+        [
+          -13,
+          34
+        ],
+        [
+          -34,
+          28
+        ],
+        [
+          -34,
+          18
+        ],
+        [
+          -20,
+          12
+        ],
+        [
+          -5,
+          8
+        ],
+        [
+          8,
+          -2
+        ],
+        [
+          18,
+          -17
+        ],
+        [
+          34,
+          -17
+        ]
+      ],
+      [
+        [
+          34,
+          34
+        ],
+        [
+          38,
+          45
+        ],
+        [
+          32,
+          57
+        ],
+        [
+          23,
+          55
+        ],
+        [
+          16,
+          47
+        ],
+        [
+          28,
+          40
+        ],
+        [
+          34,
+          34
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/egyptian-fruit-bat.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2432953",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2432953/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Rousettus_aegyptiacus/",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Lincoln Park Zoo",
+      "url": "https://www.lpzoo.org/animals/egyptian-fruit-bat/",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Animal Diversity Web range account",
+      "url": "https://animaldiversity.org/accounts/Rousettus_aegyptiacus/",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

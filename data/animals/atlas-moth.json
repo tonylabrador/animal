@@ -1,0 +1,395 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "atlas-moth",
+  "name_zh": "皇蛾",
+  "name_en": "Atlas Moth",
+  "scientific_name": "Attacus atlas",
+  "ui_tags": [
+    "Insect",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Insecta",
+      "zh": "昆虫纲"
+    },
+    "order": {
+      "en": "Lepidoptera",
+      "zh": "鳞翅目"
+    },
+    "family": {
+      "en": "Saturniidae",
+      "zh": "天蚕蛾科"
+    },
+    "genus": {
+      "en": "Attacus",
+      "zh": "皇蛾属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估",
+    "note_en": "No species-level global IUCN assessment was confirmed. Not Evaluated means assessment is absent, not that the species is secure or abundant.",
+    "note_zh": "未确认到物种级IUCN全球评估。未评估表示缺少评估，并不表示该物种安全或数量丰富。"
+  },
+  "description": {
+    "en": "The Atlas Moth is one of the world's largest moths by wing area, native to South and Southeast Asia. Reddish-brown wings carry translucent windows and snake-head-like tips, while the huge silk-producing caterpillar does nearly all the lifetime feeding.",
+    "zh": "皇蛾按翅面积计是世界最大蛾类之一，原生于南亚和东南亚。红褐色翅有半透明窗斑和似蛇头的翅尖，而巨大的吐丝幼虫完成一生几乎全部取食。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Females can exceed 25 cm in wingspan and have broader, rounder wings and a heavier abdomen than males. Both sexes have four clear triangular wing windows; males possess more strongly feathered antennae for detecting female pheromone.",
+      "zh": "雌蛾翼展可超过25厘米，翅更宽圆，腹部更重。雌雄都有四个透明三角窗斑；雄蛾触角羽毛状更强，用于探测雌性信息素。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Caterpillars feed on many woody hosts, including citrus, guava, rambutan and other trees, then spin a large papery silk cocoon among leaves. Adults lack functional feeding mouthparts and live on energy stored during larval growth.",
+      "zh": "幼虫取食多种木本寄主，包括柑橘、番石榴、红毛丹等，之后在叶间纺成大型纸质丝茧。成虫没有可用的取食口器，依赖幼虫期储存能量生活。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Native broadly across tropical and subtropical South and Southeast Asia, from India and southern China through mainland Southeast Asia to the Malay Archipelago. Exact limits are complicated by related Attacus species and introductions.",
+      "zh": "原生于南亚和东南亚热带、亚热带广阔地区，从印度和中国南部，经中南半岛至马来群岛。近缘皇蛾属物种和引入记录使准确边界较复杂。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "wingspan",
+        "label": {
+          "en": "Wingspan",
+          "zh": "翼展"
+        },
+        "value": {
+          "en": "Large females can exceed 25 cm",
+          "zh": "大型雌蛾可超过25厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "adult_feeding",
+        "label": {
+          "en": "Adult feeding",
+          "zh": "成虫取食"
+        },
+        "value": {
+          "en": "Adults do not feed",
+          "zh": "成虫不取食"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "larval_food",
+        "label": {
+          "en": "Larval hosts",
+          "zh": "幼虫寄主"
+        },
+        "value": {
+          "en": "Many woody plants, including citrus and guava",
+          "zh": "多种木本植物，包括柑橘和番石榴"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "assessment",
+        "label": {
+          "en": "Global assessment",
+          "zh": "全球评估"
+        },
+        "value": {
+          "en": "Not Evaluated by IUCN",
+          "zh": "IUCN未评估"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "A female deposits many eggs on host plants. Fleshy pale caterpillars pass through several molts and accumulate energy before enclosing themselves in a silk cocoon; the short-lived adult emerges to find a mate and reproduce without feeding.",
+      "zh": "雌蛾在寄主植物上产下许多卵。肉质浅色幼虫经历多次蜕皮并积累能量，随后在丝茧中化蛹；短命成虫羽化后不取食，只寻找配偶并繁殖。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Huge energy-storing larva",
+          "zh": "巨型储能幼虫"
+        },
+        "detail": {
+          "en": "A long feeding stage stores enough reserves for pupation, flight, mating and egg production.",
+          "zh": "漫长取食期积累足够能量，供化蛹、飞行、交配和产卵。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Pheromone antennae",
+          "zh": "信息素触角"
+        },
+        "detail": {
+          "en": "Broad feathery male antennae intercept faint female scent over distance.",
+          "zh": "雄蛾宽大羽状触角能在远处截获微弱雌性气味。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Disruptive wing pattern",
+          "zh": "破轮廓翅纹"
+        },
+        "detail": {
+          "en": "Transparent windows and strongly patterned tips break up the outline of a resting moth.",
+          "zh": "透明窗斑和强烈翅尖图案打散静止蛾的轮廓。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Caterpillars convert tree foliage into biomass for birds, reptiles and parasitoids, while adults become prey without feeding on plants. Cocoons and frass return nutrients to forest litter.",
+      "zh": "幼虫把树叶转化为供鸟、爬行动物和寄生性昆虫利用的生物量，成虫不取食植物却成为猎物。茧和虫粪把养分归还林地落叶层。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The species is Not Evaluated globally, so NE does not imply security. Local threats can include forest loss, pesticide use, excessive collecting and replacement of diverse host plants.",
+        "zh": "该种全球未评估，因此NE不代表安全。局部威胁可包括森林丧失、农药使用、过度采集和多样寄主植物被替代。"
+      },
+      "actions": {
+        "en": "Retain diverse native host trees, reduce broad-spectrum insecticides, document regional populations and ensure commercial cocoons or specimens are legally and sustainably sourced.",
+        "zh": "应保留多样乡土寄主树，减少广谱杀虫剂，记录地区种群，并确保商品茧或标本来源合法可持续。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Enormous reddish-brown saturniid with four clear triangular windows, sweeping cream-black lines and strongly hooked forewing tips that resemble a snake's head in profile.",
+        "zh": "巨大的红褐色天蚕蛾，四翅各有透明三角窗斑，翅面有奶油黑色曲线，前翅尖强烈钩曲，侧看似蛇头。"
+      },
+      "similar_species": {
+        "en": "Related Attacus species, especially A. lorquinii and A. caesar, can be extremely similar. Exact locality, forewing-tip pattern, window shape and taxon-vetted observation records must all support image approval.",
+        "zh": "近缘皇蛾属物种，尤其A. lorquinii和A. caesar，外形极相似。图片批准必须同时有准确地点、前翅尖图案、窗斑形状和经分类审核的观察记录支持。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Adult males rely heavily on smell, using feathery antennae to track female pheromone. Caterpillars sense plant chemistry and touch, while adult visual signaling is mostly passive camouflage and startle pattern.",
+      "zh": "成年雄蛾高度依赖嗅觉，以羽状触角追踪雌性信息素。幼虫感知植物化学与触觉，成虫视觉信号主要是被动伪装和惊吓图案。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Generations follow local warmth, monsoon and host-leaf flush, with multiple broods possible in the tropics. Adult life is brief, so emergence and mating are tightly synchronized.",
+      "zh": "世代随当地温度、季风和寄主抽叶变化，热带地区可有多个世代。成虫期短，因此羽化和交配高度同步。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The enormous cocoons and wings make Atlas Moths popular in education, display and the insect trade. Wild collection and live releases should follow local law and avoid mixing regional species.",
+      "zh": "巨大茧和翅使皇蛾常用于教育、展示和昆虫贸易。野外采集及活体放飞应遵守当地法规，并避免混入不同地区近缘种。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Atlas Moth is placed in genus Attacus, family Saturniidae, order Lepidoptera. This record follows the accepted binomial Attacus atlas and does not transfer claims or images from look-alike species.",
+      "zh": "皇蛾归入皇蛾属、天蚕蛾科、鳞翅目。本条目采用接受学名Attacus atlas，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Search host shrubs for large waxy pale-green caterpillars and hanging papery cocoons bound into leaves. Adults often rest motionless on trunks or walls after lights attract them at night.",
+      "zh": "可在寄主灌木上寻找大型蜡质浅绿幼虫，以及绑在叶片间悬挂的纸质茧。成虫夜间被灯吸引后常静止停在树干或墙面。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Adults have no functional mouthparts and never take a meal.",
+          "zh": "成虫没有可用口器，一生不进食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Most of the adult's energy was stored while it was a caterpillar.",
+          "zh": "成虫绝大部分能量在幼虫期储存。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The wing-tip 'snake heads' are an illusion created by pattern and shape.",
+          "zh": "翅尖“蛇头”是由图案与形状共同产生的视觉错觉。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Complete metamorphosis",
+          "zh": "完全变态"
+        },
+        "content": {
+          "en": "Egg, leaf-eating caterpillar, cocooned pupa and nonfeeding winged adult are radically different stages. The larva grows; the adult disperses and reproduces.",
+          "zh": "卵、食叶幼虫、茧中蛹和不取食有翅成虫是截然不同的阶段：幼虫负责生长，成虫负责扩散和繁殖。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Native broadly across tropical and subtropical South and Southeast Asia, from India and southern China through mainland Southeast Asia to the Malay Archipelago. Exact limits are complicated by related Attacus species and introductions.",
+    "text_zh": "原生于南亚和东南亚热带、亚热带广阔地区，从印度和中国南部，经中南半岛至马来群岛。近缘皇蛾属物种和引入记录使准确边界较复杂。",
+    "map_coordinates": [
+      11,
+      106
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          30,
+          72
+        ],
+        [
+          31,
+          105
+        ],
+        [
+          24,
+          120
+        ],
+        [
+          10,
+          124
+        ],
+        [
+          -7,
+          116
+        ],
+        [
+          -9,
+          98
+        ],
+        [
+          5,
+          92
+        ],
+        [
+          18,
+          78
+        ],
+        [
+          30,
+          72
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/atlas-moth.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/5124716",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/5124716/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Singapore Biodiversity Online",
+      "url": "https://m.singapore.biodiversity.online/taxo4254/mainSpace/Attacus%20atlas.html",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "National Parks Board Singapore moth species list",
+      "url": "https://www.nparks.gov.sg/nature/species-list/lepidoptera-moths",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Singapore Biodiversity Online range account",
+      "url": "https://m.singapore.biodiversity.online/taxo4254/mainSpace/Attacus%20atlas.html",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

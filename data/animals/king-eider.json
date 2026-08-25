@@ -1,0 +1,443 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "king-eider",
+  "name_zh": "王绒鸭",
+  "name_en": "King Eider",
+  "scientific_name": "Somateria spectabilis",
+  "ui_tags": [
+    "Bird",
+    "Tundra",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Anseriformes",
+      "zh": "雁形目"
+    },
+    "family": {
+      "en": "Anatidae",
+      "zh": "鸭科"
+    },
+    "genus": {
+      "en": "Somateria",
+      "zh": "绒鸭属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The King Eider is a circumpolar Arctic sea duck. Ornate males carry a pale blue crown, green cheeks and an orange frontal shield, while mottled brown females nest cryptically on tundra and both sexes dive for seafloor invertebrates.",
+    "zh": "王绒鸭是环北极海鸭。华丽雄鸟有淡蓝头顶、绿色脸颊和橙色额盾；斑驳棕色雌鸟隐蔽地在苔原筑巢，雌雄都潜水捕食海底无脊椎动物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are about 47–64 cm long and weigh roughly 1.2–2.1 kg. Breeding males are black-and-white with an ornate multicolored head; females are warm brown with fine barring and a shorter, less wedge-shaped bill than Common Eider females.",
+      "zh": "成鸟体长约47–64厘米，重约1.2–2.1千克。繁殖雄鸟黑白相间，头部多彩华丽；雌鸟暖棕色并有细横纹，喙比普通绒鸭雌鸟更短、楔形较弱。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It nests beside tundra ponds and migrates to marine coasts, polynyas and sea-ice edges. Divers eat mussels, clams, snails, crabs, sea urchins and other benthic prey, sometimes reaching depths near 55 m.",
+      "zh": "它在苔原池塘旁筑巢，之后迁往海岸、冰间水道和海冰边缘。潜水捕食贻贝、蛤、螺、蟹、海胆等底栖猎物，有时下潜接近55米。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Breeds around the high Arctic of Alaska, Canada, Greenland, Svalbard and Russia; winters in large flocks in the Bering Sea, North Atlantic and other ice-free northern marine areas. Migration can exceed 9000 miles per year.",
+      "zh": "在阿拉斯加、加拿大、格陵兰、斯瓦尔巴和俄罗斯高北极环状繁殖；冬季在白令海、北大西洋和其他北方无冰海域形成大群。全年迁徙距离可超过9000英里。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "length",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "About 47–64 cm",
+          "zh": "约47–64厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Mass",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 1.2–2.1 kg",
+          "zh": "约1.2–2.1千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "clutch",
+        "label": {
+          "en": "Clutch",
+          "zh": "窝卵数"
+        },
+        "value": {
+          "en": "Usually 2–7 eggs",
+          "zh": "通常2–7枚卵"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "dive",
+        "label": {
+          "en": "Recorded dive",
+          "zh": "记录潜深"
+        },
+        "value": {
+          "en": "Up to about 55 m",
+          "zh": "可达约55米"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "A female scrapes a down-lined nest near tundra water and usually lays two to seven eggs. She incubates alone; ducklings leave the nest soon after hatching and feed themselves while the female broods and guards them.",
+      "zh": "雌鸟在苔原水边刨出浅巢并铺绒羽，通常产两至七枚卵，由她独自孵化。雏鸭孵化后很快离巢自行觅食，雌鸟负责保温和警戒。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Dense sea-duck insulation",
+          "zh": "海鸭保温层"
+        },
+        "detail": {
+          "en": "Waterproof outer feathers and thick down retain heat in icy seawater.",
+          "zh": "防水外羽和厚绒羽在冰冷海水中保持体温。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Benthic diving",
+          "zh": "底栖潜水"
+        },
+        "detail": {
+          "en": "Strong feet propel deep dives while a robust bill handles hard-shelled prey.",
+          "zh": "强健双足推动深潜，粗壮喙处理带硬壳猎物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Arctic migration",
+          "zh": "北极迁徙"
+        },
+        "detail": {
+          "en": "Long-distance movements track open water, sea-ice edges and seasonal tundra nesting habitat.",
+          "zh": "长距离移动追随开阔水面、海冰边缘和季节性苔原巢地。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "King Eiders are major consumers of benthic invertebrates and an important prey resource for Arctic predators, while eggs and ducklings feed foxes, gulls and jaegers. Their movements link tundra and marine nutrient cycles.",
+      "zh": "王绒鸭大量捕食底栖无脊椎动物，也是北极捕食者的重要食物；卵和雏鸭供狐狸、鸥和贼鸥取食。它们的移动连接苔原和海洋养分循环。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Globally Least Concern but declining, with strong recent reductions reported in parts of North America. Oil spills, hunting, bycatch, changing sea ice and shifts in benthic prey can affect survival.",
+        "zh": "全球为无危但呈下降趋势，北美部分地区近年下降明显。漏油、猎捕、兼捕、海冰变化和底栖猎物改变都会影响存活。"
+      },
+      "actions": {
+        "en": "Monitor breeding and wintering populations across countries, protect major molting and wintering concentrations, prevent oil pollution and reduce fishing-gear bycatch while incorporating Indigenous knowledge.",
+        "zh": "应跨国监测繁殖和越冬种群，保护主要换羽与越冬集中区，预防油污染、减少渔具兼捕，并纳入原住民知识。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Breeding male: pale blue crown, green cheek, orange frontal knob, white chest and black body. Female: compact warm-brown sea duck with finely barred plumage and a curved smile line at the bill base.",
+        "zh": "繁殖雄鸟：淡蓝头顶、绿颊、橙色额瘤、白胸黑体。雌鸟：体型紧凑、暖棕色海鸭，羽毛细横斑，喙基有弯曲“微笑线”。"
+      },
+      "similar_species": {
+        "en": "Common Eider males lack the King Eider's orange shield and blue crown. Female Common Eiders have a longer wedge-shaped bill and different facial feather lines; distance views require caution.",
+        "zh": "普通绒鸭雄鸟没有王绒鸭的橙色额盾和蓝色头顶。普通绒鸭雌鸟喙更长、更楔形，脸部羽线也不同；远距离观察需谨慎。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Vision supports flocking and underwater prey search in clear shallows. Courtship males give soft cooing calls, while females use harsher notes to coordinate ducklings.",
+      "zh": "视觉用于群聚和在清澈浅海水下寻找猎物。求偶雄鸟发柔和咕声，雌鸟以较粗哑声音协调雏鸭。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "The annual cycle moves from Arctic nesting to coastal brood-rearing, flightless molt and large marine winter flocks. Timing closely follows ice breakup and freeze-up.",
+      "zh": "年周期从北极筑巢转入海岸育雏、失去飞行能力的换羽期和大型海上越冬群，时间紧随融冰和封冻。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "King Eiders are culturally and nutritionally important to northern Indigenous communities and are legally hunted in some regions. Sustainable management depends on shared monitoring and respect for local harvest knowledge.",
+      "zh": "王绒鸭对北方原住民社区具有文化和营养意义，部分地区依法猎取。可持续管理依赖共同监测并尊重当地猎获知识。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "King Eider is placed in genus Somateria, family Anatidae, order Anseriformes. This record follows the accepted binomial Somateria spectabilis and does not transfer claims or images from look-alike species.",
+      "zh": "王绒鸭归入绒鸭属、鸭科、雁形目。本条目采用接受学名Somateria spectabilis，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Scan ice edges and offshore flocks for a compact duck that dives nearly in unison with companions. Female identification needs close study of bill shape and facial feathering rather than brown color alone.",
+      "zh": "可在冰缘和近海鸭群中寻找体型紧凑、常与同伴近同步潜水的个体。雌鸟鉴定需细看喙形和脸部羽线，不能只凭棕色。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Some individuals travel more than 9000 miles in a year.",
+          "zh": "部分个体一年迁徙超过9000英里。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "King Eiders can gather in winter flocks numbering many thousands.",
+          "zh": "王绒鸭冬季可形成数以万计的大群。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The male's orange 'crown' is a fleshy frontal shield, not orange feathers.",
+          "zh": "雄鸟橙色“王冠”是肉质额盾，并非橙色羽毛。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Sea-duck down and diving",
+          "zh": "海鸭绒羽与潜水"
+        },
+        "content": {
+          "en": "A dense down layer traps air next to the body, while waterproof contour feathers shed water. During a dive, powerful feet provide thrust and the bird can crush or swallow benthic prey.",
+          "zh": "浓密绒羽在体表锁住空气，防水廓羽排开水分。潜水时强健双足提供推力，鸟可压碎或吞食底栖猎物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Breeds around the high Arctic of Alaska, Canada, Greenland, Svalbard and Russia; winters in large flocks in the Bering Sea, North Atlantic and other ice-free northern marine areas. Migration can exceed 9000 miles per year.",
+    "text_zh": "在阿拉斯加、加拿大、格陵兰、斯瓦尔巴和俄罗斯高北极环状繁殖；冬季在白令海、北大西洋和其他北方无冰海域形成大群。全年迁徙距离可超过9000英里。",
+    "map_coordinates": [
+      70,
+      -40
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          76,
+          -169
+        ],
+        [
+          81,
+          -112
+        ],
+        [
+          74,
+          -55
+        ],
+        [
+          62,
+          -52
+        ],
+        [
+          58,
+          -104
+        ],
+        [
+          61,
+          -155
+        ],
+        [
+          76,
+          -169
+        ]
+      ],
+      [
+        [
+          82,
+          -52
+        ],
+        [
+          82,
+          42
+        ],
+        [
+          73,
+          66
+        ],
+        [
+          60,
+          24
+        ],
+        [
+          61,
+          -12
+        ],
+        [
+          68,
+          -45
+        ],
+        [
+          82,
+          -52
+        ]
+      ],
+      [
+        [
+          82,
+          46
+        ],
+        [
+          80,
+          177
+        ],
+        [
+          61,
+          177
+        ],
+        [
+          57,
+          120
+        ],
+        [
+          63,
+          64
+        ],
+        [
+          82,
+          46
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/king-eider.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2498350",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2498350/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Somateria_spectabilis/",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Somateria_spectabilis/",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Animal Diversity Web range account",
+      "url": "https://animaldiversity.org/accounts/Somateria_spectabilis/",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

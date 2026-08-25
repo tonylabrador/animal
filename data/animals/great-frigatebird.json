@@ -1,0 +1,356 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "great-frigatebird",
+  "name_zh": "大军舰鸟",
+  "name_en": "Great Frigatebird",
+  "scientific_name": "Fregata minor",
+  "ui_tags": [
+    "Bird",
+    "Ocean",
+    "Piscivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Suliformes",
+      "zh": "鲣鸟目"
+    },
+    "family": {
+      "en": "Fregatidae",
+      "zh": "军舰鸟科"
+    },
+    "genus": {
+      "en": "Fregata",
+      "zh": "军舰鸟属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Great Frigatebird is a huge-winged tropical seabird that can soar for hours without landing. Males inflate a scarlet throat sac in courtship, while both sexes snatch fish and squid from the surface without settling on water.",
+    "zh": "大军舰鸟是翼极长的热带海鸟，可连续滑翔数小时而不落地。雄鸟求偶时鼓起猩红喉囊，雌雄都在不落水的情况下从水面抓取鱼和鱿鱼。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are about 85–105 cm long, weigh roughly 1–1.8 kg and span 205–230 cm. The wings are extremely long and angular, the tail deeply forked, and the feet so small that the bird is poorly suited to walking or taking off from water.",
+      "zh": "成鸟体长约85–105厘米，重约1–1.8千克，翼展205–230厘米。翼极长而有棱角，尾深叉，脚很小，因此不适合行走，也难从水面起飞。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It ranges over tropical seas, taking flying fish, squid and other prey near the surface, often above tuna or dolphins that drive prey upward. It also forces other seabirds to drop food, but catches much of its diet itself.",
+      "zh": "它活动于热带海洋，捕食水面附近飞鱼、鱿鱼等猎物，常跟随把猎物赶上水面的金枪鱼或海豚。它也会逼迫其他海鸟丢下食物，但大部分食物仍由自己捕获。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Pantropical at sea, breeding on predator-free oceanic islands in the Pacific, Indian Ocean and a few tropical Atlantic sites. Nonbreeders disperse widely, making a single filled ocean polygon misleading; the map therefore uses a representative colony point.",
+      "zh": "在全球热带海域活动，于太平洋、印度洋和少数热带大西洋地点的无捕食者海岛繁殖。非繁殖鸟广泛扩散，单一填色海洋多边形会造成误导，因此地图采用代表性繁殖群点。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "length",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "About 85–105 cm",
+          "zh": "约85–105厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "wingspan",
+        "label": {
+          "en": "Wingspan",
+          "zh": "翼展"
+        },
+        "value": {
+          "en": "About 205–230 cm",
+          "zh": "约205–230厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Mass",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 1–1.8 kg",
+          "zh": "约1–1.8千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "egg",
+        "label": {
+          "en": "Typical clutch",
+          "zh": "通常窝卵数"
+        },
+        "value": {
+          "en": "One egg; breeding usually no more often than every two years",
+          "zh": "一枚卵；通常最多每两年繁殖一次"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Colonial males display with inflated red throat sacs and vibrating wings. A pair lays one egg and both parents incubate; the chick grows slowly, first flies at about five months and may receive parental food for many more months.",
+      "zh": "群栖雄鸟鼓起红色喉囊并振翼展示。配偶产一枚卵并共同孵化；雏鸟生长缓慢，约五个月首次飞行，之后数月仍可能接受亲鸟喂食。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Extreme wing loading advantage",
+          "zh": "极低翼载优势"
+        },
+        "detail": {
+          "en": "Very long wings relative to body mass exploit thermals and wind with little flapping.",
+          "zh": "相对体重极长的翼能利用热气流和风，几乎无需拍翼。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Aerial surface feeding",
+          "zh": "空中水面取食"
+        },
+        "detail": {
+          "en": "A hooked bill grabs prey while the bird remains airborne, avoiding dangerous water landings.",
+          "zh": "钩喙在鸟仍处飞行时抓取猎物，避免危险的水面降落。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Inflatable courtship sac",
+          "zh": "可膨胀求偶喉囊"
+        },
+        "detail": {
+          "en": "A male's scarlet gular sac becomes a large visual signal to females flying over the colony.",
+          "zh": "雄鸟猩红喉囊鼓成巨大视觉信号，供飞越繁殖群的雌鸟选择。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Frigatebirds track productive fronts and feeding predators, transfer marine nutrients to nesting islands and influence other seabirds through kleptoparasitism. Colonies also create guano-rich terrestrial patches.",
+      "zh": "军舰鸟追随高生产力海洋锋面和捕食鱼群，把海洋养分带到繁殖岛，并通过盗食影响其他海鸟；群落还形成富含鸟粪的陆地斑块。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Globally Least Concern, but isolated colonies are vulnerable to introduced rats and cats, disturbance, nesting-tree loss, entanglement and El Niño-related food shortages.",
+        "zh": "全球为无危，但孤立繁殖群易受外来鼠猫、干扰、巢树丧失、缠绕以及厄尔尼诺引发的食物短缺影响。"
+      },
+      "actions": {
+        "en": "Protect colony islands, remove invasive predators, keep nesting vegetation intact, reduce marine debris and monitor breeding failure during anomalous warm-water years.",
+        "zh": "应保护繁殖岛、清除外来捕食者、保持筑巢植被完整、减少海洋垃圾，并在异常暖水年份监测繁殖失败。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A huge black seabird with extremely long angular wings and a deeply forked tail. Adult males are all dark with a red throat sac; females are larger with a white chest and belly.",
+        "zh": "巨大的黑色海鸟，翼极长有棱角，尾深叉。成年雄鸟全身深色并有红喉囊；雌鸟更大，胸腹白色。"
+      },
+      "similar_species": {
+        "en": "Lesser and Magnificent Frigatebirds overlap in places and immature plumages are difficult. Sex, age, underwing pattern, bill and eye-ring color plus exact locality should all be checked before image approval.",
+        "zh": "小军舰鸟和丽色军舰鸟在部分地区重叠，幼鸟羽色尤其难分。图片批准前应同时核对性别、年龄、翼下图案、喙和眼圈颜色及准确地点。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Acute vision finds prey and other feeding animals from high altitude. Colonies are noisy with bill-clattering, warbles and reeling courtship calls, though birds are often silent at sea.",
+      "zh": "敏锐视觉可从高空发现猎物和其他取食动物。繁殖群中充满喙碰声、颤音和求偶叫声，但海上飞行时常很安静。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding season varies by colony and can extend for months. Long chick dependence means successful females generally cannot breed every year, while nonbreeders roam far from colonies.",
+      "zh": "繁殖季因群落而异，可延续数月。幼鸟依赖期很长，成功繁殖的雌鸟通常无法年年繁殖，非繁殖鸟则远离群落游荡。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Eggs and birds have historically been harvested on some islands, and colonies are sensitive to visitors. Offshore viewing and strict biosecurity around breeding islands prevent disturbance and predator introduction.",
+      "zh": "部分岛屿历史上会采集鸟卵或捕鸟，繁殖群对游客很敏感。海上远观和繁殖岛严格生物安全可避免干扰与外来捕食者传入。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Great Frigatebird is placed in genus Fregata, family Fregatidae, order Suliformes. This record follows the accepted binomial Fregata minor and does not transfer claims or images from look-alike species.",
+      "zh": "大军舰鸟归入军舰鸟属、军舰鸟科、鲣鸟目。本条目采用接受学名Fregata minor，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "At sea, the silhouette—enormous angled wings, tiny body and deeply forked tail—is the first clue. Colony identification requires plumage-age details because several frigatebird species may nest together.",
+      "zh": "海上首先看轮廓：巨大折角翼、很小身体和深叉尾。繁殖群鉴定必须结合羽龄细节，因为多种军舰鸟可能混合筑巢。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Great Frigatebirds can soar overnight when winds are suitable.",
+          "zh": "风况适合时，大军舰鸟可以整夜滑翔。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "They rarely land on water because their tiny feet and waterlogged plumage make takeoff risky.",
+          "zh": "它们很少落水，因为小脚和易湿羽毛会使再次起飞困难。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Stealing food is conspicuous, but most prey is captured directly by the frigatebird.",
+          "zh": "盗食行为很醒目，但大多数猎物仍由军舰鸟直接捕获。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Long parental investment",
+          "zh": "漫长亲代投入"
+        },
+        "content": {
+          "en": "One chick grows slowly in an exposed island nest. Parents alternate long foraging trips, and the young may continue begging for food many months after it first flies.",
+          "zh": "单只雏鸟在暴露的岛屿巢中缓慢生长。双亲轮流远途觅食，幼鸟首次飞行数月后仍可能继续乞食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Pantropical at sea, breeding on predator-free oceanic islands in the Pacific, Indian Ocean and a few tropical Atlantic sites. Nonbreeders disperse widely, making a single filled ocean polygon misleading; the map therefore uses a representative colony point.",
+    "text_zh": "在全球热带海域活动，于太平洋、印度洋和少数热带大西洋地点的无捕食者海岛繁殖。非繁殖鸟广泛扩散，单一填色海洋多边形会造成误导，因此地图采用代表性繁殖群点。",
+    "map_coordinates": [
+      19.8,
+      -155.5
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The authoritative range account describes widely scattered oceanic or island occurrences for which one filled polygon would falsely imply continuous habitat, so the map uses a clearly labelled representative point rather than a guessed boundary.",
+      "comparison_zh": "这是没有旧几何的新记录。权威分布资料描述跨广阔海域或离散岛屿的记录，单一填色多边形会错误暗示连续生境；因此地图使用明确标注的代表点，而不猜测边界。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/great-frigatebird.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/2480187",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2480187/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Fregata_minor/",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "U.S. Fish & Wildlife Service",
+      "url": "https://www.fws.gov/species/great-frigatebird-fregata-minor",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Animal Diversity Web range account",
+      "url": "https://animaldiversity.org/accounts/Fregata_minor/",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "gyrfalcon",
+  "name_zh": "矛隼",
+  "name_en": "Gyrfalcon",
+  "scientific_name": "Falco rusticolus",
+  "ui_tags": [
+    "Bird",
+    "Tundra",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Falconiformes",
+      "zh": "隼形目"
+    },
+    "family": {
+      "en": "Falconidae",
+      "zh": "隼科"
+    },
+    "genus": {
+      "en": "Falco",
+      "zh": "隼属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Gyrfalcon is the world's largest falcon, a powerful predator of Arctic tundra and coasts. Its plumage ranges continuously from nearly white to dark gray, so build, flight style and geography are safer identification cues than color alone.",
+    "zh": "矛隼是世界上最大的隼，是北极苔原和海岸的强力捕食者。其羽色从近乎纯白连续变化到深灰，因此体格、飞行方式和地理位置比单凭颜色更可靠。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are about 48–64 cm long, weigh roughly 0.8–2.1 kg and span around 123 cm, with females much larger than males. Broad-based pointed wings, a long tail and a deep chest give a more massive silhouette than a Peregrine Falcon.",
+      "zh": "成鸟体长约48–64厘米，重约0.8–2.1千克，翼展约123厘米，雌性远大于雄性。基部宽而尖的翼、长尾和深胸使其轮廓比游隼更厚重。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It hunts ptarmigan, seabirds and other medium-sized birds, with mammals also taken. Pairs use cliff ledges or old raven and raptor nests rather than building an elaborate nest of their own.",
+      "zh": "它捕食雷鸟、海鸟和其他中型鸟，也会捕食哺乳动物。配偶利用悬崖平台或渡鸦、猛禽旧巢，而不自己搭建复杂巢。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Breeds around the circumpolar Arctic in Alaska, Canada, Greenland, Iceland, Scandinavia and Russia. Many adults remain near northern territories, while juveniles and some populations move south along coasts, tundra and open country in winter.",
+      "zh": "环北极繁殖，覆盖阿拉斯加、加拿大、格陵兰、冰岛、斯堪的纳维亚和俄罗斯。许多成鸟留在北方领地附近，幼鸟和部分种群冬季会沿海岸、苔原和开阔地南移。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "length",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "About 48–64 cm",
+          "zh": "约48–64厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Mass",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 0.8–2.1 kg; females larger",
+          "zh": "约0.8–2.1千克；雌性更大"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "wingspan",
+        "label": {
+          "en": "Wingspan",
+          "zh": "翼展"
+        },
+        "value": {
+          "en": "Around 123 cm",
+          "zh": "约123厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "clutch",
+        "label": {
+          "en": "Clutch",
+          "zh": "窝卵数"
+        },
+        "value": {
+          "en": "Usually 1–5 eggs",
+          "zh": "通常1–5枚卵"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Pairs occupy cliff territories early in the Arctic spring and usually lay one to five eggs. Incubation lasts roughly 34–36 days; young remain at the nest for about seven weeks and depend on adults after first flight.",
+      "zh": "配偶在北极早春占据悬崖领地，通常产一至五枚卵。孵化约34–36天；幼鸟留巢约七周，初飞后仍依赖成鸟。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Heavy falcon build",
+          "zh": "厚重隼形体格"
+        },
+        "detail": {
+          "en": "A deep chest and broad wing bases generate power for sustained pursuit of ptarmigan and seabirds.",
+          "zh": "深胸与宽翼基产生强大动力，可持续追逐雷鸟和海鸟。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Cold-climate plumage",
+          "zh": "寒地羽衣"
+        },
+        "detail": {
+          "en": "Dense feathers insulate the body and cover much of the legs in severe Arctic weather.",
+          "zh": "浓密羽毛保温，并在严酷北极天气中覆盖大部分腿部。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Flexible prey tracking",
+          "zh": "灵活追踪猎物"
+        },
+        "detail": {
+          "en": "Individuals follow local concentrations of ptarmigan, waterfowl or seabirds rather than relying on one prey everywhere.",
+          "zh": "个体会追随当地雷鸟、水禽或海鸟集中区，而非各地只依赖一种猎物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a top aerial predator, the Gyrfalcon links cycles of ptarmigan and other Arctic prey to cliff-nesting raptor populations. Its nesting ledges are also part of a shared network with ravens and other birds of prey.",
+      "zh": "作为顶级空中捕食者，矛隼把雷鸟等北极猎物的数量周期与悬崖筑巢猛禽种群联系起来；其巢台也与渡鸦和其他猛禽共享使用。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "stable",
+      "threats": {
+        "en": "Globally Least Concern, but climate change may alter tundra prey, snow and nesting conditions. Collision, disturbance, contaminants and illegal take can affect local birds.",
+        "zh": "全球为无危，但气候变化可能改变苔原猎物、积雪和筑巢条件；碰撞、干扰、污染物和非法捕捉也会影响局部个体。"
+      },
+      "actions": {
+        "en": "Protect cliff territories from disturbance, maintain Arctic prey monitoring, reduce collision hazards and contaminants, and enforce international falcon-trade controls.",
+        "zh": "应保护悬崖领地免受干扰，持续监测北极猎物，减少碰撞危险和污染物，并执行国际猎隼贸易管制。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A very large, broad-chested falcon with long tail, broad-based pointed wings and a weak facial moustache. Plumage may be white, silver-gray or dark slate with variable spotting and barring.",
+        "zh": "体型很大、胸宽的隼，尾长，翼基宽而翼尖尖，脸部髭纹较弱。羽色可为白、银灰或深石板色，斑点与横纹变化很大。"
+      },
+      "similar_species": {
+        "en": "Peregrine Falcons are smaller, shorter-tailed and more compact, usually with a stronger dark moustache. White Snowy Owls have rounded wings and owl proportions, not a falcon silhouette.",
+        "zh": "游隼更小、尾更短且体形紧凑，通常有更强的深色髭纹；白色雪鸮翼圆且具鸮形比例，不呈隼的轮廓。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Exceptional distance vision locates prey over open tundra. Calls at cliffs coordinate pair and family activity, while aerial posture and food transfers are strong visual signals.",
+      "zh": "极强远距视觉用于在开阔苔原寻找猎物。悬崖叫声协调配偶和家庭活动，空中姿态与传递食物也是重要视觉信号。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding begins while much of the Arctic remains snowy. After summer fledging, movement varies: some adults stay far north, whereas juveniles can wander far south in prey-poor winters.",
+      "zh": "繁殖开始时北极大部仍覆雪。夏季幼鸟离巢后，移动方式不同：部分成鸟留在极北，猎物不足的冬季幼鸟可远距离南游。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Gyrfalcons have deep cultural importance in Arctic communities and centuries of value in falconry. That prestige makes legal provenance and anti-trafficking enforcement especially important.",
+      "zh": "矛隼在北极社区具有深厚文化意义，并在数百年猎鹰传统中备受珍视；这种声望使合法来源和反走私执法格外重要。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Gyrfalcon is placed in genus Falco, family Falconidae, order Falconiformes. This record follows the accepted binomial Falco rusticolus and does not transfer claims or images from look-alike species.",
+      "zh": "矛隼归入隼属、隼科、隼形目。本条目采用接受学名Falco rusticolus，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Watch cliff faces, seabird colonies and open tundra for a heavy falcon using powerful wingbeats followed by glides. Plucked ptarmigan remains near a ledge can indicate a territory but are not species-exclusive.",
+      "zh": "可在悬崖、海鸟繁殖地和开阔苔原寻找以强力拍翼后滑翔的厚重隼。巢台附近被拔毛的雷鸟残骸可能提示领地，但不是该种独有。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The Gyrfalcon is the largest living falcon.",
+          "zh": "矛隼是现存体型最大的隼。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "White and dark birds belong to the same species; color morphs intergrade.",
+          "zh": "白色和深色个体属于同一物种，各色型之间连续过渡。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Many pairs reuse nests originally built by ravens or other raptors.",
+          "zh": "许多配偶会重复利用渡鸦或其他猛禽建造的旧巢。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Falcon strike mechanics",
+          "zh": "隼类攻击力学"
+        },
+        "content": {
+          "en": "Broad wing bases supply acceleration and the long tail adds control in pursuit. The hooked bill bears a falcon's tomial tooth, used to dispatch captured prey.",
+          "zh": "宽翼基提供加速，长尾增强追逐中的操控。钩状喙具有隼类特有的齿突，用于迅速制服已抓获猎物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Breeds around the circumpolar Arctic in Alaska, Canada, Greenland, Iceland, Scandinavia and Russia. Many adults remain near northern territories, while juveniles and some populations move south along coasts, tundra and open country in winter.",
+    "text_zh": "环北极繁殖，覆盖阿拉斯加、加拿大、格陵兰、冰岛、斯堪的纳维亚和俄罗斯。许多成鸟留在北方领地附近，幼鸟和部分种群冬季会沿海岸、苔原和开阔地南移。",
+    "map_coordinates": [
+      70,
+      -20
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          83,
+          -170
+        ],
+        [
+          82,
+          -115
+        ],
+        [
+          75,
+          -55
+        ],
+        [
+          60,
+          -50
+        ],
+        [
+          55,
+          -100
+        ],
+        [
+          60,
+          -155
+        ],
+        [
+          70,
+          -170
+        ],
+        [
+          83,
+          -170
+        ]
+      ],
+      [
+        [
+          83,
+          -45
+        ],
+        [
+          83,
+          30
+        ],
+        [
+          73,
+          65
+        ],
+        [
+          61,
+          30
+        ],
+        [
+          57,
+          -10
+        ],
+        [
+          64,
+          -45
+        ],
+        [
+          83,
+          -45
+        ]
+      ],
+      [
+        [
+          82,
+          35
+        ],
+        [
+          80,
+          175
+        ],
+        [
+          62,
+          175
+        ],
+        [
+          58,
+          80
+        ],
+        [
+          65,
+          35
+        ],
+        [
+          82,
+          35
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/gyrfalcon.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/8069880",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/8069880/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Falco_rusticolus/",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Falco_rusticolus/",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Animal Diversity Web range account",
+      "url": "https://animaldiversity.org/accounts/Falco_rusticolus/",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

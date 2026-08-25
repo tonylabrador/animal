@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T22:33:36.900Z",
+  "generated_at": "2026-08-25T03:42:40.779Z",
   "completion_rule": "A record is complete only when Rich Content v2 factual/bilingual review, map review, and a human-approved verified-license image all pass.",
   "summary": {
-    "total": 451,
-    "content_reviewed": 451,
+    "total": 478,
+    "content_reviewed": 478,
     "content_pending": 0,
-    "images_verified": 412,
-    "release_complete": 412,
+    "images_verified": 439,
+    "release_complete": 439,
     "release_todo": 39
   },
   "animals": [
@@ -161,6 +161,21 @@
       "batches": [
         "legacy-qc-batch-03"
       ],
+      "issues": []
+    },
+    {
+      "id": "alpine-marmot",
+      "name_en": "Alpine Marmot",
+      "name_zh": "阿尔卑斯旱獭",
+      "scientific_name": "Marmota marmota",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -549,6 +564,21 @@
       "issues": []
     },
     {
+      "id": "atlas-moth",
+      "name_en": "Atlas Moth",
+      "name_zh": "皇蛾",
+      "scientific_name": "Attacus atlas",
+      "class": "Insect",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "australian-box-jellyfish",
       "name_en": "Australian box jellyfish",
       "name_zh": "澳大利亚箱水母",
@@ -908,6 +938,21 @@
       "issues": []
     },
     {
+      "id": "black-necked-stilt",
+      "name_en": "Black-necked Stilt",
+      "name_zh": "黑颈长脚鹬",
+      "scientific_name": "Himantopus mexicanus",
+      "class": "Bird",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "black-stork",
       "name_en": "Black Stork",
       "name_zh": "黑鹳",
@@ -990,6 +1035,21 @@
       "batches": [
         "legacy-qc-batch-03"
       ],
+      "issues": []
+    },
+    {
+      "id": "blue-and-yellow-macaw",
+      "name_en": "Blue-and-yellow Macaw",
+      "name_zh": "蓝黄金刚鹦鹉",
+      "scientific_name": "Ara ararauna",
+      "class": "Bird",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -1367,6 +1427,21 @@
       "issues": []
     },
     {
+      "id": "cape-rain-frog",
+      "name_en": "Cape Rain Frog",
+      "name_zh": "开普短头蛙",
+      "scientific_name": "Breviceps gibbosus",
+      "class": "Amphibian",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-18",
+      "reviewer": "Codex source and bilingual audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "capybara",
       "name_en": "Capybara",
       "name_zh": "水豚",
@@ -1709,6 +1784,21 @@
       "issues": []
     },
     {
+      "id": "coconut-crab",
+      "name_en": "Coconut Crab",
+      "name_zh": "椰子蟹",
+      "scientific_name": "Birgus latro",
+      "class": "Crustacean",
+      "content_status": "reviewed-v2",
+      "map_status": "representative-point",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "commersons-dolphin",
       "name_en": "Commerson's dolphin",
       "name_zh": "康氏矮海豚",
@@ -1774,6 +1864,21 @@
       "batches": [
         "legacy-qc-batch-04"
       ],
+      "issues": []
+    },
+    {
+      "id": "common-cuttlefish",
+      "name_en": "Common Cuttlefish",
+      "name_zh": "普通乌贼",
+      "scientific_name": "Sepia officinalis",
+      "class": "Mollusk",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -2151,6 +2256,21 @@
       "issues": []
     },
     {
+      "id": "dark-eyed-junco",
+      "name_en": "Dark-eyed Junco",
+      "name_zh": "暗眼灯草鹀",
+      "scientific_name": "Junco hyemalis",
+      "class": "Bird",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-18",
+      "reviewer": "Codex source and bilingual audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "darwins-fox",
       "name_en": "Darwin's fox",
       "name_zh": "达尔文狐",
@@ -2335,6 +2455,21 @@
       "batches": [
         "legacy-qc-batch-04"
       ],
+      "issues": []
+    },
+    {
+      "id": "egyptian-fruit-bat",
+      "name_en": "Egyptian Fruit Bat",
+      "name_zh": "埃及果蝠",
+      "scientific_name": "Rousettus aegyptiacus",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -3401,6 +3536,21 @@
       "issues": []
     },
     {
+      "id": "great-frigatebird",
+      "name_en": "Great Frigatebird",
+      "name_zh": "大军舰鸟",
+      "scientific_name": "Fregata minor",
+      "class": "Bird",
+      "content_status": "reviewed-v2",
+      "map_status": "representative-point",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "great-gray-owl",
       "name_en": "Great Gray Owl",
       "name_zh": "乌林鸮",
@@ -3515,6 +3665,21 @@
       "batches": [
         "legacy-qc-batch-05"
       ],
+      "issues": []
+    },
+    {
+      "id": "greater-bulldog-bat",
+      "name_en": "Greater Bulldog Bat",
+      "name_zh": "大兔唇蝠",
+      "scientific_name": "Noctilio leporinus",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -3749,6 +3914,21 @@
       "batches": [
         "legacy-qc-batch-05"
       ],
+      "issues": []
+    },
+    {
+      "id": "gyrfalcon",
+      "name_en": "Gyrfalcon",
+      "name_zh": "矛隼",
+      "scientific_name": "Falco rusticolus",
+      "class": "Bird",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -4130,6 +4310,21 @@
       "issues": []
     },
     {
+      "id": "indian-giant-squirrel",
+      "name_en": "Indian Giant Squirrel",
+      "name_zh": "印度巨松鼠",
+      "scientific_name": "Ratufa indica",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "indian-peafowl",
       "name_en": "Indian Peafowl",
       "name_zh": "蓝孔雀",
@@ -4402,6 +4597,21 @@
       "issues": []
     },
     {
+      "id": "king-eider",
+      "name_en": "King Eider",
+      "name_zh": "王绒鸭",
+      "scientific_name": "Somateria spectabilis",
+      "class": "Bird",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "king-penguin",
       "name_en": "King Penguin",
       "name_zh": "王企鹅",
@@ -4436,6 +4646,21 @@
       "issues": [
         "image-replacement-needed"
       ]
+    },
+    {
+      "id": "kinkajou",
+      "name_en": "Kinkajou",
+      "name_zh": "蜜熊",
+      "scientific_name": "Potos flavus",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
+      "issues": []
     },
     {
       "id": "kit-fox",
@@ -4878,6 +5103,21 @@
       "issues": []
     },
     {
+      "id": "mandarinfish",
+      "name_en": "Mandarinfish",
+      "name_zh": "花斑连鳍䲗",
+      "scientific_name": "Synchiropus splendidus",
+      "class": "Fish",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "maned-wolf",
       "name_en": "Maned Wolf",
       "name_zh": "鬃狼",
@@ -4945,6 +5185,21 @@
       "batches": [
         "legacy-qc-batch-06"
       ],
+      "issues": []
+    },
+    {
+      "id": "mata-mata",
+      "name_en": "Mata Mata",
+      "name_zh": "枯叶龟",
+      "scientific_name": "Chelus fimbriata",
+      "class": "Reptile",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -5156,6 +5411,21 @@
       "issues": []
     },
     {
+      "id": "nicobar-pigeon",
+      "name_en": "Nicobar Pigeon",
+      "name_zh": "尼柯巴鸠",
+      "scientific_name": "Caloenas nicobarica",
+      "class": "Bird",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "nile-crocodile",
       "name_en": "Nile Crocodile",
       "name_zh": "尼罗鳄",
@@ -5221,6 +5491,21 @@
       "batches": [
         "legacy-qc-batch-06"
       ],
+      "issues": []
+    },
+    {
+      "id": "north-american-porcupine",
+      "name_en": "North American Porcupine",
+      "name_zh": "北美豪猪",
+      "scientific_name": "Erethizon dorsatum",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -5415,6 +5700,21 @@
       "issues": []
     },
     {
+      "id": "olm",
+      "name_en": "Olm",
+      "name_zh": "洞螈",
+      "scientific_name": "Proteus anguinus",
+      "class": "Amphibian",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "orca",
       "name_en": "Orca",
       "name_zh": "虎鲸",
@@ -5463,6 +5763,21 @@
       "batches": [
         "legacy-qc-batch-06"
       ],
+      "issues": []
+    },
+    {
+      "id": "pacific-sea-nettle",
+      "name_en": "Pacific Sea Nettle",
+      "name_zh": "太平洋海刺水母",
+      "scientific_name": "Chrysaora fuscescens",
+      "class": "Cnidarian",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -5534,6 +5849,21 @@
       "issues": []
     },
     {
+      "id": "peacock-spider",
+      "name_en": "Peacock Spider",
+      "name_zh": "孔雀跳蛛",
+      "scientific_name": "Maratus volans",
+      "class": "Arachnid",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "pelican-eel",
       "name_en": "Pelican eel",
       "name_zh": "吞噬鳗",
@@ -5599,6 +5929,21 @@
       "batches": [
         "legacy-qc-batch-06"
       ],
+      "issues": []
+    },
+    {
+      "id": "philippine-tarsier",
+      "name_en": "Philippine Tarsier",
+      "name_zh": "菲律宾眼镜猴",
+      "scientific_name": "Carlito syrichta",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -6150,6 +6495,21 @@
       "issues": []
     },
     {
+      "id": "roseate-spoonbill",
+      "name_en": "Roseate Spoonbill",
+      "name_zh": "粉红琵鹭",
+      "scientific_name": "Platalea ajaja",
+      "class": "Bird",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "ruby-throated-hummingbird",
       "name_en": "Ruby-throated Hummingbird",
       "name_zh": "红喉蜂鸟",
@@ -6528,6 +6888,21 @@
       "issues": []
     },
     {
+      "id": "south-african-springhare",
+      "name_en": "South African Springhare",
+      "name_zh": "南非跳兔",
+      "scientific_name": "Pedetes capensis",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "south-american-tapir",
       "name_en": "South American tapir",
       "name_zh": "南美貘",
@@ -6596,6 +6971,21 @@
       "issues": []
     },
     {
+      "id": "southern-hairy-nosed-wombat",
+      "name_en": "Southern Hairy-nosed Wombat",
+      "name_zh": "南澳毛鼻袋熊",
+      "scientific_name": "Lasiorhinus latifrons",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "spectacled-bear",
       "name_en": "Spectacled Bear",
       "name_zh": "眼镜熊",
@@ -6613,6 +7003,21 @@
       "issues": [
         "image-replacement-needed"
       ]
+    },
+    {
+      "id": "spectacled-owl",
+      "name_en": "Spectacled Owl",
+      "name_zh": "眼镜鸮",
+      "scientific_name": "Pulsatrix perspicillata",
+      "class": "Bird",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-08-24",
+      "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
+      "issues": []
     },
     {
       "id": "spinner-dolphin",

@@ -1,0 +1,435 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "southern-hairy-nosed-wombat",
+  "name_zh": "南澳毛鼻袋熊",
+  "name_en": "Southern Hairy-nosed Wombat",
+  "scientific_name": "Lasiorhinus latifrons",
+  "ui_tags": [
+    "Mammal",
+    "Grassland",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Diprotodontia",
+      "zh": "双门齿目"
+    },
+    "family": {
+      "en": "Vombatidae",
+      "zh": "袋熊科"
+    },
+    "genus": {
+      "en": "Lasiorhinus",
+      "zh": "毛鼻袋熊属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Southern Hairy-nosed Wombat is a powerfully built burrowing marsupial of semi-arid southern Australia. Broad digging feet, a tough rump and a slow, water-efficient metabolism suit life in deep communal warrens.",
+    "zh": "南澳毛鼻袋熊是生活在澳大利亚南部半干旱区、体格强壮的穴居有袋类。宽大的掘洞足、坚韧臀部和缓慢节水的代谢适合在大型共用洞系中生活。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are about 77–93 cm long and weigh roughly 19–32 kg. Silky gray-brown fur, pointed ears and a broad muzzle covered with short pale hairs distinguish it from the bare-nosed Common Wombat.",
+      "zh": "成体体长约77–93厘米，体重约19–32千克。柔滑灰棕毛、尖耳以及覆有短浅色毛的宽鼻吻，可把它与裸鼻的普通袋熊区分。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Mostly nocturnal, it grazes native grasses and herbs and spends hot days in a stable burrow microclimate. Several animals may share a warren system while using separate sleeping chambers.",
+      "zh": "它主要夜行，取食乡土草类和草本植物，炎热白天待在温度稳定的洞穴微环境中。多只个体可共用一套洞系，但使用不同睡眠室。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Patchily distributed in semi-arid areas of South Australia, southeastern Western Australia and southwestern New South Wales. It needs firm but diggable soils, low rainfall grassland or shrubland, and reliable forage around warrens.",
+      "zh": "在南澳大利亚州、澳大利亚西部东南部及新南威尔士州西南部的半干旱地区呈斑块状分布。它需要坚实但可挖掘的土壤、低降雨草原或灌丛，以及洞系周围可靠的草料。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_length",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "About 77–93 cm",
+          "zh": "约77–93厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Mass",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 19–32 kg",
+          "zh": "约19–32千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Native grasses and herbs",
+          "zh": "乡土草类和草本植物"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "young",
+        "label": {
+          "en": "Young",
+          "zh": "幼仔"
+        },
+        "value": {
+          "en": "Usually one joey after a short gestation",
+          "zh": "短妊娠后通常产一只幼仔"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Breeding success is strongly linked to rainfall and forage. Gestation lasts only about three weeks, but the single tiny young then develops for months in the rear-opening pouch and remains with the mother after emergence.",
+      "zh": "繁殖成功与降雨和草料密切相关。妊娠仅约三周，但单只微小幼仔随后在向后开口的育儿袋中发育数月，出袋后仍会跟随母亲。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Rear-opening pouch",
+          "zh": "向后开口育儿袋"
+        },
+        "detail": {
+          "en": "The pouch opening faces backward, reducing the amount of soil thrown onto the nursing young while the mother digs.",
+          "zh": "育儿袋开口朝后，母亲挖洞时可减少泥土落到吃奶幼仔身上。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Efficient water budget",
+          "zh": "高效节水"
+        },
+        "detail": {
+          "en": "Low metabolic and water-loss rates help the wombat persist where free water is scarce.",
+          "zh": "较低代谢和失水率帮助它在自由水源稀少处生存。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Armored rump",
+          "zh": "坚固臀盾"
+        },
+        "detail": {
+          "en": "A thick, cartilaginous rump can block a tunnel and shield the vulnerable body from attack.",
+          "zh": "厚实含软骨的臀部可堵住隧道并保护身体脆弱部位。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Large warrens mix and aerate soil, concentrate nutrients and create cool refuges used by reptiles, invertebrates and other mammals. Grazing also shapes vegetation close to entrances.",
+      "zh": "大型洞系混合并疏松土壤、集中养分，还为爬行动物、无脊椎动物和其他哺乳动物提供凉爽庇护所；啃食也会改变洞口附近植被。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Globally Least Concern, yet many colonies are isolated and vulnerable to drought, habitat conversion, road mortality, disease and conflict with landholders over burrows and grazing.",
+        "zh": "全球为无危，但许多群落相互孤立，易受干旱、生境转化、道路死亡、疾病以及与土地所有者在洞穴和放牧方面的冲突影响。"
+      },
+      "actions": {
+        "en": "Protect active warrens and surrounding forage, maintain movement corridors, fence hazardous roads or excavations, and use nonlethal land-management practices around colonies.",
+        "zh": "应保护活跃洞系和周围草料，维护移动廊道，在危险道路或坑沟设置防护，并在群落周围采用非致死土地管理。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A broad, low-slung wombat with soft gray fur, pointed ears and a conspicuously hairy, broad muzzle. The body lacks a visible tail.",
+        "zh": "身体宽低、灰毛柔软，耳尖，宽鼻吻上明显有毛，外观上看不到尾巴。"
+      },
+      "similar_species": {
+        "en": "The Common Wombat has rounder ears and a mostly bare, darker nose; the Northern Hairy-nosed Wombat is much rarer and restricted to a few Queensland sites.",
+        "zh": "普通袋熊耳朵更圆，鼻部多裸露且颜色更深；北方毛鼻袋熊极为稀少，仅限昆士兰少数地点。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Smell is central to locating food and recognizing scent marks around warrens. Low-frequency sounds, growls and body contact mediate encounters in dark tunnels.",
+      "zh": "嗅觉是寻找食物和识别洞系周围气味标记的关键。低频声音、咆哮和身体接触用于黑暗隧道中的相遇交流。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Hot dry periods increase dependence on the warren and restrict surface activity. Rainfall produces green forage and can trigger successful breeding after drought.",
+      "zh": "炎热干旱期增加对洞穴的依赖并限制地表活动；降雨带来绿色草料，并可在旱后触发成功繁殖。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Warrens can undermine tracks or fences and wombats compete locally with livestock, creating conflict. Mapping active entrances and adjusting infrastructure is safer than destroying an occupied warren.",
+      "zh": "洞系可能削弱道路或围栏，袋熊也会在局部与牲畜竞争，因而产生冲突。绘制活跃洞口并调整基础设施比摧毁正在使用的洞系更安全。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Southern Hairy-nosed Wombat is placed in genus Lasiorhinus, family Vombatidae, order Diprotodontia. This record follows the accepted binomial Lasiorhinus latifrons and does not transfer claims or images from look-alike species.",
+      "zh": "南澳毛鼻袋熊归入毛鼻袋熊属、袋熊科、双门齿目。本条目采用接受学名Lasiorhinus latifrons，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "A warren has multiple broad oval entrances, fresh spoil heaps and smooth worn paths. Cubic droppings and short broad tracks often occur nearby; camera traps can confirm species without entering tunnels.",
+      "zh": "洞系通常有多个宽椭圆形入口、新土堆和磨平小径。附近常见方块状粪便和宽短足迹，可用相机陷阱确认物种而不进入隧道。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The pouch opens backward so digging soil is directed away from the joey.",
+          "zh": "育儿袋向后开口，使挖出的泥土不易落到幼仔身上。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A warren may be used by many generations and contain numerous entrances.",
+          "zh": "一套洞系可被多代使用，并有许多入口。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its cube-shaped droppings are produced by the intestine, not molded after defecation.",
+          "zh": "方块状粪便是在肠道中形成的，并非排出后被塑形。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Marsupial development",
+          "zh": "有袋类发育"
+        },
+        "content": {
+          "en": "After a very short gestation, the tiny newborn crawls to a teat in the pouch. Most early development therefore occurs while attached in the protected rear-opening pouch.",
+          "zh": "经过很短妊娠，微小新生幼仔爬入育儿袋并含住乳头；早期大部分发育都在受保护、向后开口的袋中完成。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Patchily distributed in semi-arid areas of South Australia, southeastern Western Australia and southwestern New South Wales. It needs firm but diggable soils, low rainfall grassland or shrubland, and reliable forage around warrens.",
+    "text_zh": "在南澳大利亚州、澳大利亚西部东南部及新南威尔士州西南部的半干旱地区呈斑块状分布。它需要坚实但可挖掘的土壤、低降雨草原或灌丛，以及洞系周围可靠的草料。",
+    "map_coordinates": [
+      -31,
+      135
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -29,
+          118
+        ],
+        [
+          -30,
+          124
+        ],
+        [
+          -34,
+          125
+        ],
+        [
+          -35,
+          117
+        ],
+        [
+          -31,
+          116
+        ],
+        [
+          -29,
+          118
+        ]
+      ],
+      [
+        [
+          -29,
+          129
+        ],
+        [
+          -28,
+          137
+        ],
+        [
+          -33,
+          141
+        ],
+        [
+          -37,
+          140
+        ],
+        [
+          -38,
+          130
+        ],
+        [
+          -34,
+          126
+        ],
+        [
+          -29,
+          129
+        ]
+      ],
+      [
+        [
+          -31,
+          140
+        ],
+        [
+          -31,
+          144
+        ],
+        [
+          -34,
+          143
+        ],
+        [
+          -34,
+          140
+        ],
+        [
+          -31,
+          140
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/southern-hairy-nosed-wombat.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/5219996",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/5219996/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Lasiorhinus_latifrons/",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Lasiorhinus_latifrons/",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Animal Diversity Web range account",
+      "url": "https://animaldiversity.org/accounts/Lasiorhinus_latifrons/",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

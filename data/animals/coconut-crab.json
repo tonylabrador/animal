@@ -1,0 +1,356 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "coconut-crab",
+  "name_zh": "椰子蟹",
+  "name_en": "Coconut Crab",
+  "scientific_name": "Birgus latro",
+  "ui_tags": [
+    "Crustacean",
+    "Island",
+    "Omnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Malacostraca",
+      "zh": "软甲纲"
+    },
+    "order": {
+      "en": "Decapoda",
+      "zh": "十足目"
+    },
+    "family": {
+      "en": "Coenobitidae",
+      "zh": "陆寄居蟹科"
+    },
+    "genus": {
+      "en": "Birgus",
+      "zh": "椰子蟹属"
+    }
+  },
+  "conservation_status": {
+    "code": "VU",
+    "en": "Vulnerable",
+    "zh": "易危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Vulnerable; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为易危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Coconut Crab is the largest terrestrial arthropod and an adult land hermit crab that no longer carries a shell. It climbs coastal forest, cracks many foods with immense claws and depends on the sea only for its drifting larval stages.",
+    "zh": "椰子蟹是最大的陆生节肢动物，也是成体不再背壳的陆寄居蟹。它攀爬海岸森林，以巨大螯处理多种食物，只有漂流幼体阶段依赖海洋。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Large individuals can span about 1 m across the legs and weigh over 4 kg. The abdomen becomes hardened and tucked beneath the body, while the first walking legs form massive unequal claws capable of a crushing grip.",
+      "zh": "大型个体双腿横展可约1米，体重超过4千克。腹部硬化并折叠在身体下方，第一对步足形成巨大不等大的螯，夹力极强。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Mostly nocturnal, it shelters in burrows or rock crevices by day and eats fallen fruit, seeds, carrion, turtle eggs and almost any organic food it can handle. Adults climb trees but can drown if kept underwater.",
+      "zh": "它主要夜行，白天藏在洞穴或岩缝，取食落果、种子、腐肉、海龟卵及几乎任何能处理的有机食物。成体会爬树，但长时间浸水会溺死。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Scattered across tropical Indian and western Pacific Ocean islands from the eastern African region to remote central Pacific archipelagos. Because adults occupy isolated islands separated by vast unsuitable ocean, a single broad polygon would falsely imply continuous habitat; a representative point is used.",
+      "zh": "散布于热带印度洋和西太平洋岛屿，从东非附近延至中太平洋偏远群岛。成体占据由大片不适宜海洋分隔的孤岛，单一广域多边形会错误暗示连续生境，因此使用代表点。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "leg_span",
+        "label": {
+          "en": "Maximum leg span",
+          "zh": "最大腿展"
+        },
+        "value": {
+          "en": "About 1 m",
+          "zh": "约1米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Large adult mass",
+          "zh": "大型成体体重"
+        },
+        "value": {
+          "en": "More than 4 kg",
+          "zh": "超过4千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "adult_habitat",
+        "label": {
+          "en": "Adult habitat",
+          "zh": "成体生境"
+        },
+        "value": {
+          "en": "Terrestrial coastal island forest",
+          "zh": "海岸岛屿陆生森林"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "Global status",
+          "zh": "全球等级"
+        },
+        "value": {
+          "en": "Vulnerable and decreasing",
+          "zh": "易危且下降"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "A female releases eggs into the sea at high tide. Planktonic larvae pass through several marine stages, then a juvenile returns ashore, temporarily uses a small gastropod shell and later hardens its abdomen as it becomes fully terrestrial.",
+      "zh": "雌蟹在高潮时把卵释放入海。浮游幼体经历多个海洋阶段，幼蟹随后上岸，暂时使用小型腹足类壳，之后腹部硬化而成为完全陆生。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Branchial lungs",
+          "zh": "鳃肺"
+        },
+        "detail": {
+          "en": "Modified gill chambers absorb oxygen from moist air, supporting land life but requiring humidity.",
+          "zh": "特化鳃腔从湿润空气吸收氧气，支持陆生但仍需要湿度。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Hardened abdomen",
+          "zh": "硬化腹部"
+        },
+        "detail": {
+          "en": "Unlike smaller land hermit crabs, adults protect the abdomen without carrying a borrowed shell.",
+          "zh": "与较小陆寄居蟹不同，成体腹部自行硬化，不再背借来的壳。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Powerful chelae",
+          "zh": "强力螯"
+        },
+        "detail": {
+          "en": "Huge claws open hard fruit, defend burrows and manipulate carrion or other foods.",
+          "zh": "巨螯可打开坚硬果实、保卫洞穴并处理腐肉等食物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Coconut Crabs consume and disperse fruit, scavenge carcasses, prey on eggs and small animals, and carry marine-derived nutrients inland. On predator-poor islands they can be dominant terrestrial scavengers.",
+      "zh": "椰子蟹取食并传播果实、清理尸体、捕食卵和小动物，还把海洋来源养分带入内陆。在缺少捕食者的岛屿上，它们可成为占优势的陆生食腐者。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Vulnerable and decreasing. Overharvest for food, road mortality, coastal development, introduced predators and the slow growth of large adults drive declines and local disappearance.",
+        "zh": "易危且呈下降趋势。食用捕捉、道路死亡、海岸开发、外来捕食者以及大型成体生长缓慢共同导致下降和局部消失。"
+      },
+      "actions": {
+        "en": "Enforce size and seasonal harvest limits or no-take reserves, protect coastal spawning access and inland forest, slow traffic at night and prevent invasive predator introductions.",
+        "zh": "应执行体型与季节捕捞限制或禁捕区，保护海岸放幼通道和内陆森林，夜间降低车速并防止外来捕食者进入。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "An enormous land hermit crab with a hard exposed abdomen, very large asymmetric claws, long armored legs and blue, purple, orange or brown coloration; adults carry no shell.",
+        "zh": "巨大的陆寄居蟹，腹部硬化外露，螯巨大不对称，腿长且有甲，体色可蓝、紫、橙或棕；成体不背壳。"
+      },
+      "similar_species": {
+        "en": "Other Coenobita land hermit crabs usually carry snail shells and remain much smaller. Juvenile Coconut Crabs may still use shells, so exact locality and developing abdomen are needed.",
+        "zh": "其他陆寄居蟹属通常背着螺壳且小得多。幼年椰子蟹仍可能用壳，因此还需结合准确地点和正在硬化的腹部。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Long antennae and highly developed smell locate food over land. Vibrations and tactile signals guide close encounters, while claws communicate threat through posture and contact.",
+      "zh": "长触角和发达嗅觉用于陆地寻食。振动与触觉引导近距离相遇，螯的姿态和接触传达威胁。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Rain and humidity increase surface activity. Egg release is synchronized with tides and lunar cycles, linking adult movement on land to safe larval entry into the sea.",
+      "zh": "降雨和湿度增加地表活动。放幼与潮汐和月相同步，把成体陆地移动与幼体安全入海联系起来。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Coconut Crabs are culturally important food on many islands but are easy to overharvest because adults are slow-growing, terrestrial and attracted to odors. Visitors should never feed or handle them.",
+      "zh": "椰子蟹在许多岛屿是重要传统食物，但成体生长慢、陆生且易被气味吸引，因而很容易过捕。游客不应投喂或抓握。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Coconut Crab is placed in genus Birgus, family Coenobitidae, order Decapoda. This record follows the accepted binomial Birgus latro and does not transfer claims or images from look-alike species.",
+      "zh": "椰子蟹归入椰子蟹属、陆寄居蟹科、十足目。本条目采用接受学名Birgus latro，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Night surveys reveal large tracks, burrow mouths under roots and crabs following fruit or carrion odors. Handle-free counts with size photographs are safer than grasping an animal whose claws can cause severe injury.",
+      "zh": "夜间调查可见大型足迹、树根下洞口及追随果实或腐肉气味的个体。使用带尺度照片的无抓握计数，比接触夹伤力极强的动物更安全。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Despite the name, coconuts are only one item in a very broad diet.",
+          "zh": "尽管名为椰子蟹，椰子只是其广泛食谱中的一种。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Adults breathe air and can drown underwater.",
+          "zh": "成体呼吸空气，长时间浸水会溺死。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The larval phase is marine even though the adult is fully terrestrial.",
+          "zh": "尽管成体完全陆生，幼体阶段仍在海洋中。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Hermit crab without a shell",
+          "zh": "不背壳的寄居蟹"
+        },
+        "content": {
+          "en": "Young juveniles borrow gastropod shells, but the abdomen later calcifies and folds under the body. This frees a giant adult from dependence on an impossibly large empty shell.",
+          "zh": "幼蟹借用腹足类壳，之后腹部钙化并折入身体下方，使巨型成体不必依赖几乎不可能找到的超大空壳。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Scattered across tropical Indian and western Pacific Ocean islands from the eastern African region to remote central Pacific archipelagos. Because adults occupy isolated islands separated by vast unsuitable ocean, a single broad polygon would falsely imply continuous habitat; a representative point is used.",
+    "text_zh": "散布于热带印度洋和西太平洋岛屿，从东非附近延至中太平洋偏远群岛。成体占据由大片不适宜海洋分隔的孤岛，单一广域多边形会错误暗示连续生境，因此使用代表点。",
+    "map_coordinates": [
+      -10.5,
+      105.7
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [],
+    "range_review": {
+      "display_mode": "representative-point",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The authoritative range account describes widely scattered oceanic or island occurrences for which one filled polygon would falsely imply continuous habitat, so the map uses a clearly labelled representative point rather than a guessed boundary.",
+      "comparison_zh": "这是没有旧几何的新记录。权威分布资料描述跨广阔海域或离散岛屿的记录，单一填色多边形会错误暗示连续生境；因此地图使用明确标注的代表点，而不猜测边界。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/coconut-crab.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/4311512",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/4311512/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Western Australian Museum",
+      "url": "https://museum.wa.gov.au/explore/articles/coconut-crab",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Western Australian Museum",
+      "url": "https://museum.wa.gov.au/explore/articles/coconut-crab",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "IUCN-linked species account via GBIF",
+      "url": "https://api.gbif.org/v1/species/4311512/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    }
+  }
+}

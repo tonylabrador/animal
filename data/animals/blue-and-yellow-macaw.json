@@ -1,0 +1,399 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-08-24",
+    "reviewer": "Codex exact-taxon source, bilingual and range audit",
+    "notes": "Every English and Chinese section was compared line by line; exact-taxon identity, conservation mapping, numeric claims, visual identification risks and generalized range geometry were checked against the cited sources. Polygon boundaries are display generalizations and never imply continuous occupancy."
+  },
+  "id": "blue-and-yellow-macaw",
+  "name_zh": "蓝黄金刚鹦鹉",
+  "name_en": "Blue-and-yellow Macaw",
+  "scientific_name": "Ara ararauna",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Frugivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Psittaciformes",
+      "zh": "鹦形目"
+    },
+    "family": {
+      "en": "Psittacidae",
+      "zh": "鹦鹉科"
+    },
+    "genus": {
+      "en": "Ara",
+      "zh": "金刚鹦鹉属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-08-24 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-08-24核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Blue-and-yellow Macaw is a huge South American parrot with cobalt upperparts, golden underparts and a green forehead. Powerful feet and a massive hooked bill let it climb, manipulate and open hard fruit and seeds high in the canopy.",
+    "zh": "蓝黄金刚鹦鹉是南美洲巨型鹦鹉，上体钴蓝、下体金黄，额部绿色。强健双足和巨大钩喙让它能在树冠中攀爬、操纵并打开坚硬果实和种子。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are about 81–92 cm long, weigh roughly 0.9–1.8 kg and span about 104–114 cm. Bare white facial skin carries fine black feather lines; the bill is black and the very long graduated tail is blue.",
+      "zh": "成鸟体长约81–92厘米，重约0.9–1.8千克，翼展约104–114厘米。白色裸露脸皮上有细黑羽纹，喙黑，极长的楔形尾呈蓝色。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Pairs and noisy flocks feed on fruit, seeds and nuts in rainforest, palm swamp and river-edge forest. Birds often fly long distances between roosts and feeding trees and use large tree cavities for nesting.",
+      "zh": "配偶或喧闹群体在雨林、棕榈沼泽和河岸林中取食果实、种子和坚果。它们常在夜栖地和取食树之间远飞，并利用大型树洞筑巢。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Native across much of tropical South America east of the Andes, from parts of Colombia, Venezuela and the Guianas through the Amazon basin to Bolivia, Paraguay and Brazil. Distribution follows extensive lowland forest, rivers and palm wetlands.",
+      "zh": "原生于安第斯山以东的南美热带大部，从哥伦比亚、委内瑞拉和圭亚那部分地区，经亚马孙盆地至玻利维亚、巴拉圭和巴西。分布追随大片低地森林、河流和棕榈湿地。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "length",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "About 81–92 cm",
+          "zh": "约81–92厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Mass",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 0.9–1.8 kg",
+          "zh": "约0.9–1.8千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "wingspan",
+        "label": {
+          "en": "Wingspan",
+          "zh": "翼展"
+        },
+        "value": {
+          "en": "About 104–114 cm",
+          "zh": "约104–114厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Fruit, seeds and nuts",
+          "zh": "果实、种子和坚果"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Long-term pairs inspect and defend deep tree cavities. A small clutch is incubated mainly by the female while the male supplies food; chicks remain in the cavity for months and continue to depend on both parents after fledging.",
+      "zh": "长期配偶检查并守卫深树洞。少量卵主要由雌性孵化，雄性供食；雏鸟在树洞中停留数月，离巢后仍依赖双亲。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Nut-cracking bill",
+          "zh": "破坚果钩喙"
+        },
+        "detail": {
+          "en": "The deep hooked upper bill and muscular tongue position and split hard foods.",
+          "zh": "深钩上喙与肌肉发达的舌头可定位并劈开坚硬食物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Zygodactyl feet",
+          "zh": "对趾足"
+        },
+        "detail": {
+          "en": "Two toes face forward and two backward, providing a secure climbing grip and hand-like food handling.",
+          "zh": "两趾向前、两趾向后，既能牢抓攀爬，也像手一样操纵食物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Long-distance pair flight",
+          "zh": "长距离配对飞行"
+        },
+        "detail": {
+          "en": "Long pointed wings carry bonded pairs between scattered fruiting trees and communal roosts.",
+          "zh": "长而尖的翼帮助配偶在分散结果树与集体夜栖地间远飞。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Macaws are both seed predators and dispersers: they destroy many kernels but carry and drop other fruits and seeds away from parent trees. Old cavity trees link their reproduction to long-lived forest structure.",
+      "zh": "金刚鹦鹉既是种子捕食者也是传播者：它们破坏许多种仁，也会把其他果实和种子带离母树后丢落。古老树洞使其繁殖依赖长期森林结构。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Globally Least Concern but decreasing. Forest loss, removal of nest trees and capture of adults or chicks for trade cause severe local declines even where the total range remains large.",
+        "zh": "全球为无危但呈下降趋势。森林丧失、巢树移除以及为贸易捕捉成鸟或雏鸟，即使在总体分布仍广时也会造成严重局部下降。"
+      },
+      "actions": {
+        "en": "Protect large cavity-bearing trees and feeding corridors, guard known nests, enforce CITES and domestic trade laws, and support traceable captive breeding rather than wild capture.",
+        "zh": "应保护带大型树洞的树木和取食廊道，守护已知巢址，执行CITES和国内贸易法规，并支持可追溯人工繁育而非野捕。"
+      },
+      "source_keys": [
+        "conservation",
+        "general"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Brilliant blue upperparts and tail, golden-yellow chest and belly, green forehead, black throat and bare white face patterned with narrow black feather lines.",
+        "zh": "上体与长尾亮蓝，胸腹金黄，额绿，喉黑，白色裸脸上排列细黑羽线。"
+      },
+      "similar_species": {
+        "en": "Blue-throated Macaw has a blue—not black—throat, more blue on the face and a much smaller Bolivian range. Hybrids in captivity can blur patterns, so wild provenance matters.",
+        "zh": "蓝喉金刚鹦鹉的喉部为蓝色而非黑色，脸部蓝色更多，且仅分布于玻利维亚狭小区域。圈养杂交会混淆图案，因此野外来源很重要。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Color vision helps locate ripe fruit and recognize flock members. Loud contact calls carry over forest, while bonded pairs use close mutual preening and synchronized flight.",
+      "zh": "色觉帮助寻找成熟果实和识别群体成员。响亮联系叫声可穿透森林，稳定配偶则以相互理羽和同步飞行交流。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Movements follow fruiting trees, flood cycles and regional rainfall. Nesting dates vary widely across the range, so one Amazon season cannot describe every population.",
+      "zh": "移动随结果树、洪水周期和地区降雨变化。整个分布区繁殖日期差异很大，不能用一个亚马孙季节概括所有种群。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The species is popular in aviculture and can learn human sounds, but its intelligence, noise, strength and decades-long lifespan make private care demanding. Wild birds should never be removed for tourism photos.",
+      "zh": "它在鸟类饲养中很受欢迎，也会学习人声，但其智力、噪声、力量和数十年寿命使私人照护要求极高。绝不应为旅游合影从野外捕捉。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Blue-and-yellow Macaw is placed in genus Ara, family Psittacidae, order Psittaciformes. This record follows the accepted binomial Ara ararauna and does not transfer claims or images from look-alike species.",
+      "zh": "蓝黄金刚鹦鹉归入金刚鹦鹉属、鹦鹉科、鹦形目。本条目采用接受学名Ara ararauna，不从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Pairs or flocks announce themselves with harsh calls and straight, strong flight above rivers and forest. Large chewed palm fruits and occupied deep cavities can indicate use, but nests should be watched remotely.",
+      "zh": "配偶或群体以粗哑叫声和河流、森林上空强劲直线飞行暴露行踪。被啃的大型棕榈果和使用中的深树洞可提示活动，但巢应远程观察。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "A macaw often uses one foot like a hand while eating.",
+          "zh": "金刚鹦鹉进食时常把一只脚像手一样使用。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its white facial skin is patterned by tiny lines of black feathers unique enough to help distinguish individuals.",
+          "zh": "白色脸皮上的细黑羽线可独特到帮助区分个体。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Pairs commonly fly side by side even within larger flocks.",
+          "zh": "即使在较大群体中，配偶也通常并排飞行。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Parrot bill-foot coordination",
+          "zh": "鹦鹉喙足协调"
+        },
+        "content": {
+          "en": "The hooked bill acts as both a food tool and a third point of contact while climbing. Zygodactyl feet rotate food so the tongue can position each bite precisely.",
+          "zh": "钩喙既是取食工具，也是攀爬时第三个支点。对趾足旋转食物，让舌头精确定位每一口。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Native across much of tropical South America east of the Andes, from parts of Colombia, Venezuela and the Guianas through the Amazon basin to Bolivia, Paraguay and Brazil. Distribution follows extensive lowland forest, rivers and palm wetlands.",
+    "text_zh": "原生于安第斯山以东的南美热带大部，从哥伦比亚、委内瑞拉和圭亚那部分地区，经亚马孙盆地至玻利维亚、巴拉圭和巴西。分布追随大片低地森林、河流和棕榈湿地。",
+    "map_coordinates": [
+      -6,
+      -62
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          12,
+          -75
+        ],
+        [
+          10,
+          -54
+        ],
+        [
+          3,
+          -47
+        ],
+        [
+          -12,
+          -43
+        ],
+        [
+          -28,
+          -48
+        ],
+        [
+          -26,
+          -63
+        ],
+        [
+          -18,
+          -68
+        ],
+        [
+          -4,
+          -73
+        ],
+        [
+          5,
+          -78
+        ],
+        [
+          12,
+          -75
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons are a conservative, simplified tracing of the cited institutional range account for readable world-map display; boundaries are generalized and do not imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布资料保守概化，以便世界地图清晰呈现；边界为概括范围，不表示圈内每处都有连续分布。",
+      "checked_at": "2026-08-24"
+    }
+  },
+  "image": "/images/animals/blue-and-yellow-macaw.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/5959231",
+      "checked_at": "2026-08-24"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/5959231/iucnRedListCategory",
+      "checked_at": "2026-08-24"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Ara_ararauna/",
+      "checked_at": "2026-08-24"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Ara_ararauna/",
+      "checked_at": "2026-08-24"
+    },
+    "range": {
+      "authority": "Animal Diversity Web range account",
+      "url": "https://animaldiversity.org/accounts/Ara_ararauna/",
+      "checked_at": "2026-08-24"
+    }
+  }
+}
