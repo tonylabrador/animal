@@ -1,0 +1,398 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-09-11",
+    "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
+    "notes": "Each English and Chinese section was compared line by line. Exact species identity, accepted-name conflicts, IUCN mapping, numeric claims, distribution geometry and photo look-alike risks were checked against the cited sources. Display polygons are conservative generalizations and never imply continuous occupancy."
+  },
+  "id": "gerenuk",
+  "name_zh": "长颈羚",
+  "name_en": "Gerenuk",
+  "scientific_name": "Litocranius walleri",
+  "ui_tags": [
+    "Mammal",
+    "Savanna",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Bovidae",
+      "zh": "牛科"
+    },
+    "genus": {
+      "en": "Litocranius",
+      "zh": "长颈羚属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危",
+    "note_en": "The current species-level global category checked on 2026-09-11 is Near Threatened; regional and legal categories may differ.",
+    "note_zh": "已于2026-09-11核对当前物种级全球等级为近危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Gerenuk is a long-necked East African antelope specialized for browsing above the reach of many competitors. It can rise upright on its hind legs, brace against a shrub and use a pointed muzzle and mobile lips to select leaves.",
+    "zh": "长颈羚是东非一种长颈羚羊，专门取食许多竞争者够不到的高处枝叶。它能以后腿直立、靠住灌木，再用尖吻和灵活嘴唇挑取叶片。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are about 140–160 cm long and weigh roughly 29–58 kg; the tail is 22–35 cm. The neck and legs are unusually elongated, the head small and wedge-shaped, and only males carry backward-curving, S-shaped horns about 25–44 cm long.",
+      "zh": "成体体长约140–160厘米，体重约29–58千克，尾长22–35厘米。颈和腿异常细长，头小而楔形；仅雄性有向后弯曲的S形角，角长约25–44厘米。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "A selective browser of dry thorn scrub and savanna, it eats leaves, shoots, flowers and fruit and obtains much of its water from plants. Males are territorial and often solitary; females and young may form small groups.",
+      "zh": "它在干旱刺灌和稀树草原选择性取食叶、嫩枝、花和果实，并从植物中获得大部分水分。雄性有领地性且常独居，雌性和幼体可组成小群。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Dry eastern Africa from Eritrea, Ethiopia and southern Somalia through Kenya into northern Tanzania. It inhabits arid and semi-arid bushland, thorn scrub and wooded savanna from near sea level to highlands around 3,000 m.",
+      "zh": "分布于干旱东非，从厄立特里亚、埃塞俄比亚和索马里南部，经肯尼亚至坦桑尼亚北部。生活在近海平面至约3,000米高地的干旱、半干旱灌丛、刺灌和林木稀树草原。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_length",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "About 140–160 cm",
+          "zh": "约140–160厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Mass",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 29–58 kg",
+          "zh": "约29–58千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "horn_length",
+        "label": {
+          "en": "Male horn length",
+          "zh": "雄性角长"
+        },
+        "value": {
+          "en": "About 25–44 cm",
+          "zh": "约25–44厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "gestation",
+        "label": {
+          "en": "Gestation",
+          "zh": "妊娠期"
+        },
+        "value": {
+          "en": "About 165 days",
+          "zh": "约165天"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Breeding can occur year-round. Gestation is about 165 days and one calf is usual. The mother hides the newborn and returns to nurse; females mature earlier than males, while reported wild lifespan is roughly 10–12 years.",
+      "zh": "全年均可繁殖。妊娠约165天，通常一胎一仔。母羚把新生幼仔藏起并返回哺乳；雌性比雄性较早成熟，野外寿命记录约10–12年。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Upright browsing",
+          "zh": "直立取食"
+        },
+        "detail": {
+          "en": "Powerful hind legs and balance allow access to foliage roughly 2 m above ground.",
+          "zh": "强壮后腿和平衡能力使它能够到离地约2米的枝叶。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Long selective muzzle",
+          "zh": "细长选择性吻"
+        },
+        "detail": {
+          "en": "A narrow head and mobile lips pick leaves among thorns.",
+          "zh": "狭窄头部和灵活嘴唇能在刺间挑取叶片。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Water-saving diet",
+          "zh": "食物供水"
+        },
+        "detail": {
+          "en": "Moist leaves reduce the need to visit exposed drinking sites.",
+          "zh": "含水叶片降低前往暴露饮水点的需要。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "By browsing shrubs above normal antelope height, gerenuks shape woody vegetation and share food resources vertically with other herbivores. They are prey for large carnivores including leopards, lions, cheetahs and wild dogs.",
+      "zh": "长颈羚取食普通羚羊高度以上的灌木，塑造木本植被，并与其他食草动物形成垂直资源分层；它也是豹、狮、猎豹和非洲野犬等大型食肉动物的猎物。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Near Threatened with a decreasing population. Habitat conversion, fragmentation, drought, livestock pressure and hunting reduce populations, especially outside effectively managed protected areas.",
+        "zh": "近危且种群下降。生境转化和破碎化、干旱、牲畜压力及猎捕都会减少种群，保护区管理薄弱的地区尤其明显。"
+      },
+      "actions": {
+        "en": "Maintain connected dry bushland, manage grazing and water development to retain browse, curb illegal hunting and monitor populations across pastoral as well as protected landscapes.",
+        "zh": "应维护连通干旱灌丛，管理放牧和水利开发以保留可食枝叶，遏制非法猎捕，并在牧业景观和保护区同时监测种群。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Extremely long neck and legs, small wedge-shaped head, large eyes and ears, reddish-brown back and pale underparts. Adult males have stout S-curved horns; females are hornless.",
+        "zh": "颈腿极长，头小而楔形，眼耳大，背红褐、腹面浅色。成年雄性有粗壮S形弯角，雌性无角。"
+      },
+      "similar_species": {
+        "en": "Dik-diks are far smaller and browsing gazelles lack the same exaggerated neck and upright stance. Verify the compact body, very long neck and East African dry-bush provenance.",
+        "zh": "犬羚小得多，其他食叶瞪羚也没有如此夸张的长颈和直立姿态。应核对紧凑身体、极长颈和东非干旱灌丛来源。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Large eyes and ears support vigilance in open scrub. Scent marking communicates male territory, while mothers and hidden calves use quiet contact and scent.",
+      "zh": "大眼大耳有助于在开阔灌丛中警戒。雄性用气味标记领地，母羚与隐藏幼仔则以轻声和气味联系。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding occurs in all months, but rainfall changes browse quality, group movement and calf survival. During dry periods their ability to feed high in shrubs becomes especially valuable.",
+      "zh": "全年都可繁殖，但降雨会改变枝叶质量、群体移动和幼仔存活。旱季时，取食高处灌木的能力尤其重要。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "It shares rangelands with pastoral communities and is hunted in parts of its range. Conservation works best when grazing plans retain native shrubs and local people benefit from wildlife tourism and legal land stewardship.",
+      "zh": "它与牧业社区共享草场，并在部分地区遭猎捕。放牧规划保留乡土灌木、当地居民能从野生动物旅游和合法土地管护中获益时，保护最有效。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Gerenuk is placed in genus Litocranius, family Bovidae, order Artiodactyla. This record follows the species-level binomial Litocranius walleri; documented accepted-name conflicts are stated explicitly, and no claims or images are transferred from look-alike species.",
+      "zh": "长颈羚归入长颈羚属、牛科、偶蹄目。本条目采用物种级二名法Litocranius walleri；已知接受名冲突会明确说明，且不会从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for clipped shoots high on thorn bushes and a slim antelope standing bipedally to browse. Tracks alone resemble those of other small antelopes, so posture, neck length and photographs are stronger evidence.",
+      "zh": "可寻找刺灌高处被啃的嫩枝，以及双足直立取食的纤细羚羊。足迹与其他小羚相似，因此姿态、颈长和照片更有鉴别力。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "It can browse while standing only on its hind legs.",
+          "zh": "它能仅以后腿站立取食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Much of its water comes from leaves rather than open water.",
+          "zh": "它的大部分水分来自叶片，而不是明水。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Litocranius contains a single living species in the Mammal Diversity Database.",
+          "zh": "哺乳动物多样性数据库中长颈羚属仅含一个现生物种。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Antelope social structure",
+          "zh": "羚羊社会结构"
+        },
+        "content": {
+          "en": "Territorial adult males often live alone, while females and young form small flexible groups. A newborn's hidden phase reduces detection by predators.",
+          "zh": "有领地的成年雄性常独居，雌性和幼体组成小而灵活的群体。新生幼仔的隐藏期可降低被捕食者发现的风险。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Dry eastern Africa from Eritrea, Ethiopia and southern Somalia through Kenya into northern Tanzania. It inhabits arid and semi-arid bushland, thorn scrub and wooded savanna from near sea level to highlands around 3,000 m.",
+    "text_zh": "分布于干旱东非，从厄立特里亚、埃塞俄比亚和索马里南部，经肯尼亚至坦桑尼亚北部。生活在近海平面至约3,000米高地的干旱、半干旱灌丛、刺灌和林木稀树草原。",
+    "map_coordinates": [
+      4,
+      41
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          15.5,
+          36
+        ],
+        [
+          15,
+          43
+        ],
+        [
+          10,
+          49
+        ],
+        [
+          3,
+          47
+        ],
+        [
+          -5.5,
+          39
+        ],
+        [
+          -4,
+          34
+        ],
+        [
+          3,
+          35
+        ],
+        [
+          9,
+          37
+        ],
+        [
+          15.5,
+          36
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional or peer-reviewed distribution evidence for readable world-map display. Boundaries are approximate and never imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构或同行评审分布证据作保守概化，以便世界地图清晰呈现。边界为近似范围，绝不表示圈内每处都有连续分布。",
+      "checked_at": "2026-09-11"
+    }
+  },
+  "image": "/images/animals/gerenuk.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Mammal Diversity Database",
+      "url": "https://www.mammaldiversity.org/taxon/1006155/",
+      "checked_at": "2026-09-11"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2441093/iucnRedListCategory",
+      "checked_at": "2026-09-11"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Litocranius_walleri/",
+      "checked_at": "2026-09-11"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Litocranius_walleri/",
+      "checked_at": "2026-09-11"
+    },
+    "range": {
+      "authority": "Animal Diversity Web range account",
+      "url": "https://animaldiversity.org/accounts/Litocranius_walleri/",
+      "checked_at": "2026-09-11"
+    }
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-09-11",
+    "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
+    "notes": "Each English and Chinese section was compared line by line. Exact species identity, accepted-name conflicts, IUCN mapping, numeric claims, distribution geometry and photo look-alike risks were checked against the cited sources. Display polygons are conservative generalizations and never imply continuous occupancy."
+  },
+  "id": "magnificent-tree-frog",
+  "name_zh": "华丽树蛙",
+  "name_en": "Magnificent Tree Frog",
+  "scientific_name": "Ranoidea splendida",
+  "ui_tags": [
+    "Amphibian",
+    "Mountains",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Amphibia",
+      "zh": "两栖纲"
+    },
+    "order": {
+      "en": "Anura",
+      "zh": "无尾目"
+    },
+    "family": {
+      "en": "Pelodryadidae",
+      "zh": "澳洲树蛙科"
+    },
+    "genus": {
+      "en": "Ranoidea",
+      "zh": "雨滨蛙属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "GBIF accepts Ranoidea splendida. Australian authorities and the current Amphibian Species of the World account use Litoria splendida or Pelodryas splendida for the same species concept; the linked IUCN assessment is under Litoria splendida and is Least Concern.",
+    "note_zh": "GBIF接受Ranoidea splendida；澳大利亚权威和当前《世界两栖动物物种》条目对同一物种概念采用Litoria splendida或Pelodryas splendida。所链接IUCN评估使用Litoria splendida，等级为无危。"
+  },
+  "description": {
+    "en": "The Magnificent Tree Frog is a huge green frog of rocky Kimberley landscapes in northwestern Australia. White or sulfur-yellow spots and exceptionally large glands extending behind the eyes and over the shoulders distinguish it from the common Green Tree Frog.",
+    "zh": "华丽树蛙是澳大利亚西北部金伯利岩地中的巨型绿色蛙。白色或硫黄色斑点，以及从眼后延伸到肩上的异常巨大腺体，可把它与普通绿雨滨蛙区分开。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults reach roughly 11 cm, with some females reported to 11.8 cm. Fingers are fringed, toes fully webbed, both bear large discs, and long legs support climbing. The green or olive back carries white-yellow spots, sometimes black-centered or edged.",
+      "zh": "成体约可达11厘米，部分雌蛙记录达11.8厘米。指有缘膜、趾全蹼，指趾端均有大型吸盘，长腿适于攀爬。绿或橄榄色背部有白黄斑，部分斑点中央或边缘带黑色。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Nocturnal and insectivorous, it lives on rocks and trees, in caves and along rocky watercourses, and also enters shower blocks and other moist structures. It breeds in rock pools and rock holes after heavy rain.",
+      "zh": "它夜行并捕食昆虫，生活在岩石、树木、洞穴和岩质水道边，也会进入淋浴间等潮湿建筑。大雨后在岩池和岩洞积水中繁殖。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to Australia: the Kimberley region of Western Australia, south to Kimbolton, Napier Downs and Purnululu National Park, plus adjacent Keep River National Park in the Northern Territory. It favors rocky sandstone country and watercourses.",
+      "zh": "澳大利亚特有：分布于西澳大利亚金伯利地区，向南至Kimbolton、Napier Downs和普尔努卢卢国家公园，并见于北领地相邻的Keep River国家公园。偏好岩质砂岩地貌和水道。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "maximum_length",
+        "label": {
+          "en": "Maximum reported length",
+          "zh": "最大记录体长"
+        },
+        "value": {
+          "en": "About 11–11.8 cm",
+          "zh": "约11–11.8厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Mostly nocturnal",
+          "zh": "主要夜行"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "breeding_site",
+        "label": {
+          "en": "Breeding site",
+          "zh": "繁殖水体"
+        },
+        "value": {
+          "en": "Rock pools and rock holes",
+          "zh": "岩池和岩洞积水"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "clutch",
+        "label": {
+          "en": "Recorded clutch",
+          "zh": "记录产卵量"
+        },
+        "value": {
+          "en": "One female laid about 6,400 eggs",
+          "zh": "一只雌蛙记录约产6,400枚卵"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Breeding follows heavy rainfall. One observed female laid about 6,400 small eggs that sank separately to the bottom of a rock pool; the species-specific tadpole remains undescribed in the museum account, so development timing is not stated.",
+      "zh": "繁殖发生在强降雨之后。一只观察到的雌蛙在岩池中产下约6,400枚小卵，卵单独沉底；博物馆条目称其物种级蝌蚪仍未描述，因此不虚构发育时长。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Huge skin glands",
+          "zh": "巨大皮肤腺"
+        },
+        "detail": {
+          "en": "Prominent glands behind the eyes and across the head produce a bitter defensive secretion.",
+          "zh": "眼后及头顶突出的腺体可产生苦味防御分泌物。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Rock-climbing discs",
+          "zh": "岩壁吸盘"
+        },
+        "detail": {
+          "en": "Large finger and toe discs grip cave walls, rocks and vegetation.",
+          "zh": "大型指趾吸盘帮助抓牢洞壁、岩石和植被。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Rain-triggered breeding",
+          "zh": "雨后繁殖"
+        },
+        "detail": {
+          "en": "Heavy rain fills temporary rock basins used for mass egg laying.",
+          "zh": "强降雨灌满临时岩盆，为大量产卵提供水体。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "It consumes insects and other small prey around rocky watercourses and becomes prey for reptiles, birds and mammals. Its eggs and larvae add a temporary pulse of food and biomass to rain-filled rock pools.",
+      "zh": "它在岩质水道附近捕食昆虫和其他小猎物，也会被爬行动物、鸟和哺乳动物捕食。其卵和幼体为雨后岩池带来短期食物与生物量脉冲。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Globally Least Concern. Its range is limited but much lies in sparsely populated rocky country; localized water pollution, disease movement and alteration of rock-pool hydrology remain reasons for careful monitoring. Population trend is not confirmed.",
+        "zh": "全球等级为无危。虽然分布有限，但许多区域位于人口稀少的岩地；局地水污染、疾病传播和岩池水文改变仍值得监测。种群趋势未获确认。"
+      },
+      "actions": {
+        "en": "Protect sandstone watercourses and breeding rock pools, avoid moving frogs between sites, disinfect field equipment to reduce pathogen transfer and record calls after rain through programs such as FrogID.",
+        "zh": "应保护砂岩水道和繁殖岩池，不在地点间转移蛙类，消毒野外设备以降低病原传播，并在雨后通过FrogID等项目记录叫声。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Very large green frog with white or yellow dorsal spots and enormous glands extending from behind the eyes across the top of the head and shoulders; fingers and toes end in broad discs.",
+        "zh": "体型很大的绿色蛙，背有白或黄斑，巨大腺体从眼后延伸至头顶和肩部；指趾端有宽大吸盘。"
+      },
+      "similar_species": {
+        "en": "Green Tree Frog Ranoidea/Litoria caerulea usually lacks the enormous head-and-shoulder glands and bold white-yellow spots. Location in the Kimberley and a clear dorsal view are required for photo approval.",
+        "zh": "普通绿雨滨蛙Ranoidea/Litoria caerulea通常没有覆盖头肩的巨大腺体和醒目白黄斑。照片审批必须结合金伯利地点并看清背部。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Males give a long, loud buzzing call repeated regularly. Large eyes and adhesive digits support nocturnal hunting across rock and vegetation.",
+      "zh": "雄蛙发出长而响亮、规律重复的嗡鸣。大眼和黏附指趾帮助它夜间在岩石和植被间捕猎。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Heavy wet-season rain fills breeding pools and stimulates calling and egg laying. During drier periods frogs shelter in caves, crevices and cool moist human structures.",
+      "zh": "雨季强降雨填满繁殖池并刺激鸣叫与产卵。较干时期，蛙会躲入洞穴、岩缝及凉爽潮湿的人造结构。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "It often rests in shower blocks, drains or other damp structures. People should avoid relocating it far from where found and should keep soaps and chemicals out of natural rock pools.",
+      "zh": "它常在淋浴间、排水处或其他潮湿建筑中休息。人们不应把它远距离搬走，也应避免肥皂和化学品进入天然岩池。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Magnificent Tree Frog is placed in genus Ranoidea, family Pelodryadidae, order Anura. This record follows the species-level binomial Ranoidea splendida; documented accepted-name conflicts are stated explicitly, and no claims or images are transferred from look-alike species.",
+      "zh": "华丽树蛙归入雨滨蛙属、澳洲树蛙科、无尾目。本条目采用物种级二名法Ranoidea splendida；已知接受名冲突会明确说明，且不会从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "After heavy rain, listen near sandstone pools for a repeated loud buzz and look for large green frogs on cave walls, rocks or nearby trees. Do not handle individuals merely to inspect their glands.",
+      "zh": "强降雨后，可在砂岩池附近寻找反复响亮嗡鸣，并查看洞壁、岩石或附近树上的大型绿色蛙。不要为了检查腺体而抓握个体。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "A single observed female deposited roughly 6,400 eggs.",
+          "zh": "一只被观察的雌蛙约产下6,400枚卵。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its head glands are among the most prominent of any Australian frog.",
+          "zh": "它的头部腺体在澳大利亚蛙类中格外突出。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "Three widely used genus combinations refer to this same species concept.",
+          "zh": "目前广泛使用的三个属名组合指向同一物种概念。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Rock-pool amphibian breeding",
+          "zh": "岩池两栖类繁殖"
+        },
+        "content": {
+          "en": "Temporary water in sandstone basins creates a narrow breeding opportunity. Many sinking eggs spread across the pool bottom rather than forming a floating raft.",
+          "zh": "砂岩盆地中的临时积水形成短暂繁殖机会。大量下沉卵分散在池底，而不是聚成漂浮卵团。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Endemic to Australia: the Kimberley region of Western Australia, south to Kimbolton, Napier Downs and Purnululu National Park, plus adjacent Keep River National Park in the Northern Territory. It favors rocky sandstone country and watercourses.",
+    "text_zh": "澳大利亚特有：分布于西澳大利亚金伯利地区，向南至Kimbolton、Napier Downs和普尔努卢卢国家公园，并见于北领地相邻的Keep River国家公园。偏好岩质砂岩地貌和水道。",
+    "map_coordinates": [
+      -15.5,
+      126
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -12.4,
+          128.8
+        ],
+        [
+          -14,
+          129.5
+        ],
+        [
+          -17.5,
+          126.4
+        ],
+        [
+          -18.2,
+          122.3
+        ],
+        [
+          -15.4,
+          123.1
+        ],
+        [
+          -13.2,
+          125.5
+        ],
+        [
+          -12.4,
+          128.8
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional or peer-reviewed distribution evidence for readable world-map display. Boundaries are approximate and never imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构或同行评审分布证据作保守概化，以便世界地图清晰呈现。边界为近似范围，绝不表示圈内每处都有连续分布。",
+      "checked_at": "2026-09-11"
+    }
+  },
+  "image": "/images/animals/magnificent-tree-frog.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy exact species record",
+      "url": "https://api.gbif.org/v1/species/10707123",
+      "checked_at": "2026-09-11"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/10707123/iucnRedListCategory",
+      "checked_at": "2026-09-11"
+    },
+    "general": {
+      "authority": "Western Australian Museum FrogWatch",
+      "url": "https://museum.wa.gov.au/explore/frogwatch/frogs/splendid-tree-frog",
+      "checked_at": "2026-09-11"
+    },
+    "ecology": {
+      "authority": "Western Australia DBCA species profile",
+      "url": "https://library.dbca.wa.gov.au/FullTextFiles/026467.pdf",
+      "checked_at": "2026-09-11"
+    },
+    "range": {
+      "authority": "Amphibian Species of the World, American Museum of Natural History",
+      "url": "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Pelodryadidae/Pelodryas/Pelodryas-splendida",
+      "checked_at": "2026-09-11"
+    }
+  }
+}

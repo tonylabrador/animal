@@ -1,0 +1,466 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-09-11",
+    "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
+    "notes": "Each English and Chinese section was compared line by line. Exact species identity, accepted-name conflicts, IUCN mapping, numeric claims, distribution geometry and photo look-alike risks were checked against the cited sources. Display polygons are conservative generalizations and never imply continuous occupancy."
+  },
+  "id": "violet-blanket-octopus",
+  "name_zh": "紫毯章鱼",
+  "name_en": "Violet Blanket Octopus",
+  "scientific_name": "Tremoctopus violaceus",
+  "ui_tags": [
+    "Mollusk",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Mollusca",
+      "zh": "软体动物门"
+    },
+    "class": {
+      "en": "Cephalopoda",
+      "zh": "头足纲"
+    },
+    "order": {
+      "en": "Octopoda",
+      "zh": "八腕目"
+    },
+    "family": {
+      "en": "Tremoctopodidae",
+      "zh": "毯章鱼科"
+    },
+    "genus": {
+      "en": "Tremoctopus",
+      "zh": "毯章鱼属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估",
+    "note_en": "No species-level global IUCN assessment was confirmed. Not Evaluated means assessment is absent, not that the species is secure or abundant.",
+    "note_zh": "未确认到物种级IUCN全球评估。未评估表示缺少评估，并不表示该物种安全或数量丰富。"
+  },
+  "description": {
+    "en": "The Violet Blanket Octopus is a rarely seen open-ocean octopus of the Atlantic and Mediterranean. Large females carry expandable webs between the dorsal arms, while tiny males are among the most extreme examples of sexual size dimorphism in a non-microscopic animal.",
+    "zh": "紫毯章鱼是大西洋和地中海罕见的大洋性章鱼。大型雌性背侧腕间具有可展开的膜，而微小雄性构成非显微动物中最极端的两性体型差异之一。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Females may reach about 2 m total length, whereas the documented mature male was only 2.4 cm and 0.25 g. Females are muscular and strongly pigmented with expanded dorsal webs; young females and damaged specimens can be hard to separate from related species.",
+      "zh": "雌性全长可达约2米，而已记录的成熟雄性仅2.4厘米、0.25克。雌性肌肉发达、色素浓，背侧腕膜扩展；幼雌或腕膜受损个体可能很难与近缘种区分。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It spends its entire life cycle in the open ocean, mainly the epipelagic zone down to about 250 m. It is predatory, but species-level diet and behavior remain incompletely known because encounters and intact specimens are rare.",
+      "zh": "它整个生命周期都在外海度过，主要位于表层带至约250米。它为捕食者，但因目击和完整标本稀少，物种级食谱与行为仍了解不全。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Tremoctopus violaceus sensu stricto is an Atlantic species, including the Gulf of Mexico, Caribbean Sea and Mediterranean, between 40°N and 35°S. Indo-Pacific blanket-octopus images are often T. gracilis and are not interchangeable.",
+      "zh": "狭义Tremoctopus violaceus是大西洋物种，包括墨西哥湾、加勒比海和地中海，位于北纬40度至南纬35度。印度—太平洋的毯章鱼照片常属于T. gracilis，不能互换。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "female_length",
+        "label": {
+          "en": "Female total length",
+          "zh": "雌性全长"
+        },
+        "value": {
+          "en": "Up to about 2 m",
+          "zh": "可达约2米"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "male_length",
+        "label": {
+          "en": "Documented mature male",
+          "zh": "记录成熟雄性"
+        },
+        "value": {
+          "en": "2.4 cm",
+          "zh": "2.4厘米"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "male_mass",
+        "label": {
+          "en": "Documented male mass",
+          "zh": "记录雄性体重"
+        },
+        "value": {
+          "en": "0.25 g",
+          "zh": "0.25克"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "depth",
+        "label": {
+          "en": "Habitat depth",
+          "zh": "生活水深"
+        },
+        "value": {
+          "en": "Epipelagic, about 1–250 m",
+          "zh": "表层带，约1–250米"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "A dwarf male transfers a detachable sperm-bearing hectocotylus, which the female retains. Females brood eggs against the expanded dorsal web until hatching. Exact growth rates, lifespan and seasonality remain poorly resolved.",
+      "zh": "矮小雄性转移可脱落、携带精子的交接腕，由雌性保存。雌性把卵附在扩展的背侧腕膜处保护直至孵化。确切生长速度、寿命和季节性仍不清楚。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Expandable blanket",
+          "zh": "可展腕膜"
+        },
+        "detail": {
+          "en": "Large females spread the dorsal web into a visually imposing, controllable sheet.",
+          "zh": "大型雌性把背侧腕膜展开成醒目且可控制的宽大薄幕。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Extreme dwarf male",
+          "zh": "极端矮雄"
+        },
+        "detail": {
+          "en": "Tiny males invest in locating and transferring sperm rather than growing a large feeding body.",
+          "zh": "微小雄性把资源投入寻找雌性和转移精子，而非长成大型取食身体。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Borrowed stinging defense",
+          "zh": "借用刺丝防御"
+        },
+        "detail": {
+          "en": "Young individuals can carry fragments of Portuguese-man-o'-war tentacles as defensive weapons.",
+          "zh": "幼体可携带僧帽水母触手碎片作为防御武器。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "It is a pelagic predator and prey item in Atlantic open-ocean food webs. Interactions with cnidarians are unusual: juveniles can use stinging tentacle fragments, while larger predators still consume blanket octopuses.",
+      "zh": "它是大西洋远洋食物网中的捕食者和猎物。与刺胞动物的关系很特殊：幼体可利用带刺触手碎片，但毯章鱼仍会被大型捕食者吃掉。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "No species-level global IUCN assessment was confirmed, so it is Not Evaluated rather than known secure. Rarity of records and frequent Tremoctopus misidentification make abundance and trend uncertain; bycatch and ocean change require better data.",
+        "zh": "未确认到物种级全球IUCN评估，因此应列为未评估，而不是已知安全。记录稀少且毯章鱼属误鉴频繁，使丰度和趋势不明；兼捕和海洋变化需要更多数据。"
+      },
+      "actions": {
+        "en": "Preserve intact specimens and high-quality photographs with locality, sex and web-pattern data, use molecular confirmation where possible, reduce pelagic plastic and bycatch, and keep T. violaceus separate from Indo-Pacific T. gracilis.",
+        "zh": "应保留带地点、性别和腕膜图案的完整标本或高质量照片，尽可能用分子方法确认，减少远洋塑料和兼捕，并把T. violaceus与印度—太平洋的T. gracilis严格区分。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Large female: muscular pigmented body and broad web between long dorsal arms. Species-level confirmation requires Atlantic/Mediterranean provenance and intact web or molecular characters; tiny males look radically different.",
+        "zh": "大型雌性具有肌肉发达的深色身体和长背腕间宽阔腕膜。物种级确认需大西洋或地中海来源，并有完整腕膜或分子特征；微小雄性的外形完全不同。"
+      },
+      "similar_species": {
+        "en": "Tremoctopus gracilis inhabits the Pacific and Indian oceans and is frequently mislabeled online as T. violaceus. Juvenile females can be morphologically indistinguishable, so a colorful blanket-octopus image without reliable Atlantic metadata is rejected.",
+        "zh": "Tremoctopus gracilis分布在太平洋和印度洋，网络照片常被误标为T. violaceus。幼雌形态可能无法区分，因此没有可靠大西洋元数据的彩色毯章鱼照片必须拒绝。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Large eyes suit open-water visual detection, while skin chromatophores change appearance. Detailed species-specific signaling remains poorly observed because live encounters are rare.",
+      "zh": "大眼适应开阔水体视觉探测，皮肤色素胞可改变外观。由于活体目击稀少，物种级信号行为仍了解不足。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "No robust basin-wide seasonal calendar is established. Records are scattered across warm Atlantic and Mediterranean waters, and observation peaks may reflect currents and sampling rather than breeding alone.",
+      "zh": "尚无可靠的全海盆季节日历。记录散布在温暖大西洋和地中海水域，目击高峰可能反映海流和采样，而不只由繁殖造成。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Strandings and fishery captures are scientifically valuable when documented, but living animals should remain in the water. Handle stranded cephalopods only under local wildlife guidance because stinging cnidarian fragments may be present.",
+      "zh": "搁浅和渔业捕获若记录完整具有科学价值，但活体应留在水中。搁浅头足类只能按当地野生动物指导处理，因为可能携带刺胞动物触手碎片。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Violet Blanket Octopus is placed in genus Tremoctopus, family Tremoctopodidae, order Octopoda. This record follows the species-level binomial Tremoctopus violaceus; documented accepted-name conflicts are stated explicitly, and no claims or images are transferred from look-alike species.",
+      "zh": "紫毯章鱼归入毯章鱼属、毯章鱼科、八腕目。本条目采用物种级二名法Tremoctopus violaceus；已知接受名冲突会明确说明，且不会从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Record video of the web pattern, mantle, arm arrangement and swimming, plus precise ocean basin and coordinates. Do not assign this species solely from rainbow coloration or the common name 'blanket octopus.'",
+      "zh": "应记录腕膜图案、外套膜、腕排列和游动视频，并保存精确海盆和坐标。不能仅凭彩虹色或泛称“毯章鱼”就鉴定为本种。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "A mature male measured 2.4 cm while females can reach about 2 m.",
+          "zh": "成熟雄性记录仅2.4厘米，而雌性可达约2米。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "The sperm-bearing arm detaches during transfer and is retained by the female.",
+          "zh": "携带精子的腕在转移时脱落，并由雌性保存。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "Many spectacular Indo-Pacific blanket-octopus photographs belong to a different species, T. gracilis.",
+          "zh": "许多壮观的印度—太平洋毯章鱼照片属于另一个物种T. gracilis。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Pelagic octopus reproduction",
+          "zh": "远洋章鱼繁殖"
+        },
+        "content": {
+          "en": "Extreme size dimorphism and a detachable hectocotylus are solutions to finding and mating in a vast three-dimensional habitat where encounters are rare.",
+          "zh": "极端两性体型差异和可脱落交接腕，是在相遇稀少的巨大三维远洋环境中寻找配偶并完成交配的适应。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Tremoctopus violaceus sensu stricto is an Atlantic species, including the Gulf of Mexico, Caribbean Sea and Mediterranean, between 40°N and 35°S. Indo-Pacific blanket-octopus images are often T. gracilis and are not interchangeable.",
+    "text_zh": "狭义Tremoctopus violaceus是大西洋物种，包括墨西哥湾、加勒比海和地中海，位于北纬40度至南纬35度。印度—太平洋的毯章鱼照片常属于T. gracilis，不能互换。",
+    "map_coordinates": [
+      15,
+      -40
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          38,
+          -80
+        ],
+        [
+          31,
+          -95
+        ],
+        [
+          8,
+          -84
+        ],
+        [
+          -5,
+          -60
+        ],
+        [
+          -35,
+          -42
+        ],
+        [
+          -28,
+          -20
+        ],
+        [
+          5,
+          -30
+        ],
+        [
+          30,
+          -60
+        ],
+        [
+          38,
+          -80
+        ]
+      ],
+      [
+        [
+          35,
+          -18
+        ],
+        [
+          40,
+          -8
+        ],
+        [
+          36,
+          2
+        ],
+        [
+          10,
+          -12
+        ],
+        [
+          -25,
+          -5
+        ],
+        [
+          -35,
+          -18
+        ],
+        [
+          -8,
+          -28
+        ],
+        [
+          20,
+          -25
+        ],
+        [
+          35,
+          -18
+        ]
+      ],
+      [
+        [
+          30,
+          -6
+        ],
+        [
+          36,
+          -1
+        ],
+        [
+          44,
+          10
+        ],
+        [
+          40,
+          25
+        ],
+        [
+          33,
+          31
+        ],
+        [
+          30,
+          15
+        ],
+        [
+          30,
+          -6
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional or peer-reviewed distribution evidence for readable world-map display. Boundaries are approximate and never imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构或同行评审分布证据作保守概化，以便世界地图清晰呈现。边界为近似范围，绝不表示圈内每处都有连续分布。",
+      "checked_at": "2026-09-11"
+    }
+  },
+  "image": "/images/animals/violet-blanket-octopus.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "World Register of Marine Species",
+      "url": "https://www.marinespecies.org/aphia.php?p=taxlist&tName=Tremoctopus",
+      "checked_at": "2026-09-11"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2289798/iucnRedListCategory",
+      "checked_at": "2026-09-11"
+    },
+    "general": {
+      "authority": "Peer-reviewed integrative taxonomy study",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8749848/",
+      "checked_at": "2026-09-11"
+    },
+    "ecology": {
+      "authority": "Peer-reviewed live male and size-dimorphism study",
+      "url": "https://doi.org/10.1080/00288330.2002.9517126",
+      "checked_at": "2026-09-11"
+    },
+    "range": {
+      "authority": "Peer-reviewed Atlantic distribution and molecular identification study",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7854555/",
+      "checked_at": "2026-09-11"
+    }
+  }
+}

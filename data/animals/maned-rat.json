@@ -1,0 +1,398 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-09-11",
+    "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
+    "notes": "Each English and Chinese section was compared line by line. Exact species identity, accepted-name conflicts, IUCN mapping, numeric claims, distribution geometry and photo look-alike risks were checked against the cited sources. Display polygons are conservative generalizations and never imply continuous occupancy."
+  },
+  "id": "maned-rat",
+  "name_zh": "非洲鬃鼠",
+  "name_en": "Maned Rat",
+  "scientific_name": "Lophiomys imhausi",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Rodentia",
+      "zh": "啮齿目"
+    },
+    "family": {
+      "en": "Muridae",
+      "zh": "鼠科"
+    },
+    "genus": {
+      "en": "Lophiomys",
+      "zh": "鬃鼠属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-09-11 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-09-11核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Maned Rat is a slow-moving, nocturnal East African rodent with a remarkable chemical defense. It chews poison-arrow-tree material and applies the mixture to specialized flank hairs, then exposes a bold black-and-white warning stripe when threatened.",
+    "zh": "非洲鬃鼠是东非一种行动缓慢的夜行啮齿动物，拥有罕见的化学防御。它咀嚼毒箭树材料后把混合物涂到特化的体侧毛上，受威胁时再露出醒目的黑白警戒条纹。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Head-body length is about 22.5–36 cm, the bushy tail 14–17.5 cm, and recorded mass 590–920 g. Long gray-brown guard hairs conceal a white-bordered flank tract of porous hairs; a reinforced skull and unusually robust skin and skeleton add protection.",
+      "zh": "头体长约22.5–36厘米，蓬松尾长14–17.5厘米，记录体重590–920克。灰褐色长针毛平时遮住体侧白边毛带，其中的多孔特化毛可吸附毒物；加固的头骨以及异常坚韧的皮肤和骨骼也增强防护。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It is nocturnal, climbs well and feeds mainly on fruit, roots and other plant material. Field and captive observations show pairs and small family groups, overturning the older assumption that it is always solitary; squeaks, purrs and hisses are documented.",
+      "zh": "它夜间活动、善于攀爬，主要取食果实、根和其他植物材料。野外与圈养观察记录到配偶及小型家庭群，修正了过去认为它总是独居的看法；研究还记录了吱声、呼噜声和嘶声。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Recorded across eastern Africa in Djibouti, Eritrea, Ethiopia, Kenya, Somalia, Sudan, Tanzania and Uganda. It uses woodland, scrub, highlands and some lowlands, sheltering in burrows, rock holes, hollow trunks, ravines and dense riverside vegetation.",
+      "zh": "记录分布于东非的吉布提、厄立特里亚、埃塞俄比亚、肯尼亚、索马里、苏丹、坦桑尼亚和乌干达。它利用林地、灌丛、高地及部分低地，藏身于洞穴、岩洞、空树干、沟谷和浓密河岸植被。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_length",
+        "label": {
+          "en": "Head-body length",
+          "zh": "头体长"
+        },
+        "value": {
+          "en": "About 22.5–36 cm",
+          "zh": "约22.5–36厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "mass",
+        "label": {
+          "en": "Recorded mass",
+          "zh": "记录体重"
+        },
+        "value": {
+          "en": "About 590–920 g",
+          "zh": "约590–920克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Nocturnal",
+          "zh": "夜行"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "defense",
+        "label": {
+          "en": "Chemical defense",
+          "zh": "化学防御"
+        },
+        "value": {
+          "en": "Plant toxin applied to specialized flank hairs",
+          "zh": "把植物毒素涂到特化体侧毛"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Reproduction remains poorly documented. Older accounts suggest two or three well-furred young per litter, while recent observations show adults forming pairs and sometimes remaining with offspring; gestation, age at maturity and wild lifespan are not reliably established.",
+      "zh": "繁殖资料仍很有限。早期记录推测每胎两至三只、出生时已有浓毛；近期观察显示成体会成对生活，并可能与后代共同活动。妊娠期、性成熟年龄和野外寿命尚无可靠结论。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Poison-wicking hairs",
+          "zh": "吸毒特化毛"
+        },
+        "detail": {
+          "en": "Porous flank hairs absorb cardenolide-rich plant material and expose a predator's mouth to it.",
+          "zh": "多孔体侧毛吸附富含强心苷的植物材料，使咬住它的捕食者口腔接触毒物。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Warning display",
+          "zh": "警戒展示"
+        },
+        "detail": {
+          "en": "Raised mane hairs reveal a conspicuous black-and-white target around the toxic tract.",
+          "zh": "竖起鬃毛后，毒毛带周围醒目的黑白“靶纹”显露出来。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "title": {
+          "en": "Protected body",
+          "zh": "加固身体"
+        },
+        "detail": {
+          "en": "Robust skin, vertebrae and skull help withstand close attacks while the chemical defense takes effect.",
+          "zh": "坚韧皮肤、脊椎和头骨有助于在化学防御起效时承受近身攻击。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "It is a plant consumer and a rare mammalian example of sequestering a plant chemical for defense. Its interactions connect poison-arrow trees, rodents and mouth-attacking predators, while owls may bypass the flank defense.",
+      "zh": "它是植物消费者，也是哺乳动物利用植物化学物质自卫的罕见例子。它把毒箭树、啮齿动物和用嘴攻击的捕食者联系起来，而鸮类可能绕过其体侧防御。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Globally assessed as Least Concern, but the species is difficult to detect and population trend is not well quantified. Local woodland loss and persecution caused by fear of its poison can still matter.",
+        "zh": "全球评估为无危，但该物种很难发现，种群趋势缺少量化。局地林地丧失以及人们因畏惧其毒性而捕杀，仍可能造成影响。"
+      },
+      "actions": {
+        "en": "Protect connected East African woodland and scrub, document local occurrence with non-invasive cameras, and communicate that the animal is defensive rather than aggressive and should not be handled by people or dogs.",
+        "zh": "应保护东非连通的林地与灌丛，使用非侵入式相机记录局地分布，并说明它以防御为主、并不主动攻击，人和犬都不应接触。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Look for a rabbit-sized, shaggy gray-brown rodent with a bushy tail, small ears and a black-and-white stripe revealed along each flank when the mane is raised.",
+        "zh": "识别重点是兔子大小、灰褐色长毛、蓬松尾和小耳；竖起鬃毛时，两侧会露出黑白条纹。"
+      },
+      "similar_species": {
+        "en": "A porcupine has rigid quills, while zorillas are carnivorans with a different head and body plan. Photos must show the Maned Rat's shaggy coat, rodent face and specialized lateral stripe, not merely a black-and-white mammal.",
+        "zh": "豪猪具有硬棘，非洲艾虎则是头部和体型不同的食肉目动物。照片必须同时呈现鬃鼠的蓬松长毛、啮齿类面部和特化体侧条纹，不能只凭黑白花纹判断。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Touch and chemical cues are important, and recent work records squeaking, purring and hissing. The conspicuous flank pattern is a visual warning that appears only when the coat is parted.",
+      "zh": "触觉和化学线索很重要，近期研究还记录了吱声、呼噜声和嘶声。醒目的体侧图案只在毛被分开时出现，是视觉警戒信号。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "No robust annual calendar is known. Nocturnal activity and family associations are documented, but seasonal breeding claims would exceed current evidence.",
+      "zh": "目前没有可靠的年度节律资料。夜行活动和家庭联系已有记录，但断言其季节性繁殖会超出现有证据。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Its borrowed plant toxin is medically dangerous if it reaches the mouth. It should never be touched, tasted or encouraged into contact with pets; its slow behavior is not tameness.",
+      "zh": "它借用的植物毒素若进入口腔可能造成严重危险。绝不能触摸、舔尝或让宠物接触；行动缓慢也不等于温顺可亲近。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Maned Rat is placed in genus Lophiomys, family Muridae, order Rodentia. This record follows the species-level binomial Lophiomys imhausi; documented accepted-name conflicts are stated explicitly, and no claims or images are transferred from look-alike species.",
+      "zh": "非洲鬃鼠归入鬃鼠属、鼠科、啮齿目。本条目采用物种级二名法Lophiomys imhausi；已知接受名冲突会明确说明，且不会从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Camera traps may record a slow, shaggy rodent walking or climbing at night. A raised mane and lateral warning stripe indicate distress, so observers should retreat rather than provoke a fuller display.",
+      "zh": "红外相机可能拍到夜间缓慢行走或攀爬的蓬松啮齿动物。竖鬃和体侧警戒条纹表示受压，应立即后退而不是继续刺激。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "It is the only mammal currently known to apply sequestered plant toxin to specialized fur for defense.",
+          "zh": "它是目前唯一已知把吸收来的植物毒素涂到特化毛上进行防御的哺乳动物。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "Recent camera work found pairs and family groups rather than only solitary animals.",
+          "zh": "近期相机研究发现配偶和家庭群，而不只是独居个体。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "The Mammal Diversity Database uses the spelling Lophiomys imhausii; GBIF and the linked IUCN assessment use L. imhausi.",
+          "zh": "哺乳动物多样性数据库采用Lophiomys imhausii这一拼法；GBIF及所链接的IUCN评估采用L. imhausi。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Mammalian chemical defense",
+          "zh": "哺乳动物化学防御"
+        },
+        "content": {
+          "en": "The rat does not manufacture the plant cardenolide. It chews Acokanthera material and deliberately works the toxic mixture into a flank tract whose hairs are shaped to hold it.",
+          "zh": "鬃鼠并不自行制造植物强心苷，而是咀嚼毒箭树材料，再有意把含毒混合物涂入能够吸附它的体侧特化毛带。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Recorded across eastern Africa in Djibouti, Eritrea, Ethiopia, Kenya, Somalia, Sudan, Tanzania and Uganda. It uses woodland, scrub, highlands and some lowlands, sheltering in burrows, rock holes, hollow trunks, ravines and dense riverside vegetation.",
+    "text_zh": "记录分布于东非的吉布提、厄立特里亚、埃塞俄比亚、肯尼亚、索马里、苏丹、坦桑尼亚和乌干达。它利用林地、灌丛、高地及部分低地，藏身于洞穴、岩洞、空树干、沟谷和浓密河岸植被。",
+    "map_coordinates": [
+      4,
+      40
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          14,
+          33
+        ],
+        [
+          15,
+          43
+        ],
+        [
+          10,
+          51
+        ],
+        [
+          3,
+          47
+        ],
+        [
+          -8,
+          41
+        ],
+        [
+          -10,
+          34
+        ],
+        [
+          -2,
+          30
+        ],
+        [
+          6,
+          32
+        ],
+        [
+          14,
+          33
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional or peer-reviewed distribution evidence for readable world-map display. Boundaries are approximate and never imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构或同行评审分布证据作保守概化，以便世界地图清晰呈现。边界为近似范围，绝不表示圈内每处都有连续分布。",
+      "checked_at": "2026-09-11"
+    }
+  },
+  "image": "/images/animals/maned-rat.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Mammal Diversity Database",
+      "url": "https://www.mammaldiversity.org/taxon/1003006/",
+      "checked_at": "2026-09-11"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/5219729/iucnRedListCategory",
+      "checked_at": "2026-09-11"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Lophiomys_imhausi/",
+      "checked_at": "2026-09-11"
+    },
+    "ecology": {
+      "authority": "Journal of Mammalogy open-access study",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7816685/",
+      "checked_at": "2026-09-11"
+    },
+    "range": {
+      "authority": "Mammal Diversity Database",
+      "url": "https://www.mammaldiversity.org/taxon/1003006/",
+      "checked_at": "2026-09-11"
+    }
+  }
+}

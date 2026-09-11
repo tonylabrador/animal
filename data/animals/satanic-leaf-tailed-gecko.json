@@ -1,0 +1,394 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-09-11",
+    "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
+    "notes": "Each English and Chinese section was compared line by line. Exact species identity, accepted-name conflicts, IUCN mapping, numeric claims, distribution geometry and photo look-alike risks were checked against the cited sources. Display polygons are conservative generalizations and never imply continuous occupancy."
+  },
+  "id": "satanic-leaf-tailed-gecko",
+  "name_zh": "撒旦叶尾壁虎",
+  "name_en": "Satanic Leaf-tailed Gecko",
+  "scientific_name": "Uroplatus phantasticus",
+  "ui_tags": [
+    "Reptile",
+    "Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Gekkonidae",
+      "zh": "壁虎科"
+    },
+    "genus": {
+      "en": "Uroplatus",
+      "zh": "叶尾壁虎属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-09-11 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-09-11核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Satanic Leaf-tailed Gecko is a small nocturnal gecko found only in Madagascar. Its flattened, ragged-edged tail, mottled body and pointed scales recreate the shape and texture of a dead leaf with extraordinary precision.",
+    "zh": "撒旦叶尾壁虎是仅见于马达加斯加的小型夜行壁虎。扁平且边缘破损状的尾、斑驳身体和尖突鳞片，极其精确地重现枯叶的形状与质感。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Usually about 9 cm long, it may be mottled brown, gray or rust. The tail can show vein-like ridges and missing-looking notches, while large eyes have vertical pupils and pointed scales above them resemble small horns.",
+      "zh": "通常全长约9厘米，颜色可呈斑驳的棕、灰或锈红。尾部可见叶脉状棱和仿佛缺损的凹口；大眼具有纵向瞳孔，眼上尖鳞像小角。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It sleeps among low branches and shrubs by day and becomes active at night. Wild diet remains incompletely known; captive animals take small invertebrates such as crickets and moths. Individuals generally remain below about 3 m.",
+      "zh": "白天它在低矮枝条和灌木间休息，夜间活动。野外食谱尚不完整；圈养个体会捕食蟋蟀、蛾等小型无脊椎动物。通常活动高度不超过约3米。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to humid forests of eastern, southeastern and southern Madagascar. It lives in trees and bushes, usually close to the forest floor; the displayed belt is a conservative regional generalization, not continuous occupancy.",
+      "zh": "特有于马达加斯加东部、东南部和南部的湿润森林，生活在树木和灌木上，通常接近林地表层。地图带状范围是保守地区概化，并不表示处处连续分布。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "length",
+        "label": {
+          "en": "Typical total length",
+          "zh": "通常全长"
+        },
+        "value": {
+          "en": "About 9 cm",
+          "zh": "约9厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Nocturnal",
+          "zh": "夜行"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "height",
+        "label": {
+          "en": "Typical height above ground",
+          "zh": "常见离地高度"
+        },
+        "value": {
+          "en": "Usually below about 3 m",
+          "zh": "通常低于约3米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "eggs",
+        "label": {
+          "en": "Clutch",
+          "zh": "每窝"
+        },
+        "value": {
+          "en": "Two spherical eggs",
+          "zh": "两枚球形卵"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "It is oviparous. Females place clutches of two spherical eggs in leaf litter around the start of Madagascar's rainy season, approximately month 11 (November). Reported lifespan reaches about 15 years in human care; wild longevity is unknown.",
+      "zh": "它为卵生。雌性约在马达加斯加雨季开始的11月，把每窝两枚球形卵产于落叶层中。圈养寿命记录可达约15年，野外寿命未知。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Dead-leaf tail",
+          "zh": "枯叶状尾"
+        },
+        "detail": {
+          "en": "Flattening, vein-like ridges and irregular notches reproduce damaged leaf edges.",
+          "zh": "扁平形态、叶脉状棱和不规则缺口模仿受损叶缘。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Variable mottling",
+          "zh": "多变斑驳"
+        },
+        "detail": {
+          "en": "Brown, gray and rust color forms match different dead leaves and bark.",
+          "zh": "棕、灰和锈红等色型可匹配不同枯叶与树皮。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Threat display",
+          "zh": "威吓展示"
+        },
+        "detail": {
+          "en": "When camouflage fails it can open a bright red mouth and cry at approaching predators.",
+          "zh": "伪装失效时，它会张开鲜红口腔并发声威吓靠近的捕食者。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a small nocturnal invertebrate predator, it transfers energy from forest-floor and shrub arthropods to snakes, birds and other predators. Its dependence on intact humid understory ties it to forest condition.",
+      "zh": "作为小型夜行无脊椎动物捕食者，它把林地表层和灌丛节肢动物的能量传递给蛇、鸟等捕食者；对完整湿润林下层的依赖使其与森林状况紧密相连。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Currently assessed as Least Concern, but its future depends on eastern Madagascar rainforest remaining intact. Habitat loss and illegal or poorly controlled pet collection are continuing management concerns; population trend is uncertain.",
+        "zh": "目前评估为无危，但其未来取决于马达加斯加东部雨林能否保持完整。生境丧失以及非法或管理不善的宠物采集仍是持续问题；种群趋势不确定。"
+      },
+      "actions": {
+        "en": "Protect humid forest and understory, enforce wildlife-trade rules, verify legal captive origin and never release captive geckos. Monitoring should retain exact locality while protecting sensitive collection sites.",
+        "zh": "应保护湿润森林及林下层，执行野生动物贸易法规，核实圈养来源合法性，且绝不放生圈养壁虎。监测需保留精确地点，同时保护敏感采集地。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Small leaf-tailed gecko with a broad leaf-shaped tail, apparent bite-like edge notches, horn-like scales above the eyes and mottled dead-leaf coloration.",
+        "zh": "小型叶尾壁虎，尾宽而像叶片，边缘有仿佛虫咬的缺口，眼上有角状尖鳞，整体呈枯叶般斑驳色。"
+      },
+      "similar_species": {
+        "en": "Uroplatus ebenaui has a shorter, less leaf-like tail and closely overlaps in appearance. Species-level photos should show the characteristic broad ragged leaf tail or carry expert identification and locality metadata.",
+        "zh": "埃本氏叶尾壁虎的尾更短、叶状程度较弱，外形却高度相近。物种级照片应清楚显示宽而破叶状的特征尾，或具有专家鉴定和地点元数据。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Large eyes with vertical pupils suit dim forest light. Communication is poorly known; a wide red-mouth display and loud cry are used when threatened.",
+      "zh": "大眼和纵瞳适应昏暗森林光线。交流方式了解很少；受威胁时会张开红色口腔并大声叫喊。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Egg laying begins around the start of the rainy season in month 11 (November). Otherwise, a detailed wild annual cycle is not established.",
+      "zh": "产卵约在11月雨季开始时启动。除此之外，野外年度节律尚未被完整建立。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The dramatic name reflects appearance, not dangerous behavior. It is sensitive to handling and habitat conditions, so responsible interest should favor observation and verified captive-bred animals rather than wild collection.",
+      "zh": "其夸张俗名来自外形，并不代表危险行为。它对抓握和环境条件敏感，负责任的兴趣应以观察和来源可核实的人工繁育个体为主，而非野捕。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Satanic Leaf-tailed Gecko is placed in genus Uroplatus, family Gekkonidae, order Squamata. This record follows the species-level binomial Uroplatus phantasticus; documented accepted-name conflicts are stated explicitly, and no claims or images are transferred from look-alike species.",
+      "zh": "撒旦叶尾壁虎归入叶尾壁虎属、壁虎科、有鳞目。本条目采用物种级二名法Uroplatus phantasticus；已知接受名冲突会明确说明，且不会从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "By day, inspect low dead leaves and thin branches for a still silhouette whose tail completes the leaf illusion. At night use minimal light, avoid touching vegetation around a detected animal and record the tail edge for identification.",
+      "zh": "白天可在低处枯叶和细枝间寻找静止轮廓，尾巴会补全枯叶幻象。夜间应尽量少用灯，不触碰个体周围植被，并记录尾缘以供鉴定。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Its tail can mimic leaf veins, decay and missing pieces.",
+          "zh": "它的尾能同时模仿叶脉、腐坏和残缺。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "It usually stays within roughly 3 m of the forest floor.",
+          "zh": "它通常不会离森林地面超过约3米。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The accepted record has no recognized subspecies in the Reptile Database.",
+          "zh": "爬行动物数据库中的接受记录没有承认亚种。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Gecko climbing and camouflage",
+          "zh": "壁虎攀爬与伪装"
+        },
+        "content": {
+          "en": "Adhesive toes keep the gecko secure on low vegetation while a flattened body and tail erase the usual lizard outline. Remaining motionless is as important as coloration.",
+          "zh": "黏附趾使它稳固停在低矮植被上，扁平身体和尾则抹去常见蜥蜴轮廓；保持不动与颜色同样重要。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Endemic to humid forests of eastern, southeastern and southern Madagascar. It lives in trees and bushes, usually close to the forest floor; the displayed belt is a conservative regional generalization, not continuous occupancy.",
+    "text_zh": "特有于马达加斯加东部、东南部和南部的湿润森林，生活在树木和灌木上，通常接近林地表层。地图带状范围是保守地区概化，并不表示处处连续分布。",
+    "map_coordinates": [
+      -20,
+      47.5
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          -14,
+          49.2
+        ],
+        [
+          -16.5,
+          49.6
+        ],
+        [
+          -20.5,
+          48.6
+        ],
+        [
+          -25.3,
+          47.2
+        ],
+        [
+          -25,
+          46
+        ],
+        [
+          -21,
+          47.2
+        ],
+        [
+          -17,
+          48.5
+        ],
+        [
+          -14,
+          49.2
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional or peer-reviewed distribution evidence for readable world-map display. Boundaries are approximate and never imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构或同行评审分布证据作保守概化，以便世界地图清晰呈现。边界为近似范围，绝不表示圈内每处都有连续分布。",
+      "checked_at": "2026-09-11"
+    }
+  },
+  "image": "/images/animals/satanic-leaf-tailed-gecko.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "The Reptile Database",
+      "url": "https://reptile-database.reptarium.cz/Uroplatus/phantasticus",
+      "checked_at": "2026-09-11"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2445755/iucnRedListCategory",
+      "checked_at": "2026-09-11"
+    },
+    "general": {
+      "authority": "Smithsonian's National Zoo",
+      "url": "https://nationalzoo.si.edu/animals/phantastic-leaf-tailed-gecko",
+      "checked_at": "2026-09-11"
+    },
+    "ecology": {
+      "authority": "Smithsonian's National Zoo",
+      "url": "https://nationalzoo.si.edu/animals/phantastic-leaf-tailed-gecko",
+      "checked_at": "2026-09-11"
+    },
+    "range": {
+      "authority": "The Reptile Database",
+      "url": "https://reptile-database.reptarium.cz/Uroplatus/phantasticus",
+      "checked_at": "2026-09-11"
+    }
+  }
+}

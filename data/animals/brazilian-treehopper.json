@@ -1,0 +1,408 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-09-11",
+    "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
+    "notes": "Each English and Chinese section was compared line by line. Exact species identity, accepted-name conflicts, IUCN mapping, numeric claims, distribution geometry and photo look-alike risks were checked against the cited sources. Display polygons are conservative generalizations and never imply continuous occupancy."
+  },
+  "id": "brazilian-treehopper",
+  "name_zh": "球冠角蝉",
+  "name_en": "Brazilian Treehopper",
+  "scientific_name": "Bocydium globulare",
+  "ui_tags": [
+    "Insect",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Arthropoda",
+      "zh": "节肢动物门"
+    },
+    "class": {
+      "en": "Insecta",
+      "zh": "昆虫纲"
+    },
+    "order": {
+      "en": "Hemiptera",
+      "zh": "半翅目"
+    },
+    "family": {
+      "en": "Membracidae",
+      "zh": "角蝉科"
+    },
+    "genus": {
+      "en": "Bocydium",
+      "zh": "球冠角蝉属"
+    }
+  },
+  "conservation_status": {
+    "code": "NE",
+    "en": "Not Evaluated",
+    "zh": "未评估",
+    "note_en": "No species-level global IUCN assessment was confirmed. Not Evaluated means assessment is absent, not that the species is secure or abundant.",
+    "note_zh": "未确认到物种级IUCN全球评估。未评估表示缺少评估，并不表示该物种安全或数量丰富。"
+  },
+  "description": {
+    "en": "The Brazilian Treehopper is a tiny South American true bug famous for an elaborate pronotal helmet bearing stalked globes. The structure is real, not a parasite or digital invention, but its exact function has not been experimentally resolved.",
+    "zh": "球冠角蝉是南美洲一种微小半翅目昆虫，以前胸背板形成的复杂“头盔”和柄状球体闻名。这个结构真实存在，并非寄生物或数字合成，但确切功能尚未被实验证实。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "A peer-reviewed specimen figure uses a 1 mm scale bar, confirming its minute size without supporting the many inconsistent internet length claims. The dark body carries a tall branched pronotal process with rounded bulbs and hair-like projections above folded wings.",
+      "zh": "同行评审标本图使用1毫米比例尺，可确认其体型微小，却不足以支持网络上彼此冲突的精确体长。深色身体上方是高耸分枝的前胸背板突起，带圆球和毛状结构，翅折叠于下方。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Like other treehoppers it is a plant-feeding hemipteran with piercing-sucking mouthparts, but exact host plants, courtship, development time and social associations for B. globulare remain poorly documented in accessible species-level literature.",
+      "zh": "与其他角蝉一样，它是具有刺吸式口器的植食半翅目昆虫；但B. globulare的确切寄主植物、求偶、发育时间和社会联系，在可获取的物种级文献中仍记录不足。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Confirmed from Brazil, including Acre, Amazonas, Bahia and Pará, and from Peru. The map shows a conservative Amazonian polygon plus a separate Bahia occurrence region rather than filling all of tropical South America.",
+      "zh": "已确认见于巴西的阿克里、亚马孙、巴伊亚和帕拉州，以及秘鲁。地图保守显示亚马孙范围和分离的巴伊亚记录区，而不把整个热带南美洲涂满。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "range",
+        "label": {
+          "en": "Confirmed range",
+          "zh": "确认分布"
+        },
+        "value": {
+          "en": "Brazil and Peru",
+          "zh": "巴西和秘鲁"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "mouthparts",
+        "label": {
+          "en": "Feeding tool",
+          "zh": "取食器官"
+        },
+        "value": {
+          "en": "Piercing-sucking rostrum",
+          "zh": "刺吸式口器"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "helmet_origin",
+        "label": {
+          "en": "Helmet origin",
+          "zh": "头盔来源"
+        },
+        "value": {
+          "en": "Expanded pronotum",
+          "zh": "扩展的前胸背板"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "knowledge_gap",
+        "label": {
+          "en": "Species-level life history",
+          "zh": "物种级生活史"
+        },
+        "value": {
+          "en": "Poorly documented",
+          "zh": "记录不足"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Species-specific egg placement, nymphal stages, generation time and breeding season are not reliably documented in the cited exact-taxon sources. It undergoes incomplete metamorphosis like other hemipterans: egg, nymph and winged adult, without a pupal stage.",
+      "zh": "所引精确物种资料没有可靠记录其产卵位置、若虫阶段、世代时长和繁殖季节。与其他半翅目一样，它经历不完全变态：卵、若虫和有翅成虫之间没有蛹期。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Globular helmet",
+          "zh": "球冠头盔"
+        },
+        "detail": {
+          "en": "The pronotum grows into a branched three-dimensional structure far above the body.",
+          "zh": "前胸背板生长为高出身体的分枝三维结构。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Piercing-sucking beak",
+          "zh": "刺吸式喙"
+        },
+        "detail": {
+          "en": "A narrow rostrum accesses liquid plant tissues without chewing leaves.",
+          "zh": "细长喙无需咀嚼叶片即可吸取植物液体。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Compact winged body",
+          "zh": "紧凑有翅体"
+        },
+        "detail": {
+          "en": "Functional wings fold beneath the exaggerated helmet and allow dispersal between plants.",
+          "zh": "功能性翅折叠在夸张头盔下，可在植物间扩散。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "It draws plant fluids and may serve as prey for small forest predators. Broader treehopper studies show helmets can affect camouflage, mimicry or defense, but assigning one untested function specifically to B. globulare would be speculation.",
+      "zh": "它吸取植物汁液，也可能成为小型森林捕食者的猎物。更广泛的角蝉研究显示头盔可参与伪装、拟态或防御，但把某一种未经测试的功能专门归给B. globulare仍属猜测。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "No species-level global IUCN assessment was confirmed. Population size and trend are unknown, and the sparse exact-taxon record does not justify calling it common; forest loss and collecting may affect local populations but are not quantified.",
+        "zh": "未确认到物种级全球IUCN评估。种群数量与趋势未知，稀少的精确物种记录也不足以称其常见；森林丧失和采集可能影响局部种群，但尚未量化。"
+      },
+      "actions": {
+        "en": "Preserve tropical forest and host-plant diversity, deposit voucher-backed records in public collections, photograph lateral and dorsal characters with a scale, and avoid inventing exact helmet functions or body measurements.",
+        "zh": "应保护热带森林和寄主植物多样性，把有凭证标本的记录存入公共收藏，带比例尺拍摄侧面和背面特征，并避免虚构精确头盔功能或体长。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Minute dark treehopper with a tall branched pronotal structure bearing several rounded globes. Species confirmation needs a clear lateral view because multiple Bocydium species have different bulb number, arrangement and color patterns.",
+        "zh": "微小深色角蝉，前胸背板形成高耸分枝结构并带多个圆球。球冠角蝉属有多种近似种，球体数量、排列和颜色不同，因此确认物种必须有清楚侧视图。"
+      },
+      "similar_species": {
+        "en": "Other Bocydium, especially B. globuliferum and newly described species, can be confused in casual photos. Only images explicitly identified as B. globulare with diagnostic profile or expert metadata pass review.",
+        "zh": "其他球冠角蝉属物种，尤其B. globuliferum和新描述物种，在普通照片中容易混淆。只有明确鉴定为B. globulare并呈现诊断性侧面或专家元数据的图像才通过。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "As a hemipteran it detects substrate vibration and chemical cues through antennae and legs. Exact B. globulare signal recordings have not been established in the cited sources.",
+      "zh": "作为半翅目昆虫，它通过触角和足感受化学线索及基质振动。所引资料尚未建立B. globulare的精确通信记录。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "No verified species-level seasonal calendar is available. Occurrence dates should be retained rather than converted into a generalized breeding season.",
+      "zh": "目前没有经核实的物种级季节日历。应保留每条出现记录的日期，而不是概括成未经证明的繁殖季。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Viral images often exaggerate size or assign fanciful purposes to the globes. Museum-scale photographs and taxonomic records provide a safer basis for education; collecting should follow local permits.",
+      "zh": "网络图片常夸大体型或给球体附会奇特功能。带比例尺的博物馆照片和分类记录更适合科普；采集必须遵守当地许可。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Brazilian Treehopper is placed in genus Bocydium, family Membracidae, order Hemiptera. This record follows the species-level binomial Bocydium globulare; documented accepted-name conflicts are stated explicitly, and no claims or images are transferred from look-alike species.",
+      "zh": "球冠角蝉归入球冠角蝉属、角蝉科、半翅目。本条目采用物种级二名法Bocydium globulare；已知接受名冲突会明确说明，且不会从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Inspect stems and leaf undersides with a macro lens, then capture both profile and dorsal views plus the host plant and coordinates. Tiny scale and motion make a single distant photograph inadequate for species ID.",
+      "zh": "可用微距镜头检查茎和叶背，同时拍摄侧面、背面、寄主植物和坐标。其体型微小且会移动，单张远照不足以物种级鉴定。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The globes are part of the insect's own expanded pronotum.",
+          "zh": "这些球体属于昆虫自身扩展的前胸背板。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A peer-reviewed figure shows the entire adult beside a 1 mm scale bar.",
+          "zh": "同行评审图把整只成虫与1毫米比例尺并列。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "The exact function of its elaborate helmet remains unresolved.",
+          "zh": "复杂头盔的确切功能仍未解决。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Incomplete metamorphosis",
+          "zh": "不完全变态"
+        },
+        "content": {
+          "en": "Treehoppers develop from egg through several nymphal instars to a winged adult without a pupal stage. Species-specific timing for B. globulare is still a research gap.",
+          "zh": "角蝉从卵经过数个若虫龄期成为有翅成虫，不经历蛹期；B. globulare各阶段的物种级时长仍是研究空白。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Confirmed from Brazil, including Acre, Amazonas, Bahia and Pará, and from Peru. The map shows a conservative Amazonian polygon plus a separate Bahia occurrence region rather than filling all of tropical South America.",
+    "text_zh": "已确认见于巴西的阿克里、亚马孙、巴伊亚和帕拉州，以及秘鲁。地图保守显示亚马孙范围和分离的巴伊亚记录区，而不把整个热带南美洲涂满。",
+    "map_coordinates": [
+      -6,
+      -58
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          2,
+          -80
+        ],
+        [
+          1,
+          -51
+        ],
+        [
+          -10,
+          -48
+        ],
+        [
+          -13,
+          -62
+        ],
+        [
+          -8,
+          -75
+        ],
+        [
+          2,
+          -80
+        ]
+      ],
+      [
+        [
+          -10,
+          -43
+        ],
+        [
+          -11,
+          -37
+        ],
+        [
+          -16,
+          -36
+        ],
+        [
+          -17,
+          -42
+        ],
+        [
+          -10,
+          -43
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional or peer-reviewed distribution evidence for readable world-map display. Boundaries are approximate and never imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构或同行评审分布证据作保守概化，以便世界地图清晰呈现。边界为近似范围，绝不表示圈内每处都有连续分布。",
+      "checked_at": "2026-09-11"
+    }
+  },
+  "image": "/images/animals/brazilian-treehopper.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "World Auchenorrhyncha Database",
+      "url": "https://hoppers.speciesfile.org/otus/55093",
+      "checked_at": "2026-09-11"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/9501230/iucnRedListCategory",
+      "checked_at": "2026-09-11"
+    },
+    "general": {
+      "authority": "Smithsonian Magazine review of treehopper helmet biology",
+      "url": "https://www.smithsonianmag.com/science-nature/treehoppers-bizarre-wondrous-helmets-use-wing-genes-grow-180973713/",
+      "checked_at": "2026-09-11"
+    },
+    "ecology": {
+      "authority": "Peer-reviewed western Amazon treehopper survey",
+      "url": "https://www.scielo.br/j/bn/a/pjGpV7pXMV48Dvfy5RMxGdD/?lang=en",
+      "checked_at": "2026-09-11"
+    },
+    "range": {
+      "authority": "Peer-reviewed distribution account",
+      "url": "https://www.scielo.br/j/bn/a/pjGpV7pXMV48Dvfy5RMxGdD/?lang=en",
+      "checked_at": "2026-09-11"
+    }
+  }
+}

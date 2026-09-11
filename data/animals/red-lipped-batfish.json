@@ -1,0 +1,408 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-09-11",
+    "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
+    "notes": "Each English and Chinese section was compared line by line. Exact species identity, accepted-name conflicts, IUCN mapping, numeric claims, distribution geometry and photo look-alike risks were checked against the cited sources. Display polygons are conservative generalizations and never imply continuous occupancy."
+  },
+  "id": "red-lipped-batfish",
+  "name_zh": "红唇蝙蝠鱼",
+  "name_en": "Red-lipped Batfish",
+  "scientific_name": "Ogcocephalus darwini",
+  "ui_tags": [
+    "Fish",
+    "Ocean",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Actinopterygii",
+      "zh": "辐鳍鱼纲"
+    },
+    "order": {
+      "en": "Lophiiformes",
+      "zh": "鮟鱇目"
+    },
+    "family": {
+      "en": "Ogcocephalidae",
+      "zh": "蝙蝠鱼科"
+    },
+    "genus": {
+      "en": "Ogcocephalus",
+      "zh": "蝙蝠鱼属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-09-11 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-09-11核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Red-lipped Batfish is a bottom-living anglerfish endemic to the Galápagos and Cocos islands. Its triangular flattened body, bright red lips, horn-like snout and limb-like paired fins make it one of the eastern Pacific's most distinctive fishes.",
+    "zh": "红唇蝙蝠鱼是加拉帕戈斯群岛和科科斯岛特有的底栖鮟鱇鱼。三角形扁平身体、鲜红嘴唇、角状吻部和肢状偶鳍，使它成为东太平洋最易辨认的鱼类之一。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "It grows to about 25 cm. The disk-like head and body are armored with bony plates and prickles; eyes sit laterally, pectoral fins separate completely from the body, and a small lure with three fleshy points rests in a cavity beneath the rostrum.",
+      "zh": "体长可达约25厘米。盘状头体覆盖骨板和小刺，眼位于头侧，胸鳍与身体完全分离；角状吻部下方的凹槽内藏有带三个肉质突起的小型诱饵器。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "A marine bottom specialist, it usually walks or props itself over sand, rubble, rock and reef-edge soft bottoms. It eats mobile benthic mollusks, crustaceans and worms; larvae are pelagic before settling.",
+      "zh": "它是海洋底层专家，通常用偶鳍在沙、碎石、岩石和礁缘软底上行走或支撑身体。它捕食活动于底部的软体动物、甲壳动物和蠕虫；幼体在定居前为浮游生活。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to waters around the Galápagos Islands of Ecuador and Cocos Island of Costa Rica. Verified depth is 5–120 m, most often 10–20 m, over sand, rubble, rock, reef and adjacent soft bottom.",
+      "zh": "特有于厄瓜多尔加拉帕戈斯群岛和哥斯达黎加科科斯岛周围海域。确认水深5–120米，最常见于10–20米的沙地、碎石、岩石、礁体及邻近软底。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "maximum_length",
+        "label": {
+          "en": "Maximum length",
+          "zh": "最大体长"
+        },
+        "value": {
+          "en": "About 25 cm",
+          "zh": "约25厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "depth",
+        "label": {
+          "en": "Recorded depth",
+          "zh": "记录水深"
+        },
+        "value": {
+          "en": "5–120 m; usually 10–20 m",
+          "zh": "5–120米；通常10–20米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "range",
+        "label": {
+          "en": "Native range",
+          "zh": "原生分布"
+        },
+        "value": {
+          "en": "Galápagos and Cocos islands",
+          "zh": "加拉帕戈斯群岛与科科斯岛"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Benthic mollusks, crustaceans and worms",
+          "zh": "底栖软体动物、甲壳动物和蠕虫"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Species-specific courtship and spawning remain poorly documented. The verified account records a pelagic larval stage, followed by settlement into a bottom-living juvenile and adult form.",
+      "zh": "物种级求偶和产卵过程仍缺乏资料。权威记录确认其幼体阶段为浮游生活，之后定居并转为底栖幼鱼和成鱼。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Limb-like fins",
+          "zh": "肢状偶鳍"
+        },
+        "detail": {
+          "en": "Separated pectoral and pelvic fins support deliberate movement over the seafloor.",
+          "zh": "分离的胸鳍和腹鳍支撑它在海床上缓慢移动。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Armored skin",
+          "zh": "骨板护甲"
+        },
+        "detail": {
+          "en": "Bony plates and prickles protect the flattened body resting on rough substrate.",
+          "zh": "骨板和小刺保护伏在粗糙底质上的扁平身体。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Retractable lure",
+          "zh": "可藏诱饵器"
+        },
+        "detail": {
+          "en": "A small three-pointed lure sits beneath the horn-like rostrum and can help attract prey at close range.",
+          "zh": "角状吻部下藏有三叉小诱饵器，可在近距离帮助吸引猎物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "It is a predator of mobile bottom invertebrates and in turn part of the island shelf food web. Pelagic larvae connect localized adult habitat with surrounding water masses.",
+      "zh": "它捕食活动性底栖无脊椎动物，同时也是岛架食物网的一环。浮游幼体把局限的成体生境与周围水团联系起来。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Globally assessed as Least Concern, but its naturally small island range makes local habitat disturbance, pollution and climate-driven ocean change worth monitoring. Population trend is not quantified.",
+        "zh": "全球评估为无危，但天然岛屿分布很小，因此仍需监测局地生境扰动、污染和气候驱动的海洋变化。种群趋势尚未量化。"
+      },
+      "actions": {
+        "en": "Protect Galápagos and Cocos benthic habitats, enforce marine protected-area rules, and retain exact locality and depth metadata in observations so range and population change can be detected.",
+        "zh": "应保护加拉帕戈斯和科科斯岛底栖生境，执行海洋保护区规定，并在观察记录中保留精确地点与水深信息，以便发现分布和种群变化。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Triangular flattened disk, pointed rostral horn, brilliant red lips, sparse large spiny knobs, no hairy flank fringe, and limb-like pectoral fins completely separated from the body.",
+        "zh": "识别组合为三角形扁盘、尖角状吻部、鲜红嘴唇、稀疏大型刺瘤、体侧无毛缘，以及与身体完全分离的肢状胸鳍。"
+      },
+      "similar_species": {
+        "en": "The Rosy-lipped Batfish and other Ogcocephalus can look close. Exact photos must match the sparse dorsal knobs, non-fringed flanks and Galápagos/Cocos provenance described by the Smithsonian key.",
+        "zh": "玫唇蝙蝠鱼及其他蝙蝠鱼属物种外形相近。照片必须符合史密森鉴别所述的稀疏背部刺瘤、无毛缘体侧，并具有加拉帕戈斯或科科斯来源。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Laterally placed eyes survey the bottom, while the small esca provides a close-range feeding signal. Batfishes do not use the lure for long-distance pursuit; they wait and maneuver near the substrate.",
+      "zh": "侧位眼观察海底，小型诱饵器提供近距离取食信号。蝙蝠鱼不会靠诱饵远程追逐，而是在底质附近等待和调整位置。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "No reliable species-level seasonal calendar is published in the cited account. Adults are resident around oceanic islands while pelagic larvae represent the dispersive stage.",
+      "zh": "所引资料没有可靠的物种级季节日历。成鱼常驻大洋岛屿周围，浮游幼体则是扩散阶段。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Divers prize sightings, but animals should not be lifted or chased for photographs. Bottom contact and sediment disturbance should be minimized in these protected island waters.",
+      "zh": "潜水者很珍视这种目击，但不应为拍照提起或追赶个体。在这些受保护岛屿水域，应尽量减少触底和扰动沉积物。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Red-lipped Batfish is placed in genus Ogcocephalus, family Ogcocephalidae, order Lophiiformes. This record follows the species-level binomial Ogcocephalus darwini; documented accepted-name conflicts are stated explicitly, and no claims or images are transferred from look-alike species.",
+      "zh": "红唇蝙蝠鱼归入蝙蝠鱼属、蝙蝠鱼科、鮟鱇目。本条目采用物种级二名法Ogcocephalus darwini；已知接受名冲突会明确说明，且不会从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Search slowly over sand-rubble transitions at 10–20 m, watching for a low triangular silhouette that may 'walk' rather than swim. Record both dorsal and side views for species-level confirmation.",
+      "zh": "可在10–20米深的沙地—碎石过渡带缓慢寻找，留意低矮三角形轮廓及“行走”而非游动的动作。应记录背面和侧面以便物种级确认。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Its paired fins are used more like legs than wings.",
+          "zh": "它的偶鳍用起来更像腿，而不是翅膀。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The fish lure is tucked into a cavity beneath the rostral horn.",
+          "zh": "鱼饵状诱饵器藏在吻角下方的凹槽里。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its entire native range is centered on two isolated eastern Pacific island groups.",
+          "zh": "它的全部原生分布集中在东太平洋两个彼此隔离的岛群周围。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Bottom-walking anglerfish",
+          "zh": "海底行走的鮟鱇鱼"
+        },
+        "content": {
+          "en": "Unlike many free-swimming fishes, this species uses robust paired fins to support and reposition its flattened body over the bottom, combining walking mechanics with an anglerfish lure.",
+          "zh": "与许多自由游泳鱼类不同，它以粗壮偶鳍支撑并移动扁平身体，把海底“行走”与鮟鱇鱼诱饵结合起来。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Endemic to waters around the Galápagos Islands of Ecuador and Cocos Island of Costa Rica. Verified depth is 5–120 m, most often 10–20 m, over sand, rubble, rock, reef and adjacent soft bottom.",
+    "text_zh": "特有于厄瓜多尔加拉帕戈斯群岛和哥斯达黎加科科斯岛周围海域。确认水深5–120米，最常见于10–20米的沙地、碎石、岩石、礁体及邻近软底。",
+    "map_coordinates": [
+      -0.5,
+      -90.7
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          -2.2,
+          -92.5
+        ],
+        [
+          0.7,
+          -92.4
+        ],
+        [
+          1.6,
+          -90.4
+        ],
+        [
+          0.5,
+          -88.7
+        ],
+        [
+          -1.8,
+          -89.1
+        ],
+        [
+          -2.2,
+          -92.5
+        ]
+      ],
+      [
+        [
+          5.1,
+          -87.7
+        ],
+        [
+          6.1,
+          -87.7
+        ],
+        [
+          6.3,
+          -86.6
+        ],
+        [
+          5.2,
+          -86.4
+        ],
+        [
+          5.1,
+          -87.7
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional or peer-reviewed distribution evidence for readable world-map display. Boundaries are approximate and never imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构或同行评审分布证据作保守概化，以便世界地图清晰呈现。边界为近似范围，绝不表示圈内每处都有连续分布。",
+      "checked_at": "2026-09-11"
+    }
+  },
+  "image": "/images/animals/red-lipped-batfish.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy API",
+      "url": "https://api.gbif.org/v1/species/5214838",
+      "checked_at": "2026-09-11"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/5214838/iucnRedListCategory",
+      "checked_at": "2026-09-11"
+    },
+    "general": {
+      "authority": "Smithsonian Tropical Research Institute Shorefishes",
+      "url": "https://biogeodb.stri.si.edu/sftep/en/thefishes/species/776",
+      "checked_at": "2026-09-11"
+    },
+    "ecology": {
+      "authority": "Smithsonian Tropical Research Institute Shorefishes",
+      "url": "https://biogeodb.stri.si.edu/sftep/en/thefishes/species/776",
+      "checked_at": "2026-09-11"
+    },
+    "range": {
+      "authority": "Smithsonian Tropical Research Institute Shorefishes range record",
+      "url": "https://biogeodb.stri.si.edu/sftep/en/thefishes/species/776",
+      "checked_at": "2026-09-11"
+    }
+  }
+}

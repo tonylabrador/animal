@@ -1,0 +1,482 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-09-11",
+    "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
+    "notes": "Each English and Chinese section was compared line by line. Exact species identity, accepted-name conflicts, IUCN mapping, numeric claims, distribution geometry and photo look-alike risks were checked against the cited sources. Display polygons are conservative generalizations and never imply continuous occupancy."
+  },
+  "id": "pyrenean-desman",
+  "name_zh": "比利牛斯鼩鼹",
+  "name_en": "Pyrenean Desman",
+  "scientific_name": "Galemys pyrenaicus",
+  "ui_tags": [
+    "Mammal",
+    "Freshwater",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Eulipotyphla",
+      "zh": "真盲缺目"
+    },
+    "family": {
+      "en": "Talpidae",
+      "zh": "鼹科"
+    },
+    "genus": {
+      "en": "Galemys",
+      "zh": "鼩鼹属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危",
+    "note_en": "The current species-level global category checked on 2026-09-11 is Endangered; regional and legal categories may differ.",
+    "note_zh": "已于2026-09-11核对当前物种级全球等级为濒危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Pyrenean Desman is a small endangered semi-aquatic mole relative endemic to cold streams of the northern Iberian Peninsula and Pyrenees. A flexible sensory snout, webbed hind feet and laterally flattened tail suit hunting aquatic invertebrates in fast current.",
+    "zh": "比利牛斯鼩鼹是濒危的小型半水生鼹科动物，特有于伊比利亚半岛北部和比利牛斯山冷水溪流。灵活感知吻、带蹼后足和侧扁尾适合在急流中捕捉水生无脊椎动物。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "It has dense water-resistant dark fur, a long mobile trunk-like snout, small eyes and ears, large webbed hind feet and a long tail flattened toward the tip. The unusual snout is highly tactile and helps locate prey underwater.",
+      "zh": "它具有致密防水的深色毛、长而灵活的象鼻状吻、小眼小耳、大型蹼状后足和末端侧扁的长尾。特殊吻部触觉敏锐，可在水下寻找猎物。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Mostly nocturnal, it forages in cold, oxygen-rich streams and eats aquatic insect larvae and other rheophilic invertebrates. A Pyrenean study found diets dominated by mayflies and caddisflies, with almost no terrestrial prey.",
+      "zh": "它主要夜行，在寒冷富氧溪流中觅食，捕食水生昆虫幼体和其他喜流无脊椎动物。比利牛斯研究发现其食谱以蜉蝣和毛翅目幼体为主，陆生猎物几乎没有。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Fragmented mountain-stream populations occur in France, Andorra, Spain and Portugal, from the Pyrenees through the Cantabrian, Iberian and Central systems to northern Portugal. The map separates five principal population nuclei rather than filling the intervening dry lowlands.",
+      "zh": "破碎化山溪种群分布于法国、安道尔、西班牙和葡萄牙，从比利牛斯山延伸至坎塔布连山、伊比利亚山系、中央山系和葡萄牙北部。地图分开显示五个主要种群核心，而不填充其间干燥低地。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "status",
+        "label": {
+          "en": "Global status",
+          "zh": "全球等级"
+        },
+        "value": {
+          "en": "Endangered",
+          "zh": "濒危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "key": "countries",
+        "label": {
+          "en": "Range countries",
+          "zh": "分布国家"
+        },
+        "value": {
+          "en": "France, Andorra, Spain and Portugal",
+          "zh": "法国、安道尔、西班牙和葡萄牙"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Mostly nocturnal",
+          "zh": "主要夜行"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Core prey",
+          "zh": "核心猎物"
+        },
+        "value": {
+          "en": "Aquatic insect larvae",
+          "zh": "水生昆虫幼体"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Detailed reproduction is difficult to observe in the wild. Females use sheltered bank cavities and may produce more than one small litter in favorable years, but region-wide timing and juvenile survival remain incompletely known and are not assigned false precision here.",
+      "zh": "野外繁殖难以观察。雌性利用河岸隐蔽洞穴，在条件适宜的年份可能产不止一窝小规模幼仔；但全分布区繁殖时间和幼体存活仍了解不全，本条目不赋予虚假精度。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Sensory proboscis",
+          "zh": "感知长吻"
+        },
+        "detail": {
+          "en": "A flexible, touch-sensitive snout searches among stones where vision is limited.",
+          "zh": "灵活、触觉敏锐的长吻在视觉受限的石隙中搜寻。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Webbed propulsion",
+          "zh": "蹼足推进"
+        },
+        "detail": {
+          "en": "Large webbed hind feet generate thrust against fast current.",
+          "zh": "大型蹼状后足在急流中产生推进力。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Flattened steering tail",
+          "zh": "侧扁转向尾"
+        },
+        "detail": {
+          "en": "The laterally compressed tail helps stabilize and steer underwater.",
+          "zh": "侧扁尾帮助在水下稳定和转向。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "It is a specialized predator of current-loving aquatic invertebrates and shares prey with water shrews and dippers. Because its food and movement depend on natural stream flow, it is a sensitive indicator of connected headwater condition.",
+      "zh": "它专门捕食喜流的水生无脊椎动物，并与水鼩和河乌共享猎物。由于食物和移动依赖天然溪流，它是上游水系连通与健康状况的敏感指示者。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Endangered and declining. Large dams and hydropower fragment populations and alter flow; pollution and riparian degradation reduce prey and shelter. Invasive American mink and expanding otter predation can add pressure to already isolated populations.",
+        "zh": "濒危且下降。大型水坝和水电设施割裂种群并改变水流；污染与河岸退化减少猎物和庇护。入侵美洲水鼬以及扩展中的水獭捕食，会给已孤立种群增加压力。"
+      },
+      "actions": {
+        "en": "Coordinate conservation across all four range countries, restore river continuity and natural flow, protect riparian cover, improve water quality, control invasive mink and monitor the five genetic and geographic population nuclei.",
+        "zh": "应由四个分布国跨境协作，恢复河流连通和自然流量，保护河岸植被、改善水质、控制入侵水鼬，并监测五个遗传和地理种群核心。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Small dark semi-aquatic mammal with a long flexible trunk-like snout, inconspicuous eyes, large webbed hind feet and a long tail flattened near the end.",
+        "zh": "小型深色半水生哺乳动物，具有长而灵活的象鼻状吻、不显眼的眼、大型蹼状后足，以及末端侧扁的长尾。"
+      },
+      "similar_species": {
+        "en": "Water shrews have a pointed but not trunk-like snout and different tail and foot fringes; the larger Russian Desman lives far to the east. Photos require the Iberian/Pyrenean locality and clear snout-tail characters.",
+        "zh": "水鼩的吻尖但不像象鼻，尾和足缘也不同；更大的俄罗斯鼩鼹分布在遥远东方。照片必须具有伊比利亚或比利牛斯地点，并看清吻和尾特征。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "The mobile snout is densely supplied with tactile receptors and probes under stones. Smell and touch compensate for small eyes in turbulent, dim water.",
+      "zh": "灵活吻部密布触觉感受器，可探查石下；嗅觉和触觉弥补在湍急昏暗水中小眼的不足。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Stream flow, flood disturbance and aquatic-insect emergence change foraging conditions through the year. Drought and hydropower drawdown can remove usable channel sections when populations are least able to move around barriers.",
+      "zh": "溪流流量、洪水扰动和水生昆虫羽化使全年觅食条件变化。干旱和水电降水位会移除可用河段，而屏障又让种群难以绕行。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "It does not threaten fish stocks; its presence instead signals productive, oxygen-rich streams. River engineering and pollution should be assessed at catchment scale because damage upstream can isolate animals far downstream.",
+      "zh": "它不会威胁鱼类资源；其存在反而表明溪流富氧且生产力良好。河流工程和污染应在流域尺度评估，因为上游破坏可能隔离远处下游个体。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Pyrenean Desman is placed in genus Galemys, family Talpidae, order Eulipotyphla. This record follows the species-level binomial Galemys pyrenaicus; documented accepted-name conflicts are stated explicitly, and no claims or images are transferred from look-alike species.",
+      "zh": "比利牛斯鼩鼹归入鼩鼹属、鼹科、真盲缺目。本条目采用物种级二名法Galemys pyrenaicus；已知接受名冲突会明确说明，且不会从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Direct sightings are rare. Non-invasive surveys use environmental DNA, camera traps and carefully interpreted droppings on stream rocks; fluctuating water can rapidly erase signs, so absence of scat is not proof of absence.",
+      "zh": "直接目击很少。非侵入式调查使用环境DNA、红外相机和谨慎判读的溪石粪便；水位波动会迅速抹去痕迹，因此没有粪便不等于没有该物种。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "It is a mole relative adapted to running water, not a shrew.",
+          "zh": "它是适应流水的鼹科近亲，并不是鼩鼱。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "One diet study found fewer than 0.2% terrestrial prey items.",
+          "zh": "一项食谱研究中陆生猎物少于0.2%。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its surviving range is now organized into five major population nuclei.",
+          "zh": "其现存分布被划分为五个主要种群核心。"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Semi-aquatic mole anatomy",
+          "zh": "半水生鼹科结构"
+        },
+        "content": {
+          "en": "Unlike digging moles, the desman's enlarged hind feet and flattened tail power swimming, while the tactile snout performs the close-range search that foreclaws perform underground in other moles.",
+          "zh": "与掘洞鼹鼠不同，鼩鼹以大型后足和侧扁尾推进游泳；触觉长吻则承担其他鼹鼠在地下用前爪完成的近距离搜索功能。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Fragmented mountain-stream populations occur in France, Andorra, Spain and Portugal, from the Pyrenees through the Cantabrian, Iberian and Central systems to northern Portugal. The map separates five principal population nuclei rather than filling the intervening dry lowlands.",
+    "text_zh": "破碎化山溪种群分布于法国、安道尔、西班牙和葡萄牙，从比利牛斯山延伸至坎塔布连山、伊比利亚山系、中央山系和葡萄牙北部。地图分开显示五个主要种群核心，而不填充其间干燥低地。",
+    "map_coordinates": [
+      42.5,
+      -2.5
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          42.2,
+          -9.3
+        ],
+        [
+          43.4,
+          -8.2
+        ],
+        [
+          43.7,
+          -6.2
+        ],
+        [
+          42.7,
+          -5.5
+        ],
+        [
+          41.5,
+          -7
+        ],
+        [
+          41.1,
+          -8.7
+        ],
+        [
+          42.2,
+          -9.3
+        ]
+      ],
+      [
+        [
+          42.5,
+          -5.5
+        ],
+        [
+          43.5,
+          -4.7
+        ],
+        [
+          43.5,
+          -2.7
+        ],
+        [
+          42.6,
+          -3.4
+        ],
+        [
+          42.5,
+          -5.5
+        ]
+      ],
+      [
+        [
+          42.4,
+          -1.8
+        ],
+        [
+          43.1,
+          0.2
+        ],
+        [
+          42.8,
+          2.7
+        ],
+        [
+          41.8,
+          2.3
+        ],
+        [
+          41.5,
+          0
+        ],
+        [
+          42.4,
+          -1.8
+        ]
+      ],
+      [
+        [
+          41.8,
+          -3.5
+        ],
+        [
+          42.3,
+          -1.5
+        ],
+        [
+          41.2,
+          -0.5
+        ],
+        [
+          40.6,
+          -2
+        ],
+        [
+          41.8,
+          -3.5
+        ]
+      ],
+      [
+        [
+          40.8,
+          -6.5
+        ],
+        [
+          41.5,
+          -4.8
+        ],
+        [
+          40.6,
+          -3.7
+        ],
+        [
+          39.8,
+          -5.6
+        ],
+        [
+          40.8,
+          -6.5
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional or peer-reviewed distribution evidence for readable world-map display. Boundaries are approximate and never imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构或同行评审分布证据作保守概化，以便世界地图清晰呈现。边界为近似范围，绝不表示圈内每处都有连续分布。",
+      "checked_at": "2026-09-11"
+    }
+  },
+  "image": "/images/animals/pyrenean-desman.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Mammal Diversity Database",
+      "url": "https://www.mammaldiversity.org/taxon/1004309/",
+      "checked_at": "2026-09-11"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/5219516/iucnRedListCategory",
+      "checked_at": "2026-09-11"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Galemys_pyrenaicus/",
+      "checked_at": "2026-09-11"
+    },
+    "ecology": {
+      "authority": "Peer-reviewed Pyrenean stream diet study",
+      "url": "https://doi.org/10.1007/s42991-022-00265-z",
+      "checked_at": "2026-09-11"
+    },
+    "range": {
+      "authority": "IUCN Mediterranean Cooperation Centre conservation review",
+      "url": "https://iucn.org/node/33166/iberian-desman",
+      "checked_at": "2026-09-11"
+    }
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-09-11",
+    "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
+    "notes": "Each English and Chinese section was compared line by line. Exact species identity, accepted-name conflicts, IUCN mapping, numeric claims, distribution geometry and photo look-alike risks were checked against the cited sources. Display polygons are conservative generalizations and never imply continuous occupancy."
+  },
+  "id": "indian-flying-lizard",
+  "name_zh": "印度飞蜥",
+  "name_en": "Indian Flying Lizard",
+  "scientific_name": "Draco dussumieri",
+  "ui_tags": [
+    "Reptile",
+    "Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Agamidae",
+      "zh": "鬣蜥科"
+    },
+    "genus": {
+      "en": "Draco",
+      "zh": "飞蜥属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-09-11 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-09-11核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Indian Flying Lizard is a diurnal tree-dwelling agamid endemic to peninsular India. Elongated ribs spread a skin membrane into a controllable gliding surface, letting the lizard cross cluttered forest without descending to the ground.",
+    "zh": "印度飞蜥是印度半岛特有的日行树栖鬣蜥。伸长肋骨把皮膜撑成可控制的滑翔面，使它能在复杂森林中跨树移动而不必下地。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "It is a medium-sized Draco with maximum snout-vent length reported around 9.7 cm. A patagium supported by elongated ribs folds against the body at rest; a throat dewlap and patterned membrane take part in signaling and species recognition.",
+      "zh": "它是中等体型飞蜥，最大吻肛长记录约9.7厘米。由伸长肋骨支撑的翼膜休息时折叠在体侧；喉垂和带图案的翼膜参与信号传递与物种识别。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Diurnal and arboreal, it moves among trunks and feeds largely on small arthropods. Wild three-dimensional tracking shows that it plans routes, launches, steers and lands through naturally cluttered vegetation rather than merely parachuting downward.",
+      "zh": "它日行且树栖，在树干间活动并主要捕食小型节肢动物。野外三维追踪显示，它会在天然复杂植被中规划路线、起跳、转向和着陆，而不只是被动向下飘落。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to peninsular India, especially the Western Ghats from Maharashtra and Goa through Karnataka and Kerala to Tamil Nadu, with additional Eastern Ghats records. The two displayed narrow belts represent these discontinuous forest systems, not all land between them.",
+      "zh": "特有于印度半岛，尤其沿西高止山脉从马哈拉施特拉邦和果阿，经卡纳塔克邦、喀拉拉邦至泰米尔纳德邦，东高止山脉也有记录。地图上的两条狭长带表示不连续森林系统，而不是其间全部土地。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "maximum_svl",
+        "label": {
+          "en": "Maximum snout-vent length",
+          "zh": "最大吻肛长"
+        },
+        "value": {
+          "en": "About 9.7 cm",
+          "zh": "约9.7厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Diurnal",
+          "zh": "日行"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "locomotion",
+        "label": {
+          "en": "Aerial locomotion",
+          "zh": "空中运动"
+        },
+        "value": {
+          "en": "Steered gliding between trees",
+          "zh": "树间可控滑翔"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "range",
+        "label": {
+          "en": "Native range",
+          "zh": "原生分布"
+        },
+        "value": {
+          "en": "Peninsular India",
+          "zh": "印度半岛"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "It is an egg-laying lizard. Detailed clutch size and incubation timing vary among reports and are not generalized here; mating displays use the dewlap and patagium, and females descend to suitable ground only for egg deposition.",
+      "zh": "它是卵生蜥蜴。不同资料中的窝卵数和孵化时长不一致，本条目不作泛化；求偶展示使用喉垂和翼膜，雌蜥仅在选择产卵地时下到合适地面。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Rib-supported wing",
+          "zh": "肋骨支撑翼膜"
+        },
+        "detail": {
+          "en": "Elongated ribs unfold the patagium without converting the forelimbs into wings.",
+          "zh": "伸长肋骨展开翼膜，无需把前肢改造成翅膀。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Active steering",
+          "zh": "主动转向"
+        },
+        "detail": {
+          "en": "Body, limbs and tail adjust trajectory and prepare a controlled trunk landing.",
+          "zh": "身体、四肢和尾共同调整轨迹，为受控树干着陆做准备。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Folding display surface",
+          "zh": "可折叠展示面"
+        },
+        "detail": {
+          "en": "The patterned patagium folds away for climbing and opens during gliding or display.",
+          "zh": "带图案翼膜攀爬时折起，滑翔或展示时展开。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "It consumes canopy arthropods and is prey for birds, snakes and other tree predators. Gliding lets it connect separated trunks while reducing time on the predator-rich forest floor.",
+      "zh": "它捕食林冠节肢动物，也会被鸟、蛇和其他树栖捕食者捕食。滑翔连接分离树干，并减少在捕食风险较高的林地表层停留。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Globally Least Concern, but forest fragmentation can break the sequence of launch and landing trees needed for gliding. Local tree removal, plantation simplification and pesticide use may reduce habitat and prey; population trend is uncertain.",
+        "zh": "全球等级为无危，但森林破碎化会切断滑翔所需的连续起跳与着陆树。局地伐树、人工林简化和杀虫剂可能减少生境与猎物；种群趋势不确定。"
+      },
+      "actions": {
+        "en": "Retain connected native canopy and large trunks across Western and Eastern Ghats landscapes, limit broad-spectrum insecticides and monitor both major genetic lineages revealed by recent genomic work.",
+        "zh": "应在东西高止山景观中保留连通乡土树冠和大树干，限制广谱杀虫剂，并监测近期基因组研究揭示的南北两大遗传谱系。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A slender tree lizard with a folded lateral patagium, long tail and throat dewlap; in glide, elongated ribs spread a broad patterned membrane while all four limbs remain free.",
+        "zh": "纤细树栖蜥蜴，体侧折叠翼膜、长尾并有喉垂；滑翔时伸长肋骨撑开宽阔花纹膜，而四肢保持自由。"
+      },
+      "similar_species": {
+        "en": "Other Draco species occur mainly farther east in Asia. Within southern India this is the only native Draco, but images still need location and an unobstructed view of head, dewlap or patagium rather than a generic flying-lizard label.",
+        "zh": "其他飞蜥主要分布在更东的亚洲地区。印度南部原生飞蜥仅此一种，但照片仍需有地点并清楚显示头部、喉垂或翼膜，不能只写泛称“飞蜥”。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Vision guides launch selection, obstacle avoidance, landing and social display. Recent work shows decisions are adjusted to real vegetation geometry during each glide.",
+      "zh": "视觉引导起跳选择、避障、着陆和社会展示。近期研究显示，它会在每次滑翔中根据真实植被几何调整决策。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Activity depends on daylight, temperature and rain. A single universal breeding calendar is not stated because the range spans multiple monsoon regimes.",
+      "zh": "活动受日照、温度和降雨影响。由于分布跨越不同季风区，本条目不设定单一繁殖日历。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "It can persist in some shaded plantations and gardens if trees remain connected, but should not be captured for staged gliding photos. Forest recreation should avoid stripping bark or clearing understory around occupied trunks.",
+      "zh": "若树木仍连通，它可在部分遮阴种植园和花园中生存，但不应为摆拍滑翔而捕捉。森林活动应避免剥树皮或清除占用树干周围林下层。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Indian Flying Lizard is placed in genus Draco, family Agamidae, order Squamata. This record follows the species-level binomial Draco dussumieri; documented accepted-name conflicts are stated explicitly, and no claims or images are transferred from look-alike species.",
+      "zh": "印度飞蜥归入飞蜥属、鬣蜥科、有鳞目。本条目采用物种级二名法Draco dussumieri；已知接受名冲突会明确说明，且不会从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Watch sunlit trunks for head-up lizards, then follow the launch direction to the next trunk. Photograph the patagium pattern at landing and note locality; never throw or drop an animal to force a glide.",
+      "zh": "可观察阳光照到的树干上头朝上的蜥蜴，再沿起跳方向寻找下一棵树。着陆时拍下翼膜图案并记录地点；绝不能抛掷个体强迫滑翔。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Its 'wing' is supported by ribs, not modified arms.",
+          "zh": "它的“翅膀”由肋骨支撑，而不是由前肢改成。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Wild lizards steer through branches with planned takeoff and landing paths.",
+          "zh": "野生个体会规划起飞和着陆路线，在树枝间主动转向。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Genomic work finds two deep lineages within the species, joined by a central hybrid zone.",
+          "zh": "基因组研究在该物种内发现两条深分化谱系，并在中部形成杂交带。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Gliding biomechanics",
+          "zh": "滑翔生物力学"
+        },
+        "content": {
+          "en": "The patagium generates lift, but successful forest flight also requires launch force, tail and limb control, obstacle sensing and precise braking before the feet contact a trunk.",
+          "zh": "翼膜产生升力，但成功林间飞行还需要起跳力量、尾和四肢控制、障碍感知，以及脚接触树干前的精确减速。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Endemic to peninsular India, especially the Western Ghats from Maharashtra and Goa through Karnataka and Kerala to Tamil Nadu, with additional Eastern Ghats records. The two displayed narrow belts represent these discontinuous forest systems, not all land between them.",
+    "text_zh": "特有于印度半岛，尤其沿西高止山脉从马哈拉施特拉邦和果阿，经卡纳塔克邦、喀拉拉邦至泰米尔纳德邦，东高止山脉也有记录。地图上的两条狭长带表示不连续森林系统，而不是其间全部土地。",
+    "map_coordinates": [
+      14,
+      76.5
+    ],
+    "map_zoom_level": 5,
+    "global_distribution_polygons": [
+      [
+        [
+          19,
+          72.8
+        ],
+        [
+          18,
+          74.2
+        ],
+        [
+          14,
+          75.7
+        ],
+        [
+          9,
+          77.6
+        ],
+        [
+          8,
+          76.7
+        ],
+        [
+          12,
+          74.5
+        ],
+        [
+          16,
+          73.2
+        ],
+        [
+          19,
+          72.8
+        ]
+      ],
+      [
+        [
+          15,
+          78
+        ],
+        [
+          14,
+          80.2
+        ],
+        [
+          10.5,
+          79.8
+        ],
+        [
+          9.5,
+          78.8
+        ],
+        [
+          12.5,
+          77.5
+        ],
+        [
+          15,
+          78
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional or peer-reviewed distribution evidence for readable world-map display. Boundaries are approximate and never imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构或同行评审分布证据作保守概化，以便世界地图清晰呈现。边界为近似范围，绝不表示圈内每处都有连续分布。",
+      "checked_at": "2026-09-11"
+    }
+  },
+  "image": "/images/animals/indian-flying-lizard.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "The Reptile Database",
+      "url": "https://reptile-database.reptarium.cz/Draco/dussumieri",
+      "checked_at": "2026-09-11"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/5226166/iucnRedListCategory",
+      "checked_at": "2026-09-11"
+    },
+    "general": {
+      "authority": "Peer-reviewed gliding biomechanics study",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7062017/",
+      "checked_at": "2026-09-11"
+    },
+    "ecology": {
+      "authority": "Peer-reviewed Maharashtra range note",
+      "url": "https://journals.ku.edu/reptilesandamphibians/article/download/14208/13089/29382",
+      "checked_at": "2026-09-11"
+    },
+    "range": {
+      "authority": "The Reptile Database",
+      "url": "https://reptile-database.reptarium.cz/Draco/dussumieri",
+      "checked_at": "2026-09-11"
+    }
+  }
+}

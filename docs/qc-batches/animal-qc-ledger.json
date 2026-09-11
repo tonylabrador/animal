@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T03:42:40.779Z",
+  "generated_at": "2026-09-11T20:00:29.359Z",
   "completion_rule": "A record is complete only when Rich Content v2 factual/bilingual review, map review, and a human-approved verified-license image all pass.",
   "summary": {
-    "total": 478,
-    "content_reviewed": 478,
+    "total": 488,
+    "content_reviewed": 488,
     "content_pending": 0,
-    "images_verified": 439,
-    "release_complete": 439,
+    "images_verified": 449,
+    "release_complete": 449,
     "release_todo": 39
   },
   "animals": [
@@ -1240,6 +1240,21 @@
       "issues": []
     },
     {
+      "id": "brazilian-treehopper",
+      "name_en": "Brazilian Treehopper",
+      "name_zh": "球冠角蝉",
+      "scientific_name": "Bocydium globulare",
+      "class": "Insect",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-09-11",
+      "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "brown-bear",
       "name_en": "Brown Bear",
       "name_zh": "棕熊",
@@ -1998,6 +2013,21 @@
       "batches": [
         "legacy-qc-batch-04"
       ],
+      "issues": []
+    },
+    {
+      "id": "common-potoo",
+      "name_en": "Common Potoo",
+      "name_zh": "灰林鸱",
+      "scientific_name": "Nyctibius griseus",
+      "class": "Bird",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-09-11",
+      "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -2992,6 +3022,21 @@
       "release_status": "complete",
       "reviewed_at": "2026-08-17",
       "reviewer": "Codex source and bilingual audit",
+      "batches": [],
+      "issues": []
+    },
+    {
+      "id": "gerenuk",
+      "name_en": "Gerenuk",
+      "name_zh": "长颈羚",
+      "scientific_name": "Litocranius walleri",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-09-11",
+      "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
       "batches": [],
       "issues": []
     },
@@ -4310,6 +4355,21 @@
       "issues": []
     },
     {
+      "id": "indian-flying-lizard",
+      "name_en": "Indian Flying Lizard",
+      "name_zh": "印度飞蜥",
+      "scientific_name": "Draco dussumieri",
+      "class": "Reptile",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-09-11",
+      "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "indian-giant-squirrel",
       "name_en": "Indian Giant Squirrel",
       "name_zh": "印度巨松鼠",
@@ -5052,6 +5112,21 @@
       "issues": []
     },
     {
+      "id": "magnificent-tree-frog",
+      "name_en": "Magnificent Tree Frog",
+      "name_zh": "华丽树蛙",
+      "scientific_name": "Ranoidea splendida",
+      "class": "Amphibian",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-09-11",
+      "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "malayan-tapir",
       "name_en": "Malayan tapir",
       "name_zh": "马来貘",
@@ -5114,6 +5189,21 @@
       "release_status": "complete",
       "reviewed_at": "2026-08-24",
       "reviewer": "Codex exact-taxon source, bilingual and range audit",
+      "batches": [],
+      "issues": []
+    },
+    {
+      "id": "maned-rat",
+      "name_en": "Maned Rat",
+      "name_zh": "非洲鬃鼠",
+      "scientific_name": "Lophiomys imhausi",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-09-11",
+      "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
       "batches": [],
       "issues": []
     },
@@ -6119,6 +6209,21 @@
       "issues": []
     },
     {
+      "id": "pyrenean-desman",
+      "name_en": "Pyrenean Desman",
+      "name_zh": "比利牛斯鼩鼹",
+      "scientific_name": "Galemys pyrenaicus",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-09-11",
+      "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "quokka",
       "name_en": "Quokka",
       "name_zh": "短尾矮袋鼠",
@@ -6288,6 +6393,21 @@
       "batches": [
         "legacy-qc-batch-06"
       ],
+      "issues": []
+    },
+    {
+      "id": "red-lipped-batfish",
+      "name_en": "Red-lipped Batfish",
+      "name_zh": "红唇蝙蝠鱼",
+      "scientific_name": "Ogcocephalus darwini",
+      "class": "Fish",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-09-11",
+      "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -6631,6 +6751,21 @@
       "issues": [
         "image-replacement-needed"
       ]
+    },
+    {
+      "id": "satanic-leaf-tailed-gecko",
+      "name_en": "Satanic Leaf-tailed Gecko",
+      "name_zh": "撒旦叶尾壁虎",
+      "scientific_name": "Uroplatus phantasticus",
+      "class": "Reptile",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-09-11",
+      "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
+      "batches": [],
+      "issues": []
     },
     {
       "id": "scarlet-ibis",
@@ -7673,6 +7808,21 @@
       "batches": [
         "legacy-qc-batch-06"
       ],
+      "issues": []
+    },
+    {
+      "id": "violet-blanket-octopus",
+      "name_en": "Violet Blanket Octopus",
+      "name_zh": "紫毯章鱼",
+      "scientific_name": "Tremoctopus violaceus",
+      "class": "Mollusk",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-09-11",
+      "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
+      "batches": [],
       "issues": []
     },
     {

@@ -1,0 +1,403 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-09-11",
+    "reviewer": "Codex exact-taxon source, bilingual, range and visual-risk audit",
+    "notes": "Each English and Chinese section was compared line by line. Exact species identity, accepted-name conflicts, IUCN mapping, numeric claims, distribution geometry and photo look-alike risks were checked against the cited sources. Display polygons are conservative generalizations and never imply continuous occupancy."
+  },
+  "id": "common-potoo",
+  "name_zh": "灰林鸱",
+  "name_en": "Common Potoo",
+  "scientific_name": "Nyctibius griseus",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Nyctibiiformes",
+      "zh": "林鸱目"
+    },
+    "family": {
+      "en": "Nyctibiidae",
+      "zh": "林鸱科"
+    },
+    "genus": {
+      "en": "Nyctibius",
+      "zh": "林鸱属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The current species-level global category checked on 2026-09-11 is Least Concern; regional and legal categories may differ.",
+    "note_zh": "已于2026-09-11核对当前物种级全球等级为无危；地区等级和法律地位可能不同。"
+  },
+  "description": {
+    "en": "The Common Potoo is a nocturnal South American bird that spends daylight upright on a broken branch, nearly disappearing into bark. At night it launches from exposed perches to catch flying insects and announces itself with a mournful descending whistle.",
+    "zh": "灰林鸱是南美洲夜行鸟，白天直立停在断枝顶端，几乎消失在树皮纹理中；夜间从显眼栖木出击捕捉飞虫，并以哀婉下行哨音暴露行踪。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "A big head, huge yellow eyes, very wide mouth and mottled gray-brown plumage suit nocturnal aerial insect hunting and daytime camouflage. A dark moustachial stripe helps separate it from the larger Great Potoo.",
+      "zh": "大头、巨大黄眼、极宽口裂和灰褐斑驳羽毛，适合夜间空中捕虫及白天伪装。深色颊纹可帮助与体型更大的大林鸱区分。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It occupies open wooded settings with scattered trees, forest edges, river and road corridors and disturbed patchy woodland. From a perch it sallies after flying insects, then often returns to the same lookout.",
+      "zh": "它利用有零散树木的开阔林地、林缘、河流和道路廊道以及受扰斑块林。从栖木飞出追捕飞虫后，常返回同一观察点。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Under current eBird/Clements treatment, Common Potoo is South American, broadly east of the Andes from northern tropical South America through much of Brazil to Bolivia, Paraguay, Uruguay and northern Argentina. Northern Potoo is treated separately in Mexico, Central America and the Caribbean.",
+      "zh": "按当前eBird/Clements分类，灰林鸱属于南美洲物种，主要分布在安第斯山以东，从南美北部热带地区经巴西大部至玻利维亚、巴拉圭、乌拉圭和阿根廷北部。墨西哥、中美洲和加勒比的北林鸱另列为独立物种。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Nocturnal",
+          "zh": "夜行"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Main diet",
+          "zh": "主要食物"
+        },
+        "value": {
+          "en": "Flying insects",
+          "zh": "飞行昆虫"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "day_roost",
+        "label": {
+          "en": "Day roost",
+          "zh": "白天栖位"
+        },
+        "value": {
+          "en": "Upright on a snag or broken branch",
+          "zh": "直立停在枯梢或断枝上"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "range_scope",
+        "label": {
+          "en": "Current range scope",
+          "zh": "当前分布范围"
+        },
+        "value": {
+          "en": "South America; Northern Potoo split",
+          "zh": "南美洲；北林鸱已拆分"
+        },
+        "source_keys": [
+          "taxonomy",
+          "range"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "A single egg is typically placed on a shallow depression of an exposed branch or stump rather than in a built nest. An adult incubates in the same bark-mimicking posture; detailed timing varies regionally across the large range.",
+      "zh": "通常仅产一枚卵，直接放在裸露枝桩的浅凹处，而不是搭建鸟巢。亲鸟以同样仿树皮的姿态孵卵；由于分布广，具体时间随地区变化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Broken-branch posture",
+          "zh": "断枝姿态"
+        },
+        "detail": {
+          "en": "A vertical body and mottled plumage align with the grain and silhouette of a snag.",
+          "zh": "垂直身体和斑驳羽色与枯枝纹理及轮廓对齐。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Wide aerial-insect gape",
+          "zh": "宽大捕虫口裂"
+        },
+        "detail": {
+          "en": "A very broad mouth intercepts insects during short nocturnal sallies.",
+          "zh": "极宽口裂可在夜间短距出击时截获昆虫。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Large night eyes",
+          "zh": "巨大夜视眼"
+        },
+        "detail": {
+          "en": "Huge yellow eyes gather light while the bird scans from an exposed perch.",
+          "zh": "巨大黄眼在显眼栖位扫描时收集微弱光线。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "It is an aerial insect predator in forest edges and semi-open woodland and provides prey for larger nocturnal predators. Its use of dead snags links breeding and roosting to retention of standing woody structure.",
+      "zh": "它在林缘和半开阔林地捕食空中昆虫，也会成为更大型夜行捕食者的猎物。对枯立木的利用使繁殖和日栖依赖保留的木质结构。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "Globally Least Concern, with no well-supported trend used here. Broad distribution offers resilience, but local clearing and removal of dead standing trees can eliminate roost and egg sites.",
+        "zh": "全球等级为无危；本条目不采用缺乏充分支持的趋势判断。广泛分布提供一定韧性，但局地清林和移除枯立木会消除日栖与产卵地点。"
+      },
+      "actions": {
+        "en": "Retain safe standing snags and scattered trees, reduce broad-spectrum insecticide use near wooded edges, and avoid repeated flashlight or playback disturbance at active roosts and egg sites.",
+        "zh": "应保留安全的枯立木和零散树木，减少林缘附近广谱杀虫剂，并避免在活动日栖点和卵位反复照灯或播放叫声。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Gray-brown bark-mottled bird with huge yellow eyes, a large head and dark moustachial stripe, often frozen upright at the tip of a snag; the call is a descending series of mournful whistles.",
+        "zh": "灰褐树皮斑纹鸟，大头、巨大黄眼和深色颊纹，常僵直停在枯梢顶端；叫声是一串逐渐下降的哀婉哨音。"
+      },
+      "similar_species": {
+        "en": "Great Potoo is much larger and lacks the same dark moustachial emphasis. Northern Potoo is now a separate species farther north; image metadata and location must fit the South American Common Potoo range.",
+        "zh": "大林鸱明显更大，深色颊纹特征不同。北林鸱现为北方独立物种；照片元数据和地点必须符合南美洲灰林鸱范围。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Vision dominates nocturnal hunting, and eye-shine can reveal a perched bird. Its descending whistle carries through open woodland and is often a more reliable field clue than sight.",
+      "zh": "视觉主导夜间捕猎，眼反光可能暴露栖鸟。下行哨音能穿过开阔林地，往往比目视更可靠。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "It is largely resident. Breeding timing varies with latitude and rainfall; the eBird model shows year-round distribution rather than a long-distance migration.",
+      "zh": "它基本留居。繁殖时间随纬度和降雨变化；eBird模型显示全年分布，而非长距离迁徙。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Its eerie call has inspired many regional names and stories. Ethical night birding limits light duration, playback and approach distance, especially when a bird remains motionless over an egg.",
+      "zh": "诡异叫声催生了许多地区俗名和故事。负责任的夜间观鸟应限制灯照时间、回放次数和接近距离，尤其不能逼近伏在卵上的静止个体。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Common Potoo is placed in genus Nyctibius, family Nyctibiidae, order Nyctibiiformes. This record follows the species-level binomial Nyctibius griseus; documented accepted-name conflicts are stated explicitly, and no claims or images are transferred from look-alike species.",
+      "zh": "灰林鸱归入林鸱属、林鸱科、林鸱目。本条目采用物种级二名法Nyctibius griseus；已知接受名冲突会明确说明，且不会从外形相近物种移用说法或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Listen after dark for descending whistles, then scan exposed snags without prolonged spotlighting. By day, inspect broken branch tips for an outline that continues the wood grain; never shake a suspected roost tree.",
+      "zh": "入夜后先听下行哨音，再短暂扫描显眼枯梢。白天检查断枝顶端是否有延续木纹的轮廓；绝不能摇动疑似日栖树。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Its daytime posture makes the bird look like an extension of a broken branch.",
+          "zh": "它白天的姿态让身体看起来像断枝的延伸。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "It hunts insects in short flights and often returns to the same perch.",
+          "zh": "它短飞捕虫后常返回同一栖位。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Current bird checklists separate the Northern Potoo from this South American species.",
+          "zh": "当前鸟类名录把北林鸱与这个南美物种分开。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "One-egg branch nesting",
+          "zh": "单卵枝桩繁殖"
+        },
+        "content": {
+          "en": "Instead of constructing a nest, a potoo relies on an exposed branch depression, camouflage and an adult's rigid posture to conceal a single egg.",
+          "zh": "林鸱不筑传统鸟巢，而依赖裸枝浅凹、伪装以及亲鸟僵直姿态来隐藏单枚卵。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Under current eBird/Clements treatment, Common Potoo is South American, broadly east of the Andes from northern tropical South America through much of Brazil to Bolivia, Paraguay, Uruguay and northern Argentina. Northern Potoo is treated separately in Mexico, Central America and the Caribbean.",
+    "text_zh": "按当前eBird/Clements分类，灰林鸱属于南美洲物种，主要分布在安第斯山以东，从南美北部热带地区经巴西大部至玻利维亚、巴拉圭、乌拉圭和阿根廷北部。墨西哥、中美洲和加勒比的北林鸱另列为独立物种。",
+    "map_coordinates": [
+      -10,
+      -58
+    ],
+    "map_zoom_level": 2,
+    "global_distribution_polygons": [
+      [
+        [
+          11,
+          -73
+        ],
+        [
+          10,
+          -50
+        ],
+        [
+          3,
+          -43
+        ],
+        [
+          -12,
+          -38
+        ],
+        [
+          -35,
+          -54
+        ],
+        [
+          -31,
+          -65
+        ],
+        [
+          -18,
+          -68
+        ],
+        [
+          -5,
+          -78
+        ],
+        [
+          6,
+          -77
+        ],
+        [
+          11,
+          -73
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional or peer-reviewed distribution evidence for readable world-map display. Boundaries are approximate and never imply continuous occupancy within every enclosed area.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构或同行评审分布证据作保守概化，以便世界地图清晰呈现。边界为近似范围，绝不表示圈内每处都有连续分布。",
+      "checked_at": "2026-09-11"
+    }
+  },
+  "image": "/images/animals/common-potoo.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "American Ornithological Society checklist",
+      "url": "https://checklist.americanornithology.org/taxa/731",
+      "checked_at": "2026-09-11"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through the GBIF Species API",
+      "url": "https://api.gbif.org/v1/species/2496811/iucnRedListCategory",
+      "checked_at": "2026-09-11"
+    },
+    "general": {
+      "authority": "Cornell Lab of Ornithology eBird species profile",
+      "url": "https://ebird.org/species/compot1",
+      "checked_at": "2026-09-11"
+    },
+    "ecology": {
+      "authority": "Cornell Lab of Ornithology eBird species profile",
+      "url": "https://ebird.org/species/compot1",
+      "checked_at": "2026-09-11"
+    },
+    "range": {
+      "authority": "Cornell Lab eBird Status and Trends range model",
+      "url": "https://science.ebird.org/en/status-and-trends/species/compot1/range-map",
+      "checked_at": "2026-09-11"
+    }
+  }
+}

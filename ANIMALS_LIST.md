@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **478** 种动物
+**统计**：共 **488** 种动物
 
 ---
 
@@ -14,6 +14,7 @@
 
 - 旋角羚 / Addax — *Addax nasomaculatus* `addax`
 - 非洲水牛 / African Buffalo — *Syncerus caffer* `african-buffalo`
+- 长颈羚 / Gerenuk — *Litocranius walleri* `gerenuk`
 
 **猪科**
 
@@ -99,6 +100,10 @@
 **跳鼠科**
 
 - 长耳跳鼠 / Long-eared Jerboa — *Euchoreutes naso* `long-eared-jerboa`
+
+**鼠科**
+
+- 非洲鬃鼠 / Maned Rat — *Lophiomys imhausi* `maned-rat`
 
 ### 奇蹄目
 
@@ -219,6 +224,7 @@
 
 **鼹科**
 
+- 比利牛斯鼩鼹 / Pyrenean Desman — *Galemys pyrenaicus* `pyrenean-desman`
 - 星鼻鼹 / Star-nosed Mole — *Condylura cristata* `star-nosed-mole`
 
 ### 管齿目
@@ -565,6 +571,7 @@
 
 **林鸱科**
 
+- 灰林鸱 / Common Potoo — *Nyctibius griseus* `common-potoo`
 - 北方林鸱 / Northern Potoo — *Nyctibius jamaicensis* `northern-potoo`
 
 ### 沙鸡目
@@ -971,6 +978,10 @@
 
 ### 有鳞目
 
+**壁虎科**
+
+- 撒旦叶尾壁虎 / Satanic Leaf-tailed Gecko — *Uroplatus phantasticus* `satanic-leaf-tailed-gecko`
+
 **巨蜥科**
 
 - 科莫多巨蜥 / Komodo Dragon — *Varanus komodoensis* `komodo-dragon`
@@ -1032,6 +1043,7 @@
 
 - 中部鬃狮蜥 / Central Bearded dragon — *Pogona vitticeps* `central-bearded-dragon`
 - 绿鬣蜥 / Green Iguana — *Iguana iguana* `green-iguana`
+- 印度飞蜥 / Indian Flying Lizard — *Draco dussumieri* `indian-flying-lizard`
 - 冠棘蜥 / Indochinese spiky lizard — *Acanthosaura coronata* `indochinese-spiky-lizard`
 - 海鬣蜥 / Marine Iguana — *Amblyrhynchus cristatus* `marine-iguana`
 
@@ -1092,6 +1104,10 @@
 
 - 华莱士飞蛙 / Wallace's Flying Frog — *Rhacophorus nigropalmatus* `wallaces-flying-frog`
 
+**澳洲树蛙科**
+
+- 华丽树蛙 / Magnificent Tree Frog — *Ranoidea splendida* `magnificent-tree-frog`
+
 **瞻星蛙科**
 
 - 玻璃蛙 / Glass Frog — *Hyalinobatrachium fleischmanni* `glass-frog`
@@ -1148,6 +1164,10 @@
 
 - 北太平洋巨型章鱼 / Giant Pacific Octopus — *Enteroctopus dofleini* `giant-pacific-octopus`
 
+**毯章鱼科**
+
+- 紫毯章鱼 / Violet Blanket Octopus — *Tremoctopus violaceus* `violet-blanket-octopus`
+
 **章鱼科**
 
 - 大蓝环章鱼 / Greater Blue-ringed Octopus — *Hapalochlaena lunulata* `greater-blue-ringed-octopus`
@@ -1174,6 +1194,7 @@
 
 **角蝉科**
 
+- 球冠角蝉 / Brazilian Treehopper — *Bocydium globulare* `brazilian-treehopper`
 - 刺角蝉 / Thorn Bug — *Umbonia crassicornis* `thorn-bug`
 
 ### 双翅目
@@ -1493,6 +1514,10 @@
 - 巨骨舌鱼 / Arapaima — *Arapaima gigas* `arapaima-gigas`
 
 ### 鮟鱇目
+
+**蝙蝠鱼科**
+
+- 红唇蝙蝠鱼 / Red-lipped Batfish — *Ogcocephalus darwini* `red-lipped-batfish`
 
 **躄鱼科**
 

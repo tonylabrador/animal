@@ -1,14 +1,14 @@
 # Animal QC master to-do list
 
-此台账由 `npm run report:animal-qc` 生成，是 478 只现有动物逐条 QC 的唯一进度来源。`complete` 必须同时通过 Rich Content v2 事实与中英逐条审核、地图审核，以及人工确认且许可可验证的图片审核。
+此台账由 `npm run report:animal-qc` 生成，是 488 只现有动物逐条 QC 的唯一进度来源。`complete` 必须同时通过 Rich Content v2 事实与中英逐条审核、地图审核，以及人工确认且许可可验证的图片审核。
 
 ## Summary
 
-- Total animals: 478
-- Content v2 reviewed: 478
+- Total animals: 488
+- Content v2 reviewed: 488
 - Content still pending: 0
-- Images with verified license and human approval: 439
-- Fully release-gated complete: 439
+- Images with verified license and human approval: 449
+- Fully release-gated complete: 449
 - Still on master to-do list: 39
 
 ## Per-animal ledger
@@ -88,6 +88,7 @@
 | bolivian-anaconda | Bolivian Anaconda | 玻利维亚森蚺 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-03 | — |
 | bornean-orangutan | Bornean Orangutan | 婆罗洲猩猩 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-03 | — |
 | boulder-brain-coral | Boulder brain coral | 巨型脑珊瑚 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-03 | — |
+| brazilian-treehopper | Brazilian Treehopper | 球冠角蝉 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | brown-bear | Brown Bear | 棕熊 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-03 | — |
 | brown-eared-pheasant | Brown Eared Pheasant | 褐马鸡 | reviewed-v2 | representative-point | verified | complete | legacy-qc-batch-03 | — |
 | brown-pelican | Brown pelican | 褐鹈鹕 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-04 | — |
@@ -133,6 +134,7 @@
 | common-ostrich | Common Ostrich | 非洲鸵鸟 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-04 | — |
 | common-pheasant | Common Pheasant | 雉鸡 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-04 | — |
 | common-poorwill | Common poorwill | 弱夜鹰 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-04 | — |
+| common-potoo | Common Potoo | 灰林鸱 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | common-raven | Common Raven | 渡鸦 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-04 | — |
 | common-seahorse | Common Seahorse | 海马 | reviewed-v2 | representative-point | verified | complete | legacy-qc-batch-04 | — |
 | common-swift | Common swift | 普通楼燕 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-04 | — |
@@ -192,6 +194,7 @@
 | galapagos-tortoise | Floreana Giant Tortoise | 弗洛雷亚纳象龟 | reviewed-v2 | representative-point | replacement-needed | todo | legacy-qc-batch-04 | image-replacement-needed |
 | garden-snail | Garden Snail | 花园蜗牛 | reviewed-v2 | representative-point | verified | complete | legacy-qc-batch-04 | — |
 | gelada | Gelada | 狮尾狒狒 | reviewed-v2 | verified-polygon | verified | complete | — | — |
+| gerenuk | Gerenuk | 长颈羚 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | giant-anteater | Giant Anteater | 大食蚁兽 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-04 | — |
 | giant-apple-snail | Giant Apple Snail | 巨型苹果螺 | reviewed-v2 | representative-point | verified | complete | legacy-qc-batch-04 | — |
 | giant-armadillo | Giant Armadillo | 大犰狳 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-04 | — |
@@ -270,6 +273,7 @@
 | ili-pika | Ili Pika | 伊犁鼠兔 | reviewed-v2 | legacy-polygon-retained | replacement-needed | todo | legacy-qc-batch-05 | image-replacement-needed |
 | immortal-jellyfish | Immortal Jellyfish | 灯塔水母 | reviewed-v2 | legacy-polygon-retained | replacement-needed | todo | legacy-qc-batch-05 | image-replacement-needed |
 | indian-flying-fox | Indian Flying Fox | 印度狐蝠 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-05 | — |
+| indian-flying-lizard | Indian Flying Lizard | 印度飞蜥 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | indian-giant-squirrel | Indian Giant Squirrel | 印度巨松鼠 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | indian-peafowl | Indian Peafowl | 蓝孔雀 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-05 | — |
 | indochinese-spiky-lizard | Indochinese spiky lizard | 冠棘蜥 | reviewed-v2 | representative-point | verified | complete | legacy-qc-batch-05 | — |
@@ -314,10 +318,12 @@
 | long-tailed-tit | Long-tailed Tit | 北长尾山雀 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-05 | — |
 | longsnout-catfish | Longsnout Catfish | 长吻鮠 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-05 | — |
 | lowland-streaked-tenrec | Lowland Streaked Tenrec | 低地斑纹马岛猬 | reviewed-v2 | representative-point | verified | complete | legacy-qc-batch-05 | — |
+| magnificent-tree-frog | Magnificent Tree Frog | 华丽树蛙 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | malayan-tapir | Malayan tapir | 马来貘 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-05 | — |
 | mallard | Mallard | 绿头鸭 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-05 | — |
 | mandarin-duck | Mandarin Duck | 鸳鸯 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-05 | — |
 | mandarinfish | Mandarinfish | 花斑连鳍䲗 | reviewed-v2 | verified-polygon | verified | complete | — | — |
+| maned-rat | Maned Rat | 非洲鬃鼠 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | maned-wolf | Maned Wolf | 鬃狼 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-05 | — |
 | mangrove-box-jellyfish | Mangrove box jellyfish | 红树林箱水母 | reviewed-v2 | legacy-polygon-retained | replacement-needed | todo | legacy-qc-batch-06 | image-replacement-needed |
 | marabou-stork | Marabou stork | 非洲秃鹳 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
@@ -377,6 +383,7 @@
 | przewalskis-gazelle | Przewalski's Gazelle | 普氏原羚 | reviewed-v2 | representative-point | replacement-needed | todo | legacy-qc-batch-06 | image-replacement-needed |
 | purple-frog | Purple Frog | 紫蛙 | reviewed-v2 | representative-point | verified | complete | — | — |
 | pygmy-slow-loris | Southern Pygmy Slow Loris | 南小懒猴 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
+| pyrenean-desman | Pyrenean Desman | 比利牛斯鼩鼹 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | quokka | Quokka | 短尾矮袋鼠 | reviewed-v2 | representative-point | verified | complete | legacy-qc-batch-06 | — |
 | raccoon | Raccoon | 浣熊 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | raccoon-dog | Raccoon Dog | 貉 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
@@ -387,6 +394,7 @@
 | red-kangaroo | Red Kangaroo | 红袋鼠 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | red-legged-seriema | Red-legged seriema | 红腿叫鹤 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | red-lionfish | Red Lionfish | 蓑鲉 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
+| red-lipped-batfish | Red-lipped Batfish | 红唇蝙蝠鱼 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | red-panda | Red Panda | 小熊猫 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | red-ruffed-lemur | Red Ruffed Lemur | 红领狐猴 | reviewed-v2 | representative-point | legacy-unverified | todo | — | image-legacy-unverified |
 | red-squirrel | Red squirrel | 红松鼠 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
@@ -407,6 +415,7 @@
 | sand-cat | Sand Cat | 沙猫 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | sandhill-crane | Sandhill crane | 沙丘鹤 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | saola | Saola | 中南大羚 | reviewed-v2 | legacy-polygon-retained | replacement-needed | todo | legacy-qc-batch-06 | image-replacement-needed |
+| satanic-leaf-tailed-gecko | Satanic Leaf-tailed Gecko | 撒旦叶尾壁虎 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | scarlet-ibis | Scarlet Ibis | 美洲红鹮 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | scarlet-macaw | Scarlet Macaw | 绯红金刚鹦鹉 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | sea-otter | Sea Otter | 海獭 | reviewed-v2 | legacy-polygon-retained | replacement-needed | todo | legacy-qc-batch-06 | image-replacement-needed |
@@ -468,6 +477,7 @@
 | victoria-crowned-pigeon | Victoria Crowned Pigeon | 维多利亚冠鸠 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | victorian-grassland-earless-dragon | Victorian grassland earless dragon | 维多利亚草原无耳龙 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | vicuna | Vicuña | 小羊驼 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
+| violet-blanket-octopus | Violet Blanket Octopus | 紫毯章鱼 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | virginia-opossum | Virginia Opossum | 北美负鼠 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | wallaces-flying-frog | Wallace's Flying Frog | 华莱士飞蛙 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | wallaces-giant-bee | Wallace's Giant Bee | 华莱士巨蜂 | reviewed-v2 | legacy-polygon-retained | replacement-needed | todo | legacy-qc-batch-06 | image-replacement-needed |
