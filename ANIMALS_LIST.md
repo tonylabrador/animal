@@ -2,7 +2,7 @@
 
 按生物分类整理，便于追踪已添加的物种。
 
-**统计**：共 **488** 种动物
+**统计**：共 **498** 种动物
 
 ---
 
@@ -14,11 +14,16 @@
 
 - 旋角羚 / Addax — *Addax nasomaculatus* `addax`
 - 非洲水牛 / African Buffalo — *Syncerus caffer* `african-buffalo`
+- 紫羚 / Bongo — *Tragelaphus eurycerus* `bongo`
 - 长颈羚 / Gerenuk — *Litocranius walleri* `gerenuk`
 
 **猪科**
 
 - 野猪 / Wild Boar — *Sus scrofa* `wild-boar`
+
+**长颈鹿科**
+
+- 霍加狓 / Okapi — *Okapia johnstoni* `okapi`
 
 **骆驼科**
 
@@ -389,6 +394,7 @@
 
 **鬣狗科**
 
+- 南方土狼 / Southern Aardwolf — *Proteles cristatus* `southern-aardwolf`
 - 斑鬣狗 / Spotted Hyena — *Crocuta crocuta* `spotted-hyena`
 
 **鼬科**
@@ -567,6 +573,12 @@
 
 - 弱夜鹰 / Common poorwill — *Phalaenoptilus nuttallii* `common-poorwill`
 
+### 日鳽目
+
+**日鳽科**
+
+- 日鳽 / Sunbittern — *Eurypyga helias* `sunbittern`
+
 ### 林鸱目
 
 **林鸱科**
@@ -597,6 +609,7 @@
 **犀鸟科**
 
 - 双角犀鸟 / Great Hornbill — *Buceros bicornis* `great-hornbill`
+- 盔犀鸟 / Helmeted Hornbill — *Rhinoplax vigil* `helmeted-hornbill`
 - 马来犀鸟 / Rhinoceros Hornbill — *Buceros rhinoceros* `rhinoceros-hornbill`
 
 ### 红鹳目
@@ -1042,10 +1055,12 @@
 **鬣蜥科**
 
 - 中部鬃狮蜥 / Central Bearded dragon — *Pogona vitticeps* `central-bearded-dragon`
+- 领圈蜥 / Frilled Lizard — *Chlamydosaurus kingii* `frilled-lizard`
 - 绿鬣蜥 / Green Iguana — *Iguana iguana* `green-iguana`
 - 印度飞蜥 / Indian Flying Lizard — *Draco dussumieri* `indian-flying-lizard`
 - 冠棘蜥 / Indochinese spiky lizard — *Acanthosaura coronata* `indochinese-spiky-lizard`
 - 海鬣蜥 / Marine Iguana — *Amblyrhynchus cristatus* `marine-iguana`
+- 澳洲魔蜥 / Thorny Devil — *Moloch horridus* `thorny-devil`
 
 **鳄蜥科**
 
@@ -1102,6 +1117,7 @@
 
 **树蛙科**
 
+- 越南苔藓蛙 / Vietnamese Mossy Frog — *Theloderma corticale* `vietnamese-mossy-frog`
 - 华莱士飞蛙 / Wallace's Flying Frog — *Rhacophorus nigropalmatus* `wallaces-flying-frog`
 
 **澳洲树蛙科**
@@ -1150,6 +1166,16 @@
 
 ---
 
+## 双壳纲
+
+### 帘蛤目
+
+**鸟蛤科**
+
+- 大砗磲 / True Giant Clam — *Tridacna gigas* `true-giant-clam`
+
+---
+
 ## 头足纲
 
 ### 乌贼目
@@ -1157,6 +1183,7 @@
 **乌贼科**
 
 - 普通乌贼 / Common Cuttlefish — *Sepia officinalis* `common-cuttlefish`
+- 火焰乌贼 / Flamboyant Cuttlefish — *Ascarosepion pfefferi* `flamboyant-cuttlefish`
 
 ### 八腕目
 

@@ -1,0 +1,390 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-11-12",
+    "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+    "notes": "Every English and Chinese section was compared line by line. Accepted species identity, IUCN scope, numeric claims, map generalization and look-alike image risks were checked against the cited sources. Generalized polygons do not imply continuous occupancy."
+  },
+  "id": "flamboyant-cuttlefish",
+  "name_zh": "火焰乌贼",
+  "name_en": "Flamboyant Cuttlefish",
+  "scientific_name": "Ascarosepion pfefferi",
+  "ui_tags": [
+    "Mollusk",
+    "Coral Reef",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Mollusca",
+      "zh": "软体动物门"
+    },
+    "class": {
+      "en": "Cephalopoda",
+      "zh": "头足纲"
+    },
+    "order": {
+      "en": "Sepiida",
+      "zh": "乌贼目"
+    },
+    "family": {
+      "en": "Sepiidae",
+      "zh": "乌贼科"
+    },
+    "genus": {
+      "en": "Ascarosepion",
+      "zh": "焰乌贼属"
+    }
+  },
+  "conservation_status": {
+    "code": "DD",
+    "en": "Data Deficient",
+    "zh": "数据缺乏",
+    "note_en": "The species-level global category checked on 2026-11-12 is Data Deficient; regional and legal listings may differ.",
+    "note_zh": "已于2026-11-12核对物种级全球等级为数据缺乏；地区和法律名录可能不同。"
+  },
+  "description": {
+    "en": "The Flamboyant Cuttlefish is a small Indo-Pacific cuttlefish that often walks over the seafloor on its arms and fin lobes. Normally mottled for camouflage, it can pulse vivid yellow, white, purple and dark warning-like patterns.",
+    "zh": "火焰乌贼是小型印度—太平洋乌贼，常用腕和鳍叶在海床上“行走”。平时以斑驳颜色伪装，也能脉动展示鲜黄、白、紫和深色的警戒式图案。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "The mantle is roughly 6–8 cm long in adults. A reduced internal cuttlebone limits buoyancy, broad arms surround the mouth, two feeding tentacles shoot forward, and chromatophore organs change visible color within moments.",
+      "zh": "成体外套膜长约6–8厘米。缩小的内骨限制浮力，宽大的腕围绕口部，两条捕食触腕可向前射出，色素胞器官能在瞬间改变可见体色。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It hunts shrimp and small fishes over sand, rubble and reef-associated bottoms. Slow walking and camouflage conserve energy; when prey approaches, the animal rapidly extends its two tentacles to seize it.",
+      "zh": "它在沙地、碎石和礁区底部捕食虾及小鱼。缓慢行走和伪装可节省能量；猎物靠近时，它迅速弹出两条触腕抓取。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Recorded in the tropical western Pacific and eastern Indian Ocean, including Indonesia, the Philippines, Papua New Guinea and northern Australia. It lives on shallow sand, rubble, mud and reef-adjacent bottoms rather than across every enclosed area.",
+      "zh": "记录分布于热带西太平洋和东印度洋，包括印度尼西亚、菲律宾、巴布亚新几内亚及澳大利亚北部。它生活在浅海沙、碎石、泥和礁缘底部，并非地图圈内处处连续分布。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "mantle_length",
+        "label": {
+          "en": "Adult mantle length",
+          "zh": "成体外套膜长"
+        },
+        "value": {
+          "en": "About 6–8 cm",
+          "zh": "约6–8厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "movement",
+        "label": {
+          "en": "Typical movement",
+          "zh": "常见移动方式"
+        },
+        "value": {
+          "en": "Walks over the seafloor",
+          "zh": "在海床上行走"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Diet",
+          "zh": "食性"
+        },
+        "value": {
+          "en": "Shrimp and small fishes",
+          "zh": "虾和小鱼"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "Global status",
+          "zh": "全球等级"
+        },
+        "value": {
+          "en": "Data Deficient",
+          "zh": "数据缺乏"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Males transfer spermatophores to females, which place individual eggs in protected crevices. In managed care, eggs develop for several weeks before hatching into miniature hunters; adults have a short cephalopod life cycle and provide no post-hatching care.",
+      "zh": "雄体把精荚传给雌体，雌体把单个卵放入受保护缝隙。在人工照护中，卵发育数周后孵出微型捕食者；成体生命周期较短，孵化后不再照护。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Dynamic chromatophores",
+          "zh": "动态色素胞"
+        },
+        "detail": {
+          "en": "Muscular pigment organs create rapidly moving camouflage and high-contrast displays.",
+          "zh": "肌肉控制的色素器官形成快速变化的伪装和高对比展示。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Seafloor walking",
+          "zh": "海床行走"
+        },
+        "detail": {
+          "en": "Arms and muscular fin lobes support controlled movement despite limited buoyancy.",
+          "zh": "腕和肌肉发达的鳍叶在浮力有限时支撑可控移动。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Ballistic tentacles",
+          "zh": "弹射触腕"
+        },
+        "detail": {
+          "en": "Two elongated tentacles shoot from the arm crown to seize shrimp or fish at close range.",
+          "zh": "两条延长触腕从腕冠射出，在近距离抓住虾或鱼。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "It is a small benthic predator linking crustaceans and fishes with larger reef and seafloor predators. Its eggs and hatchlings also contribute to shallow tropical food webs.",
+      "zh": "它是小型底栖捕食者，把甲壳动物和鱼类与更大型礁区及海床捕食者联系起来；其卵和幼体也参与浅海热带食物网。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "unknown",
+      "threats": {
+        "en": "The species is Data Deficient, so population trend is unknown. Coastal habitat degradation, pollution, destructive fishing and untracked collection for aquariums may affect local populations.",
+        "zh": "该物种为数据缺乏，种群趋势未知。沿海生境退化、污染、破坏性捕鱼和缺乏记录的水族贸易捕捉可能影响局地种群。"
+      },
+      "actions": {
+        "en": "Protect shallow benthic habitat, document exact locality and depth, avoid destructive collection, and expand population and life-history monitoring before assuming the species is secure.",
+        "zh": "应保护浅海底栖生境，记录精确地点和水深，避免破坏性捕捉，并扩大种群及生活史监测，不能因缺少数据就假定安全。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A very small broad-armed cuttlefish that often rests or walks on the bottom, with raised papillae and pulsing yellow-white-purple patches. A thin fin runs along the mantle and the body is not shaped like a nudibranch.",
+        "zh": "体形很小、腕宽，常伏在或行走于海底，具有凸起皮肤乳突及脉动黄白紫色斑。外套膜边缘有窄鳍，身体并非海蛞蝓形。"
+      },
+      "similar_species": {
+        "en": "Painted or broadclub cuttlefishes can show strong colors but are larger and differently proportioned. Exact images should show a compact Ascarosepion body, characteristic walking posture and verified western Indo-Pacific locality.",
+        "zh": "彩乌贼或宽腕乌贼也会展示强烈颜色，但体形更大、比例不同。准确照片应显示紧凑的焰乌贼属体形、典型行走姿态及可信西印度—太平洋地点。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Large camera-type eyes judge distance and polarization, while suckers taste and touch prey. Skin pattern changes communicate condition and help conceal the animal from both prey and predators.",
+      "zh": "大型照相机式眼睛判断距离和偏振光，吸盘则触摸并尝味猎物；皮肤花纹变化既传递状态，也帮助躲避猎物和捕食者。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "A single universal breeding season is not established across its tropical range. Local temperature and food affect egg development, and captive schedules should not be projected directly onto wild populations.",
+      "zh": "在其热带分布区内尚未确定统一繁殖季。局地温度和食物会影响卵发育，圈养时间表不能直接套用于野外种群。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Its colors make it popular with divers and aquariums, but animals should not be touched or collected. The accepted name Ascarosepion pfefferi replaces the widely used older combination Metasepia pfefferi.",
+      "zh": "它因鲜艳体色受到潜水者和水族馆关注，但不应触摸或捕捉。当前接受名为Ascarosepion pfefferi，取代广泛使用的旧组合Metasepia pfefferi。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Flamboyant Cuttlefish belongs to genus Ascarosepion, family Sepiidae, order Sepiida. This record uses the accepted species-level binomial Ascarosepion pfefferi; facts and images are not transferred from close relatives.",
+      "zh": "火焰乌贼归入焰乌贼属、乌贼科、乌贼目。本条目采用接受的物种级二名法Ascarosepion pfefferi；不会从近缘种移用事实或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Search slowly over sand-rubble transitions for a tiny animal stepping on arm tips. Record neutral and display colors, mantle shape, depth and locality; color alone is not enough for species identification.",
+      "zh": "可在沙地—碎石过渡带缓慢寻找用腕尖迈步的小型个体。应记录平静和展示体色、外套膜形状、水深与地点；仅凭颜色不能鉴定到种。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "It often walks more than it swims because its cuttlebone provides limited buoyancy.",
+          "zh": "由于内骨提供的浮力有限，它常常行走多于游泳。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its bright display is produced by living pigment organs rather than a fixed shell color.",
+          "zh": "鲜艳展示来自活体色素器官，并非固定壳色。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Many sources still use its older scientific combination Metasepia pfefferi.",
+          "zh": "许多资料仍使用旧学名组合Metasepia pfefferi。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Cephalopod color control",
+          "zh": "头足类体色控制"
+        },
+        "content": {
+          "en": "Chromatophores expand and contract under neural control, while structural reflector cells alter brightness. Together they create moving patterns far faster than ordinary pigment growth.",
+          "zh": "色素胞在神经控制下扩张和收缩，结构反光细胞则改变亮度；二者共同形成远快于普通色素生长的动态图案。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Recorded in the tropical western Pacific and eastern Indian Ocean, including Indonesia, the Philippines, Papua New Guinea and northern Australia. It lives on shallow sand, rubble, mud and reef-adjacent bottoms rather than across every enclosed area.",
+    "text_zh": "记录分布于热带西太平洋和东印度洋，包括印度尼西亚、菲律宾、巴布亚新几内亚及澳大利亚北部。它生活在浅海沙、碎石、泥和礁缘底部，并非地图圈内处处连续分布。",
+    "map_coordinates": [
+      -4,
+      131
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          12,
+          115
+        ],
+        [
+          18,
+          126
+        ],
+        [
+          8,
+          132
+        ],
+        [
+          -12,
+          145
+        ],
+        [
+          -20,
+          134
+        ],
+        [
+          -8,
+          117
+        ],
+        [
+          12,
+          115
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional distribution evidence for readable map display; boundaries are approximate and never imply continuous occupancy.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布证据作保守概化，以便地图清晰呈现；边界为近似范围，绝不表示圈内连续分布。",
+      "checked_at": "2026-11-12"
+    }
+  },
+  "image": "/images/animals/flamboyant-cuttlefish.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/12237854",
+      "checked_at": "2026-11-12"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through GBIF",
+      "url": "https://api.gbif.org/v1/species/12237854/iucnRedListCategory",
+      "checked_at": "2026-11-12"
+    },
+    "general": {
+      "authority": "Aquarium of the Pacific",
+      "url": "https://www.aquariumofpacific.org/onlinelearningcenter/species/flamboyant_cuttlefish",
+      "checked_at": "2026-11-12"
+    },
+    "ecology": {
+      "authority": "Aquarium of the Pacific ecology account",
+      "url": "https://www.aquariumofpacific.org/onlinelearningcenter/species/flamboyant_cuttlefish",
+      "checked_at": "2026-11-12"
+    },
+    "range": {
+      "authority": "Ocean Biodiversity Information System taxon record",
+      "url": "https://obis.org/taxon/342275",
+      "checked_at": "2026-11-12"
+    }
+  }
+}

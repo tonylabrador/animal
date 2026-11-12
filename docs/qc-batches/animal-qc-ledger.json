@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T20:00:29.359Z",
+  "generated_at": "2026-11-12T21:03:27.458Z",
   "completion_rule": "A record is complete only when Rich Content v2 factual/bilingual review, map review, and a human-approved verified-license image all pass.",
   "summary": {
-    "total": 488,
-    "content_reviewed": 488,
+    "total": 498,
+    "content_reviewed": 498,
     "content_pending": 0,
-    "images_verified": 449,
-    "release_complete": 449,
+    "images_verified": 459,
+    "release_complete": 459,
     "release_todo": 39
   },
   "animals": [
@@ -1203,6 +1203,21 @@
       "batches": [
         "legacy-qc-batch-03"
       ],
+      "issues": []
+    },
+    {
+      "id": "bongo",
+      "name_en": "Bongo",
+      "name_zh": "紫羚",
+      "scientific_name": "Tragelaphus eurycerus",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-11-12",
+      "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -2924,6 +2939,21 @@
       "issues": []
     },
     {
+      "id": "flamboyant-cuttlefish",
+      "name_en": "Flamboyant Cuttlefish",
+      "name_zh": "火焰乌贼",
+      "scientific_name": "Ascarosepion pfefferi",
+      "class": "Mollusk",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-11-12",
+      "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "flame-bowerbird",
       "name_en": "Flame Bowerbird",
       "name_zh": "辉亭鸟",
@@ -2972,6 +3002,21 @@
       "batches": [
         "legacy-qc-batch-04"
       ],
+      "issues": []
+    },
+    {
+      "id": "frilled-lizard",
+      "name_en": "Frilled Lizard",
+      "name_zh": "领圈蜥",
+      "scientific_name": "Chlamydosaurus kingii",
+      "class": "Reptile",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-11-12",
+      "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -4042,6 +4087,21 @@
       "batches": [
         "legacy-qc-batch-05"
       ],
+      "issues": []
+    },
+    {
+      "id": "helmeted-hornbill",
+      "name_en": "Helmeted Hornbill",
+      "name_zh": "盔犀鸟",
+      "scientific_name": "Rhinoplax vigil",
+      "class": "Bird",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-11-12",
+      "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -5790,6 +5850,21 @@
       "issues": []
     },
     {
+      "id": "okapi",
+      "name_en": "Okapi",
+      "name_zh": "霍加狓",
+      "scientific_name": "Okapia johnstoni",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-11-12",
+      "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "olm",
       "name_en": "Olm",
       "name_zh": "洞螈",
@@ -7055,6 +7130,21 @@
       "issues": []
     },
     {
+      "id": "southern-aardwolf",
+      "name_en": "Southern Aardwolf",
+      "name_zh": "南方土狼",
+      "scientific_name": "Proteles cristatus",
+      "class": "Mammal",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-11-12",
+      "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "southern-black-widow",
       "name_en": "Southern Black Widow",
       "name_zh": "南方黑寡妇",
@@ -7346,6 +7436,21 @@
       "issues": []
     },
     {
+      "id": "sunbittern",
+      "name_en": "Sunbittern",
+      "name_zh": "日鳽",
+      "scientific_name": "Eurypyga helias",
+      "class": "Bird",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-11-12",
+      "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "sunda-colugo",
       "name_en": "Sunda Colugo",
       "name_zh": "巽他鼯猴",
@@ -7520,6 +7625,21 @@
       ]
     },
     {
+      "id": "thorny-devil",
+      "name_en": "Thorny Devil",
+      "name_zh": "澳洲魔蜥",
+      "scientific_name": "Moloch horridus",
+      "class": "Reptile",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-11-12",
+      "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+      "batches": [],
+      "issues": []
+    },
+    {
       "id": "three-banded-armadillo",
       "name_en": "Brazilian Three-banded Armadillo",
       "name_zh": "三带犰狳",
@@ -7621,6 +7741,21 @@
       "batches": [
         "legacy-qc-batch-06"
       ],
+      "issues": []
+    },
+    {
+      "id": "true-giant-clam",
+      "name_en": "True Giant Clam",
+      "name_zh": "大砗磲",
+      "scientific_name": "Tridacna gigas",
+      "class": "Mollusk",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-11-12",
+      "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+      "batches": [],
       "issues": []
     },
     {
@@ -7808,6 +7943,21 @@
       "batches": [
         "legacy-qc-batch-06"
       ],
+      "issues": []
+    },
+    {
+      "id": "vietnamese-mossy-frog",
+      "name_en": "Vietnamese Mossy Frog",
+      "name_zh": "越南苔藓蛙",
+      "scientific_name": "Theloderma corticale",
+      "class": "Amphibian",
+      "content_status": "reviewed-v2",
+      "map_status": "verified-polygon",
+      "image_status": "verified",
+      "release_status": "complete",
+      "reviewed_at": "2026-11-12",
+      "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+      "batches": [],
       "issues": []
     },
     {

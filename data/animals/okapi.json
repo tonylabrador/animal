@@ -1,0 +1,390 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-11-12",
+    "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+    "notes": "Every English and Chinese section was compared line by line. Accepted species identity, IUCN scope, numeric claims, map generalization and look-alike image risks were checked against the cited sources. Generalized polygons do not imply continuous occupancy."
+  },
+  "id": "okapi",
+  "name_zh": "霍加狓",
+  "name_en": "Okapi",
+  "scientific_name": "Okapia johnstoni",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Giraffidae",
+      "zh": "长颈鹿科"
+    },
+    "genus": {
+      "en": "Okapia",
+      "zh": "霍加狓属"
+    }
+  },
+  "conservation_status": {
+    "code": "EN",
+    "en": "Endangered",
+    "zh": "濒危",
+    "note_en": "The species-level global category checked on 2026-11-12 is Endangered; regional and legal listings may differ.",
+    "note_zh": "已于2026-11-12核对物种级全球等级为濒危；地区和法律名录可能不同。"
+  },
+  "description": {
+    "en": "The Okapi is the only living close relative of giraffes outside genus Giraffa. It inhabits dense rainforests of the Democratic Republic of the Congo, where a chocolate-brown body, zebra-like leg stripes and a long prehensile tongue suit a quiet browsing life.",
+    "zh": "霍加狓是长颈鹿属之外唯一现生的长颈鹿近亲，栖息于刚果民主共和国的浓密雨林。巧克力褐色身体、斑马般的腿纹和可卷握长舌，适应了安静的林下取食生活。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are about 180–250 cm long and 210–350 kg. The coat is oily and water-shedding; both sexes have large ears, males usually bear short skin-covered ossicones, and the dark tongue can extend more than 30 cm.",
+      "zh": "成体体长约180–250厘米、体重210–350千克。油性被毛有助于排水；雌雄都有大耳，雄性通常具有短小的皮包角，深色舌可伸出超过30厘米。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Okapis are mainly solitary forest browsers that eat leaves, buds, twigs and other plant material. Home ranges overlap, and individuals communicate through scent marks, postures and low calls; leopards are a principal natural predator.",
+      "zh": "霍加狓主要独居，在森林中取食叶、芽、嫩枝等植物。个体家域会重叠，并以气味标记、姿态和低声交流；花豹是主要天然捕食者之一。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to the Democratic Republic of the Congo, principally the central, northern and eastern rainforest belt, including the Ituri and Maiko forest regions. It uses high-canopy rainforest and forest edges, generally avoiding open or waterlogged ground.",
+      "zh": "仅分布于刚果民主共和国，主要位于中部、北部和东部雨林带，包括伊图里和迈科森林地区。它利用高冠层雨林及林缘，通常避开开阔地和长期积水地。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_length",
+        "label": {
+          "en": "Body length",
+          "zh": "体长"
+        },
+        "value": {
+          "en": "About 180–250 cm",
+          "zh": "约180–250厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "body_mass",
+        "label": {
+          "en": "Body mass",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 210–350 kg",
+          "zh": "约210–350千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "gestation",
+        "label": {
+          "en": "Gestation",
+          "zh": "妊娠期"
+        },
+        "value": {
+          "en": "About 414–493 days",
+          "zh": "约414–493天"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "range",
+        "label": {
+          "en": "Native range",
+          "zh": "原生分布"
+        },
+        "value": {
+          "en": "Democratic Republic of the Congo",
+          "zh": "刚果民主共和国"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Courtship brings otherwise solitary adults together. Pregnancy lasts about 414–493 days and usually produces 1 calf. The calf can stand soon after birth, then remains concealed in a forest nest while its mother returns to nurse it.",
+      "zh": "原本独居的成体在求偶期相聚。妊娠约414–493天，通常产1仔。幼仔出生不久即可站立，随后藏在林中隐蔽处，由母兽定期返回哺乳。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Prehensile tongue",
+          "zh": "可卷握舌"
+        },
+        "detail": {
+          "en": "A tongue more than 30 cm long strips leaves and can groom the face and ears.",
+          "zh": "超过30厘米的舌可卷取叶片，也能清洁面部和耳部。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Forest camouflage",
+          "zh": "森林伪装"
+        },
+        "detail": {
+          "en": "Dark body color merges with shade while broken white leg stripes disrupt the outline among shafts of light.",
+          "zh": "深色身体融入阴影，腿部断续白纹则在斑驳光线中切割轮廓。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Large mobile ears",
+          "zh": "大型活动耳"
+        },
+        "detail": {
+          "en": "Broad independently moving ears help detect faint sounds in dense vegetation.",
+          "zh": "宽大且可独立转动的耳有助于在浓密植被中捕捉微弱声音。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a large browser, the Okapi transfers plant material through the forest food web and influences understory vegetation. It also supports predators, parasites and decomposers through its place in the Congo Basin ecosystem.",
+      "zh": "作为大型食叶兽，霍加狓把植物物质带入森林食物网，并影响林下植被；它也通过自身在刚果盆地生态系统中的位置，支撑捕食者、寄生生物和分解者。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "The global population is decreasing. Habitat loss and fragmentation from logging, mining, roads and settlement combine with illegal hunting and armed insecurity across parts of its restricted range.",
+        "zh": "全球种群正在下降。伐木、采矿、道路和定居导致的生境丧失与破碎化，与非法捕猎及部分分布区的武装冲突叠加。"
+      },
+      "actions": {
+        "en": "Protect and connect Congo Basin rainforest, support the Okapi Wildlife Reserve and community-based conservation, strengthen anti-poaching work, and reduce illegal extraction and trade in occupied habitat.",
+        "zh": "应保护并连通刚果盆地雨林，支持霍加狓野生动物保护区和社区保护，加强反盗猎，并减少已占据生境中的非法资源开采与贸易。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "Look for a large forest ungulate with a velvety dark-brown body, white facial markings, bold cream-and-brown stripes on the rump and upper legs, large ears and a giraffe-like head.",
+        "zh": "识别重点是大型森林有蹄类：天鹅绒般深褐身体、面部白纹、臀部和大腿醒目的乳白—褐色条纹、大耳及长颈鹿式头形。"
+      },
+      "similar_species": {
+        "en": "No other wild ungulate in its range combines a nearly plain brown trunk with strongly striped upper legs. A zebra has stripes across most of the body and a horse-like mane; giraffes have a much longer neck and patterned trunk.",
+        "zh": "同域野生有蹄类中，没有其他物种同时具有近乎纯褐的躯干和强烈条纹的大腿。斑马全身多处有纹且具马鬃；长颈鹿颈更长，躯干也有斑纹。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Large ears and acute hearing are valuable in dense forest. Scent marking and the flehmen response carry chemical information, while calves and adults also use bleats, chuffs and moans.",
+      "zh": "大耳和敏锐听觉适合浓密森林；气味标记与裂唇嗅反应传递化学信息，幼仔和成体还会发出咩叫、喷气声与低吟。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding can occur through the year rather than in one short season. Rainfall and forest productivity alter browsing conditions, but the species does not make long seasonal migrations.",
+      "zh": "繁殖可全年发生，并非局限于短暂季节。降雨和森林生产力会改变取食条件，但该物种不会进行长距离季节迁徙。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The Okapi is a national symbol of the Democratic Republic of the Congo and a flagship for Ituri forest protection. It is shy and should never be pursued through dense habitat for a closer photograph.",
+      "zh": "霍加狓是刚果民主共和国的国家象征，也是伊图里森林保护的旗舰物种。它性情隐秘，不应为近距离拍摄而在密林中追逐。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Okapi belongs to genus Okapia, family Giraffidae, order Artiodactyla. This record uses the accepted species-level binomial Okapia johnstoni; facts and images are not transferred from close relatives.",
+      "zh": "霍加狓归入霍加狓属、长颈鹿科、偶蹄目。本条目采用接受的物种级二名法Okapia johnstoni；不会从近缘种移用事实或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks show two main hoof impressions like other even-toed ungulates. Browsed leaves, dung and camera-trap images are usually more reliable than direct sightings in dense forest.",
+      "zh": "足迹与其他偶蹄类相似，留下两个主要蹄印。在密林中，取食过的叶片、粪便和红外相机影像通常比直接目击更可靠。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Despite its zebra-like legs, the Okapi is a member of the giraffe family.",
+          "zh": "尽管腿纹像斑马，霍加狓仍属于长颈鹿科。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its tongue is long enough to clean parts of its own face and ears.",
+          "zh": "它的舌长到可以清洁自己面部和耳部。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "A newborn calf follows a hiding strategy and spends long periods quietly concealed.",
+          "zh": "新生幼仔采用隐蔽策略，会长时间安静藏匿。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Calf hiding and maternal care",
+          "zh": "幼仔隐蔽与母兽照护"
+        },
+        "content": {
+          "en": "A mother leaves her calf concealed for long intervals and returns to nurse. This reduces scent and movement around the calf while it is most vulnerable to predators.",
+          "zh": "母兽会让幼仔长时间藏匿，并定期返回哺乳；这能在幼仔最易受捕食时减少其周围的气味与活动。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Endemic to the Democratic Republic of the Congo, principally the central, northern and eastern rainforest belt, including the Ituri and Maiko forest regions. It uses high-canopy rainforest and forest edges, generally avoiding open or waterlogged ground.",
+    "text_zh": "仅分布于刚果民主共和国，主要位于中部、北部和东部雨林带，包括伊图里和迈科森林地区。它利用高冠层雨林及林缘，通常避开开阔地和长期积水地。",
+    "map_coordinates": [
+      2.5,
+      27
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          5.2,
+          22
+        ],
+        [
+          5.5,
+          28.5
+        ],
+        [
+          2.4,
+          30.3
+        ],
+        [
+          -1.8,
+          29.4
+        ],
+        [
+          -3.2,
+          25.3
+        ],
+        [
+          -1.2,
+          21.5
+        ],
+        [
+          5.2,
+          22
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional distribution evidence for readable map display; boundaries are approximate and never imply continuous occupancy.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布证据作保守概化，以便地图清晰呈现；边界为近似范围，绝不表示圈内连续分布。",
+      "checked_at": "2026-11-12"
+    }
+  },
+  "image": "/images/animals/okapi.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/2441207",
+      "checked_at": "2026-11-12"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through GBIF",
+      "url": "https://api.gbif.org/v1/species/2441207/iucnRedListCategory",
+      "checked_at": "2026-11-12"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Okapia_johnstoni/",
+      "checked_at": "2026-11-12"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Okapia_johnstoni/",
+      "checked_at": "2026-11-12"
+    },
+    "range": {
+      "authority": "Animal Diversity Web geographic-range account",
+      "url": "https://animaldiversity.org/accounts/Okapia_johnstoni/",
+      "checked_at": "2026-11-12"
+    }
+  }
+}

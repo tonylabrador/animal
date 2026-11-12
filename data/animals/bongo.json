@@ -1,0 +1,412 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-11-12",
+    "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+    "notes": "Every English and Chinese section was compared line by line. Accepted species identity, IUCN scope, numeric claims, map generalization and look-alike image risks were checked against the cited sources. Generalized polygons do not imply continuous occupancy."
+  },
+  "id": "bongo",
+  "name_zh": "紫羚",
+  "name_en": "Bongo",
+  "scientific_name": "Tragelaphus eurycerus",
+  "ui_tags": [
+    "Mammal",
+    "Forest",
+    "Herbivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Artiodactyla",
+      "zh": "偶蹄目"
+    },
+    "family": {
+      "en": "Bovidae",
+      "zh": "牛科"
+    },
+    "genus": {
+      "en": "Tragelaphus",
+      "zh": "薮羚属"
+    }
+  },
+  "conservation_status": {
+    "code": "NT",
+    "en": "Near Threatened",
+    "zh": "近危",
+    "note_en": "The species-level global category checked on 2026-11-12 is Near Threatened; regional and legal listings may differ.",
+    "note_zh": "已于2026-11-12核对物种级全球等级为近危；地区和法律名录可能不同。"
+  },
+  "description": {
+    "en": "The Bongo is the largest African forest antelope, with a rich chestnut coat crossed by narrow pale stripes. Both females and males carry long spiral horns and move through dense rainforest and mountain bamboo.",
+    "zh": "紫羚是最大的非洲森林羚羊，栗红色被毛横贯狭窄浅色条纹。雌雄都有长螺旋角，活动于浓密雨林和山地竹林。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults weigh about 210–405 kg. The chestnut to dark-brown body bears 10–15 pale vertical stripes, large ears, facial chevrons and spiraled horns about 75–99 cm long; males are heavier and darken with age.",
+      "zh": "成体体重约210–405千克。栗红至深褐身体有10–15条浅色竖纹，并具大耳、面部V纹和约75–99厘米长的螺旋角；雄性更重，随年龄颜色变深。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Bongos browse leaves, shoots, herbs and bamboo and regularly visit mineral licks. They are shy and use dense cover by day, moving alone or in small groups; herds can form where food is concentrated.",
+      "zh": "紫羚取食叶、嫩枝、草本和竹，并经常访问矿物盐碱地。它们隐秘，白天利用浓密植被，单独或小群活动；食物集中时会形成较大群。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Patchily distributed in central and western African forests, with an isolated mountain population in Kenya. It depends on dense lowland rainforest, forest clearings and montane forest or bamboo zones.",
+      "zh": "斑块状分布于非洲中部和西部森林，肯尼亚另有隔离山地种群。它依赖浓密低地雨林、林中空地以及山地森林或竹林带。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "body_mass",
+        "label": {
+          "en": "Body mass",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 210–405 kg",
+          "zh": "约210–405千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "horn_length",
+        "label": {
+          "en": "Horn length",
+          "zh": "角长"
+        },
+        "value": {
+          "en": "About 75–99 cm",
+          "zh": "约75–99厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "gestation",
+        "label": {
+          "en": "Gestation",
+          "zh": "妊娠期"
+        },
+        "value": {
+          "en": "About 282–285 days",
+          "zh": "约282–285天"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "body_stripes",
+        "label": {
+          "en": "Pale body stripes",
+          "zh": "浅色体纹"
+        },
+        "value": {
+          "en": "Usually 10–15",
+          "zh": "通常10–15条"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "After a pregnancy of about 282–285 days, the female usually bears 1 calf. The newborn is concealed in dense vegetation and later follows its mother; reproduction in mountain populations can show seasonal timing.",
+      "zh": "妊娠约282–285天后，雌性通常产1仔。新生幼仔藏在浓密植被中，之后跟随母兽；山地种群繁殖可能呈季节性。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Forest stripes",
+          "zh": "森林条纹"
+        },
+        "detail": {
+          "en": "Narrow pale bars break the body outline among vertical stems and shafts of light.",
+          "zh": "狭窄浅色条纹在竖直茎秆和光柱间切割身体轮廓。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Swept-back horns",
+          "zh": "后掠螺旋角"
+        },
+        "detail": {
+          "en": "Horns angled along the back reduce snagging when the head is lowered through tangled cover.",
+          "zh": "角沿背部方向后掠，低头穿过缠结植被时减少挂住。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Broad ears",
+          "zh": "宽大耳"
+        },
+        "detail": {
+          "en": "Large mobile ears detect faint sounds where visibility is short.",
+          "zh": "宽大活动耳可在视距很短的森林中捕捉微弱声音。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "As a large browser, the Bongo shapes understory vegetation and carries nutrients between forest, clearings and mineral licks. It is also prey for large carnivores and a host for parasites.",
+      "zh": "作为大型食叶兽，紫羚影响林下植被，并在森林、空地和盐碱地间搬运营养；它也是大型食肉动物的猎物和寄生生物宿主。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "The global population is Near Threatened and decreasing. Forest loss and fragmentation, hunting with dogs and snares, disease from livestock and isolation of the Kenyan mountain population drive risk.",
+        "zh": "全球为近危且正在下降。森林丧失与破碎化、犬和套索猎捕、家畜传播疾病，以及肯尼亚山地种群的隔离共同造成风险。"
+      },
+      "actions": {
+        "en": "Protect connected forest, secure mineral licks and corridors, remove snares, regulate hunting and livestock contact, and maintain genetically managed conservation breeding for the highly restricted mountain population.",
+        "zh": "应保护连通森林、盐碱地和廊道，清除套索，管制猎捕及家畜接触，并为高度受限的山地种群维持遗传管理的保育繁育。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A very large chestnut forest antelope with 10–15 narrow pale body stripes, white facial markings, large ears and long heavy spiral horns in both sexes.",
+        "zh": "大型栗红森林羚羊，身体有10–15条狭窄浅纹，面部有白纹，耳大，雌雄都具粗长螺旋角。"
+      },
+      "similar_species": {
+        "en": "Sitatungas and bushbucks are related but smaller and differ in stripe pattern, build and hoof form. Exact images should show the Bongo's heavy body, numerous narrow stripes and long paired horns.",
+        "zh": "水羚和薮羚为近亲但体形更小，条纹、体格和蹄形不同。准确图片应显示紫羚厚重身体、多条狭纹和成对长角。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Large ears and smell compensate for short sightlines. Soft calls, scent and posture maintain contact, while the white facial and body markings may provide close-range visual signals.",
+      "zh": "大耳和嗅觉弥补短视距；柔和叫声、气味和姿态用于联络，面部及身体白纹可能提供近距离视觉信号。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Lowland forest reproduction is not fully synchronized, while Kenyan mountain bongos show more seasonal breeding. Movements track fresh growth, cover and access to mineral licks.",
+      "zh": "低地森林种群繁殖并非完全同步，肯尼亚山地紫羚季节性更明显。活动随新生植物、隐蔽条件和盐碱地可达性变化。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Bongos are hunted for meat and trophies but are also flagship animals for African forest protection. Tourism and conservation breeding must support habitat and anti-snare work rather than expose locations.",
+      "zh": "紫羚会因肉和战利品遭猎捕，也是非洲森林保护的旗舰动物。旅游和保育繁育应支持生境及反套索工作，而不是暴露具体位置。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Bongo belongs to genus Tragelaphus, family Bovidae, order Artiodactyla. This record uses the accepted species-level binomial Tragelaphus eurycerus; facts and images are not transferred from close relatives.",
+      "zh": "紫羚归入薮羚属、牛科、偶蹄目。本条目采用接受的物种级二名法Tragelaphus eurycerus；不会从近缘种移用事实或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Tracks are broad paired hoof marks; trails through dense cover may lead to mineral licks. Camera traps often provide the safest confirmation of sex, stripe pattern and group size.",
+      "zh": "足迹是宽大的成对蹄印；浓密植被中的兽径可能通向盐碱地。红外相机常是确认性别、条纹和群体大小的最安全方式。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "It is the largest African forest antelope.",
+          "zh": "它是最大的非洲森林羚羊。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Both females and males grow spiral horns.",
+          "zh": "雌性和雄性都会长出螺旋角。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its pale stripes help break up the body among stems and forest light.",
+          "zh": "浅色条纹有助于在茎秆和林下光线中切割轮廓。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Hidden calf strategy",
+          "zh": "幼仔隐蔽策略"
+        },
+        "content": {
+          "en": "A newborn remains concealed in thick vegetation while the mother returns to nurse. Stillness and striped coloration reduce detection during the most vulnerable early stage.",
+          "zh": "新生幼仔藏在浓密植被中，母兽定期返回哺乳；静止和条纹体色降低最脆弱早期阶段的被发现概率。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Patchily distributed in central and western African forests, with an isolated mountain population in Kenya. It depends on dense lowland rainforest, forest clearings and montane forest or bamboo zones.",
+    "text_zh": "斑块状分布于非洲中部和西部森林，肯尼亚另有隔离山地种群。它依赖浓密低地雨林、林中空地以及山地森林或竹林带。",
+    "map_coordinates": [
+      1,
+      20
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          8,
+          -14
+        ],
+        [
+          7,
+          10
+        ],
+        [
+          4,
+          28
+        ],
+        [
+          -6,
+          29
+        ],
+        [
+          -7,
+          12
+        ],
+        [
+          1,
+          -14
+        ],
+        [
+          8,
+          -14
+        ]
+      ],
+      [
+        [
+          1.5,
+          36
+        ],
+        [
+          0.5,
+          38.5
+        ],
+        [
+          -1.5,
+          38
+        ],
+        [
+          -1,
+          36
+        ],
+        [
+          1.5,
+          36
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional distribution evidence for readable map display; boundaries are approximate and never imply continuous occupancy.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布证据作保守概化，以便地图清晰呈现；边界为近似范围，绝不表示圈内连续分布。",
+      "checked_at": "2026-11-12"
+    }
+  },
+  "image": "/images/animals/bongo.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/5220180",
+      "checked_at": "2026-11-12"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through GBIF",
+      "url": "https://api.gbif.org/v1/species/5220180/iucnRedListCategory",
+      "checked_at": "2026-11-12"
+    },
+    "general": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Tragelaphus_eurycerus/",
+      "checked_at": "2026-11-12"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web, University of Michigan Museum of Zoology",
+      "url": "https://animaldiversity.org/accounts/Tragelaphus_eurycerus/",
+      "checked_at": "2026-11-12"
+    },
+    "range": {
+      "authority": "Mammal Diversity Database",
+      "url": "https://www.mammaldiversity.org/taxon/1006095/",
+      "checked_at": "2026-11-12"
+    }
+  }
+}

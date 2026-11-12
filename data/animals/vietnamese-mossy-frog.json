@@ -1,0 +1,382 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-11-12",
+    "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+    "notes": "Every English and Chinese section was compared line by line. Accepted species identity, IUCN scope, numeric claims, map generalization and look-alike image risks were checked against the cited sources. Generalized polygons do not imply continuous occupancy."
+  },
+  "id": "vietnamese-mossy-frog",
+  "name_zh": "越南苔藓蛙",
+  "name_en": "Vietnamese Mossy Frog",
+  "scientific_name": "Theloderma corticale",
+  "ui_tags": [
+    "Amphibian",
+    "Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Amphibia",
+      "zh": "两栖纲"
+    },
+    "order": {
+      "en": "Anura",
+      "zh": "无尾目"
+    },
+    "family": {
+      "en": "Rhacophoridae",
+      "zh": "树蛙科"
+    },
+    "genus": {
+      "en": "Theloderma",
+      "zh": "棱皮树蛙属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The species-level global category checked on 2026-11-12 is Least Concern; regional and legal listings may differ.",
+    "note_zh": "已于2026-11-12核对物种级全球等级为无危；地区和法律名录可能不同。"
+  },
+  "description": {
+    "en": "The Vietnamese Mossy Frog is a northern Vietnamese tree frog whose green, black and brown tubercled skin closely resembles wet moss. It lives around shaded forest pools and limestone habitats and may curl into a ball and remain still when threatened.",
+    "zh": "越南苔藓蛙是越南北部的树蛙，绿色、黑色和褐色的疣状皮肤酷似湿苔藓。它生活在阴湿森林水池和石灰岩生境附近，受威胁时会蜷成一团并保持不动。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are roughly 7–9 cm long. The head is broad, toe pads aid climbing, and the upper surface bears irregular bumps and mottled colors that break up the body outline against mossy rock and bark.",
+      "zh": "成体体长约7–9厘米。头部宽，趾垫帮助攀爬；背面不规则突起和斑驳颜色能在苔藓岩石及树皮背景中切割身体轮廓。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It is primarily nocturnal and eats insects and other small invertebrates. Frogs remain near cool, shaded water and vegetation; stillness and camouflage are the first defense, followed by a curled feigning-death posture.",
+      "zh": "它主要夜间活动，捕食昆虫等小型无脊椎动物。个体停留在凉爽阴湿水域和植被附近，首先依靠静止和伪装，随后可蜷曲并呈假死姿态。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Known from northern Vietnam and adjacent southern China in humid evergreen forest, especially limestone landscapes with rocky pools, flooded cavities and slow water. The displayed polygon is deliberately conservative.",
+      "zh": "已知分布于越南北部及中国南部邻近地区的湿润常绿林，尤其是具有岩池、积水洞穴和缓流水体的石灰岩景观。地图范围采用保守概化。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "adult_length",
+        "label": {
+          "en": "Adult length",
+          "zh": "成体体长"
+        },
+        "value": {
+          "en": "About 7–9 cm",
+          "zh": "约7–9厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "metamorphosis",
+        "label": {
+          "en": "Tadpole metamorphosis",
+          "zh": "蝌蚪变态"
+        },
+        "value": {
+          "en": "About 3 months",
+          "zh": "约3个月"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Primarily nocturnal",
+          "zh": "主要夜行"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "defense",
+        "label": {
+          "en": "Defensive posture",
+          "zh": "防御姿态"
+        },
+        "value": {
+          "en": "Curls into a ball and may feign death",
+          "zh": "蜷成一团并可能假死"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Eggs are placed above or at sheltered water, and hatchlings drop or move into the pool as tadpoles. Metamorphosis from tadpole to frog takes about 3 months under managed conditions; exact timing varies with temperature and food.",
+      "zh": "卵产在受保护水体上方或水边，孵化后幼体落入或进入水池成为蝌蚪。在人工照护条件下，蝌蚪到幼蛙的变态约需3个月；准确时间会随温度和食物变化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Moss-like skin",
+          "zh": "苔藓状皮肤"
+        },
+        "detail": {
+          "en": "Bumps and irregular green-black patterning scatter highlights and resemble wet moss.",
+          "zh": "突起和不规则绿黑斑纹分散高光，酷似湿苔藓。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Adhesive toe pads",
+          "zh": "黏附趾垫"
+        },
+        "detail": {
+          "en": "Expanded toe tips grip vegetation and wet rock around forest pools.",
+          "zh": "扩大的趾端可抓附森林水池周围的植被和湿岩。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Death-feigning curl",
+          "zh": "蜷曲假死"
+        },
+        "detail": {
+          "en": "Drawing in the limbs hides the frog's outline and makes it resemble a lump of moss.",
+          "zh": "收拢四肢可隐藏蛙的轮廓，使其更像一团苔藓。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "It transfers energy from forest invertebrates to larger predators and links terrestrial forest with aquatic breeding pools. Tadpoles also participate in small-pool nutrient cycles.",
+      "zh": "它把森林无脊椎动物的能量传递给更大型捕食者，并连接陆地森林与水生繁殖池；蝌蚪也参与小型水池的营养循环。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Globally assessed as Least Concern, but suitable forest and clean breeding pools are locally threatened by clearing, development, water alteration and collection for the international pet trade. The population trend is decreasing.",
+        "zh": "全球评估为无危，但适宜森林和清洁繁殖池在局地受到砍伐、开发、水文改变及国际宠物贸易捕捉的威胁；种群趋势正在下降。"
+      },
+      "actions": {
+        "en": "Protect humid limestone forest and small water bodies, prevent pollution and destructive collection, maintain disease-screened assurance populations and require legal, traceable captive breeding in trade.",
+        "zh": "应保护湿润石灰岩森林和小型水体，防止污染及破坏性捕捉，维持经过疾病筛查的保育种群，并要求贸易个体来自合法、可追溯的人工繁育。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A robust green frog with black and brown marbling, heavily tubercled moss-like skin, large round toe pads and a broad head. The eye is prominent but the body outline is broken by irregular bumps.",
+        "zh": "体形结实，绿色底上有黑褐大理石纹，皮肤疣突呈苔藓状，圆形趾垫大，头宽。眼睛醒目，但不规则突起使身体轮廓破碎。"
+      },
+      "similar_species": {
+        "en": "Other Theloderma species may mimic bark or lichen. Exact identification requires the characteristic coarse green-black moss pattern, body proportions and a locality within the verified range; a generic 'mossy frog' label is insufficient.",
+        "zh": "其他棱皮树蛙属物种也会模拟树皮或地衣。准确识别需要典型粗糙绿黑苔藓纹、相应体形比例及可信分布地点；仅有“苔藓蛙”标签并不足够。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Large eyes support nocturnal hunting, while toe and skin contact help position the frog on wet surfaces. Males use calls near breeding water, though quiet hidden animals are often found visually.",
+      "zh": "大眼适合夜间捕猎，趾部和皮肤接触帮助它在湿滑表面定位。雄蛙会在繁殖水体附近鸣叫，但安静隐蔽的个体常靠视觉寻找。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding activity follows warm, wet conditions and available pools. In managed care reproduction can be supported beyond a narrow wild season, so captive timing should not be treated as a precise wild calendar.",
+      "zh": "繁殖活动随温暖潮湿条件和可用水池变化。人工照护可把繁殖延伸到野外狭窄季节之外，因此不能把圈养时间直接视为精确野外日历。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "It is popular in amphibian collections, but wild-caught trade can damage small local populations and spread pathogens. Keepers should use legal captive-bred animals and never release pets.",
+      "zh": "它在两栖饲养中很受欢迎，但野外捕捉会损害小型地方种群并传播病原体。饲养者应选择合法人工繁育个体，绝不能放生宠物。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Vietnamese Mossy Frog belongs to genus Theloderma, family Rhacophoridae, order Anura. This record uses the accepted species-level binomial Theloderma corticale; facts and images are not transferred from close relatives.",
+      "zh": "越南苔藓蛙归入棱皮树蛙属、树蛙科、无尾目。本条目采用接受的物种级二名法Theloderma corticale；不会从近缘种移用事实或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "At night, inspect mossy rocks, trunks and vegetation around quiet shaded pools without touching animals. A frog may remain motionless or curl tightly when disturbed; record calls and locality while minimizing light and handling.",
+      "zh": "夜间可在安静阴湿水池周围检查苔岩、树干和植被，避免触摸。受扰个体可能静止或紧密蜷曲；应记录叫声与地点，并尽量减少照明和接触。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Its camouflage works through both color and three-dimensional skin texture.",
+          "zh": "它的伪装同时依赖颜色和三维皮肤纹理。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "When frightened it may curl up and remain motionless as if dead.",
+          "zh": "受惊时它可能蜷缩不动，看似死亡。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Managed populations have completed metamorphosis in about 3 months.",
+          "zh": "人工照护种群的变态过程约需3个月。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Amphibian metamorphosis",
+          "zh": "两栖变态发育"
+        },
+        "content": {
+          "en": "Aquatic tadpoles transform into air-breathing, climbing juveniles as gills and tail are resorbed and limbs develop. Clean, cool water is essential during this transition.",
+          "zh": "水生蝌蚪在鳃和尾被吸收、四肢发育后，转变为用肺呼吸并可攀爬的幼蛙；这一阶段需要清洁凉爽的水。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Known from northern Vietnam and adjacent southern China in humid evergreen forest, especially limestone landscapes with rocky pools, flooded cavities and slow water. The displayed polygon is deliberately conservative.",
+    "text_zh": "已知分布于越南北部及中国南部邻近地区的湿润常绿林，尤其是具有岩池、积水洞穴和缓流水体的石灰岩景观。地图范围采用保守概化。",
+    "map_coordinates": [
+      22.5,
+      105.3
+    ],
+    "map_zoom_level": 6,
+    "global_distribution_polygons": [
+      [
+        [
+          20.3,
+          103
+        ],
+        [
+          25.2,
+          103.7
+        ],
+        [
+          25.6,
+          107.7
+        ],
+        [
+          21.2,
+          108.1
+        ],
+        [
+          20.3,
+          103
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional distribution evidence for readable map display; boundaries are approximate and never imply continuous occupancy.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布证据作保守概化，以便地图清晰呈现；边界为近似范围，绝不表示圈内连续分布。",
+      "checked_at": "2026-11-12"
+    }
+  },
+  "image": "/images/animals/vietnamese-mossy-frog.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/5217217",
+      "checked_at": "2026-11-12"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through GBIF",
+      "url": "https://api.gbif.org/v1/species/5217217/iucnRedListCategory",
+      "checked_at": "2026-11-12"
+    },
+    "general": {
+      "authority": "Smithsonian's National Zoo and Conservation Biology Institute",
+      "url": "https://www.nationalzoo.si.edu/animals/vietnamese-mossy-frog",
+      "checked_at": "2026-11-12"
+    },
+    "ecology": {
+      "authority": "Smithsonian's National Zoo and Conservation Biology Institute",
+      "url": "https://www.nationalzoo.si.edu/animals/vietnamese-mossy-frog",
+      "checked_at": "2026-11-12"
+    },
+    "range": {
+      "authority": "Smithsonian's National Zoo native-habitat account",
+      "url": "https://www.nationalzoo.si.edu/animals/vietnamese-mossy-frog",
+      "checked_at": "2026-11-12"
+    }
+  }
+}

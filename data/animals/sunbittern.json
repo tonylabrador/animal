@@ -1,0 +1,402 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-11-12",
+    "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+    "notes": "Every English and Chinese section was compared line by line. Accepted species identity, IUCN scope, numeric claims, map generalization and look-alike image risks were checked against the cited sources. Generalized polygons do not imply continuous occupancy."
+  },
+  "id": "sunbittern",
+  "name_zh": "日鳽",
+  "name_en": "Sunbittern",
+  "scientific_name": "Eurypyga helias",
+  "ui_tags": [
+    "Bird",
+    "Wetland",
+    "Carnivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Eurypygiformes",
+      "zh": "日鳽目"
+    },
+    "family": {
+      "en": "Eurypygidae",
+      "zh": "日鳽科"
+    },
+    "genus": {
+      "en": "Eurypyga",
+      "zh": "日鳽属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The species-level global category checked on 2026-11-12 is Least Concern; regional and legal listings may differ.",
+    "note_zh": "已于2026-11-12核对物种级全球等级为无危；地区和法律名录可能不同。"
+  },
+  "description": {
+    "en": "The Sunbittern is a slender streamside bird of tropical America. Its closed wings look cryptically brown, but a threat display suddenly reveals large orange, chestnut, black and white eyespots across both wings.",
+    "zh": "日鳽是热带美洲溪边的纤细鸟类。合翼时呈隐蔽褐色，威吓时却会突然展开双翼，露出橙、栗、黑、白相间的大型眼斑。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults have long legs, a slender neck, a straight pointed bill and soft barred plumage. Red eyes are bordered by facial stripes; the spread wings expose bright semicircular patches that are hidden at rest.",
+      "zh": "成鸟腿长、颈细、喙直而尖，被羽柔软且有横纹。红眼周围有面纹；展开的翅露出鲜艳半圆斑，休息时完全隐藏。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Usually solitary or paired, Sunbitterns walk slowly along shaded streams and forest pools, taking insects, crustaceans, small fishes, frogs and other small animals. They fly to trees when alarmed.",
+      "zh": "日鳽通常单独或成对，在阴湿溪流和森林水池边缓慢行走，捕食昆虫、甲壳动物、小鱼、蛙等小动物；受惊时会飞上树。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Patchily distributed from southern Mexico and Guatemala through Central America into northern and central South America, especially wooded banks of streams, creeks and forest wetlands.",
+      "zh": "斑块状分布于墨西哥南部和危地马拉，经中美洲延伸至南美洲北部和中部，尤其栖息在林木覆盖的溪流、沟渠及森林湿地岸边。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "clutch",
+        "label": {
+          "en": "Typical clutch",
+          "zh": "常见窝卵数"
+        },
+        "value": {
+          "en": "2–3 eggs",
+          "zh": "2–3枚卵"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "incubation",
+        "label": {
+          "en": "Incubation",
+          "zh": "孵化期"
+        },
+        "value": {
+          "en": "About 28 days",
+          "zh": "约28天"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "nest_height",
+        "label": {
+          "en": "Nest height",
+          "zh": "巢高"
+        },
+        "value": {
+          "en": "About 3–6 m",
+          "zh": "约3–6米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "social",
+        "label": {
+          "en": "Social pattern",
+          "zh": "社会方式"
+        },
+        "value": {
+          "en": "Usually solitary or paired",
+          "zh": "通常单独或成对"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "A pair builds a shallow cup of sticks, mud and decaying vegetation about 3–6 m above ground. Both adults incubate 2–3 eggs for about 28 days and feed and defend the chicks.",
+      "zh": "配偶在离地约3–6米处用枝条、泥和腐植物筑浅杯巢。双亲共同孵育2–3枚卵约28天，并喂养和保护雏鸟。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Hidden wing eyespots",
+          "zh": "隐藏翼眼斑"
+        },
+        "detail": {
+          "en": "Sudden exposure of high-contrast patches startles or redirects an approaching threat.",
+          "zh": "突然露出高对比斑块，可惊吓或转移逼近的威胁。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Streamside stalking",
+          "zh": "溪边潜行"
+        },
+        "detail": {
+          "en": "Long legs, neck and pointed bill support precise strikes in shallow water and leaf litter.",
+          "zh": "长腿、长颈和尖喙适合在浅水与落叶层精确出击。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Cryptic closed wings",
+          "zh": "合翼隐蔽"
+        },
+        "detail": {
+          "en": "Fine brown barring blends with branches, stones and dappled shade when the display is folded away.",
+          "zh": "展示斑收起后，细密褐纹融入枝条、石块和斑驳阴影。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "It is a small predator connecting stream invertebrates, fishes and amphibians with larger forest predators. Nest materials and prey movement also link riparian water and vegetation.",
+      "zh": "它是小型捕食者，把溪流无脊椎动物、鱼和两栖类与更大型森林捕食者联系起来；筑巢材料和猎物移动也连接河岸水体与植被。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "Globally Least Concern but decreasing. Clearing and degradation of wooded stream corridors, pollution, damming and disturbance near nests reduce local habitat quality.",
+        "zh": "全球为无危但正在下降。林木溪流廊道砍伐与退化、污染、筑坝及巢区干扰会降低局地生境质量。"
+      },
+      "actions": {
+        "en": "Protect continuous shaded riparian vegetation, maintain natural stream flow and clean water, prevent disturbance around active nests and include narrow forest waterways in land-use planning.",
+        "zh": "应保护连续阴湿河岸植被，维持自然水流和清洁水质，避免干扰活动巢，并在土地规划中纳入狭窄森林水道。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A heronlike brown bird with a red eye, bold black-and-white face stripes, fine barred body and long orange legs. Spread wings reveal huge orange-chestnut and black eyespot patterns.",
+        "zh": "似鹭的褐色鸟，红眼、醒目黑白面纹、细密横斑身体和橙色长腿；展翅时露出巨大橙栗与黑色眼斑。"
+      },
+      "similar_species": {
+        "en": "Juvenile herons may share a streamside posture but lack the Sunbittern's facial pattern and hidden wing eyespots. The Kagu is a pale New Caledonian relative with a crest and completely different range.",
+        "zh": "幼鹭可能有相似溪边姿态，但没有日鳽的面纹和隐藏翼眼斑。鹭鹤是新喀里多尼亚浅色近亲，有冠羽且分布完全不同。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Sharp vision guides slow stalking and rapid bill strikes. Calls maintain pair contact along noisy streams, while wing and tail displays provide strong visual warnings.",
+      "zh": "敏锐视觉引导缓慢潜行和快速喙击；叫声帮助配偶在嘈杂溪流旁联络，翅尾展示则提供强烈视觉警告。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding varies with regional rains and stream conditions across the broad range. Both parents remain closely tied to the nest through incubation and early chick care.",
+      "zh": "在广阔分布区内，繁殖随地区降雨和溪流条件变化。孵卵和雏鸟早期，双亲都紧密守在巢区。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Quiet observation from a distance can reveal natural stalking and display behavior. Approaching a nest can trigger a broken-wing distraction display and should be avoided.",
+      "zh": "远距离安静观察可看到自然潜行和展示行为。接近巢穴可能触发假装折翼的诱敌展示，应当避免。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Sunbittern belongs to genus Eurypyga, family Eurypygidae, order Eurypygiformes. This record uses the accepted species-level binomial Eurypyga helias; facts and images are not transferred from close relatives.",
+      "zh": "日鳽归入日鳽属、日鳽科、日鳽目。本条目采用接受的物种级二名法Eurypyga helias；不会从近缘种移用事实或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Walk slowly beside shaded streams and listen for low calls. A disturbed adult may spread its wings toward the observer or perform a broken-wing display away from chicks.",
+      "zh": "可沿阴湿溪流缓慢行走并听取低声鸣叫。受扰成鸟可能朝观察者展翅，或在远离雏鸟处表演假折翼。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Its spectacular wing eyespots are almost invisible when the wings are folded.",
+          "zh": "壮观的翼眼斑在合翼时几乎完全看不见。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Both parents incubate the eggs and care for the chicks.",
+          "zh": "双亲都会孵卵并照护雏鸟。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "It is the only living species in family Eurypygidae.",
+          "zh": "它是日鳽科唯一的现生物种。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Nest defense displays",
+          "zh": "护巢展示"
+        },
+        "content": {
+          "en": "Adults can expose wing eyespots to appear larger or feign a broken wing to draw a predator away. The two displays solve different problems: intimidation and distraction.",
+          "zh": "成鸟可露出翼眼斑使自己显得更大，也可假装折翼把捕食者引离；两种展示分别解决威吓和转移注意的问题。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Patchily distributed from southern Mexico and Guatemala through Central America into northern and central South America, especially wooded banks of streams, creeks and forest wetlands.",
+    "text_zh": "斑块状分布于墨西哥南部和危地马拉，经中美洲延伸至南美洲北部和中部，尤其栖息在林木覆盖的溪流、沟渠及森林湿地岸边。",
+    "map_coordinates": [
+      5,
+      -70
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          18,
+          -96
+        ],
+        [
+          18,
+          -82
+        ],
+        [
+          8,
+          -76
+        ],
+        [
+          -2,
+          -78
+        ],
+        [
+          -15,
+          -70
+        ],
+        [
+          -20,
+          -50
+        ],
+        [
+          3,
+          -45
+        ],
+        [
+          12,
+          -61
+        ],
+        [
+          12,
+          -83
+        ],
+        [
+          18,
+          -96
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional distribution evidence for readable map display; boundaries are approximate and never imply continuous occupancy.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布证据作保守概化，以便地图清晰呈现；边界为近似范围，绝不表示圈内连续分布。",
+      "checked_at": "2026-11-12"
+    }
+  },
+  "image": "/images/animals/sunbittern.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/2474332",
+      "checked_at": "2026-11-12"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through GBIF",
+      "url": "https://api.gbif.org/v1/species/2474332/iucnRedListCategory",
+      "checked_at": "2026-11-12"
+    },
+    "general": {
+      "authority": "Smithsonian's National Zoo and Conservation Biology Institute",
+      "url": "https://nationalzoo.si.edu/animals/sunbittern",
+      "checked_at": "2026-11-12"
+    },
+    "ecology": {
+      "authority": "Smithsonian's National Zoo and Conservation Biology Institute",
+      "url": "https://nationalzoo.si.edu/animals/sunbittern",
+      "checked_at": "2026-11-12"
+    },
+    "range": {
+      "authority": "Smithsonian's National Zoo native-habitat account",
+      "url": "https://nationalzoo.si.edu/animals/sunbittern",
+      "checked_at": "2026-11-12"
+    }
+  }
+}

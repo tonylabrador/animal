@@ -1,14 +1,14 @@
 # Animal QC master to-do list
 
-此台账由 `npm run report:animal-qc` 生成，是 488 只现有动物逐条 QC 的唯一进度来源。`complete` 必须同时通过 Rich Content v2 事实与中英逐条审核、地图审核，以及人工确认且许可可验证的图片审核。
+此台账由 `npm run report:animal-qc` 生成，是 498 只现有动物逐条 QC 的唯一进度来源。`complete` 必须同时通过 Rich Content v2 事实与中英逐条审核、地图审核，以及人工确认且许可可验证的图片审核。
 
 ## Summary
 
-- Total animals: 488
-- Content v2 reviewed: 488
+- Total animals: 498
+- Content v2 reviewed: 498
 - Content still pending: 0
-- Images with verified license and human approval: 449
-- Fully release-gated complete: 449
+- Images with verified license and human approval: 459
+- Fully release-gated complete: 459
 - Still on master to-do list: 39
 
 ## Per-animal ledger
@@ -86,6 +86,7 @@
 | bobcat | Bobcat | 短尾猫 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-03 | — |
 | bohemian-waxwing | Bohemian waxwing | 太平鸟 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-03 | — |
 | bolivian-anaconda | Bolivian Anaconda | 玻利维亚森蚺 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-03 | — |
+| bongo | Bongo | 紫羚 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | bornean-orangutan | Bornean Orangutan | 婆罗洲猩猩 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-03 | — |
 | boulder-brain-coral | Boulder brain coral | 巨型脑珊瑚 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-03 | — |
 | brazilian-treehopper | Brazilian Treehopper | 球冠角蝉 | reviewed-v2 | verified-polygon | verified | complete | — | — |
@@ -188,9 +189,11 @@
 | felis-silvestris | Wildcat | 斑猫 | reviewed-v2 | representative-point | verified | complete | legacy-qc-batch-04 | — |
 | fennec-fox | Fennec Fox | 耳廓狐 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-04 | — |
 | fishing-cat | Fishing Cat | 渔猫 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-04 | — |
+| flamboyant-cuttlefish | Flamboyant Cuttlefish | 火焰乌贼 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | flame-bowerbird | Flame Bowerbird | 辉亭鸟 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-04 | — |
 | flathead-grey-mullet | Flathead Grey Mullet | 鲻鱼 | reviewed-v2 | representative-point | verified | complete | legacy-qc-batch-04 | — |
 | fossa | Fossa | 马岛獴 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-04 | — |
+| frilled-lizard | Frilled Lizard | 领圈蜥 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | galapagos-tortoise | Floreana Giant Tortoise | 弗洛雷亚纳象龟 | reviewed-v2 | representative-point | replacement-needed | todo | legacy-qc-batch-04 | image-replacement-needed |
 | garden-snail | Garden Snail | 花园蜗牛 | reviewed-v2 | representative-point | verified | complete | legacy-qc-batch-04 | — |
 | gelada | Gelada | 狮尾狒狒 | reviewed-v2 | verified-polygon | verified | complete | — | — |
@@ -255,6 +258,7 @@
 | harpy-eagle | Harpy Eagle | 角雕 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-05 | — |
 | hawaiian-bobtail-squid | Hawaiian Bobtail Squid | 夏威夷短尾乌贼 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-05 | — |
 | hectors-dolphin | Hector's dolphin | 赫氏矮海豚 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-05 | — |
+| helmeted-hornbill | Helmeted Hornbill | 盔犀鸟 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | himalayan-monal | Himalayan Monal | 棕尾虹雉 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-05 | — |
 | hippopotamus | Hippopotamus | 河马 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-05 | — |
 | hoatzin | Hoatzin | 麝雉 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-05 | — |
@@ -358,6 +362,7 @@
 | ocellaris-clownfish | Ocellaris Clownfish | 眼斑双锯鱼(小丑鱼) | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | ocelot | Ocelot | 虎猫 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | oilbird | Oilbird | 油鸱 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
+| okapi | Okapi | 霍加狓 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | olm | Olm | 洞螈 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | orca | Orca | 虎鲸 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | orchid-mantis | Orchid Mantis | 兰花螳螂 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
@@ -433,6 +438,7 @@
 | snowy-owl | Snowy Owl | 雪鸮 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | south-african-springhare | South African Springhare | 南非跳兔 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | south-american-tapir | South American tapir | 南美貘 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
+| southern-aardwolf | Southern Aardwolf | 南方土狼 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | southern-black-widow | Southern Black Widow | 南方黑寡妇 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | southern-blue-ringed-octopus | Southern Blue-ringed Octopus | 南方蓝环章鱼 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | southern-cassowary | Southern Cassowary | 南方鹤鸵 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
@@ -450,6 +456,7 @@
 | striped-skunk | Striped Skunk | 条纹臭鼬 | reviewed-v2 | legacy-polygon-retained | replacement-needed | todo | legacy-qc-batch-06 | image-replacement-needed |
 | sugar-glider | Sugar glider | 蜜袋鼯 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | summer-tanager | Summer Tanager | 夏唐纳雀 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
+| sunbittern | Sunbittern | 日鳽 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | sunda-colugo | Sunda Colugo | 巽他鼯猴 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | sunda-pangolin | Sunda Pangolin | 马来穿山甲 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | superb-fairy-wren | Superb Fairy-wren | 壮丽细尾鹩莺 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
@@ -460,12 +467,14 @@
 | temmincks-tragopan | Temminck's Tragopan | 红腹角雉 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | texas-horned-lizard | Texas Horned Lizard | 德克萨斯角蜥 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | thorn-bug | Thorn Bug | 刺角蝉 | reviewed-v2 | legacy-polygon-retained | replacement-needed | todo | legacy-qc-batch-06 | image-replacement-needed |
+| thorny-devil | Thorny Devil | 澳洲魔蜥 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | three-banded-armadillo | Brazilian Three-banded Armadillo | 三带犰狳 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | tibetan-antelope | Tibetan Antelope | 藏羚羊 | reviewed-v2 | representative-point | replacement-needed | todo | legacy-qc-batch-06 | image-replacement-needed |
 | tiger | Tiger | 老虎 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | tiger-puffer | Tiger Puffer | 红鳍东方鲀 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | tiger-shark | Tiger shark | 鼬鲨 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | toco-toucan | Toco Toucan | 巨嘴鸟 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
+| true-giant-clam | True Giant Clam | 大砗磲 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | tuatara | Tuatara | 斑点楔齿蜥 | reviewed-v2 | representative-point | verified | complete | — | — |
 | tufted-deer | Tufted deer | 毛冠鹿 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | tufted-puffin | Tufted puffin | 簇绒海鹦 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
@@ -477,6 +486,7 @@
 | victoria-crowned-pigeon | Victoria Crowned Pigeon | 维多利亚冠鸠 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | victorian-grassland-earless-dragon | Victorian grassland earless dragon | 维多利亚草原无耳龙 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | vicuna | Vicuña | 小羊驼 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
+| vietnamese-mossy-frog | Vietnamese Mossy Frog | 越南苔藓蛙 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | violet-blanket-octopus | Violet Blanket Octopus | 紫毯章鱼 | reviewed-v2 | verified-polygon | verified | complete | — | — |
 | virginia-opossum | Virginia Opossum | 北美负鼠 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |
 | wallaces-flying-frog | Wallace's Flying Frog | 华莱士飞蛙 | reviewed-v2 | legacy-polygon-retained | verified | complete | legacy-qc-batch-06 | — |

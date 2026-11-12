@@ -1,0 +1,390 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-11-12",
+    "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+    "notes": "Every English and Chinese section was compared line by line. Accepted species identity, IUCN scope, numeric claims, map generalization and look-alike image risks were checked against the cited sources. Generalized polygons do not imply continuous occupancy."
+  },
+  "id": "thorny-devil",
+  "name_zh": "澳洲魔蜥",
+  "name_en": "Thorny Devil",
+  "scientific_name": "Moloch horridus",
+  "ui_tags": [
+    "Reptile",
+    "Desert",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Agamidae",
+      "zh": "鬣蜥科"
+    },
+    "genus": {
+      "en": "Moloch",
+      "zh": "魔蜥属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The species-level global category checked on 2026-11-12 is Least Concern; regional and legal listings may differ.",
+    "note_zh": "已于2026-11-12核对物种级全球等级为无危；地区和法律名录可能不同。"
+  },
+  "description": {
+    "en": "The Thorny Devil is a small Australian desert lizard covered in conical spines. It specializes on ants and can move dew, rain or moisture from damp sand through microscopic skin channels toward its mouth.",
+    "zh": "澳洲魔蜥是覆盖锥形棘刺的小型澳大利亚荒漠蜥蜴。它专食蚂蚁，并能通过皮肤微细沟槽，把露水、雨水或湿沙中的水分导向嘴部。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults reach about 9 cm snout–vent length, with a broad low body, short legs, a spiny tail and a knoblike false head behind the real head. Color varies from yellow and tan to reddish brown with temperature and background.",
+      "zh": "成体吻肛长约9厘米，身体宽而低，四肢短，尾部多刺，真头后方还有瘤状“假头”。体色会随温度和背景在黄褐、沙褐到红褐之间变化。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "It walks slowly across sand plains, spinifex and arid scrub, feeding mainly on small ants. Individuals shelter from extreme heat and cold in shallow burrows or under vegetation and use rocking, freezing and spines in defense.",
+      "zh": "它在沙原、三齿稃草地和干旱灌丛中缓慢行走，主要捕食小型蚂蚁。个体会躲入浅洞或植被下避开极端冷热，并以摇摆、静止和棘刺防御。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Endemic to arid and semi-arid inland Australia, from western Queensland through the Northern Territory and South Australia across much of Western Australia. It occupies sandy plains, dunes, spinifex and dry scrub.",
+      "zh": "特有于澳大利亚内陆干旱和半干旱区，从昆士兰西部经北领地、南澳大利亚延伸到西澳大利亚大部，栖息于沙原、沙丘、三齿稃草地和干灌丛。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "snout_vent_length",
+        "label": {
+          "en": "Snout–vent length",
+          "zh": "吻肛长"
+        },
+        "value": {
+          "en": "About 9 cm",
+          "zh": "约9厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Specialized diet",
+          "zh": "特化食性"
+        },
+        "value": {
+          "en": "Mostly ants",
+          "zh": "主要为蚂蚁"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "range",
+        "label": {
+          "en": "Native range",
+          "zh": "原生分布"
+        },
+        "value": {
+          "en": "Arid inland Australia",
+          "zh": "澳大利亚干旱内陆"
+        },
+        "source_keys": [
+          "range"
+        ]
+      },
+      {
+        "key": "water",
+        "label": {
+          "en": "Water collection",
+          "zh": "集水方式"
+        },
+        "value": {
+          "en": "Skin grooves channel moisture to the mouth",
+          "zh": "皮肤沟槽把水分导向嘴部"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Females lay eggs in a carefully dug burrow during the warmer part of the year. Young hatch as miniature spiny lizards and receive no prolonged parental care; growth and activity track temperature and ant availability.",
+      "zh": "雌性在一年较温暖的时期，把卵产入精心挖掘的洞中。幼体孵化时已是微型多刺蜥蜴，不接受长期亲代照护；生长和活动随温度及蚂蚁供应变化。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Capillary skin channels",
+          "zh": "毛细集水沟"
+        },
+        "detail": {
+          "en": "Microscopic grooves between scales transport water across the body surface toward the corners of the mouth.",
+          "zh": "鳞片间的微细沟槽通过毛细作用，把体表水分输送到口角。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Spiny armor",
+          "zh": "棘刺护甲"
+        },
+        "detail": {
+          "en": "Conical scales enlarge the outline and make the lizard difficult and uncomfortable to swallow.",
+          "zh": "锥形鳞棘扩大身体轮廓，使捕食者难以吞咽。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "False head",
+          "zh": "假头结构"
+        },
+        "detail": {
+          "en": "When threatened, the lizard lowers its real head and presents a spiny knob on the neck.",
+          "zh": "受威胁时，它低下真头，把颈后的多刺瘤状结构朝向敌害。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "By consuming large numbers of ants, the Thorny Devil is a specialized predator in arid food webs. It is also prey for large reptiles and birds despite its formidable spines.",
+      "zh": "澳洲魔蜥大量捕食蚂蚁，是干旱食物网中的特化捕食者；尽管棘刺醒目，它仍会成为大型爬行动物和鸟类的猎物。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "stable",
+      "threats": {
+        "en": "Globally assessed as Least Concern and widespread, but local road mortality, altered fire regimes, habitat disturbance and collection can affect populations. Climate change may alter heat and prey conditions.",
+        "zh": "全球评估为无危且分布广，但道路致死、火管理改变、生境扰动和捕捉可影响局地种群；气候变化也可能改变热环境和猎物条件。"
+      },
+      "actions": {
+        "en": "Retain intact desert vegetation and natural ant communities, manage fire as a habitat mosaic, reduce vehicle strikes on desert roads and prohibit unauthorized collection.",
+        "zh": "应保留完整荒漠植被和天然蚁群，以生境镶嵌方式管理火，减少荒漠道路撞击，并禁止未经许可的捕捉。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A squat lizard densely covered with sharp conical spines, with a small real head, a conspicuous spiny knob behind it, a banded body and a curved tail.",
+        "zh": "体形低矮、全身密布尖锐锥形棘刺，真头较小，头后有醒目的多刺瘤，身体带纹，尾部弯曲。"
+      },
+      "similar_species": {
+        "en": "Other Australian dragons can be rough-scaled, but none combines dense bodywide spines, the neck false head and this very short broad form. Photos must show the full dorsal outline, not only a spiny skin close-up.",
+        "zh": "其他澳洲鬣蜥也可能鳞片粗糙，但没有哪种同时具有全身密棘、颈部假头和如此短宽的体形。照片必须显示完整背部轮廓，不能只靠多刺皮肤特写。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Vision guides ant hunting and predator detection. Chemical cues sampled by the tongue help investigate the ground, while skin channels collect water rather than acting as sensory organs.",
+      "zh": "视觉用于捕蚁和发现捕食者；舌取样的化学线索帮助检查地面。皮肤沟槽负责集水，并不是感觉器官。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Activity is greatest under suitable spring and autumn temperatures. Individuals may shelter during severe summer heat and winter cold, and reproduction is tied to the warm season.",
+      "zh": "春秋温度适宜时活动较多；盛夏酷热和冬季寒冷时会躲藏，繁殖与温暖季节相联系。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "It is harmless to people and should not be handled or removed from the desert. Slow movement makes it vulnerable on roads, so drivers in arid regions should give it time to cross.",
+      "zh": "它对人无害，不应触摸或带离荒漠。行动缓慢使它容易在道路上受害，干旱区驾驶者应留出足够时间让其通过。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Thorny Devil belongs to genus Moloch, family Agamidae, order Squamata. This record uses the accepted species-level binomial Moloch horridus; facts and images are not transferred from close relatives.",
+      "zh": "澳洲魔蜥归入魔蜥属、鬣蜥科、有鳞目。本条目采用接受的物种级二名法Moloch horridus；不会从近缘种移用事实或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Look for tiny paired tracks and a tail trace on open sand near ant trails. The lizard may rock forward and backward before moving and can be nearly invisible when its colors match the substrate.",
+      "zh": "可在蚁路附近开阔沙地寻找细小成对足迹和尾痕。它移动前可能前后摇摆，体色与底质一致时几乎难以发现。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Water can travel between its scales from a wet foot or belly to the mouth.",
+          "zh": "水可从湿润的足或腹部沿鳞间沟槽输送到嘴边。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The large knob behind the head functions as a false head during defense.",
+          "zh": "头后的大型瘤状结构在防御时充当“假头”。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its genus contains only this one described living species.",
+          "zh": "魔蜥属目前只包含这一种已描述的现生物种。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Desert water harvesting",
+          "zh": "荒漠集水"
+        },
+        "content": {
+          "en": "The lizard does not literally drink through intact skin. Surface tension moves water through channels between scales until droplets reach the mouth and are swallowed.",
+          "zh": "它并非让水直接穿过完整皮肤进入体内；表面张力使水沿鳞间沟槽移动，到达口部后才被吞咽。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Endemic to arid and semi-arid inland Australia, from western Queensland through the Northern Territory and South Australia across much of Western Australia. It occupies sandy plains, dunes, spinifex and dry scrub.",
+    "text_zh": "特有于澳大利亚内陆干旱和半干旱区，从昆士兰西部经北领地、南澳大利亚延伸到西澳大利亚大部，栖息于沙原、沙丘、三齿稃草地和干灌丛。",
+    "map_coordinates": [
+      -25,
+      128
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          -18,
+          114
+        ],
+        [
+          -17,
+          138
+        ],
+        [
+          -24,
+          145
+        ],
+        [
+          -33,
+          139
+        ],
+        [
+          -35,
+          117
+        ],
+        [
+          -27,
+          112
+        ],
+        [
+          -18,
+          114
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional distribution evidence for readable map display; boundaries are approximate and never imply continuous occupancy.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布证据作保守概化，以便地图清晰呈现；边界为近似范围，绝不表示圈内连续分布。",
+      "checked_at": "2026-11-12"
+    }
+  },
+  "image": "/images/animals/thorny-devil.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/2466435",
+      "checked_at": "2026-11-12"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through GBIF",
+      "url": "https://api.gbif.org/v1/species/2466435/iucnRedListCategory",
+      "checked_at": "2026-11-12"
+    },
+    "general": {
+      "authority": "Australian Museum",
+      "url": "https://australian.museum/publications/surviving-australia/red-centre/",
+      "checked_at": "2026-11-12"
+    },
+    "ecology": {
+      "authority": "Australian Museum",
+      "url": "https://australian.museum/publications/surviving-australia/red-centre/",
+      "checked_at": "2026-11-12"
+    },
+    "range": {
+      "authority": "Australian Museum species account",
+      "url": "https://media.australian.museum/media/dd/documents/AMS389_26_06_1999_LowRes.0c37c22.pdf",
+      "checked_at": "2026-11-12"
+    }
+  }
+}

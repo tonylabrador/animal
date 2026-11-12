@@ -1,0 +1,430 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-11-12",
+    "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+    "notes": "Every English and Chinese section was compared line by line. Accepted species identity, IUCN scope, numeric claims, map generalization and look-alike image risks were checked against the cited sources. Generalized polygons do not imply continuous occupancy."
+  },
+  "id": "helmeted-hornbill",
+  "name_zh": "盔犀鸟",
+  "name_en": "Helmeted Hornbill",
+  "scientific_name": "Rhinoplax vigil",
+  "ui_tags": [
+    "Bird",
+    "Forest",
+    "Frugivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Aves",
+      "zh": "鸟纲"
+    },
+    "order": {
+      "en": "Bucerotiformes",
+      "zh": "犀鸟目"
+    },
+    "family": {
+      "en": "Bucerotidae",
+      "zh": "犀鸟科"
+    },
+    "genus": {
+      "en": "Rhinoplax",
+      "zh": "盔犀鸟属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危",
+    "note_en": "The species-level global category checked on 2026-11-12 is Critically Endangered; regional and legal listings may differ.",
+    "note_zh": "已于2026-11-12核对物种级全球等级为极危；地区和法律名录可能不同。"
+  },
+  "description": {
+    "en": "The Helmeted Hornbill is a large Sundaic rainforest bird with a solid casque forming a helmet above the bill. It feeds heavily on fruit, nests in tree cavities and is now Critically Endangered because its casque is illegally carved and traded.",
+    "zh": "盔犀鸟是巽他地区雨林中的大型鸟，喙上方有形成头盔状的实心盔突。它大量取食果实，在树洞繁殖；由于盔突遭非法雕刻和贸易，现已极危。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults have a long bill topped by a solid red-and-yellow casque, dark plumage, a bare wrinkled throat and extremely long central tail feathers. Males and females differ in throat color, and the solid casque is heavier than the hollow casques of most hornbills.",
+      "zh": "成鸟具有长喙和红黄相间的实心盔突，羽色深，喉部裸露起皱，中央尾羽极长。雌雄喉部颜色不同；与多数犀鸟的中空盔突相比，它的实心盔突更重。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Pairs travel through mature lowland forest seeking figs and other fruits, while also taking small animals. They help disperse large seeds over long distances and require large old trees both for food and nesting cavities.",
+      "zh": "配偶在成熟低地森林中寻找榕果等果实，也会捕食小动物。它们能远距离传播大型种子，并依赖大型老树提供食物和巢洞。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Native to remaining lowland rainforests of the Malay Peninsula, Sumatra and Borneo, with records from southern Thailand, Peninsular Malaysia, Brunei and Indonesia. It depends on extensive mature forest and large cavity-bearing trees.",
+      "zh": "原生于马来半岛、苏门答腊和婆罗洲残存低地雨林，记录分布于泰国南部、马来西亚半岛、文莱和印度尼西亚。它依赖广阔成熟森林及具有大洞穴的老树。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "status",
+        "label": {
+          "en": "Global status",
+          "zh": "全球等级"
+        },
+        "value": {
+          "en": "Critically Endangered",
+          "zh": "极危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      },
+      {
+        "key": "diet",
+        "label": {
+          "en": "Main diet",
+          "zh": "主要食物"
+        },
+        "value": {
+          "en": "Fruit, especially figs",
+          "zh": "果实，尤其榕果"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "nest",
+        "label": {
+          "en": "Nest",
+          "zh": "巢址"
+        },
+        "value": {
+          "en": "Natural cavity in a large tree",
+          "zh": "大型树木的天然洞穴"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "range",
+        "label": {
+          "en": "Native range",
+          "zh": "原生分布"
+        },
+        "value": {
+          "en": "Malay Peninsula, Sumatra and Borneo",
+          "zh": "马来半岛、苏门答腊和婆罗洲"
+        },
+        "source_keys": [
+          "range"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "A female seals herself inside a large tree cavity, leaving a narrow slit through which the male delivers food. She incubates and guards the young inside; the breeding cycle therefore depends on a reliable male and an old tree with a suitable cavity.",
+      "zh": "雌鸟把自己封在大型树洞内，只留下窄缝，由雄鸟递送食物。雌鸟在洞中孵卵并守护幼鸟，因此整个繁殖周期同时依赖可靠的雄鸟和具合适洞穴的老树。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Solid casque",
+          "zh": "实心盔突"
+        },
+        "detail": {
+          "en": "The unusually solid casque reinforces the head and is used in aerial head-to-head contests.",
+          "zh": "异常坚实的盔突加固头部，并用于空中头对头争斗。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Long fruit-handling bill",
+          "zh": "长喙取果"
+        },
+        "detail": {
+          "en": "The bill reaches fruit on fine branches and tosses food toward the throat.",
+          "zh": "长喙可够到细枝上的果实，并把食物抛向咽部。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Long-distance flight",
+          "zh": "长距离飞行"
+        },
+        "detail": {
+          "en": "Broad forest movements connect separated fruiting trees and transport seeds away from parent plants.",
+          "zh": "广范围森林活动连接分散的结果树，并把种子带离母株。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "It is an important large-seed disperser in Southeast Asian rainforest. By swallowing fruit and moving between trees, it helps regenerate forest plants that smaller birds may be unable to transport.",
+      "zh": "它是东南亚雨林重要的大种子传播者。通过吞食果实并在树木之间移动，它帮助更新小型鸟类难以搬运种子的森林植物。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "The species is Critically Endangered and declining. Poachers kill birds for the solid casque, sold as 'hornbill ivory', while logging removes feeding trees and scarce nest cavities.",
+        "zh": "该物种极危且持续下降。盗猎者为获取被称作“犀鸟象牙”的实心盔突而猎杀它们，伐木又移除食物树和稀缺巢洞。"
+      },
+      "actions": {
+        "en": "Stop poaching and trafficking, protect safe breeding forests, retain old cavity trees, monitor nests and trade routes, and support Indigenous and local community guardians across every range country.",
+        "zh": "应打击盗猎和走私，保护安全繁殖森林，保留老龄洞穴树，监测巢穴及贸易路线，并在所有分布国支持原住民和当地社区守护者。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A huge dark hornbill with a long red-and-yellow bill, a high solid casque, bare colored throat skin and a white tail crossed by a broad dark band; central tail feathers extend far beyond the rest.",
+        "zh": "大型深色犀鸟，具有红黄长喙、高而实的盔突、彩色裸露喉皮；白尾有宽黑带，中央尾羽远长于其余尾羽。"
+      },
+      "similar_species": {
+        "en": "Other Asian hornbills have hollower, differently shaped casques and lack the same combination of a solid red casque and very long central tail feathers. Images must show the head and tail, not just a generic hornbill silhouette.",
+        "zh": "其他亚洲犀鸟的盔突更中空且形状不同，也缺少实心红色盔突与超长中央尾羽的组合。照片必须看清头和尾，不能只凭普通犀鸟轮廓判断。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Strong vision locates ripe fruit across the canopy. Its far-carrying, accelerating call is audible through dense forest and helps pairs maintain contact and defend space.",
+      "zh": "敏锐视觉用于在树冠中寻找成熟果实；不断加速、传播很远的叫声可穿透密林，帮助配偶联络和维护空间。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Breeding timing follows regional fruit supply and suitable weather rather than one universal month. Nest occupancy lasts for months, making a breeding pair vulnerable when food near the cavity fails.",
+      "zh": "繁殖时间随地区果实供应和适宜天气变化，并非统一月份。占巢持续数月，因此巢洞附近食物不足会使繁殖配偶格外脆弱。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The casque has long cultural significance, but present commercial demand drives lethal illegal trade. Observation should support protected forests and never reveal active nest locations publicly.",
+      "zh": "盔突长期具有文化意义，但当代商业需求推动致命非法贸易。观鸟应支持受保护森林，绝不能公开活动巢穴的精确位置。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Helmeted Hornbill belongs to genus Rhinoplax, family Bucerotidae, order Bucerotiformes. This record uses the accepted species-level binomial Rhinoplax vigil; facts and images are not transferred from close relatives.",
+      "zh": "盔犀鸟归入盔犀鸟属、犀鸟科、犀鸟目。本条目采用接受的物种级二名法Rhinoplax vigil；不会从近缘种移用事实或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Listen for a loud accelerating series often compared with laughter, then look high above the canopy for a long-tailed silhouette. Fallen large-fruit remains and nest activity should be recorded without approaching the tree.",
+      "zh": "先听取常被比作笑声、不断加速的响亮连续叫声，再在树冠上方寻找长尾轮廓。大型果实残渣和巢区活动应远距离记录，不应接近巢树。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "Unlike the hollow casque of most hornbills, its casque is largely solid.",
+          "zh": "与多数犀鸟中空的盔突不同，盔犀鸟的盔突大部分为实心。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "The female walls herself into a nest cavity and depends on food passed through a slit.",
+          "zh": "雌鸟会把自己封在巢洞内，依靠雄鸟从窄缝递送食物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its solid casque has made it a target of the illegal carving trade.",
+          "zh": "实心盔突使它成为非法雕刻贸易的猎杀对象。"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Cavity nesting",
+          "zh": "树洞繁殖"
+        },
+        "content": {
+          "en": "The sealed nest protects eggs and chicks, but it also concentrates risk: loss of the male, the nest tree or nearby fruit can cause the entire breeding attempt to fail.",
+          "zh": "封闭巢洞保护卵和幼鸟，却也集中风险：若雄鸟、巢树或附近果源丧失，整次繁殖都可能失败。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Native to remaining lowland rainforests of the Malay Peninsula, Sumatra and Borneo, with records from southern Thailand, Peninsular Malaysia, Brunei and Indonesia. It depends on extensive mature forest and large cavity-bearing trees.",
+    "text_zh": "原生于马来半岛、苏门答腊和婆罗洲残存低地雨林，记录分布于泰国南部、马来西亚半岛、文莱和印度尼西亚。它依赖广阔成熟森林及具有大洞穴的老树。",
+    "map_coordinates": [
+      2,
+      112
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          6.7,
+          99.4
+        ],
+        [
+          5.8,
+          104.1
+        ],
+        [
+          1,
+          104.6
+        ],
+        [
+          1,
+          100.3
+        ],
+        [
+          6.7,
+          99.4
+        ]
+      ],
+      [
+        [
+          5.8,
+          95
+        ],
+        [
+          5.4,
+          106
+        ],
+        [
+          -5.8,
+          106
+        ],
+        [
+          -6.2,
+          98
+        ],
+        [
+          0.2,
+          95
+        ],
+        [
+          5.8,
+          95
+        ]
+      ],
+      [
+        [
+          7.2,
+          108.7
+        ],
+        [
+          7.5,
+          119.3
+        ],
+        [
+          -4.2,
+          119
+        ],
+        [
+          -4.5,
+          109
+        ],
+        [
+          7.2,
+          108.7
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional distribution evidence for readable map display; boundaries are approximate and never imply continuous occupancy.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布证据作保守概化，以便地图清晰呈现；边界为近似范围，绝不表示圈内连续分布。",
+      "checked_at": "2026-11-12"
+    }
+  },
+  "image": "/images/animals/helmeted-hornbill.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/2475951",
+      "checked_at": "2026-11-12"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through GBIF",
+      "url": "https://api.gbif.org/v1/species/2475951/iucnRedListCategory",
+      "checked_at": "2026-11-12"
+    },
+    "general": {
+      "authority": "BirdLife International",
+      "url": "https://www.birdlife.org/news/2022/08/09/protecting-hornbills-has-sweet-results-for-an-indigenous-community-in-malaysia/",
+      "checked_at": "2026-11-12"
+    },
+    "ecology": {
+      "authority": "BirdLife International",
+      "url": "https://www.birdlife.org/news/2022/08/09/protecting-hornbills-has-sweet-results-for-an-indigenous-community-in-malaysia/",
+      "checked_at": "2026-11-12"
+    },
+    "range": {
+      "authority": "BirdLife International, State of the World's Birds",
+      "url": "https://www.birdlife.org/wp-content/uploads/2022/09/SOWB2022_EN_compressed.pdf",
+      "checked_at": "2026-11-12"
+    }
+  }
+}

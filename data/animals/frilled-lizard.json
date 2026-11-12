@@ -1,0 +1,408 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-11-12",
+    "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+    "notes": "Every English and Chinese section was compared line by line. Accepted species identity, IUCN scope, numeric claims, map generalization and look-alike image risks were checked against the cited sources. Generalized polygons do not imply continuous occupancy."
+  },
+  "id": "frilled-lizard",
+  "name_zh": "领圈蜥",
+  "name_en": "Frilled Lizard",
+  "scientific_name": "Chlamydosaurus kingii",
+  "ui_tags": [
+    "Reptile",
+    "Forest",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Reptilia",
+      "zh": "爬行纲"
+    },
+    "order": {
+      "en": "Squamata",
+      "zh": "有鳞目"
+    },
+    "family": {
+      "en": "Agamidae",
+      "zh": "鬣蜥科"
+    },
+    "genus": {
+      "en": "Chlamydosaurus",
+      "zh": "领圈蜥属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The species-level global category checked on 2026-11-12 is Least Concern; regional and legal listings may differ.",
+    "note_zh": "已于2026-11-12核对物种级全球等级为无危；地区和法律名录可能不同。"
+  },
+  "description": {
+    "en": "The Frilled Lizard is a large arboreal dragon of northern Australia and southern New Guinea. Its folded neck skin can spring open into a broad colorful disk, making the lizard appear much larger when cornered.",
+    "zh": "领圈蜥是澳大利亚北部和新几内亚南部的大型树栖鬣蜥。颈部折叠皮膜在受困时可迅速张成宽阔彩色圆盘，使身体显得大得多。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults reach up to about 30 cm snout–vent length and have a very long tail. The frill can spread to about 20–25 cm across; long limbs, curved claws and a laterally compressed body suit climbing and rapid bipedal running.",
+      "zh": "成体吻肛长可达约30厘米，尾很长。颈褶展开直径约20–25厘米；长肢、弯爪和侧扁身体适合攀树及快速双足奔跑。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "This diurnal sit-and-wait predator spends much of its time on tree trunks and branches. It descends to catch insects, spiders and occasional small vertebrates, interact with other lizards or move between trees.",
+      "zh": "这种昼行伏击捕食者大部分时间停在树干和树枝上，会下地捕捉昆虫、蜘蛛和偶尔的小型脊椎动物，与同类互动或转移到其他树。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Native to tropical northern Australia from the Kimberley through the Top End to Cape York and eastern Queensland, and to southern New Guinea. It uses open woodland, savanna and forest edges with climbable trees.",
+      "zh": "原生于澳大利亚热带北部，从金伯利经北领地顶端至约克角和昆士兰东部，也见于新几内亚南部。它利用具有可攀树木的疏林、稀树草原和林缘。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "maximum_svl",
+        "label": {
+          "en": "Maximum snout–vent length",
+          "zh": "最大吻肛长"
+        },
+        "value": {
+          "en": "About 30 cm",
+          "zh": "约30厘米"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "frill_width",
+        "label": {
+          "en": "Expanded frill width",
+          "zh": "展开颈褶宽度"
+        },
+        "value": {
+          "en": "About 20–25 cm",
+          "zh": "约20–25厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "clutch",
+        "label": {
+          "en": "Clutch size",
+          "zh": "每窝卵数"
+        },
+        "value": {
+          "en": "About 4–13 eggs",
+          "zh": "约4–13枚卵"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "activity",
+        "label": {
+          "en": "Activity",
+          "zh": "活动时间"
+        },
+        "value": {
+          "en": "Diurnal",
+          "zh": "昼行"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Females dig a nest in soil during the wet season and lay about 4–13 parchment-shelled eggs. Incubation lasts roughly 2 months in reported observations, and hatchlings emerge independent with a small but functional frill.",
+      "zh": "雌性在湿季挖土筑巢，产约4–13枚革质卵。已有观察中孵化约需2个月，幼体出壳即独立，并具有较小但可用的颈褶。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Expandable frill",
+          "zh": "可展开颈褶"
+        },
+        "detail": {
+          "en": "Elongated hyoid supports spread folded skin into a sudden high-contrast threat display.",
+          "zh": "延长的舌骨支架把折叠皮肤撑开，形成突然出现的高对比威吓展示。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Bipedal sprint",
+          "zh": "双足冲刺"
+        },
+        "detail": {
+          "en": "Long hindlimbs and tail balance allow rapid escape toward the nearest trunk.",
+          "zh": "长后肢和尾部平衡使其能快速奔向最近树干。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Tree-trunk camouflage",
+          "zh": "树干伪装"
+        },
+        "detail": {
+          "en": "Mottled gray-brown colors and a flattened resting posture merge with bark.",
+          "zh": "斑驳灰褐色和贴伏休息姿态可融入树皮。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "It is a predator of forest and savanna arthropods and an occasional consumer of small vertebrates. Eggs, juveniles and adults in turn feed snakes, raptors and other predators.",
+      "zh": "它捕食森林与稀树草原节肢动物，也偶尔吃小型脊椎动物；卵、幼体和成体又成为蛇、猛禽等捕食者的食物。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "stable",
+      "threats": {
+        "en": "Globally assessed as Least Concern with a broadly stable population. Local clearing, altered fire, road mortality, feral predators and illegal collection can still reduce populations.",
+        "zh": "全球评估为无危，种群总体稳定；但局地清林、火管理改变、道路致死、野化捕食者和非法捕捉仍会减少种群。"
+      },
+      "actions": {
+        "en": "Retain connected wooded savanna and mature trees, manage fire mosaics, reduce road kills and require legal traceable trade. Protect both canopy refuges and ground nesting sites.",
+        "zh": "应保留连通的林木稀树草原和成熟树木，采用镶嵌式火管理，减少道路撞击并要求贸易合法可追溯，同时保护树冠庇护处和地面巢址。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A large long-tailed dragon with an enormous pleated neck frill that opens into a nearly circular disk. At rest the folded frill lies along the neck; the body lacks a high dorsal sail.",
+        "zh": "大型长尾鬣蜥，颈部巨大褶皱皮膜可张成近圆盘；休息时颈褶贴在颈侧，背部没有高耸帆状脊。"
+      },
+      "similar_species": {
+        "en": "Bearded dragons expand the throat but cannot form a full circular frill. Forest dragons have dorsal crests and different head shape. Exact images should show the true pleated neck structure and range-consistent locality.",
+        "zh": "鬃狮蜥会膨胀喉部，却不能形成完整圆形颈褶；森林龙蜥有背脊且头形不同。准确图片应显示真正的褶皱颈部结构和符合分布的地点。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Vision detects prey and rivals in daylight. The frill, open yellow mouth, body sway and hissing combine visual and acoustic warnings; chemical cues are sampled with the tongue.",
+      "zh": "视觉在白天发现猎物和同类；张开的颈褶、黄色口腔、身体摇摆和嘶声组合成视听警告，舌则采样化学线索。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Wet-season rain brings more prey and nesting. Females lay mainly from December (month 12) to February (month 2) in northern Australian reports, while dry-season activity and body condition are lower.",
+      "zh": "湿季降雨带来更多猎物和筑巢机会。澳大利亚北部记录中，雌性主要从12月（December）至2月（February）产卵；干季活动和体况较低。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "The display is defensive, not an invitation to approach. Give a threatened lizard an open route to a tree, avoid chasing it into repeated displays and never remove it from the wild.",
+      "zh": "颈褶展示是防御，不是允许靠近。应给受威胁个体留下通往树木的路线，不要追赶迫使它反复展示，也绝不能带离野外。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Frilled Lizard belongs to genus Chlamydosaurus, family Agamidae, order Squamata. This record uses the accepted species-level binomial Chlamydosaurus kingii; facts and images are not transferred from close relatives.",
+      "zh": "领圈蜥归入领圈蜥属、鬣蜥科、有鳞目。本条目采用接受的物种级二名法Chlamydosaurus kingii；不会从近缘种移用事实或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Scan sunlit trunks for a flattened gray-brown lizard. On the ground it may run upright with forelimbs raised; a cornered animal faces the observer, opens its frill and mouth, and hisses.",
+      "zh": "可在阳光照射的树干上寻找贴伏的灰褐蜥蜴。地面逃跑时可能抬起前肢直立奔跑；受困个体会面向观察者张开颈褶和嘴并嘶叫。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "The frill is supported by elongated hyoid bones like the ribs of an umbrella.",
+          "zh": "颈褶由延长舌骨支撑，像雨伞的伞骨。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "It can sprint on its hind legs toward a tree when threatened.",
+          "zh": "受威胁时它能以后腿直立冲向树木。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "At rest the spectacular frill folds neatly against the neck.",
+          "zh": "休息时壮观颈褶会整齐折叠在颈侧。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Thermoregulation and display",
+          "zh": "体温调节与展示"
+        },
+        "content": {
+          "en": "A tree trunk offers sun, shade and escape routes. The frill mainly enlarges the threat display, while posture and movement between exposed and shaded perches regulate body temperature.",
+          "zh": "树干同时提供阳光、阴影和逃生路线。颈褶主要用于扩大威吓展示，个体则靠姿态及在暴露与阴凉栖木间移动调节体温。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Native to tropical northern Australia from the Kimberley through the Top End to Cape York and eastern Queensland, and to southern New Guinea. It uses open woodland, savanna and forest edges with climbable trees.",
+    "text_zh": "原生于澳大利亚热带北部，从金伯利经北领地顶端至约克角和昆士兰东部，也见于新几内亚南部。它利用具有可攀树木的疏林、稀树草原和林缘。",
+    "map_coordinates": [
+      -13,
+      135
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          -10,
+          122
+        ],
+        [
+          -10,
+          143
+        ],
+        [
+          -19,
+          146
+        ],
+        [
+          -23,
+          137
+        ],
+        [
+          -18,
+          122
+        ],
+        [
+          -10,
+          122
+        ]
+      ],
+      [
+        [
+          -6,
+          138
+        ],
+        [
+          -7,
+          151
+        ],
+        [
+          -12,
+          151
+        ],
+        [
+          -12,
+          138
+        ],
+        [
+          -6,
+          138
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional distribution evidence for readable map display; boundaries are approximate and never imply continuous occupancy.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布证据作保守概化，以便地图清晰呈现；边界为近似范围，绝不表示圈内连续分布。",
+      "checked_at": "2026-11-12"
+    }
+  },
+  "image": "/images/animals/frilled-lizard.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/2466087",
+      "checked_at": "2026-11-12"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through GBIF",
+      "url": "https://api.gbif.org/v1/species/2466087/iucnRedListCategory",
+      "checked_at": "2026-11-12"
+    },
+    "general": {
+      "authority": "Australian Museum",
+      "url": "https://museum-publications.australian.museum/aus-nat-hist-1983-v21-iss3/",
+      "checked_at": "2026-11-12"
+    },
+    "ecology": {
+      "authority": "Australian Museum Technical Report",
+      "url": "https://journals.australian.museum/media/Uploads/Journals/17760/72_complete.pdf",
+      "checked_at": "2026-11-12"
+    },
+    "range": {
+      "authority": "Australian Museum",
+      "url": "https://museum-publications.australian.museum/media/dd/Uploads/Documents/38310/ANH_vXXI_03_lowres.8438900.pdf",
+      "checked_at": "2026-11-12"
+    }
+  }
+}

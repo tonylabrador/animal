@@ -1,0 +1,390 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-11-12",
+    "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+    "notes": "Every English and Chinese section was compared line by line. Accepted species identity, IUCN scope, numeric claims, map generalization and look-alike image risks were checked against the cited sources. Generalized polygons do not imply continuous occupancy."
+  },
+  "id": "southern-aardwolf",
+  "name_zh": "南方土狼",
+  "name_en": "Southern Aardwolf",
+  "scientific_name": "Proteles cristatus",
+  "ui_tags": [
+    "Mammal",
+    "Grassland",
+    "Insectivore"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Chordata",
+      "zh": "脊索动物门"
+    },
+    "class": {
+      "en": "Mammalia",
+      "zh": "哺乳纲"
+    },
+    "order": {
+      "en": "Carnivora",
+      "zh": "食肉目"
+    },
+    "family": {
+      "en": "Hyaenidae",
+      "zh": "鬣狗科"
+    },
+    "genus": {
+      "en": "Proteles",
+      "zh": "土狼属"
+    }
+  },
+  "conservation_status": {
+    "code": "LC",
+    "en": "Least Concern",
+    "zh": "无危",
+    "note_en": "The species-level global category checked on 2026-11-12 is Least Concern; regional and legal listings may differ.",
+    "note_zh": "已于2026-11-12核对物种级全球等级为无危；地区和法律名录可能不同。"
+  },
+  "description": {
+    "en": "The Southern Aardwolf is a small striped member of the hyena family that feeds mainly on termites rather than large prey. It forages at night on southern African grasslands, licking insects from the ground with a broad sticky tongue.",
+    "zh": "南方土狼是鬣狗科的小型条纹成员，主要吃白蚁而不是大型猎物。它夜间在非洲南部草地觅食，用宽而黏的舌把昆虫从地面舔起。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Adults are about 85–105 cm in total length and 8–14 kg. They have long pointed ears, a sloping back, narrow muzzle, reduced cheek teeth, dark leg bands and a mane that rises from neck to tail when threatened.",
+      "zh": "成体全长约85–105厘米、体重8–14千克。它具有长尖耳、倾斜背线、窄吻、退化颊齿、深色腿纹和从颈延伸到尾的鬃毛，受威胁时会竖起。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Aardwolves are mainly nocturnal, territorial and solitary foragers, although a pair may share a territory and care for cubs. They specialize on surface-active harvester termites and shelter by day in burrows.",
+      "zh": "土狼主要夜行、具领地性并独自觅食，但配偶可能共享领地并共同照护幼仔。它专食地表活动的收获白蚁，白天躲在洞穴中。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Occurs in southern African grasslands and open scrub from Angola and Zambia south through Namibia, Botswana, Zimbabwe, Mozambique, Eswatini and South Africa. It favors dry open country with suitable termites and avoids dense forest and true desert.",
+      "zh": "分布于非洲南部草地和开阔灌丛，从安哥拉、赞比亚向南延伸至纳米比亚、博茨瓦纳、津巴布韦、莫桑比克、斯威士兰和南非。它偏好有合适白蚁的干燥开阔地，避开密林和真正荒漠。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "total_length",
+        "label": {
+          "en": "Total length",
+          "zh": "全长"
+        },
+        "value": {
+          "en": "About 85–105 cm",
+          "zh": "约85–105厘米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "body_mass",
+        "label": {
+          "en": "Body mass",
+          "zh": "体重"
+        },
+        "value": {
+          "en": "About 8–14 kg",
+          "zh": "约8–14千克"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "gestation",
+        "label": {
+          "en": "Gestation",
+          "zh": "妊娠期"
+        },
+        "value": {
+          "en": "About 90 days",
+          "zh": "约90天"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "litter",
+        "label": {
+          "en": "Typical litter",
+          "zh": "常见胎仔数"
+        },
+        "value": {
+          "en": "2–5 cubs",
+          "zh": "2–5仔"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Breeding is seasonal within each region. Pregnancy lasts about 90 days and females bear 2–5 cubs in a den. Both parents can guard the young; cubs begin independent foraging gradually and may remain associated with the family for close to 1 year.",
+      "zh": "各地区繁殖具有季节性。妊娠约90天，雌兽在洞中产2–5仔。双亲都可守护幼仔；幼仔逐步开始独立觅食，可能与家庭保持联系接近1年。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Sticky termite tongue",
+          "zh": "黏性食蚁舌"
+        },
+        "detail": {
+          "en": "A broad sticky tongue rapidly gathers thousands of surface-active termites without destroying the mound.",
+          "zh": "宽而黏的舌能迅速收集成千上万只地表白蚁，而不必破坏蚁丘。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Reduced grinding teeth",
+          "zh": "退化研磨齿"
+        },
+        "detail": {
+          "en": "A soft insect diet permits smaller cheek teeth than in bone-cracking hyenas.",
+          "zh": "柔软昆虫食物使它的颊齿比碎骨鬣狗更小。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Erectable mane",
+          "zh": "可竖鬃毛"
+        },
+        "detail": {
+          "en": "Raised mane hair makes the slender animal appear much larger during a threat display.",
+          "zh": "竖起的鬃毛使纤细身体在威吓时显得大得多。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Aardwolves are major predators of harvester termites while disturbing soil far less than mound-breaking predators. Their dens and middens also create localized nutrient and shelter sites.",
+      "zh": "土狼是收获白蚁的重要捕食者，却比破坏蚁丘的捕食者更少扰动土壤。其洞穴和公共粪坑也形成局部营养及庇护点。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "stable",
+      "threats": {
+        "en": "Globally Least Concern with a generally stable population, but individuals are killed on roads or persecuted when mistaken for livestock predators. Local poisoning, dog attacks and grassland conversion also cause mortality.",
+        "zh": "全球为无危，种群总体稳定，但个体会死于道路，或因被误认为捕食家畜而遭杀害。局地投毒、犬攻击和草地转变也会造成死亡。"
+      },
+      "actions": {
+        "en": "Maintain termite-rich native grassland, prevent indiscriminate poisoning, reduce night-time road mortality and teach livestock owners that aardwolves eat insects and do not hunt healthy stock.",
+        "zh": "应维持富含白蚁的天然草地，避免无差别投毒，减少夜间道路致死，并向畜主说明土狼吃昆虫，不会捕猎健康家畜。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "A small slender hyena relative with large pointed ears, vertical dark body stripes, black lower legs, a sloping back and a long mane. It has a finer muzzle and lighter build than striped hyenas.",
+        "zh": "小型纤细的鬣狗近亲，具有大尖耳、垂直深色体纹、黑色小腿、倾斜背线和长鬃；吻部比条纹鬣狗更细，体形也更轻。"
+      },
+      "similar_species": {
+        "en": "Striped and brown hyenas are much heavier with stronger heads and broader jaws. Jackals lack the Aardwolf's long continuous dorsal mane and regular vertical trunk stripes.",
+        "zh": "条纹鬣狗和棕鬣狗体重更大，头更强壮、颌更宽；胡狼缺少土狼连续长背鬃和规则垂直躯干纹。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Hearing and vision help locate termites moving above ground at night. Anal-gland scent marks define territories, and vocal sounds are used mainly during alarm or conflict.",
+      "zh": "听觉和视觉帮助发现夜间在地面活动的白蚁。肛腺气味标记领地，声音主要用于警报或冲突。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Foraging shifts with termite activity: different termite groups dominate warm and cool periods. Winter activity may begin before darkness, while reproduction follows local seasonal cycles.",
+      "zh": "觅食随白蚁活动变化，不同白蚁类群在暖期和凉期占优势。冬季活动可能在天黑前开始，繁殖则遵循当地季节周期。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Aardwolves benefit rangelands by consuming termites and are not livestock killers. People should avoid blocking active dens and should report rather than persecute striped animals near farms.",
+      "zh": "土狼通过捕食白蚁有益牧场，并不会猎杀家畜。人们不应堵塞活动洞穴，在农场附近发现条纹个体时应报告而不是迫害。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "Southern Aardwolf belongs to genus Proteles, family Hyaenidae, order Carnivora. This record uses the accepted species-level binomial Proteles cristatus; facts and images are not transferred from close relatives.",
+      "zh": "南方土狼归入土狼属、鬣狗科、食肉目。本条目采用接受的物种级二名法Proteles cristatus；不会从近缘种移用事实或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Night surveys may find a small striped animal moving with its nose low along termite foraging lines. Dens, scent-pasted grass stems and communal dung middens are useful signs when interpreted carefully.",
+      "zh": "夜间调查可能看到小型条纹动物低头沿白蚁觅食线移动。洞穴、带肛腺气味的草茎和公共粪坑是可用迹象，但需谨慎判读。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "It is a true member of the hyena family despite its insect diet.",
+          "zh": "尽管以昆虫为食，它仍是真正的鬣狗科成员。"
+        },
+        "source_keys": [
+          "taxonomy"
+        ]
+      },
+      {
+        "text": {
+          "en": "It usually licks termites from the surface instead of breaking open the mound.",
+          "zh": "它通常从地表舔食白蚁，而不是挖开蚁丘。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Males may guard cubs while females leave the den to forage.",
+          "zh": "雌兽离洞觅食时，雄兽可能守护幼仔。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Mammalian termite specialist",
+          "zh": "哺乳类白蚁专家"
+        },
+        "content": {
+          "en": "The Aardwolf retains the body plan of a small carnivoran but has shifted toward a narrow insect diet, with a sticky tongue and reduced cheek teeth replacing the bone-cracking equipment of other hyenas.",
+          "zh": "土狼保留小型食肉目的身体结构，却转向狭窄昆虫食性，以黏舌和退化颊齿取代其他鬣狗的碎骨装备。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Occurs in southern African grasslands and open scrub from Angola and Zambia south through Namibia, Botswana, Zimbabwe, Mozambique, Eswatini and South Africa. It favors dry open country with suitable termites and avoids dense forest and true desert.",
+    "text_zh": "分布于非洲南部草地和开阔灌丛，从安哥拉、赞比亚向南延伸至纳米比亚、博茨瓦纳、津巴布韦、莫桑比克、斯威士兰和南非。它偏好有合适白蚁的干燥开阔地，避开密林和真正荒漠。",
+    "map_coordinates": [
+      -24,
+      23
+    ],
+    "map_zoom_level": 4,
+    "global_distribution_polygons": [
+      [
+        [
+          -12,
+          11
+        ],
+        [
+          -11,
+          33
+        ],
+        [
+          -23,
+          35
+        ],
+        [
+          -35,
+          27
+        ],
+        [
+          -34,
+          16
+        ],
+        [
+          -22,
+          11
+        ],
+        [
+          -12,
+          11
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional distribution evidence for readable map display; boundaries are approximate and never imply continuous occupancy.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布证据作保守概化，以便地图清晰呈现；边界为近似范围，绝不表示圈内连续分布。",
+      "checked_at": "2026-11-12"
+    }
+  },
+  "image": "/images/animals/southern-aardwolf.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "Mammal Diversity Database",
+      "url": "https://www.mammaldiversity.org/taxon/1006074/",
+      "checked_at": "2026-11-12"
+    },
+    "conservation": {
+      "authority": "Mammal Diversity Database IUCN-linked account",
+      "url": "https://www.mammaldiversity.org/taxon/1006074/",
+      "checked_at": "2026-11-12"
+    },
+    "general": {
+      "authority": "Endangered Wildlife Trust",
+      "url": "https://ewt.org/project/aardwolf/",
+      "checked_at": "2026-11-12"
+    },
+    "ecology": {
+      "authority": "Animal Diversity Web species account",
+      "url": "https://animaldiversity.org/accounts/Proteles_cristata/",
+      "checked_at": "2026-11-12"
+    },
+    "range": {
+      "authority": "Mammal Diversity Database",
+      "url": "https://www.mammaldiversity.org/taxon/1006074/",
+      "checked_at": "2026-11-12"
+    }
+  }
+}

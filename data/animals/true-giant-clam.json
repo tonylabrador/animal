@@ -1,0 +1,398 @@
+{
+  "content_version": 2,
+  "content_review": {
+    "factual_qc": "source-checked",
+    "bilingual_qc": "line-by-line-reviewed",
+    "reviewed_at": "2026-11-12",
+    "reviewer": "Codex exact-taxon source, bilingual, range and image-risk audit",
+    "notes": "Every English and Chinese section was compared line by line. Accepted species identity, IUCN scope, numeric claims, map generalization and look-alike image risks were checked against the cited sources. Generalized polygons do not imply continuous occupancy."
+  },
+  "id": "true-giant-clam",
+  "name_zh": "大砗磲",
+  "name_en": "True Giant Clam",
+  "scientific_name": "Tridacna gigas",
+  "ui_tags": [
+    "Mollusk",
+    "Coral Reef",
+    "Filter Feeder"
+  ],
+  "taxonomy": {
+    "kingdom": {
+      "en": "Animalia",
+      "zh": "动物界"
+    },
+    "phylum": {
+      "en": "Mollusca",
+      "zh": "软体动物门"
+    },
+    "class": {
+      "en": "Bivalvia",
+      "zh": "双壳纲"
+    },
+    "order": {
+      "en": "Cardiida",
+      "zh": "帘蛤目"
+    },
+    "family": {
+      "en": "Cardiidae",
+      "zh": "鸟蛤科"
+    },
+    "genus": {
+      "en": "Tridacna",
+      "zh": "砗磲属"
+    }
+  },
+  "conservation_status": {
+    "code": "CR",
+    "en": "Critically Endangered",
+    "zh": "极危",
+    "note_en": "The species-level global category checked on 2026-11-12 is Critically Endangered; regional and legal listings may differ.",
+    "note_zh": "已于2026-11-12核对物种级全球等级为极危；地区和法律名录可能不同。"
+  },
+  "description": {
+    "en": "The True Giant Clam is the world's largest living bivalve, growing beyond 1 m and 225 kg. It lives in shallow Indo-Pacific reefs, where a broad mantle houses photosynthetic symbionts while the gills also filter particles from seawater.",
+    "zh": "大砗磲是世界最大的现生双壳类，体宽可超过1米、重逾225千克。它生活在印度—太平洋浅礁，宽大外套膜容纳光合共生藻，鳃也会从海水中过滤颗粒。"
+  },
+  "encyclopedia": {
+    "anatomy": {
+      "en": "Shell length can reach about 137 cm and mass exceed 225 kg, although many individuals are smaller. The thick shell has 4–6 deep radial folds; the yellow-brown to olive mantle carries many bright blue-green rings.",
+      "zh": "壳长可达约137厘米，重量可超过225千克，但许多个体更小。厚壳具有4–6条深放射褶；黄褐至橄榄色外套膜布满亮蓝绿色环纹。",
+      "source_keys": [
+        "general"
+      ]
+    },
+    "ecology_and_behavior": {
+      "en": "Adults rest unattached on shallow reef substrate, usually within about 20 m of the surface. They combine suspension feeding with nutrients supplied by photosynthetic dinoflagellates living in mantle tissues.",
+      "zh": "成体不以足丝固定，卧于浅礁底质，通常在水面以下约20米内。它们把悬浮取食与外套膜组织中光合甲藻提供的营养结合起来。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "habitat_and_distribution": {
+      "en": "Native to shallow tropical Indo-Pacific reefs from Myanmar east to Kiribati and from the southern Ryukyus south to Queensland. Many historical populations are depleted or locally extinct, so the polygon is potential native range, not current occupancy.",
+      "zh": "原生于热带印度—太平洋浅礁，从缅甸向东至基里巴斯，从琉球南部向南至昆士兰。许多历史种群已衰退或局部灭绝，因此地图表示潜在原生范围，而非当前连续占据。",
+      "source_keys": [
+        "range"
+      ]
+    }
+  },
+  "rich_content": {
+    "quick_facts": [
+      {
+        "key": "maximum_shell_length",
+        "label": {
+          "en": "Maximum shell length",
+          "zh": "最大壳长"
+        },
+        "value": {
+          "en": "About 137 cm",
+          "zh": "约137厘米"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "maximum_mass",
+        "label": {
+          "en": "Maximum mass",
+          "zh": "最大重量"
+        },
+        "value": {
+          "en": "More than 225 kg",
+          "zh": "超过225千克"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      },
+      {
+        "key": "depth",
+        "label": {
+          "en": "Typical depth",
+          "zh": "常见水深"
+        },
+        "value": {
+          "en": "Shallower than about 20 m",
+          "zh": "浅于约20米"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "key": "status",
+        "label": {
+          "en": "Global status",
+          "zh": "全球等级"
+        },
+        "value": {
+          "en": "Critically Endangered",
+          "zh": "极危"
+        },
+        "source_keys": [
+          "conservation"
+        ]
+      }
+    ],
+    "life_cycle_and_reproduction": {
+      "en": "Adults release eggs and sperm into the water, and fertilization success drops when surviving clams are too far apart. Free-swimming larvae disperse briefly before settling; juveniles acquire photosymbionts and grow toward a long sedentary adult stage.",
+      "zh": "成体把卵和精子释放到水中，幸存个体相距过远时受精成功率会下降。自由游泳幼体短期扩散后定居；幼贝获得光合共生藻，逐渐进入长期固着式成体阶段。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "adaptations": [
+      {
+        "title": {
+          "en": "Photosymbiotic mantle",
+          "zh": "光合共生外套膜"
+        },
+        "detail": {
+          "en": "A broad light-exposed mantle houses dinoflagellates that share photosynthetic products with the clam.",
+          "zh": "宽大受光外套膜容纳甲藻，后者把光合产物与砗磲共享。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Heavy folded shell",
+          "zh": "厚重褶壳"
+        },
+        "detail": {
+          "en": "Massive valves and deep folds protect the sedentary body and maintain a broad mantle opening.",
+          "zh": "巨大的双壳和深褶保护静止身体，并维持宽阔外套膜开口。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "title": {
+          "en": "Dual feeding",
+          "zh": "双重取食"
+        },
+        "detail": {
+          "en": "Gills filter suspended food while symbionts provide additional energy from sunlight.",
+          "zh": "鳃过滤悬浮食物，共生藻则从阳光提供额外能量。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ],
+    "ecological_role": {
+      "en": "Large shells add three-dimensional structure to reefs, living tissue filters water, and photosymbiosis contributes production. After death, shells become durable habitat and carbonate material for reef communities.",
+      "zh": "大型贝壳为礁区增加三维结构，活体组织过滤海水，光合共生提升生产力；死亡后，贝壳成为持久生境和礁区碳酸盐材料。",
+      "source_keys": [
+        "ecology"
+      ]
+    },
+    "conservation_and_threats": {
+      "population_trend": "decreasing",
+      "threats": {
+        "en": "The species is Critically Endangered and decreasing. Decades of intense harvest for meat and shells have caused very low abundance and local extinction; reef degradation and low adult density further limit recovery.",
+        "zh": "该物种极危且持续下降。数十年为肉和贝壳进行的强烈采捕导致极低丰度及局部灭绝；礁区退化和成体密度过低又进一步限制恢复。"
+      },
+      "actions": {
+        "en": "Enforce harvest and trade controls, protect remnant spawning groups, restore reef habitat, use genetically managed hatchery propagation where appropriate and monitor whether reintroduced clams survive and reproduce.",
+        "zh": "应执行采捕与贸易管制，保护残存繁殖群，恢复礁区生境，在适当地区进行遗传管理的人工繁育，并监测放归个体能否存活和繁殖。"
+      },
+      "source_keys": [
+        "conservation",
+        "general",
+        "range"
+      ]
+    },
+    "identification": {
+      "key_features": {
+        "en": "An enormous free-living clam with 4–6 deep shell folds, few external scales, a yellow-brown to olive mantle and numerous bright blue-green rings, especially around mantle edges and siphons.",
+        "zh": "巨大且不以足丝固定的砗磲，壳有4–6条深褶，外部鳞片少；外套膜黄褐至橄榄色，并有大量亮蓝绿色环，尤集中于边缘和水管周围。"
+      },
+      "similar_species": {
+        "en": "Other giant clams are usually smaller or have stronger shell scales and different mantle patterns. Size alone is unsafe for juveniles; identification should combine folds, scales, byssal attachment and mantle markings.",
+        "zh": "其他砗磲通常更小，或壳鳞更强、外套膜花纹不同。幼体不能只按大小判断，应综合壳褶、鳞片、足丝附着和外套膜标记。"
+      },
+      "source_keys": [
+        "general",
+        "taxonomy",
+        "range"
+      ]
+    },
+    "communication_and_senses": {
+      "en": "Numerous light-sensitive organs in the mantle detect sudden shadows, causing rapid withdrawal and shell closure. Waterflow and chemical cues also affect filtration and spawning.",
+      "zh": "外套膜中大量感光器官可发现突然阴影，触发快速收缩和闭壳；水流及化学线索也影响过滤和排放配子。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "seasonal_calendar": {
+      "en": "Spawning timing varies among reef regions and is coordinated by environmental and chemical cues. Recovery requires enough mature adults to release gametes into the same water mass at the same time.",
+      "zh": "产卵时间随礁区而变，并由环境和化学线索协调。恢复需要足够成熟成体在同一水团、同一时间释放配子。",
+      "source_keys": [
+        "general",
+        "ecology",
+        "range"
+      ]
+    },
+    "relationship_with_humans": {
+      "en": "Giant clams are culturally and nutritionally important across the Pacific, but wild harvest has been unsustainable in many places. Legal mariculture and community-managed sanctuaries can reduce pressure only when traceable and monitored.",
+      "zh": "砗磲在太平洋地区具有文化和营养价值，但许多地方的野采不可持续。合法养殖和社区保护区只有在可追溯并持续监测时，才能降低野外压力。",
+      "source_keys": [
+        "general",
+        "conservation"
+      ]
+    },
+    "evolution": {
+      "en": "True Giant Clam belongs to genus Tridacna, family Cardiidae, order Cardiida. This record uses the accepted species-level binomial Tridacna gigas; facts and images are not transferred from close relatives.",
+      "zh": "大砗磲归入砗磲属、鸟蛤科、帘蛤目。本条目采用接受的物种级二名法Tridacna gigas；不会从近缘种移用事实或图片。",
+      "source_keys": [
+        "taxonomy"
+      ]
+    },
+    "field_signs": {
+      "en": "Divers should photograph the whole shell, mantle, siphons and attachment area without touching or forcing closure. Record shell length, depth and reef location, and distinguish restored or cultured sites from natural populations.",
+      "zh": "潜水调查应在不触摸、不迫使闭壳的情况下拍摄完整贝壳、外套膜、水管及附着区，记录壳长、水深和礁区，并区分放归、养殖与天然种群。",
+      "source_keys": [
+        "general",
+        "ecology"
+      ]
+    },
+    "did_you_know": [
+      {
+        "text": {
+          "en": "It is the largest living bivalve species.",
+          "zh": "它是最大的现生双壳类物种。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Its mantle receives energy from symbiotic algae and its gills also filter food.",
+          "zh": "其外套膜从共生藻获得能量，鳃也会过滤食物。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      },
+      {
+        "text": {
+          "en": "Very low adult density can cause fertilization failure even where a few clams remain.",
+          "zh": "即使仍有少量个体，成体密度过低也可能导致受精失败。"
+        },
+        "source_keys": [
+          "ecology"
+        ]
+      }
+    ],
+    "class_specific": [
+      {
+        "title": {
+          "en": "Bivalve photosymbiosis",
+          "zh": "双壳类光合共生"
+        },
+        "content": {
+          "en": "The clam exposes a large living mantle to sunlight. Symbiotic dinoflagellates recycle dissolved waste and export photosynthetic carbon, while the animal still pumps water across its gills.",
+          "zh": "砗磲把大面积活外套膜暴露在阳光下；共生甲藻利用溶解废物并输出光合碳，而动物仍通过鳃泵水取食。"
+        },
+        "source_keys": [
+          "general"
+        ]
+      }
+    ]
+  },
+  "habitat": {
+    "text_en": "Native to shallow tropical Indo-Pacific reefs from Myanmar east to Kiribati and from the southern Ryukyus south to Queensland. Many historical populations are depleted or locally extinct, so the polygon is potential native range, not current occupancy.",
+    "text_zh": "原生于热带印度—太平洋浅礁，从缅甸向东至基里巴斯，从琉球南部向南至昆士兰。许多历史种群已衰退或局部灭绝，因此地图表示潜在原生范围，而非当前连续占据。",
+    "map_coordinates": [
+      3,
+      135
+    ],
+    "map_zoom_level": 3,
+    "global_distribution_polygons": [
+      [
+        [
+          27,
+          97
+        ],
+        [
+          29,
+          130
+        ],
+        [
+          19,
+          146
+        ],
+        [
+          6,
+          158
+        ],
+        [
+          -12,
+          174
+        ],
+        [
+          -25,
+          154
+        ],
+        [
+          -22,
+          118
+        ],
+        [
+          -5,
+          96
+        ],
+        [
+          27,
+          97
+        ]
+      ]
+    ],
+    "range_review": {
+      "display_mode": "verified-polygon",
+      "previous_result": "not-applicable",
+      "source_keys": [
+        "range"
+      ],
+      "comparison_en": "This new record has no previous geometry. The displayed nonrectangular polygons conservatively generalize the cited institutional distribution evidence for readable map display; boundaries are approximate and never imply continuous occupancy.",
+      "comparison_zh": "这是没有旧几何的新记录。显示的非矩形多边形依据所引机构分布证据作保守概化，以便地图清晰呈现；边界为近似范围，绝不表示圈内连续分布。",
+      "checked_at": "2026-11-12"
+    }
+  },
+  "image": "/images/animals/true-giant-clam.jpg",
+  "sources": {
+    "taxonomy": {
+      "authority": "GBIF Backbone Taxonomy",
+      "url": "https://api.gbif.org/v1/species/4372619",
+      "checked_at": "2026-11-12"
+    },
+    "conservation": {
+      "authority": "IUCN Red List category linked through GBIF",
+      "url": "https://api.gbif.org/v1/species/4372619/iucnRedListCategory",
+      "checked_at": "2026-11-12"
+    },
+    "general": {
+      "authority": "NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/species/true-giant-clam/conservation-management",
+      "checked_at": "2026-11-12"
+    },
+    "ecology": {
+      "authority": "NOAA Fisheries status review",
+      "url": "https://www.fisheries.noaa.gov/s3/2024-07/StatusReview-GiantClams-508.pdf",
+      "checked_at": "2026-11-12"
+    },
+    "range": {
+      "authority": "NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/species/true-giant-clam/conservation-management",
+      "checked_at": "2026-11-12"
+    }
+  }
+}
